@@ -86,9 +86,13 @@ def entry_text(entry) -> str:
     return " ".join(parts).lower()
 
 
-def is_blacklisted(entry) -> bool:
+def is_blacklisted(entry) -> tuple[bool, str]:
+    """Вяртае (заблакавана, слова-прычына)."""
     text = entry_text(entry)
-    return any(kw.lower() in text for kw in BLACKLIST_TOPICS)
+    for kw in BLACKLIST_TOPICS:
+        if kw.lower() in text:
+            return True, kw
+    return False, ""
 
 
 def priority_score(entry) -> int:
@@ -212,8 +216,9 @@ def main():
             if fp in seen:
                 continue
             seen.add(fp)
-            if is_blacklisted(entry):
-                log.info("🚫 Заблакавана: %s", getattr(entry, "title", "(без назвы)"))
+            blocked, kw = is_blacklisted(entry)
+            if blocked:
+                log.info("🚫 Заблакавана [%s]: %s", kw, getattr(entry, "title", "(без назвы)"))
                 continue
             all_entries.append(entry)
 
