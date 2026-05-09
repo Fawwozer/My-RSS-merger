@@ -213,7 +213,7 @@ def main():
                 continue
             seen.add(fp)
             if is_blacklisted(entry):
-                log.debug("Заблакавана: %s", getattr(entry, "title", ""))
+                log.info("🚫 Заблакавана: %s", getattr(entry, "title", "(без назвы)"))
                 continue
             all_entries.append(entry)
 
