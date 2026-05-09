@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 09 May 2026 16:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 17:47:24 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -181,22 +181,6 @@
       <pubDate>Fri, 08 May 2026 13:16:36 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/08/luch-vypustil-novuyu-kollekciyu"><img alt="" src="https://content.onliner.by/news/thumbnail/ef8de9303d912f1e26f0f3c0acdf1726.jpg" /></a></p><p>Минский часовой завод «Луч» к 9 Мая представил обновленную тематическую коллекцию часов под названием «Сквозь время». Вместе с запуском новых моделей бренд также открыл в своем музее отдельную экспозицию, посвященную Дню Победы.</p><p><a href="https://money.onliner.by/2026/05/08/luch-vypustil-novuyu-kollekciyu">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Легкая атлетика и теннис пока не позволят выступать белорусам. Даже после решения МОК</title>
-      <link>https://sport.onliner.by/go/9922</link>
-      <guid isPermaLink="false">https://sport.onliner.by/2026/05/08/legkaya-atletika-i-tennis-poka-ne-pozvolyat-vystupat-belorusam-dazhe-posle-resheniya-mok</guid>
-      <pubDate>Fri, 08 May 2026 13:04:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://sport.onliner.by/2026/05/08/legkaya-atletika-i-tennis-poka-ne-pozvolyat-vystupat-belorusam-dazhe-posle-resheniya-mok"><img alt="" src="https://content.onliner.by/news/thumbnail/108b51ce92fa3a166f2806203c6175dd.jpg" /></a></p><p>В четверг исполком Международного олимпийского комитета рекомендовал полностью снять ограничения с белорусских спортсменов, а также разрешить использование флага и гимна. Однако к рекомендациям прислушались далеко не все.</p><p><a href="https://sport.onliner.by/2026/05/08/legkaya-atletika-i-tennis-poka-ne-pozvolyat-vystupat-belorusam-dazhe-posle-resheniya-mok">Читать далее…</a></p>]]></description>
-      <category>Спорт</category>
-    </item>
-    <item>
-      <title>В Минске 10-балльные пробки</title>
-      <link>https://auto.onliner.by/go/1244936</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/08/v-minske-10-ballnye-probki</guid>
-      <pubDate>Fri, 08 May 2026 13:02:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/08/v-minske-10-ballnye-probki"><img alt="" src="https://content.onliner.by/news/thumbnail/be369923f2a9be3ed8a65a73287ce04f.png" /></a></p><p>Пятница, разгар рабочего дня , а в Минске уже пробки 10 баллов. Учитывая погодные условия, местами движение больше похоже на медленную экскурсию по лужам, чем на обычную поездку.</p><p><a href="https://auto.onliner.by/2026/05/08/v-minske-10-ballnye-probki">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
   </channel>
 </rss>
