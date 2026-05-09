@@ -86,11 +86,19 @@ def entry_text(entry) -> str:
     return " ".join(parts).lower()
 
 
+def _word_boundary(text: str, kw: str) -> bool:
+    """Праверка цэлага слова — працуе з кірыліцай і лацінкай."""
+    kw_l = re.escape(kw.lower())
+    # Мяжа слова: пачатак/канец радка або не-літара/не-лічба
+    pattern = r"(?<![^\W_])(" + kw_l + r")(?![^\W_])"
+    return bool(re.search(pattern, text, flags=re.UNICODE))
+
+
 def is_blacklisted(entry) -> tuple[bool, str]:
-    """Вяртае (заблакавана, слова-прычына)."""
+    """Вяртае (заблакавана, слова-прычына). Правярае цэлыя словы."""
     text = entry_text(entry)
     for kw in BLACKLIST_TOPICS:
-        if kw.lower() in text:
+        if _word_boundary(text, kw):
             return True, kw
     return False, ""
 
