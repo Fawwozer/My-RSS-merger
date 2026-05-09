@@ -1,0 +1,44 @@
+name: Merge RSS Feeds
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'    # Кожныя 2 гадзіны
+  workflow_dispatch:         # Ручны запуск
+
+permissions:
+  contents: write
+
+jobs:
+  merge-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests python-dateutil
+
+      - name: Run RSS merger
+        env:
+          RSS_FEEDS: ${{ secrets.RSS_FEEDS }}
+          PRIORITY_TOPICS: ${{ secrets.PRIORITY_TOPICS }}
+          BLACKLIST_TOPICS: ${{ secrets.BLACKLIST_TOPICS }}
+          OUTPUT_TITLE: ${{ secrets.OUTPUT_TITLE || 'Merged RSS Feed' }}
+          OUTPUT_DESCRIPTION: ${{ secrets.OUTPUT_DESCRIPTION || 'Combined RSS feed' }}
+          OUTPUT_LINK: ${{ secrets.OUTPUT_LINK || 'https://github.com' }}
+          MAX_ITEMS: ${{ secrets.MAX_ITEMS || '200' }}
+        run: python scripts/merge_rss.py
+
+      - name: Commit and push merged feed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/feed.xml
+          git diff --staged --quiet || git commit -m "chore: update merged RSS feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
