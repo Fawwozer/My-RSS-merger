@@ -2,7 +2,7 @@ name: Merge RSS Feeds
 
 on:
   schedule:
-    - cron: '0 */2 * * *'    # Кожныя 2 гадзіны
+    - cron: '0 */6 * * *'    # кожныя 6 гадзін
   workflow_dispatch:         # Ручны запуск
 
 permissions:
