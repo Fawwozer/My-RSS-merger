@@ -80,7 +80,7 @@ def entry_text(entry) -> str:
     """Усе тэкставыя палі запісу для пошуку ключавых слоў."""
     parts = [
         getattr(entry, "title", ""),
-        # getattr(entry, "summary", ""),
+        getattr(entry, "category", ""),
         " ".join(t.get("term", "") for t in getattr(entry, "tags", [])),
     ]
     return " ".join(parts).lower()
