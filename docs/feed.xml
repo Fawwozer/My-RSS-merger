@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 11 May 2026 19:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 02:57:23 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -85,6 +85,13 @@ embargo. We will be following up as more information comes to light.</p>]]></des
       <pubDate>Wed, 06 May 2026 06:03:57 +0000</pubDate>
       <description><![CDATA[against a dark green background, an illustration shows a hacker coming out of a laptop and tux, the mascot penguin of linux]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Отличный старт. Боевик «Мортал Комбат II» собрал в мировом прокате 60 миллионов долларов</title>
+      <link>https://4pda.to/2026/05/12/456275/otlichnyj_start_boevik_mortal_kombat_ii_sobral_v_mirovom_prokate_60_millionov_dollarov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/12/456275/otlichnyj_start_boevik_mortal_kombat_ii_sobral_v_mirovom_prokate_60_millionov_dollarov/</guid>
+      <pubDate>Tue, 12 May 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Низкие оценки критиков отнюдь не всегда гарантируют фильму провал — напротив, история знает массу блокбастеров, от которых журналисты не оставили камня на камне. И новой экранизации Mortal Kombat суждено [...]]]></description>
     </item>
     <item>
       <title>GIGABYTE представила спецверсию RTX 5090 с двойным сквозным кулером</title>
@@ -1936,13 +1943,6 @@ brought on by a .0 release - it simply seems to be the new normal.</q>"]]></desc
 образования в этом году рекомендована круглосуточная форма проведения 
 сборов.]]></description>
       <category>Общество</category>
-    </item>
-    <item>
-      <title>Калифорнийский стартап предложил тушить пожары звуком вместо воды</title>
-      <link>https://4pda.to/2026/05/10/456072/kalifornijskij_startap_predlozhil_tushit_pozhary_zvukom_vmesto_vody/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/10/456072/kalifornijskij_startap_predlozhil_tushit_pozhary_zvukom_vmesto_vody/</guid>
-      <pubDate>Sun, 10 May 2026 18:15:00 +0000</pubDate>
-      <description><![CDATA[Стартап Sonic Fire Tech заявил о создании системы пожаротушения, призванной&nbsp;заменить привычные домашние спринклеры. Вместо воды она использует низкочастотные звуковые волны, подавляющие пламя за считаные [...]]]></description>
     </item>
   </channel>
 </rss>
