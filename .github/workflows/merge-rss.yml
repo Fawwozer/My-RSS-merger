@@ -33,6 +33,7 @@ jobs:
           OUTPUT_DESCRIPTION: ${{ secrets.OUTPUT_DESCRIPTION || 'Combined RSS feed' }}
           OUTPUT_LINK: ${{ secrets.OUTPUT_LINK || 'https://github.com' }}
           MAX_ITEMS: ${{ secrets.MAX_ITEMS || '200' }}
+          MAX_AGE_DAYS: ${{ secrets.MAX_AGE_DAYS || '30' }}
         run: python scripts/merge_rss.py
 
       - name: Commit and push merged feed
