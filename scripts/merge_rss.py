@@ -80,27 +80,15 @@ def entry_text(entry) -> str:
     """Усе тэкставыя палі запісу для пошуку ключавых слоў."""
     parts = [
         getattr(entry, "title", ""),
-        getattr(entry, "category", ""),
+        getattr(entry, "cathegory", ""),
         " ".join(t.get("term", "") for t in getattr(entry, "tags", [])),
     ]
     return " ".join(parts).lower()
 
 
-def _word_boundary(text: str, kw: str) -> bool:
-    """Праверка цэлага слова — працуе з кірыліцай і лацінкай."""
-    kw_l = re.escape(kw.lower())
-    # Мяжа слова: пачатак/канец радка або не-літара/не-лічба
-    pattern = r"(?<![^\W_])(" + kw_l + r")(?![^\W_])"
-    return bool(re.search(pattern, text, flags=re.UNICODE))
-
-
-def is_blacklisted(entry) -> tuple[bool, str]:
-    """Вяртае (заблакавана, слова-прычына). Правярае цэлыя словы."""
+def is_blacklisted(entry) -> bool:
     text = entry_text(entry)
-    for kw in BLACKLIST_TOPICS:
-        if _word_boundary(text, kw):
-            return True, kw
-    return False, ""
+    return any(kw.lower() in text for kw in BLACKLIST_TOPICS)
 
 
 def priority_score(entry) -> int:
@@ -224,9 +212,8 @@ def main():
             if fp in seen:
                 continue
             seen.add(fp)
-            blocked, kw = is_blacklisted(entry)
-            if blocked:
-                log.info("🚫 Заблакавана [%s]: %s", kw, getattr(entry, "title", "(без назвы)"))
+            if is_blacklisted(entry):
+                log.debug("Заблакавана: %s", getattr(entry, "title", ""))
                 continue
             all_entries.append(entry)
 
@@ -253,3 +240,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
