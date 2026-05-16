@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 16 May 2026 13:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 19:05:01 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -57,90 +57,215 @@
       <category>News</category>
     </item>
     <item>
-      <title>В Бангкоке столкнулся поезд с автобусом и легковыми авто: погибли восемь человек</title>
-      <link>https://belta.by/world/view/v-bangkoke-stolknulsja-poezd-s-avtobusom-i-legkovymi-avto-pogibli-vosem-chelovek-781049-2026/</link>
-      <guid isPermaLink="false">https://belta.by/world/view/v-bangkoke-stolknulsja-poezd-s-avtobusom-i-legkovymi-avto-pogibli-vosem-chelovek-781049-2026/</guid>
-      <pubDate>Sat, 16 May 2026 13:05:23 +0000</pubDate>
-      <description><![CDATA[На опубликованных видеокадрах видно, что машины стояли на переезде в 
-пробке, когда их протаранил поезд. Шлагбаум при этом был поднят. В 
-результате аварии автобус и один легковой автомобиль загорелись. 
-Прибывшие на место происшествия пожарные работают над тушением пожара.]]></description>
+      <title>Где будет трудиться молодежь Могилевской области летом, рассказали в обкоме БРСМ</title>
+      <link>https://belta.by/regions/view/gde-budet-truditsja-molodezh-mogilevskoj-oblasti-letom-rasskazali-v-obkome-brsm-781086-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/gde-budet-truditsja-molodezh-mogilevskoj-oblasti-letom-rasskazali-v-obkome-brsm-781086-2026/</guid>
+      <pubDate>Sat, 16 May 2026 18:46:48 +0000</pubDate>
+      <description><![CDATA[Как отметил Олег Бойко, первые студотряды уже приступили к работе в 
+регионе: молодежь трудится на посевной, первые экологические отряды 
+отправились в лесхозы и на предприятия жилищно-коммунального хозяйства. 
+Медицинский студенческий отряд работает в Могилевской областной 
+клинической больнице, а фармацевтический - на аптечном складе в 
+Могилеве.]]></description>
+      <category>Регионы</category>
+    </item>
+    <item>
+      <title>Где в Минске ночью нанесут дорожную разметку, рассказали в ГАИ</title>
+      <link>https://belta.by/regions/view/gde-v-minske-nochjju-nanesut-dorozhnuju-razmetku-rasskazali-v-gai-781085-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/gde-v-minske-nochjju-nanesut-dorozhnuju-razmetku-rasskazali-v-gai-781085-2026/</guid>
+      <pubDate>Sat, 16 May 2026 18:37:54 +0000</pubDate>
+      <description><![CDATA[Госавтоинспекция рекомендует учитывать информацию при выборе маршрута движения и быть внимательными на данных участках дорог.]]></description>
+      <category>Регионы</category>
+    </item>
+    <item>
+      <title>Работники МЧС спасли мужчину на пожаре в Могилеве</title>
+      <link>https://belta.by/incident/view/rabotniki-mchs-spasli-muzhchinu-na-pozhare-v-mogileve-781084-2026/</link>
+      <guid isPermaLink="false">https://belta.by/incident/view/rabotniki-mchs-spasli-muzhchinu-na-pozhare-v-mogileve-781084-2026/</guid>
+      <pubDate>Sat, 16 May 2026 18:31:21 +0000</pubDate>
+      <description><![CDATA[При проведении разведки в одной из квартир спасатели обнаружили в 
+бессознательном состоянии хозяина жилья. Мужчину вынесли на свежий 
+воздух и передали медикам. Пострадавший госпитализирован.]]></description>
+      <category>Происшествия</category>
+    </item>
+    <item>
+      <title>На месте старых сараев по переулку Софьи Ковалевской в Минске появится благоустроенная зона</title>
+      <link>https://belta.by/regions/view/na-meste-staryh-saraev-po-pereulku-sofji-kovalevskoj-v-minske-pojavitsja-blagoustroennaja-zona-781082-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/na-meste-staryh-saraev-po-pereulku-sofji-kovalevskoj-v-minske-pojavitsja-blagoustroennaja-zona-781082-2026/</guid>
+      <pubDate>Sat, 16 May 2026 18:16:22 +0000</pubDate>
+      <description><![CDATA[Как отметил глава администрации Московского района Сергей Рубанов, главная задача - обеспечить безопасность жителей.]]></description>
+      <category>Регионы</category>
+    </item>
+    <item>
+      <title>АААА! Steam Controller издаёт «крик Вильгельма», если его уронить</title>
+      <link>https://4pda.to/2026/05/16/456459/aaaa_steam_controller_izdayot_krik_vilgelma_esli_ego_uronit/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456459/aaaa_steam_controller_izdayot_krik_vilgelma_esli_ego_uronit/</guid>
+      <pubDate>Sat, 16 May 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Недавно Valve начала продажи Steam Controller — обновлённой версии собственного геймпада. Помимо очевидных новшеств, компания добавила кое-что особенное.
+
+[youtube=v6CftUj9oqs:640:360:::0]
+
+Журналисты, [...]]]></description>
+    </item>
+    <item>
+      <title>Исследование: правильная музыка повышает эффективность тренировок</title>
+      <link>https://4pda.to/2026/05/16/456404/issledovanie_pravilnaya_muzyka_povyshaet_effektivnost_trenirovok/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456404/issledovanie_pravilnaya_muzyka_povyshaet_effektivnost_trenirovok/</guid>
+      <pubDate>Sat, 16 May 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Университета Йювяскюля выяснили, что любимая музыка во время тренировок способна заметно повысить выносливость. В ходе проведённого эксперимента участники сумели тренироваться почти на 20% дольше, [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске в ДТП пострадал ребенок</title>
+      <link>https://belta.by/incident/view/v-minske-v-dtp-postradal-rebenok-781078-2026/</link>
+      <guid isPermaLink="false">https://belta.by/incident/view/v-minske-v-dtp-postradal-rebenok-781078-2026/</guid>
+      <pubDate>Sat, 16 May 2026 17:41:19 +0000</pubDate>
+      <description><![CDATA[Сегодня днем 30-летняя водитель автомобиля Toyota, двигаясь по местному 
+проезду улицы Маяковского, вблизи здания №115А, по предварительной 
+информации, совершила наезд на 3-летнего мальчика, который выбежал на 
+проезжую часть из-за припаркованных автомобилей.]]></description>
+      <category>Происшествия</category>
+    </item>
+    <item>
+      <title>В Могилевской области в этом трудовом семестре планируют трудоустроить порядка 9,5 тыс. человек</title>
+      <link>https://belta.by/regions/view/v-mogilevskoj-oblasti-v-etom-trudovom-semestre-planirujut-trudoustroit-porjadka-95-tys-chelovek-781077-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/v-mogilevskoj-oblasti-v-etom-trudovom-semestre-planirujut-trudoustroit-porjadka-95-tys-chelovek-781077-2026/</guid>
+      <pubDate>Sat, 16 May 2026 17:37:31 +0000</pubDate>
+      <description><![CDATA["В этом году мы планируем трудоустроить порядка 9,5 тыс. человек, что 
+более чем на 2 тыс. больше по сравнению с прошлым годом, - рассказал он.
+ - Студенческие отряды зарекомендовали себя с лучшей стороны. Нашим 
+отрядам доверяют строительство ключевых объектов, которые будут служить 
+для наших людей десятилетиями".]]></description>
+      <category>Регионы</category>
+    </item>
+    <item>
+      <title>СМИ: американские власти могут готовить операцию по захвату Рауля Кастро</title>
+      <link>https://belta.by/world/view/smi-amerikanskie-vlasti-mogut-gotovit-operatsiju-po-zahvatu-raulja-kastro-781075-2026/</link>
+      <guid isPermaLink="false">https://belta.by/world/view/smi-amerikanskie-vlasti-mogut-gotovit-operatsiju-po-zahvatu-raulja-kastro-781075-2026/</guid>
+      <pubDate>Sat, 16 May 2026 17:30:43 +0000</pubDate>
+      <description><![CDATA[Директор Центрального разведывательного управления США Джон Рэтклифф 14 
+мая посетил Кубу, где встретился с Раулем Гильермо Родригесом Кастро, 
+внуком Рауля Кастро.]]></description>
       <category>В мире</category>
     </item>
     <item>
-      <title>Выращивал грибы на кухне - стал фигурантом уголовного дела. Рассказываем, за что можно получить срок</title>
-      <link>https://belta.by/society/view/vyraschival-griby-na-kuhne-stal-figurantom-ugolovnogo-dela-rasskazyvaem-za-chto-mozhno-poluchit-srok-781048-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/vyraschival-griby-na-kuhne-stal-figurantom-ugolovnogo-dela-rasskazyvaem-za-chto-mozhno-poluchit-srok-781048-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:58:06 +0000</pubDate>
-      <description><![CDATA[Минчанин стал фигурантом уголовного дела за, казалось бы, безобидный 
-эксперимент по выращиваю грибов на своей кухне. Правда, не простых, а 
-психотропных. Как, оступившись, вовремя взять себя в руки и встать на 
-путь исправления - в нашем материале.]]></description>
-      <category>Общество</category>
-    </item>
-    <item>
-      <title>В Минске в ДТП пострадал несовершеннолетний водитель мопеда</title>
-      <link>https://belta.by/incident/view/v-minske-v-dtp-postradal-nesovershennoletnij-voditel-mopeda-781045-2026/</link>
-      <guid isPermaLink="false">https://belta.by/incident/view/v-minske-v-dtp-postradal-nesovershennoletnij-voditel-mopeda-781045-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:41:28 +0000</pubDate>
-      <description><![CDATA[Накануне вечером 54-летний водитель автомобиля Nissan при выезде с 
-прилегающей территории на улицу Неманскую, по предварительной 
-информации, не предоставил преимущество мопеду Bajaj.]]></description>
+      <title>ДТП в Оршанском районе: Volkswagen столкнулся с МАЗом и опрокинулся</title>
+      <link>https://belta.by/incident/view/dtp-v-orshanskom-rajone-volkswagen-stolknulsja-s-mazom-i-oprokinulsja-781073-2026/</link>
+      <guid isPermaLink="false">https://belta.by/incident/view/dtp-v-orshanskom-rajone-volkswagen-stolknulsja-s-mazom-i-oprokinulsja-781073-2026/</guid>
+      <pubDate>Sat, 16 May 2026 17:23:33 +0000</pubDate>
+      <description><![CDATA[В результате аварии 78-летняя пассажирка автомобиля Volkswagen Polo с травмами доставлена в больницу.]]></description>
       <category>Происшествия</category>
     </item>
     <item>
-      <title>Азаров: власть Зеленского в Украине - это машина бесправия</title>
-      <link>https://belta.by/society/view/azarov-vlast-zelenskogo-v-ukraine-eto-mashina-bespravija-781044-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/azarov-vlast-zelenskogo-v-ukraine-eto-mashina-bespravija-781044-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:34:45 +0000</pubDate>
-      <description><![CDATA[Николай Азаров отметил, что на коррупционные скандалы украинская власть 
-отреагировала "весьма характерно", попытавшись повлиять на ход следствия
- и правоохранительные структуры, задействованные в расследовании этих 
-преступлений. Дело дошло до ареста детективов.]]></description>
-      <category>Общество</category>
+      <title>Виталий Пинчук: когда, если не сейчас? Разговор с белорусским хоккеистом накануне его перехода в НХЛ</title>
+      <link>https://belta.by/interview/view/vitalij-pinchuk-kogda-esli-ne-sejchas-razgovor-s-belorusskim-hokkeistom-nakanune-ego-perehoda-v-nhl-10066/</link>
+      <guid isPermaLink="false">https://belta.by/interview/view/vitalij-pinchuk-kogda-esli-ne-sejchas-razgovor-s-belorusskim-hokkeistom-nakanune-ego-perehoda-v-nhl-10066/</guid>
+      <pubDate>Sat, 16 May 2026 17:13:00 +0000</pubDate>
+      <description><![CDATA[А пока Виталий Пинчук готовится к новому жизненному этапу, поговорили с ним о том, какие уроки ему преподала белорусская хоккейная школа, чему научила КХЛ и что может дать НХЛ.]]></description>
+      <category>Интервью</category>
     </item>
     <item>
-      <title>В Столинском районе водитель не справился с управлением и скрылся с места ДТП</title>
-      <link>https://belta.by/incident/view/v-stolinskom-rajone-voditel-ne-spravilsja-s-upravleniem-i-skrylsja-s-mesta-dtp-781042-2026/</link>
-      <guid isPermaLink="false">https://belta.by/incident/view/v-stolinskom-rajone-voditel-ne-spravilsja-s-upravleniem-i-skrylsja-s-mesta-dtp-781042-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:24:18 +0000</pubDate>
-      <description><![CDATA[Вчера около 22.50 часов 32-летний водитель управлял автомобилем 
-Rover и двигался по автодороге Н-603 Б.Мелешево - Ремель - Ольшаны в 
-направлении д. Оздамичи.]]></description>
+      <title>Новый носимый датчик здоровья работает за счёт пота</title>
+      <link>https://4pda.to/2026/05/16/456446/novyj_nosimyj_datchik_zdorovya_rabotaet_za_schyot_pota/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456446/novyj_nosimyj_datchik_zdorovya_rabotaet_za_schyot_pota/</guid>
+      <pubDate>Sat, 16 May 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Калифорнийского университета в Ирвайне разработали гибкий носимый датчик в виде тонкого кожного пластыря. Гаджет отслеживает сразу несколько биомаркеров, включая кортизол, глюкозу, лактат и [...]]]></description>
+    </item>
+    <item>
+      <title>Пожар на полигоне твердых бытовых отходов в Несвижском районе ликвидирован</title>
+      <link>https://belta.by/incident/view/pozhar-na-poligone-tverdyh-bytovyh-othodov-v-nesvizhskom-rajone-likvidirovan-781066-2026/</link>
+      <guid isPermaLink="false">https://belta.by/incident/view/pozhar-na-poligone-tverdyh-bytovyh-othodov-v-nesvizhskom-rajone-likvidirovan-781066-2026/</guid>
+      <pubDate>Sat, 16 May 2026 16:06:14 +0000</pubDate>
+      <description><![CDATA[Площадь пожара составила 250 кв.м.]]></description>
       <category>Происшествия</category>
     </item>
     <item>
-      <title>"Сильный род - наш главный воспитатель". Участники фестиваля о своем многодетном счастье</title>
-      <link>https://belta.by/society/view/silnyj-rod-nash-glavnyj-vospitatel-uchastniki-festivalja-o-svoem-mnogodetnom-schastje-781040-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/silnyj-rod-nash-glavnyj-vospitatel-uchastniki-festivalja-o-svoem-mnogodetnom-schastje-781040-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:14:15 +0000</pubDate>
-      <description><![CDATA["Именно эту тему мы посчитали главной, ведь наши предки отдали свою 
-жизнь за то, чтобы мы жили под мирным небом сегодня", - сказала Анна 
-Ярошевич.]]></description>
+      <title>Гомель открыл мотосезон-2026 парадом мотоциклов</title>
+      <link>https://belta.by/regions/view/gomel-otkryl-motosezon-2026-paradom-mototsiklov-781065-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/gomel-otkryl-motosezon-2026-paradom-mototsiklov-781065-2026/</guid>
+      <pubDate>Sat, 16 May 2026 15:44:49 +0000</pubDate>
+      <description><![CDATA[Более тысячи мотоциклов собрались в Советском районе, чтобы дать старт 
+новому сезону мотодвижения. О безопасности водителям двухколесного 
+транспорта напомнил начальник УГАИ УВД Гомельского облисполкома Руслан 
+Колесников, нацеливая мотоциклистов на неукоснительное соблюдение ПДД.]]></description>
+      <category>Регионы</category>
+    </item>
+    <item>
+      <title>Экс-премьер Украины рассказал, что должно лечь в фундамент мирного соглашения с Россией</title>
+      <link>https://belta.by/society/view/eks-premjer-ukrainy-rasskazal-chto-dolzhno-lech-v-fundament-mirnogo-soglashenija-s-rossiej-781064-2026/</link>
+      <guid isPermaLink="false">https://belta.by/society/view/eks-premjer-ukrainy-rasskazal-chto-dolzhno-lech-v-fundament-mirnogo-soglashenija-s-rossiej-781064-2026/</guid>
+      <pubDate>Sat, 16 May 2026 15:35:05 +0000</pubDate>
+      <description><![CDATA["Что касается сегодняшней ситуации с точки зрения заключения мирного 
+соглашения. Фундаментом мирного соглашения является изменение 
+политического режима в Киеве", - считает Николай Азаров.]]></description>
       <category>Общество</category>
     </item>
     <item>
-      <title>Пограничники Гродненской пограничной группы приняли военную присягу</title>
-      <link>https://belta.by/regions/view/pogranichniki-grodnenskoj-pogranichnoj-gruppy-prinjali-voennuju-prisjagu-781029-2026/</link>
-      <guid isPermaLink="false">https://belta.by/regions/view/pogranichniki-grodnenskoj-pogranichnoj-gruppy-prinjali-voennuju-prisjagu-781029-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:13:43 +0000</pubDate>
-      <description><![CDATA[В Гродно в торжественном ритуале у мемориального ансамбля "Погибшим, но 
-не побежденным воинам Белорусского пограничного округа" приняли участие 
-более 130 новобранцев Гродненской пограничной группы.]]></description>
+      <title>В Дзержинске более 110 новобранцев-пограничников принесли присягу на верность Родине и народу</title>
+      <link>https://belta.by/regions/view/v-dzerzhinske-bolee-110-novobrantsev-pogranichnikov-prinesli-prisjagu-na-vernost-rodine-i-narodu-781063-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/v-dzerzhinske-bolee-110-novobrantsev-pogranichnikov-prinesli-prisjagu-na-vernost-rodine-i-narodu-781063-2026/</guid>
+      <pubDate>Sat, 16 May 2026 15:21:14 +0000</pubDate>
+      <description><![CDATA[С важным событием в жизни солдат поздравил председатель 
+Госпогранкомитета генерал-майор Константин Молостов во время посещения 
+Группы материально-технического обеспечения в Дзержинске. К 
+поздравлениям присоединились представители местных органов власти и 
+духовенства, родные и близкие.]]></description>
       <category>Регионы</category>
     </item>
     <item>
-      <title>В Могилеве 17 мая пройдут соревнования по триатлону: в городе будет частично перекрыто движение</title>
-      <link>https://belta.by/regions/view/v-mogileve-17-maja-projdut-sorevnovanija-po-triatlonu-v-gorode-budet-chastichno-perekryto-dvizhenie-781039-2026/</link>
-      <guid isPermaLink="false">https://belta.by/regions/view/v-mogileve-17-maja-projdut-sorevnovanija-po-triatlonu-v-gorode-budet-chastichno-perekryto-dvizhenie-781039-2026/</guid>
-      <pubDate>Sat, 16 May 2026 12:10:08 +0000</pubDate>
-      <description><![CDATA[Для обеспечения безопасности участников соревнований, сотрудники 
-Госавтоинспекции УВД Могилевского облисполкома к 8.00 будут освобождать 
-от автомобильного транспорта проезжие части улиц Златоустовского и 
-Фатина (от ул. Златоустовского до местного проезда к жилому дома №1 Д по
- улице Фатина), а также парковку в районе физкультурно-оздоровительного 
-комплекса Н2О.]]></description>
+      <title>Netflix отзывает партию мерча по Devil May Cry. Дизайнер ошибся в имени героя</title>
+      <link>https://4pda.to/2026/05/16/456504/netflix_otzyvaet_partiyu_mercha_po_devil_may_cry_dizajner_oshibsya_v_imeni_geroya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456504/netflix_otzyvaet_partiyu_mercha_po_devil_may_cry_dizajner_oshibsya_v_imeni_geroya/</guid>
+      <pubDate>Sat, 16 May 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Геймеров в последние годы просто балуют экранизациями видеоигр. Однако далеко не все из них хорошие: аниме-адаптация Devil May Cry, например, неприятно удивила многих поклонников хитового экшена Capcom. [...]]]></description>
+    </item>
+    <item>
+      <title>Эпиграммы, сборники, автобиография. Что хранит архив-музей Василя Витки</title>
+      <link>https://belta.by/culture/view/epigrammy-sborniki-avtobiografija-chto-hranit-arhiv-muzej-vasilja-vitki-781062-2026/</link>
+      <guid isPermaLink="false">https://belta.by/culture/view/epigrammy-sborniki-avtobiografija-chto-hranit-arhiv-muzej-vasilja-vitki-781062-2026/</guid>
+      <pubDate>Sat, 16 May 2026 15:02:47 +0000</pubDate>
+      <description><![CDATA[Родился Василь Витка (настоящие фамилия и имя - Крысько Тимофей 
+Васильевич) 16 мая 1911 года в деревне Евличи Минской губернии. Поэт, 
+драматург и критик оставил большое литературное наследие, которое 
+сегодня хранится в фондах Белорусского государственного архива-музея 
+литературы и искусства.]]></description>
+      <category>Культура</category>
+    </item>
+    <item>
+      <title>С новым LiDAR машины и роботы могут видеть мир в цвете</title>
+      <link>https://4pda.to/2026/05/16/456461/s_novym_lidar_mashiny_i_roboty_mogut_videt_mir_v_tsvete/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456461/s_novym_lidar_mashiny_i_roboty_mogut_videt_mir_v_tsvete/</guid>
+      <pubDate>Sat, 16 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Ouster анонсировала новое семейство сенсоров Rev8, которое компания называет первым в мире LiDAR с нативной цветной картинкой. В отличие от обычных систем, где данные объединяются отдельно, новый сенсор [...]]]></description>
+    </item>
+    <item>
+      <title>Спасатели ликвидируют загорание на полигоне твердых бытовых отходов в Несвижском районе</title>
+      <link>https://belta.by/incident/view/spasateli-likvidirujut-zagoranie-na-poligone-tverdyh-bytovyh-othodov-v-nesvizhskom-rajone-781059-2026/</link>
+      <guid isPermaLink="false">https://belta.by/incident/view/spasateli-likvidirujut-zagoranie-na-poligone-tverdyh-bytovyh-othodov-v-nesvizhskom-rajone-781059-2026/</guid>
+      <pubDate>Sat, 16 May 2026 14:32:59 +0000</pubDate>
+      <description><![CDATA[По оперативным данным, площадь пожара составляет около 250 кв.м. Пострадавших нет.]]></description>
+      <category>Происшествия</category>
+    </item>
+    <item>
+      <title>В Крупках начались масштабные поиски пенсионерки, пропавшей три недели назад</title>
+      <link>https://people.onliner.by/go/1301287</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/16/v-krupkax-nachalis-masshtabnye-poiski-pensionerki-propavshej-tri-nedeli-nazad</guid>
+      <pubDate>Sat, 16 May 2026 14:30:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/16/v-krupkax-nachalis-masshtabnye-poiski-pensionerki-propavshej-tri-nedeli-nazad"><img alt="" src="https://content.onliner.by/news/thumbnail/c34b263efdad08482d86caf8a0543905.jpg" /></a></p><p>В Крупках сегодня начались масштабные поиски 72-летней Елены Цеховой, которая <a href="https://people.onliner.by/2026/05/15/v-krupkax-tri-nedeli-ishhut-zhenshhinu-zavtra-sobirayut-masshtabnyj-poisk">пропала</a> еще 25 апреля. К операции подключились волонтеры поисково-спасательных отрядов, милиция, военнослужащие, лесничие и местные жители.</p><p><a href="https://people.onliner.by/2026/05/16/v-krupkax-nachalis-masshtabnye-poiski-pensionerki-propavshej-tri-nedeli-nazad">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Дети - наше золото. Семья железнодорожников из Минска о том, как приумножить любовь</title>
+      <link>https://belta.by/regions/view/deti-nashe-zoloto-semjja-zheleznodorozhnikov-iz-minska-o-tom-kak-priumnozhit-ljubov-781055-2026/</link>
+      <guid isPermaLink="false">https://belta.by/regions/view/deti-nashe-zoloto-semjja-zheleznodorozhnikov-iz-minska-o-tom-kak-priumnozhit-ljubov-781055-2026/</guid>
+      <pubDate>Sat, 16 May 2026 14:11:31 +0000</pubDate>
+      <description><![CDATA[Сейчас воспитывают троих деток. День семьи, который отметили в Беларуси накануне, 15 мая, - хороший повод узнать у многодетных родителей, что помогает на протяжении многих лет идти по жизни рука об руку.]]></description>
       <category>Регионы</category>
+    </item>
+    <item>
+      <title>Умелец превратил обычный душ в полноценный гаджет</title>
+      <link>https://4pda.to/2026/05/16/456484/umelets_prevratil_obychnyj_dush_v_polnotsennyj_gadzhet/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456484/umelets_prevratil_obychnyj_dush_v_polnotsennyj_gadzhet/</guid>
+      <pubDate>Sat, 16 May 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Пользователь Reddit под ником Hungry_Preference107 превратил свой сломанный тропический душ&nbsp;в умное устройство. Теперь система показывает&nbsp;температуру воды прямо на потолке и меняет цвет подсветки [...]]]></description>
     </item>
     <item>
       <title>Пиастры! Ubisoft сулит геймерам 36 миллионов рублей за разгадку секретов Assassin’s Creed Black Flag Resynced</title>
@@ -154,60 +279,6 @@ Rover и двигался по автодороге Н-603 Б.Мелешево -
 [youtube=xfUwPowZuSM:640:360:::0]
 
 В [...]]]></description>
-    </item>
-    <item>
-      <title>Гала-концерт семейного фестиваля проходит в Воложинском районе</title>
-      <link>https://belta.by/society/view/gala-kontsert-semejnogo-festivalja-prohodit-v-volozhinskom-rajone-781036-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/gala-kontsert-semejnogo-festivalja-prohodit-v-volozhinskom-rajone-781036-2026/</guid>
-      <pubDate>Sat, 16 May 2026 11:28:02 +0000</pubDate>
-      <description><![CDATA[В фестивале принимают участие 19 творческих семей, многие из них 
-влюбились в атмосферу мероприятия, приехали на фестиваль не в первый 
-раз.]]></description>
-      <category>Общество</category>
-    </item>
-    <item>
-      <title>Около 250 пограничников приняли присягу в Брестской крепости</title>
-      <link>https://belta.by/regions/view/okolo-250-pogranichnikov-prinjali-prisjagu-v-brestskoj-kreposti-781035-2026/</link>
-      <guid isPermaLink="false">https://belta.by/regions/view/okolo-250-pogranichnikov-prinjali-prisjagu-v-brestskoj-kreposti-781035-2026/</guid>
-      <pubDate>Sat, 16 May 2026 11:22:48 +0000</pubDate>
-      <description><![CDATA[Ритуал принятия присяги прошел на площади Церемониалов. Клятву быть 
-преданными своему народу и достойно исполнять воинский долг принесли 
-военнослужащие, призванные из Брестской, Гомельской областей и Минска.]]></description>
-      <category>Регионы</category>
-    </item>
-    <item>
-      <title>В реконструируемой части пинской больницы произошло задымление</title>
-      <link>https://belta.by/incident/view/v-rekonstruiruemoj-chasti-pinskoj-bolnitsy-proizoshlo-zadymlenie-781034-2026/</link>
-      <guid isPermaLink="false">https://belta.by/incident/view/v-rekonstruiruemoj-chasti-pinskoj-bolnitsy-proizoshlo-zadymlenie-781034-2026/</guid>
-      <pubDate>Sat, 16 May 2026 11:14:52 +0000</pubDate>
-      <description><![CDATA[Спасатели выезжали по сообщению о задымлении. В ходе разведки 
-установлено, что проводились сварочные работы в реконструируемой части 
-здания на 11-м этаже, которая на данный момент не эксплуатируется.]]></description>
-      <category>Происшествия</category>
-    </item>
-    <item>
-      <title>"Хочется, чтобы наши дети учились на таких замечательных примерах". Петруцкая о семейном фестивале</title>
-      <link>https://belta.by/society/view/hochetsja-chtoby-nashi-deti-uchilis-na-takih-zamechatelnyh-primerah-petrutskaja-o-semejnom-festivale-781033-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/hochetsja-chtoby-nashi-deti-uchilis-na-takih-zamechatelnyh-primerah-petrutskaja-o-semejnom-festivale-781033-2026/</guid>
-      <pubDate>Sat, 16 May 2026 11:04:05 +0000</pubDate>
-      <description><![CDATA["Семейный фестиваль набирает обороты, сегодня здесь много молодежи. 
-Многие из них приехали на фестиваль в качестве волонтеров, но я уверена,
- что семьи-участницы станут хорошим примером для них. Возможно, те 
-ребята, которые только думают о создании семьи, станут в будущем 
-участниками фестиваля", - отметила Екатерина Петруцкая.]]></description>
-      <category>Общество</category>
-    </item>
-    <item>
-      <title>"Мы все молились о крепости наших семей". Участники о крестном ходе в Минске</title>
-      <link>https://belta.by/regions/view/my-vse-molilis-o-kreposti-nashih-semej-uchastniki-o-krestnom-hode-v-minske-781032-2026/</link>
-      <guid isPermaLink="false">https://belta.by/regions/view/my-vse-molilis-o-kreposti-nashih-semej-uchastniki-o-krestnom-hode-v-minske-781032-2026/</guid>
-      <pubDate>Sat, 16 May 2026 10:52:11 +0000</pubDate>
-      <description><![CDATA[Прихожанка храма иконы Божьей Матери "Взыскание погибших" считает: 
-"Мероприятия, посвященные институту семьи, очень важны, потому что это 
-основа общества. Без семьи не будет общества. Поэтому это очень хорошее 
-мероприятие, которое объединяет разные поколения и укрепляет веру 
-людей".]]></description>
-      <category>Регионы</category>
     </item>
     <item>
       <title>JCB представила водородный болид Hydromax мощностью 1600 «лошадей»</title>
@@ -225,19 +296,6 @@ Rover и двигался по автодороге Н-603 Б.Мелешево -
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Красовская: отрадно, что в стране так много семей, которые выбрали быть многодетными</title>
-      <link>https://belta.by/society/view/krasovskaja-otradno-chto-v-strane-tak-mnogo-semej-kotorye-vybrali-byt-mnogodetnymi-781030-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/krasovskaja-otradno-chto-v-strane-tak-mnogo-semej-kotorye-vybrali-byt-mnogodetnymi-781030-2026/</guid>
-      <pubDate>Sat, 16 May 2026 10:31:35 +0000</pubDate>
-      <description><![CDATA["Наша Минщина такая красивая, семьи могут тоже насладиться пребыванием в
- этих прекрасных местах вместе со своими детками. В фестивале принимают 
-участие 19 семей и девять из них - многодетные. Причем Минскую область 
-представляет семья, которая воспитывает семерых. И это замечательные 
-семьи - красивые, активные, творческие, в чем мы уже смогли убедиться", -
- сказала Тамара Красовская.]]></description>
-      <category>Общество</category>
-    </item>
-    <item>
       <title>ASUS выпустила оперативную память ROG по цене видеокарты</title>
       <link>https://4pda.to/2026/05/16/456512/asus_vypustila_operativnuyu_pamyat_rog_po_tsene_videokarty/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/16/456512/asus_vypustila_operativnuyu_pamyat_rog_po_tsene_videokarty/</guid>
@@ -251,41 +309,6 @@ Rover и двигался по автодороге Н-603 Б.Мелешево -
 Комплект [...]]]></description>
     </item>
     <item>
-      <title>В Чаусах самопроизвольное движение автобуса привело к гибели пожилой пары</title>
-      <link>https://belta.by/incident/view/v-chausah-samoproizvolnoe-dvizhenie-avtobusa-privelo-k-gibeli-pozhiloj-pary-781028-2026/</link>
-      <guid isPermaLink="false">https://belta.by/incident/view/v-chausah-samoproizvolnoe-dvizhenie-avtobusa-privelo-k-gibeli-pozhiloj-pary-781028-2026/</guid>
-      <pubDate>Sat, 16 May 2026 10:20:16 +0000</pubDate>
-      <description><![CDATA[41-летний водитель прибыл на автостанцию, закрыл двери и покинул салон. В
- какой-то момент автобус начал движение в сторону торговых павильонов, 
-куда шли супруги 70 и 66 лет. Автобус наехал на них, после чего 
-столкнулся с легковым автомобилем, стоявшим на пути.]]></description>
-      <category>Происшествия</category>
-    </item>
-    <item>
-      <title>Более полувека на сцене Брестского театра кукол. Актер Иван Герасевич о творческом пути</title>
-      <link>https://belta.by/culture/view/bolee-poluveka-na-stsene-brestskogo-teatra-kukol-akter-ivan-gerasevich-o-tvorcheskom-puti-781027-2026/</link>
-      <guid isPermaLink="false">https://belta.by/culture/view/bolee-poluveka-na-stsene-brestskogo-teatra-kukol-akter-ivan-gerasevich-o-tvorcheskom-puti-781027-2026/</guid>
-      <pubDate>Sat, 16 May 2026 10:18:43 +0000</pubDate>
-      <description><![CDATA[Шесть десятилетий на сцене, сотни ролей и тысячи юных зрителей, 
-которые впервые открывали для себя мир театра через спектакли с его 
-участием. Актер Брестского театра кукол Иван Герасевич пришел в 
-искусство почти случайно: работал трактористом, увидел объявление у 
-драмтеатра и остался в профессии на всю жизнь.]]></description>
-      <category>Культура</category>
-    </item>
-    <item>
-      <title>Более полувека на сцене Брестского театра кукол. Актер Иван Герасевич о творческом пути</title>
-      <link>https://belta.by/interview/view/bolee-poluveka-na-stsene-brestskogo-teatra-kukol-akter-ivan-gerasevich-o-tvorcheskom-puti-10065/</link>
-      <guid isPermaLink="false">https://belta.by/interview/view/bolee-poluveka-na-stsene-brestskogo-teatra-kukol-akter-ivan-gerasevich-o-tvorcheskom-puti-10065/</guid>
-      <pubDate>Sat, 16 May 2026 10:15:00 +0000</pubDate>
-      <description><![CDATA[Шесть десятилетий на сцене, сотни ролей и тысячи юных зрителей, которые 
-впервые открывали для себя мир театра через спектакли с его участием. 
-Актер Брестского театра кукол Иван Герасевич пришел в искусство почти 
-случайно: работал трактористом, увидел объявление у драмтеатра и остался
- в профессии на всю жизнь.]]></description>
-      <category>Интервью</category>
-    </item>
-    <item>
       <title>Водитель вышел из автобуса, не заглушив двигатель. Погибли два человека</title>
       <link>https://auto.onliner.by/go/1246237</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/05/16/na-mogilevshhine-avtobus-sam</guid>
@@ -294,54 +317,12 @@ Rover и двигался по автодороге Н-603 Б.Мелешево -
       <category>Авто</category>
     </item>
     <item>
-      <title>Гора избран делегатом ВНС от РОО "Белая Русь"</title>
-      <link>https://belta.by/society/view/gora-izbran-delegatom-vns-ot-roo-belaja-rus-781026-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/gora-izbran-delegatom-vns-ot-roo-belaja-rus-781026-2026/</guid>
-      <pubDate>Sat, 16 May 2026 10:01:38 +0000</pubDate>
-      <description><![CDATA["За время службы в органах прокуратуры, Следственном комитете и органах 
-государственной безопасности Дмитрий Гора зарекомендовал себя 
-трудолюбивым, целеустремленным работником, принципиальным и 
-требовательным руководителем. Его отличают преданность делу, 
-настойчивость, честность, порядочность", - сказала председатель Минской 
-городской организации РОО "Белая Русь" Наталья Воронова.]]></description>
-      <category>Общество</category>
-    </item>
-    <item>
       <title>Сотрудники ГАИ открыли огонь по Volvo с пьяным водителем (видео)</title>
       <link>https://auto.onliner.by/go/1246232</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/05/16/na-brestchine-pyanogo-bespravnika-ostanavlivali-so-strelboj-video</guid>
       <pubDate>Sat, 16 May 2026 09:54:51 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/16/na-brestchine-pyanogo-bespravnika-ostanavlivali-so-strelboj-video"><img alt="" src="https://content.onliner.by/news/thumbnail/8d7aa6d24965fe7689234149c743254a.jpg" /></a></p><p>В Барановичском районе сотрудники ГАИ со стрельбой задержали пьяного водителя, который пытался скрыться от инспекторов. Инцидент произошел возле деревни Яново.</p><p><a href="https://auto.onliner.by/2026/05/16/na-brestchine-pyanogo-bespravnika-ostanavlivali-so-strelboj-video">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Внимание местам отдыха, велосипедистам: ГАИ усилила в выходные контроль за безопасностью</title>
-      <link>https://belta.by/society/view/vnimanie-mestam-otdyha-velosipedistam-gai-usilila-v-vyhodnye-kontrol-za-bezopasnostjju-781025-2026/</link>
-      <guid isPermaLink="false">https://belta.by/society/view/vnimanie-mestam-otdyha-velosipedistam-gai-usilila-v-vyhodnye-kontrol-za-bezopasnostjju-781025-2026/</guid>
-      <pubDate>Sat, 16 May 2026 09:53:36 +0000</pubDate>
-      <description><![CDATA[Проводятся профилактические отработки населенных пунктов и автодорог, направленные на пресечение грубых нарушений ПДД.]]></description>
-      <category>Общество</category>
-    </item>
-    <item>
-      <title>"Все возможно". Минчанка воспитывает четверых детей и водит автобус</title>
-      <link>https://belta.by/regions/view/vse-vozmozhno-minchanka-vospityvaet-chetveryh-detej-i-vodit-avtobus-781022-2026/</link>
-      <guid isPermaLink="false">https://belta.by/regions/view/vse-vozmozhno-minchanka-vospityvaet-chetveryh-detej-i-vodit-avtobus-781022-2026/</guid>
-      <pubDate>Sat, 16 May 2026 09:52:50 +0000</pubDate>
-      <description><![CDATA[В современном мире женщины, кажется, нашли способ добавлять часы в 
-сутках. Они успешно совмещают воспитание детей, карьеру и заботу о доме.
- Яркий пример - Илона Дрозд, водитель в минском автобусном парке №5 и 
-мама четырех детей.]]></description>
-      <category>Регионы</category>
-    </item>
-    <item>
-      <title>В Барановичском районе нетрезвого бесправника останавливали со стрельбой</title>
-      <link>https://belta.by/regions/view/v-baranovichskom-rajone-netrezvogo-bespravnika-ostanavlivali-so-strelboj-781024-2026/</link>
-      <guid isPermaLink="false">https://belta.by/regions/view/v-baranovichskom-rajone-netrezvogo-bespravnika-ostanavlivali-so-strelboj-781024-2026/</guid>
-      <pubDate>Sat, 16 May 2026 09:42:50 +0000</pubDate>
-      <description><![CDATA[Вблизи д. Яново инспекторы ГАИ подали сигнал об остановке водителю 
-Volvo. Однако тот его проигнорировал и продолжил движение. Началось 
-преследование.]]></description>
-      <category>Регионы</category>
     </item>
     <item>
       <title>Игровой автомат Swap Arcade превращается в обычную тумбу</title>
@@ -593,42 +574,6 @@ Google представила Android 17
       <category>Авто</category>
     </item>
     <item>
-      <title>Sony Xperia 1 VIII: непоколебимый самурай глазами зарубежных СМИ</title>
-      <link>https://4pda.to/2026/05/15/456496/sony_xperia_1_viii_nepokolebimyj_samuraj_glazami_zarubezhnykh_smi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/15/456496/sony_xperia_1_viii_nepokolebimyj_samuraj_glazami_zarubezhnykh_smi/</guid>
-      <pubDate>Fri, 15 May 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[Sony сократила количество выпускаемых моделей смартфонов до двух, но уходить с рынка всё ещё не собирается. Более того, новый флагман Xperia 1 VIII показывает, что компания готова к переменам, пускай и [...]]]></description>
-    </item>
-    <item>
-      <title>СМИ: Apple нашла путь к созданию действительно безрамочного iPhone</title>
-      <link>https://4pda.to/2026/05/15/456502/smi_apple_nashla_put_k_sozdaniyu_dejstvitelno_bezramochnogo_iphone/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/15/456502/smi_apple_nashla_put_k_sozdaniyu_dejstvitelno_bezramochnogo_iphone/</guid>
-      <pubDate>Fri, 15 May 2026 15:20:00 +0000</pubDate>
-      <description><![CDATA[Apple продолжает готовиться к&nbsp;«юбилейному» iPhone, который выйдет к 20-летию линейки. По данным корейских источников, компания уже обсуждает с поставщиками новую технологию OLED-дисплеев, чтобы наконец-то [...]]]></description>
-    </item>
-    <item>
-      <title>Akko выпустила лёгкую игровую мышь Dash Master с частотой опроса 8 кГц и сенсором PAW 3955</title>
-      <link>https://4pda.to/2026/05/15/456494/akko_vypustila_lyogkuyu_igrovuyu_mysh_dash_master_s_chastotoj_oprosa_8_kgts_i_sensorom_paw_3955/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/15/456494/akko_vypustila_lyogkuyu_igrovuyu_mysh_dash_master_s_chastotoj_oprosa_8_kgts_i_sensorom_paw_3955/</guid>
-      <pubDate>Fri, 15 May 2026 15:10:00 +0000</pubDate>
-      <description><![CDATA[Компания Akko выпустила одну из
-новейших моделей игровых мышей линейки Dash, анонс которой состоялся&nbsp;на CES 2026. Особенностью Dash Master стал вес
-всего в 40 граммов, что делает её одной из самых [...]]]></description>
-    </item>
-    <item>
-      <title>Объясните свою маленькость. В сети появились фото нового геймпада Xbox Wireless</title>
-      <link>https://4pda.to/2026/05/15/456490/obyasnite_svoyu_malenkost_v_seti_poyavilis_foto_novogo_gejmpada_xbox_wireless/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/15/456490/obyasnite_svoyu_malenkost_v_seti_poyavilis_foto_novogo_gejmpada_xbox_wireless/</guid>
-      <pubDate>Fri, 15 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[На днях Sony выпустила киберспортивный геймпад со звучным названием Scuf Omega. Главный конкурент не отстаёт — в сети нашли изображения нового геймпада Microsoft.
-
-
-
-
-
-Из-за утечки со стороны бразильского [...]]]></description>
-    </item>
-    <item>
       <title>Двое минчан вовлекли девушек в занятие проституцией. Теперь их ждет суд</title>
       <link>https://people.onliner.by/go/1301082</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/05/15/dvoe-minchan-vovlekli-devushek-v-zanyatie-prostituciej-teper-ix-zhdet-sud</guid>
@@ -650,30 +595,6 @@ though.  He wanted to explore the ways in which BPF might be helpful and
 the obstacles that have kept BPF-based solutions out so far.  This session
 was followed by a discussion led by Shakeel Butt on what the requirements
 for a new, BPF-based interface for memory control groups might look like.]]></description>
-    </item>
-    <item>
-      <title>То ли зной, то ли холод... Впереди ливни, ветер и до +29 (видео)</title>
-      <link>https://people.onliner.by/go/1301065</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/15/livni-veter-i-do-29</guid>
-      <pubDate>Fri, 15 May 2026 14:47:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/15/livni-veter-i-do-29"><img alt="" src="https://content.onliner.by/news/thumbnail/432700d4622dc21ae122d5483d7e116f.jpg" /></a></p><p>Май отчаянно пытается войти в колею, разворотил уже всю дорогу. За прошедшие недели мы повидали жару, холод, грозы, мороз, падение доллара, ветер. Дальше тоже весело и страшно. <a href="https://belgidromet.by/by/" target="_blank">Белгидромет</a> видит впереди и баню до 29 (пока) градусов, и прохладу 15 градусов (это днем), и сопутствующие аттракционы в виде потопа и ветра. Плывем по течению с понимающим видом.</p><p><a href="https://people.onliner.by/2026/05/15/livni-veter-i-do-29">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Раскрыты характеристики и стоимость смарт-браслета без экрана Garmin CIRQA</title>
-      <link>https://4pda.to/2026/05/15/456477/raskryty_kharakteristiki_i_stoimost_smart_brasleta_bez_ekrana_garmin_cirqa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/15/456477/raskryty_kharakteristiki_i_stoimost_smart_brasleta_bez_ekrana_garmin_cirqa/</guid>
-      <pubDate>Fri, 15 May 2026 13:50:00 +0000</pubDate>
-      <description><![CDATA[Новый фитнес-браслет Garmin CIRQA был замечен в ассортименте одного&nbsp;из розничных продавцов. Страница,
-посвящённая носимому устройству, содержит его изображения и информацию о
-стоимости.
-
-
-
-
-
-Garmin
-CIRQA [...]]]></description>
     </item>
     <item>
       <title>Seven new stable kernels with patches for CVE-2026-46333</title>
