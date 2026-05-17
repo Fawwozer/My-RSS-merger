@@ -27,13 +27,13 @@ jobs:
       - name: Run RSS merger
         env:
           RSS_FEEDS: ${{ secrets.RSS_FEEDS }}
-          PRIORITY_TOPICS: ${{ secrets.PRIORITY_TOPICS }}
-          BLACKLIST_TOPICS: ${{ secrets.BLACKLIST_TOPICS }}
-          OUTPUT_TITLE: ${{ secrets.OUTPUT_TITLE || 'Merged RSS Feed' }}
-          OUTPUT_DESCRIPTION: ${{ secrets.OUTPUT_DESCRIPTION || 'Combined RSS feed' }}
-          OUTPUT_LINK: ${{ secrets.OUTPUT_LINK || 'https://github.com' }}
-          MAX_ITEMS: ${{ secrets.MAX_ITEMS || '200' }}
-          MAX_AGE_DAYS: ${{ secrets.MAX_AGE_DAYS || '30' }}
+          PRIORITY_TOPICS: ${{ vars.PRIORITY_TOPICS }}
+          BLACKLIST_TOPICS: ${{ vars.BLACKLIST_TOPICS }}
+          OUTPUT_TITLE: ${{ vars.OUTPUT_TITLE || 'Merged RSS Feed' }}
+          OUTPUT_DESCRIPTION: ${{ vars.OUTPUT_DESCRIPTION || 'Combined RSS feed' }}
+          OUTPUT_LINK: ${{ vars.OUTPUT_LINK || 'https://github.com' }}
+          MAX_ITEMS: ${{ vars.MAX_ITEMS || '300' }}
+          MAX_AGE_DAYS: ${{ vars.MAX_AGE_DAYS || '30' }}
         run: python scripts/merge_rss.py
 
       - name: Commit and push merged feed
