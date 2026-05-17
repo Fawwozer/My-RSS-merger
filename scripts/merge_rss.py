@@ -158,6 +158,8 @@ def build_xml(items: list) -> str:
         if not content:
             content = getattr(entry, "summary", "")
 
+        content = re.sub(r"\n{2,}", "\n", content).strip()
+
         lines += [
             "    <item>",
             f"      <title>{title}</title>",
