@@ -5,56 +5,15 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 17 May 2026 04:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 04:22:18 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>Fedora Hummingbird Debuts As a Super Hardened Linux Distro</title>
-      <link>https://feed.itsfoss.com/link/24361/17339892/fedora-hummingbird-images</link>
-      <guid isPermaLink="false">6a0453c94c39890001b3b92d</guid>
-      <pubDate>Wed, 13 May 2026 14:23:30 +0000</pubDate>
-      <description><![CDATA[fedora logo is on top, in the middle is a flying hummingbird, and, below, the word hummingbird is written in white in a funky font]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Your Old Potato PC Might Game Better With This Linux Kernel Patch</title>
-      <link>https://feed.itsfoss.com/link/24361/17339878/linux-scheduler-patch-gaming-old-hardware</link>
-      <guid isPermaLink="false">6a0413114c39890001b3b75d</guid>
-      <pubDate>Wed, 13 May 2026 14:12:34 +0000</pubDate>
-      <description><![CDATA[a gamer penguin is sat on a stool, playing a game on an old computer, on the right is an illustration showing gains]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Linux 7.0.6 is Out, and It Fully Patches the Dirty Frag Exploit</title>
-      <link>https://feed.itsfoss.com/link/24361/17339123/linux-fully-patches-dirty-frag-exploit</link>
-      <guid isPermaLink="false">6a02d1582b67480001bc8c15</guid>
-      <pubDate>Tue, 12 May 2026 11:35:32 +0000</pubDate>
-      <description><![CDATA[on the left is an illustration that shows a rotating gear with linux kernel 7.0.6 written below it, on the right is a disappearing dirty frag logo of a penguin (thanos style))]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>In a Big Move to Linux Security, Debian Makes Reproducible Builds Mandatory</title>
-      <link>https://feed.itsfoss.com/link/24361/17338477/debian-makes-reproducible-builds-mandatory</link>
-      <guid isPermaLink="false">6a01ae122b67480001bc880f</guid>
-      <pubDate>Mon, 11 May 2026 14:58:27 +0000</pubDate>
-      <description><![CDATA[the red debian logo sits on the left, and on the right is an illustration depicting a conveyor belt going through a scanner, with cardboard boxes on them]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Linux is Getting a Kill Switch!</title>
-      <link>https://feed.itsfoss.com/link/24361/17338173/linux-killswitch-proposal</link>
-      <guid isPermaLink="false">6a0174512b67480001bc865d</guid>
-      <pubDate>Mon, 11 May 2026 08:28:34 +0000</pubDate>
-      <description><![CDATA[against a mixed green background, stands a penguin on a pedestal with a lever, the creature has one flipper on the lever, and is wearing a plague doctor outfit]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Dirty Frag is a New Linux Exploit That Grants Root, and There&amp;#x27;s No Proper Patch Yet</title>
-      <link>https://feed.itsfoss.com/link/24361/17337269/dirty-frag-linux-exploit</link>
-      <guid isPermaLink="false">69fdb2272b67480001bc6fa8</guid>
-      <pubDate>Sat, 09 May 2026 06:33:20 +0000</pubDate>
-      <description><![CDATA[against a matrix-themed green background, stands a non-standard version of tux, the mascot penguin of linux, carrying a hand grenade, with dirty frag written on its chest]]></description>
-      <category>News</category>
+      <title>Исход. Основатель студии Archetype объяснил свой уход за год до релиза Exodus</title>
+      <link>https://4pda.to/2026/05/15/456498/iskhod_osnovatel_studii_archetype_obyasnil_svoj_ukhod_za_god_do_reliza_exodus/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/15/456498/iskhod_osnovatel_studii_archetype_obyasnil_svoj_ukhod_za_god_do_reliza_exodus/</guid>
+      <pubDate>Fri, 15 May 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Несколько разных компаний по всему миру корпеют над духовными наследниками сериала Mass Effect. Одной из таких космических опер, Exodus, занимается Archetype Entertainment. Её основал Джеймс Олен — ветеран [...]]]></description>
     </item>
     <item>
       <title>Не только за хлебом: на каких авто можно прочувствовать каждый поворот</title>
@@ -109,6 +68,13 @@
       <description><![CDATA[Сотрудники Университета Йювяскюля выяснили, что любимая музыка во время тренировок способна заметно повысить выносливость. В ходе проведённого эксперимента участники сумели тренироваться почти на 20% дольше, [...]]]></description>
     </item>
     <item>
+      <title>Умный термометр KitchenAid делает готовку проще</title>
+      <link>https://4pda.to/2026/05/16/456444/umnyj_termometr_kitchenaid_delaet_gotovku_prosche/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456444/umnyj_termometr_kitchenaid_delaet_gotovku_prosche/</guid>
+      <pubDate>Sat, 16 May 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[KitchenAid представила первый в своей истории умный кухонный термометр. Гаджет умеет следить за температурой еды в реальном времени и подходит для гриля, запекания, копчения, аэрофритюрниц и готовки на [...]]]></description>
+    </item>
+    <item>
       <title>Новый носимый датчик здоровья работает за счёт пота</title>
       <link>https://4pda.to/2026/05/16/456446/novyj_nosimyj_datchik_zdorovya_rabotaet_za_schyot_pota/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/16/456446/novyj_nosimyj_datchik_zdorovya_rabotaet_za_schyot_pota/</guid>
@@ -143,6 +109,14 @@
       <guid isPermaLink="false">https://4pda.to/2026/05/16/456484/umelets_prevratil_obychnyj_dush_v_polnotsennyj_gadzhet/</guid>
       <pubDate>Sat, 16 May 2026 13:30:00 +0000</pubDate>
       <description><![CDATA[Пользователь Reddit под ником Hungry_Preference107 превратил свой сломанный тропический душ&nbsp;в умное устройство. Теперь система показывает&nbsp;температуру воды прямо на потолке и меняет цвет подсветки [...]]]></description>
+    </item>
+    <item>
+      <title>Елену Прекрасную в «Одиссее» сыграет Лупита Нионго. Новость вызвала волну критики (обновлено)</title>
+      <link>https://tech.onliner.by/go/773753</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/16/teper-tochno-rol-eleny-prekrasnoj-v-odissee-dostalas-lupite-niongo</guid>
+      <pubDate>Sat, 16 May 2026 12:43:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/16/teper-tochno-rol-eleny-prekrasnoj-v-odissee-dostalas-lupite-niongo"><img alt="" src="https://content.onliner.by/news/thumbnail/3448813a5ee4c65a0c756ed8a15337de.jpg" /></a></p><p>Уже несколько месяцев по сети бродили слухи насчет того, что Елену Прекрасную в предстоящей «Одиссее» Кристофера Нолана может сыграть кенийско-мексиканская актриса Лупита Нионго. Сейчас этот слух подтвердил сам Нолан: он <a href="https://time.com/article/2026/05/12/christopher-nolan-odyssey-interview/" target="_blank">заявил</a>, что в «Одиссее» Нионго исполнит сразу две роли.</p><p><a href="https://tech.onliner.by/2026/05/16/teper-tochno-rol-eleny-prekrasnoj-v-odissee-dostalas-lupite-niongo">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
     </item>
     <item>
       <title>Пиастры! Ubisoft сулит геймерам 36 миллионов рублей за разгадку секретов Assassin’s Creed Black Flag Resynced</title>
@@ -202,6 +176,13 @@
       <category>Авто</category>
     </item>
     <item>
+      <title>Игровой автомат Swap Arcade превращается в обычную тумбу</title>
+      <link>https://4pda.to/2026/05/16/456482/igrovoj_avtomat_swap_arcade_prevraschaetsya_v_obychnuyu_tumbu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/16/456482/igrovoj_avtomat_swap_arcade_prevraschaetsya_v_obychnuyu_tumbu/</guid>
+      <pubDate>Sat, 16 May 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Американский изобретатель Лес Куксон представил Swap Arcade — домашний аркадный автомат, который можно быстро сложить в обычную тумбу. Проект создан для тех, кто любит ретроигры, но не хочет держать огромный [...]]]></description>
+    </item>
+    <item>
       <title>Роботы Figure впервые полностью отработали восьмичасовую смену</title>
       <link>https://4pda.to/2026/05/16/456445/roboty_figure_vpervye_polnostyu_otrabotali_vosmichasovuyu_smenu/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/16/456445/roboty_figure_vpervye_polnostyu_otrabotali_vosmichasovuyu_smenu/</guid>
@@ -230,6 +211,14 @@
       <guid isPermaLink="false">https://money.onliner.by/2026/05/16/v-belarusi-zapretili-populyarnoe</guid>
       <pubDate>Sat, 16 May 2026 07:39:18 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/16/v-belarusi-zapretili-populyarnoe"><img alt="" src="https://content.onliner.by/news/thumbnail/c35a844e05b77302ccae5f1108a829f0.jpg" /></a></p><p>Госстандарт запретил продавать в Беларуси сушеное манго из Вьетнама после проверки продукции в магазинах. Речь идет о манго сушеном с сахаром («листики») производства компании Nodavi Food Co., LTD.</p><p><a href="https://money.onliner.by/2026/05/16/v-belarusi-zapretili-populyarnoe">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В партии томатов для Беларуси нашли опасный вирус. Груз уничтожили</title>
+      <link>https://money.onliner.by/go/327010</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/05/16/na-granice-s-belarusyu</guid>
+      <pubDate>Sat, 16 May 2026 07:33:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/16/na-granice-s-belarusyu"><img alt="" src="https://content.onliner.by/news/thumbnail/335d81cc01312bd572a425fba0f085b4.jpg" /></a></p><p>В Брянской области уничтожили более 10 тонн овощей и фруктов, которые перевозили из Московской области в Беларусь. Причиной стал опасный вирус, обнаруженный в партии томатов.</p><p><a href="https://money.onliner.by/2026/05/16/na-granice-s-belarusyu">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
@@ -278,6 +267,14 @@ Google представила Android 17
       <description><![CDATA[Французская компания представила Renault 4 JP4x4 — концепт необычного пляжного электрокара с открытым верхом, полным приводом и небольшим кузовом-пикапом. Новинку показали в ходе&nbsp;теннисного турнира [...]]]></description>
     </item>
     <item>
+      <title>I Gave Desktop Email Clients Another Shot and This New App Delivered</title>
+      <link>https://feed.itsfoss.com/link/24361/17342273/aerion</link>
+      <guid isPermaLink="false">6a056cecac02e100013dd755</guid>
+      <pubDate>Sat, 16 May 2026 05:45:51 +0000</pubDate>
+      <description><![CDATA[a penguin is standing on the left, on the right is a screenshot of the about page of aerion email client]]></description>
+      <category>First Look</category>
+    </item>
+    <item>
       <title>«От идеи до покупки билетов — полдня». Пара разрушает стереотип, что путешествовать — это дорого (видео)</title>
       <link>https://people.onliner.by/go/1300867</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/05/16/ne-obrashhayutsya-k-turagentam</guid>
@@ -310,6 +307,14 @@ Google представила Android 17
       <category>Авто</category>
     </item>
     <item>
+      <title>«Инфантил-неудачник, как и отец». Семья этого белоруса распалась из-за Warhammer</title>
+      <link>https://tech.onliner.by/go/773999</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/16/semya-etogo-belorusa-raspalas-iz-za-warhammer</guid>
+      <pubDate>Sat, 16 May 2026 05:00:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/16/semya-etogo-belorusa-raspalas-iz-za-warhammer"><img alt="" src="https://content.onliner.by/news/thumbnail/4006ba289824b93da8b9af40624a103d.jpg" /></a></p><p>В целом коллекционирование — вещь созидательная. Белорусы собирают <a href="https://tech.onliner.by/2025/10/05/kollekcioner-marvel">фигурки</a>, <a href="https://tech.onliner.by/2024/10/09/pogovorili-s-kollekcionerom-berserka">карточки</a> и <a href="https://tech.onliner.by/2025/10/10/kollekcioner-retrokonsolej">гаджеты</a> для того, чтобы отвести душу, а не ругаться из-за своего хобби со своими же близкими. Но случаются на этом поприще и исключения, и коллекционирование может стать поводом для обид, ссор и даже разводов. Сегодняшняя история именно такая: рассказываем, как увлечение белоруса вселенной Warhammer 40 000 пошатнуло его брак.</p><p><a href="https://tech.onliner.by/2026/05/16/semya-etogo-belorusa-raspalas-iz-za-warhammer">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
       <title>Пауэрбанк Edge заряжает ноутбук и не занимает места на столе</title>
       <link>https://4pda.to/2026/05/16/456399/pauerbank_edge_zaryazhaet_noutbuk_i_ne_zanimaet_mesta_na_stole/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/16/456399/pauerbank_edge_zaryazhaet_noutbuk_i_ne_zanimaet_mesta_na_stole/</guid>
@@ -322,6 +327,14 @@ Google представила Android 17
       <guid isPermaLink="false">https://4pda.to/2026/05/16/456452/igry_vam_ne_prinadlezhat_krupnye_izdateli_vystupili_protiv_initsiativy_stop_killing_games/</guid>
       <pubDate>Sat, 16 May 2026 04:30:00 +0000</pubDate>
       <description><![CDATA[Уже два года геймеры пытаются добиться, чтобы купленные игры не превращались в «цифровую пыль», когда издатель решит прекратить поддержку. Скоро на их стороне может оказаться закон, но авторы видеоигр [...]]]></description>
+    </item>
+    <item>
+      <title>Собрали рейтинг самых продаваемых планшетов</title>
+      <link>https://tech.onliner.by/go/749466</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/16/top-planshetov</guid>
+      <pubDate>Sat, 16 May 2026 04:00:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/16/top-planshetov"><img alt="" src="https://content.onliner.by/news/thumbnail/53ce5d52efee2ee4f7af14b9eb967205.jpg" /></a></p><p>Планшет — самое удачное устройство для досуга, которое только можно придумать. Большой сенсорный дисплей, созданный для потребления контента, гейминга и просмотра видео. Но как поступить правильно: не ошибиться в процессоре, выбрать действительно сочный дисплей и не страдать от недостатка оперативной памяти? Об этом — в сегодняшнем материале.</p><p><a href="https://tech.onliner.by/2026/05/16/top-planshetov">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
     </item>
     <item>
       <title>Вареники с характером. Готовим «крафтовый» завтрак из черемуховой муки и творога (видео)</title>
@@ -344,6 +357,13 @@ Google представила Android 17
       <guid isPermaLink="false">https://4pda.to/2026/05/15/456503/microsoft_reshila_razdrazhayuschuyu_problemu_s_videodrajverami_v_windows_11/</guid>
       <pubDate>Fri, 15 May 2026 19:30:00 +0000</pubDate>
       <description><![CDATA[Microsoft наконец-то взялась за одну из самых раздражающих особенностей Windows 11 — самовольное откатывание драйверов видеокарты после обновлений. Компания пересматривает сам принцип того, как система [...]]]></description>
+    </item>
+    <item>
+      <title>Infinix XPAD 30E с 11-дюймовым экраном можно купить со скидкой до 6000 рублей</title>
+      <link>https://4pda.to/2026/05/15/456491/infinix_xpad_30e_s_11_dyujmovym_ekranom_mozhno_kupit_so_skidkoj_do_6000_rublej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/15/456491/infinix_xpad_30e_s_11_dyujmovym_ekranom_mozhno_kupit_so_skidkoj_do_6000_rublej/</guid>
+      <pubDate>Fri, 15 May 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[В преддверии сезона отпусков и поездок компания&nbsp;Infinix&nbsp;объявила о снижении цен на планшет&nbsp;XPAD 30E.  По задумке производителя, устройство способно&nbsp;заменить сразу несколько устройств [...]]]></description>
     </item>
     <item>
       <title>Люди массово учатся финансам у блогеров. И это проблема</title>
@@ -386,13 +406,6 @@ Google представила Android 17
       <description><![CDATA[Google представила Googlebook — серию ноутбуков на базе десктопной версии Android, которую будут производить сторонние компании. Это продолжение идеи Chromebook. Вот только заинтересуют ли кого-то такие [...]]]></description>
     </item>
     <item>
-      <title>Смартфоны Samsung смогут оценивать стиль вождения пользователей</title>
-      <link>https://4pda.to/2026/05/15/456497/smartfony_samsung_smogut_otsenivat_stil_vozhdeniya_polzovatelej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/15/456497/smartfony_samsung_smogut_otsenivat_stil_vozhdeniya_polzovatelej/</guid>
-      <pubDate>Fri, 15 May 2026 16:50:00 +0000</pubDate>
-      <description><![CDATA[В бета-версии прошивки One UI 9&nbsp;для серии&nbsp;Galaxy S26 появилась интересная ИИ-функция Driving Insights. При её включении&nbsp;смартфон&nbsp;анализирует стиль вождения владельца и оценивает, насколько [...]]]></description>
-    </item>
-    <item>
       <title>Близится «Ночь музеев». Рассказываем, куда сходить в этом году</title>
       <link>https://people.onliner.by/go/1300193</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/05/15/blizitsya-noch-muzeev-rasskazyvaem-kuda-sxodit-v-etom-godu</guid>
@@ -415,30 +428,6 @@ Google представила Android 17
       <pubDate>Thu, 14 May 2026 13:27:35 +0000</pubDate>
       <description><![CDATA[Terminal Ratty]]></description>
       <category>Terminal Tools</category>
-    </item>
-    <item>
-      <title>Restriced by the West, Huawei&amp;#x27;s Open Source HarmonyOS Now Powers 55 Million Devices</title>
-      <link>https://feed.itsfoss.com/link/24361/17338103/harmony-os-rises-china</link>
-      <guid isPermaLink="false">69ff56272b67480001bc79d0</guid>
-      <pubDate>Mon, 11 May 2026 06:34:49 +0000</pubDate>
-      <description><![CDATA[harmonyos]]></description>
-      <category>China Focus</category>
-    </item>
-    <item>
-      <title>I Moved My Photos from OneDrive to Ente Photos, and I&amp;#x27;m Not Going Back</title>
-      <link>https://feed.itsfoss.com/link/24361/17337795/moving-from-onedrive-to-ente-photos</link>
-      <guid isPermaLink="false">69fc6653236da00001cb399b</guid>
-      <pubDate>Sun, 10 May 2026 13:34:05 +0000</pubDate>
-      <description><![CDATA[on the left are the ente logo and ducky, the duck mascot of ente pushing a shopping cart, on the right is the onderive logo]]></description>
-      <category>Privacy 🛡️</category>
-    </item>
-    <item>
-      <title>Good Job Dell and Lenovo! Hope Others Follow Along</title>
-      <link>https://feed.itsfoss.com/link/24361/17337295/lvfs-finally-has-premier-sponsors</link>
-      <guid isPermaLink="false">69fc2c3f236da00001cb374f</guid>
-      <pubDate>Sat, 09 May 2026 08:44:18 +0000</pubDate>
-      <description><![CDATA[a curious penguin is looking towards the viewer, above it are the logos for dell, lvfs, and lenovo]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
