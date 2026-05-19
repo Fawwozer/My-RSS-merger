@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 18 May 2026 19:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 03:34:40 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -22,6 +22,27 @@
       <pubDate>Mon, 18 May 2026 11:51:45 +0000</pubDate>
       <description><![CDATA[in the background is a screenshot of adobe lightroom cc, in the foreground, clawd, the mascot of claude ai, and a penguin are seen standing with a heart logo in between them]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>HUAWEI анонсировала 4K-монитор Qingyun с «бумажным» дисплеем</title>
+      <link>https://4pda.to/2026/05/19/456538/huawei_anonsirovala_4k_monitor_qingyun_s_bumazhnym_displeem/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/19/456538/huawei_anonsirovala_4k_monitor_qingyun_s_bumazhnym_displeem/</guid>
+      <pubDate>Tue, 19 May 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Компания HUAWEI объявила о выпуске фирменного монитора Qingyun M273U, одна из модификаций которого получит дисплей с покрытием PaperMatte. Помимо «бумажной» картинки без бликов, новинка интересна высокой [...]]]></description>
+    </item>
+    <item>
+      <title>Sony начала тестирование нового виджета PS5. Он показывает самые популярные игры в регионе</title>
+      <link>https://4pda.to/2026/05/19/456552/sony_nachala_testirovanie_novogo_vidzheta_ps5_on_pokazyvaet_samye_populyarnye_igry_v_regione/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/19/456552/sony_nachala_testirovanie_novogo_vidzheta_ps5_on_pokazyvaet_samye_populyarnye_igry_v_regione/</guid>
+      <pubDate>Tue, 19 May 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Когда геймерам требуется более-менее точная видеоигровая статистика, они открывают SteamDB. Увы, на консолях настолько точных инструментов для измерения аудитории того или иного релиза пока что не существует [...]]]></description>
+    </item>
+    <item>
+      <title>Опрос: как вы относитесь к яркому дизайну десктопных ПК?</title>
+      <link>https://4pda.to/2026/05/18/456521/opros_kak_vy_otnosites_k_yarkomu_dizajnu_desktopnykh_pk/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/18/456521/opros_kak_vy_otnosites_k_yarkomu_dizajnu_desktopnykh_pk/</guid>
+      <pubDate>Mon, 18 May 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Десктопный компьютер давно перестал быть просто «железкой», которую принято прятать под стол. В моде сейчас корпуса-аквариумы с панорамным остеклением, а производители комплектующих уделяют их внешнему [...]]]></description>
     </item>
     <item>
       <title>MSI DATAMAG 40Gbps — мобильный SSD для смартфонов и консолей</title>
@@ -427,36 +448,6 @@ with encrypt_scheme EncryptionScheme(is_support_https=False, encrypt_type='TPAP 
       <guid isPermaLink="false">https://4pda.to/2026/05/18/455806/seriya_nothing_phone_4a_s_unikalnym_dizajnom_uzhe_dostupna_v_rossii/</guid>
       <pubDate>Mon, 18 May 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[Для российского рынка было объявлено о старте продаж&nbsp;серии смартфонов Nothing Phone (4a). Производитель продолжает развивать собственный узнаваемый подход в проектировании устройств, делая акцент [...]]]></description>
-    </item>
-    <item>
-      <title>Каникулы в космосе. Летом к The Outer Worlds 2 выпустят контент-обновление</title>
-      <link>https://4pda.to/2026/05/18/456535/kanikuly_v_kosmose_letom_k_the_outer_worlds_2_vypustyat_kontent_obnovlenie/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/18/456535/kanikuly_v_kosmose_letom_k_the_outer_worlds_2_vypustyat_kontent_obnovlenie/</guid>
-      <pubDate>Mon, 18 May 2026 09:10:00 +0000</pubDate>
-      <description><![CDATA[Хотя Microsoft возлагала на The Outer Worlds 2 большие надежды (и даже поначалу хотела продавать её за 80 долларов минимум), с финансовой точки зрения сатирическая RPG оказалась, мягко говоря, неудачной. [...]]]></description>
-    </item>
-    <item>
-      <title>Lenovo презентовала ноутбук-трансформер IdeaPad с чипом Snapdragon X2 Plus</title>
-      <link>https://4pda.to/2026/05/18/456529/lenovo_prezentovala_noutbuk_transformer_ideapad_s_chipom_snapdragon_x2_plus/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/18/456529/lenovo_prezentovala_noutbuk_transformer_ideapad_s_chipom_snapdragon_x2_plus/</guid>
-      <pubDate>Mon, 18 May 2026 09:10:00 +0000</pubDate>
-      <description><![CDATA[В каталоге ноутбуков Lenovo появилась новая модель IdeaPad 5x 2-in-1 с ARM-процессором Qualcomm Snapdragon X2 Plus (X2P-42-100). Помимо мобильного чипа, отличительными чертами новинки стали сенсорный дисплей [...]]]></description>
-    </item>
-    <item>
-      <title>Aura Displays представила портативный монитор Single Flex Pro со складным экраном</title>
-      <link>https://4pda.to/2026/05/18/456528/aura_displays_predstavila_portativnyj_monitor_single_flex_pro_so_skladnym_ekranom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/18/456528/aura_displays_predstavila_portativnyj_monitor_single_flex_pro_so_skladnym_ekranom/</guid>
-      <pubDate>Mon, 18 May 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Складные экраны широко используются на рынке смартфонов, однако компания Aura Displays решила
-применить эту технологию при разработке дисплея покрупнее. Производитель представил портативный монитор
-Single [...]]]></description>
-    </item>
-    <item>
-      <title>«Карманный» ПК Machenike Mini GTR получил быстрый CPU с активным охлаждением</title>
-      <link>https://4pda.to/2026/05/18/456526/karmannyj_pk_machenike_mini_gtr_poluchil_bystryj_cpu_s_aktivnym_okhlazhdeniem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/18/456526/karmannyj_pk_machenike_mini_gtr_poluchil_bystryj_cpu_s_aktivnym_okhlazhdeniem/</guid>
-      <pubDate>Mon, 18 May 2026 08:45:00 +0000</pubDate>
-      <description><![CDATA[Компания Machenike представила компактный компьютер Mini GTR в миниатюрном корпусе. Несмотря на «игрушечные» габариты, он оснащается производительным железом и неплохим набором интерфейсных разъёмов для [...]]]></description>
     </item>
     <item>
       <title>I Gave Desktop Email Clients Another Shot and This New App Delivered</title>
