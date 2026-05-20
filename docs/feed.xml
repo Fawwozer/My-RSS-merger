@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 19 May 2026 19:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 03:35:08 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -31,6 +31,21 @@
       <pubDate>Mon, 18 May 2026 11:51:45 +0000</pubDate>
       <description><![CDATA[in the background is a screenshot of adobe lightroom cc, in the foreground, clawd, the mascot of claude ai, and a penguin are seen standing with a heart logo in between them]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Недорогой Motorola G37 Power получил АКБ на 7000 мАч и разъём для наушников</title>
+      <link>https://4pda.to/2026/05/20/456583/nedorogoj_motorola_g37_power_poluchil_akb_na_7000_mach_i_razyom_dlya_naushnikov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/20/456583/nedorogoj_motorola_g37_power_poluchil_akb_na_7000_mach_i_razyom_dlya_naushnikov/</guid>
+      <pubDate>Wed, 20 May 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[G-серию смартфонов Motorola пополнила новая модель G37 Power. Новинку оснастили сбалансированным железом для выполнения повседневных задач, прочным корпусом с влагозащитой и камерой с поддержкой ИИ-функций.
+На [...]]]></description>
+    </item>
+    <item>
+      <title>Первый взгляд на OPPO Find X9 Ultra: наконец-то фотоаппарат в кармане</title>
+      <link>https://4pda.to/2026/05/19/456598/pervyj_vzglyad_na_oppo_find_x9_ultra_nakonets_to_fotoapparat_v_karmane/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/19/456598/pervyj_vzglyad_na_oppo_find_x9_ultra_nakonets_to_fotoapparat_v_karmane/</guid>
+      <pubDate>Tue, 19 May 2026 20:00:00 +0000</pubDate>
+      <description><![CDATA[В 2026 году выпускать «ультры» стало модно — таких смартфонов много даже в среднем сегменте. Если вам надоел тренд на громкие имена, не соответствующие содержанию, просто полюбуйтесь на OPPO Find X9 Ultra. [...]]]></description>
     </item>
     <item>
       <title>Инсайды #3864: редизайн Apple Watch Ultra 4, «минифон» HMD Fame, OPPO Reno16 и Reno16 Pro</title>
@@ -426,20 +441,6 @@ X300 [...]]]></description>
       <description><![CDATA[Бренда Red
 Magic презентовал беспроводную мышь
 Carbon Fiber Gaming Mouse для геймеров. Главной особенностью модели стала лёгкая и прочная конструкция — впрочем, базовый набор характеристик у новинки тоже [...]]]></description>
-    </item>
-    <item>
-      <title>Лучшая LEGO-игра за долгие годы. Журналисты оценили LEGO Batman: Legacy of the Dark Knight [ВИДЕО]</title>
-      <link>https://4pda.to/2026/05/19/456581/luchshaya_lego_igra_za_dolgie_gody_zhurnalisty_otsenili_lego_batman_legacy_of_the_dark_knight_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/19/456581/luchshaya_lego_igra_za_dolgie_gody_zhurnalisty_otsenili_lego_batman_legacy_of_the_dark_knight_video/</guid>
-      <pubDate>Tue, 19 May 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Геймеры соскучились по серии Batman: Arkham — со дня релиза Batman: Arkham Knight минуло без малого 11 лет, а Rocksteady Studios за это время выпустила лишь одну (и весьма неудачную) видеоигру. Но не беда: [...]]]></description>
-    </item>
-    <item>
-      <title>WD представила «квантоустойчивые» HDD с усиленной криптографией</title>
-      <link>https://4pda.to/2026/05/19/456575/wd_predstavila_kvantoustojchivye_hdd_s_usilennoj_kriptografiej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/19/456575/wd_predstavila_kvantoustojchivye_hdd_s_usilennoj_kriptografiej/</guid>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Будущие квантовые компьютеры заочно считаются эффективным инструментом для хакерских атак. Компания WD сработала на опережение прогресса, анонсировав серию жёстких дисков, потенциально защищённых от взлома [...]]]></description>
     </item>
     <item>
       <title>How I Finally Added Tapo L530 Bulb to Home Assistant</title>
