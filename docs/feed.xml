@@ -5,9 +5,66 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 21 May 2026 09:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:26:52 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>FOSS Weekly #26.21: Microsoft&amp;#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More</title>
+      <link>https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21</link>
+      <guid isPermaLink="false">6a0c5b786ef9df0001ebeaf5</guid>
+      <pubDate>Thu, 21 May 2026 14:24:47 +0000</pubDate>
+      <description><![CDATA[<p>The Fedora AI Developer Desktop initiative that passed unanimously <a href="https://itsfoss.com/news/fedora-ai-developer-desktop-stalled/">is now blocked</a>. Two council members retracted their votes after community pushback, with contributors arguing the CUDA focus contradicts Fedora's free software foundations and that significant kernel policy changes hadn't been cleared with the right people.</p><p><a href="https://itsfoss.com/news/fedora-ditches-deepin/">Fedora has also removed Deepin desktop</a> from its offering due to security concern.</p><p>Someone <a href="https://itsfoss.com/news/vibe-coded-adobe-lightroom-cc-linux/">got Lightroom CC running on Linux</a> via Wine without writing a single line of code themselves. An AI agent did the whole thing autonomously, fixing DLL gaps and Wine incompatibilities.</p><p>LibrePlan is a self-hosted open source project management tool that just got its <a href="https://itsfoss.com/news/libreplan-1-6-0/">1.6.0 release</a>. The additions worth noting include email workflows, per-project document repositories, an issue and risk log, and traffic light status indicators in the project list view.</p><p>If you've ever wanted to run <a href="https://www.bleachbit.org/?ref=itsfoss.com">BleachBit</a> over SSH without touching the CLI directly, <a href="https://itsfoss.com/news/bleachbit-tui-alpha/">the TUI is shaping up well</a>. You get keyboard navigation throughout, two preview modes for checking what would be cleaned before committing, and full backend parity with the existing GUI.</p><p>Bitwarden got a new CEO in February, a new CFO in April, briefly removed "Always Free" from its pricing page, and quietly rewrote its core values. For most software, this would be unremarkable. For the app that holds your passwords, <a href="https://itsfoss.com/news/bitwarden-quiet-changes/">the bar for transparency needs to be much higher</a>.</p><p><a href="https://itsfoss.com/news/onlyoffice-docs-9-4-release/">ONLYOFFICE Docs 9.4</a> lands with a mix of features and a licensing update that's hard to read as coincidental given the Euro-Office fork dispute. It offers users a dark mode for spreadsheets, 25 new presentation themes, 20 new slide transitions, and form recipient tracking.</p><p>Linux's second-in-command, Hartman, <a href="https://itsfoss.com/news/linux-kernel-rust-cve-reduction/">thinks that Rust could eliminate 80% of Linux kernel CVEs</a>.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>Listening to music on the terminal.</li><li>Microsoft having a Fedora-based offering.</li><li>Configuring a smart bulb to run with Home Assistant.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%8E%AB-event-alert-aws-summit-india-online">&#127915; Event alert: AWS Summit India Online</h2><p>From agentic AI to Cloud Modernization, AWS is bringing together the latest innovations shaping technology today at <a href="https://bit.ly/49BlgFT">AWS Summit India Online</a>. </p><ul><li>Attend 50+ sessions filled with tech deep dives, hands-on labs, and actionable insights from AWS experts and leaders</li><li>Discover how organizations are using AI and data to solve complex challenges</li><li>Connect with the AWS community through live Q&amp;A </li></ul><p>The event is virtual and free to attend.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://bit.ly/49BlgFT">Register for FREE</a></div><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>Microsoft spent its Open Source Summit announcement <a href="https://itsfoss.com/news/azure-linux-4/">talking about Azure Linux 4.0 without mentioning Fedora once</a>. The GitHub README for the 4.0 development branch uses the phrase "<strong><em>upstream base</em></strong>" to describe Fedora's role.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>Mission Center and Resources are both polished libadwaita system monitors, and both are genuinely good. But what makes them different from each other? A lot. We have <a href="https://itsfoss.com/comparison/mission-center-vs-resources/">a detailed writeup</a> that should clear your doubts.</p><p>Splitting a string in Bash isn't as intuitive as it should be. The trick is setting <code>IFS</code> to your delimiter and using <code>read -ra</code> to split the string into an array. Here's <a href="https://itsfoss.com/bash-split-string/">a short explainer</a> with a working CSV example and a breakdown of what each part is actually doing.</p><p>If <code>cmus</code> or <code>MOC</code> never quite clicked for you, <a href="https://itsfoss.com/kew-terminal-player/">Kew</a> is worth trying. Written in C, it displays album art in the terminal, can search your music library with a single keyword, and handles playlists and shuffles without fuss.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Desktop Linux is mostly neglected by the industry but loved by the community. For the past 13 years, It's FOSS has been helping people use Linux on their personal computers. And we are now facing the existential threat from AI models stealing our content. </span></p><p><span style="white-space: pre-wrap;">If you like what we do and would love to support our work, please become It's FOSS Plus member. It costs less than the cost of a McDonald Happy Meal a month, and you get an ad-free reading experience with the satisfaction of helping the desktop Linux community.</span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://itsfoss.com/membership/" style="background-color: #000000; color: #ffffff;">
+                            Join It's FOSS Plus
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><!--kg-gated-block:end-->
+<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p><a href="https://itsfoss.com/testing-local-llms-without-gpu/">Eight LLMs benchmarked</a> on a CPU-only Intel i5 laptop with 12GB RAM, using Ollama with Q4_K_M quantization throughout.</p><p>Also, here's how <a href="https://itsfoss.com/add-tapo-bulb-home-assistant/">I fixed a pesky error</a> with a Tapo smart bulb on Home Assistant.</p><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Tired of AI fluff and misinformation in your Google feed? Get real, trusted Linux content. Add It&rsquo;s FOSS as your preferred source and see our reliable Linux and open-source stories highlighted in your Discover feed and search results.</span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://www.google.com/preferences/source?q=itsfoss.com" style="background-color: #000000; color: #ffffff;">
+                            Add It's FOSS as preferred source on Google (if you use it)
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/aerion/">Aerion</a> is a new open source desktop email client built with Wails and Svelte, not Electron, and it shows.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>Using <a href="https://itsfoss.com/customize-xfce/">Xfce</a> doesn't need to feel like a trip down memory lane. <a href="https://www.youtube.com/watch?v=fw4dLnMNecE">You can customize it thoroughly</a> to bring it up to current standards.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In the <a href="https://bitwarden.com">Bitwarden</a> desktop app and browser extension, you can set a pin instead of using the master password to log in. To do that, go into the <em>Account Security</em> settings and turn on the "<em>Unlock with Pin option</em>."</p><figure class="kg-card kg-image-card"><img alt="bitwarden use pin instead of master password quick tip" class="kg-image" height="759" src="https://itsfoss.com/content/images/2026/05/bitwarden-settings.png" width="1052" /></figure><p>Remember to turn off "<em>Require master password on browser restart,</em>" and set the session timeout to "<em>On browser restart</em>" for securing your vault against unauthorized access.</p><p>Though, do not forget the master password, since the PIN is not a replacement, and you will need it when signing into new devices.</p><p><a href="https://t43217012.p.clickup-attachments.com/t43217012/da09f1e7-b651-4c93-b93b-141e46671d4b/copy-link-to-highlight-firefox.png"></a></p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Test your terminal knowledge with our <a href="https://itsfoss.com/quiz/linux-terminal-emulators-crossword/">Linux Terminal Emulators</a> crossword.</p><p>Do you still shudder at the sight of a <a href="https://github.com/resources/articles/what-is-a-cli">CLI</a>? &#129320;</p><figure class="kg-card kg-image-card"><img alt="PenGUIn vs. PenCLIn meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/05/meme_2.jpg" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On <a href="https://www.computerhistory.org/tdih/may/21/">May 21, 1952</a>, IBM announced its first electronic computer, the <a href="https://en.wikipedia.org/wiki/IBM_701">Model 701</a>, at a time when the company was better known as the world's largest supplier of punched card equipment, with chairman Thomas Watson Sr. so resistant to the idea that engineers had to rebrand it a "Defense Calculator" just to get it built.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Old time FOSSer Howard is <a href="https://itsfoss.community/t/spring-time-to-clean-house-home/15799">looking for feedback and suggestions</a> on how to clean the <code>/home</code> folder.</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17345706.gif" width="1" />]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>Rust Could Eliminate 80% of Linux Kernel CVEs!</title>
+      <link>https://feed.itsfoss.com/link/24361/17345650/linux-kernel-rust-cve-reduction</link>
+      <guid isPermaLink="false">6a0ea43e6ef9df0001ebf1ca</guid>
+      <pubDate>Thu, 21 May 2026 13:19:23 +0000</pubDate>
+      <description><![CDATA[there is a picture of greg kroah-hartman speaking at an even on the left, on the right are tux, the mascot penguin of linux, and a crab, the unofficial mascot of rust]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>Wow! Microsoft Now Has a Fedora-based Linux Distro</title>
       <link>https://feed.itsfoss.com/link/24361/17344118/azure-linux-4</link>
@@ -25,36 +82,326 @@
       <category>News</category>
     </item>
     <item>
-      <title>Someone Vibe-Coded Lightroom CC Into Running on Linux, and I am Not Touching It</title>
-      <link>https://feed.itsfoss.com/link/24361/17343387/vibe-coded-adobe-lightroom-cc-linux</link>
-      <guid isPermaLink="false">6a0ab6976ef9df0001ebe381</guid>
-      <pubDate>Mon, 18 May 2026 11:51:45 +0000</pubDate>
-      <description><![CDATA[in the background is a screenshot of adobe lightroom cc, in the foreground, clawd, the mascot of claude ai, and a penguin are seen standing with a heart logo in between them]]></description>
+      <title>«Яндекс» адаптировал свои сервисы для людей с инвалидностью</title>
+      <link>https://auto.onliner.by/go/1246928</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/yandeks-adaptiroval-svoi-servisy-dlya-lyudej-s-invalidnostyu</guid>
+      <pubDate>Thu, 21 May 2026 15:26:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/yandeks-adaptiroval-svoi-servisy-dlya-lyudej-s-invalidnostyu"><img alt="" src="https://content.onliner.by/news/thumbnail/f4c1e0a1d62b0faf0c0bd135e1792580.jpg" /></a></p><p>«Яндекс» адаптировал свои сервисы для белорусов с особенностями зрения, слуха, речи и мобильности. Вот что изменилось. </p><p><a href="https://auto.onliner.by/2026/05/21/yandeks-adaptiroval-svoi-servisy-dlya-lyudej-s-invalidnostyu">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Warp&amp;#x27;s Oz Platform Can Now Run Claude Code and Codex Alongside Its Own Agent</title>
+      <link>https://feed.itsfoss.com/link/24361/17345762/warp-oz-multi-harness-update</link>
+      <guid isPermaLink="false">6a0eda336ef9df0001ebf2b3</guid>
+      <pubDate>Thu, 21 May 2026 15:10:47 +0000</pubDate>
+      <description><![CDATA[the logos for oz by warp, claude code, and  codex are shown against a yellow/green background]]></description>
       <category>News</category>
     </item>
     <item>
-      <title>С вас — рассказ о своей первой машине, с нас — призы. Объявляем конкурс</title>
-      <link>https://auto.onliner.by/go/1246827</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/s-vas-rasskaz-o-svoej-pervoj-mashine-s-nas-prizy-obyavlyaem-konkurs</guid>
-      <pubDate>Thu, 21 May 2026 09:41:04 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/s-vas-rasskaz-o-svoej-pervoj-mashine-s-nas-prizy-obyavlyaem-konkurs"><img alt="" src="https://content.onliner.by/news/thumbnail/8d5cf6b9bcfb8ae9d9bc9e3aabb27b53.jpg" /></a></p><p>А вы помните свою первую машину? Какие чувства она у вас вызывает? Ностальгическую слезу или желание сказать «Тьфу!» и забыть о ней, как о страшном сне? А может, свою первую машину вы построили сами и она до сих пор стоит в гараже, чтобы вы смогли показать ее своим детям и внукам? Либо это был «Горбатый» или «копейка», которая досталась вам от дедушки? </p><p><a href="https://auto.onliner.by/2026/05/21/s-vas-rasskaz-o-svoej-pervoj-mashine-s-nas-prizy-obyavlyaem-konkurs">Читать далее…</a></p>]]></description>
+      <title>Тягач перевозил по Минску большой груз и попал в ДТП: задел осветительную мачту. Видео (видео)</title>
+      <link>https://auto.onliner.by/go/1246915</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/tyagach-perevozil-bolshoj-gruz</guid>
+      <pubDate>Thu, 21 May 2026 15:00:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/tyagach-perevozil-bolshoj-gruz"><img alt="" src="https://content.onliner.by/news/thumbnail/0d26b997b9d004f3ba47085a6d05e14c.jpg" /></a></p><p>Читатели сообщают о нестандартном ДТП на улице Горецкого в Минске. Тягач перевозил габаритный груз, закрепленный с двух сторон, но во время движения, вероятно, его задняя часть задела осветительную мачту.</p><p><a href="https://auto.onliner.by/2026/05/21/tyagach-perevozil-bolshoj-gruz">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>7 человек оказались в больнице после ДТП на МКАД: водитель грузовика не справился с управлением (видео)</title>
-      <link>https://auto.onliner.by/go/1246850</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/7-chelovek-v-bolnice-posle-dtp</guid>
-      <pubDate>Thu, 21 May 2026 09:35:04 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/7-chelovek-v-bolnice-posle-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/e370644b78bcc635cd065122f7b4661f.jpg" /></a></p><p>Сегодня утром в районе 10-го километра внутреннего кольца МКАД произошло массовое ДТП. Как сообщает МВД, все случилось из-за того, что 38-летний водитель грузового автомобиля при выборе скорости не учел дорожную обстановку и не справился с управлением.</p><p><a href="https://auto.onliner.by/2026/05/21/7-chelovek-v-bolnice-posle-dtp">Читать далее…</a></p>]]></description>
+      <title>Крутой дрифт, мотокросс, гонки time-attack и не только. Афиша мероприятий</title>
+      <link>https://auto.onliner.by/go/1246899</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/afisha-meropriyatij-3</guid>
+      <pubDate>Thu, 21 May 2026 14:44:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/afisha-meropriyatij-3"><img alt="" src="https://content.onliner.by/news/thumbnail/7b7663108efa1da028147296d803e6ab.jpg" /></a></p><p>Очередные майские выходные вновь подарят нам немало тематических событий. Причем эпицентр будет не в столице, а в разных уголках Беларуси. В Бресте соберутся любители time-attack, фанатов мотокросса ждет Орша, а в Минске выступит экс-чемпион серии Drift Masters Адам Залевски. В традиционном анонсе Onlíner рассказываем про самые интересные ивенты.</p><p><a href="https://auto.onliner.by/2026/05/21/afisha-meropriyatij-3">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>Археологи обнаружили средневековое затонувшее судно с серебром и пушками</title>
-      <link>https://tech.onliner.by/go/774974</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/arxeologi-obnaruzhili-srednevekovoe-zatonuvshee-sudno-s-serebrom-i-pushkami</guid>
-      <pubDate>Thu, 21 May 2026 09:31:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/arxeologi-obnaruzhili-srednevekovoe-zatonuvshee-sudno-s-serebrom-i-pushkami"><img alt="" src="https://content.onliner.by/news/thumbnail/0b6323b73a767531a97b74f5f5df65ba.jpg" /></a></p><p>В Кадисской бухте — бухте Атлантического океана на юго-западе Андалусии, часть Кадисского залива — нашли останки судна XVII века, перевозившего артиллерию и серебро. <em>«Находка проливает свет на сети контрабандистов и морскую торговлю в Атлантическом регионе»</em>, — <a href="https://www.heritagedaily.com/2026/05/sunken-treasure-ship-found-off-cadiz-with-27-cannons-and-silver-cargo/158135" target="_blank">говорится</a> в материале heritage daily.</p><p><a href="https://tech.onliner.by/2026/05/21/arxeologi-obnaruzhili-srednevekovoe-zatonuvshee-sudno-s-serebrom-i-pushkami">Читать далее…</a></p>]]></description>
+      <title>Инсайдер: Apple тестирует iPhone 19 Pro. У прототипов — экраны с четырьмя изгибами</title>
+      <link>https://tech.onliner.by/go/775085</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/insajder-apple-testiruet-iphone-19-pro-u-prototipov-ekrany-s-chetyrmya-izgibami</guid>
+      <pubDate>Thu, 21 May 2026 14:44:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/insajder-apple-testiruet-iphone-19-pro-u-prototipov-ekrany-s-chetyrmya-izgibami"><img alt="" src="https://content.onliner.by/news/thumbnail/fbb1e1475e3819d21e9b904b0fedcca3.jpg" /></a></p><p><em>«Apple тестирует iPhone 19 Pro с дисплеем, изгибающимся по всем четырем краям, как утверждает источник из Китая»</em>, — такими словами <a href="https://www.macrumors.com/2026/05/21/iphone-19-pro-prototype-quad-curved-display/" target="_blank">открывается</a> материал MacRumors, в котором ссылаются на слова инсайдера Digital Chat Station.</p><p><a href="https://tech.onliner.by/2026/05/21/insajder-apple-testiruet-iphone-19-pro-u-prototipov-ekrany-s-chetyrmya-izgibami">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
+    </item>
+    <item>
+      <title>Представлен Xiaomi YU7 GT мощностью свыше 1000 «лошадей»</title>
+      <link>https://4pda.to/2026/05/21/456736/predstavlen_xiaomi_yu7_gt_moschnostyu_svyshe_1000_loshadej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456736/predstavlen_xiaomi_yu7_gt_moschnostyu_svyshe_1000_loshadej/</guid>
+      <pubDate>Thu, 21 May 2026 14:35:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi расширила свою автомобильную линейку новой моделью YU7 GT. Это очень быстрый кроссовер, на котором можно поехать и в дальние поездки. Его мощность превышает 1000 лошадиных сил, а на одном заряде [...]]]></description>
+    </item>
+    <item>
+      <title>HP выпустила тонкий и лёгкий ноутбук StarBook Plus 14 с OLED-экраном и Intel Wildcat Lake</title>
+      <link>https://4pda.to/2026/05/21/456701/hp_vypustila_tonkij_i_lyogkij_noutbuk_starbook_plus_14_s_oled_ekranom_i_intel_wildcat_lake/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456701/hp_vypustila_tonkij_i_lyogkij_noutbuk_starbook_plus_14_s_oled_ekranom_i_intel_wildcat_lake/</guid>
+      <pubDate>Thu, 21 May 2026 14:30:00 +0000</pubDate>
+      <description><![CDATA[На рынке появился ещё один&nbsp;конкурент MacBook Neo, выпущенный на этот раз компанией HP. Модель StarBook Plus 14 имеет компактный
+облегчённый корпус, работает на базе процессоров семейства Intel Wildcat [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi выпустила Clip — первые фирменные наушники-клипсы</title>
+      <link>https://4pda.to/2026/05/21/456735/xiaomi_vypustila_clip_pervye_firmennye_naushniki_klipsy/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456735/xiaomi_vypustila_clip_pervye_firmennye_naushniki_klipsy/</guid>
+      <pubDate>Thu, 21 May 2026 14:15:14 +0000</pubDate>
+      <description><![CDATA[Вместе с флагманом Xiaomi 17 Max и спортивным браслетом Smart Band 10 Pro&nbsp;компания представила беспроводные наушники в новом для себя формате. За счёт особой формы Xiaomi Clip крепятся непосредственно [...]]]></description>
+    </item>
+    <item>
+      <title>Таскал девушку за волосы, прохожий вмешался — закончилось все тяжелыми травмами и большим сроком</title>
+      <link>https://people.onliner.by/go/1302534</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/taskal-devushku-za-volosy</guid>
+      <pubDate>Thu, 21 May 2026 14:13:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/taskal-devushku-za-volosy"><img alt="" src="https://content.onliner.by/news/thumbnail/342ed7e813cfce9c47aebf42d5ab0926.jpg" /></a></p><p><p dir="ltr">В Гомеле осудили 19-летнего местного жителя, обвиняемого в умышленном причинении тяжкого телесного повреждения из хулиганских побуждений.</p><p><a href="https://people.onliner.by/2026/05/21/taskal-devushku-za-volosy">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>ЧП в Минске: строителя насмерть придавило конструкцией весом 2 тонны</title>
+      <link>https://realt.onliner.by/go/1105261</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/pridavilo-konstrukciej</guid>
+      <pubDate>Thu, 21 May 2026 14:12:15 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/pridavilo-konstrukciej"><img alt="" src="https://content.onliner.by/news/thumbnail/87fcf03b2629ecb2db7407eb6eb4ca1f.jpg" /></a></p><p>ЧП случилось на одном из столичных предприятий. Во время выполнения работ строитель оказался придавленным тяжелой конструкцией, что стало причиной его смерти. Подробности <a href="https://sk.gov.by/ru/news-usk-gminsk-ru/view/sluzhebnaja-xalatnost-sledovateli-stolitsy-ustanovili-prichiny-gibeli-rabochego-16021/" target="_blank">сообщает</a> Следственный комитет.
+</p><p><a href="https://realt.onliner.by/2026/05/21/pridavilo-konstrukciej">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>В Россию приехал iQOO Z11 Lite — прочный среднебюджетник с камерой Sony</title>
+      <link>https://4pda.to/2026/05/21/456716/v_rossiyu_priekhal_iqoo_z11_lite_prochnyj_srednebyudzhetnik_s_kameroj_sony/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456716/v_rossiyu_priekhal_iqoo_z11_lite_prochnyj_srednebyudzhetnik_s_kameroj_sony/</guid>
+      <pubDate>Thu, 21 May 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[Компания iQOO представила в России среднебюджетный смартфон&nbsp;iQOO Z11 Lite. Он получил IPS-дисплей, фотодатчик Sony и ёмкий аккумулятор, которого должно хватать на воспроизведение онлайн-видео почти [...]]]></description>
+    </item>
+    <item>
+      <title>Дичь с черникой и трюфелем, протеиновые сосиски и мороженое. Показываем интересные новинки</title>
+      <link>https://money.onliner.by/go/327819</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/dich-s-chernikoj-i-tryufelem-proteinovye-sosiski-i-morozhenoe-pokazyvaem-interesnye-novinki</guid>
+      <pubDate>Thu, 21 May 2026 13:55:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/dich-s-chernikoj-i-tryufelem-proteinovye-sosiski-i-morozhenoe-pokazyvaem-interesnye-novinki"><img alt="" src="https://content.onliner.by/news/thumbnail/a71434f71c25b0020745f67545e9ccb3.jpg" /></a></p><p>Белорусские производители этой весной решили: рынку нужны протеиновые новинки (и побольше). Йогурты, сосиски, шоколад, конфеты, мороженое и, похоже, список будет продолжаться. Собрали все продукты, которые недавно появились в магазинах.</p><p><a href="https://money.onliner.by/2026/05/21/dich-s-chernikoj-i-tryufelem-proteinovye-sosiski-i-morozhenoe-pokazyvaem-interesnye-novinki">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Вышел новый трейлер второго сезона «Аватара: Легенды об Аанге» от Netflix</title>
+      <link>https://tech.onliner.by/go/775078</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/vyshel-novyj-trejler-vtorogo-sezona-avatara-legenda-ob-aange-ot-netflix</guid>
+      <pubDate>Thu, 21 May 2026 13:50:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/vyshel-novyj-trejler-vtorogo-sezona-avatara-legenda-ob-aange-ot-netflix"><img alt="" src="https://content.onliner.by/news/thumbnail/e1705eeb900be73900c689e464d62e3b.jpg" /></a></p><p>На YouTube-канале Netflix вышел официальный трейлер второго сезона сериала «Аватар: Легенда об Аанге» — ролик длится немногим больше двух минут. </p><p><a href="https://tech.onliner.by/2026/05/21/vyshel-novyj-trejler-vtorogo-sezona-avatara-legenda-ob-aange-ot-netflix">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Xiaomi показала новый Smart Band 10 Pro: глубокая интеграция с iOS и керамический корпус</title>
+      <link>https://4pda.to/2026/05/21/456734/xiaomi_pokazala_novyj_smart_band_10_pro_glubokaya_integratsiya_s_ios_i_keramicheskij_korpus/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456734/xiaomi_pokazala_novyj_smart_band_10_pro_glubokaya_integratsiya_s_ios_i_keramicheskij_korpus/</guid>
+      <pubDate>Thu, 21 May 2026 13:32:54 +0000</pubDate>
+      <description><![CDATA[Вместе с флагманом-гигантом Xiaomi 17 Max состоялась презентация нового фитнес-трекера Smart Band 10 Pro. Технически аксессуар не сильно отличается от предшественника 2024 года, но теперь он позиционируется [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi 17 Max стал самым большим и автономным флагманом компании</title>
+      <link>https://4pda.to/2026/05/21/456733/xiaomi_17_max_stal_samym_bolshim_i_avtonomnym_flagmanom_kompanii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456733/xiaomi_17_max_stal_samym_bolshim_i_avtonomnym_flagmanom_kompanii/</guid>
+      <pubDate>Thu, 21 May 2026 13:31:00 +0000</pubDate>
+      <description><![CDATA[В Китае состоялась презентация нового смартфона Xiaomi&nbsp;17 Max. Чтобы аппарат соответствовал своему названию, производитель установил в него большой экран и аккумулятор внушительной ёмкости. Остальные [...]]]></description>
+    </item>
+    <item>
+      <title>Как по волшебству. Quantic Dream закроет Spellcasters Chronicles спустя всего 4 месяца после запуска</title>
+      <link>https://4pda.to/2026/05/21/456722/kak_po_volshebstvu_quantic_dream_zakroet_spellcasters_chronicles_spustya_vsego_4_mesyatsa_posle_zapuska/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456722/kak_po_volshebstvu_quantic_dream_zakroet_spellcasters_chronicles_spustya_vsego_4_mesyatsa_posle_zapuska/</guid>
+      <pubDate>Thu, 21 May 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Работа в игровой индустрии связана с массой рисков. И очень часто проекты, которые кому-то кажутся многообещающими, на деле оказываются провальными.
+Минувшим вечером, например, Quantic Dream поделилась [...]]]></description>
+    </item>
+    <item>
+      <title>До 1 июня некоторым нужно заплатить налог. Кого это касается?</title>
+      <link>https://money.onliner.by/go/327803</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/belorusam-napomnili-o-vazhnom-dedlajne-po-nalogam-on-uzhe-skoro</guid>
+      <pubDate>Thu, 21 May 2026 13:19:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/belorusam-napomnili-o-vazhnom-dedlajne-po-nalogam-on-uzhe-skoro"><img alt="" src="https://content.onliner.by/news/thumbnail/f7d2fb821b3f783f244af18ac15a25c2.jpg" /></a></p><p>Налоговая напоминает: белорусам, которые подавали декларацию о доходах за 2025 год, нужно заплатить подоходный налог не позже 1 июня. После этой даты могут начислить пеню и штраф.</p><p><a href="https://money.onliner.by/2026/05/21/belorusam-napomnili-o-vazhnom-dedlajne-po-nalogam-on-uzhe-skoro">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Чтобы цены оставались вменяемыми. МАРТ «переписал» игроков цементного рынка</title>
+      <link>https://realt.onliner.by/go/1105213</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/mart-perepisal-igrokov-cementnogo-rynka</guid>
+      <pubDate>Thu, 21 May 2026 13:10:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/mart-perepisal-igrokov-cementnogo-rynka"><img alt="" src="https://content.onliner.by/news/thumbnail/c021517e5f5bb658a37834439eced00e.jpg" /></a></p><p>Мы привыкли, что Министерство антимонопольного регулирования и торговли пристально следит за продуктовым ретейлом. Но и всем остальным не стоит расслабляться. Недавно МАРТ <a href="https://www.mart.gov.by/news/novost/dominanty-rynka-tsementa-kto-zanimaet-glavnye-pozitsii-/" target="_blank">провел</a> анализ рынка оптовой торговли цементом — едва ли не ключевым «ингредиентом» в любом строительстве. По результатам «аудита» был обновлен Государственный реестр хозяйствующих субъектов, занимающих доминирующее положение.</p><p><a href="https://realt.onliner.by/2026/05/21/mart-perepisal-igrokov-cementnogo-rynka">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Флагман Xiaomi 17 Max представлен официально. Характеристики и цена</title>
+      <link>https://tech.onliner.by/go/775064</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/flagman-xiaomi-17-max-predstavlen-oficialno-xarakteristiki-i-cena</guid>
+      <pubDate>Thu, 21 May 2026 12:59:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/flagman-xiaomi-17-max-predstavlen-oficialno-xarakteristiki-i-cena"><img alt="" src="https://content.onliner.by/news/thumbnail/b7c8b264f1f798debd49cabc2612769e.jpg" /></a></p><p>Новый топовый смартфон Xiaomi, 17 Max, официально представили в Китае. Девайс получил топовые железо, батарейку увеличенного объема, а также встроенную систему камер. Подробности — на <a href="https://www.mi.com/prod/xiaomi-17-max/specs" target="_blank">сайте</a> компании.</p><p><a href="https://tech.onliner.by/2026/05/21/flagman-xiaomi-17-max-predstavlen-oficialno-xarakteristiki-i-cena">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Всем белорусам надо будет проверить банковские приложения? Грядут большие изменения</title>
+      <link>https://money.onliner.by/go/327795</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/klientov-bankov-s-1-iyulya-zhdut-vazhnye-izmeneniya-chto-nado-znat</guid>
+      <pubDate>Thu, 21 May 2026 12:31:15 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/klientov-bankov-s-1-iyulya-zhdut-vazhnye-izmeneniya-chto-nado-znat"><img alt="" src="https://content.onliner.by/news/thumbnail/e90876e8d31d946817e9513b28caf9f6.jpg" /></a></p><p>Белорусы обсуждают новые правила в банках: совсем скоро клиентам нужно будет делиться геолокацией, иначе доступ к приложению закроют.</p><p><a href="https://money.onliner.by/2026/05/21/klientov-bankov-s-1-iyulya-zhdut-vazhnye-izmeneniya-chto-nado-znat">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Серьезная авария с электробусом в Минске: возбуждено уголовное дело (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1245534</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/sereznaya-avariya-s-elektrobusom-v-minske-ochevidcy-soobshhayut-o-bolshom-chisle-postradavshix</guid>
+      <pubDate>Thu, 21 May 2026 12:30:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/sereznaya-avariya-s-elektrobusom-v-minske-ochevidcy-soobshhayut-o-bolshom-chisle-postradavshix"><img alt="" src="https://content.onliner.by/news/thumbnail/b1be7ad2416423cbe8c563b2a219075a.jpg" /></a></p><p>В Минске возле здания №18 на улице Академика Купревича случилось серьезное ДТП с участием электробуса и легковушкой. По словам очевидцев, авария выглядит масштабной: на месте находятся несколько машин скорой помощи, которые увозят пострадавших. </p><p><a href="https://auto.onliner.by/2026/05/21/sereznaya-avariya-s-elektrobusom-v-minske-ochevidcy-soobshhayut-o-bolshom-chisle-postradavshix">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Ballu Odyssey Pro DC Inverter: тихие, мощные и умные кондиционеры для дома</title>
+      <link>https://4pda.to/2026/05/21/456721/ballu_odyssey_pro_dc_inverter_tikhie_moschnye_i_umnye_konditsionery_dlya_doma/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456721/ballu_odyssey_pro_dc_inverter_tikhie_moschnye_i_umnye_konditsionery_dlya_doma/</guid>
+      <pubDate>Thu, 21 May 2026 12:30:00 +0000</pubDate>
+      <description><![CDATA[Современный кондиционер — это не просто настенный морозильник. Он выполняет функции нескольких климатических приборов, не забывая о комфорте владельца. Модели серии Ballu Odyssey Pro DC Inverter умеют [...]]]></description>
+    </item>
+    <item>
+      <title>Блинчики, наггетсы, шашлычок: какая столовская еда в топе у школьников</title>
+      <link>https://people.onliner.by/go/1302510</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/stolovskaya-eda-v-tope-u-shkolnikov</guid>
+      <pubDate>Thu, 21 May 2026 12:28:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/stolovskaya-eda-v-tope-u-shkolnikov"><img alt="" src="https://content.onliner.by/news/thumbnail/a8bb041446e68d82e3222e1517f3ad34.jpg" /></a></p><p><p dir="ltr">В Минске рассказали, какие блюда больше всего нравятся школьникам. Среди фаворитов — блинчики с разными начинками, картофель с соусом, наггетсы и куриные колбаски. Эти вопросы обсуждали 21 мая на заседании Мингорисполкома.</p><p><a href="https://people.onliner.by/2026/05/21/stolovskaya-eda-v-tope-u-shkolnikov">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Игровой QD-OLED монитор Acer Predator X27UW1 с частотой 240 Гц вышел в России</title>
+      <link>https://4pda.to/2026/05/21/456717/igrovoj_qd_oled_monitor_acer_predator_x27uw1_s_chastotoj_240_gts_vyshel_v_rossii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456717/igrovoj_qd_oled_monitor_acer_predator_x27uw1_s_chastotoj_240_gts_vyshel_v_rossii/</guid>
+      <pubDate>Thu, 21 May 2026 12:25:00 +0000</pubDate>
+      <description><![CDATA[Российским пользователям стал
+доступен для покупки монитор Acer Predator X27UW1. Оснащённая 26,5-дюймовой панелью QD-OLED&nbsp;модель обеспечивает высокую плотность пикселей и максимальную плавность в
+компактном [...]]]></description>
+    </item>
+    <item>
+      <title>GIGABYTE представила Aorus Master 16 с топовым мобильным железом</title>
+      <link>https://4pda.to/2026/05/21/456725/gigabyte_predstavila_aorus_master_16_s_topovym_mobilnym_zhelezom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456725/gigabyte_predstavila_aorus_master_16_s_topovym_mobilnym_zhelezom/</guid>
+      <pubDate>Thu, 21 May 2026 12:20:00 +0000</pubDate>
+      <description><![CDATA[GIGABYTE представила новый флагманский игровой ноутбук Aorus MASTER 16 2026 года. Компания позиционирует его как универсальную систему для игр, работы с ИИ и тяжёлых профессиональных задач. Ноутбук получил [...]]]></description>
+    </item>
+    <item>
+      <title>Новый vivo Y600 Turbo оснастят аккумулятором на 9020 мАч</title>
+      <link>https://4pda.to/2026/05/21/456715/novyj_vivo_y600_turbo_osnastyat_akkumulyatorom_na_9020_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456715/novyj_vivo_y600_turbo_osnastyat_akkumulyatorom_na_9020_mach/</guid>
+      <pubDate>Thu, 21 May 2026 12:10:00 +0000</pubDate>
+      <description><![CDATA[Компания vivo официально подтвердила скорый выпуск нового смартфона Y600 Turbo. Хотя первый тизер раскрывает только дизайн и расцветки устройства, инсайдеры уже обнародовали практически полный список предполагаемых [...]]]></description>
+    </item>
+    <item>
+      <title>«Подача воды планируется в течение всего теплого сезона». Кажется, слаломный канал ожил надолго (обновлено)</title>
+      <link>https://realt.onliner.by/go/1104722</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/slalomni-kanal</guid>
+      <pubDate>Thu, 21 May 2026 12:00:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/slalomni-kanal"><img alt="" src="https://content.onliner.by/news/thumbnail/089d2cd820205c87f7051435648b19c6.jpg" /></a></p><p>Соцсети заполнились восторженными сообщениями о том, что в слаломный канал под Минском пустили воду. Событие это довольно редкое, к тому же еще и очень живописное. Большую часть времени речушка с причудливыми формами стоит либо осушенной, либо с небольшим количеством застоявшейся воды. Но иногда она превращается в бурлящую реку с шапками пены. Так случилось вчера, и, кажется, продлится еще долго.
+</p><p><a href="https://realt.onliner.by/2026/05/21/slalomni-kanal">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Свобода в движении. Авторы Splitgate анонсировали наследницу Titanfall</title>
+      <link>https://4pda.to/2026/05/21/456714/svoboda_v_dvizhenii_avtory_splitgate_anonsirovali_naslednitsu_titanfall/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456714/svoboda_v_dvizhenii_avtory_splitgate_anonsirovali_naslednitsu_titanfall/</guid>
+      <pubDate>Thu, 21 May 2026 12:00:07 +0000</pubDate>
+      <description><![CDATA[Уже почти 10 лет фанаты дилогии Titanfall просят Electronic Arts и Respawn Entertainment сделать третью часть культового экшена про паркур и гигантских роботов. Увы, обе компании сейчас слишком заняты [...]]]></description>
+    </item>
+    <item>
+      <title>Сложная жизнь могла появиться на Земле на 10 миллионов лет раньше, чем все думали</title>
+      <link>https://tech.onliner.by/go/775022</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/slozhnaya-zhizn-mogla-poyavitsya-na-zemle-na-10-millionov-let-ranshe-chem-vse-dumali</guid>
+      <pubDate>Thu, 21 May 2026 11:55:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/slozhnaya-zhizn-mogla-poyavitsya-na-zemle-na-10-millionov-let-ranshe-chem-vse-dumali"><img alt="" src="https://content.onliner.by/news/thumbnail/120a022ba05d9dfd62b80e5e7eacea9d.jpg" /></a></p><p>Обнаруженные на северо-западе Канады ископаемые останки свидетельствуют, что сложные организмы эволюционировали минимум на десять миллионов лет раньше, чем считалось. Во всяком случае так <a href="https://www.livescience.com/planet-earth/evolution/complex-animals-evolved-up-to-10-million-years-earlier-than-previously-thought-fossil-discovery-shows" target="_blank">сообщают</a> в Live Science, где <a href="https://www.science.org/doi/10.1126/sciadv.aed9916" target="_blank">ссылаются</a> на работу в Science Advances.</p><p><a href="https://tech.onliner.by/2026/05/21/slozhnaya-zhizn-mogla-poyavitsya-na-zemle-na-10-millionov-let-ranshe-chem-vse-dumali">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Маршрутка врезалась в столб после опасного маневра Nissan в Минске. 5 пассажиров пострадали  (видео)</title>
+      <link>https://auto.onliner.by/go/1246880</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/5-passazhirov-postradali</guid>
+      <pubDate>Thu, 21 May 2026 11:41:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/5-passazhirov-postradali"><img alt="" src="https://content.onliner.by/news/thumbnail/24a390efac1b59ff510da5b5afd22982.jpg" /></a></p><p>Сегодня днем на улице Орловской, в районе дома №26, 27-летний водитель Nissan при перестроении не уступил дорогу маршрутке Mercedes и создал аварийную ситуацию. Отмечается, что в маршрутном такси были пассажиры. </p><p><a href="https://auto.onliner.by/2026/05/21/5-passazhirov-postradali">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Последствия жуткой аварии на М2. Как идет сбор на реабилитацию 6-летней Софии после публикации? (обновлено)</title>
+      <link>https://auto.onliner.by/go/1245803</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/posledstviya-zhutkoj-avarii-na-m2</guid>
+      <pubDate>Thu, 21 May 2026 11:31:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/posledstviya-zhutkoj-avarii-na-m2"><img alt="" src="https://content.onliner.by/news/thumbnail/5afd24e888f0e98b4f8225804a8699f1.jpg" /></a></p><p><em>«Под Минском Peugeot врезался в остановившийся грузовик — пострадал ребенок»,</em> — <a href="https://auto.onliner.by/2026/03/07/pod-minskom-peugeot-vrezalsya-v-ostanovivshijsya-gruzovik" target="_blank">гласит</a> сухая новостная сводка от 7 марта. Но за словом «пострадал» — жуткая несправедливость и страшные последствия для маленькой Софии. Шестилетняя малышка ехала с дедушкой на дачу в выходной, но оказалась на операционном столе, а затем в коме и на аппарате ИВЛ. Ребенок, у которого до аварии в медкарте была максимум ОРВИ, получил травмы «по статистике несовместимые с жизнью» и теперь прикован к постели. Но очень хочется верить, что временно: родители Софии открыли сбор, чтобы отправиться вместе с малышкой на реабилитацию. Поговорили с мамой девочки про жуткое ДТП и узнали, как можно помочь семье (ссылка на реквизиты — в конце текста).</p><p><a href="https://auto.onliner.by/2026/05/21/posledstviya-zhutkoj-avarii-na-m2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Обзор GIGABYTE MO32U24: главный QD-OLED этого года?</title>
+      <link>https://4pda.to/2026/05/21/456679/obzor_gigabyte_mo32u24_glavnyj_qd_oled_etogo_goda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456679/obzor_gigabyte_mo32u24_glavnyj_qd_oled_etogo_goda/</guid>
+      <pubDate>Thu, 21 May 2026 11:00:00 +0000</pubDate>
+      <description><![CDATA[Сегодня изучаем один из самых крутых QD-OLED, доступных на рынке. Модель предлагает сверхчёткую картинку, высокую скорость смены кадров и решение ряда врождённых проблем технологии, причём по адекватной [...]]]></description>
+    </item>
+    <item>
+      <title>Осталось всего пару недель. Самое популярное место для фотосессий прямо сейчас</title>
+      <link>https://people.onliner.by/go/1302350</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/cvet-nastroeniya-zheltyj-fotoreportazh-s-cvetushhix-rapsovyx-polej</guid>
+      <pubDate>Thu, 21 May 2026 10:51:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/cvet-nastroeniya-zheltyj-fotoreportazh-s-cvetushhix-rapsovyx-polej"><img alt="" src="https://content.onliner.by/news/thumbnail/6a0846c6f457af52621457baefba48c4.jpg" /></a></p><p>В Беларуси сезон цветения рапса — это наша альтернатива французскому Провансу c лавандовыми полями. Если запах цветущего рапсового поля скорее «на любителя», то его фотогеничность вряд ли кто-то станет оспаривать. Особенно хороши желтые поля в закатном солнце, чем и воспользовался наш фотограф Александр Ружечка. Ловите сочный весенний фоторепортаж из пригорода Минска.
+</p><p><a href="https://people.onliner.by/2026/05/21/cvet-nastroeniya-zheltyj-fotoreportazh-s-cvetushhix-rapsovyx-polej">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Представлен POCO Pad C1: экран 120 Гц, ёмкая АКБ и процессор Snapdragon</title>
+      <link>https://4pda.to/2026/05/21/456699/predstavlen_poco_pad_c1_ekran_120_gts_yomkaya_akb_i_protsessor_snapdragon/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456699/predstavlen_poco_pad_c1_ekran_120_gts_yomkaya_akb_i_protsessor_snapdragon/</guid>
+      <pubDate>Thu, 21 May 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Бренд POCO провёл презентацию своего нового планшета Pad C1. Ключевыми особенностями гаджета стали экран с высокой частотой обновления и хорошая автономность.
+Фронтальную часть POCO Pad C1
+занял IPS-дисплей [...]]]></description>
+    </item>
+    <item>
+      <title>В Китае создали интерактивного робота-«горничную» [ФОТО]</title>
+      <link>https://4pda.to/2026/05/21/456698/v_kitae_sozdali_interaktivnogo_robota_gornichnuyu_foto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456698/v_kitae_sozdali_interaktivnogo_robota_gornichnuyu_foto/</guid>
+      <pubDate>Thu, 21 May 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания GigaBrain анонсировала робота-помощника Shiguang S1&nbsp;для работ по дому. Он получил несколько функций «горничной», а при желании с ним можно просто поговорить благодаря встроенному [...]]]></description>
+    </item>
+    <item>
+      <title>Совсем уже? Трешка продается за $25 миллионов и вот почему</title>
+      <link>https://realt.onliner.by/go/1105152</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/sovsem-uzhe</guid>
+      <pubDate>Thu, 21 May 2026 10:28:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/sovsem-uzhe"><img alt="" src="https://content.onliner.by/news/thumbnail/8c1767dd82a5cd438d2eb4eb95c6dede.jpg" /></a></p><p>В районе Meatpacking District на западе Манхэттена продается трехкомнатная квартира, причем просят за нее сразу $25 миллионов. Цена объясняется не только расположением объекта в престижном районе Нью-Йорка. На самом деле это лишь формально «трешка». В действительности площадь апартаментов составляет почти 650 квадратных метров, <a href="https://nypost.com/2026/05/19/real-estate/manhattans-largest-2-bedroom-apartment-asks-25m/" target="_blank">сообщает</a> New York Post.</p><p><a href="https://realt.onliner.by/2026/05/21/sovsem-uzhe">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Белоруске отказались давать выходной на работе из-за мужа</title>
+      <link>https://money.onliner.by/go/327779</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/beloruske-otkazalis-davat-vyxodnoj-na-rabote-iz-za-muzha</guid>
+      <pubDate>Thu, 21 May 2026 10:27:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/beloruske-otkazalis-davat-vyxodnoj-na-rabote-iz-za-muzha"><img alt="" src="https://content.onliner.by/news/thumbnail/d305642e1edd84d086fdade7c2eb4845.jpg" /></a></p><p>Многодетной матери из Могилевской области не давали выходной на работе, потому что ее муж — индивидуальный предприниматель. Женщина решила пожаловаться в профсоюз.</p><p><a href="https://money.onliner.by/2026/05/21/beloruske-otkazalis-davat-vyxodnoj-na-rabote-iz-za-muzha">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В Минске пройдет саммит о блокчейне, майнинге и криптобанках</title>
+      <link>https://tech.onliner.by/go/774983</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/blokchejn-2</guid>
+      <pubDate>Thu, 21 May 2026 10:20:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/blokchejn-2"><img alt="" src="https://content.onliner.by/news/thumbnail/da73c1c39f12249c287531e6d14cabc2.jpg" /></a></p><p>В Минске 30 мая состоится международный саммит Blockchain World о трендах в блокчейне, криптовалютах, fintech-сфере, майнинге, ИИ, Web3 и криптобанках. Мероприятие проводится уже третий раз, на площадке в отеле «Виктория Олимп» планируется собрать участников из пяти стран.</p><p><a href="https://tech.onliner.by/2026/05/21/blokchejn-2">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Глава Hasbro объяснил своё желание вложить деньги в Exodus. Он уверен — миру нужны игры в духе Mass Effect</title>
+      <link>https://4pda.to/2026/05/21/456707/glava_hasbro_obyasnil_svoyo_zhelanie_vlozhit_dengi_v_exodus_on_uveren_miru_nuzhny_igry_v_dukhe_mass_effect/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456707/glava_hasbro_obyasnil_svoyo_zhelanie_vlozhit_dengi_v_exodus_on_uveren_miru_nuzhny_igry_v_dukhe_mass_effect/</guid>
+      <pubDate>Thu, 21 May 2026 10:15:00 +0000</pubDate>
+      <description><![CDATA[Несколько лет назад бывшие сотрудники BioWare объединили силы и основали 	Archetype Entertainment. Первый проект студии, Exodus, отчётливо вдохновлён Mass Effect — именно это, как оказалось, привлекло [...]]]></description>
+    </item>
+    <item>
+      <title>Минчанина лишили родительских прав, хотя на суде он обещал исправиться</title>
+      <link>https://people.onliner.by/go/1302336</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/obeshhal-ispravitsya</guid>
+      <pubDate>Thu, 21 May 2026 10:03:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/obeshhal-ispravitsya"><img alt="" src="https://content.onliner.by/news/thumbnail/0b18fcea8164a51a02fdbda4c64a71df.jpg" /></a></p><p><p dir="ltr">Суд с участием прокурора рассмотрел дело по иску жительницы Минска о лишении бывшего партнера родительских прав. Об этом <a href="https://minsknews.by/sud-lishil-minchanina-roditelskih-prav-hotya-tot-byl-protiv/" target="_blank">сообщили</a> агентству «Минск-Новости» в прокуратуре Октябрьского района столицы.</p><p><a href="https://people.onliner.by/2026/05/21/obeshhal-ispravitsya">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>HMD готовит к выпуску недорогой смартфон Thunder Pro с OLED-дисплеем</title>
+      <link>https://4pda.to/2026/05/21/456696/hmd_gotovit_k_vypusku_nedorogoj_smartfon_thunder_pro_s_oled_displeem/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/21/456696/hmd_gotovit_k_vypusku_nedorogoj_smartfon_thunder_pro_s_oled_displeem/</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[Инсайдер под ником HMD_MEME'S
+рассекретил в соцсети X новый недорогой смартфон HMD Thunder Pro. Помимо списка характеристик, он опубликовал и рендеры, демонстрирующие дизайн будущей новинки.
+По имеющимся [...]]]></description>
     </item>
     <item>
       <title>ONYX анонсировала две компактные «читалки» на Android с экранами E-Ink</title>
@@ -63,14 +410,6 @@
       <pubDate>Thu, 21 May 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[Компания ONYX объявила о выпуске компактных электронных книг BOOX Poke 7 и 7 Pro. Они работают под управлением Android и выполнены в оригинальном «ребристом» дизайне, выделяющим их на фоне похожих моделей.
 ONYX [...]]]></description>
-    </item>
-    <item>
-      <title>Попали в ДТП на территории ЕАЭС? Таможня объяснила, как вывезти авто</title>
-      <link>https://auto.onliner.by/go/1246847</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/dtp-na-territorii-eaes</guid>
-      <pubDate>Thu, 21 May 2026 09:20:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/dtp-na-territorii-eaes"><img alt="" src="https://content.onliner.by/news/thumbnail/7cb8f29407694b4be79b13a7a4fc056b.jpg" /></a></p><p>Если временно ввезенный автомобиль на иностранной регистрации попал в ДТП на территории ЕАЭС и не может ехать самостоятельно, его можно вывезти с помощью перевозчика. А что для этого необходимо сделать, <a href="https://t.me/customs_bel/12890" target="_blank">рассказали</a> в Таможенных органах.</p><p><a href="https://auto.onliner.by/2026/05/21/dtp-na-territorii-eaes">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>Первый смартфон OpenAI рассекречен надёжным источником</title>
@@ -87,35 +426,11 @@ ONYX [...]]]></description>
       <description><![CDATA[Warhorse Studios — больше не маленькая студия, которая вынуждена собирать деньги для создания игр через платформу Kickstarter. С недавних пор это компания, способная взять на себя разработку сразу двух [...]]]></description>
     </item>
     <item>
-      <title>Уже даже сердце не болит. В «Минск-Мире» открыли продажи в квартале за старым аэропортом</title>
-      <link>https://realt.onliner.by/go/1105130</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/kvartal-za-starym-aeroportom</guid>
-      <pubDate>Thu, 21 May 2026 08:35:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/kvartal-za-starym-aeroportom"><img alt="" src="https://content.onliner.by/news/thumbnail/a714b965ffe5303183e6e056379580ec.jpg" /></a></p><p>Свершилось. Квартал под названием «Звездный», который возводится сразу за зданием старого аэропорта, включили в рынок столичной недвижимости. Застройщик предложил всем желающим (надо отметить, очень обеспеченным гражданам) апартаменты сразу в пяти зданиях: «Орионе», «Лире», «Андромеде», «Сириусе» и «Веге». Первые три постройки высотные — «столбики» по 14—15 этажей. Оставшиеся две — малоэтажки на шесть уровней.</p><p><a href="https://realt.onliner.by/2026/05/21/kvartal-za-starym-aeroportom">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Характеристики камеры OnePlus 16 слили в сеть до премьеры</title>
       <link>https://4pda.to/2026/05/21/456693/kharakteristiki_kamery_oneplus_16_slili_v_set_do_premery/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/21/456693/kharakteristiki_kamery_oneplus_16_slili_v_set_do_premery/</guid>
       <pubDate>Thu, 21 May 2026 08:30:00 +0000</pubDate>
       <description><![CDATA[В сети появилась техническая информация о камерах будущей новинки OnePlus: инсайдеры раскрыли модель и характеристики основного модуля и перископического сенсора. Согласно «сливу», производитель явно не [...]]]></description>
-    </item>
-    <item>
-      <title>«Создавали проблемы, которых не существовало». В компании уволили всех HR и остались довольны</title>
-      <link>https://money.onliner.by/go/327763</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/v-kompanii-uvolili-vsex-hr-i-ostalis-dovolny</guid>
-      <pubDate>Thu, 21 May 2026 08:21:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/v-kompanii-uvolili-vsex-hr-i-ostalis-dovolny"><img alt="" src="https://content.onliner.by/news/thumbnail/ce3288f83d8c231464096dfd49449696.jpg" /></a></p><p>Райан Бреслоу, CEO финтехкомпании Bolt, заявил, что уволил всю HR-команду, потому что она «создавала проблемы, которых не существовало». По его словам, после увольнения эти проблемы исчезли. Историю подхватили в соцсетях, и увольнение HR спровоцировало бурное обсуждение.</p><p><a href="https://money.onliner.by/2026/05/21/v-kompanii-uvolili-vsex-hr-i-ostalis-dovolny">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Зубры» посыпались? «Зубр Логистик» тоже ушла в ликвидацию: долг больше миллиона</title>
-      <link>https://auto.onliner.by/go/1246707</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/zubry-posypalis-zubr-logistik-tozhe-ushla-v-likvidaciyu-dolg-pochti-450-000</guid>
-      <pubDate>Thu, 21 May 2026 08:06:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/zubry-posypalis-zubr-logistik-tozhe-ushla-v-likvidaciyu-dolg-pochti-450-000"><img alt="" src="https://content.onliner.by/news/thumbnail/9953811d77f4c164ca0d46187d28e81d.jpg" /></a></p><p>Мы уже неоднократно <a href="https://auto.onliner.by/tag/zubr-avtogrupp" target="_blank">рассказывали</a> о ситуации, сложившейся вокруг компании «Зубр Автогрупп» — она занималась пригоном китайских электромобилей под заказ. Не все клиенты получили оплаченные машины к моменту, когда организация внезапно ушла в ликвидацию и съехала из своих офисов. При этом по юридическому адресу «Зубр Автогрупп» было зарегистрировано сразу несколько компаний со схожим названием и сферой деятельности (различались лишь номера помещений) — все они были связаны между собой. Например, насколько нам известно со слов читателей, с «Зубр Логистик» некоторые клиенты заключали договоры на доставку автомобилей. Однако, как стало известно, компания «Зубр Логистик» тоже решила закрыться.</p><p><a href="https://auto.onliner.by/2026/05/21/zubry-posypalis-zubr-logistik-tozhe-ushla-v-likvidaciyu-dolg-pochti-450-000">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>Съёмный экран для смартфонов Honor 600 показали на качественных фото</title>
@@ -126,92 +441,11 @@ ONYX [...]]]></description>
 Focus Digital опубликовал несколько снимков ещё не анонсированного аксессуара для смартфонов серии Honor 600. Устройство представляет собой съёмный экран с магнитным креплением, призванный [...]]]></description>
     </item>
     <item>
-      <title>МТС подключает платную услугу без согласия абонентов?</title>
-      <link>https://tech.onliner.by/go/774942</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/mts-super-bezlimit</guid>
-      <pubDate>Thu, 21 May 2026 07:55:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/mts-super-bezlimit"><img alt="" src="https://content.onliner.by/news/thumbnail/a2ca9643d3f0f97519ad406e35ea926e.jpg" /></a></p><p><p dir="ltr">Несколько читателей написали в редакцию Onlíner с рассказом о необычном уведомлении от МТС. Оператор рассылает SMS, где предупреждает об активации услуги «Супербезлимит», которая снимает ограничения интернета, несмотря на то, что запроса на подключение такой функции не было.</p><p><a href="https://tech.onliner.by/2026/05/21/mts-super-bezlimit">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Доллар просел еще больше. Курсы четверга</title>
-      <link>https://money.onliner.by/go/327742</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/dollar-prosel-eshhe-bolshe-kursy-chetverga</guid>
-      <pubDate>Thu, 21 May 2026 07:43:43 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/dollar-prosel-eshhe-bolshe-kursy-chetverga"><img alt="" src="https://content.onliner.by/news/thumbnail/0c8ad73327eeed8a5e48fb39fc3a497a.jpg" /></a></p><p>Еще вчера казалось, что доллар может развернуться, но сегодня он снова дешевеет. Тем временем биткоин за последние сутки подорожал, сейчас находится вблизи отметки в $77 593.
-</p><p><a href="https://money.onliner.by/2026/05/21/dollar-prosel-eshhe-bolshe-kursy-chetverga">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Фестиваль огня в зоопарке в эти выходные не состоится</title>
-      <link>https://people.onliner.by/go/1302303</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/festival-ognya-v-zooparke</guid>
-      <pubDate>Thu, 21 May 2026 07:43:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/festival-ognya-v-zooparke"><img alt="" src="https://content.onliner.by/news/thumbnail/9dbef72aa9feaa51324bfa4247aabe77.jpg" /></a></p><p><p dir="ltr">Трехдневный Фестиваль огня, наделавший шуму в соцсетях, все-таки не состоится в эти выходные: организаторы объявили о переносе. Причины — «технические», новые даты объявят позже.</p><p><a href="https://people.onliner.by/2026/05/21/festival-ognya-v-zooparke">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В подъезде дома в «Минск-Мире» начались «раскопки». Жильцы недоумевают: что это вообще такое?</title>
-      <link>https://realt.onliner.by/go/1104999</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/raskopki-v-podezde</guid>
-      <pubDate>Thu, 21 May 2026 07:41:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/raskopki-v-podezde"><img alt="" src="https://content.onliner.by/news/thumbnail/b0e45992d357fe8930a36b075eabf640.jpg" /></a></p><p>Больше месяца назад в подъезде жилого дома под названием «Нью-Йорк» в «Минск-Мире» началось что-то странное: то тут то там в плитке стали появляться дыры. Раскопанный пол вроде и не доставляет больших функциональных неудобств, но выглядит неэстетично. Плюс жильцам непонятно, зачем вообще все это надо. </p><p><a href="https://realt.onliner.by/2026/05/21/raskopki-v-podezde">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Herman Miller выпустила компьютерный стол с электроприводом</title>
       <link>https://4pda.to/2026/05/21/456687/herman_miller_vypustila_kompyuternyj_stol_s_elektroprivodom/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/21/456687/herman_miller_vypustila_kompyuternyj_stol_s_elektroprivodom/</guid>
       <pubDate>Thu, 21 May 2026 07:30:00 +0000</pubDate>
       <description><![CDATA[Известный американский бренд Herman Miller начал продажи нового компьютерного стола Coyl. Особенностями этой модели стали регулировка высоты с помощью электрического привода, а также эргономичный кабель-менеджмент [...]]]></description>
-    </item>
-    <item>
-      <title>Мужчина проехал без билета и подставил водителя троллейбуса. Чем все закончилось? (обновлено)</title>
-      <link>https://money.onliner.by/go/323360</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/muzhchina-proexal-bez-bileta-i-mog-otdelatsya-shtrafom-no-zachem-to-nazval-chuzhoe-imya</guid>
-      <pubDate>Thu, 21 May 2026 07:05:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/muzhchina-proexal-bez-bileta-i-mog-otdelatsya-shtrafom-no-zachem-to-nazval-chuzhoe-imya"><img alt="" src="https://content.onliner.by/news/thumbnail/776469b7c5bdc550d7d52cb1bbfb375d.jpg" /></a></p><p>Летом прошлого года нетрезвый 40-летний мужчина купил букет для девушки и поехал к ней на автобусе, но решил не пробивать талон для экономии. Уже на следующей остановке в салон зашли контролеры.</p><p><a href="https://money.onliner.by/2026/05/21/muzhchina-proexal-bez-bileta-i-mog-otdelatsya-shtrafom-no-zachem-to-nazval-chuzhoe-imya">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Видео: «Белджи» после столкновения с Toyota отбросило на грузовик (видео)</title>
-      <link>https://auto.onliner.by/go/1246820</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/otbrosilo-v-gruzovik</guid>
-      <pubDate>Thu, 21 May 2026 06:56:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/otbrosilo-v-gruzovik"><img alt="" src="https://content.onliner.by/news/thumbnail/d562fdf55e0594513dd92f47a3dba0a3.jpg" /></a></p><p>Вчера вечером 21-летняя водитель «Белджи» ехала по улице Плеханова и при повороте налево на улицу Горовца, по версии ГАИ Минска, не уступила дорогу встречному автомобилю Toyota. В результате произошла авария.</p><p><a href="https://auto.onliner.by/2026/05/21/otbrosilo-v-gruzovik">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Samsung собирается выпустить Galaxy S27 Pro. Инсайдеры узнали подробности</title>
-      <link>https://tech.onliner.by/go/774930</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/samsung-sobiraetsya-vypustit-galaxy-s27-pro-insajdery-uznali-podrobnosti</guid>
-      <pubDate>Thu, 21 May 2026 06:48:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/samsung-sobiraetsya-vypustit-galaxy-s27-pro-insajdery-uznali-podrobnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/adcbe07f86e3e05be16cb0c3c573575f.jpg" /></a></p><p>В следующем году Samsung, как <a href="https://www.etnews.com/20260520000272" target="_blank">утверждают</a> источники издания ETNews, собирается пополнить модельный ряд смартфонов серии Galaxy S. Так, компания может выпустить Galaxy S27 Pro — в сеть попала информация про экран девайса.</p><p><a href="https://tech.onliner.by/2026/05/21/samsung-sobiraetsya-vypustit-galaxy-s27-pro-insajdery-uznali-podrobnosti">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Умер Карл III» — такое сообщение прозвучало на британском радио по ошибке</title>
-      <link>https://people.onliner.by/go/1302293</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/umer-karl-iii-po-oshibke</guid>
-      <pubDate>Thu, 21 May 2026 06:42:20 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/umer-karl-iii-po-oshibke"><img alt="" src="https://content.onliner.by/news/thumbnail/f6496cee4164d7ef5139f5fd53f90144.jpg" /></a></p><p><p dir="ltr">Британская радиостанция Radio Caroline по ошибке сообщила в эфире о смерти короля Карла III. Как <a href="https://www.independent.co.uk/news/uk/home-news/king-charles-death-radio-caroline-b2980386.html" target="_blank">пишет</a> The Independent, в трансляции случайно прозвучал заранее подготовленный экстренный ролик, который британские СМИ хранят на случай смерти монарха.</p><p><a href="https://people.onliner.by/2026/05/21/umer-karl-iii-po-oshibke">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Выглядит впечатляюще! Зачем Свислочь в Минске разделили надвое?</title>
-      <link>https://realt.onliner.by/go/1104973</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/razdelili-nadvoe</guid>
-      <pubDate>Thu, 21 May 2026 06:34:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/razdelili-nadvoe"><img alt="" src="https://content.onliner.by/news/thumbnail/d1be3bcf948969cfb4f7948a8aa509ce.png" /></a></p><p>Недалеко от гостиницы «Юбилейной» в Минске продолжется очень интересная стройка — здесь пройдет третья ветка метро. Для этого огородили участок возле Свислочи и проводят манипуляции с рекой. Какие именно? Подробности <a href="https://t.me/minskstroybelarus/8889" target="_blank">рассказали</a> в компании «Минскстрой».</p><p><a href="https://realt.onliner.by/2026/05/21/razdelili-nadvoe">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>С 1 июня обновят банкноту 200 рублей</title>
-      <link>https://money.onliner.by/go/327714</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/s-1-iyunya-obnovyat-banknotu-200-rublej</guid>
-      <pubDate>Thu, 21 May 2026 06:32:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/s-1-iyunya-obnovyat-banknotu-200-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/48ac8781b451dac4bc9f05465ae41eb6.jpg" /></a></p><p>Нацбанк с 1 июня 2026 года выпускает в обращение новую банкноту номиналом 200 рублей. Соответствующее постановление правления Нацбанка подписал Роман Головченко.</p><p><a href="https://money.onliner.by/2026/05/21/s-1-iyunya-obnovyat-banknotu-200-rublej">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>Обзор OPPO Find X9 Ultra: возможно, главный фотофлагман года</title>
@@ -237,14 +471,6 @@ Focus Digital опубликовал несколько снимков ещё н
 дизайна, а характеристики [...]]]></description>
     </item>
     <item>
-      <title>Посмотрите финальный трейлер «Властелинов Вселенной» — блокбастера от режиссера «Бамблби»</title>
-      <link>https://tech.onliner.by/go/774921</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/05/21/posmotrite-finalnyj-trejler-vlastelinov-vselennoj-blokbastera-ot-rezhissera-bamblbi</guid>
-      <pubDate>Thu, 21 May 2026 06:04:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/21/posmotrite-finalnyj-trejler-vlastelinov-vselennoj-blokbastera-ot-rezhissera-bamblbi"><img alt="" src="https://content.onliner.by/news/thumbnail/0a08129c8e6c38f9f9fe0d108c602af3.jpg" /></a></p><p>На YouTube-канале Amazon MGM Studios опубликовали финальный трейлер нового фильма «Властелины Вселенной» — блокбастера, режиссером которого выступает Трэвис Найт, известный по «Бамблби».</p><p><a href="https://tech.onliner.by/2026/05/21/posmotrite-finalnyj-trejler-vlastelinov-vselennoj-blokbastera-ot-rezhissera-bamblbi">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>OPPO презентовала доступные TWS-наушники с «заряженными» характеристиками</title>
       <link>https://4pda.to/2026/05/21/456685/oppo_prezentovala_dostupnye_tws_naushniki_s_zaryazhennymi_kharakteristikami/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/21/456685/oppo_prezentovala_dostupnye_tws_naushniki_s_zaryazhennymi_kharakteristikami/</guid>
@@ -268,190 +494,12 @@ Focus Digital опубликовал несколько снимков ещё н
 а беспроводные наушники TWS 5i примечательны поддержкой ИИ-функций [...]]]></description>
     </item>
     <item>
-      <title>Принимаем новостройку: такого вида не видал я сроду — новый дом-полукольцо от МАПИДа</title>
-      <link>https://realt.onliner.by/go/1104791</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/21/prinimaem-novostrojku-dom-ot-mapida</guid>
-      <pubDate>Thu, 21 May 2026 05:00:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/21/prinimaem-novostrojku-dom-ot-mapida"><img alt="" src="https://content.onliner.by/news/thumbnail/d69f1b099da365b9a02c67f28c7a2bc3.jpg" /></a></p><p>За квартирами в этом доме охотились многие. Прознав, что МАПИД начинает возводить новую многоэтажку-полукольцо на улице Турова, минчане тут же собрались: предыдущий опыт <a href="https://realt.onliner.by/2024/12/19/dezhurili-noch-radi-treshek-s-francuzskimi-oknami-goszastrojshhik-predlozhil" target="_blank">подсказывал</a>, что конкуренции (возможно, довольно яростной) не избежать. Все дело — в чарующем виде из окон. Каждый день смотреть на <a href="https://realt.onliner.by/amp/2022/05/25/chto-stroyat-u-svislochi-mezhdu-loshicej-i-chizhovkoj" target="_blank">облагороженный</a> кусочек Свислочи и Чижовское водохранилище — огромное благо. Да еще по нормальной (может, даже чуть ниже рыночной) цене. Почти три сотни минчан не упустили свой шанс и построили квартиры в живописной локации. Среди них — Евгения и Виталий, которые выбрали просторную светлую трешку. Вместе с компанией «Эво Лэнд» мы проверили все 92 панельных «квадрата», чтобы узнать, каково же качество метров в «народном» доме.</p><p><a href="https://realt.onliner.by/2026/05/21/prinimaem-novostrojku-dom-ot-mapida">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>«Я просто подписала бумаги». Эта белоруска должна банку больше 2,3 миллиона рублей</title>
-      <link>https://money.onliner.by/go/327615</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/dolg-na-800k-usd</guid>
-      <pubDate>Thu, 21 May 2026 05:00:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/dolg-na-800k-usd"><img alt="" src="https://content.onliner.by/news/thumbnail/33f24b6a1e00c03a627c31f2b2eec3bb.jpg" /></a></p><p>Татьяна Почепко вложила семейные деньги в строительство дома и подписала договор поручительства. Тогда ей казалось, что она осуществляет свою мечту и участвует в обычном проекте, который закончится новым домом. Спустя 13 лет у нее больше нет своего участка, квартира арестована, а долг перед банком составляет более 2,3 млн рублей. Как одна подпись может полностью изменить жизнь человека, читайте в этом материале.</p><p><a href="https://money.onliner.by/2026/05/21/dolg-na-800k-usd">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Сходили на новый фермерский рынок и показываем, сколько денег туда надо брать</title>
-      <link>https://money.onliner.by/go/327336</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/21/gus-market</guid>
-      <pubDate>Thu, 21 May 2026 05:00:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/21/gus-market"><img alt="" src="https://content.onliner.by/news/thumbnail/e28ac1c0d68421cb22b49b0051e38abc.jpg" /></a></p><p>Сыр из козьего молока, улитки, домашняя выпечка и медовый квас — в начале мая в центре Минска открылся новый фермерский рынок. Впрочем, новый он только условно: локация уже хорошо известна минчанам, а сам рынок с прошлого года работает в торговых центрах. «Гусь Маркет» — идея 22-летнего Матвея, который хочет раскачать фермерскую культуру в Беларуси. Мы сходили на площадку и посмотрели, что там продают, сколько это стоит и зачем вообще Минску еще один фермерский рынок.</p><p><a href="https://money.onliner.by/2026/05/21/gus-market">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Раньше ела как здоровый мужик». Белоруска взялась за себя — и потеряла треть веса</title>
-      <link>https://people.onliner.by/go/1292958</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/eta-beloruska-kruto-poxudela</guid>
-      <pubDate>Thu, 21 May 2026 05:00:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/eta-beloruska-kruto-poxudela"><img alt="" src="https://content.onliner.by/news/thumbnail/4317237190deb2cb30b2cd8071b6083a.jpg" /></a></p><p>Диане 26 лет. Два года назад ее вес дошел до отметки 97,7 килограмма — это стало критическим для нее моментом. Девушка полностью пересмотрела свое питание и с тех пор взвешивает всю еду, считает КБЖУ и вносит все приемы пищи (чашку капучино тоже!) в специальное приложение. Правда, сбросив около 35 килограммов за первые девять месяцев, Диана стала сомневаться по поводу каждого кусочка еды, но потом смогла «договориться с головой» — и сейчас ест все, даже любимые сладости. Расспросили девушку, как контролировать вес с умом и без страданий.</p><p><a href="https://people.onliner.by/2026/05/21/eta-beloruska-kruto-poxudela">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«У всех россиян появились родственники в Беларуси». Что сейчас происходит на рынке в Малиновке?</title>
-      <link>https://auto.onliner.by/go/1246767</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/21/reportazh-s-avtorynka-v-malinovke-2</guid>
-      <pubDate>Thu, 21 May 2026 05:00:01 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/21/reportazh-s-avtorynka-v-malinovke-2"><img alt="" src="https://content.onliner.by/news/thumbnail/5d48da634f539480c54a9dc37c475b70.jpg" /></a></p><p><em>«Рынок жил, живет и будет жить»,</em> — пафосно заявляет один из продавцов на площадке в Малиновке, когда мы спрашиваем, как идут дела. И судя по всему, это правда. Не убили рынок ни миграция продаж в интернет, ни безуспешные попытки реализовать площадку на <a href="https://beltorgi.by/universalnyij-ryinok-%C2%ABmalinovka%C2%BB-100-dolej-v-ustavnom-fonde-ooo-%C2%ABgruzovaya-sluzhba-%E2%80%93-vostok%C2%BB.html" target="_blank">торгах</a>, ни уменьшение количества покупателей из России в последние годы. Что там сейчас продается и за сколько? Что на авторынке делают гости из Китая и с какими предложениями подходят к представителям автохаусов? Рассказываем.</p><p><a href="https://auto.onliner.by/2026/05/21/reportazh-s-avtorynka-v-malinovke-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Зря ушёл. Экшен-адвенчура по Dungeons &amp;amp; Dragons от автора Star Wars Jedi: Fallen Order отменена</title>
-      <link>https://4pda.to/2026/05/21/456655/zrya_ushyol_ekshen_advenchura_po_dungeons_amp_dragons_ot_avtora_star_wars_jedi_fallen_order_otmenena/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456655/zrya_ushyol_ekshen_advenchura_po_dungeons_amp_dragons_ot_avtora_star_wars_jedi_fallen_order_otmenena/</guid>
-      <pubDate>Thu, 21 May 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Талантливые люди не любят подолгу сидеть взаперти в одной студии, поэтому они красиво уходят и открывают собственные компании. Многие надеются, что дальше их ждёт безоблачная карьера, однако в этой жизни [...]]]></description>
-    </item>
-    <item>
-      <title>Китайская видеокарта Lisuan 7G100 уже в продаже. Сколько стоит?</title>
-      <link>https://4pda.to/2026/05/21/456683/kitajskaya_videokarta_lisuan_7g100_uzhe_v_prodazhe_skolko_stoit/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456683/kitajskaya_videokarta_lisuan_7g100_uzhe_v_prodazhe_skolko_stoit/</guid>
-      <pubDate>Thu, 21 May 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[В Китае стартовали предзаказы на видеокарту Lisuan 7G100 Founder&nbsp;Edition — первую игровую модель местного бренда с сертификатом WHQL. Производитель позиционирует новинку как игровую модель, также [...]]]></description>
-    </item>
-    <item>
-      <title>«Хороший секс должен длиться 3,5 минуты». Разбираем мужские страхи в постели (18+)</title>
-      <link>https://people.onliner.by/go/1302135</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/muzhskie-voprosy-pro-seks</guid>
-      <pubDate>Thu, 21 May 2026 04:00:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/muzhskie-voprosy-pro-seks"><img alt="" src="https://content.onliner.by/news/thumbnail/f69ff9e5fb07ebb126bc9b56dea1121f.jpg" /></a></p><p>Удивительно, как быстро один сбой в постели превращает интимную жизнь в филиал программы «Здоровье». В голове сразу запускается консилиум: это возраст, усталость или со мной правда что-то происходит? А следом приходят вопросы, которые мужчины редко задают вслух: почему раньше хотелось чаще, почему тело начинает подводить в самый важный момент, нормально ли не хотеть жену? Вместе с врачами разбираем страхи, которые грызут многих мужчин — особенно в районе 30—40 лет.</p><p><a href="https://people.onliner.by/2026/05/21/muzhskie-voprosy-pro-seks">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>REDMI Turbo 6 Max с большим экраном и ёмкой АКБ рассекречен инсайдером</title>
-      <link>https://4pda.to/2026/05/21/456654/redmi_turbo_6_max_s_bolshim_ekranom_i_yomkoj_akb_rassekrechen_insajderom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456654/redmi_turbo_6_max_s_bolshim_ekranom_i_yomkoj_akb_rassekrechen_insajderom/</guid>
-      <pubDate>Thu, 21 May 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Китайский техноблогер Digital Chat Station, известный как надёжный поставщик «сливов», опубликовал отчёт о готовящемся к выпуску смартфоне&nbsp;REDMI Turbo 6 Max. Информатор назвал ключевые характеристики [...]]]></description>
-    </item>
-    <item>
-      <title>Honor Win Turbo с АКБ на 10 080 мАч получил дату презентации</title>
-      <link>https://4pda.to/2026/05/21/456644/honor_win_turbo_s_akb_na_10_080_mach_poluchil_datu_prezentatsii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456644/honor_win_turbo_s_akb_na_10_080_mach_poluchil_datu_prezentatsii/</guid>
-      <pubDate>Thu, 21 May 2026 03:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Honor выпустила официальный тизер игрового смартфона Win Turbo, подтвердив его дизайн, дату анонса и часть характеристик. Официальную публикацию дополнил инсайдер Digital Chat Station, сообщивший [...]]]></description>
-    </item>
-    <item>
-      <title>Мультиплеерный спин-офф The Witcher жив. Над ним работает сценарист Destiny 2: The Final Shape</title>
-      <link>https://4pda.to/2026/05/21/456661/multipleernyj_spin_off_the_witcher_zhiv_nad_nim_rabotaet_stsenarist_destiny_2_the_final_shape/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456661/multipleernyj_spin_off_the_witcher_zhiv_nad_nim_rabotaet_stsenarist_destiny_2_the_final_shape/</guid>
-      <pubDate>Thu, 21 May 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[CD Projekt продолжает набирать в свой штат всё больше и больше ветеранов игровой индустрии. На сей раз к студии присоединился один из авторов Destiny 2, и ему поручили особый проект.
-Кван Пернг, сценарист&nbsp;Guild [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен Lenovo Yoga 32 Ultra Aura: мощный моноблок с OLED-дисплеем</title>
-      <link>https://4pda.to/2026/05/21/456650/predstavlen_lenovo_yoga_32_ultra_aura_moschnyj_monoblok_s_oled_displeem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456650/predstavlen_lenovo_yoga_32_ultra_aura_moschnyj_monoblok_s_oled_displeem/</guid>
-      <pubDate>Thu, 21 May 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Lenovo выпустила фирменный моноблок премиум-класса Yoga
-32 Ultra Aura. Устройство оборудовано быстрым экраном, производительным железом и продвинутой акустикой, объединёнными в одном корпусе.
-Моноблок [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайды #3865: Xiaomi 17 Max, AMD Ryzen 7 7700X3D, HUAWEI Mate 90 Pro Max и RS Ultimate Design</title>
-      <link>https://4pda.to/2026/05/20/456656/insajdy_3865_xiaomi_17_max_amd_ryzen_7_7700x3d_huawei_mate_90_pro_max_i_rs_ultimate_design/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456656/insajdy_3865_xiaomi_17_max_amd_ryzen_7_7700x3d_huawei_mate_90_pro_max_i_rs_ultimate_design/</guid>
-      <pubDate>Wed, 20 May 2026 19:30:00 +0000</pubDate>
-      <description><![CDATA[В этом выпуске Инсайдов:&nbsp;Xiaomi 17 Max появился в Geekbench;&nbsp;HUAWEI Mate 90 Pro Max и RS Ultimate Design получат два перископа по 50 Мп;&nbsp;AMD готовит к релизу ещё один процессор с 3D-кешем.
-Xiaomi [...]]]></description>
-    </item>
-    <item>
-      <title>Quantum 43U6WQ: белый, умный, с «квантовыми точками»</title>
-      <link>https://4pda.to/2026/05/20/454873/quantum_43u6wq_belyj_umnyj_s_kvantovymi_tochkami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/454873/quantum_43u6wq_belyj_umnyj_s_kvantovymi_tochkami/</guid>
-      <pubDate>Wed, 20 May 2026 18:30:00 +0000</pubDate>
-      <description><![CDATA[Бывают ситуации, когда обычный ТВ&nbsp;не вписывается в интерьер. Специально для таких случаев придумали белые корпуса. Но Quantum 43U6WQ ценен не только дизайном, но и сбалансированной начинкой.
-Quantum [...]]]></description>
-    </item>
-    <item>
-      <title>Глава ID@Xbox пообещал фанатам Xbox «больше перемен в ближайшие два года, чем за последние 25 лет»</title>
-      <link>https://4pda.to/2026/05/20/456653/glava_id_xbox_poobeschal_fanatam_xbox_bolshe_peremen_v_blizhajshie_dva_goda_chem_za_poslednie_25_let/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456653/glava_id_xbox_poobeschal_fanatam_xbox_bolshe_peremen_v_blizhajshie_dva_goda_chem_za_poslednie_25_let/</guid>
-      <pubDate>Wed, 20 May 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[Microsoft взяла курс на спасение Xbox — после нескольких лет топтания на месте компания начала вносить различные изменения в свою политику. И это, судя по туманным заявлениям персонала корпорации, только [...]]]></description>
-    </item>
-    <item>
-      <title>Google выпустила Gemini 3.5 Flash. Тестируем новую модель</title>
-      <link>https://4pda.to/2026/05/20/456680/google_vypustila_gemini_3_5_flash_testiruem_novuyu_model/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456680/google_vypustila_gemini_3_5_flash_testiruem_novuyu_model/</guid>
-      <pubDate>Wed, 20 May 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[Один из важнейших анонсов Google I/O 2026 — обновление флагманского семейства ИИ-моделей Gemini. Пока доступна только облегчённая Gemini 3.5 Flash. Проверяем, на что она способна.
-Большой Gemini 3.5 [...]]]></description>
-    </item>
-    <item>
-      <title>В ARC Raiders добавили античит Denuvo. Но не для всех</title>
-      <link>https://4pda.to/2026/05/20/456660/v_arc_raiders_dobavili_antichit_denuvo_no_ne_dlya_vsekh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456660/v_arc_raiders_dobavili_antichit_denuvo_no_ne_dlya_vsekh/</guid>
-      <pubDate>Wed, 20 May 2026 16:45:00 +0000</pubDate>
-      <description><![CDATA[На прошлой неделе создатели extraction-шутера ARC Raiders поделились с фанатами планами на будущее игры. Мало кто подозревал, что в них также входит внедрение в боевик скандальной программы.
-На днях [...]]]></description>
-    </item>
-    <item>
-      <title>Глава Android объяснил провал Google Glass</title>
-      <link>https://4pda.to/2026/05/20/456663/glava_android_obyasnil_proval_google_glass/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456663/glava_android_obyasnil_proval_google_glass/</guid>
-      <pubDate>Wed, 20 May 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Спустя 13 лет после первого анонса Google Glass компания наконец открыто признала причины провала некогда амбициозного гаджета. Самир Самат, президент экосистемы Android, рассказал на конференции I/O 2026 [...]]]></description>
-    </item>
-    <item>
       <title>Fedora Pulls the Plug on Deepin Over Security and Maintenance Failures</title>
       <link>https://feed.itsfoss.com/link/24361/17344914/fedora-ditches-deepin</link>
       <guid isPermaLink="false">6a0d70e76ef9df0001ebee26</guid>
       <pubDate>Wed, 20 May 2026 15:48:42 +0000</pubDate>
       <description><![CDATA[deepin logo is on the left with red cross mark, in the middle is an illustration of a breach, and on the right is the fedora logo]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>Обзор OnePlus Pad 4: для работы, игр, фильмов и творчества</title>
-      <link>https://4pda.to/2026/05/20/456594/obzor_oneplus_pad_4_dlya_raboty_igr_filmov_i_tvorchestva/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456594/obzor_oneplus_pad_4_dlya_raboty_igr_filmov_i_tvorchestva/</guid>
-      <pubDate>Wed, 20 May 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[OnePlus обновила линейку планшетов, и Pad 4 стал логичным продолжением предыдущей модели серии. У него топовый процессор, 13,2-дюймовый экран с высокой герцовкой, ёмкая батарея, а ещё можно докупить стилус [...]]]></description>
-    </item>
-    <item>
-      <title>Aquarius показала 5G-смартфон с «антишпионскими» кнопками и тремя ОС</title>
-      <link>https://4pda.to/2026/05/20/456642/aquarius_pokazala_5g_smartfon_s_antishpionskimi_knopkami_i_tremya_os/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456642/aquarius_pokazala_5g_smartfon_s_antishpionskimi_knopkami_i_tremya_os/</guid>
-      <pubDate>Wed, 20 May 2026 15:20:00 +0000</pubDate>
-      <description><![CDATA[Российская компания&nbsp;Aquarius представила&nbsp;AQfone NS D21&nbsp;— смартфон&nbsp;с металлической рамкой, защитой по стандарту IP68, поддержкой 5G и физическими кнопками&nbsp;«конфиденциальности». [...]]]></description>
-    </item>
-    <item>
-      <title>Полный вперёд. Forza Horizon 6 установила новый рекорд для серии и Xbox Game Studios</title>
-      <link>https://4pda.to/2026/05/20/456658/polnyj_vperyod_forza_horizon_6_ustanovila_novyj_rekord_dlya_serii_i_xbox_game_studios/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456658/polnyj_vperyod_forza_horizon_6_ustanovila_novyj_rekord_dlya_serii_i_xbox_game_studios/</guid>
-      <pubDate>Wed, 20 May 2026 15:10:00 +0000</pubDate>
-      <description><![CDATA[Если не считать одной досадной накладки, релиз Forza Horizon 6 прошёл в целом весьма удачно. Во всяком случае, кататься по виртуальной Японии отправились сотни тысяч пользователей сразу.
-19 мая состоялась [...]]]></description>
-    </item>
-    <item>
-      <title>Lenovo выпустила игровой планшет Legion Y900 2026 на флагманском Dimensity 9500S</title>
-      <link>https://4pda.to/2026/05/20/456643/lenovo_vypustila_igrovoj_planshet_legion_y900_2026_na_flagmanskom_dimensity_9500s/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456643/lenovo_vypustila_igrovoj_planshet_legion_y900_2026_na_flagmanskom_dimensity_9500s/</guid>
-      <pubDate>Wed, 20 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Lenovo выпустила&nbsp;игровой планшет Legion Y900 2026 модельного года. Новинка доступна в двух
-версиях — с экраном диагональю 11,1 и 13 дюймов, а также с флагманским чипом Dimensity.
-Legion
-Y900 [...]]]></description>
-    </item>
-    <item>
-      <title>Агенты вместо поисковика и умные очки. Главные анонсы Google I/O 2026</title>
-      <link>https://4pda.to/2026/05/20/456676/agenty_vmesto_poiskovika_i_umnye_ochki_glavnye_anonsy_google_i_o_2026/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/20/456676/agenty_vmesto_poiskovika_i_umnye_ochki_glavnye_anonsy_google_i_o_2026/</guid>
-      <pubDate>Wed, 20 May 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[Gemini превращается в экосистему из автономных помощников, становясь полезнее в рабочих и креативных задачах. Такой тренд обозначил поисковый гигант на конференции I/O. Ещё обновили поиск и показали умные [...]]]></description>
     </item>
     <item>
       <title>Open Source ONLYOFFICE Docs 9.4 Brings Dark Spreadsheets, Smarter Forms, and a Licensing Cleanup</title>
@@ -467,24 +515,6 @@ Y900 [...]]]></description>
       <guid isPermaLink="false">6a0c344c6ef9df0001ebe977</guid>
       <pubDate>Tue, 19 May 2026 15:11:38 +0000</pubDate>
       <description><![CDATA[there is a group of people standing on the left with question marks over their heads, on the right is the bitwarden logo with three red exclamation marks attached]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>How I Finally Added Tapo L530 Bulb to Home Assistant</title>
-      <link>https://feed.itsfoss.com/link/24361/17343514/add-tapo-bulb-home-assistant</link>
-      <guid isPermaLink="false">6a0aec3b6ef9df0001ebe4d5</guid>
-      <pubDate>Mon, 18 May 2026 15:08:08 +0000</pubDate>
-      <description><![CDATA[<p>One of my <a href="https://itsfoss.com/news/linux-resolutions-2026/" rel="noreferrer">new year resolutions</a> was to spend more time on homelab, local AI and smart home automation. </p><p>I am slowly getting into this stuff and thought of sharing my (mis)adventures and experiences, especially when I encounter some issue and manage to fix it.</p><p>One such incident was when I recently tried to add Tapo bulbs to my <a href="https://www.home-assistant.io/">Home Assistant</a> server. It kep on giving me this error.</p><pre><code>Connection error: Unsupported device 192.168.0.192 of type SMART.TAPOBULB
-with encrypt_scheme EncryptionScheme(is_support_https=False, encrypt_type='TPAP http_port=80,Iv=2)</code></pre><p>The fix that worked for me was to update the Home Assistant server and enable the third-party services option in the Tapo app. After that, I added the Tapo bulb in HA by providing the bulb's IP address and entering my Tapo credentials.</p><p>Don't worry. I'll provide more details in this tutorial.</p><h2 id="my-setup">My setup</h2><p>My Home Assistant runs on a <a href="https://itsfoss.com/news/zimaboard-2-review-2/" rel="noreferrer">ZimaBoard 2</a> device. This tiny device runs its own ZimaOS which makes it easier for homelab beginners to deploy software in containers in a few clicks. If interested, you can read my <a href="https://itsfoss.com/news/zimaboard-2-review-2/" rel="noreferrer">review of ZimaBoard 2</a>.</p><p>In terms of smart devices, I have a few Tap smart plugs, bulbs, temperature monitors, and motion sensors. I also have <a href="https://amzn.to/4tFyZ5E">Tapo Hub</a> in the mix, as some Tapo sensors run on batteries and use RF signals, so they <em>need</em> the hub as a bridge. Plugs and bulbs have constant power and built-in Wi-Fi and they talk to your router directly, no hub involved.</p><p>My smart Tapo L530 bulb was already setup and connected via the Tapo app. And now I wanted it to be integrated into my Home Assistant server. This is where I faced the problem.</p><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">In my case, the Tapo bulb was already connected to the network router. It was set up via Tapo app. This is important as we need to use the IP address of the bulb in home assistant. Also, Tapo devices need to be registered with TP Link account. I used <a href="https://go.getproton.me/aff_c?offer_id=26&amp;aff_id=1173" rel="noreferrer">Proton Mail's email aliase</a> feature for this purpose.</div></div><h2 id="the-problem-i-faced-while-integrating-the-tapo-bulb-in-home-assistant">The problem I faced while integrating the Tapo bulb in Home Assistant</h2><p>I went to Settings -&gt; Devices &amp; Services -&gt; TP-Link Smart Home -&gt; Add entry, typed in the L530's IP address, and got this error:</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="1413" src="https://itsfoss.com/content/images/2026/05/tapo-bulb-home-assistant-error.jpg" width="1440" /><figcaption><span style="white-space: pre-wrap;">Connecting TP-Link device to Home Assistant</span></figcaption></figure><p>The culprit seemed to be <code>encrypt_type='TPAP'</code> with <code>lv=2</code>. After researching a bit, I learned that TP-Link pushed a firmware update to the L530 that switched to a newer encryption protocol. The official HA integration couldn't handle it.</p><p>I checked my HA server and found that it was running the stable version from 2025. I changed the container setting to make it use the latest image from May 2026.</p><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="737" src="https://itsfoss.com/content/images/2026/05/image-34.png" width="1843" /></figure><p>After restarting, the updated HA server threw a warning that the P110 plug was also no longer supported, wiping both the plug and bulb from my setup entirely.</p><p>I tried integrating the Tapo L530 bulb again, hoping it might work but it gave me the same error.</p><h2 id="heres-how-i-fixed-it">Here's how I fixed it</h2><p>The real issue wasn't Home Assistant at all. <strong>Tapo's newer firmware blocks third-party local access by default.</strong> There's a toggle in the Tapo app specifically for this and it's off out of the box.</p><p>Here's exactly what I did:</p><ul><li>Opened the Tapo app on my Galaxy S23</li><li>Went to the "Me" section at bottom right that gave access to the settings</li><li>Found "Third-party services", clicked on it and then toggled Third-Party Compatibility on</li></ul><p>I am unable to share any images for the above step because Tapo app doesn't allow taking screenshots. Weird, I know.</p><p>From the Tapo app itself, I selected the desired bulb, clicked the settings and then went into "Device Info" to get the IP address of the bulb. Again, no screenshots possible for this step as well. </p><p>With these things done, I went to the Home Assistant app and then went to Settings -&gt; Devices &amp; Services -&gt; TP-Link Smart Home -&gt; Add entry.</p><p>Here, I enter the bulb's IP address that I already had got from Tapo app. This time, there was no error and it asked me to enter my Tapo account email and password.</p><p>Once I provided that, the bulb appeared in HA instantly.</p><h2 id="i-hope-it-helps-you">I hope it helps you</h2><p>If you are struggling with the same error. It's a small thing but even small issues could be demotivating if they become blockers.</p><p>I am a beginner in this smarthome automation field and my needs are simple, at least at the moment. Setting up these things costs money so I am going with devices that are readily available, affordable and fit my needs. Let's see how it goes. I'll share my findings and experience under the new categories of Home Assistant and Home Automation.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17343514.gif" width="1" />]]></description>
-      <category>Home Assistant</category>
-    </item>
-    <item>
-      <title>LibrePlan 1.6.0 Released With Better Collaboration Tools and 15 New Languages</title>
-      <link>https://feed.itsfoss.com/link/24361/17343515/libreplan-1-6-0</link>
-      <guid isPermaLink="false">6a070619ac02e100013e90a4</guid>
-      <pubDate>Mon, 18 May 2026 15:02:24 +0000</pubDate>
-      <description><![CDATA[the blue/black libreplan logo is placed in the middle with its tagline saying "openwebplanning," below that 1.6.0 is written in blue]]></description>
       <category>News</category>
     </item>
   </channel>
