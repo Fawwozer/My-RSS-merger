@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 21 May 2026 19:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:40:04 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -429,15 +429,6 @@
       <description><![CDATA[Сегодня изучаем один из самых крутых QD-OLED, доступных на рынке. Модель предлагает сверхчёткую картинку, высокую скорость смены кадров и решение ряда врождённых проблем технологии, причём по адекватной [...]]]></description>
     </item>
     <item>
-      <title>Осталось всего пару недель. Самое популярное место для фотосессий прямо сейчас</title>
-      <link>https://people.onliner.by/go/1302350</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/21/cvet-nastroeniya-zheltyj-fotoreportazh-s-cvetushhix-rapsovyx-polej</guid>
-      <pubDate>Thu, 21 May 2026 10:51:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/21/cvet-nastroeniya-zheltyj-fotoreportazh-s-cvetushhix-rapsovyx-polej"><img alt="" src="https://content.onliner.by/news/thumbnail/6a0846c6f457af52621457baefba48c4.jpg" /></a></p><p>В Беларуси сезон цветения рапса — это наша альтернатива французскому Провансу c лавандовыми полями. Если запах цветущего рапсового поля скорее «на любителя», то его фотогеничность вряд ли кто-то станет оспаривать. Особенно хороши желтые поля в закатном солнце, чем и воспользовался наш фотограф Александр Ружечка. Ловите сочный весенний фоторепортаж из пригорода Минска.
-</p><p><a href="https://people.onliner.by/2026/05/21/cvet-nastroeniya-zheltyj-fotoreportazh-s-cvetushhix-rapsovyx-polej">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Представлен POCO Pad C1: экран 120 Гц, ёмкая АКБ и процессор Snapdragon</title>
       <link>https://4pda.to/2026/05/21/456699/predstavlen_poco_pad_c1_ekran_120_gts_yomkaya_akb_i_protsessor_snapdragon/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/21/456699/predstavlen_poco_pad_c1_ekran_120_gts_yomkaya_akb_i_protsessor_snapdragon/</guid>
@@ -483,13 +474,6 @@ ONYX [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/05/21/456694/pervyj_smartfon_openai_rassekrechen_nadyozhnym_istochnikom/</guid>
       <pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
       <description><![CDATA[Согласно свежему отчёту отраслевого аналитика Минг-Чи Куо, компания OpenAI готовится к выходу на рынок смартфонов с дебютным устройством, полностью управляемым агентным ИИ. Помимо ожидаемых характеристик, [...]]]></description>
-    </item>
-    <item>
-      <title>Ударными темпами. Следующая Kingdom Come обрела примерную дату релиза</title>
-      <link>https://4pda.to/2026/05/21/456704/udarnymi_tempami_sleduyuschaya_kingdom_come_obrela_primernuyu_datu_reliza/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/21/456704/udarnymi_tempami_sleduyuschaya_kingdom_come_obrela_primernuyu_datu_reliza/</guid>
-      <pubDate>Thu, 21 May 2026 08:45:00 +0000</pubDate>
-      <description><![CDATA[Warhorse Studios — больше не маленькая студия, которая вынуждена собирать деньги для создания игр через платформу Kickstarter. С недавних пор это компания, способная взять на себя разработку сразу двух [...]]]></description>
     </item>
     <item>
       <title>Fedora Pulls the Plug on Deepin Over Security and Maintenance Failures</title>
