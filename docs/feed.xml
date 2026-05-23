@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 23 May 2026 13:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:10:18 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,13 +15,6 @@
       <pubDate>Sat, 23 May 2026 01:32:12 +0000</pubDate>
       <description><![CDATA[in the background is a db ice train, in the foreground is the deutsche bahn logo on the left, and on the right is tux, the mascot penguin of linux with a no symbol above it]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>Flipper разрабатывает новый open source Linux-компьютер One</title>
-      <link>https://4pda.to/2026/05/22/456769/flipper_razrabatyvaet_novyj_open_source_linux_kompyuter_one/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456769/flipper_razrabatyvaet_novyj_open_source_linux_kompyuter_one/</guid>
-      <pubDate>Fri, 22 May 2026 12:30:00 +0000</pubDate>
-      <description><![CDATA[Flipper Devices анонсировала разработку&nbsp;карманного Linux-компьютера Flipper One. В отличие от&nbsp;Flipper Zero, который был ориентирован на работу с NFC, RFID, ИК-портами и другой офлайн-электроникой, [...]]]></description>
     </item>
     <item>
       <title>Good News! After Lenovo and Dell, Now HP Pledges to Support Linux Vendor Firmware Service</title>
@@ -87,6 +80,58 @@
       <pubDate>Thu, 21 May 2026 13:19:23 +0000</pubDate>
       <description><![CDATA[there is a picture of greg kroah-hartman speaking at an even on the left, on the right are tux, the mascot penguin of linux, and a crab, the unofficial mascot of rust]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Главный инженер Diablo IV объяснил, почему на создание игр уходит по 8 лет</title>
+      <link>https://4pda.to/2026/05/23/456784/glavnyj_inzhener_diablo_iv_obyasnil_pochemu_na_sozdanie_igr_ukhodit_po_8_let/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456784/glavnyj_inzhener_diablo_iv_obyasnil_pochemu_na_sozdanie_igr_ukhodit_po_8_let/</guid>
+      <pubDate>Sat, 23 May 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[С каждым годом разработка ААА-игр дорожает, растут цены и увеличивается время, необходимое для создания одного тайтла. Долгострои уже никого не удивляют, и у этого есть свои причины.
+Ведущий инженер [...]]]></description>
+    </item>
+    <item>
+      <title>Летающий электромобиль Alef «перепрыгнул» через Cybertruck</title>
+      <link>https://4pda.to/2026/05/23/456672/letayuschij_elektromobil_alef_pereprygnul_cherez_cybertruck/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456672/letayuschij_elektromobil_alef_pereprygnul_cherez_cybertruck/</guid>
+      <pubDate>Sat, 23 May 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Калифорнийский стартап Alef Aeronautics готовит к скорому выпуску первый серийный электрический летающий автомобиль. После долгих лет разработки и тестирования компания обещает начать поставки первых машин [...]]]></description>
+    </item>
+    <item>
+      <title>Vollebak создала куртку со 180 динамиками для воздействия на тело</title>
+      <link>https://4pda.to/2026/05/23/456738/vollebak_sozdala_kurtku_so_180_dinamikami_dlya_vozdejstviya_na_telo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456738/vollebak_sozdala_kurtku_so_180_dinamikami_dlya_vozdejstviya_na_telo/</guid>
+      <pubDate>Sat, 23 May 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Экспериментальный бренд Vollebak представил необычную куртку Sonic Jacket, внутри которой установлено 180 динамиков. Каждый направлен прямо на тело и воздействует на него с помощью звуков и вибраций.
+По [...]]]></description>
+    </item>
+    <item>
+      <title>Новый материал из шёлка не уступает кевлару в прочности</title>
+      <link>https://4pda.to/2026/05/23/456691/novyj_material_iz_shyolka_ne_ustupaet_kevlaru_v_prochnosti/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456691/novyj_material_iz_shyolka_ne_ustupaet_kevlaru_v_prochnosti/</guid>
+      <pubDate>Sat, 23 May 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Университета Тафтса, Имперского колледжа Лондона и Мичиганского университета разработали новый сверхпрочный материал. Прототип основан&nbsp;на натуральном шёлке, а по прочности и стойкости он [...]]]></description>
+    </item>
+    <item>
+      <title>30 fps @ 348p. Cyberpunk 2077 смогли запустить на PS5 в режиме RT Overdrive [ВИДЕО]</title>
+      <link>https://4pda.to/2026/05/23/456780/30_fps_348p_cyberpunk_2077_smogli_zapustit_na_ps5_v_rezhime_rt_overdrive_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456780/30_fps_348p_cyberpunk_2077_smogli_zapustit_na_ps5_v_rezhime_rt_overdrive_video/</guid>
+      <pubDate>Sat, 23 May 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[В апреле для PlayStation 5 вышел новый загрузчик на базе Linux, который даёт возможность превратить консоль в ПК. Как начинка устройства справляется с задачами другой платформы — протестировали в Digital [...]]]></description>
+    </item>
+    <item>
+      <title>Медные пластины способны снизить расход энергии дата-центров на 90%</title>
+      <link>https://4pda.to/2026/05/23/456709/mednye_plastiny_sposobny_snizit_raskhod_energii_data_tsentrov_na_90/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456709/mednye_plastiny_sposobny_snizit_raskhod_energii_data_tsentrov_na_90/</guid>
+      <pubDate>Sat, 23 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Университета Иллинойса в Урбана-Шампейне разработали технологию, которая может заметно снизить энергопотребление дата-центров. С учётом стремительного роста популярности ИИ эта проблема становится [...]]]></description>
+    </item>
+    <item>
+      <title>BYD Song Ultra EV проехал 4395 км благодаря новой батарее</title>
+      <link>https://4pda.to/2026/05/23/456713/byd_song_ultra_ev_proekhal_4395_km_blagodarya_novoj_bataree/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456713/byd_song_ultra_ev_proekhal_4395_km_blagodarya_novoj_bataree/</guid>
+      <pubDate>Sat, 23 May 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[BYD протестировала новый электрический кроссовер Song Ultra на крупнейшей автомагистрали Китая. Электромобиль проехал 4395 км, став первым серийным электрокаром, который преодолел такой маршрут. 
+Маршрут [...]]]></description>
     </item>
     <item>
       <title>Новая роборука почти не отличается от человеческой</title>
@@ -440,13 +485,6 @@ REDMI [...]]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>Духовная наследница Dark Messiah выйдет уже скоро — Fatekeeper готовится к раннему доступу [ВИДЕО]</title>
-      <link>https://4pda.to/2026/05/22/456771/dukhovnaya_naslednitsa_dark_messiah_vyjdet_uzhe_skoro_fatekeeper_gotovitsya_k_rannemu_dostupu_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456771/dukhovnaya_naslednitsa_dark_messiah_vyjdet_uzhe_skoro_fatekeeper_gotovitsya_k_rannemu_dostupu_video/</guid>
-      <pubDate>Fri, 22 May 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Хотя Dark Messiah of Might and Magic сложно назвать безупречным шедевром, экшен-RPG Arkane Studios запала в душу многим разработчикам — в Steam то и дело появляются новые фэнтезийные игры, посвящённые [...]]]></description>
-    </item>
-    <item>
       <title>С утра во дворе косили траву, и в это же время стекло в машине оказалось разбитым</title>
       <link>https://auto.onliner.by/go/1247141</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/05/22/s-utra-vo-dvore-kosili-travu-i-v-eto-zhe-vremya-steklo-v-mashine-okazalos-razbitym</guid>
@@ -463,68 +501,11 @@ REDMI [...]]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>В ресторане ввели необычный штраф. Посетители будут доплачивать за переедание</title>
-      <link>https://people.onliner.by/go/1302905</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/22/v-ispanskom-restorane-vveli-neobychnyj-shtraf-posetiteli-budut-doplachivat-za-pereedanie</guid>
-      <pubDate>Fri, 22 May 2026 14:18:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/22/v-ispanskom-restorane-vveli-neobychnyj-shtraf-posetiteli-budut-doplachivat-za-pereedanie"><img alt="" src="https://content.onliner.by/news/thumbnail/181e371e3913d98bd696368f7c0281ce.jpg" /></a></p><p>В испанском ресторане с системой «все включено» решили ввести неожиданное правило — посетителей будут штрафовать за физиологические последствия от переедания.</p><p><a href="https://people.onliner.by/2026/05/22/v-ispanskom-restorane-vveli-neobychnyj-shtraf-posetiteli-budut-doplachivat-za-pereedanie">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В тихом уголке Минска прошел «громкий» снос</title>
-      <link>https://realt.onliner.by/go/1105497</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/22/v-tixom-ugolke-minska-proshel-gromkij-snos</guid>
-      <pubDate>Fri, 22 May 2026 14:16:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/22/v-tixom-ugolke-minska-proshel-gromkij-snos"><img alt="" src="https://content.onliner.by/news/thumbnail/304b51942cd98f09db056e88cbe69fd7.jpg" /></a></p><p>В переулке Софьи Ковалевской сегодня неспокойно. Днем к сараям, которые скопились возле домов №20, 22, 24, подъехала спецтехника и принялась крушить древние постройки. Ранее местные жители, привыкшие за долгие годы пользоваться «кладовками на удаленке», просили администрацию района пойти им навстречу и не сносить сараи. Но нет: объекты обследовала комиссия и пришла к выводу, что они являются аварийными, создают угрозу жизни минчан.</p><p><a href="https://realt.onliner.by/2026/05/22/v-tixom-ugolke-minska-proshel-gromkij-snos">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Юбилейный люкс за $650. Что говорят в обзорах Sony 1000X The Collexion</title>
-      <link>https://4pda.to/2026/05/22/456785/yubilejnyj_lyuks_za_650_chto_govoryat_v_obzorakh_sony_1000x_the_collexion/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456785/yubilejnyj_lyuks_za_650_chto_govoryat_v_obzorakh_sony_1000x_the_collexion/</guid>
-      <pubDate>Fri, 22 May 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[В честь десятилетия линейки 1000X вышла премиум-версия наушников The Collexion. Упор сделан на новые материалы и дизайн, а также улучшенные аудиокомпоненты. Тем не менее на практике гаджет кое-где не дотягивает [...]]]></description>
-    </item>
-    <item>
-      <title>Microsoft предупредила о двух уязвимостях «нулевого дня» в Defender</title>
-      <link>https://4pda.to/2026/05/22/456762/microsoft_predupredila_o_dvukh_uyazvimostyakh_nulevogo_dnya_v_defender/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456762/microsoft_predupredila_o_dvukh_uyazvimostyakh_nulevogo_dnya_v_defender/</guid>
-      <pubDate>Fri, 22 May 2026 13:15:00 +0000</pubDate>
-      <description><![CDATA[Microsoft сообщила пользователям
-о двух уязвимостях «нулевого дня», обнаруженных во встроенном
-антивирусе Defender. Речь идёт о дырах в безопасности, которыми, по словам
-компании, вовсю пользуются злоумышленники.
-Первая [...]]]></description>
-    </item>
-    <item>
-      <title>Thunderobot показала двухрежимный Mini LED-монитор CU27F160M-EVO с частотой до 320 Гц</title>
-      <link>https://4pda.to/2026/05/22/456774/thunderobot_pokazala_dvukhrezhimnyj_mini_led_monitor_cu27f160m_evo_s_chastotoj_do_320_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456774/thunderobot_pokazala_dvukhrezhimnyj_mini_led_monitor_cu27f160m_evo_s_chastotoj_do_320_gts/</guid>
-      <pubDate>Fri, 22 May 2026 13:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Thunderobot выпустила
-на рынок геймерский монитор CU27F160M-EVO. Новинка поддерживает два режима разрешения/частоты обновления, обладает ярким&nbsp;Mini LED-экраном и обеспечивает высокое качество [...]]]></description>
-    </item>
-    <item>
-      <title>Warhammer 40,000: Dawn of War IV обрела дату релиза [ВИДЕО]</title>
-      <link>https://4pda.to/2026/05/22/456778/warhammer_40_000_dawn_of_war_iv_obrela_datu_reliza_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456778/warhammer_40_000_dawn_of_war_iv_obrela_datu_reliza_video/</guid>
-      <pubDate>Fri, 22 May 2026 12:45:00 +0000</pubDate>
-      <description><![CDATA[После неудачной Warhammer 40,000: Dawn of War III фанаты двух первых частей серии с надеждой смотрят в будущее — вернее, на анонсированную прошлым летом Warhammer 40,000: Dawn of War IV. Увы, российских [...]]]></description>
-    </item>
-    <item>
       <title>Warp&amp;#x27;s Oz Platform Can Now Run Claude Code and Codex Alongside Its Own Agent</title>
       <link>https://feed.itsfoss.com/link/24361/17345762/warp-oz-multi-harness-update</link>
       <guid isPermaLink="false">6a0eda336ef9df0001ebf2b3</guid>
       <pubDate>Thu, 21 May 2026 15:10:47 +0000</pubDate>
       <description><![CDATA[the logos for oz by warp, claude code, and  codex are shown against a yellow/green background]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Fedora Pulls the Plug on Deepin Over Security and Maintenance Failures</title>
-      <link>https://feed.itsfoss.com/link/24361/17344914/fedora-ditches-deepin</link>
-      <guid isPermaLink="false">6a0d70e76ef9df0001ebee26</guid>
-      <pubDate>Wed, 20 May 2026 15:48:42 +0000</pubDate>
-      <description><![CDATA[deepin logo is on the left with red cross mark, in the middle is an illustration of a breach, and on the right is the fedora logo]]></description>
       <category>News</category>
     </item>
   </channel>
