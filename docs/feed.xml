@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 22 May 2026 19:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 02:56:17 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>In a Weird Case, German Deutsche Bahn&amp;#x27;s Website Was Locking Out Linux Users</title>
+      <link>https://feed.itsfoss.com/link/24361/17346770/deutsche-bahn-blocking-linux-users</link>
+      <guid isPermaLink="false">6a0fffab4aa1730001e9059e</guid>
+      <pubDate>Sat, 23 May 2026 01:32:12 +0000</pubDate>
+      <description><![CDATA[in the background is a db ice train, in the foreground is the deutsche bahn logo on the left, and on the right is tux, the mascot penguin of linux with a no symbol above it]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>Flipper разрабатывает новый open source Linux-компьютер One</title>
       <link>https://4pda.to/2026/05/22/456769/flipper_razrabatyvaet_novyj_open_source_linux_kompyuter_one/</link>
