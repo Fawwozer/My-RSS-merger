@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 23 May 2026 19:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 03:37:03 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -80,6 +80,20 @@
       <pubDate>Thu, 21 May 2026 13:19:23 +0000</pubDate>
       <description><![CDATA[there is a picture of greg kroah-hartman speaking at an even on the left, on the right are tux, the mascot penguin of linux, and a crab, the unofficial mascot of rust]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Аналитики ожидают рекордные продажи электрокаров в 2026 году</title>
+      <link>https://4pda.to/2026/05/23/456668/analitiki_ozhidayut_rekordnye_prodazhi_elektrokarov_v_2026_godu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456668/analitiki_ozhidayut_rekordnye_prodazhi_elektrokarov_v_2026_godu/</guid>
+      <pubDate>Sat, 23 May 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Международное энергетическое агентство (IEA) прогнозирует, что в 2026 году мировой рынок электромобилей достигнет нового рекорда. Несмотря на замедление рынка, ожидаемое количество выпущенных автомобилей [...]]]></description>
+    </item>
+    <item>
+      <title>Умелец «облепил» корпус своего ПК экранами</title>
+      <link>https://4pda.to/2026/05/23/456689/umelets_oblepil_korpus_svoego_pk_ekranami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/23/456689/umelets_oblepil_korpus_svoego_pk_ekranami/</guid>
+      <pubDate>Sat, 23 May 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Продолжая&nbsp;тему дизайна десктопных компьютеров, пользователь Reddit поделился результатом&nbsp;превращения собственного системного блока в огромную анимированную инсталляцию с десятками GIF-картинок.&nbsp;Для [...]]]></description>
     </item>
     <item>
       <title>Главный инженер Diablo IV объяснил, почему на создание игр уходит по 8 лет</title>
@@ -438,27 +452,12 @@ REDMI [...]]]></description>
 На [...]]]></description>
     </item>
     <item>
-      <title>Журналистика. Авторы Disco Elysium поделились трейлером и деталями Hopetown [ВИДЕО]</title>
-      <link>https://4pda.to/2026/05/22/456776/zhurnalistika_avtory_disco_elysium_podelilis_trejlerom_i_detalyami_hopetown_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456776/zhurnalistika_avtory_disco_elysium_podelilis_trejlerom_i_detalyami_hopetown_video/</guid>
-      <pubDate>Fri, 22 May 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[На этой неделе ZA/UM выпустила Zero Parades: For Dead Spies. Некоторые геймеры показательно игнорируют или ругают новинку, потому что выпустившая её компания давно избавилась от настоящих разработчиков [...]]]></description>
-    </item>
-    <item>
       <title>В Минске выступит легендарная группа из 90-х. Вход свободный</title>
       <link>https://people.onliner.by/go/1302940</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/05/22/v-minske-vystupit-legendarnaya-gruppa-iz-90-x-vxod-svobodnyj</guid>
       <pubDate>Fri, 22 May 2026 15:34:18 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/22/v-minske-vystupit-legendarnaya-gruppa-iz-90-x-vxod-svobodnyj"><img alt="" src="https://content.onliner.by/news/thumbnail/ffc91eb47040c1290b52662d6fb7d1c5.jpg" /></a></p><p>В этом году Минскому тракторному заводу исполняется 80 лет. Отмечать юбилейную дату собираются с размахом: обещают выставку техники Belarus, ярмарку и концерт. Его главными звездами станут всем известные «Иванушки International».</p><p><a href="https://people.onliner.by/2026/05/22/v-minske-vystupit-legendarnaya-gruppa-iz-90-x-vxod-svobodnyj">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>AMD неожиданно выпустила новые драйверы для 9-летних видеокарт</title>
-      <link>https://4pda.to/2026/05/22/456761/amd_neozhidanno_vypustila_novye_drajvery_dlya_9_letnikh_videokart/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/22/456761/amd_neozhidanno_vypustila_novye_drajvery_dlya_9_letnikh_videokart/</guid>
-      <pubDate>Fri, 22 May 2026 15:20:00 +0000</pubDate>
-      <description><![CDATA[Компания AMD выпустила новую версию ПО Adrenalin Edition 26.5.2 для видеокарт девятилетней давности, которое предназначено для шести видеокарт и серии мобильной графики семейства Polaris и Vega.
-Драйвер [...]]]></description>
     </item>
     <item>
       <title>Peugeot, Hyundai и Volkswagen столкнулись на внутреннем кольце МКАД (видео)</title>
@@ -491,14 +490,6 @@ REDMI [...]]]></description>
       <pubDate>Fri, 22 May 2026 14:59:23 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/22/s-utra-vo-dvore-kosili-travu-i-v-eto-zhe-vremya-steklo-v-mashine-okazalos-razbitym"><img alt="" src="https://content.onliner.by/news/thumbnail/0907eb24e3a7d4c80dbad2498433d372.jpg" /></a></p><p>Наш читатель из Витебска по имени Денис сегодня с утра обнаружил, что в его машине разбито стекло. Все случилось, предположительно, в промежуток между 08:00 и 11:00. В это же время во дворе по ул. Правды, 66, косили траву, утверждает мужчина. </p><p><a href="https://auto.onliner.by/2026/05/22/s-utra-vo-dvore-kosili-travu-i-v-eto-zhe-vremya-steklo-v-mashine-okazalos-razbitym">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Ученые выяснили секрет устойчивости пирамиды Хеопса</title>
-      <link>https://tech.onliner.by/go/775336</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/05/22/uchenye-vyyasnili-sekret-ustojchivosti-piramidy-xeopsa</guid>
-      <pubDate>Fri, 22 May 2026 14:45:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/22/uchenye-vyyasnili-sekret-ustojchivosti-piramidy-xeopsa"><img alt="" src="https://content.onliner.by/news/thumbnail/6d043dbc08566cf9ad4c1e3004debce2.jpg" /></a></p><p>Эта пирамида была построена примерно 4600—4450 лет назад, но, несмотря на суровость пустыни и многочисленные сейсмические события, до наших дней добралась в приличном виде. По мнению ученых, причина нерушимости пирамиды Хеопса кроется в том, что египтяне совершенствовали свои сейсмостойкие инженерные методы на протяжении столетий.</p><p><a href="https://tech.onliner.by/2026/05/22/uchenye-vyyasnili-sekret-ustojchivosti-piramidy-xeopsa">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>Warp&amp;#x27;s Oz Platform Can Now Run Claude Code and Codex Alongside Its Own Agent</title>
