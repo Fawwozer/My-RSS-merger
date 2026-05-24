@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 24 May 2026 08:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:26:03 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -74,12 +74,55 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
-      <title>Rust Could Eliminate 80% of Linux Kernel CVEs!</title>
-      <link>https://feed.itsfoss.com/link/24361/17345650/linux-kernel-rust-cve-reduction</link>
-      <guid isPermaLink="false">6a0ea43e6ef9df0001ebf1ca</guid>
-      <pubDate>Thu, 21 May 2026 13:19:23 +0000</pubDate>
-      <description><![CDATA[there is a picture of greg kroah-hartman speaking at an even on the left, on the right are tux, the mascot penguin of linux, and a crab, the unofficial mascot of rust]]></description>
-      <category>News</category>
+      <title>Наушники Campfire Audio Chimera в 30 раз дороже AirPods Pro</title>
+      <link>https://4pda.to/2026/05/24/456618/naushniki_campfire_audio_chimera_v_30_raz_dorozhe_airpods_pro/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456618/naushniki_campfire_audio_chimera_v_30_raz_dorozhe_airpods_pro/</guid>
+      <pubDate>Sun, 24 May 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Американская компания Campfire Audio представила новые премиальные внутриканальные мониторы Chimera, которые явно не рассчитаны на массовый рынок. Модель стоит впечатляющие 7500 долларов, что в 30 раз [...]]]></description>
+    </item>
+    <item>
+      <title>Издатель PUBG и Subnauntica 2 ввёл премии за рождение ребёнка — и рождаемость подскочила вдвое</title>
+      <link>https://4pda.to/2026/05/24/456561/izdatel_pubg_i_subnauntica_2_vvyol_premii_za_rozhdenie_rebyonka_i_rozhdaemost_podskochila_vdvoe/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456561/izdatel_pubg_i_subnauntica_2_vvyol_premii_za_rozhdenie_rebyonka_i_rozhdaemost_podskochila_vdvoe/</guid>
+      <pubDate>Sun, 24 May 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[Компания Krafton известна как издатель сразу нескольких популярных игр, включая PUBG и Subnautica 2. Но ей захотелось взяться не только за выпуск тайтлов, но и за увеличение рождаемости в Южной Корее.
+Издатель [...]]]></description>
+    </item>
+    <item>
+      <title>Новый алгоритм продлевает жизнь аккумуляторов электрокаров</title>
+      <link>https://4pda.to/2026/05/24/456621/novyj_algoritm_prodlevaet_zhizn_akkumulyatorov_elektrokarov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456621/novyj_algoritm_prodlevaet_zhizn_akkumulyatorov_elektrokarov/</guid>
+      <pubDate>Sun, 24 May 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Технологического университета Чалмерса в Швеции разработали систему зарядки электромобилей на базе ИИ, которая помогает заметно снизить износ аккумуляторов. Технология способна увеличить [...]]]></description>
+    </item>
+    <item>
+      <title>Для роботов сделали похожие на человеческие мышцы</title>
+      <link>https://4pda.to/2026/05/24/456671/dlya_robotov_sdelali_pokhozhie_na_chelovecheskie_myshtsy/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456671/dlya_robotov_sdelali_pokhozhie_na_chelovecheskie_myshtsy/</guid>
+      <pubDate>Sun, 24 May 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Роботы постепенно становятся всё больше похожи на живых существ, но до сих пор инженерам не удавалось сымитировать должным образом настоящие мышцы. Разработка сотрудников Гарвардской школы инженерии призвана [...]]]></description>
+    </item>
+    <item>
+      <title>Отец случайно выстрелил в 15-летнего сына во время забоя кабана</title>
+      <link>https://people.onliner.by/go/1303147</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/24/v-kostyukovichskom-rajone-otec</guid>
+      <pubDate>Sun, 24 May 2026 09:52:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/24/v-kostyukovichskom-rajone-otec"><img alt="" src="https://content.onliner.by/news/thumbnail/2991ce1b55419bcbe30ca7806e9ef4d3.jpg" /></a></p><p>В Костюковичском районе 15-летний подросток случайно получил тяжелое огнестрельное ранение. Инцидент произошел утром 24 мая в деревне Белынковичи.</p><p><a href="https://people.onliner.by/2026/05/24/v-kostyukovichskom-rajone-otec">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Учёные смогли ускорить компьютерные чипы в 1000 раз</title>
+      <link>https://4pda.to/2026/05/24/456622/uchyonye_smogli_uskorit_kompyuternye_chipy_v_1000_raz/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456622/uchyonye_smogli_uskorit_kompyuternye_chipy_v_1000_raz/</guid>
+      <pubDate>Sun, 24 May 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Токийского университета разработали экспериментальный квантовый элемент. С его помощью можно повышать скорость обработки данных компьютерными чипами примерно в тысячу раз без дополнительного [...]]]></description>
+    </item>
+    <item>
+      <title>Первый подводный дата-центр на энергии ветра заработал в Китае</title>
+      <link>https://4pda.to/2026/05/24/456624/pervyj_podvodnyj_data_tsentr_na_energii_vetra_zarabotal_v_kitae/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456624/pervyj_podvodnyj_data_tsentr_na_energii_vetra_zarabotal_v_kitae/</guid>
+      <pubDate>Sun, 24 May 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Китай запустил первый коммерческий подводный дата-центр, работающий напрямую от морской ветряной электростанции. Проект расположен рядом с Шанхаем и должен помочь сократить огромные энергозатраты, растущие&nbsp;из-за [...]]]></description>
     </item>
     <item>
       <title>Немец отдал сотни евро за старые белорусские рубли</title>
@@ -121,7 +164,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>В Беларуси стартует акция «Внимание, дети!» Водителей обяжут ездить с ближним светом даже днем</title>
+      <title>С понедельника ближний свет фар станет обязательным даже днем</title>
       <link>https://auto.onliner.by/go/1247304</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/05/24/v-belarusi-startuet-akciya</guid>
       <pubDate>Sun, 24 May 2026 07:34:37 +0000</pubDate>
@@ -390,22 +433,6 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Кусок Эйфелевой башни продали на аукционе почти за полмиллиона евро</title>
-      <link>https://money.onliner.by/go/328105</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/23/kusok-ejfelevoj-bashni</guid>
-      <pubDate>Sat, 23 May 2026 08:02:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/23/kusok-ejfelevoj-bashni"><img alt="" src="https://content.onliner.by/news/thumbnail/9825f581028ff6ef5c6fb9f475a2a78f.jpg" /></a></p><p>На аукционе во Франции продали фрагмент оригинальной лестницы Эйфелевой башни — за 450 160 евро. Речь идет всего о 14 металлических ступенях высотой 2,75 метра, которые когда-то соединяли второй и третий этажи знаменитой достопримечательности.</p><p><a href="https://money.onliner.by/2026/05/23/kusok-ejfelevoj-bashni">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В стране ограничили продажу алкоголя</title>
-      <link>https://money.onliner.by/go/328099</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/23/poslednij-zvonok-bez</guid>
-      <pubDate>Sat, 23 May 2026 07:54:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/23/poslednij-zvonok-bez"><img alt="" src="https://content.onliner.by/news/thumbnail/9e8c708175d4696e76c6898efa777b93.jpg" /></a></p><p>В ряде городов и районов Беларуси 23 мая временно ограничат продажу алкоголя из-за проведения последних звонков. В некоторых регионах купить спиртное не получится почти сутки, а где-то ограничения затронут только вечернее время.</p><p><a href="https://money.onliner.by/2026/05/23/poslednij-zvonok-bez">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Энтузиаст создал виртуальный музей из 570 операционных систем</title>
       <link>https://4pda.to/2026/05/23/456710/entuziast_sozdal_virtualnyj_muzej_iz_570_operatsionnykh_sistem/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/23/456710/entuziast_sozdal_virtualnyj_muzej_iz_570_operatsionnykh_sistem/</guid>
@@ -420,58 +447,6 @@
       <description><![CDATA[С релиза Forza Horizon 6 прошло менее недели, и геймеры уже вовсю наслаждаются новинкой. Им даже удалось придумать способ для быстрой прокачки и открытия всех машин.
 [youtube=9Fwoee_FCdY:640:360:::0]
 Фанаты [...]]]></description>
-    </item>
-    <item>
-      <title>Появился график отключения горячей воды в июне. Ищите свой адрес (обновлено)</title>
-      <link>https://realt.onliner.by/go/1098905</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/23/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov</guid>
-      <pubDate>Sat, 23 May 2026 07:24:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/23/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov"><img alt="" src="https://content.onliner.by/news/thumbnail/0eafc2a5590e1083aaf418baadf724f5.jpg" /></a></p><p>В это сложно поверить, но график отключения горячей воды в Минске уже появился на свет. Адресами, которые первыми в 2026 году будут испытывать коммунальные трудности, поделись как <a href="https://web.minskenergo.by/news/planovye-otklyuchenie-goryachego-vodosnabzheniya-na-maj-2026/" target="_blank">«Минскэнерго»</a>, так и <a href="https://www.mkts.by/index.php/news/794-otklyuchenie-goryachego-vodosnabzheniya-v-mae-2026g" target="_blank">«Минсккоммунтеплосеть»</a>. Стартовать профилактические работы будут примерно с середины мая. Посмотрите, есть ли ваш дом в списке.</p><p><a href="https://realt.onliner.by/2026/05/23/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Audi анонсировала доступный электрокар A2 e-tron</title>
-      <link>https://4pda.to/2026/05/23/456711/audi_anonsirovala_dostupnyj_elektrokar_a2_e_tron/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456711/audi_anonsirovala_dostupnyj_elektrokar_a2_e_tron/</guid>
-      <pubDate>Sat, 23 May 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[Audi рассказала первые подробности о&nbsp;новом&nbsp;A2 e-tron — компактном электрокаре, который потенциально составит конкуренцию электрическому BMW 1 серии. Компания позиционирует модель как входной [...]]]></description>
-    </item>
-    <item>
-      <title>Исследователи вычислили формулу поп-хитов</title>
-      <link>https://4pda.to/2026/05/23/456690/issledovateli_vychislili_formulu_pop_khitov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456690/issledovateli_vychislili_formulu_pop_khitov/</guid>
-      <pubDate>Sat, 23 May 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Привычная структура поп-песен могла появиться не благодаря вдохновению музыкантов, а из-за точных расчётов радиостанций. К такому выводу пришли авторы материала Space Daily, изучив историю музыкальной [...]]]></description>
-    </item>
-    <item>
-      <title>Бесплатный фестиваль, джаз и овцы-детективы. Рассказываем, чем заняться в выходные</title>
-      <link>https://people.onliner.by/go/1302732</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/23/besplatnyj-festival-dzhaz-i-ovcy-detektivy-rasskazyvaem-chem-zanyatsya-v-vyxodnye</guid>
-      <pubDate>Sat, 23 May 2026 06:00:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/23/besplatnyj-festival-dzhaz-i-ovcy-detektivy-rasskazyvaem-chem-zanyatsya-v-vyxodnye"><img alt="" src="https://content.onliner.by/news/thumbnail/241669f24b9aeae6dfc736088fe1e4ce.jpg" /></a></p><p>Наступили выходные, а значит, самое время строить планы. Погода почти летняя, так что она точно не помешает активно провести майские субботу и воскресенье. А вариантов развлечений хватает под любой запрос.</p><p><a href="https://people.onliner.by/2026/05/23/besplatnyj-festival-dzhaz-i-ovcy-detektivy-rasskazyvaem-chem-zanyatsya-v-vyxodnye">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Деревянная ретрокамера Alfie BOXX сама проявляет снимки</title>
-      <link>https://4pda.to/2026/05/23/456755/derevyannaya_retrokamera_alfie_boxx_sama_proyavlyaet_snimki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456755/derevyannaya_retrokamera_alfie_boxx_sama_proyavlyaet_snimki/</guid>
-      <pubDate>Sat, 23 May 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Британский дизайнер Дэйв Фолкнер представил деревянную ретрокамеру Alfie BOXX. Необычной её делает то, что прототип умеет не только снимать, но и самостоятельно проявлять сделанные фотографии прямо внутри [...]]]></description>
-    </item>
-    <item>
-      <title>Новый мотоцикл BMW вдохновлён самолётом «Конкорд»</title>
-      <link>https://4pda.to/2026/05/23/456670/novyj_mototsikl_bmw_vdokhnovlyon_samolyotom_konkord/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456670/novyj_mototsikl_bmw_vdokhnovlyon_samolyotom_konkord/</guid>
-      <pubDate>Sat, 23 May 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[BMW Motorrad, подразделение BMW по производству мотоциклов, показало необычный концепт Vision K18 на выставке Concorso d’Eleganza Villa d’Este в Италии. Новый мотоцикл вдохновлён сверхзвуковым самолётом, [...]]]></description>
-    </item>
-    <item>
-      <title>Креативно. Директор Krafton пожаловался, что ему предложили выпустить 250 клонов Balatro за год</title>
-      <link>https://4pda.to/2026/05/23/456739/kreativno_direktor_krafton_pozhalovalsya_chto_emu_predlozhili_vypustit_250_klonov_balatro_za_god/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456739/kreativno_direktor_krafton_pozhalovalsya_chto_emu_predlozhili_vypustit_250_klonov_balatro_za_god/</guid>
-      <pubDate>Sat, 23 May 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Карточный «рогалик» Balatro стал настоящим хитом 2024 года, быстро завоевав любовь геймеров. Одновременно с этим игра породила волну клонов и попыток повторить успех, от чего издатели уже устали.
-Директор [...]]]></description>
     </item>
     <item>
       <title>Firefox Just Saved Us All from Spammy Online PDF Tools</title>
