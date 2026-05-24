@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 24 May 2026 13:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 19:17:15 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -25,58 +25,69 @@
       <category>News</category>
     </item>
     <item>
-      <title>FOSS Weekly #26.21: Microsoft&amp;#x27;s Distro, Bitwarden Drama, Adobe on Linux, New Email Client and More</title>
-      <link>https://feed.itsfoss.com/link/24361/17345706/foss-weekly-26-21</link>
-      <guid isPermaLink="false">6a0c5b786ef9df0001ebeaf5</guid>
-      <pubDate>Thu, 21 May 2026 14:24:47 +0000</pubDate>
-      <description><![CDATA[<p>The Fedora AI Developer Desktop initiative that passed unanimously <a href="https://itsfoss.com/news/fedora-ai-developer-desktop-stalled/">is now blocked</a>. Two council members retracted their votes after community pushback, with contributors arguing the CUDA focus contradicts Fedora's free software foundations and that significant kernel policy changes hadn't been cleared with the right people.</p><p><a href="https://itsfoss.com/news/fedora-ditches-deepin/">Fedora has also removed Deepin desktop</a> from its offering due to security concern.</p><p>Someone <a href="https://itsfoss.com/news/vibe-coded-adobe-lightroom-cc-linux/">got Lightroom CC running on Linux</a> via Wine without writing a single line of code themselves. An AI agent did the whole thing autonomously, fixing DLL gaps and Wine incompatibilities.</p><p>LibrePlan is a self-hosted open source project management tool that just got its <a href="https://itsfoss.com/news/libreplan-1-6-0/">1.6.0 release</a>. The additions worth noting include email workflows, per-project document repositories, an issue and risk log, and traffic light status indicators in the project list view.</p><p>If you've ever wanted to run <a href="https://www.bleachbit.org/?ref=itsfoss.com">BleachBit</a> over SSH without touching the CLI directly, <a href="https://itsfoss.com/news/bleachbit-tui-alpha/">the TUI is shaping up well</a>. You get keyboard navigation throughout, two preview modes for checking what would be cleaned before committing, and full backend parity with the existing GUI.</p><p>Bitwarden got a new CEO in February, a new CFO in April, briefly removed "Always Free" from its pricing page, and quietly rewrote its core values. For most software, this would be unremarkable. For the app that holds your passwords, <a href="https://itsfoss.com/news/bitwarden-quiet-changes/">the bar for transparency needs to be much higher</a>.</p><p><a href="https://itsfoss.com/news/onlyoffice-docs-9-4-release/">ONLYOFFICE Docs 9.4</a> lands with a mix of features and a licensing update that's hard to read as coincidental given the Euro-Office fork dispute. It offers users a dark mode for spreadsheets, 25 new presentation themes, 20 new slide transitions, and form recipient tracking.</p><p>Linux's second-in-command, Hartman, <a href="https://itsfoss.com/news/linux-kernel-rust-cve-reduction/">thinks that Rust could eliminate 80% of Linux kernel CVEs</a>.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>Listening to music on the terminal.</li><li>Microsoft having a Fedora-based offering.</li><li>Configuring a smart bulb to run with Home Assistant.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%8E%AB-event-alert-aws-summit-india-online">&#127915; Event alert: AWS Summit India Online</h2><p>From agentic AI to Cloud Modernization, AWS is bringing together the latest innovations shaping technology today at <a href="https://bit.ly/49BlgFT">AWS Summit India Online</a>. </p><ul><li>Attend 50+ sessions filled with tech deep dives, hands-on labs, and actionable insights from AWS experts and leaders</li><li>Discover how organizations are using AI and data to solve complex challenges</li><li>Connect with the AWS community through live Q&amp;A </li></ul><p>The event is virtual and free to attend.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://bit.ly/49BlgFT">Register for FREE</a></div><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>Microsoft spent its Open Source Summit announcement <a href="https://itsfoss.com/news/azure-linux-4/">talking about Azure Linux 4.0 without mentioning Fedora once</a>. The GitHub README for the 4.0 development branch uses the phrase "<strong><em>upstream base</em></strong>" to describe Fedora's role.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>Mission Center and Resources are both polished libadwaita system monitors, and both are genuinely good. But what makes them different from each other? A lot. We have <a href="https://itsfoss.com/comparison/mission-center-vs-resources/">a detailed writeup</a> that should clear your doubts.</p><p>Splitting a string in Bash isn't as intuitive as it should be. The trick is setting <code>IFS</code> to your delimiter and using <code>read -ra</code> to split the string into an array. Here's <a href="https://itsfoss.com/bash-split-string/">a short explainer</a> with a working CSV example and a breakdown of what each part is actually doing.</p><p>If <code>cmus</code> or <code>MOC</code> never quite clicked for you, <a href="https://itsfoss.com/kew-terminal-player/">Kew</a> is worth trying. Written in C, it displays album art in the terminal, can search your music library with a single keyword, and handles playlists and shuffles without fuss.</p>
-<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
-            
-            <div class="kg-cta-content">
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><span style="white-space: pre-wrap;">Desktop Linux is mostly neglected by the industry but loved by the community. For the past 13 years, It's FOSS has been helping people use Linux on their personal computers. And we are now facing the existential threat from AI models stealing our content. </span></p><p><span style="white-space: pre-wrap;">If you like what we do and would love to support our work, please become It's FOSS Plus member. It costs less than the cost of a McDonald Happy Meal a month, and you get an ad-free reading experience with the satisfaction of helping the desktop Linux community.</span></p>
-                        </div>
-                    
-                    
-                        <a class="kg-cta-button " href="https://itsfoss.com/membership/" style="background-color: #000000; color: #ffffff;">
-                            Join It's FOSS Plus
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><!--kg-gated-block:end-->
-<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p><a href="https://itsfoss.com/testing-local-llms-without-gpu/">Eight LLMs benchmarked</a> on a CPU-only Intel i5 laptop with 12GB RAM, using Ollama with Q4_K_M quantization throughout.</p><p>Also, here's how <a href="https://itsfoss.com/add-tapo-bulb-home-assistant/">I fixed a pesky error</a> with a Tapo smart bulb on Home Assistant.</p><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
-            
-            <div class="kg-cta-content">
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><span style="white-space: pre-wrap;">Tired of AI fluff and misinformation in your Google feed? Get real, trusted Linux content. Add It&rsquo;s FOSS as your preferred source and see our reliable Linux and open-source stories highlighted in your Discover feed and search results.</span></p>
-                        </div>
-                    
-                    
-                        <a class="kg-cta-button " href="https://www.google.com/preferences/source?q=itsfoss.com" style="background-color: #000000; color: #ffffff;">
-                            Add It's FOSS as preferred source on Google (if you use it)
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/aerion/">Aerion</a> is a new open source desktop email client built with Wails and Svelte, not Electron, and it shows.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>Using <a href="https://itsfoss.com/customize-xfce/">Xfce</a> doesn't need to feel like a trip down memory lane. <a href="https://www.youtube.com/watch?v=fw4dLnMNecE">You can customize it thoroughly</a> to bring it up to current standards.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In the <a href="https://bitwarden.com">Bitwarden</a> desktop app and browser extension, you can set a pin instead of using the master password to log in. To do that, go into the <em>Account Security</em> settings and turn on the "<em>Unlock with Pin option</em>."</p><figure class="kg-card kg-image-card"><img alt="bitwarden use pin instead of master password quick tip" class="kg-image" height="759" src="https://itsfoss.com/content/images/2026/05/bitwarden-settings.png" width="1052" /></figure><p>Remember to turn off "<em>Require master password on browser restart,</em>" and set the session timeout to "<em>On browser restart</em>" for securing your vault against unauthorized access.</p><p>Though, do not forget the master password, since the PIN is not a replacement, and you will need it when signing into new devices.</p><p><a href="https://t43217012.p.clickup-attachments.com/t43217012/da09f1e7-b651-4c93-b93b-141e46671d4b/copy-link-to-highlight-firefox.png"></a></p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Test your terminal knowledge with our <a href="https://itsfoss.com/quiz/linux-terminal-emulators-crossword/">Linux Terminal Emulators</a> crossword.</p><p>Do you still shudder at the sight of a <a href="https://github.com/resources/articles/what-is-a-cli">CLI</a>? &#129320;</p><figure class="kg-card kg-image-card"><img alt="PenGUIn vs. PenCLIn meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/05/meme_2.jpg" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On <a href="https://www.computerhistory.org/tdih/may/21/">May 21, 1952</a>, IBM announced its first electronic computer, the <a href="https://en.wikipedia.org/wiki/IBM_701">Model 701</a>, at a time when the company was better known as the world's largest supplier of punched card equipment, with chairman Thomas Watson Sr. so resistant to the idea that engineers had to rebrand it a "Defense Calculator" just to get it built.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Old time FOSSer Howard is <a href="https://itsfoss.community/t/spring-time-to-clean-house-home/15799">looking for feedback and suggestions</a> on how to clean the <code>/home</code> folder.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17345706.gif" width="1" />]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Новые перовскитные панели вырабатывают энергию прямо через стекло</title>
+      <link>https://4pda.to/2026/05/24/456612/novye_perovskitnye_paneli_vyrabatyvayut_energiyu_pryamo_cherez_steklo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456612/novye_perovskitnye_paneli_vyrabatyvayut_energiyu_pryamo_cherez_steklo/</guid>
+      <pubDate>Sun, 24 May 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Наньянского технологического университета разработали ультратонкие прозрачные солнечные элементы на основе перовскита. Они почти незаметны на стекле, но при этом умеют вырабатывать электричество [...]]]></description>
     </item>
     <item>
-      <title>Наушники Campfire Audio Chimera в 30 раз дороже AirPods Pro</title>
-      <link>https://4pda.to/2026/05/24/456618/naushniki_campfire_audio_chimera_v_30_raz_dorozhe_airpods_pro/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/24/456618/naushniki_campfire_audio_chimera_v_30_raz_dorozhe_airpods_pro/</guid>
+      <title>Модульного робота Asimov DIY Kit продают за $15 000</title>
+      <link>https://4pda.to/2026/05/24/456625/modulnogo_robota_asimov_diy_kit_prodayut_za_15_000/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456625/modulnogo_robota_asimov_diy_kit_prodayut_za_15_000/</guid>
+      <pubDate>Sun, 24 May 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Сингапурская компания Menlo Research представила набор Asimov DIY Kit для самостоятельной сборки гуманоидного робота. Разработчики хотят сделать продвинутую робототехнику доступнее для желающих прикоснуться [...]]]></description>
+    </item>
+    <item>
+      <title>Разработан совершенно новый тип светодиода</title>
+      <link>https://4pda.to/2026/05/24/456613/razrabotan_sovershenno_novyj_tip_svetodioda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456613/razrabotan_sovershenno_novyj_tip_svetodioda/</guid>
+      <pubDate>Sun, 24 May 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Университета Кембриджа создали новый тип светодиода, который использует материалы, ранее считавшиеся непригодными для подобных разработок. В его основе лежат наночастицы с лантаноидами, которые [...]]]></description>
+    </item>
+    <item>
+      <title>Сolossal хочет «воскресить» вымерших птиц с помощью яйца-инкубатора</title>
+      <link>https://4pda.to/2026/05/24/456669/solossal_khochet_voskresit_vymershikh_ptits_s_pomoschyu_yajtsa_inkubatora/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456669/solossal_khochet_voskresit_vymershikh_ptits_s_pomoschyu_yajtsa_inkubatora/</guid>
+      <pubDate>Sun, 24 May 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Американская компания Colossal Biosciences заявила, что смогла вырастить птенцов в искусственном яйце. Разработчики называют это важным шагом для своих проектов по «возвращению» вымерших птиц вроде додо [...]]]></description>
+    </item>
+    <item>
+      <title>Лукашенко и Макрон созвонились. Разговор инициировала французская сторона</title>
+      <link>https://people.onliner.by/go/1303171</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/24/lukashenko-i-makron-sozvonilis</guid>
+      <pubDate>Sun, 24 May 2026 16:23:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/24/lukashenko-i-makron-sozvonilis"><img alt="" src="https://content.onliner.by/news/thumbnail/bf77556e033e5876bd441e6a2a8af367.jpg" /></a></p><p>Президент Беларуси Александр Лукашенко и президент Франции Эммануэль Макрон сегодня провели телефонный разговор. Как <a href="https://president.gov.by/ru/events/telefonnyj-razgovor-s-prezidentom-francii-emmanuelem-makronom" target="_blank">сообщили</a> в пресс-службе главы государства, инициатором беседы выступила французская сторона.</p><p><a href="https://people.onliner.by/2026/05/24/lukashenko-i-makron-sozvonilis">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Red Bull готовит к выпуску гиперкар RB17</title>
+      <link>https://4pda.to/2026/05/24/456614/red_bull_gotovit_k_vypusku_giperkar_rb17/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456614/red_bull_gotovit_k_vypusku_giperkar_rb17/</guid>
+      <pubDate>Sun, 24 May 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Red Bull приближается к запуску своей самой амбициозной разработки — гиперкара RB17. Машина создаётся как максимально близкий аналог болиду «Формулы-1», но только для обычных владельцев.
+RB17 разработан [...]]]></description>
+    </item>
+    <item>
+      <title>Хотим доить франшизу. Автор NieR: Automata рассказал о смысле тизера к девятой годовщине игры</title>
+      <link>https://4pda.to/2026/05/24/456682/khotim_doit_franshizu_avtor_nier_automata_rasskazal_o_smysle_tizera_k_devyatoj_godovschine_igry/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456682/khotim_doit_franshizu_avtor_nier_automata_rasskazal_o_smysle_tizera_k_devyatoj_godovschine_igry/</guid>
+      <pubDate>Sun, 24 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[На девятую годовщину релиза NieR: Automata создатели игры выпустили ролик с таинственной надписью: «Продолжение следует...» Теперь они объяснили, что означает это послание.
+[youtube=Wyn1b_5bw-M:640:360:::0]
+Геймдизайнер [...]]]></description>
+    </item>
+    <item>
+      <title>Новая технология разогнала беспроводную связь до 112 Гбит/с</title>
+      <link>https://4pda.to/2026/05/24/456617/novaya_tekhnologiya_razognala_besprovodnuyu_svyaz_do_112_gbit_s/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456617/novaya_tekhnologiya_razognala_besprovodnuyu_svyaz_do_112_gbit_s/</guid>
+      <pubDate>Sun, 24 May 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Команда из Университета Токусимы разработала новую систему беспроводной передачи данных, которая смогла достичь скорости 112 Гбит/с на частоте 560 ГГц. Это один из лучших результатов для терагерцевой связи [...]]]></description>
+    </item>
+    <item>
+      <title>Наушники Campfire Audio Chimera стоят в 30 раз дороже AirPods Pro</title>
+      <link>https://4pda.to/2026/05/24/456618/naushniki_campfire_audio_chimera_stoyat_v_30_raz_dorozhe_airpods_pro/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/24/456618/naushniki_campfire_audio_chimera_stoyat_v_30_raz_dorozhe_airpods_pro/</guid>
       <pubDate>Sun, 24 May 2026 12:15:00 +0000</pubDate>
       <description><![CDATA[Американская компания Campfire Audio представила новые премиальные внутриканальные мониторы Chimera, которые явно не рассчитаны на массовый рынок. Модель стоит впечатляющие 7500 долларов, что в 30 раз [...]]]></description>
     </item>
@@ -350,28 +361,6 @@
 Маршрут [...]]]></description>
     </item>
     <item>
-      <title>Новая роборука почти не отличается от человеческой</title>
-      <link>https://4pda.to/2026/05/23/456731/novaya_roboruka_pochti_ne_otlichaetsya_ot_chelovecheskoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456731/novaya_roboruka_pochti_ne_otlichaetsya_ot_chelovecheskoj/</guid>
-      <pubDate>Sat, 23 May 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания Xynova представила новое поколение роботизированной руки Flex 2. Разработка создана для гуманоидных роботов и должна помочь им аккуратнее &nbsp;и точнее работать с предметами разной [...]]]></description>
-    </item>
-    <item>
-      <title>Что с лицом? Автор квестов The Witcher 3 шокировал всю студию, предложив убить Весемира</title>
-      <link>https://4pda.to/2026/05/23/456741/chto_s_litsom_avtor_kvestov_the_witcher_3_shokiroval_vsyu_studiyu_predlozhiv_ubit_vesemira/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456741/chto_s_litsom_avtor_kvestov_the_witcher_3_shokiroval_vsyu_studiyu_predlozhiv_ubit_vesemira/</guid>
-      <pubDate>Sat, 23 May 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[Многие геймеры хвалят «Ведьмака 3» за основной сюжет и продуманные квесты. Один из создателей игры рассказал, как команда пришла к одному из самых внезапных сюжетных поворотов.
-Гибель Весемира в The [...]]]></description>
-    </item>
-    <item>
-      <title>Tesla дважды за полмесяца занизила характеристики Model 3</title>
-      <link>https://4pda.to/2026/05/23/456712/tesla_dvazhdy_za_polmesyatsa_zanizila_kharakteristiki_model_3/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456712/tesla_dvazhdy_za_polmesyatsa_zanizila_kharakteristiki_model_3/</guid>
-      <pubDate>Sat, 23 May 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Tesla несколько раз за короткое время пересмотрела характеристики нового электрокара Model 3 Premium RWD. Всего за две недели компания дважды меняла заявленное время разгона до «сотни», замедлив автомобиль [...]]]></description>
-    </item>
-    <item>
       <title>На Зыбицкой девушка упала в Свислочь</title>
       <link>https://people.onliner.by/go/1302983</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/05/23/na-zybickoj-devushka-upala</guid>
@@ -380,33 +369,12 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Honor Pad X8b проверили на прочность «строительной техникой»</title>
-      <link>https://4pda.to/2026/05/23/456789/honor_pad_x8b_proverili_na_prochnost_stroitelnoj_tekhnikoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456789/honor_pad_x8b_proverili_na_prochnost_stroitelnoj_tekhnikoj/</guid>
-      <pubDate>Sat, 23 May 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Недавно вышедшему планшету Honor Pad X8b устроили ещё одно испытание на прочность и надёжность. На&nbsp;этот раз в ход пошла строительная техника. Устройство закапывали в песок, переезжали погрузчиками [...]]]></description>
-    </item>
-    <item>
-      <title>OpenAI помогла решить математическую задачу 80-летней давности</title>
-      <link>https://4pda.to/2026/05/23/456732/openai_pomogla_reshit_matematicheskuyu_zadachu_80_letnej_davnosti/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456732/openai_pomogla_reshit_matematicheskuyu_zadachu_80_letnej_davnosti/</guid>
-      <pubDate>Sat, 23 May 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[OpenAI сообщила о важном достижении в области математики. Фирменная ИИ-модель смогла решить знаменитую задачу Эрдёша о расстояниях между точками, поставленную ещё в 1946 году. Проблема десятилетиями считалась [...]]]></description>
-    </item>
-    <item>
       <title>«Жуки лезут в окна и облепляют фонари». Ученые объяснили нашествие майских жуков в Беларуси</title>
       <link>https://people.onliner.by/go/1302978</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/05/23/zhuki-lezut-v-okna-i-obleplyayut</guid>
       <pubDate>Sat, 23 May 2026 09:09:21 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/23/zhuki-lezut-v-okna-i-obleplyayut"><img alt="" src="https://content.onliner.by/news/thumbnail/ef9611056e30762e4a718e9e5306d1d5.jpg" /></a></p><p>Белорусы массово обсуждают в соцсетях майских жуков — в некоторых районах их настолько много, что насекомые буквально облепляют фонари, бьются в окна и собираются под подъездами сотнями. Многие уже успели назвать происходящее аномалией, однако ученые говорят, что ничего необычного в этом нет.</p><p><a href="https://people.onliner.by/2026/05/23/zhuki-lezut-v-okna-i-obleplyayut">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Xiaomi выпустила компактный пауэрбанк на 10 000 мАч с магнитной зарядкой</title>
-      <link>https://4pda.to/2026/05/23/456790/xiaomi_vypustila_kompaktnyj_pauerbank_na_10_000_mach_s_magnitnoj_zaryadkoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456790/xiaomi_vypustila_kompaktnyj_pauerbank_na_10_000_mach_s_magnitnoj_zaryadkoj/</guid>
-      <pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[В дополнение к модели на 5000 мАч Xiaomi представила новый внешний аккумулятор ёмкостью 10 000 мАч. Пауэрбанк выполнен в компактном корпусе, поддерживает быструю зарядку в обе стороны&nbsp;и может крепиться [...]]]></description>
     </item>
     <item>
       <title>Пассажиры жестоко избили женщину-таксиста — она оказалась в больнице (видео, обновлено)</title>
@@ -425,44 +393,12 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>Более 500 раз в день. Белорусам массово звонят мошенники</title>
-      <link>https://money.onliner.by/go/328112</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/23/bolee-500-raz-v-den-belorusam</guid>
-      <pubDate>Sat, 23 May 2026 08:07:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/23/bolee-500-raz-v-den-belorusam"><img alt="" src="https://content.onliner.by/news/thumbnail/6dd4e2ac2a26d358ae68178f6547700e.jpg" /></a></p><p>За последние сутки в милицию поступило более 500 сообщений о звонках телефонных мошенников. Также было зарегистрировано 66 преступлений, связанных с использованием информационно-коммуникационных технологий.</p><p><a href="https://money.onliner.by/2026/05/23/bolee-500-raz-v-den-belorusam">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Энтузиаст создал виртуальный музей из 570 операционных систем</title>
-      <link>https://4pda.to/2026/05/23/456710/entuziast_sozdal_virtualnyj_muzej_iz_570_operatsionnykh_sistem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456710/entuziast_sozdal_virtualnyj_muzej_iz_570_operatsionnykh_sistem/</guid>
-      <pubDate>Sat, 23 May 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[На просторах интернета&nbsp;появился уникальный в своём роде виртуальный музей операционных систем. Его создал энтузиаст, который собирал коллекцию более 20&nbsp;лет. Внутри —&nbsp;570 различных ОС, 250 [...]]]></description>
-    </item>
-    <item>
-      <title>На автомате. В Forza Horizon 6 нашли способ быстро открыть все машины</title>
-      <link>https://4pda.to/2026/05/23/456740/na_avtomate_v_forza_horizon_6_nashli_sposob_bystro_otkryt_vse_mashiny/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/23/456740/na_avtomate_v_forza_horizon_6_nashli_sposob_bystro_otkryt_vse_mashiny/</guid>
-      <pubDate>Sat, 23 May 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[С релиза Forza Horizon 6 прошло менее недели, и геймеры уже вовсю наслаждаются новинкой. Им даже удалось придумать способ для быстрой прокачки и открытия всех машин.
-[youtube=9Fwoee_FCdY:640:360:::0]
-Фанаты [...]]]></description>
-    </item>
-    <item>
       <title>Firefox Just Saved Us All from Spammy Online PDF Tools</title>
       <link>https://feed.itsfoss.com/link/24361/17346790/firefox-pdf-merge</link>
       <guid isPermaLink="false">6a0ef67e6ef9df0001ebf351</guid>
       <pubDate>Sat, 23 May 2026 03:42:54 +0000</pubDate>
       <description><![CDATA[a screenshot of firefox is on the left, on the right is an illustration showing two pdf files being merged and the firefox logo]]></description>
       <category>Tutorial</category>
-    </item>
-    <item>
-      <title>Warp&amp;#x27;s Oz Platform Can Now Run Claude Code and Codex Alongside Its Own Agent</title>
-      <link>https://feed.itsfoss.com/link/24361/17345762/warp-oz-multi-harness-update</link>
-      <guid isPermaLink="false">6a0eda336ef9df0001ebf2b3</guid>
-      <pubDate>Thu, 21 May 2026 15:10:47 +0000</pubDate>
-      <description><![CDATA[the logos for oz by warp, claude code, and  codex are shown against a yellow/green background]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
