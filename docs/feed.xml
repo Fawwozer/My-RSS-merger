@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 25 May 2026 14:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:39:54 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,19 +17,117 @@
       <category>News</category>
     </item>
     <item>
-      <title>В Linux собнаружена опасная уязвимость с 10-летней «выдержкой»</title>
-      <link>https://4pda.to/2026/05/25/456800/v_linux_sobnaruzhena_opasnaya_uyazvimost_s_10_letnej_vyderzhkoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456800/v_linux_sobnaruzhena_opasnaya_uyazvimost_s_10_letnej_vyderzhkoj/</guid>
-      <pubDate>Mon, 25 May 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Аналитики IT-компании Qualys опубликовали отчёт, посвящённый обнаружению уязвимости сразу в нескольких семействах операционных систем на ядре Linux. Она позволяет злоумышленникам перехватывать контроль [...]]]></description>
-    </item>
-    <item>
       <title>In a Weird Case, German Deutsche Bahn&amp;#x27;s Website Was Locking Out Linux Users</title>
       <link>https://feed.itsfoss.com/link/24361/17346770/deutsche-bahn-blocking-linux-users</link>
       <guid isPermaLink="false">6a0fffab4aa1730001e9059e</guid>
       <pubDate>Sat, 23 May 2026 01:32:12 +0000</pubDate>
       <description><![CDATA[in the background is a db ice train, in the foreground is the deutsche bahn logo on the left, and on the right is tux, the mascot penguin of linux with a no symbol above it]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>ILIFE отдаёт моющий пылесос W90 Pro за 12 тысяч рублей. Что там?</title>
+      <link>https://4pda.to/2026/05/07/455705/obzor_ilife_w90_pro_nedorogoj_pylesos_s_ruchnym_moyuschim_rezhimom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/07/455705/obzor_ilife_w90_pro_nedorogoj_pylesos_s_ruchnym_moyuschim_rezhimom/</guid>
+      <pubDate>Mon, 25 May 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Бюджетный моющий пылесос — это почти всегда компромисс, связанный с нехваткой мощности, автономности, надёжности, а то и всего разом. Но производители стремятся нащупать баланс между «недорого» и «хорошо». [...]]]></description>
+    </item>
+    <item>
+      <title>Компактный корпус-аквариум Jonsbo D34 получил встроенный экран</title>
+      <link>https://4pda.to/2026/05/25/456837/kompaktnyj_korpus_akvarium_jonsbo_d34_poluchil_vstroennyj_ekran/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456837/kompaktnyj_korpus_akvarium_jonsbo_d34_poluchil_vstroennyj_ekran/</guid>
+      <pubDate>Mon, 25 May 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания&nbsp;Jonsbo&nbsp;представила новый компьютерный корпус D34, предназначенный для&nbsp;сборки компактных игровых и рабочих ПК. Несмотря на сравнительно небольшие размеры, производитель [...]]]></description>
+    </item>
+    <item>
+      <title>Subnautica обновила рекорд онлайна на фоне успеха сиквела. Он держался 8 лет</title>
+      <link>https://4pda.to/2026/05/25/456822/subnautica_obnovila_rekord_onlajna_na_fone_uspekha_sikvela_on_derzhalsya_8_let/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456822/subnautica_obnovila_rekord_onlajna_na_fone_uspekha_sikvela_on_derzhalsya_8_let/</guid>
+      <pubDate>Mon, 25 May 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Новые релизы в известных франшизах, как правило, поднимают показатели прошлых выпусков — а иногда даже бьют&nbsp;застарелые рекорды. Так случилось с оригинальной Subnautica.
+На фоне выхода чрезвычайно [...]]]></description>
+    </item>
+    <item>
+      <title>«Потеряла сознание». В Минске Mazda съехала с дороги и врезалась в дерево (видео)</title>
+      <link>https://auto.onliner.by/go/1247505</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/05/25/v-minske-mazda-sjehala-s-dorogi</guid>
+      <pubDate>Mon, 25 May 2026 17:39:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/25/v-minske-mazda-sjehala-s-dorogi"><img alt="" src="https://content.onliner.by/news/thumbnail/0c00a26696a3a2fa3710bb506db874b3.jpg" /></a></p><p>Сегодня вечером в Минске, в районе перекрестка улиц Казинца и Ландера, Mazda оказалась за пределами проезжей части. Что произошло? </p><p><a href="https://auto.onliner.by/2026/05/25/v-minske-mazda-sjehala-s-dorogi">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В России ограничат параллельный импорт. Цены на технику вырастут?</title>
+      <link>https://4pda.to/2026/05/25/456839/v_rossii_ogranichat_parallelnyj_import_tseny_na_tekhniku_vyrastut/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456839/v_rossii_ogranichat_parallelnyj_import_tseny_na_tekhniku_vyrastut/</guid>
+      <pubDate>Mon, 25 May 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[С 27 мая вступает в силу обновлённый перечень товаров, разрешённых к параллельному импорту. Из него исключена часть продукции Acer, HP, Asus, Toshiba, Samsung, Dell и ряда других техногигантов.&nbsp;
+Что [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung Galaxy S26 FE впервые засветился на рендерах</title>
+      <link>https://4pda.to/2026/05/25/456813/samsung_galaxy_s26_fe_vpervye_zasvetilsya_na_renderakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456813/samsung_galaxy_s26_fe_vpervye_zasvetilsya_na_renderakh/</guid>
+      <pubDate>Mon, 25 May 2026 16:50:00 +0000</pubDate>
+      <description><![CDATA[Ещё не анонсированный Samsung Galaxy S26 FE впервые заметили на рендерах. Судя по изображениям от производителя чехлов Dux Ducis, новинка&nbsp;будет поддерживать беспроводную зарядку. 
+[gallery=1]
+На [...]]]></description>
+    </item>
+    <item>
+      <title>Представлена серия корпусов Sharkoon S25 с системой шумоподавления</title>
+      <link>https://4pda.to/2026/05/25/456812/predstavlena_seriya_korpusov_sharkoon_s25_s_sistemoj_shumopodavleniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456812/predstavlena_seriya_korpusov_sharkoon_s25_s_sistemoj_shumopodavleniya/</guid>
+      <pubDate>Mon, 25 May 2026 16:40:00 +0000</pubDate>
+      <description><![CDATA[Компания Sharkoon выпустила
+линейку доступных корпусов для ПК S25. В неё
+вошли три модели в формате Mid-Tower: базовая V2, версия W2 ARGB со
+стеклянной панелью и топовая Silent с шумоподавлением.
+[gallery=1]
+Все [...]]]></description>
+    </item>
+    <item>
+      <title>Разработчики Deep Rock Galactic: Rogue Core представили дорожную карту изменений проекта</title>
+      <link>https://4pda.to/2026/05/25/456819/razrabotchiki_deep_rock_galactic_rogue_core_predstavili_dorozhnuyu_kartu_izmenenij_proekta/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456819/razrabotchiki_deep_rock_galactic_rogue_core_predstavili_dorozhnuyu_kartu_izmenenij_proekta/</guid>
+      <pubDate>Mon, 25 May 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Хотя геймеры очень любят Deep Rock Galactic, её наследница Deep Rock Galactic: Rogue Core вызвала у публики реакцию&nbsp;неоднозначную&nbsp;—&nbsp;далеко не каждому оказались по нраву уникальные геймплейные [...]]]></description>
+    </item>
+    <item>
+      <title>Минский район атаковали жуки — местные собирают их ведрами</title>
+      <link>https://people.onliner.by/go/1303357</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/05/25/minskij-rajon-atakovali-zhuki</guid>
+      <pubDate>Mon, 25 May 2026 15:56:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/25/minskij-rajon-atakovali-zhuki"><img alt="" src="https://content.onliner.by/news/thumbnail/8249577a94612e4e1b0c490888a7b4b4.jpg" /></a></p><p>В Минском районе нашествие жуков-долгоносиков. По крайней мере, такие выводы можно сделать, если посмотреть видео, которое Людмила опубликовала в своем TikTok. Ролик набрал более 90 тыс. просмотров и в самом деле впечатляет — насекомых, которых засняла женщина, действительно очень много.</p><p><a href="https://people.onliner.by/2026/05/25/minskij-rajon-atakovali-zhuki">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>HUAWEI представила альтернативу закону Мура для электроники</title>
+      <link>https://4pda.to/2026/05/25/456805/huawei_predstavila_alternativu_zakonu_mura_dlya_elektroniki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456805/huawei_predstavila_alternativu_zakonu_mura_dlya_elektroniki/</guid>
+      <pubDate>Mon, 25 May 2026 15:20:00 +0000</pubDate>
+      <description><![CDATA[HUAWEI предложила собственную альтернативу знаменитому закону Мура, который больше полувека служил главным ориентиром для всей полупроводниковой индустрии. На конференции IEEE ISCAS 2026 компания представила [...]]]></description>
+    </item>
+    <item>
+      <title>В России появился проектор Acer H6546Ki с поддержкой диагонали до 305 дюймов</title>
+      <link>https://4pda.to/2026/05/25/456824/v_rossii_poyavilsya_proektor_acer_h6546ki_s_podderzhkoj_diagonali_do_305_dyujmov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456824/v_rossii_poyavilsya_proektor_acer_h6546ki_s_podderzhkoj_diagonali_do_305_dyujmov/</guid>
+      <pubDate>Mon, 25 May 2026 15:10:00 +0000</pubDate>
+      <description><![CDATA[В России представлен&nbsp;новый проектор H6546Ki, ориентированный на домашний просмотр фильмов, спортивных трансляций и другого мультимедийного контента. Одной из его главных особенностей стала поддержка [...]]]></description>
+    </item>
+    <item>
+      <title>Гача Neverness to Everness выйдет в Steam — игра получила дату релиза и системные требования</title>
+      <link>https://4pda.to/2026/05/25/456821/gacha_neverness_to_everness_vyjdet_v_steam_igra_poluchila_datu_reliza_i_sistemnye_trebovaniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456821/gacha_neverness_to_everness_vyjdet_v_steam_igra_poluchila_datu_reliza_i_sistemnye_trebovaniya/</guid>
+      <pubDate>Mon, 25 May 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[После успеха Genshin Impact в игровой индустрии появилась традиция — выпускать несколько новых гача-игр в год. Недавно вышедшая Neverness to Everness обзавелась страницей в Steam.
+Согласно обнародованным [...]]]></description>
+    </item>
+    <item>
+      <title>На предприятии не выплатили больше 230 тысяч рублей зарплаты. Что было дальше?</title>
+      <link>https://money.onliner.by/go/328346</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/05/25/zadolzhennost-bolshe-230-tysyach-rublej-v-mogilevskoj-oblasti-lyudyam-ne-platili-zarplatu</guid>
+      <pubDate>Mon, 25 May 2026 14:58:43 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/25/zadolzhennost-bolshe-230-tysyach-rublej-v-mogilevskoj-oblasti-lyudyam-ne-platili-zarplatu"><img alt="" src="https://content.onliner.by/news/thumbnail/c451556b778620156d1a436d0448d67b.jpg" /></a></p><p>В марте одна из сельхозорганизаций Костюковичского района не выплатила 152 работникам больше 230 тысяч рублей зарплаты. Прокурор потребовал от руководителя организации «незамедлительно принять меры» и начислить людям что им причитается.
+</p><p><a href="https://money.onliner.by/2026/05/25/zadolzhennost-bolshe-230-tysyach-rublej-v-mogilevskoj-oblasti-lyudyam-ne-platili-zarplatu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
     </item>
     <item>
       <title>«Обгон сразу четырех авто». Водитель нашел очень неудачный участок трассы для такого маневра (видео)</title>
@@ -49,11 +147,11 @@
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Что будет с «Халвой»? Попытались узнать в банке</title>
+      <title>Что будет с «Халвой»? Попытались узнать в банке (обновлено)</title>
       <link>https://money.onliner.by/go/328362</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/05/25/xalva-vse-taki-budet-v-banke-oprovergli-informaciyu-o-zakrytii-programmy-loyalnosti</guid>
       <pubDate>Mon, 25 May 2026 14:01:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/25/xalva-vse-taki-budet-v-banke-oprovergli-informaciyu-o-zakrytii-programmy-loyalnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/4b5f6854da2fa579c8465a3fd7b4250a.jpg" /></a></p><p>На новостных сайтах и в телеграм-канале одного издания в понедельник появилась информация о закрытии с 1 июля программы лояльности «Халва» по карточкам на условиях тарифных планов «Карта рассрочки №1 „Халва“», „Карта рассрочки №1 „Халва-Партнер“», „Карта рассрочки №1 „Халва МIX“» и „Карта рассрочки №1 „Халва МAX“».</p><p><a href="https://money.onliner.by/2026/05/25/xalva-vse-taki-budet-v-banke-oprovergli-informaciyu-o-zakrytii-programmy-loyalnosti">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/25/xalva-vse-taki-budet-v-banke-oprovergli-informaciyu-o-zakrytii-programmy-loyalnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/4b5f6854da2fa579c8465a3fd7b4250a.jpg" /></a></p><p>На новостных сайтах и в телеграм-канале одного издания в понедельник появилась информация о закрытии с 1 июля программы лояльности «Халва» по карточкам на условиях тарифных планов «Карта рассрочки №1 „Халва“», «Карта рассрочки №1 „Халва-Партнер“», «Карта рассрочки №1 „Халва МIX“» и «Карта рассрочки №1 „Халва МAX“».</p><p><a href="https://money.onliner.by/2026/05/25/xalva-vse-taki-budet-v-banke-oprovergli-informaciyu-o-zakrytii-programmy-loyalnosti">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
@@ -262,27 +360,11 @@ Lenovo LOQ 15 Gen [...]]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Эта страна снова усложняет получение шенгена — белорусов направляют в Москву</title>
-      <link>https://people.onliner.by/go/1303230</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/05/25/eta-strana-snova-uslozhnyaet-poluchenie-shengena-belorusov-napravlyayut-v-moskvu</guid>
-      <pubDate>Mon, 25 May 2026 10:15:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/05/25/eta-strana-snova-uslozhnyaet-poluchenie-shengena-belorusov-napravlyayut-v-moskvu"><img alt="" src="https://content.onliner.by/news/thumbnail/9c5f67f60e2d05a83fa879fa695417a9.jpg" /></a></p><p>С 22 мая 2026 года консульский отдел посольства Румынии в Минске <a href="https://minsk.mae.ro/ru/local-news/1089">приостанавливает</a> работу, и подача документов на визы там будет недоступна. Еще два месяца назад сообщалось, что граждане Беларуси снова могут подавать документы на визы, включая шенгенские.</p><p><a href="https://people.onliner.by/2026/05/25/eta-strana-snova-uslozhnyaet-poluchenie-shengena-belorusov-napravlyayut-v-moskvu">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>LEGO Batman: Legacy of the Dark Knight оказалась популярнее всех остальных игр о Бэтмене в Steam</title>
       <link>https://4pda.to/2026/05/25/456817/lego_batman_legacy_of_the_dark_knight_okazalas_populyarnee_vsekh_ostalnykh_igr_o_betmene_v_steam/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/25/456817/lego_batman_legacy_of_the_dark_knight_okazalas_populyarnee_vsekh_ostalnykh_igr_o_betmene_v_steam/</guid>
       <pubDate>Mon, 25 May 2026 10:15:00 +0000</pubDate>
       <description><![CDATA[Публика явно соскучилась по играм с Бэтменом в главной роли. И неважно, что очередной тайтл с участием Тёмного Рыцаря в первую очередь предназначен для детей и подростков — исследовать LEGO-версию Готэма [...]]]></description>
-    </item>
-    <item>
-      <title>Минус 4,6 миллиарда рублей. Как китайский миллиардер потерял четверть состояния за день</title>
-      <link>https://money.onliner.by/go/328315</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/25/lif-li-obnishhal</guid>
-      <pubDate>Mon, 25 May 2026 10:03:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/25/lif-li-obnishhal"><img alt="" src="https://content.onliner.by/news/thumbnail/45ba4810cbc88548c1ecac91568632ed.jpg" /></a></p><p>Китайский торговый магнат Лиф Ли потерял больше четверти своего состояния всего за день. Случилось это после того, как Пекин ужесточил контроль над трансграничной торговлей акциями.</p><p><a href="https://money.onliner.by/2026/05/25/lif-li-obnishhal">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>HP представила мобильные рабочие станции ZBook X G2i с видеокартами RTX Pro</title>
@@ -301,36 +383,11 @@ Pro Blackwell. Они ориентированы на профессиональ
       <description><![CDATA[Китайский бренд iFFALCON, принадлежащий TCL, выпустил 300-герцевый монитор Thunderobot&nbsp;Q5AD с матрицей Fast IPS, сопоставимый по цене с офисными моделями. Несмотря на статус «бюджетника», новинка [...]]]></description>
     </item>
     <item>
-      <title>Еще больше адресов! Кто останется без горячей воды в июне (обновлено)</title>
-      <link>https://realt.onliner.by/go/1098905</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/05/25/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov</guid>
-      <pubDate>Mon, 25 May 2026 09:29:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/05/25/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov"><img alt="" src="https://content.onliner.by/news/thumbnail/0eafc2a5590e1083aaf418baadf724f5.jpg" /></a></p><p>Готов график отключения горячей воды на июнь. Адресов — море, ведь профилактические работы одновременно проводят два столичных поставщика услуг: «Минсккоммунтеплосеть» и «Минскэнерго». Ищите свой адрес, чтобы не быть застигнутым врасплох. Майский график пока тоже сохраняется, сверьтесь и с ним, чтобы внезапно не обнаружить завтра утром краны «пустыми».
-</p><p><a href="https://realt.onliner.by/2026/05/25/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Сразу несколько мощных взрывов: что происходит на Солнце?</title>
-      <link>https://tech.onliner.by/go/775480</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/05/25/srazu-neskolko-moshhnyx-vzryvov-chto-proisxodit-na-solnce</guid>
-      <pubDate>Mon, 25 May 2026 09:23:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/05/25/srazu-neskolko-moshhnyx-vzryvov-chto-proisxodit-na-solnce"><img alt="" src="https://content.onliner.by/news/thumbnail/9cb44e410edb54a2638db954609fe994.jpg" /></a></p><p>На прошедших выходных коронографы зафиксировали массовые выбросы солнечной плазмы в космическое пространство. По данным Лаборатории солнечной активности, источники этих взрывов скрываются на обратной стороне Солнца: среди них есть как пятна, ранее не зафиксированные исследователями, так и аномалии из группы 4436, возобновившие свою активность. </p><p><a href="https://tech.onliner.by/2026/05/25/srazu-neskolko-moshhnyx-vzryvov-chto-proisxodit-na-solnce">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Авторы Tainted Grail: The Fall of Avalon отметили день рождения игры с помощью бесплатного DLC</title>
       <link>https://4pda.to/2026/05/25/456815/avtory_tainted_grail_the_fall_of_avalon_otmetili_den_rozhdeniya_igry_s_pomoschyu_besplatnogo_dlc/</link>
       <guid isPermaLink="false">https://4pda.to/2026/05/25/456815/avtory_tainted_grail_the_fall_of_avalon_otmetili_den_rozhdeniya_igry_s_pomoschyu_besplatnogo_dlc/</guid>
       <pubDate>Mon, 25 May 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[Весна 2025 года прошла под знаком Clair Obscur: Expedition 33. Однако шедевр Sandfall Interactive не был единственным интересным релизом&nbsp;сезона&nbsp;— в мае, например, состоялась полноценная премьера&nbsp;Tainted [...]]]></description>
-    </item>
-    <item>
-      <title>Средняя зарплата — 6200 рублей. В какой сфере в Беларуси такие цифры?</title>
-      <link>https://money.onliner.by/go/328289</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/25/pochti-3-tysyachi-rublej-belstat-nazval-srednyuyu-zarplatu-belorusov</guid>
-      <pubDate>Mon, 25 May 2026 09:08:20 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/25/pochti-3-tysyachi-rublej-belstat-nazval-srednyuyu-zarplatu-belorusov"><img alt="" src="https://content.onliner.by/news/thumbnail/6dd67af2a841594987607048bae90c6b.jpg" /></a></p><p>В апреле белорусам начисляли 2952,9 рубля зарплаты — это в среднем по стране. По областям разбежка составила от 2473 в Могилевской до 2990 рублей в Минской. Больше всего традиционно зарабатывают в столице — 3899 рублей.</p><p><a href="https://money.onliner.by/2026/05/25/pochti-3-tysyachi-rublej-belstat-nazval-srednyuyu-zarplatu-belorusov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>HUAWEI анонсировала серию смартфонов nova 16</title>
@@ -342,23 +399,6 @@ Pro Blackwell. Они ориентированы на профессиональ
 премьеры новинок, а модель nova 16 Pro засветилась на рекламном
 тизере в новой яркой расцветке.
 По официальным [...]]]></description>
-    </item>
-    <item>
-      <title>Ну надо же. Доллар продолжает расти, а что с другими валютами? (обновлено)</title>
-      <link>https://money.onliner.by/go/328279</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/05/25/nu-nado-zhe-dollar-prodolzhaet-rasti-chto-s-drugimi-valyutami</guid>
-      <pubDate>Mon, 25 May 2026 08:48:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/05/25/nu-nado-zhe-dollar-prodolzhaet-rasti-chto-s-drugimi-valyutami"><img alt="" src="https://content.onliner.by/news/thumbnail/7cb04c10aca853a36596f4cf83784a7e.jpg" /></a></p><p>После затяжного падения доллар продолжает набирать потерянные копейки. Укрепились также евро и юань. Тем временем биткоин за последние сутки подорожал, сейчас находится вблизи отметки в $77 505.
-</p><p><a href="https://money.onliner.by/2026/05/25/nu-nado-zhe-dollar-prodolzhaet-rasti-chto-s-drugimi-valyutami">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>На минской улице опрокинулась Tesla, подбила два других авто и легла на бок (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1247325</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/05/25/prokinulsya-auto</guid>
-      <pubDate>Mon, 25 May 2026 08:39:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/05/25/prokinulsya-auto"><img alt="" src="https://content.onliner.by/news/thumbnail/209b53141c3da2598d87822bc41dab22.jpg" /></a></p><p>Наш читатель прислал видео с улицы Рафиева в Минске. По предварительной информации, там на бок опрокинулась Tesla. Работает ГАИ, место&#8230;</p><p><a href="https://auto.onliner.by/2026/05/25/prokinulsya-auto">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>Инсайдер показал возможный дизайн «юбилейного» iPhone XX [ВИДЕО]</title>
@@ -375,84 +415,12 @@ Pro Blackwell. Они ориентированы на профессиональ
       <description><![CDATA[У геймеров и разработчиков накопилась масса претензий к Unreal Engine 5 — недовольные пользователи называют движок сырым и откровенно неоптимизированным. Вместо того чтобы чинить его, Epic Games приняла [...]]]></description>
     </item>
     <item>
-      <title>Vivo Y600 Turbo получил АКБ на 9020 мАч и AMOLED-экран без мерцания</title>
-      <link>https://4pda.to/2026/05/25/456801/vivo_y600_turbo_poluchil_akb_na_9020_mach_i_amoled_ekran_bez_mertsaniya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456801/vivo_y600_turbo_poluchil_akb_na_9020_mach_i_amoled_ekran_bez_mertsaniya/</guid>
-      <pubDate>Mon, 25 May 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[В каталоге электроники vivo появился новый смартфон «молодёжной» серии. Модель Y600 Turbo примечательна хорошей автономностью, надёжной водозащитой и функцией записи видео в разрешении 4K.
-Лицом гаджета [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен ноутбук Lenovo Legion Y9000P (2026) с топовым железом и «кусачей» ценой</title>
-      <link>https://4pda.to/2026/05/25/456799/predstavlen_noutbuk_lenovo_legion_y9000p_2026_s_topovym_zhelezom_i_kusachej_tsenoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456799/predstavlen_noutbuk_lenovo_legion_y9000p_2026_s_topovym_zhelezom_i_kusachej_tsenoj/</guid>
-      <pubDate>Mon, 25 May 2026 07:15:00 +0000</pubDate>
-      <description><![CDATA[Компания Lenovo расширила серию игровых ноутбуков Legion моделью Y9000P (2026) FIFA
-World Cup Limited Edition. Устройство вошло в серию лимитированных
-продуктов, посвящённых чемпионату мира по футболу, [...]]]></description>
-    </item>
-    <item>
-      <title>MSI презентовала недорогой изогнутый 400-герцевый монитор для геймеров</title>
-      <link>https://4pda.to/2026/05/25/456798/msi_prezentovala_nedorogoj_izognutyj_400_gertsevyj_monitor_dlya_gejmerov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456798/msi_prezentovala_nedorogoj_izognutyj_400_gertsevyj_monitor_dlya_gejmerov/</guid>
-      <pubDate>Mon, 25 May 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[На сайте MSI появился изогнутый широкоформатный монитор MAG 346CQDF E20. Его ключевыми особенностями стали поддержка двух режимов работы с разной частотой обновления, а также расширенный набор геймерских [...]]]></description>
-    </item>
-    <item>
-      <title>Пауэрбанк Ugreen PB610 с «развлекательным» дисплеем оценили в $29</title>
-      <link>https://4pda.to/2026/05/25/456797/pauerbank_ugreen_pb610_s_razvlekatelnym_displeem_otsenili_v_29/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456797/pauerbank_ugreen_pb610_s_razvlekatelnym_displeem_otsenili_v_29/</guid>
-      <pubDate>Mon, 25 May 2026 06:45:00 +0000</pubDate>
-      <description><![CDATA[Компания Ugreen представила портативный
-аккумулятор PB610 на 10 000 мАч в оригинальном узнаваемом дизайне. Особенностями аксессуара стали приличная выходная мощность и встроенный дисплей, который
-служит [...]]]></description>
-    </item>
-    <item>
-      <title>Слишком красиво. Автор Splinter Cell: Chaos Theory назвал главную проблему современных стелс-игр</title>
-      <link>https://4pda.to/2026/05/25/456783/slishkom_krasivo_avtor_splinter_cell_chaos_theory_nazval_glavnuyu_problemu_sovremennykh_stels_igr/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456783/slishkom_krasivo_avtor_splinter_cell_chaos_theory_nazval_glavnuyu_problemu_sovremennykh_stels_igr/</guid>
-      <pubDate>Mon, 25 May 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Некогда стелс-экшены были весьма популярным жанром, однако сейчас таких игр почти не выходит. Творческий директор Splinter Cell: Chaos Theory рассказал, почему так вышло: главная проблема заключается в [...]]]></description>
-    </item>
-    <item>
-      <title>Edifier выпустила ретроколонку S260 со звуком Hi-Res и AirPlay 2</title>
-      <link>https://4pda.to/2026/05/25/456796/edifier_vypustila_retrokolonku_s260_so_zvukom_hi_res_i_airplay_2/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456796/edifier_vypustila_retrokolonku_s260_so_zvukom_hi_res_i_airplay_2/</guid>
-      <pubDate>Mon, 25 May 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Компания Edifier презентовала акустическую систему S260, выполненную в ретродизайне. Несмотря на классическую внешность, новинка оснащена современной электроникой и набором динамиков с продвинутыми акустическими [...]]]></description>
-    </item>
-    <item>
-      <title>Новая технология позволяет iPhone «видеть» предметы за углом</title>
-      <link>https://4pda.to/2026/05/25/456795/novaya_tekhnologiya_pozvolyaet_iphone_videt_predmety_za_uglom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456795/novaya_tekhnologiya_pozvolyaet_iphone_videt_predmety_za_uglom/</guid>
-      <pubDate>Mon, 25 May 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Исследователи из лаборатории
-MIT Media Lab нашли необычное применение датчику LiDAR, встроенному в некоторые модели iPhone и
-iPad Pro. Им удалось заставить сенсор «видеть» объекты, которые находятся за
-пределами [...]]]></description>
-    </item>
-    <item>
-      <title>Среднебюджетный Motorola Edge 70 Pro+ с зум-камерой получил дату анонса</title>
-      <link>https://4pda.to/2026/05/25/456794/srednebyudzhetnyj_motorola_edge_70_pro_s_zum_kameroj_poluchil_datu_anonsa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456794/srednebyudzhetnyj_motorola_edge_70_pro_s_zum_kameroj_poluchil_datu_anonsa/</guid>
-      <pubDate>Mon, 25 May 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Бренд Motorola объявил о готовящейся премьере смартфона Edge 70 Pro+. Помимо официальной даты анонса, в сети также появились инсайдерские сведения о технических характеристиках будущей новинки.
-[caption [...]]]></description>
-    </item>
-    <item>
       <title>Bambu Lab Has Been Violating AGPLv3 for Years, SFC Says</title>
       <link>https://feed.itsfoss.com/link/24361/17347676/bambu-lab-caught-violating-agplv3</link>
       <guid isPermaLink="false">6a1038624aa1730001e90a2d</guid>
       <pubDate>Mon, 25 May 2026 04:41:05 +0000</pubDate>
       <description><![CDATA[on the left is the software freedom conservancy, in the middle is a megaphone illustration, and on the right is the bambu lab logo]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>ASUS представила два мощных и очень дорогих игровых ноутбука на RTX 5090</title>
-      <link>https://4pda.to/2026/05/25/456793/asus_predstavila_dva_moschnykh_i_ochen_dorogikh_igrovykh_noutbuka_na_rtx_5090/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456793/asus_predstavila_dva_moschnykh_i_ochen_dorogikh_igrovykh_noutbuka_na_rtx_5090/</guid>
-      <pubDate>Mon, 25 May 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Каталог ноутбуков ASUS пополнили сразу две новинки, ориентированные на геймерскую аудиторию. Модели ROG Strix SCAR 10 Plus Extreme Edition и Zephyrus G16 Air примечательны дисплеями с подсветкой mini-LED [...]]]></description>
     </item>
     <item>
       <title>Firefox Just Saved Us All from Spammy Online PDF Tools</title>
