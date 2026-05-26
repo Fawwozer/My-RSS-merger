@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 25 May 2026 19:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 03:33:55 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,12 +17,26 @@
       <category>News</category>
     </item>
     <item>
-      <title>In a Weird Case, German Deutsche Bahn&amp;#x27;s Website Was Locking Out Linux Users</title>
-      <link>https://feed.itsfoss.com/link/24361/17346770/deutsche-bahn-blocking-linux-users</link>
-      <guid isPermaLink="false">6a0fffab4aa1730001e9059e</guid>
-      <pubDate>Sat, 23 May 2026 01:32:12 +0000</pubDate>
-      <description><![CDATA[in the background is a db ice train, in the foreground is the deutsche bahn logo on the left, and on the right is tux, the mascot penguin of linux with a no symbol above it]]></description>
-      <category>News</category>
+      <title>Iqunix анонсировала магнитную клавиатуру в стилистике «Призрака в доспехах»</title>
+      <link>https://4pda.to/2026/05/26/456811/iqunix_anonsirovala_magnitnuyu_klaviaturu_v_stilistike_prizraka_v_dospekhakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/26/456811/iqunix_anonsirovala_magnitnuyu_klaviaturu_v_stilistike_prizraka_v_dospekhakh/</guid>
+      <pubDate>Tue, 26 May 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Iqunix в сотрудничестве с издательством Kodansha презентовала две специальные версии игровой клавиатуры EV63, оформленные в честь выхода новой адаптации манги «Призрак в доспехах». Компании рассказали, [...]]]></description>
+    </item>
+    <item>
+      <title>Инсайды #3866: ноутбук на ARM NVIDIA N1X, Xiaomi Smart Band 11 и vivo S60</title>
+      <link>https://4pda.to/2026/05/25/456818/insajdy_3866_noutbuk_na_arm_nvidia_n1x_xiaomi_smart_band_11_i_vivo_s60/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456818/insajdy_3866_noutbuk_na_arm_nvidia_n1x_xiaomi_smart_band_11_i_vivo_s60/</guid>
+      <pubDate>Mon, 25 May 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов:&nbsp;ARM-процессор NVIDIA N1X заметили на сайте Lenovo;&nbsp;Xiaomi Smart Band 11 уже сертифицирован для продажи; vivo S60 получит старый процессор.
+ARM-процессор&nbsp;NVIDIA [...]]]></description>
+    </item>
+    <item>
+      <title>Опрос: пользуетесь ли вы пауэрбанком для зарядки смартфона?</title>
+      <link>https://4pda.to/2026/05/25/456808/opros_polzuetes_li_vy_pauerbankom_dlya_zaryadki_smartfona/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/25/456808/opros_polzuetes_li_vy_pauerbankom_dlya_zaryadki_smartfona/</guid>
+      <pubDate>Mon, 25 May 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Всё чаще в новые смартфоны устанавливают аккумуляторы ёмкостью 6000–7000 мАч и больше, рассчитанные на два-три дня активного использования, но, кажется, на индустрии пауэрбанков это никак не сказалось. [...]]]></description>
     </item>
     <item>
       <title>ILIFE отдаёт моющий пылесос W90 Pro за 12 тысяч рублей. Что там?</title>
@@ -388,31 +402,6 @@ Pro Blackwell. Они ориентированы на профессиональ
       <guid isPermaLink="false">https://4pda.to/2026/05/25/456815/avtory_tainted_grail_the_fall_of_avalon_otmetili_den_rozhdeniya_igry_s_pomoschyu_besplatnogo_dlc/</guid>
       <pubDate>Mon, 25 May 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[Весна 2025 года прошла под знаком Clair Obscur: Expedition 33. Однако шедевр Sandfall Interactive не был единственным интересным релизом&nbsp;сезона&nbsp;— в мае, например, состоялась полноценная премьера&nbsp;Tainted [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI анонсировала серию смартфонов nova 16</title>
-      <link>https://4pda.to/2026/05/25/456803/huawei_anonsirovala_seriyu_smartfonov_nova_16/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456803/huawei_anonsirovala_seriyu_smartfonov_nova_16/</guid>
-      <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[HUAWEI готовит
-к запуску серию смартфонов nova 16. Производитель уже объявил точную дату
-премьеры новинок, а модель nova 16 Pro засветилась на рекламном
-тизере в новой яркой расцветке.
-По официальным [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайдер показал возможный дизайн «юбилейного» iPhone XX [ВИДЕО]</title>
-      <link>https://4pda.to/2026/05/25/456802/insajder_pokazal_vozmozhnyj_dizajn_yubilejnogo_iphone_xx_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456802/insajder_pokazal_vozmozhnyj_dizajn_yubilejnogo_iphone_xx_video/</guid>
-      <pubDate>Mon, 25 May 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[В сети появились неофициальные сведения о новом iPhone, который выпустят в честь 20-летия серии. YouTube-канал Front Page Tech и другие источники опубликовали предположительную визуализацию будущей новинки, [...]]]></description>
-    </item>
-    <item>
-      <title>Epic Games показала Unreal Engine 6. Rocket League перенесут на новый движок</title>
-      <link>https://4pda.to/2026/05/25/456810/epic_games_pokazala_unreal_engine_6_rocket_league_perenesut_na_novyj_dvizhok/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/25/456810/epic_games_pokazala_unreal_engine_6_rocket_league_perenesut_na_novyj_dvizhok/</guid>
-      <pubDate>Mon, 25 May 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[У геймеров и разработчиков накопилась масса претензий к Unreal Engine 5 — недовольные пользователи называют движок сырым и откровенно неоптимизированным. Вместо того чтобы чинить его, Epic Games приняла [...]]]></description>
     </item>
     <item>
       <title>Bambu Lab Has Been Violating AGPLv3 for Years, SFC Says</title>
