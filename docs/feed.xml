@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 26 May 2026 20:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 03:50:56 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -31,6 +31,13 @@
       <pubDate>Mon, 25 May 2026 08:27:20 +0000</pubDate>
       <description><![CDATA[the white-colored amd vivado logo is on the left, in the middle is an illustration of a fish hook with a bait attached (a licensing document), and on the right is a hopeful penguin]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft добавила в Windows 11 официальный «выключатель» Copilot</title>
+      <link>https://4pda.to/2026/05/27/456857/microsoft_dobavila_v_windows_11_ofitsialnyj_vyklyuchatel_copilot/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/05/27/456857/microsoft_dobavila_v_windows_11_ofitsialnyj_vyklyuchatel_copilot/</guid>
+      <pubDate>Wed, 27 May 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Вслед за возможностью переназначить кнопку&nbsp;Copilot&nbsp;в Windows 11 появился способ полного отключения ИИ-помощника. Он не требует использования сторонних утилит и не активирует Copilot повторно [...]]]></description>
     </item>
     <item>
       <title>Инсайды #3867: REDMI K90 Ultra, iQOO 16 и vivo X500 Pro</title>
@@ -399,13 +406,6 @@ Pad
       <guid isPermaLink="false">https://4pda.to/2026/05/26/456856/novuyu_igru_v_zhanre_the_sims_kupili_250_tysyach_raz_za_8_chasov/</guid>
       <pubDate>Tue, 26 May 2026 08:30:00 +0000</pubDate>
       <description><![CDATA[Несколько лет назад разные компании вознамерились сделать собственную наследницу хитового цикла The Sims. Увы, The Sims 5, по сути,&nbsp;отменили, а inZOI быстро выветрилась у многих из головы, так что [...]]]></description>
-    </item>
-    <item>
-      <title>Роскомнадзор ужесточил контроль за IP-адресами интернет-пользователей</title>
-      <link>https://4pda.to/2026/05/26/456858/roskomnadzor_uzhestochil_kontrol_za_ip_adresami_internet_polzovatelej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/05/26/456858/roskomnadzor_uzhestochil_kontrol_za_ip_adresami_internet_polzovatelej/</guid>
-      <pubDate>Tue, 26 May 2026 08:20:00 +0000</pubDate>
-      <description><![CDATA[Роскомнадзор сообщил о привлечении к ответственности 85 операторов связи, которые не предоставили сведения об IP-адресах своих абонентов. По данным ведомства, в марте 2026 года уведомления с требованием [...]]]></description>
     </item>
     <item>
       <title>Bambu Lab Has Been Violating AGPLv3 for Years, SFC Says</title>
