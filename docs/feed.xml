@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 01 Jun 2026 17:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 21:33:04 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -32,6 +32,21 @@
 </code></pre><p>The uninstaller script handles the Winpodx ecosystem and its containers, but it will not touch your system package manager.</p><p>Any core packages installed during the initial setup like Podman or optional dependencies like <code>pyside6</code> will need to be uninstalled separately using your distribution's package manager.</p><h2 id="winpodx-for-the-windows">Winpodx for the win(dows)?</h2><p><a href="https://github.com/kernalix7/winpodx">Winpodx</a> offers an innovative solution for accessing Windows applications on Linux system, provided you have a high-spec machine with plenty of resources to spare.</p><p>During testing, I occasionally encountered minor input lag and screen artifacts.</p><p>However, despite these occasional graphical hiccups, the majority of the applications remained functional and usable.</p><p>It is worth noting the contrast in cross-platform integration. Because of Linux's incredibly small resource footprint, running Linux GUI applications inside Windows (via WSL) is a much lighter process.</p><p>Conversely, running a full Windows environment on top of Linux via containers is naturally a heavy, resource-intensive operation. As development continues, the project will hopefully achieve better optimization and smoother performance in future updates.</p><p>Did you find this tool interesting? Will you give it a shot on your system, or do you prefer sticking to a traditional Windows dual-boot? Let us know your thoughts in the comments below!</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17351952.gif" width="1" />]]></description>
       <category>App of the Week</category>
+    </item>
+    <item>
+      <title>Устройства для творчества XPPen временно доступны со скидкой</title>
+      <link>https://4pda.to/2026/06/01/457109/ustrojstva_dlya_tvorchestva_xppen_vremenno_dostupny_so_skidkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/01/457109/ustrojstva_dlya_tvorchestva_xppen_vremenno_dostupny_so_skidkoj/</guid>
+      <pubDate>Mon, 01 Jun 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Компания XPPen объявила о старте летней распродажи на AliExpress. Под акцию попали практически все устройства бренда — от графических планшетов и дисплеев до специализированных аксессуаров для художников, [...]]]></description>
+    </item>
+    <item>
+      <title>Инициативу Stop Killing Games приняли в Палате представителей Калифорнии. Дальше — только Сенат</title>
+      <link>https://4pda.to/2026/06/01/457121/initsiativu_stop_killing_games_prinyali_v_palate_predstavitelej_kalifornii_dalshe_tolko_senat/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/01/457121/initsiativu_stop_killing_games_prinyali_v_palate_predstavitelej_kalifornii_dalshe_tolko_senat/</guid>
+      <pubDate>Mon, 01 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Геймерская инициатива Stop Killing Games зашла слишком далеко — в буквальном смысле. Законопроект принят в палате представителей Калифорнии.
+Stop Killing Games рассматривается в США — и проходит через [...]]]></description>
     </item>
     <item>
       <title>5G в России могут запустить уже летом. Но это будет не тот 5G, которого ждали</title>
@@ -100,7 +115,7 @@ Samsung. Речь о  широком складном смартфоне Galaxy 
 На прошлой неделе Valve вернула в продажу Steam Deck OLED. Но, как обычно, с [...]]]></description>
     </item>
     <item>
-      <title>Почти 16 тысяч рублей за лещей. Браконьеры нарыбачили на уголовку</title>
+      <title>Вреда природе на 15,7 тысячи рублей. За что такое наказание?</title>
       <link>https://money.onliner.by/go/329641</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/06/01/pochti-16-tysyach-rublej-za-leshhej-brakonery-narybachili-na-ugolovku</guid>
       <pubDate>Mon, 01 Jun 2026 14:58:10 +0000</pubDate>
@@ -365,14 +380,6 @@ Samsung. Речь о  широком складном смартфоне Galaxy 
 конфигурацию в линейку настольных ПК Legion Blade 7000K. Обновлённая модель ПК сочетает мобильный процессор Intel Core i7 в связке с десктопной видеокартой GeForce RTX и нетипичным [...]]]></description>
     </item>
     <item>
-      <title>На трассе водитель мопеда погиб после столкновения с Volvo</title>
-      <link>https://auto.onliner.by/go/1248640</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/01/voditel-mopeda-pogib</guid>
-      <pubDate>Mon, 01 Jun 2026 10:17:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/01/voditel-mopeda-pogib"><img alt="" src="https://content.onliner.by/news/thumbnail/e5665f9f37b5ee40ae5cd5250aaf335f.jpg" /></a></p><p>Авария произошла сегодня около 10 часов на 180-м километре трассы Р20 (Витебск — Полоцк — граница Латвии). 69-летний водитель мопеда Vento столкнулся с автомобилем Volvo, который ехал по главной дороге.</p><p><a href="https://auto.onliner.by/2026/06/01/voditel-mopeda-pogib">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Новая технология AMD ускоряет память DDR5 в компьютерах с чипами Ryzen</title>
       <link>https://4pda.to/2026/06/01/457101/novaya_tekhnologiya_amd_uskoryaet_pamyat_ddr5_v_kompyuterakh_s_chipami_ryzen/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/01/457101/novaya_tekhnologiya_amd_uskoryaet_pamyat_ddr5_v_kompyuterakh_s_chipami_ryzen/</guid>
@@ -426,15 +433,6 @@ Microsoft объявила [...]]]></description>
       <pubDate>Mon, 01 Jun 2026 08:00:00 +0000</pubDate>
       <description><![CDATA[На выставке Computex
 2026 компания AMD&nbsp;приготовила приятный сюрприз для тех, кто до сих пор использует сборки на базе AM4.&nbsp;Производитель объявил о перевыпуске флагманского чипа для этой платформы, [...]]]></description>
-    </item>
-    <item>
-      <title>Acer представила планшеты Iconia Duo с OLED-экранами и чипами MediaTek</title>
-      <link>https://4pda.to/2026/06/01/457096/acer_predstavila_planshety_iconia_duo_s_oled_ekranami_i_chipami_mediatek/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/01/457096/acer_predstavila_planshety_iconia_duo_s_oled_ekranami_i_chipami_mediatek/</guid>
-      <pubDate>Mon, 01 Jun 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Acer обновила серию планшетов Iconia Duo,
-пополнив её сразу тремя новыми моделями: S14, S12 и&nbsp;D12. Одним из ключевых нововведений производитель называет переход
-на экраны с соотношением сторон [...]]]></description>
     </item>
   </channel>
 </rss>
