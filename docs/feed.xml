@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 02 Jun 2026 16:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 20:49:38 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -48,6 +48,52 @@
 </code></pre><p>The uninstaller script handles the Winpodx ecosystem and its containers, but it will not touch your system package manager.</p><p>Any core packages installed during the initial setup like Podman or optional dependencies like <code>pyside6</code> will need to be uninstalled separately using your distribution's package manager.</p><h2 id="winpodx-for-the-windows">Winpodx for the win(dows)?</h2><p><a href="https://github.com/kernalix7/winpodx">Winpodx</a> offers an innovative solution for accessing Windows applications on Linux system, provided you have a high-spec machine with plenty of resources to spare.</p><p>During testing, I occasionally encountered minor input lag and screen artifacts.</p><p>However, despite these occasional graphical hiccups, the majority of the applications remained functional and usable.</p><p>It is worth noting the contrast in cross-platform integration. Because of Linux's incredibly small resource footprint, running Linux GUI applications inside Windows (via WSL) is a much lighter process.</p><p>Conversely, running a full Windows environment on top of Linux via containers is naturally a heavy, resource-intensive operation. As development continues, the project will hopefully achieve better optimization and smoother performance in future updates.</p><p>Did you find this tool interesting? Will you give it a shot on your system, or do you prefer sticking to a traditional Windows dual-boot? Let us know your thoughts in the comments below!</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17351952.gif" width="1" />]]></description>
       <category>App of the Week</category>
+    </item>
+    <item>
+      <title>Топ-10 самых мощных Android-планшетов возглавила неигровая модель</title>
+      <link>https://4pda.to/2026/06/02/457154/top_10_samykh_moschnykh_android_planshetov_vozglavila_neigrovaya_model/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/02/457154/top_10_samykh_moschnykh_android_planshetov_vozglavila_neigrovaya_model/</guid>
+      <pubDate>Tue, 02 Jun 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Настал новый месяц, а значит, пришло время свежего отчёта от разработчиков мобильного бенчмарка AnTuTu. Вслед за рейтингом самых производительных Android-смартфонов&nbsp;появились данные&nbsp;и по планшетам [...]]]></description>
+    </item>
+    <item>
+      <title>Обзор HPRT MT610: портативный принтер, которому не нужны чернила</title>
+      <link>https://4pda.to/2026/06/02/456872/obzor_hprt_mt610_portativnyj_printer_kotoromu_ne_nuzhny_chernila/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/02/456872/obzor_hprt_mt610_portativnyj_printer_kotoromu_ne_nuzhny_chernila/</guid>
+      <pubDate>Tue, 02 Jun 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[HPRT MT610 — компактный термопринтер, которому не нужны ни чернила, ни тонер. Он печатает документы, памятки, схемы, QR-коды и маршрутные листы на специальной термобумаге, а каждый отпечаток обходится [...]]]></description>
+    </item>
+    <item>
+      <title>Геймеры начали теплее относиться к Xbox. Бренду помогла Аша Шарма</title>
+      <link>https://4pda.to/2026/06/02/457170/gejmery_nachali_teplee_otnositsya_k_xbox_brendu_pomogla_asha_sharma/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/02/457170/gejmery_nachali_teplee_otnositsya_k_xbox_brendu_pomogla_asha_sharma/</guid>
+      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[В этом году Microsoft взяла курс на спасение репутации Xbox. И PR-кампания уже принесла плоды.
+[caption width="480" caption="Аша Шарма"][/caption]
+Аналитическая компания YouGov провела исследование [...]]]></description>
+    </item>
+    <item>
+      <title>Apple создала обои в честь WWDС 2026. Где скачать?</title>
+      <link>https://4pda.to/2026/06/02/457156/apple_sozdala_oboi_v_chest_wwds_2026_gde_skachat/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/02/457156/apple_sozdala_oboi_v_chest_wwds_2026_gde_skachat/</guid>
+      <pubDate>Tue, 02 Jun 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Компания Apple опубликовала обои для iPhone и других устройств в честь мероприятия WWDC 2026, на котором должны показать iOS 27. По информации инсайдеров, на&nbsp;картинках можно рассмотреть намёк на новый [...]]]></description>
+    </item>
+    <item>
+      <title>Белорусский стейк и кобринское мороженое. Что смотреть (и пробовать) на выставке «Белагро-2026»?</title>
+      <link>https://money.onliner.by/go/329913</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/02/pokazali-na-vystavke-belagro-2026</guid>
+      <pubDate>Tue, 02 Jun 2026 16:31:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/02/pokazali-na-vystavke-belagro-2026"><img alt="" src="https://content.onliner.by/news/thumbnail/9f2c7b15858fe0bc31441498e5130b18.jpg" /></a></p><p><p>В Минском международном выставочном центре сегодня открылась 36-я международная специализированная выставка «Белагро-2026». На одной площадке собрались белорусские фермеры, работники пищевой, перерабатывающей и других отраслей промышленности, а также зарубежные гости — в выставке участвуют более 570 компаний из 12 стран.<br /></p>
+</p><p><a href="https://money.onliner.by/2026/06/02/pokazali-na-vystavke-belagro-2026">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Onimusha: Way of the Sword выйдет в сентябре — это рассказали несколько источников</title>
+      <link>https://4pda.to/2026/06/02/457171/onimusha_way_of_the_sword_vyjdet_v_sentyabre_eto_rasskazali_neskolko_istochnikov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/02/457171/onimusha_way_of_the_sword_vyjdet_v_sentyabre_eto_rasskazali_neskolko_istochnikov/</guid>
+      <pubDate>Tue, 02 Jun 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Хотя за последние шесть месяцев Capcom уже выпустила&nbsp;два заметных хита (Resident Evil Requiem и Pragmata), останавливаться на достигнутом она не собирается. До конца года компания также отправит на [...]]]></description>
     </item>
     <item>
       <title>«Живот крутило 2 дня». В Минске закрыта популярная шаурменная</title>
@@ -373,27 +419,11 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Приехала на работу, а вечером не нашла машину: мужчина угнал авто, потому что хотел покататься</title>
-      <link>https://auto.onliner.by/go/1248780</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/02/vecherom-ne-nashla-mashinu</guid>
-      <pubDate>Tue, 02 Jun 2026 09:36:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/02/vecherom-ne-nashla-mashinu"><img alt="" src="https://content.onliner.by/news/thumbnail/8fab67c754a10d9652e20b53e425a291.jpg" /></a></p><p>В начале мая жительница Бобруйска приехала на работу и оставила Opel на парковке возле административного здания. После окончания рабочего дня женщина обнаружила, что автомобиля на месте нет, и обратилась в милицию. Отмечается, что машина была не заперта, а ключ находился в бардачке.</p><p><a href="https://auto.onliner.by/2026/06/02/vecherom-ne-nashla-mashinu">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Обзор Infinix SMART 20: если нужен ещё один смартфон</title>
       <link>https://4pda.to/2026/06/02/456827/obzor_infinix_smart_20_esli_nuzhen_eschyo_odin_smartfon/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/02/456827/obzor_infinix_smart_20_esli_nuzhen_eschyo_odin_smartfon/</guid>
       <pubDate>Tue, 02 Jun 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[Рынок нуждается в таких устройствах, как Infinix SMART 20. Бюджетные смартфоны с ёмкими батареями, оснащённые всеми базовыми функциями, пригодятся в непростые времена, когда в приоритете стабильная связь [...]]]></description>
-    </item>
-    <item>
-      <title>На фото показали восковые фигуры знаменитостей, с которыми явно что-то не так</title>
-      <link>https://tech.onliner.by/go/776750</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/02/na-foto-pokazali-voskovye-figury-znamenitostej-s-kotorymi-yavno-chto-to-ne-tak</guid>
-      <pubDate>Tue, 02 Jun 2026 09:28:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/02/na-foto-pokazali-voskovye-figury-znamenitostej-s-kotorymi-yavno-chto-to-ne-tak"><img alt="" src="https://content.onliner.by/news/thumbnail/7bf2cb58ce23884422870e5f74064647.jpg" /></a></p><p>Создание восковых фигур, в том числе именитых личностей, — довольно популярный способ досуга, на котором строятся целые бизнес-империи. Как правило, такие фигуры стараются воссоздать внешность «оригинала» как можно ближе и точнее. Но иногда дело разворачивается совсем иным путем — что и доказывают фото, <a href="https://www.boredpanda.com/funny-bad-wax-sculptures/" target="_blank">собранные</a> в Bored Panda. Ниже — некоторые из наиболее спорных примеров.</p><p><a href="https://tech.onliner.by/2026/06/02/na-foto-pokazali-voskovye-figury-znamenitostej-s-kotorymi-yavno-chto-to-ne-tak">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>Слэшер «Русы против Ящеров 2» перенесут на PlayStation и Xbox. Игра получит бесплатное обновление [ВИДЕО]</title>
@@ -425,47 +455,6 @@
       <pubDate>Tue, 02 Jun 2026 09:05:00 +0000</pubDate>
       <description><![CDATA[Мода на экранизации видеоигр даже и не думает сходить на нет — наоборот, кинокомпании продолжают копать всё глубже и глубже в поисках мало-мальски известных и потенциально прибыльных IP. И у SEGA их полно.
 [caption [...]]]></description>
-    </item>
-    <item>
-      <title>ASUS выпустила огромную 800-ваттную версию RTX 5090 со встроенным экраном</title>
-      <link>https://4pda.to/2026/06/02/457145/asus_vypustila_ogromnuyu_800_vattnuyu_versiyu_rtx_5090_so_vstroennym_ekranom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457145/asus_vypustila_ogromnuyu_800_vattnuyu_versiyu_rtx_5090_so_vstroennym_ekranom/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[В честь 20-летия бренда
-Republic of Gamers компания ASUS
-представила лимитированную флагманскую видеокарту GeForce
-RTX 5090 Edition 20. Модификация отличается от референса не только огромной толщиной, [...]]]></description>
-    </item>
-    <item>
-      <title>«Яндекс Датчик присутствия» — долгожданный сенсор для умного дома с «Алисой»</title>
-      <link>https://4pda.to/2026/06/02/457149/yandeks_datchik_prisutstviya_dolgozhdannyj_sensor_dlya_umnogo_doma_s_alisoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457149/yandeks_datchik_prisutstviya_dolgozhdannyj_sensor_dlya_umnogo_doma_s_alisoj/</guid>
-      <pubDate>Tue, 02 Jun 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[«Яндекс» продолжает расширять экосистему умного дома и представил новое устройство — датчик присутствия. В отличие от привычных датчиков движения, новинка умеет определять не только факт перемещения человека [...]]]></description>
-    </item>
-    <item>
-      <title>Sony раскрыла цену монитора  PlayStation с зарядкой для DualSense</title>
-      <link>https://4pda.to/2026/06/02/457142/sony_raskryla_tsenu_monitora_playstation_s_zaryadkoj_dlya_dualsense/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457142/sony_raskryla_tsenu_monitora_playstation_s_zaryadkoj_dlya_dualsense/</guid>
-      <pubDate>Tue, 02 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Sony поделилась новыми подробностями о мониторе PlayStation, анонсированном ещё
-осенью 2025 года. Компания, наконец, объявила розничную цену устройства и сроки его поступления в продажу.
-С 5 июня [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI выпустила спецверсию роутера X1 Pro для геймеров</title>
-      <link>https://4pda.to/2026/06/02/457139/huawei_vypustila_spetsversiyu_routera_x1_pro_dlya_gejmerov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457139/huawei_vypustila_spetsversiyu_routera_x1_pro_dlya_gejmerov/</guid>
-      <pubDate>Tue, 02 Jun 2026 07:15:00 +0000</pubDate>
-      <description><![CDATA[Компания HUAWEI выпустила обновлённую версию роутера X1 Pro, представленного в прошлом году. Модификация Gaming Edition отличается от базовой как дизайном, так и набором функций.
-HUAWEI Router X1 Pro [...]]]></description>
-    </item>
-    <item>
-      <title>Обновился рейтинг самых быстрых Android-«середнячков» от AnTuTu</title>
-      <link>https://4pda.to/2026/06/02/457140/obnovilsya_rejting_samykh_bystrykh_android_serednyachkov_ot_antutu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457140/obnovilsya_rejting_samykh_bystrykh_android_serednyachkov_ot_antutu/</guid>
-      <pubDate>Tue, 02 Jun 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[Помимо флагманов, авторы AnTuTu сравнили производительность среднебюджетных Android-смартфонов по итогам прошлого месяца. В отличие от топовых моделей, здесь весь список заняли гаджеты с чипами MediaTek [...]]]></description>
     </item>
   </channel>
 </rss>
