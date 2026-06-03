@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 02 Jun 2026 20:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 04:07:46 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -48,6 +48,58 @@
 </code></pre><p>The uninstaller script handles the Winpodx ecosystem and its containers, but it will not touch your system package manager.</p><p>Any core packages installed during the initial setup like Podman or optional dependencies like <code>pyside6</code> will need to be uninstalled separately using your distribution's package manager.</p><h2 id="winpodx-for-the-windows">Winpodx for the win(dows)?</h2><p><a href="https://github.com/kernalix7/winpodx">Winpodx</a> offers an innovative solution for accessing Windows applications on Linux system, provided you have a high-spec machine with plenty of resources to spare.</p><p>During testing, I occasionally encountered minor input lag and screen artifacts.</p><p>However, despite these occasional graphical hiccups, the majority of the applications remained functional and usable.</p><p>It is worth noting the contrast in cross-platform integration. Because of Linux's incredibly small resource footprint, running Linux GUI applications inside Windows (via WSL) is a much lighter process.</p><p>Conversely, running a full Windows environment on top of Linux via containers is naturally a heavy, resource-intensive operation. As development continues, the project will hopefully achieve better optimization and smoother performance in future updates.</p><p>Did you find this tool interesting? Will you give it a shot on your system, or do you prefer sticking to a traditional Windows dual-boot? Let us know your thoughts in the comments below!</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17351952.gif" width="1" />]]></description>
       <category>App of the Week</category>
+    </item>
+    <item>
+      <title>Как выбрать IP-камеру для дачи или квартиры? Гайд и рейтинг заказов 2026 года</title>
+      <link>https://tech.onliner.by/go/538106</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/videonablyudenie</guid>
+      <pubDate>Wed, 03 Jun 2026 04:00:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/videonablyudenie"><img alt="" src="https://content.onliner.by/news/thumbnail/d701a2f3d7d61859dfa9e9052e2c4b3e.jpg" /></a></p><p>Организовать видеонаблюдение с каждым годом становится все проще и проще. Если раньше для этого нужно было обладать специфическими знаниями или обращаться за услугой, то сейчас вполне реально купить и сделать все самостоятельно. Тем не менее на этапе «купить» все еще могут возникнуть некоторые трудности. В этом материале рассмотрим ключевые параметры, на которые стоит обращать внимание при выборе камеры видеонаблюдения, а также топ моделей, которые чаще всего заказывают белорусы в Каталоге Onlíner в 2026 году.
+</p><p><a href="https://tech.onliner.by/2026/06/03/videonablyudenie">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Что посмотреть на Браславских озерах: 10 идей</title>
+      <link>https://realt.onliner.by/go/760674</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/03/gajd-po-otdyxu-v-braslave-2021</guid>
+      <pubDate>Wed, 03 Jun 2026 04:00:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/03/gajd-po-otdyxu-v-braslave-2021"><img alt="" src="https://content.onliner.by/news/thumbnail/97f9fa22dbb47da8db32e99318656703.jpg" /></a></p><p>На Браславских озерах легко провести все выходные у воды. Но если немного поездить по окрестностям, окажется, что рядом есть старые костелы, экотропы, смотровые площадки, водопад и даже ГЭС в духе сталинского ампира. Собрали 10 мест, куда можно заехать между купанием, шашлыками и прогулками по озерам.</p><p><a href="https://realt.onliner.by/2026/06/03/gajd-po-otdyxu-v-braslave-2021">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Топ-10 самых опасных дорог в мире. Не отправляйтесь туда на машине! (видео)</title>
+      <link>https://auto.onliner.by/go/473879</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/dorogi-63</guid>
+      <pubDate>Wed, 03 Jun 2026 04:00:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/dorogi-63"><img alt="" src="https://content.onliner.by/news/thumbnail/9f86675269ecf3daca463d5926bf3247.jpg" /></a></p><p>Многие минские автомобилисты считают площадь Бангалор чуть ли не самым опасным местом во Вселенной. Тот, кто часто передвигается на машине по Брянской и Смоленской областям, в ответ может заявить, что там есть участки, по которым очень страшно ездить. Но если посмотреть на самые опасные трассы в мире, то площадь Бангалор покажется простым кольцом, а участок асфальта между Смоленском и Калугой — автобаном. Onlíner подготовил свой топ-10 опасных дорог мира. </p><p><a href="https://auto.onliner.by/2026/06/03/dorogi-63">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Среднебюджетные OnePlus Turbo 6X и 6X Pro рассекречены до премьеры</title>
+      <link>https://4pda.to/2026/06/03/457153/srednebyudzhetnye_oneplus_turbo_6x_i_6x_pro_rassekrecheny_do_premery/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457153/srednebyudzhetnye_oneplus_turbo_6x_i_6x_pro_rassekrecheny_do_premery/</guid>
+      <pubDate>Wed, 03 Jun 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[В базах данных регулятора TENAA и платформы Google Play Console отметились смартфоны OnePlus Turbo 6X и 6X Pro. Источники опубликовали информацию о технических
+характеристиках устройств, а также показали [...]]]></description>
+    </item>
+    <item>
+      <title>Ветеран BioWare уверен: играм нужен продакт-плейсмент</title>
+      <link>https://4pda.to/2026/06/03/457166/veteran_bioware_uveren_igram_nuzhen_prodakt_plejsment/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457166/veteran_bioware_uveren_igram_nuzhen_prodakt_plejsment/</guid>
+      <pubDate>Wed, 03 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Разработка видеоигр неминуемо дорожает, и расходы на производство многие компании покрывают за счёт микротранзакций. Однако бывший сотрудник BioWare уверен: из финансовой ямы можно выбраться и другим способом.
+[youtube=Oyf7ErwlNUY:640:360:::0]
+Марк [...]]]></description>
+    </item>
+    <item>
+      <title>ASUS представила 3-киловаттный блок питания ROG Thor для флагманских ПК</title>
+      <link>https://4pda.to/2026/06/03/457161/asus_predstavila_3_kilovattnyj_blok_pitaniya_rog_thor_dlya_flagmanskikh_pk/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457161/asus_predstavila_3_kilovattnyj_blok_pitaniya_rog_thor_dlya_flagmanskikh_pk/</guid>
+      <pubDate>Wed, 03 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[ASUS показала
+на выставке Computex 2026  мощный блок питания ROG Thor 3000W Titanium III
+Edition 20. Новинка, анонс которой приурочен&nbsp;к 20-летней годовщине бренда
+Republic of Gamers, способна&nbsp;обеспечить [...]]]></description>
     </item>
     <item>
       <title>Топ-10 самых мощных Android-планшетов возглавила неигровая модель</title>
@@ -391,15 +443,6 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Дольщики не верили, но, кажется, это случилось. Строительство ЖК Smart близится к финалу</title>
-      <link>https://realt.onliner.by/go/1107439</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/02/dolshhiki-ne-verili</guid>
-      <pubDate>Tue, 02 Jun 2026 10:30:21 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/02/dolshhiki-ne-verili"><img alt="" src="https://content.onliner.by/news/thumbnail/4fd0dc806ac9e54dfbcc3822aa56ddef.jpg" /></a></p><p><p>История одного из самых известных минских долгостроев, кажется, наконец-то близится к хеппи-энду. Как рассказал нам застройщик «НикаПроект», возведение ЖК Smart вышло на завершающую стадию. На объекте уже полностью завершены монолитные работы в паркинге и прямо сейчас финишируют отделочные работы в квартирах.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/06/02/dolshhiki-ne-verili">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Анонсирован планшет ASUS Pad с OLED-экраном и чипом Dimensity</title>
       <link>https://4pda.to/2026/06/02/457150/anonsirovan_planshet_asus_pad_s_oled_ekranom_i_chipom_dimensity/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/02/457150/anonsirovan_planshet_asus_pad_s_oled_ekranom_i_chipom_dimensity/</guid>
@@ -410,51 +453,11 @@
 ориентированная на широкий набор сценариев, получила быстрый дисплей, ёмкий [...]]]></description>
     </item>
     <item>
-      <title>Двух иностранцев задержали за жестокое убийство 10-летней давности</title>
-      <link>https://people.onliner.by/go/1305474</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/02/dvux-inostrancev-zaderzhali-za-zhestokoe-ubijstvo-10-letnej-davnosti</guid>
-      <pubDate>Tue, 02 Jun 2026 10:16:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/02/dvux-inostrancev-zaderzhali-za-zhestokoe-ubijstvo-10-letnej-davnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/2dfb7078114e5cfd880a2fa1a814e412.jpg" /></a></p><p>В феврале 2015 года несколько иностранцев расправились со своим соотечественником в съемной квартире в Минске. Вместе с ним жил один из обвиняемых, но отношения не сложились — было слишком много конфликтов. Тогда мужчина решил убить соседа и скрыться, за помощью он обратился к знакомым. Подробностями дела <a href="https://prokuratura.gov.by/ru/media/novosti/nadzor-za-resheniyami-po-ugolovnym-i-grazhdanskim-delam/ot-otvetstvennosti-n020626/" target="_blank">поделились</a> в Прокуратуре.
-</p><p><a href="https://people.onliner.by/2026/06/02/dvux-inostrancev-zaderzhali-za-zhestokoe-ubijstvo-10-letnej-davnosti">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Обзор Infinix SMART 20: если нужен ещё один смартфон</title>
       <link>https://4pda.to/2026/06/02/456827/obzor_infinix_smart_20_esli_nuzhen_eschyo_odin_smartfon/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/02/456827/obzor_infinix_smart_20_esli_nuzhen_eschyo_odin_smartfon/</guid>
       <pubDate>Tue, 02 Jun 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[Рынок нуждается в таких устройствах, как Infinix SMART 20. Бюджетные смартфоны с ёмкими батареями, оснащённые всеми базовыми функциями, пригодятся в непростые времена, когда в приоритете стабильная связь [...]]]></description>
-    </item>
-    <item>
-      <title>Слэшер «Русы против Ящеров 2» перенесут на PlayStation и Xbox. Игра получит бесплатное обновление [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/02/457147/slesher_rusy_protiv_yascherov_2_perenesut_na_playstation_i_xbox_igra_poluchit_besplatnoe_obnovlenie_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457147/slesher_rusy_protiv_yascherov_2_perenesut_na_playstation_i_xbox_igra_poluchit_besplatnoe_obnovlenie_video/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:25:00 +0000</pubDate>
-      <description><![CDATA[Иногда шутки заходят слишком далеко. Взять, к примеру, слэшер «Русы против Ящеров» — некогда откровенно пародийный тайтл, который, тем не менее, каким-то образом сумел породить целую франшизу.
-[youtube=mrqYPQBAsOY:640:360:::0]
-Минувшим [...]]]></description>
-    </item>
-    <item>
-      <title>SmartSens представила 200-мегапиксельный сенсор для камерофонов</title>
-      <link>https://4pda.to/2026/06/02/457143/smartsens_predstavila_200_megapikselnyj_sensor_dlya_kamerofonov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457143/smartsens_predstavila_200_megapikselnyj_sensor_dlya_kamerofonov/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:20:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания SmartSens провела презентацию своего первого 200-мегапиксельного датчика изображения SCC62HS. Он ориентирован на установку в смартфоны и, по заявлению разработчиков, способен обеспечить [...]]]></description>
-    </item>
-    <item>
-      <title>Vivo X300 Ultra побил три рекорда DxOMark, но не возглавил рейтинг издания</title>
-      <link>https://4pda.to/2026/06/02/457141/vivo_x300_ultra_pobil_tri_rekorda_dxomark_no_ne_vozglavil_rejting_izdaniya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457141/vivo_x300_ultra_pobil_tri_rekorda_dxomark_no_ne_vozglavil_rejting_izdaniya/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:10:00 +0000</pubDate>
-      <description><![CDATA[Спустя полтора месяца после глобального релиза vivo X300 Ultra смартфон попал в руки обозревателей DxOMark. Они оценили камеры устройства: фотофлагман вошёл в топ-3 глобального рейтинга, но всё же недотянул [...]]]></description>
-    </item>
-    <item>
-      <title>Фильм по мотивам Streets of Rage обрёл режиссёра и сценаристов</title>
-      <link>https://4pda.to/2026/06/02/457151/film_po_motivam_streets_of_rage_obryol_rezhissyora_i_stsenaristov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457151/film_po_motivam_streets_of_rage_obryol_rezhissyora_i_stsenaristov/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:05:00 +0000</pubDate>
-      <description><![CDATA[Мода на экранизации видеоигр даже и не думает сходить на нет — наоборот, кинокомпании продолжают копать всё глубже и глубже в поисках мало-мальски известных и потенциально прибыльных IP. И у SEGA их полно.
-[caption [...]]]></description>
     </item>
   </channel>
 </rss>
