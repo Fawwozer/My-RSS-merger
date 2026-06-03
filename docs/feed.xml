@@ -5,9 +5,348 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 03 Jun 2026 10:59:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 16:49:09 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>Not Kidding! Microsoft Just Brought Linux Commands to Windows Officially</title>
+      <link>https://feed.itsfoss.com/link/24361/17353332/windows-coreutils</link>
+      <guid isPermaLink="false">6a20358b9fdab3000136f151</guid>
+      <pubDate>Wed, 03 Jun 2026 15:28:20 +0000</pubDate>
+      <description><![CDATA[Windows coreutils]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>AlmaLinux Day is Coming to Hollywood&amp;#x27;s Backyard This July</title>
+      <link>https://feed.itsfoss.com/link/24361/17352512/almalinux-day-los-angeles</link>
+      <guid isPermaLink="false">6a1d6c349fdab3000136e7e3</guid>
+      <pubDate>Tue, 02 Jun 2026 08:50:39 +0000</pubDate>
+      <description><![CDATA[placed on top is the almalinux logo, and below that is a picture of the well-known hollywood sign atop mount lee in los angeles]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>KDE Linux is Coming Along Nicely, Ditching the AUR and Tightening Up Security</title>
+      <link>https://feed.itsfoss.com/link/24361/17352225/kde-linux-may-2026-update</link>
+      <guid isPermaLink="false">6a1d5b929fdab3000136e746</guid>
+      <pubDate>Tue, 02 Jun 2026 04:38:36 +0000</pubDate>
+      <description><![CDATA[this mixed blue/green picture shows the yellow/white-themed kde linux logo in the middle]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Reverse WSL? I Tried This New Tool to Integrate Windows Apps in Linux</title>
+      <link>https://feed.itsfoss.com/link/24361/17351952/winpodx</link>
+      <guid isPermaLink="false">6a0b53b36ef9df0001ebe773</guid>
+      <pubDate>Mon, 01 Jun 2026 07:12:36 +0000</pubDate>
+      <description><![CDATA[<p>Microsoft's WSL allows people to use Linux inside Windows. It integrates well in the system allowing people to <a href="https://itsfoss.com/run-linux-commands-in-windows/" rel="noreferrer">use Linux command line Windows</a>. Linux GUI apps can also be used, which helps for editing config file in GUI-based editors.</p><p>Now reverse the situation. How about using Windows applications on Linux? Sure, WINE and Bottles are there but I came across a new tool that combines container technology with Remote Desktop Protocol (RDP) to give you native-app feel for Windows software on Linux.</p><p>I am going to share my experience with Winpodx for running Windows software on Linux in this article. But first, lets briefly understand its mechanism.</p><h2 id="how-winpodx-works">How Winpodx Works</h2><p>Under the hood, <a href="https://github.com/kernalix7/winpodx">Winpodx</a> relies on open-source tools like <a href="https://linuxhandbook.com/courses/podman/">Podman</a>, <a href="https://github.com/FreeRDP/FreeRDP">FreeRDP</a>, and the <a href="https://github.com/dockur/windows">dockur/windows</a> project to spin up a lightweight, isolated Windows environment. This way, it runs a specialized Windows instance inside a background container. Then, instead of rendering a full virtual machine interface, it uses FreeRDP to seamlessly stream individual Windows applications directly to the Linux desktop, making them behave like native apps.</p><p>This setup allows Windows applications to launch and blend into the underlying Linux desktop with minimal overhead.</p><p>If needed, we can also access the full Windows desktop environment, which I will cover in a later section of this article.</p><h2 id="installing-winpodx">Installing Winpodx</h2><div class="kg-card kg-callout-card kg-callout-card-red"><div class="kg-callout-emoji">&#128679;</div><div class="kg-callout-text">You'll need high-end system with at least 16 GB RAM. Fast and stable internet connection is a must for the installation as it downloads Windows ISO.</div></div><p>Before beginning the installation, there are a few important resource requirements to keep in mind. On its first launch, the installer will automatically download a full Windows ISO, which requires a fast and stable internet connection.</p><p><strong>Second, because this setup runs a complete Windows operating system in the background, it is resource-intensive</strong>. To avoid performance issues, the host system should meet the following requirements:</p><ul><li><strong>Storage</strong>: A minimum of 50+ GB of free disk space. The installer explicitly recommends at least 64 GB of free storage space for a safe and stable setup.</li><li><strong>RAM</strong>: At least 4 GB needed for the Windows container itself, alongside enough remaining host memory to keep the Linux system running smoothly. So, your system must have at least 16 GB of RAM for it to function smoothly.</li></ul><p>If your system meets these requirements, install Winpodx using its universal installer script. Ensure <code>curl</code> is installed, open the terminal, and run:</p><pre><code>curl -fsSL https://raw.githubusercontent.com/kernalix7/winpodx/main/install.sh | bash
+</code></pre><p>The script will automatically configure the necessary packages and background containers.</p><p>To use the graphical configuration tool (<code>winpodx gui</code>), I needed to manually install the Python bindings for Qt. On an Arch Linux system, install this additional package via pacman:</p><pre><code>sudo pacman -S pyside6
+</code></pre><h3 id="%F0%9F%92%A1tip-managing-the-container-after-a-reboot">&#128161;Tip: Managing the container after a reboot</h3><p>Although Winpodx is designed to auto-start the background environment when you click an app icon, you might see a warning that the "pod is not started" after a fresh reboot.</p><p>If that happens, or if you just want to ensure everything is ready before you begin working, you can manually fire up the container using this command:</p><pre><code>winpodx pod start --wait
+</code></pre><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Start the Windows Podman container when the system is restarted." class="kg-image" height="337" src="https://itsfoss.com/content/images/2026/05/winpodx-start-and-wait.png" width="906" /><figcaption><span style="white-space: pre-wrap;">Winpodx Start</span></figcaption></figure><p>Once the command finishes executing, the containerized Windows environment will be fully active and ready to launch apps or open the configuration GUI.</p><h2 id="exploring-the-features-of-winpodx">Exploring the features of Winpodx</h2><p>Let me share some of the major features of this application that I tried.</p><h3 id="using-microsoft-specific-pre-installed-windows-apps-in-linux">Using Microsoft-specific pre-installed Windows apps in Linux</h3><p>Microsoft Windows 11 comes with a number of default applications like notepad, paint, calculator etc.</p><p>This is the core feature of the tool. Applications installed inside the Windows container can be made available directly in the Linux system menus. Naturally, applications that aren't installed yet inside the container won't show up or be accessible to run.</p><p>To see what we have available, first, list the installed Windows applications using the command:</p><pre><code>winpodx app list
+</code></pre><p>This will output a list of the apps inside Windows that are ready to be integrated into Linux.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="List the apps in Windows that can be integrated to the Linux system menu." class="kg-image" height="651" src="https://itsfoss.com/content/images/2026/05/winpodx-app-list.png" width="1127" /><figcaption><span style="white-space: pre-wrap;">List Windows Apps</span></figcaption></figure><p>You can be selective:</p><pre><code>winpodx app install app-name
+</code></pre><p>Or, add them all to the host system, run:</p><pre><code>winpodx app install-all
+</code></pre><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">Latest versions supports auto-discovery of apps.</div></div><p>This command automatically generates and registers <code>.desktop</code> files for all the compatible Windows apps so they populate the application launcher of the Linux system.</p><p>Regardless of whether they show up in the desktop environment's menu, you can always bypass the GUI and launch any Windows application directly from the Linux terminal using:</p><pre><code>winpodx app run &lt;app_name&gt;
+</code></pre><p>Where <code>&lt;app_name&gt;</code> is the exact name of the application as it appears in the <code>winpodx app list</code> output.</p><h3 id="get-full-windows-desktop">Get full Windows desktop</h3><p>Winpodx gives you the option to run the full Windows guest desktop interface. While this isn't necessary for launching standalone apps, <strong>it becomes essential when you install new applications inside the guest Windows environment or tweak system configurations</strong>.</p><p>To launch the full Windows desktop, use the following command:</p><pre><code>winpodx app run desktop
+</code></pre><figure class="kg-card kg-embed-card kg-card-hascaption"><figcaption><p><span style="white-space: pre-wrap;">Windows Desktop</span></p></figcaption></figure><p>Alternatively, the same Windows desktop is accessible directly via a web browser. Connect to it by opening your favorite browser and navigating to port <code>8007</code>:</p><pre><code>http://127.0.0.1:8007
+</code></pre><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Running the Windows desktop session inside Firefox web browser." class="kg-image" height="847" src="https://itsfoss.com/content/images/2026/05/running-windows-in-a-vm.jpg" width="1398" /><figcaption><span style="white-space: pre-wrap;">Windows Desktop in Browser</span></figcaption></figure><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">Whenever you want a new application available through Winpodx, open this full desktop view, use the installer, and install it within the guest Windows instance.</div></div><p>I recommend downloading the installer file to the host system and then accessing the installer from the guest system.</p><h3 id="accessing-linux-files-in-windows">Accessing Linux files in Windows</h3><p>The guest Windows environment is integrated with the host system so that we can seamlessly access the Linux files from within the Windows container. This tight integration is precisely what sets this tool apart from a traditional, isolated Windows Virtual Machine.</p><p>The primary use case for this is opening and modifying Linux files directly with Windows applications. For example, you can use Windows Notepad or a specific Windows-only IDE to edit code or text stored on the Linux drive.</p><figure class="kg-card kg-embed-card kg-card-hascaption"><figcaption><p><span style="white-space: pre-wrap;">Opening Files</span></p></figcaption></figure><p>Secondly, this shared file system allows us to manage, organize, and work with the host files natively from within the guest Windows session, making cross-platform workflows incredibly smooth.</p><h3 id="managing-everything-from-gui">Managing everything from GUI</h3><p>Winpodx includes a clean, graphical configuration tool built with Qt. This utility provides a central hub to manage the containerized setup without relying solely on the command line. We can use it to quickly launch a full desktop session, adjust system-level preferences, and monitor the container's status.</p><p>To open this Qt settings window from the host machine, simply run the following command:</p><pre><code>winpodx gui
+</code></pre><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="The Winpodx GUI settings, which is a Qt application used to manage the Windows inside a Pod." class="kg-image" height="852" src="https://itsfoss.com/content/images/2026/05/winpodx-gui-qt-settings.png" width="1218" /><figcaption><span style="white-space: pre-wrap;">Winpodx GUI</span></figcaption></figure><h3 id="install-windows-apps">Install Windows Apps</h3><p>You can install Windows-only applications inside the containerized Windows session using standard <code>.exe</code> installers. </p><p>Run full desktop (or web interface) of Windows, download exe file and complete the program's installation wizard. You know the drill of installing an application on Windows, I hope.</p><p>After that. register the app with Winpodx so it can be launched from Linux. For that, open the Qt settings application:</p><pre><code>winpodx gui
+</code></pre><p>Inside the GUI, click on the <strong>Add App</strong> option and fill out the profile fields for the new program. If not sure of the exact executable path of the app, its always available in the properties of the application's shortcut file inside the Windows environment.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Create an App profile for the Notion app using the Winpodx GUI Settings." class="kg-image" height="833" src="https://itsfoss.com/content/images/2026/05/create-app-profile.png" width="1198" /><figcaption><span style="white-space: pre-wrap;">Create App Profile</span></figcaption></figure><p>After saving the app profile in the GUI, verify that Winpodx recognizes it by listing the available applications:</p><pre><code>winpodx app list
+</code></pre><p>Once it appears in the list, register and install the shortcut to the Linux desktop environment using the following command:</p><pre><code>winpodx app install &lt;appname&gt;
+</code></pre><p>For example, I installed the Notion desktop client, and integrated it into the system using:</p><pre><code>winpodx app install notion
+</code></pre><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Running Notion and Evernote in Linux" class="kg-image" height="871" src="https://itsfoss.com/content/images/2026/05/notion-and-evernote-3.webp" width="1870" /><figcaption><span style="white-space: pre-wrap;">Notion and Evernote</span></figcaption></figure><h3 id="opening-windows-files-in-linux-apps">Opening Windows files in Linux apps</h3><p>Winpodx features a Reverse Open capability.</p><p>This is incredibly useful if you plan to work inside the full Windows Desktop environment frequently but still prefer your host Linux workflows for specific tasks.</p><p>For example, if you double-click a <code>.txt</code> or <code>.md</code> file inside the Windows guest, you can right-click it, head to the "Open with..." menu, and select a native Linux application like your host's text editor.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Open Windows files using Linux Applications. Right-click on the file and select Open With option. Then select the required application." class="kg-image" height="898" src="https://itsfoss.com/content/images/2026/05/open-apps-in-linux-apps-right-click.png" width="1121" /><figcaption><span style="white-space: pre-wrap;">Open in Linux App</span></figcaption></figure><p>There is a dedicated "Linux Apps" folder, pinned to the sidebar of the Windows File Explorer, that contains a list of Linux apps available.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Listing Linux apps in Windows File Explorer." class="kg-image" height="898" src="https://itsfoss.com/content/images/2026/05/linux-apps-in-windows-1.png" width="1121" /><figcaption><span style="white-space: pre-wrap;">List of Linux Apps</span></figcaption></figure><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">Winpodx also supports bidirectional copy-paste. There is scope for USB device passthrough as well.</div></div><h3 id="uninstalling-winpodx">Uninstalling Winpodx</h3><p>If you decide that Winpodx isn't the right fit for your workflow, the project provides a dedicated uninstaller script to clean up its files, configurations, and containers. Depending on how thoroughly you want to wipe the data, there are two options:</p><p>To remove the Winpodx files but preserve the underlying Windows container data run:</p><pre><code>curl -fsSL https://raw.githubusercontent.com/kernalix7/winpodx/main/uninstall.sh | bash -s -- --confirm
+</code></pre><p>This is useful if you plan to reinstall later or want to keep the data intact</p><p>To completely wipe everything, including the massive Windows container, the virtual disk image, and all configuration directories, use the command:</p><pre><code>curl -fsSL https://raw.githubusercontent.com/kernalix7/winpodx/main/uninstall.sh | bash -s -- --purge
+</code></pre><p>The uninstaller script handles the Winpodx ecosystem and its containers, but it will not touch your system package manager.</p><p>Any core packages installed during the initial setup like Podman or optional dependencies like <code>pyside6</code> will need to be uninstalled separately using your distribution's package manager.</p><h2 id="winpodx-for-the-windows">Winpodx for the win(dows)?</h2><p><a href="https://github.com/kernalix7/winpodx">Winpodx</a> offers an innovative solution for accessing Windows applications on Linux system, provided you have a high-spec machine with plenty of resources to spare.</p><p>During testing, I occasionally encountered minor input lag and screen artifacts.</p><p>However, despite these occasional graphical hiccups, the majority of the applications remained functional and usable.</p><p>It is worth noting the contrast in cross-platform integration. Because of Linux's incredibly small resource footprint, running Linux GUI applications inside Windows (via WSL) is a much lighter process.</p><p>Conversely, running a full Windows environment on top of Linux via containers is naturally a heavy, resource-intensive operation. As development continues, the project will hopefully achieve better optimization and smoother performance in future updates.</p><p>Did you find this tool interesting? Will you give it a shot on your system, or do you prefer sticking to a traditional Windows dual-boot? Let us know your thoughts in the comments below!</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17351952.gif" width="1" />]]></description>
+      <category>App of the Week</category>
+    </item>
+    <item>
+      <title>Warner Bros. показала финальный трейлер «Супергерл» (видео)</title>
+      <link>https://tech.onliner.by/go/777123</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/warner-bros-pokazala</guid>
+      <pubDate>Wed, 03 Jun 2026 16:30:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/warner-bros-pokazala"><img alt="" src="https://content.onliner.by/news/thumbnail/25abe4288e62fa364f88b192acc9d788.jpg" /></a></p><p>Студия Warner Bros. Pictures выпустила финальный трейлер фильма «Супергерл» — одной из самых ожидаемых картин обновленной киновселенной DC.
+</p><p><a href="https://tech.onliner.by/2026/06/03/warner-bros-pokazala">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Обзор Roborock Saros 20: флагман для уборки в каждом уголке</title>
+      <link>https://4pda.to/2026/06/03/456508/obzor_roborock_saros_20_flagman_dlya_uborki_v_kazhdom_ugolke/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/456508/obzor_roborock_saros_20_flagman_dlya_uborki_v_kazhdom_ugolke/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:30:00 +0000</pubDate>
+      <description><![CDATA[У роботов-пылесосов есть один существенный недостаток — они не могут убрать квартиру полностью. Вы знаете: то не заедет на порог, то пропустит угол, то запутается в проводах, то не влезет под тумбочку. [...]]]></description>
+    </item>
+    <item>
+      <title>Noctua совместно с Thermal Grizzly, Pulsar Gaming и Seasonic показала новые гаджеты</title>
+      <link>https://4pda.to/2026/06/03/457236/noctua_sovmestno_s_thermal_grizzly_pulsar_gaming_i_seasonic_pokazala_novye_gadzhety/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457236/noctua_sovmestno_s_thermal_grizzly_pulsar_gaming_i_seasonic_pokazala_novye_gadzhety/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:20:00 +0000</pubDate>
+      <description><![CDATA[На стенде компании Noctua,
+организованном в рамках выставки Computex 2026, были представлены новые продукты,
+созданные в сотрудничестве с другими популярными производителями компьютерного
+оборудования. [...]]]></description>
+    </item>
+    <item>
+      <title>Смарт-часы Amazfit Balance 3: яркий AMOLED-дисплей и до 21 дня автономности</title>
+      <link>https://4pda.to/2026/06/03/457229/smart_chasy_amazfit_balance_3_yarkij_amoled_displej_i_do_21_dnya_avtonomnosti/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457229/smart_chasy_amazfit_balance_3_yarkij_amoled_displej_i_do_21_dnya_avtonomnosti/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:10:00 +0000</pubDate>
+      <description><![CDATA[Помимо флагманских Balance Ultra, бренд Amazfit выпустил на
+мировой рынок и базовую версию умных&nbsp;часов под названием Balance 3. Новинка получила корпус из нержавеющей
+стали, множество спортивных режимов, [...]]]></description>
+    </item>
+    <item>
+      <title>Девочка высунулась из люка BMW во время движения. ГАИ отреагировала</title>
+      <link>https://auto.onliner.by/go/1248959</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/devochka-vysunulas-iz-lyuka-bmw</guid>
+      <pubDate>Wed, 03 Jun 2026 15:02:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/devochka-vysunulas-iz-lyuka-bmw"><img alt="" src="https://content.onliner.by/news/thumbnail/19f30beefbdb479316b3917536ba73ab.jpg" /></a></p><p>31-летняя водитель BMW ехала по улице Московской и везла ребенка на переднем пассажирском сиденье без специального удерживающегося устройства. Девочка в момент движения высунулась из люка автомобиля.</p><p><a href="https://auto.onliner.by/2026/06/03/devochka-vysunulas-iz-lyuka-bmw">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Control Resonant получила системные требования — а геймеры из России получили бан</title>
+      <link>https://4pda.to/2026/06/03/457239/control_resonant_poluchila_sistemnye_trebovaniya_a_gejmery_iz_rossii_poluchili_ban/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457239/control_resonant_poluchila_sistemnye_trebovaniya_a_gejmery_iz_rossii_poluchili_ban/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[На минувшей State of Play показали геймплей Control Resonant — а после разработчики поделились системными требованиями. Также всплыл крайне неприятный факт для жителей России.
+[youtube=oFmz2jV7Zkw:640:360:::0]
+В [...]]]></description>
+    </item>
+    <item>
+      <title>На Солнце — три крупные вспышки за день. Ожидаются мощные магнитные бури (обновлено)</title>
+      <link>https://tech.onliner.by/go/776955</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/vspyshka-na-solnce</guid>
+      <pubDate>Wed, 03 Jun 2026 14:54:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/vspyshka-na-solnce"><img alt="" src="https://content.onliner.by/news/thumbnail/f3d4eb83a96566cbd3e2ebd31c308218.jpg" /></a></p><p><p dir="ltr">В течении половины суток сегодня на Солнце произошло сразу три крупных взрыва, один из которых высшего класса X. Выбросы плазмы от этих мощных вспышек устремились в сторону Земли и, как ожидается, сольются в одно большое облако, которое ударит по нашей планете, предположительно, в ночь с четверга на пятницу, вызвав сильные магнитные бури.
+</p><p><a href="https://tech.onliner.by/2026/06/03/vspyshka-na-solnce">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Видео: 70-летний водитель BMW выехал на красный и попал в ДТП (видео)</title>
+      <link>https://auto.onliner.by/go/1248946</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/voditel-bmw-vyexal-na-krasnyj</guid>
+      <pubDate>Wed, 03 Jun 2026 14:31:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/voditel-bmw-vyexal-na-krasnyj"><img alt="" src="https://content.onliner.by/news/thumbnail/be88905ccb1400a7c18e128a83edce89.jpg" /></a></p><p>ГАИ Минска сообщает о ДТП, которое случилось сегодня днем на перекрестке улиц Тимошенко и Одинцова. По предварительной информации, 70-летний водитель BMW выехал на перекресток на красный сигнал светофора и столкнулся с автомобилем Voyah.</p><p><a href="https://auto.onliner.by/2026/06/03/voditel-bmw-vyexal-na-krasnyj">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Передайте, что у нас так не паркуются». Водитель «Гелендвагена» может быть выдворена из страны (обновлено)</title>
+      <link>https://auto.onliner.by/go/1248678</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/peredajte-chto-u-nas-tak-ne-parkuyutsya-v-socsetyax-vozmushheny-parkovkoj-etogo-gelendvagena</guid>
+      <pubDate>Wed, 03 Jun 2026 14:24:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/peredajte-chto-u-nas-tak-ne-parkuyutsya-v-socsetyax-vozmushheny-parkovkoj-etogo-gelendvagena"><img alt="" src="https://content.onliner.by/news/thumbnail/87452fb5bf4729b32e02442d2611a24c.jpg" /></a></p><p><em>«Уважаемые казахи, кто гостит в Минске, передайте, пожалуйста, что у нас так не паркуются», </em>— так подписала свое фото пользовательница Threads. На снимке — «Гелендваген» с казахстанскими номерами, который припаркован прямо на тротуаре. На действия водителя обратили внимание и в МВД Беларуси. Как стало известно 3 июня, одним лишь штрафом по линии ГАИ дело не ограничилось: являющаяся иностранкой женщина-водитель была вызвана в подразделение по гражданству и миграции по месту жительства.
+</p><p><a href="https://auto.onliner.by/2026/06/03/peredajte-chto-u-nas-tak-ne-parkuyutsya-v-socsetyax-vozmushheny-parkovkoj-etogo-gelendvagena">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>100 из 100. Этот хоррор 20-летнего режиссера стал хитом проката</title>
+      <link>https://tech.onliner.by/go/777083</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/backrooms-zakulise-realnosti</guid>
+      <pubDate>Wed, 03 Jun 2026 14:14:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/backrooms-zakulise-realnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/23c08f63224fffa933bc810d19ce83dd.jpg" /></a></p><p><p dir="ltr">В мировом прокате гремит фильм-феномен «Закулисье реальности» (Backrooms). Хоррор родился из интернет-мема и сериала на YouTube, который создал 16-летний подросток. За прошедшие выходные картина заработала больше, чем «Мандалорец и Грогу», хотя на его производство ушло в десятки раз меньше бюджета, а его режиссеру-дебютанту всего 20 лет.</p><p><a href="https://tech.onliner.by/2026/06/03/backrooms-zakulise-realnosti">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В РФ достроили самолёт, который делали с советских времён. Что мы знаем про Ил-114-300?</title>
+      <link>https://4pda.to/2026/06/03/457240/v_rf_dostroili_samolyot_kotoryj_delali_s_sovetskikh_vremyon_chto_my_znaem_pro_il_114_300/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457240/v_rf_dostroili_samolyot_kotoryj_delali_s_sovetskikh_vremyon_chto_my_znaem_pro_il_114_300/</guid>
+      <pubDate>Wed, 03 Jun 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[ОАК сообщила о завершении полётов для сертификации турбовинтового регионального самолёта Ил-114-300. Широкой публике машину впервые представят на ПМЭФ (3–6 июня). Рассказываем, что это за проект и почему [...]]]></description>
+    </item>
+    <item>
+      <title>Один из белорусских банков закрывает прежнее приложение для физлиц</title>
+      <link>https://money.onliner.by/go/329893</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/odin-iz-belorusskix-bankov-zakryvaet-prilozhenie-dlya-fizlic</guid>
+      <pubDate>Wed, 03 Jun 2026 13:53:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/odin-iz-belorusskix-bankov-zakryvaet-prilozhenie-dlya-fizlic"><img alt="" src="https://content.onliner.by/news/thumbnail/dd3559da741810d4e2e5c7b534c19bba.jpg" /></a></p><p>Альфа Банк закроет одно из своих приложений для физлиц — произойдет это уже 30 июня. Речь идет о предыдущей версии мобильного банка InSync. Большинство пользователей за несколько лет уже перешли на новую версию — приложение INSNC, но в старом до сих пор остается порядка 13 тысяч активных пользователей. Узнали, что важно знать про переход клиентам Альфа Банка.</p><p><a href="https://money.onliner.by/2026/06/03/odin-iz-belorusskix-bankov-zakryvaet-prilozhenie-dlya-fizlic">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В России появились два пауэрбанка Ugreen с магнитной беспроводной зарядкой</title>
+      <link>https://4pda.to/2026/06/03/457226/v_rossii_poyavilis_dva_pauerbanka_ugreen_s_magnitnoj_besprovodnoj_zaryadkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457226/v_rossii_poyavilis_dva_pauerbanka_ugreen_s_magnitnoj_besprovodnoj_zaryadkoj/</guid>
+      <pubDate>Wed, 03 Jun 2026 13:50:00 +0000</pubDate>
+      <description><![CDATA[На российском рынке вышли&nbsp;два внешних аккумулятора&nbsp;Ugreen. Оба поддерживают магнитную беспроводную зарядку,&nbsp;отличаются тонким алюминиевым корпусом и имеют несколько расцветок.
+Внешний [...]]]></description>
+    </item>
+    <item>
+      <title>Сидишь на балконе и любуешься площадью Победы. Сколько стоит такая квартира?</title>
+      <link>https://realt.onliner.by/go/1107146</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/03/sidish-na-balkone</guid>
+      <pubDate>Wed, 03 Jun 2026 13:40:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/03/sidish-na-balkone"><img alt="" src="https://content.onliner.by/news/thumbnail/39a0af73d9fd05d245e31f9133fb9476.png" /></a></p><p>Появление очередного объявления о продаже сталинки на площади Победы — это всегда интересный инфоповод. Тем более если окна квартиры смотрят непосредственно на монумент. Недавно в этой локации быстро нашла новых владельцев трешка, нуждающаяся в свежем ремонте. Ее <a href="https://realt.onliner.by/2026/03/17/stalinka-v-centre-minska-2" target="_blank">купили</a> за рекордные $350 000 по курсу. Сейчас в такую же стоимость оценена еще одна <a href="https://r.onliner.by/pk/apartments/1267590" target="_blank">трешка</a>, но уже готовая к проживанию. Смотрим, как она выглядит.
+</p><p><a href="https://realt.onliner.by/2026/06/03/sidish-na-balkone">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Представлены Amazfit Balance Ultra с титановым корпусом и 30 днями автономности</title>
+      <link>https://4pda.to/2026/06/03/457247/predstavleny_amazfit_balance_ultra_s_titanovym_korpusom_i_30_dnyami_avtonomnosti/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457247/predstavleny_amazfit_balance_ultra_s_titanovym_korpusom_i_30_dnyami_avtonomnosti/</guid>
+      <pubDate>Wed, 03 Jun 2026 13:35:00 +0000</pubDate>
+      <description><![CDATA[В ассортименте Amazfit появились новые флагманские смарт-часы Balance Ultra. Они стали&nbsp;центральным элементом новой экосистемы гибридных тренировок бренда и призваны&nbsp;составить прямую конкуренцию [...]]]></description>
+    </item>
+    <item>
+      <title>На State of Play показали Tomb Raider: Legacy of Atlantis и объявили премьеру ремейка [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/03/457234/na_state_of_play_pokazali_tomb_raider_legacy_of_atlantis_i_obyavili_premeru_remejka_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457234/na_state_of_play_pokazali_tomb_raider_legacy_of_atlantis_i_obyavili_premeru_remejka_video/</guid>
+      <pubDate>Wed, 03 Jun 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Индустрия так любит Лару Крофт, что самая первая игра с её участием вот-вот удостоится второго по счёту ремейка. И без вольностей в нём, судя по всему, не обойдётся.
+[youtube=0wEjbSYNUM8:640:360:::0]
+На [...]]]></description>
+    </item>
+    <item>
+      <title>«Криптогуру» из Минска будут судить за мошенничество на 1,5 миллиона рублей</title>
+      <link>https://money.onliner.by/go/330073</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/kriptoekspert-iz-minska</guid>
+      <pubDate>Wed, 03 Jun 2026 13:22:57 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/kriptoekspert-iz-minska"><img alt="" src="https://content.onliner.by/news/thumbnail/6171a1881845ba87dd94e8bdf7231d5e.jpg" /></a></p><p>В Минске будут судить 30-летнего мужчину, который под предлогом инвестиций в криптовалюту выманил у знакомых более 1,5 миллиона рублей. Об этом сообщили в Генеральной прокуратуре.</p><p><a href="https://money.onliner.by/2026/06/03/kriptoekspert-iz-minska">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Подросток призвал приятелей писать оскорбления знакомой девочке. Закончилось судом</title>
+      <link>https://people.onliner.by/go/1305840</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/03/podrostok-prizval-priyatelej-pisat-oskorbleniya-znakomoj-devochke-zakonchilos-sudom</guid>
+      <pubDate>Wed, 03 Jun 2026 13:15:57 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/podrostok-prizval-priyatelej-pisat-oskorbleniya-znakomoj-devochke-zakonchilos-sudom"><img alt="" src="https://content.onliner.by/news/thumbnail/ed66ab5e471c726ae2d2bee38f099d9c.jpg" /></a></p><p>В суд Глусского района обратилась женщина. Поводом стали сообщения оскорбительного характера, которые касались ее дочери и семьи. Сообщается, что все это публиковалось в мессенджере.</p><p><a href="https://people.onliner.by/2026/06/03/podrostok-prizval-priyatelej-pisat-oskorbleniya-znakomoj-devochke-zakonchilos-sudom">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Найдена бактерия, которая не дает вернуться весу после похудения</title>
+      <link>https://tech.onliner.by/go/777075</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/kak-ne-nabrat-ves-snova-posle-poxudeniya</guid>
+      <pubDate>Wed, 03 Jun 2026 13:05:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/kak-ne-nabrat-ves-snova-posle-poxudeniya"><img alt="" src="https://content.onliner.by/news/thumbnail/1fa01e852950283fca39353011c3066f.jpg" /></a></p><p><p dir="ltr">Исследования показали, что большинство людей, которые намеренно худеют, в течение нескольких лет набирают вес обратно хотя бы частично. Часто это связывают с недостатком «силы воли», но на самом деле после похудения в организме происходит ряд биологических изменений, способствующих повторному набору веса. Среди них чувство голода, изменения метаболизма и сдвиги в гормональном фоне, регулирующем аппетит. Однако, кажется, ученые <a href="https://theconversation.com/could-a-gut-microbe-help-reduce-weight-regain-after-dieting-new-study-suggests-it-might-283431" target="_blank">нашли</a> способ, как избежать повторного набора веса после похудения.</p><p><a href="https://tech.onliner.by/2026/06/03/kak-ne-nabrat-ves-snova-posle-poxudeniya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В Беларуси появится дорога, которая научит ваш автомобиль петь. Как это возможно? (видео)</title>
+      <link>https://auto.onliner.by/go/1248930</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/nauchit-vash-avtomobili-pet</guid>
+      <pubDate>Wed, 03 Jun 2026 12:47:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/nauchit-vash-avtomobili-pet"><img alt="" src="https://content.onliner.by/news/thumbnail/4960294944c80db6923243a62ef2b170.jpg" /></a></p><p>На трассе Р83 Брест — Каменец — Национальный парк «Беловежская пуща» (непосредственно при въезде в пущу) начали наносить музыкальную дорожную разметку. При наезде на нее колеса автомобиля будут «напевать» мелодию ансамбля «Песняры» — «Беловежская пуща».</p><p><a href="https://auto.onliner.by/2026/06/03/nauchit-vash-avtomobili-pet">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Умные очки и крупный планшет Blackview временно доступны со скидкой</title>
+      <link>https://4pda.to/2026/06/03/457178/umnye_ochki_i_krupnyj_planshet_blackview_vremenno_dostupny_so_skidkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457178/umnye_ochki_i_krupnyj_planshet_blackview_vremenno_dostupny_so_skidkoj/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:30:00 +0000</pubDate>
+      <description><![CDATA[С наступлением лета Blackview объявила о распродаже, предлагая устройства для работы, творчества и повседневного использования по сниженным ценам. Например, в&nbsp;акции участвуют как новый планшет MEGA [...]]]></description>
+    </item>
+    <item>
+      <title>ОС и приложения больше не в приоритете для Microsoft</title>
+      <link>https://4pda.to/2026/06/03/457232/os_i_prilozheniya_bolshe_ne_v_prioritete_dlya_microsoft/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457232/os_i_prilozheniya_bolshe_ne_v_prioritete_dlya_microsoft/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:25:00 +0000</pubDate>
+      <description><![CDATA[На конференции Build 2026 компания Microsoft представила проект Solara — новую платформу для ИИ-агентов, создаваемую совместно с Qualcomm. Однако куда более интересным событием стала не сама технология, [...]]]></description>
+    </item>
+    <item>
+      <title>Водитель случайно заправил полный бак, теперь хочет вернуть свои деньги (обновлено)</title>
+      <link>https://auto.onliner.by/go/1244342</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/voditel-sluchajno-zapravil</guid>
+      <pubDate>Wed, 03 Jun 2026 12:18:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/voditel-sluchajno-zapravil"><img alt="" src="https://content.onliner.by/news/thumbnail/84105030690436561b650143371869ea.jpg" /></a></p><p>Практически на всех белорусских АЗС вы сначала платите за топливо и только затем заправляетесь. Однако в сети «Газпромнефть-Белнефтепродукт» действует постоплата. Наш читатель об этом не знал, и случайная заправка полного бака обернулась для него непредвиденными расходами. Просто так оставлять это мужчина не хочет и уже написал жалобу по данному случаю. Сейчас стало известно, что он получил на нее ответ.</p><p><a href="https://auto.onliner.by/2026/06/03/voditel-sluchajno-zapravil">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Российский сурвайвал-хоррор ILL получил сюжетный трейлер. Игроки в восторге [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/03/457237/rossijskij_survajval_khorror_ill_poluchil_syuzhetnyj_trejler_igroki_v_vostorge_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457237/rossijskij_survajval_khorror_ill_poluchil_syuzhetnyj_trejler_igroki_v_vostorge_video/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Российский сурвайвал-хоррор ILL стал одним из самых любопытных релизов ближайшего времени — и новый сюжетный трейлер напоминает, почему игрокам стоит ждать выхода этой игры.
+[youtube=TFHcVsPNbsY:640:360:::0]
+Новый [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung привезла на Computex 16 передовых экранов для игровых устройств</title>
+      <link>https://4pda.to/2026/06/03/457228/samsung_privezla_na_computex_16_peredovykh_ekranov_dlya_igrovykh_ustrojstv/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457228/samsung_privezla_na_computex_16_peredovykh_ekranov_dlya_igrovykh_ustrojstv/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:10:54 +0000</pubDate>
+      <description><![CDATA[На выставке&nbsp;Computex 2026&nbsp;компания&nbsp;Samsung Display показала последние наработки в области дисплеев для игровых устройств. Среди новинок — 16 панелей OLED&nbsp;и QD-OLED диагональю от 8,8 [...]]]></description>
+    </item>
+    <item>
+      <title>Трехэтажку на 12 квартир возвели всего за 34 дня. Есть нюанс</title>
+      <link>https://realt.onliner.by/go/1107757</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/03/trexetazhku-na-dvenadcat-kvartir</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/03/trexetazhku-na-dvenadcat-kvartir"><img alt="" src="https://content.onliner.by/news/thumbnail/8c0e5c7d9145939de842b08cc5de4320.jpg" /></a></p><p>Во французском Реймсе завершено строительство крупнейшего в Европе жилого дома, напечатанного 3D‑принтером. На возведение несущих конструкций трехэтажного здания на 12 квартир ушло всего 34 дня, <a href="https://newatlas.com/architecture/viliasprint2-europe-largest-3d-print-apartment/" target="_blank">пишет</a> New Atlas.</p><p><a href="https://realt.onliner.by/2026/06/03/trexetazhku-na-dvenadcat-kvartir">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Control Resonant обрела новый трейлер и дату релиза — игра выйдет 24 сентября [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/03/457231/control_resonant_obrela_novyj_trejler_i_datu_reliza_igra_vyjdet_24_sentyabrya_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457231/control_resonant_obrela_novyj_trejler_i_datu_reliza_igra_vyjdet_24_sentyabrya_video/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:55:00 +0000</pubDate>
+      <description><![CDATA[Сентябрь обещает быть очень жарким. И речь вовсе не о погоде: просто многие студии решили выпустить свои&nbsp;потенциальные хиты перед запуском Grand Theft Auto VI. Не стала рисковать и Remedy Entertainment.
+[youtube=TAzxTMaA6j4:640:360:::0]
+Во [...]]]></description>
+    </item>
+    <item>
+      <title>Белорус оплатил девушке виниры, а после расставания захотел вернуть деньги</title>
+      <link>https://money.onliner.by/go/330059</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/belorus-oplatil-devushke</guid>
+      <pubDate>Wed, 03 Jun 2026 11:50:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/belorus-oplatil-devushke"><img alt="" src="https://content.onliner.by/news/thumbnail/3a7c7de517e18c134236d8f6158e3557.jpg" /></a></p><p>Парень за свой счет оплатил девушке дорогостоящие стоматологические услуги, а после расставания задумался, можно ли вернуть потраченные деньги через суд. Разбор необычной ситуации <a href="https://mlyn.by/01062026/belorus-oplatil-devushke-viniry-i-posle-rasstavaniya-potreboval-dengi-zakonno-li-eto/" target="_blank">опубликовала</a> «Минская правда».</p><p><a href="https://money.onliner.by/2026/06/03/belorus-oplatil-devushke">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Microsoft анонсировала квантовый процессор Majorana 2</title>
+      <link>https://4pda.to/2026/06/03/457208/microsoft_anonsirovala_kvantovyj_protsessor_majorana_2/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457208/microsoft_anonsirovala_kvantovyj_protsessor_majorana_2/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:49:16 +0000</pubDate>
+      <description><![CDATA[Microsoft объявила о создании квантового чипа Majorana 2. Новая разработка позволила добиться одного из самых заметных улучшений в области квантовых вычислений за последние годы: стабильность кубитов выросла [...]]]></description>
+    </item>
+    <item>
+      <title>На МКАД водитель Tesla сбила женщину, переходившую дорогу в неположенном месте (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1248873</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/voditel-tesla-sbila-zhenshhinu</guid>
+      <pubDate>Wed, 03 Jun 2026 11:41:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/voditel-tesla-sbila-zhenshhinu"><img alt="" src="https://content.onliner.by/news/thumbnail/3613550a21df4f9af500d41e9eda6de2.jpg" /></a></p><p>Вечером на внешнем кольце МКАД в районе 56-го километра случилось ДТП с участием пешехода. По предварительной информации, 56-летний водитель автомобиля Tesla наехала на женщину, пересекавшую проезжую часть. </p><p><a href="https://auto.onliner.by/2026/06/03/voditel-tesla-sbila-zhenshhinu">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«АвтоВАЗ» представил обновлённую Lada Niva Legend с массой улучшений</title>
+      <link>https://4pda.to/2026/06/03/457223/avtovaz_predstavil_obnovlyonnuyu_lada_niva_legend_s_massoj_uluchshenij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457223/avtovaz_predstavil_obnovlyonnuyu_lada_niva_legend_s_massoj_uluchshenij/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:40:41 +0000</pubDate>
+      <description><![CDATA[В рамках Петербургского международного экономического форума «АвтоВАЗ» представил&nbsp;обновлённую&nbsp;Lada Niva Legend. Легендарный внедорожник сохранил узнаваемый внешний вид и классическую компоновку, [...]]]></description>
+    </item>
+    <item>
+      <title>Оцинкованный кузов и всеобщая модернизация. Как улучшили LADA Niva Legend</title>
+      <link>https://auto.onliner.by/go/1248901</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/ocinkovannyj-kuzov-2</guid>
+      <pubDate>Wed, 03 Jun 2026 11:35:43 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/ocinkovannyj-kuzov-2"><img alt="" src="https://content.onliner.by/news/thumbnail/a165399d6c12954ed1691a26a6694de7.jpg" /></a></p><p>В рамках Петербургского международного экономического форума «АвтоВАЗ» показал ряд новинок. Среди них — модернизированный внедорожник Niva Legend. Для модели заявлены доработанные узлы и агрегаты, улучшенные характеристики и новое оснащение. В общей сложности в автомобиле появилось более 100 новых и более 60 модернизированных деталей и узлов.</p><p><a href="https://auto.onliner.by/2026/06/03/ocinkovannyj-kuzov-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>ASUS показала «материнку» ROG Crosshair X870E Edition 20 с фирменной СЖО</title>
+      <link>https://4pda.to/2026/06/03/457243/asus_pokazala_materinku_rog_crosshair_x870e_edition_20_s_firmennoj_szho/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457243/asus_pokazala_materinku_rog_crosshair_x870e_edition_20_s_firmennoj_szho/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:30:00 +0000</pubDate>
+      <description><![CDATA[В честь 20-летия бренда ROG компания ASUS представила на выставке Computex 2026&nbsp;сразу несколько юбилейных устройств серии Edition 20. В их число попала флагманская материнская плата ROG Crosshair [...]]]></description>
+    </item>
+    <item>
+      <title>В айфонах, вероятно, появится функция, которая давно есть в Android</title>
+      <link>https://tech.onliner.by/go/777046</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/dolgozhdannaya-funkciya-dlya-ajfonov</guid>
+      <pubDate>Wed, 03 Jun 2026 11:20:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/dolgozhdannaya-funkciya-dlya-ajfonov"><img alt="" src="https://content.onliner.by/news/thumbnail/6d2ce216d1401c6a928cb4e6ef4a6960.jpg" /></a></p><p><p dir="ltr">Apple работает над функцией режима разделенного экрана для приложений в альбомной ориентации, которая должна появиться в предстоящей iOS 27, <a href="https://www.macrumors.com/2026/06/02/ios-27-split-screen-app-adaptation-feature/" target="_blank">сообщает</a> MacRumors со ссылкой на надежного инсайдера. Эта функция, по всей видимости, разрабатывается непосредственно для складного iPhone.</p><p><a href="https://tech.onliner.by/2026/06/03/dolgozhdannaya-funkciya-dlya-ajfonov">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Серьезное ДТП: водитель ВАЗа ехал по встречной на трассе. Есть пострадавшие  (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1248808</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/sereznoe-dtp-na-trasse-3</guid>
+      <pubDate>Wed, 03 Jun 2026 11:15:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/sereznoe-dtp-na-trasse-3"><img alt="" src="https://content.onliner.by/news/thumbnail/bdfcf6ffa972143a4273eda00bb551da.jpg" /></a></p><p>Наш читатель сообщил, что на трассе (со стороны Смолевичей в сторону Кургана Славы) случилось серьезное ДТП. Водитель ВАЗа ехал по встречной полосе в потоке машин. Со слов очевидца, участниками аварии стали три автомобиля. Одна из машин оказалась в кювете на боку. Есть пострадавшие.
+</p><p><a href="https://auto.onliner.by/2026/06/03/sereznoe-dtp-na-trasse-3">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Состоялся анонс Until Dawn 2 [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/03/457225/sostoyalsya_anons_until_dawn_2_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457225/sostoyalsya_anons_until_dawn_2_video/</guid>
+      <pubDate>Wed, 03 Jun 2026 10:50:00 +0000</pubDate>
+      <description><![CDATA[Вскоре после успеха интерактивного хоррор-фильма Until Dawn и двух его VR-ответвлений студия Supermassive Games ушла от Sony на вольные хлеба — теперь она занимается собственными проектами. Тем удивительнее, [...]]]></description>
+    </item>
     <item>
       <title>Перевозил детей пьяным: после этой поездки водитель остался без прав и со штрафом (видео)</title>
       <link>https://auto.onliner.by/go/1248906</link>
@@ -33,6 +372,13 @@
       <category>Кошелек</category>
     </item>
     <item>
+      <title>Honor X7e получил ёмкую АКБ, разъём для наушников и быстрый дисплей</title>
+      <link>https://4pda.to/2026/06/03/457212/honor_x7e_poluchil_yomkuyu_akb_razyom_dlya_naushnikov_i_bystryj_displej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457212/honor_x7e_poluchil_yomkuyu_akb_razyom_dlya_naushnikov_i_bystryj_displej/</guid>
+      <pubDate>Wed, 03 Jun 2026 10:40:00 +0000</pubDate>
+      <description><![CDATA[Компания Honor расширила фирменную серию смартфонов новой моделью X7e. Отличительными чертами гаджета стали ёмкий аккумулятор с быстрой зарядкой, редкий по меркам современных моделей аудиопорт и камера [...]]]></description>
+    </item>
+    <item>
       <title>«Белтелеком» предупредил о временной недоступности некоторых функций</title>
       <link>https://tech.onliner.by/go/776982</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/beltelekom-raboty</guid>
@@ -41,12 +387,29 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>В Борисове сразу нескольких детей госпитализировали с признаками инфекции</title>
+      <title>Apple объявила победителей премии Design Awards 2026</title>
+      <link>https://4pda.to/2026/06/03/457211/apple_obyavila_pobeditelej_premii_design_awards_2026/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457211/apple_obyavila_pobeditelej_premii_design_awards_2026/</guid>
+      <pubDate>Wed, 03 Jun 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Apple назвала 12 победителей
+ежегодной премии Design Awards 2026, ставших лучшими из 36 объявленных ранее финалистов.
+В этом году компания выбрала по одному приложению и игре в шести категориях.
+Вот [...]]]></description>
+    </item>
+    <item>
+      <title>В Борисове 29 детей госпитализированы с признаками инфекции. СК проводит проверку (обновлено)</title>
       <link>https://people.onliner.by/go/1305808</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii</guid>
       <pubDate>Wed, 03 Jun 2026 10:21:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii"><img alt="" src="https://content.onliner.by/news/thumbnail/f748889afef17d9bea5b9331f949cf6a.jpg" /></a></p><p>Вчера вечером в больницы Борисова обратились несколько родителей. Причиной стало нарушение пищеварения у детей, пишут местные СМИ. В итоге несовершеннолетних осмотрели и госпитализировали.</p><p><a href="https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii"><img alt="" src="https://content.onliner.by/news/thumbnail/f748889afef17d9bea5b9331f949cf6a.jpg" /></a></p><p>Вчера вечером в больницы Борисова обратились несколько родителей. Причиной стало нарушение пищеварения у детей, пишут местные СМИ. По последней информации, речь идет уже о 29 госпитализированных. </p><p><a href="https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii">Читать далее…</a></p>]]></description>
       <category>Люди</category>
+    </item>
+    <item>
+      <title>Silent Hill: Townfall обрела дату релиза [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/03/457221/silent_hill_townfall_obrela_datu_reliza_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/03/457221/silent_hill_townfall_obrela_datu_reliza_video/</guid>
+      <pubDate>Wed, 03 Jun 2026 10:15:00 +0000</pubDate>
+      <description><![CDATA[Хоррор-серия Silent Hill&nbsp;переживает расцвет — Konami передала бренд в руки сразу нескольких команд, и те ежегодно радуют фанатов новыми историями про окутанные туманом города. Этой осенью, например, [...]]]></description>
     </item>
     <item>
       <title>HP представила EliteBook 8 G2i 13: компактный и мощный лэптоп бизнес-класса</title>
@@ -66,22 +429,6 @@ HP [...]]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>Госстандарт запретил продавать белорусский шпик. В нем нашли кишечную палочку и бактерии</title>
-      <link>https://money.onliner.by/go/330028</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/gosstandart-zapretil-3</guid>
-      <pubDate>Wed, 03 Jun 2026 09:34:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/gosstandart-zapretil-3"><img alt="" src="https://content.onliner.by/news/thumbnail/cd6882de9269210f50e7531d5f5e5170.jpg" /></a></p><p>В Беларуси под запрет попали сразу два вида продукции из шпика производства Чаусского райпо Могилевской области. Причиной стали нарушения микробиологических показателей, выявленные во время проверки.</p><p><a href="https://money.onliner.by/2026/06/03/gosstandart-zapretil-3">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Минчанка узнала настоящее имя бывшего спустя несколько лет. При этом у пары есть общий ребенок</title>
-      <link>https://people.onliner.by/go/1305743</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/03/minchanka-uznala-nastoyashhee-imya-byvshego-spustya-neskolko-let-pri-etom-u-pary-est-obshhij-rebenok</guid>
-      <pubDate>Wed, 03 Jun 2026 09:33:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/minchanka-uznala-nastoyashhee-imya-byvshego-spustya-neskolko-let-pri-etom-u-pary-est-obshhij-rebenok"><img alt="" src="https://content.onliner.by/news/thumbnail/f0ef68b1986583c9f26a1026b3bf8101.jpg" /></a></p><p>Минчанка обратилась в милицию из-за угроз. Пострадавшими она назвала себя, ребенка и экс-возлюбленного. В процессе выяснилось, что женщина не знала настоящего имени мужчины, хотя у пары есть общий ребенок.</p><p><a href="https://people.onliner.by/2026/06/03/minchanka-uznala-nastoyashhee-imya-byvshego-spustya-neskolko-let-pri-etom-u-pary-est-obshhij-rebenok">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Insomniac Games показала новый геймплей Marvel’s Wolverine [ВИДЕО]</title>
       <link>https://4pda.to/2026/06/03/457218/insomniac_games_pokazala_novyj_gejmplej_marvel_s_wolverine_video/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/03/457218/insomniac_games_pokazala_novyj_gejmplej_marvel_s_wolverine_video/</guid>
@@ -89,30 +436,6 @@ HP [...]]]></description>
       <description><![CDATA[Как известно, начинать презентации надо с размахом. Или, если угодно, с огоньком. Поэтому свежий выпуск Stare of Play стартовал с расширенного геймплейного превью Marvel’s Wolverine.
 [youtube=OiBo_NgYI5Q:640:360:::0]
 В [...]]]></description>
-    </item>
-    <item>
-      <title>Владельцы андроид-смартфонов будут лучше защищены от мошенников</title>
-      <link>https://tech.onliner.by/go/776972</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/vladelcy-android-smartfonov-budut-luchshe-zashhishheny-ot-moshennikov</guid>
-      <pubDate>Wed, 03 Jun 2026 09:13:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/vladelcy-android-smartfonov-budut-luchshe-zashhishheny-ot-moshennikov"><img alt="" src="https://content.onliner.by/news/thumbnail/b6ec0b5083632bad4fee7ce1316fb899.jpg" /></a></p><p><p dir="ltr">Google <a href="https://blog.google/security/android-fake-call-detection/" target="_blank">сообщила</a> о внедрении новой функции, призванной защитить владельцев смартфонов на Android от мошенников и дипфейков. Система во время звонка будет отправлять специальный сигнал, чтобы определить подозрительность звонящего, и в случае угрозы выдаст предупреждение.</p><p><a href="https://tech.onliner.by/2026/06/03/vladelcy-android-smartfonov-budut-luchshe-zashhishheny-ot-moshennikov">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Ажиотаж большой». Теперь белорусов зовут на поля пионов</title>
-      <link>https://people.onliner.by/go/1305747</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/03/tex-kto-ne-uspel-na-tyulpany-zovut-na-polya-pionov</guid>
-      <pubDate>Wed, 03 Jun 2026 09:03:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/tex-kto-ne-uspel-na-tyulpany-zovut-na-polya-pionov"><img alt="" src="https://content.onliner.by/news/thumbnail/39083e7fc53651af216b300887c6c5f7.jpg" /></a></p><p>Всего одни выходные — 6–7 июня — можно будет побывать на экскурсии на пионовых полях. Организуют ее в хозяйстве, которое прославилось гектарами цветущих <a href="https://people.onliner.by/2026/05/11/tyulpanovye-polya" target="_blank">тюльпанов</a>, — «Находке Полесья» вблизи агрогородка Тышковичи. Формат пробный — туристы смогут побывать здесь впервые.</p><p><a href="https://people.onliner.by/2026/06/03/tex-kto-ne-uspel-na-tyulpany-zovut-na-polya-pionov">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Когда-то здесь продавали Gucci и Balenciaga, а сейчас? Узнали судьбу люксового бутика на Немиге</title>
-      <link>https://realt.onliner.by/go/1107501</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/03/kogda-zdes-prodavali-gucci</guid>
-      <pubDate>Wed, 03 Jun 2026 09:01:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/03/kogda-zdes-prodavali-gucci"><img alt="" src="https://content.onliner.by/news/thumbnail/a94a9c1d3e18d539b75c2326a571bdf3.jpg" /></a></p><p>Мимо этого магазина вы могли проходить много раз, но так и не зайти. Слишком уж пугающими были громкие надписи на затемненных стеклах — Gucci, Balenciaga, Valentino, Moncler… На Немиге, 12А, долгое время работал бутик «TOП Tandem». Когда-то там царила атмосфера люкса, но сейчас от былого величия остались лишь манекены и стеллажи. Почему так произошло? Спросили у одного из совладельцев, а заодно погрузились в историю развития люксового ретейла в Минске. </p><p><a href="https://realt.onliner.by/2026/06/03/kogda-zdes-prodavali-gucci">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>Опубликован свежий «народный» рейтинг смартфонов по версии AnTuTu</title>
@@ -123,23 +446,6 @@ HP [...]]]></description>
 Рейтинг [...]]]></description>
     </item>
     <item>
-      <title>На Ташкентской — ДТП с участием грузовика и троллейбуса (обновлено)</title>
-      <link>https://auto.onliner.by/go/1248891</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/na-tashkentskoj-dtp</guid>
-      <pubDate>Wed, 03 Jun 2026 08:17:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/na-tashkentskoj-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/61f8c53e4473e59477244899687f6ff4.jpg" /></a></p><p>Очевидец сообщил о столкновении грузового автомобиля и троллейбуса, которое произошло на столичной улице Ташкентской, рядом с остановкой «Зоопарк».</p><p><a href="https://auto.onliner.by/2026/06/03/na-tashkentskoj-dtp">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Доллар уже дороже 2,8 рубля (обновлено)</title>
-      <link>https://money.onliner.by/go/330004</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/dollar-uzhe-dorozhe-28-rublya</guid>
-      <pubDate>Wed, 03 Jun 2026 08:15:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/dollar-uzhe-dorozhe-28-rublya"><img alt="" src="https://content.onliner.by/news/thumbnail/e2e2a0cd4c629a3b7f09cbbeca26ecf0.jpg" /></a></p><p>Похоже, сезон отпусков начинает работать не только на туроператоров, но и на американскую валюту. После нескольких месяцев снижения доллар постепенно возвращает позиции и сегодня вновь преодолел психологическую отметку в 2,8 рубля. Тем временем биткоин за последние сутки подешевел, сейчас находится вблизи отметки в $67 031.
-</p><p><a href="https://money.onliner.by/2026/06/03/dollar-uzhe-dorozhe-28-rublya">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Sony анонсировала God of War Laufey. Игра расскажет о супруге Кратоса [ВИДЕО]</title>
       <link>https://4pda.to/2026/06/03/457215/sony_anonsirovala_god_of_war_laufey_igra_rasskazhet_o_supruge_kratosa_video/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/03/457215/sony_anonsirovala_god_of_war_laufey_igra_rasskazhet_o_supruge_kratosa_video/</guid>
@@ -147,43 +453,11 @@ HP [...]]]></description>
       <description><![CDATA[По сети много лет витали слухи о новой части сериала God of War — некоторые инсайдеры даже утверждали, что новый проект Santa Monica Studio будет посвящён Фэй, второй жене Кратоса. В ночь со 2 на 3 июня [...]]]></description>
     </item>
     <item>
-      <title>На Солнце произошла сильнейшая вспышка и вскоре ожидается еще одна</title>
-      <link>https://tech.onliner.by/go/776955</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/vspyshka-na-solnce</guid>
-      <pubDate>Wed, 03 Jun 2026 08:05:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/vspyshka-na-solnce"><img alt="" src="https://content.onliner.by/news/thumbnail/f3d4eb83a96566cbd3e2ebd31c308218.jpg" /></a></p><p><p dir="ltr">Ранним утром по минскому времени на Солнце произошла сильнейшая вспышка за последние полтора месяца. Уровень взрыва — M9.3, ей не хватило всего 7% до достижения высшего класса X. Более того, специалисты из Лаборатории солнечной астрономии <a href="https://t.me/lpixras/2571" target="_blank">ожидают</a> в течение дня новую вспышку — еще более мощную.</p><p><a href="https://tech.onliner.by/2026/06/03/vspyshka-na-solnce">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Вода у берегов Цнянского водохранилища приобрела странный цвет. В чем причина?</title>
-      <link>https://realt.onliner.by/go/1107677</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/03/cnyanka-maldivy</guid>
-      <pubDate>Wed, 03 Jun 2026 08:00:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/03/cnyanka-maldivy"><img alt="" src="https://content.onliner.by/news/thumbnail/18d12ee70a2701054c0f1b1ef5cd85c8.jpg" /></a></p><p>На днях люди, гуляющие возле Цнянского водохранилища, обратили внимание, что вода у его берегов приобрела непривычный оттенок и покрылась непонятными разводами. Бесспорно красиво, но не опасно ли? Ответ дали в Мингоркомприроды. </p><p><a href="https://realt.onliner.by/2026/06/03/cnyanka-maldivy">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Microsoft Defender признали худшим антивирусом для Windows</title>
       <link>https://4pda.to/2026/06/03/457205/microsoft_defender_priznali_khudshim_antivirusom_dlya_windows/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/03/457205/microsoft_defender_priznali_khudshim_antivirusom_dlya_windows/</guid>
       <pubDate>Wed, 03 Jun 2026 08:00:00 +0000</pubDate>
       <description><![CDATA[Гонконгский совет по защите прав потребителей и Международная организация по исследованию и тестированию потребительских товаров (ICRT) протестировали популярные антивирусные приложения, составив рейтинг [...]]]></description>
-    </item>
-    <item>
-      <title>Белорусы хранят на депозитах почти 24 миллиарда рублей. Больше всего накоплений — у пенсионеров</title>
-      <link>https://money.onliner.by/go/329993</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/belorusy-xranyat-na-depozitax-pochti-24-milliarda-rublej-bolshe-vsego-nakoplenij-u-pensionerov</guid>
-      <pubDate>Wed, 03 Jun 2026 07:50:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/belorusy-xranyat-na-depozitax-pochti-24-milliarda-rublej-bolshe-vsego-nakoplenij-u-pensionerov"><img alt="" src="https://content.onliner.by/news/thumbnail/65b9e91ce63a4f4ca745c37a829cd679.jpg" /></a></p><p>На начало второго квартала жители Беларуси держали на банковских депозитах 23,9 миллиарда рублей. За три месяца объем вкладов вырос на 6%, сообщили в Нацбанке.</p><p><a href="https://money.onliner.by/2026/06/03/belorusy-xranyat-na-depozitax-pochti-24-milliarda-rublej-bolshe-vsego-nakoplenij-u-pensionerov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Строительство путепровода на Колесникова — Ратомской: что там происходит? (обновлено)</title>
-      <link>https://auto.onliner.by/go/1237367</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/stroitelstvo-puteprovoda</guid>
-      <pubDate>Wed, 03 Jun 2026 07:41:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/stroitelstvo-puteprovoda"><img alt="" src="https://content.onliner.by/news/thumbnail/2ac93b8d8de6fe68a5934ca1147e5efe.jpg" /></a></p><p>Вы наверняка слышали о <a href="https://auto.onliner.by/2025/07/22/v-minske-poyavitsya-puteprovod" target="_blank">строительстве</a> путепровода между улицами Колесникова и Ратомской в Минске. 381-метровый объект свяжет Фрунзенский и Центральный районы, он призван облегчить транспортное сообщение в этой части города. Что происходит на месте будущего строительства сейчас?</p><p><a href="https://auto.onliner.by/2026/06/03/stroitelstvo-puteprovoda">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>ASUS представила внешнюю видеокарту на основе Radeon RX 9060 XT</title>
@@ -194,227 +468,6 @@ HP [...]]]></description>
 компания ASUS
 показала графическую док-станцию XG Core. Новинка построена на базе видеокарты
 десктопного уровня, оснащена интерфейсом USB4 и ориентирована на ноутбуки, мини-ПК [...]]]></description>
-    </item>
-    <item>
-      <title>God of War, Marvel's Wolverine и Until Dawn 2 — вот что показали на State of Play</title>
-      <link>https://tech.onliner.by/go/776945</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/state-of-play-2026</guid>
-      <pubDate>Wed, 03 Jun 2026 07:17:21 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/state-of-play-2026"><img alt="" src="https://content.onliner.by/news/thumbnail/e470b37b065c9b2d42cacb3059aedea4.jpg" /></a></p><p>Состоялась летняя игровая презентация State of Play, на которой <a href="https://www.playstation.com/en-us/state-of-play/" target="_blank">анонсировали</a> грядущие релизы для PlayStation 5 и других платформ. На мероприятии показали множество трейлеров предстоящих новинок, среди которых Marvel's Wolverine, Tomb Raider: Legacy of Atlantis, Until Dawn 2 и новая God of War.</p><p><a href="https://tech.onliner.by/2026/06/03/state-of-play-2026">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Минчанка нашла мужа без сознания в подъезде. Мужчина умер, а причину установила экспертиза</title>
-      <link>https://people.onliner.by/go/1305693</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/03/minchanka-nashla-muzha-bez-soznaniya-v-podezde-muzhchina-umer-a-prichinu-ustanovila-ekspertiza</guid>
-      <pubDate>Wed, 03 Jun 2026 07:14:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/minchanka-nashla-muzha-bez-soznaniya-v-podezde-muzhchina-umer-a-prichinu-ustanovila-ekspertiza"><img alt="" src="https://content.onliner.by/news/thumbnail/ba46e3ea0b464c5f922d97e3611e60da.jpg" /></a></p><p>Мужчину без сознания обнаружили на лестничной клетке в одной из многоэтажек. Несмотря на усилия медиков, спасти мужчину не удалось. Позже внимание экспертов привлек след на теле погибшего — явно от инъекции.</p><p><a href="https://people.onliner.by/2026/06/03/minchanka-nashla-muzha-bez-soznaniya-v-podezde-muzhchina-umer-a-prichinu-ustanovila-ekspertiza">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>А кому такие условия вообще подходят? В доме на Волгоградской предложили квартиры</title>
-      <link>https://realt.onliner.by/go/1107664</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/03/v-dome-na-volgogradskoj-predlozhili-kvartiry</guid>
-      <pubDate>Wed, 03 Jun 2026 07:09:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/03/v-dome-na-volgogradskoj-predlozhili-kvartiry"><img alt="" src="https://content.onliner.by/news/thumbnail/f85f83bb0497a28d38c32032066274d9.jpg" /></a></p><p>Каркасно-монолитный дом, который в этом году начал возводить УКС Советского района на улице Волгоградской, активно растет. Как и паркинг, расположенный рядом с ним. А это значит, что застройщику нужны деньги на «продолжение банкета». Сегодня в газете «Звязда» была опубликована очередная проектная декларация, в которой не только очередникам, но и всем желающим предложили свободные квадратные метры.</p><p><a href="https://realt.onliner.by/2026/06/03/v-dome-na-volgogradskoj-predlozhili-kvartiry">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Cooler Master выпустила блоки питания с «предохранителем» для видеокарты</title>
-      <link>https://4pda.to/2026/06/03/457203/cooler_master_vypustila_bloki_pitaniya_s_predokhranitelem_dlya_videokarty/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457203/cooler_master_vypustila_bloki_pitaniya_s_predokhranitelem_dlya_videokarty/</guid>
-      <pubDate>Wed, 03 Jun 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[У Cooler Master появилась новая линейка блоков питания MWE Gold V4 с защитой для видеокарт. Новинки с «золотой» сертификацией мониторят питание каждого контакта и, по заверению бренда, защищают подключённые [...]]]></description>
-    </item>
-    <item>
-      <title>На МКАД водитель Tesla сбила женщину, переходившую дорогу в неположенном месте (видео)</title>
-      <link>https://auto.onliner.by/go/1248873</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/03/voditel-tesla-sbila-zhenshhinu</guid>
-      <pubDate>Wed, 03 Jun 2026 06:56:01 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/03/voditel-tesla-sbila-zhenshhinu"><img alt="" src="https://content.onliner.by/news/thumbnail/3613550a21df4f9af500d41e9eda6de2.jpg" /></a></p><p>Вечером на внешнем кольце МКАД в районе 56-го километра случилось ДТП с участием пешехода. По предварительной информации, 56-летний водитель автомобиля Tesla наехала на женщину, пересекавшую проезжую часть. </p><p><a href="https://auto.onliner.by/2026/06/03/voditel-tesla-sbila-zhenshhinu">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Пока пенсионерка была в больнице, ее деньги исчезли. Подозреваемый проиграл их в автоматы</title>
-      <link>https://money.onliner.by/go/329983</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/03/poka-pensionerka-byla</guid>
-      <pubDate>Wed, 03 Jun 2026 06:36:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/03/poka-pensionerka-byla"><img alt="" src="https://content.onliner.by/news/thumbnail/da07cd41c1770e9c7c776db7fb13e00f.jpg" /></a></p><p>В Бобруйске 81-летняя местная жительница лишилась более 1800 рублей, пока находилась на лечении в больнице. Как сообщили в милиции, за квартирой пенсионерки в это время присматривали 51-летний мужчина и его сожительница. По данным правоохранителей, бобруйчанин узнал, где хозяйка хранит свои сбережения, и забрал деньги себе.</p><p><a href="https://money.onliner.by/2026/06/03/poka-pensionerka-byla">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Видеокарта GeForce RTX 3060 вернулась на рынок. Сколько стоит?</title>
-      <link>https://4pda.to/2026/06/03/457202/videokarta_geforce_rtx_3060_vernulas_na_rynok_skolko_stoit/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457202/videokarta_geforce_rtx_3060_vernulas_na_rynok_skolko_stoit/</guid>
-      <pubDate>Wed, 03 Jun 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Colorful неожиданно возобновила продажи уже давно снятой с производства видеокарты GeForce RTX
-3060. В модификации с 12 ГБ видеопамяти «новинка» стала доступна на рынке Китая.
-Colorful iGame [...]]]></description>
-    </item>
-    <item>
-      <title>ООН призвала страны готовиться к супер-Эль-Ниньо</title>
-      <link>https://tech.onliner.by/go/776904</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/gotovtes-k-super-el-nino</guid>
-      <pubDate>Wed, 03 Jun 2026 06:21:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/gotovtes-k-super-el-nino"><img alt="" src="https://content.onliner.by/news/thumbnail/fbe349fa1938a0ba45627f39577fe8f2.jpg" /></a></p><p><p dir="ltr">Последний доклад Всемирной метеорологической организации (ВМО), которая является частью ООН, <a href="https://wmo.int/news/media-centre/wmo-prepare-el-nino" target="_blank">подтвердил</a> прогнозы метеорологов: в отчете сказано, что аномалии температуры поверхности моря усиливаются в центрально-восточных экваториальных районах Тихого океана, что предвещает повышенный риск экстремальных погодных явлений в ближайшие месяцы.</p><p><a href="https://tech.onliner.by/2026/06/03/gotovtes-k-super-el-nino">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Acer презентовала новые мини-ПК бизнес-класса с большим объёмом ОЗУ</title>
-      <link>https://4pda.to/2026/06/03/457201/acer_prezentovala_novye_mini_pk_biznes_klassa_s_bolshim_obyomom_ozu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457201/acer_prezentovala_novye_mini_pk_biznes_klassa_s_bolshim_obyomom_ozu/</guid>
-      <pubDate>Wed, 03 Jun 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Компания Acer анонсировала новые компактные рабочие станции серии Veriton. Новинки на базе чипов Intel и AMD позиционируются как устройства бизнес-класса и представлены в широком наборе конфигураций железа.
-Acer [...]]]></description>
-    </item>
-    <item>
-      <title>Курочка и лиминальные пространства. Сериалы и фильмы июня, на которые не жаль потратить время</title>
-      <link>https://people.onliner.by/go/1305358</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/03/kurochka-i-liminalnye-prostranstva-serialy-i-filmy-iyunya-na-kotorye-ne-zhal-potratit-vremya</guid>
-      <pubDate>Wed, 03 Jun 2026 06:00:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/kurochka-i-liminalnye-prostranstva-serialy-i-filmy-iyunya-na-kotorye-ne-zhal-potratit-vremya"><img alt="" src="https://content.onliner.by/news/thumbnail/3936ad54f3ab7328090811cbabfe388c.jpg" /></a></p><p><p dir="ltr">Июнь — вроде бы не то время, когда надо сидеть перед экраном, но мы погоде уже не доверяем настолько, что в любой момент готовы бежать прятаться от дождя. Например, в кинотеатре. Мы уже <a href="https://tech.onliner.by/2026/06/01/filmy-i-serialy-iyunya-2026" target="_blank">рассказывали</a> про солидное число поводов заглянуть туда любителям фантастики, теперь даем наводки для поклонников экспериментального фестивального кино про куриц и хорроров от A24. Про сериалы тоже не забываем, там у нас в центре сюжетов — уголовники и шеф-повара. Все подробности ниже.</p><p><a href="https://people.onliner.by/2026/06/03/kurochka-i-liminalnye-prostranstva-serialy-i-filmy-iyunya-na-kotorye-ne-zhal-potratit-vremya">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Noctua и Carbice создали «вечную» термопрокладку для процессоров AMD</title>
-      <link>https://4pda.to/2026/06/03/457200/noctua_i_carbice_sozdali_vechnuyu_termoprokladku_dlya_protsessorov_amd/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457200/noctua_i_carbice_sozdali_vechnuyu_termoprokladku_dlya_protsessorov_amd/</guid>
-      <pubDate>Wed, 03 Jun 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Компании Noctua и Carbice
-объявили о партнёрстве, в рамках которого представили свой
-первый совместный продукт — термопрокладку Noctua
-NT-CP1AM5/4 для процессоров AMD Ryzen AM5 и AM4. Новинка позиционируется
-как [...]]]></description>
-    </item>
-    <item>
-      <title>«Хотелось облизать экран». Эти белорусы влюбились в персонажей игр и аниме</title>
-      <link>https://tech.onliner.by/go/776789</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/03/vlyubilis-v-personazhej-igr</guid>
-      <pubDate>Wed, 03 Jun 2026 05:00:43 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/03/vlyubilis-v-personazhej-igr"><img alt="" src="https://content.onliner.by/news/thumbnail/82ac7e04f2571ae2c1d1c4c27beb0ca6.jpg" /></a></p><p>Как говорили классики, любовь зла, и коварно нахлынуть может в любой момент. И степень коварства увеличивается, когда объект воздыханий оказывается не живым человеком, а придуманным персонажем — из игры, книги, фильма или аниме. При этом случаются подобные истории не только с подростками, но и со взрослыми людьми. Именно с такими белорусами мы сегодня и поговорили: вот их истории о том, как они начали питать романтические чувства к выдуманным героям.</p><p><a href="https://tech.onliner.by/2026/06/03/vlyubilis-v-personazhej-igr">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Обзор Honor 600: не флагман, но претендует</title>
-      <link>https://4pda.to/2026/06/03/456951/obzor_honor_600_ne_flagman_no_pretenduet/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/456951/obzor_honor_600_ne_flagman_no_pretenduet/</guid>
-      <pubDate>Wed, 03 Jun 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Номерные Honor давно славятся техническими новшествами, будь то рекордная частота ШИМ, особенная портретная камера или умение превращать фотографии в видео. Выясним, чем интересен Honor 600 и есть ли в [...]]]></description>
-    </item>
-    <item>
-      <title>Творческий директор Control Resonant рассказал о трудностях разработки настолько смелого сиквела</title>
-      <link>https://4pda.to/2026/06/03/457176/tvorcheskij_direktor_control_resonant_rasskazal_o_trudnostyakh_razrabotki_nastolko_smelogo_sikvela/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457176/tvorcheskij_direktor_control_resonant_rasskazal_o_trudnostyakh_razrabotki_nastolko_smelogo_sikvela/</guid>
-      <pubDate>Wed, 03 Jun 2026 04:50:00 +0000</pubDate>
-      <description><![CDATA[Грядущая Control Resonant станет одним из самых смелых сиквелов последних лет — авторы поменяли как главного героя, так и геймплейные механики. Впрочем, уверяет Remedy, всё так и было задумано.
-Обычно [...]]]></description>
-    </item>
-    <item>
-      <title>Компактный Motorola Edge 2026 с чипом Dimensity оценили в $599</title>
-      <link>https://4pda.to/2026/06/03/457199/kompaktnyj_motorola_edge_2026_s_chipom_dimensity_otsenili_v_599/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457199/kompaktnyj_motorola_edge_2026_s_chipom_dimensity_otsenili_v_599/</guid>
-      <pubDate>Wed, 03 Jun 2026 04:40:00 +0000</pubDate>
-      <description><![CDATA[Компания Motorola выпустила новый смартфон Edge 2026, который заметно изменился по сравнению с прошлогодней моделью. Аппарат стал компактнее и получил новый тип дисплея, сохранив при этом высокий класс [...]]]></description>
-    </item>
-    <item>
-      <title>Умные весы Withings BodyFit измеряют 40 показателей тела</title>
-      <link>https://4pda.to/2026/06/03/457198/umnye_vesy_withings_bodyfit_izmeryayut_40_pokazatelej_tela/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457198/umnye_vesy_withings_bodyfit_izmeryayut_40_pokazatelej_tela/</guid>
-      <pubDate>Wed, 03 Jun 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Withings презентовала умные весы BodyFit, которые измеряют не только вес, но и ещё 39 показателей. В частности, устройство способно снимать ЭКГ и общаться с пользователем при помощи нейросетей.
-Withings [...]]]></description>
-    </item>
-    <item>
-      <title>Среднебюджетные OnePlus Turbo 6X и 6X Pro рассекречены до премьеры</title>
-      <link>https://4pda.to/2026/06/03/457153/srednebyudzhetnye_oneplus_turbo_6x_i_6x_pro_rassekrecheny_do_premery/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457153/srednebyudzhetnye_oneplus_turbo_6x_i_6x_pro_rassekrecheny_do_premery/</guid>
-      <pubDate>Wed, 03 Jun 2026 03:30:00 +0000</pubDate>
-      <description><![CDATA[В базах данных регулятора TENAA и платформы Google Play Console отметились смартфоны OnePlus Turbo 6X и 6X Pro. Источники опубликовали информацию о технических
-характеристиках устройств, а также показали [...]]]></description>
-    </item>
-    <item>
-      <title>Ветеран BioWare уверен: играм нужен продакт-плейсмент</title>
-      <link>https://4pda.to/2026/06/03/457166/veteran_bioware_uveren_igram_nuzhen_prodakt_plejsment/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457166/veteran_bioware_uveren_igram_nuzhen_prodakt_plejsment/</guid>
-      <pubDate>Wed, 03 Jun 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Разработка видеоигр неминуемо дорожает, и расходы на производство многие компании покрывают за счёт микротранзакций. Однако бывший сотрудник BioWare уверен: из финансовой ямы можно выбраться и другим способом.
-[youtube=Oyf7ErwlNUY:640:360:::0]
-Марк [...]]]></description>
-    </item>
-    <item>
-      <title>ASUS представила 3-киловаттный блок питания ROG Thor для флагманских ПК</title>
-      <link>https://4pda.to/2026/06/03/457161/asus_predstavila_3_kilovattnyj_blok_pitaniya_rog_thor_dlya_flagmanskikh_pk/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457161/asus_predstavila_3_kilovattnyj_blok_pitaniya_rog_thor_dlya_flagmanskikh_pk/</guid>
-      <pubDate>Wed, 03 Jun 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[ASUS показала
-на выставке Computex 2026  мощный блок питания ROG Thor 3000W Titanium III
-Edition 20. Новинка, анонс которой приурочен&nbsp;к 20-летней годовщине бренда
-Republic of Gamers, способна&nbsp;обеспечить [...]]]></description>
-    </item>
-    <item>
-      <title>Топ-10 самых мощных Android-планшетов возглавила неигровая модель</title>
-      <link>https://4pda.to/2026/06/02/457154/top_10_samykh_moschnykh_android_planshetov_vozglavila_neigrovaya_model/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457154/top_10_samykh_moschnykh_android_planshetov_vozglavila_neigrovaya_model/</guid>
-      <pubDate>Tue, 02 Jun 2026 19:30:00 +0000</pubDate>
-      <description><![CDATA[Настал новый месяц, а значит, пришло время свежего отчёта от разработчиков мобильного бенчмарка AnTuTu. Вслед за рейтингом самых производительных Android-смартфонов&nbsp;появились данные&nbsp;и по планшетам [...]]]></description>
-    </item>
-    <item>
-      <title>Обзор HPRT MT610: портативный принтер, которому не нужны чернила</title>
-      <link>https://4pda.to/2026/06/02/456872/obzor_hprt_mt610_portativnyj_printer_kotoromu_ne_nuzhny_chernila/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/456872/obzor_hprt_mt610_portativnyj_printer_kotoromu_ne_nuzhny_chernila/</guid>
-      <pubDate>Tue, 02 Jun 2026 18:30:00 +0000</pubDate>
-      <description><![CDATA[HPRT MT610 — компактный термопринтер, которому не нужны ни чернила, ни тонер. Он печатает документы, памятки, схемы, QR-коды и маршрутные листы на специальной термобумаге, а каждый отпечаток обходится [...]]]></description>
-    </item>
-    <item>
-      <title>Геймеры начали теплее относиться к Xbox. Бренду помогла Аша Шарма</title>
-      <link>https://4pda.to/2026/06/02/457170/gejmery_nachali_teplee_otnositsya_k_xbox_brendu_pomogla_asha_sharma/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457170/gejmery_nachali_teplee_otnositsya_k_xbox_brendu_pomogla_asha_sharma/</guid>
-      <pubDate>Tue, 02 Jun 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[В этом году Microsoft взяла курс на спасение репутации Xbox. И PR-кампания уже принесла плоды.
-[caption width="480" caption="Аша Шарма"][/caption]
-Аналитическая компания YouGov провела исследование [...]]]></description>
-    </item>
-    <item>
-      <title>Apple создала обои в честь WWDС 2026. Где скачать?</title>
-      <link>https://4pda.to/2026/06/02/457156/apple_sozdala_oboi_v_chest_wwds_2026_gde_skachat/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457156/apple_sozdala_oboi_v_chest_wwds_2026_gde_skachat/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:45:00 +0000</pubDate>
-      <description><![CDATA[Компания Apple опубликовала обои для iPhone и других устройств в честь мероприятия WWDC 2026, на котором должны показать iOS 27. По информации инсайдеров, на&nbsp;картинках можно рассмотреть намёк на новый [...]]]></description>
-    </item>
-    <item>
-      <title>Onimusha: Way of the Sword выйдет в сентябре — это рассказали несколько источников</title>
-      <link>https://4pda.to/2026/06/02/457171/onimusha_way_of_the_sword_vyjdet_v_sentyabre_eto_rasskazali_neskolko_istochnikov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457171/onimusha_way_of_the_sword_vyjdet_v_sentyabre_eto_rasskazali_neskolko_istochnikov/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Хотя за последние шесть месяцев Capcom уже выпустила&nbsp;два заметных хита (Resident Evil Requiem и Pragmata), останавливаться на достигнутом она не собирается. До конца года компания также отправит на [...]]]></description>
-    </item>
-    <item>
-      <title>Обзор UGREEN Nexode 500W: одна зарядка вместо всех</title>
-      <link>https://4pda.to/2026/06/02/457073/obzor_ugreen_nexode_500w_odna_zaryadka_vmesto_vsekh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457073/obzor_ugreen_nexode_500w_odna_zaryadka_vmesto_vsekh/</guid>
-      <pubDate>Tue, 02 Jun 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[С зарядками в 2026 году сложилась странная ситуация. С одной стороны, компактные GaN-блоки на 30-100 Вт уже стали нормой. С другой — устройств становится всё больше, и каждое требует своего адаптера. В [...]]]></description>
-    </item>
-    <item>
-      <title>Стали известны интересные подробности о новом процессоре NVIDIA RTX Spark</title>
-      <link>https://4pda.to/2026/06/02/457158/stali_izvestny_interesnye_podrobnosti_o_novom_protsessore_nvidia_rtx_spark/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457158/stali_izvestny_interesnye_podrobnosti_o_novom_protsessore_nvidia_rtx_spark/</guid>
-      <pubDate>Tue, 02 Jun 2026 15:15:00 +0000</pubDate>
-      <description><![CDATA[После анонса платформы RTX Spark для нового поколения Windows-компьютеров стали известны интересные подробности о её устройстве. NVIDIA уже подтвердила, что разработала процессор совместно с MediaTek, [...]]]></description>
-    </item>
-    <item>
-      <title>Жёсткий Гейб Ньюэлл уходит от ответственности. Bloomberg рассказало о внутренней кухне Valve</title>
-      <link>https://4pda.to/2026/06/02/457174/zhyostkij_gejb_nyuell_ukhodit_ot_otvetstvennosti_bloomberg_rasskazalo_o_vnutrennej_kukhne_valve/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457174/zhyostkij_gejb_nyuell_ukhodit_ot_otvetstvennosti_bloomberg_rasskazalo_o_vnutrennej_kukhne_valve/</guid>
-      <pubDate>Tue, 02 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Valve остаётся одним из главных дистрибьюторов игр в мире, хотя это совсем небольшая компания по меркам технологических гигантов. Её внутренняя кухня долгое время оставалась секретом, пролить свет на который [...]]]></description>
-    </item>
-    <item>
-      <title>AMD пришлось заново перепроектировать Ryzen 5800X3D</title>
-      <link>https://4pda.to/2026/06/02/457177/amd_prishlos_zanovo_pereproektirovat_ryzen_5800x3d/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/02/457177/amd_prishlos_zanovo_pereproektirovat_ryzen_5800x3d/</guid>
-      <pubDate>Tue, 02 Jun 2026 13:45:00 +0000</pubDate>
-      <description><![CDATA[AMD раскрыла неожиданные подробности о возвращении процессора Ryzen 7 5800X3D. И хотя&nbsp;обновлённая версия выглядит полной копией оригинального чипа 2022 года, на деле компании пришлось практически [...]]]></description>
     </item>
   </channel>
 </rss>
