@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 03 Jun 2026 20:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 04:01:56 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -56,6 +56,38 @@
 </code></pre><p>The uninstaller script handles the Winpodx ecosystem and its containers, but it will not touch your system package manager.</p><p>Any core packages installed during the initial setup like Podman or optional dependencies like <code>pyside6</code> will need to be uninstalled separately using your distribution's package manager.</p><h2 id="winpodx-for-the-windows">Winpodx for the win(dows)?</h2><p><a href="https://github.com/kernalix7/winpodx">Winpodx</a> offers an innovative solution for accessing Windows applications on Linux system, provided you have a high-spec machine with plenty of resources to spare.</p><p>During testing, I occasionally encountered minor input lag and screen artifacts.</p><p>However, despite these occasional graphical hiccups, the majority of the applications remained functional and usable.</p><p>It is worth noting the contrast in cross-platform integration. Because of Linux's incredibly small resource footprint, running Linux GUI applications inside Windows (via WSL) is a much lighter process.</p><p>Conversely, running a full Windows environment on top of Linux via containers is naturally a heavy, resource-intensive operation. As development continues, the project will hopefully achieve better optimization and smoother performance in future updates.</p><p>Did you find this tool interesting? Will you give it a shot on your system, or do you prefer sticking to a traditional Windows dual-boot? Let us know your thoughts in the comments below!</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17351952.gif" width="1" />]]></description>
       <category>App of the Week</category>
+    </item>
+    <item>
+      <title>25 лучших боевиков XXI века: рейтинг читателей Onlíner</title>
+      <link>https://people.onliner.by/go/1205759</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/04/25-luchshix-boevikov</guid>
+      <pubDate>Thu, 04 Jun 2026 04:00:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/04/25-luchshix-boevikov"><img alt="" src="https://content.onliner.by/news/thumbnail/d440504746666f9d930f4d79a136d193.jpg" /></a></p><p>Мы попросили читателей Onlíner рассказать о своих любимых экшен-фильмах, вышедших с 2000 по 2025 год, чтобы вместе составить большой рейтинг лучших боевиков XXI века. Получили больше двух сотен ответов и отобрали на их основе 25 наиболее популярных картин, которые заставляли кайфовать от каждой погони и проникаться драмами брутальных мстителей с разбитыми носами. А теперь переходим к главному: изучайте лонг-лист, ищите своих фаворитов и голосуйте — именно ваш выбор определит, как распределятся места в итоговом рейтинге.</p><p><a href="https://people.onliner.by/2026/06/04/25-luchshix-boevikov">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Топ-10 самых вирусных видео на YouTube</title>
+      <link>https://tech.onliner.by/go/711340</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/04/top-10-samyx-virusnyx-video-na-youtube-3</guid>
+      <pubDate>Thu, 04 Jun 2026 04:00:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/04/top-10-samyx-virusnyx-video-na-youtube-3"><img alt="" src="https://content.onliner.by/news/thumbnail/384a28a245411635719be489a2f1881f.jpg" /></a></p><p>21 год назад на никому не известный на тот момент сайт YouTube залили самое <a href="https://youtu.be/jNQXAC9IVRw" target="_blank">первое</a> видео. Me at the Zoo или «Я в зоопарке» — так назывался 19-секундный ролик, на котором парень восхищается слонами. С тех пор YouTube стал одним из самых влиятельных интернет-ресурсов, если не самым. Некоторые видео стали феноменами, потому что сумели набрать миллиарды просмотров — предлагаем взглянуть на десятку самых популярных роликов за все время. Узнайте, кто на самой вершине.</p><p><a href="https://tech.onliner.by/2026/06/04/top-10-samyx-virusnyx-video-na-youtube-3">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Создатель серии жёстко раскритиковал God of War Laufey: «Выглядит как полное убожество»</title>
+      <link>https://4pda.to/2026/06/04/457235/sozdatel_serii_zhyostko_raskritikoval_god_of_war_laufey_vyglyadit_kak_polnoe_ubozhestvo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/04/457235/sozdatel_serii_zhyostko_raskritikoval_god_of_war_laufey_vyglyadit_kak_polnoe_ubozhestvo/</guid>
+      <pubDate>Thu, 04 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[На минувшей State of Play была анонсирована God of War Laufey — игра про жену Кратоса. Далеко не все геймеры приняли тайтл с энтузиазмом, а отец серии совсем не поскупился на обидные слова.
+Автор [...]]]></description>
+    </item>
+    <item>
+      <title>Honor поделилась новыми подробностями о смартфоне Robot Phone</title>
+      <link>https://4pda.to/2026/06/04/457219/honor_podelilas_novymi_podrobnostyami_o_smartfone_robot_phone/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/04/457219/honor_podelilas_novymi_podrobnostyami_o_smartfone_robot_phone/</guid>
+      <pubDate>Thu, 04 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Honor вновь затронула тему своего будущего смартфона Robot Phone, объяснив своё видение его необычного
+дизайна. Компания уточнила, что гаджет «заточен» в первую очередь на съёмку видео, и поделилась свежими [...]]]></description>
     </item>
     <item>
       <title>Мессенджер «Макс» удалили из App Store</title>
@@ -449,28 +481,11 @@
 Вот [...]]]></description>
     </item>
     <item>
-      <title>В Борисове 29 детей госпитализированы с признаками инфекции. СК проводит проверку (обновлено)</title>
-      <link>https://people.onliner.by/go/1305808</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii</guid>
-      <pubDate>Wed, 03 Jun 2026 10:21:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii"><img alt="" src="https://content.onliner.by/news/thumbnail/f748889afef17d9bea5b9331f949cf6a.jpg" /></a></p><p>Вчера вечером в больницы Борисова обратились несколько родителей. Причиной стало нарушение пищеварения у детей, пишут местные СМИ. По последней информации, речь идет уже о 29 госпитализированных. </p><p><a href="https://people.onliner.by/2026/06/03/v-borisove-srazu-neskolkix-detej-gospitalizirovali-s-priznakami-infekcii">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Silent Hill: Townfall обрела дату релиза [ВИДЕО]</title>
       <link>https://4pda.to/2026/06/03/457221/silent_hill_townfall_obrela_datu_reliza_video/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/03/457221/silent_hill_townfall_obrela_datu_reliza_video/</guid>
       <pubDate>Wed, 03 Jun 2026 10:15:00 +0000</pubDate>
       <description><![CDATA[Хоррор-серия Silent Hill&nbsp;переживает расцвет — Konami передала бренд в руки сразу нескольких команд, и те ежегодно радуют фанатов новыми историями про окутанные туманом города. Этой осенью, например, [...]]]></description>
-    </item>
-    <item>
-      <title>HP представила EliteBook 8 G2i 13: компактный и мощный лэптоп бизнес-класса</title>
-      <link>https://4pda.to/2026/06/03/457210/hp_predstavila_elitebook_8_g2i_13_kompaktnyj_i_moschnyj_leptop_biznes_klassa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/03/457210/hp_predstavila_elitebook_8_g2i_13_kompaktnyj_i_moschnyj_leptop_biznes_klassa/</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 +0000</pubDate>
-      <description><![CDATA[На рынке Европы появился ноутбук HP EliteBook 8 G2i 13. Компактная модель, ориентированная на «тяжёлые» рабочие задачи, оснащена производительным железом и аккумулятором с функцией быстрой зарядки.
-[gallery=1]
-HP [...]]]></description>
     </item>
   </channel>
 </rss>
