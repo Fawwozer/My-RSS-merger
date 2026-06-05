@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 04 Jun 2026 20:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 03:45:29 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -13,7 +13,8 @@
       <link>https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23</link>
       <guid isPermaLink="false">6a1e6add9fdab3000136eb13</guid>
       <pubDate>Thu, 04 Jun 2026 14:38:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p><!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
+      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
             
             <div class="kg-cta-content">
                 
@@ -85,6 +86,31 @@
       <pubDate>Tue, 02 Jun 2026 04:38:36 +0000</pubDate>
       <description><![CDATA[this mixed blue/green picture shows the yellow/white-themed kde linux logo in the middle]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>В WWE 2K26 добавили Штрауса Зельника — главу Take-Two Interactive</title>
+      <link>https://4pda.to/2026/06/05/457280/v_wwe_2k26_dobavili_shtrausa_zelnika_glavu_take_two_interactive/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/05/457280/v_wwe_2k26_dobavili_shtrausa_zelnika_glavu_take_two_interactive/</guid>
+      <pubDate>Fri, 05 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Видеоигры позволяют разработчикам и геймерам реализовывать свои самые сокровенные фантазии. И, судя по свежему обновлению WWE 2K26, руководитель Take-Two Interactive всегда мечтал заняться рестлингом.
+[youtube=YsWoNBW6HuI:640:360:::0]
+3 [...]]]></description>
+    </item>
+    <item>
+      <title>Audeze представила планарные студийные наушники MM-520 открытого типа</title>
+      <link>https://4pda.to/2026/06/05/457286/audeze_predstavila_planarnye_studijnye_naushniki_mm_520_otkrytogo_tipa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/05/457286/audeze_predstavila_planarnye_studijnye_naushniki_mm_520_otkrytogo_tipa/</guid>
+      <pubDate>Fri, 05 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[В каталоге аудиобренда Audeze появились новые наушники MM-520. Модель, разработанная специально для студийного
+сведения, продюсирования и мастеринга, получила открытую конструкцию и акцент
+на точное воспроизведение [...]]]></description>
+    </item>
+    <item>
+      <title>Планшеты Teclast с большими экранами временно доступны со скидкой</title>
+      <link>https://4pda.to/2026/06/04/457269/planshety_teclast_s_bolshimi_ekranami_vremenno_dostupny_so_skidkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/04/457269/planshety_teclast_s_bolshimi_ekranami_vremenno_dostupny_so_skidkoj/</guid>
+      <pubDate>Thu, 04 Jun 2026 20:00:00 +0000</pubDate>
+      <description><![CDATA[Планшеты давно перестали быть просто увеличенными смартфонами. Благодаря большим экранам, на них можно с комфортом смотреть видео, читать, играть, работать в браузере и с документами и в целом решать почти [...]]]></description>
     </item>
     <item>
       <title>Pokemon Champions обрела дату релиза на iOS и Android</title>
@@ -466,30 +492,6 @@ Infinix SMART 20 оснастили 6,78-дюймовым [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/06/04/457273/remedy_snyala_regionalnye_ogranicheniya_s_control_resonant_igru_mozhno_budet_zapustit_v_rossii/</guid>
       <pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
       <description><![CDATA[Во время презентации State of Play студия Remedy Entertainment поделилась новым трейлером паранормального экшена Control Resonant и объявила дату релиза проекта — он выйдет в сентябре. Однако хорошие новости [...]]]></description>
-    </item>
-    <item>
-      <title>В AnTuTu назвали 50 лучших смартфонов весны в категории «топ за свои деньги»</title>
-      <link>https://4pda.to/2026/06/04/457266/v_antutu_nazvali_50_luchshikh_smartfonov_vesny_v_kategorii_top_za_svoi_dengi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/04/457266/v_antutu_nazvali_50_luchshikh_smartfonov_vesny_v_kategorii_top_za_svoi_dengi/</guid>
-      <pubDate>Thu, 04 Jun 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[В блоге AnTuTu обновился рейтинг смартфонов с лучшим соотношением цены и производительности. В список, составленный по итогам мая, вошли 50 устройств в разных ценовых категориях — от «бюджетников» до флагманов.
-В [...]]]></description>
-    </item>
-    <item>
-      <title>Новый 4K-проектор Leica Cine Compact 1 с RGB-лазером оценили в $1995</title>
-      <link>https://4pda.to/2026/06/04/457267/novyj_4k_proektor_leica_cine_compact_1_s_rgb_lazerom_otsenili_v_1995/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/04/457267/novyj_4k_proektor_leica_cine_compact_1_s_rgb_lazerom_otsenili_v_1995/</guid>
-      <pubDate>Thu, 04 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Leica анонсировала новый проектор&nbsp;Compact 1, который стал одной из самых доступных моделей фирменной серии. Компактная новинка способна
-выводить изображение с разрешением 4K на экран диагональю до [...]]]></description>
-    </item>
-    <item>
-      <title>Смартфон HUAWEI nova 15 Max и умные часы Fit 5 Pro уже можно купить в России</title>
-      <link>https://4pda.to/2026/06/04/457265/smartfon_huawei_nova_15_max_i_umnye_chasy_fit_5_pro_uzhe_mozhno_kupit_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/04/457265/smartfon_huawei_nova_15_max_i_umnye_chasy_fit_5_pro_uzhe_mozhno_kupit_v_rossii/</guid>
-      <pubDate>Thu, 04 Jun 2026 07:01:00 +0000</pubDate>
-      <description><![CDATA[Но российском рынке появились два новых устройства компании HUAWEI. Покупателям стали доступны смартфон nova 15 Max,
-на который можно оформить предзаказ, а также умные часы Fit 5 Pro, уже поступившие в [...]]]></description>
     </item>
     <item>
       <title>Tuta Joins Other European Companies Under the Euro-Office Umbrella</title>
