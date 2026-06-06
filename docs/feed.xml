@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 06 Jun 2026 13:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 19:23:12 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -29,8 +29,7 @@
       <link>https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23</link>
       <guid isPermaLink="false">6a1e6add9fdab3000136eb13</guid>
       <pubDate>Thu, 04 Jun 2026 14:38:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p>
-<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
+      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p><!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
             
             <div class="kg-cta-content">
                 
@@ -80,12 +79,68 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
-      <title>Not Kidding! Microsoft Just Brought Linux Commands to Windows Officially</title>
-      <link>https://feed.itsfoss.com/link/24361/17353332/windows-coreutils</link>
-      <guid isPermaLink="false">6a20358b9fdab3000136f151</guid>
-      <pubDate>Wed, 03 Jun 2026 15:28:20 +0000</pubDate>
-      <description><![CDATA[Windows coreutils]]></description>
-      <category>News</category>
+      <title>Тысячи лошадиных сил на одной площадке. Фоторепортаж с BMW M Fest</title>
+      <link>https://auto.onliner.by/go/1249568</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest</guid>
+      <pubDate>Sat, 06 Jun 2026 18:30:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest"><img alt="" src="https://content.onliner.by/news/thumbnail/2314a60805e3f6f2f7a361aea6f2e825.jpg" /></a></p><p>В Минске прошёл BMW M Fest — большой праздник для поклонников баварской марки. На одной площадке собрались владельцы редких и мощных BMW, а также любители тюнинга и автомобильной культуры. Гости могли увидеть десятки заряженных моделей линейки M, эксклюзивные проекты с доработками, необычные окрасы и автомобили, которые редко встретишь на дорогах общего пользования. Самые яркие моменты — в нашем фоторепортаже.</p><p><a href="https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Возобновляемая энергия впервые обогнала газовую во всём мире</title>
+      <link>https://4pda.to/2026/06/06/457315/vozobnovlyaemaya_energiya_vpervye_obognala_gazovuyu_vo_vsyom_mire/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457315/vozobnovlyaemaya_energiya_vpervye_obognala_gazovuyu_vo_vsyom_mire/</guid>
+      <pubDate>Sat, 06 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[В мировой энергетике произошло историческое событие. В апреле 2026 года солнечные и ветряные электростанции впервые за полный месяц выработали больше электроэнергии, чем газовые электростанции.
+По данным [...]]]></description>
+    </item>
+    <item>
+      <title>Башенный кран-принтер способен печатать целые небоскрёбы</title>
+      <link>https://4pda.to/2026/06/06/457314/bashennyj_kran_printer_sposoben_pechatat_tselye_neboskryoby/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457314/bashennyj_kran_printer_sposoben_pechatat_tselye_neboskryoby/</guid>
+      <pubDate>Sat, 06 Jun 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Австралийская компания Luyten представила первый в мире башенный кран с функцией 3D-печати. ASCEND способен создавать конструкции высотой до 100 метров и работать в радиусе до 45 метров.
+[youtube=0YkHGs7isV8:640:360:::0]
+Вместо [...]]]></description>
+    </item>
+    <item>
+      <title>Дождались. Представлен первый трейлер ремейка Resident Evil Code Veronica [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/06/457354/dozhdalis_predstavlen_pervyj_trejler_remejka_resident_evil_code_veronica_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457354/dozhdalis_predstavlen_pervyj_trejler_remejka_resident_evil_code_veronica_video/</guid>
+      <pubDate>Sat, 06 Jun 2026 16:35:00 +0000</pubDate>
+      <description><![CDATA[Уже долгие годы фанаты Resident Evil строили невероятные теории, находя намёки на ремейк культовой Code Veronica в мелких деталях. Наконец-то Capcom решила не томить и официально анонсировать обновлённую [...]]]></description>
+    </item>
+    <item>
+      <title>Электрический кроссовер BMW iX3 проверили на автономность</title>
+      <link>https://4pda.to/2026/06/06/457316/elektricheskij_krossover_bmw_ix3_proverili_na_avtonomnost/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457316/elektricheskij_krossover_bmw_ix3_proverili_na_avtonomnost/</guid>
+      <pubDate>Sat, 06 Jun 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Новый BMW iX3 подтвердил свои амбиции на звание одного из самых «дальнобойных» электромобилей на рынке. В ходе ежегодного теста, организованного Норвежской автомобильной федерацией (NAF), кроссовер показал [...]]]></description>
+    </item>
+    <item>
+      <title>Компактный гуманоид JAKA Pi получил два «мозга»</title>
+      <link>https://4pda.to/2026/06/06/457310/kompaktnyj_gumanoid_jaka_pi_poluchil_dva_mozga/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457310/kompaktnyj_gumanoid_jaka_pi_poluchil_dva_mozga/</guid>
+      <pubDate>Sat, 06 Jun 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Шанхайская компания JAKA Robotics представила нового человекоподобного робота JAKA Pi. Одной из главных особенностей новинки стала архитектура с двумя вычислительными системами.&nbsp;
+Первая отвечает [...]]]></description>
+    </item>
+    <item>
+      <title>Более 100 профессий и своя валюта: как прошел фестиваль «Букидс» в Минске</title>
+      <link>https://people.onliner.by/go/1306467</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/06/bolee-100-professij-svoya-valyuta-i-dazhe-svadba-kak-proshel-festival-bukids-v-minske</guid>
+      <pubDate>Sat, 06 Jun 2026 14:44:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/06/bolee-100-professij-svoya-valyuta-i-dazhe-svadba-kak-proshel-festival-bukids-v-minske"><img alt="" src="https://content.onliner.by/news/thumbnail/dda5af82097876a3ba4379be88c29192.jpg" /></a></p><p>В Центральном ботаническом саду проходит юбилейный семейный фестиваль «Букидс». Несмотря на дождливую погоду, тысячи детей вместе с родителями пришли попробовать себя в десятках профессий, заработать первые «деньги» и провести выходные на свежем воздухе.</p><p><a href="https://people.onliner.by/2026/06/06/bolee-100-professij-svoya-valyuta-i-dazhe-svadba-kak-proshel-festival-bukids-v-minske">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Последний шанс. Вышел первый трейлер Alien: Isolation 2 [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/06/457355/poslednij_shans_vyshel_pervyj_trejler_alien_isolation_2_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457355/poslednij_shans_vyshel_pervyj_trejler_alien_isolation_2_video/</guid>
+      <pubDate>Sat, 06 Jun 2026 13:40:00 +0000</pubDate>
+      <description><![CDATA[Первая Alien: Isolation для многих геймеров стала образцовым хоррором, особенно по франшизе «Чужих». Спустя 12 лет игра всё же получит продолжение.
+[youtube=lUfKBrUgiS0:640:360:::0]
+Студия Creative Assebly [...]]]></description>
     </item>
     <item>
       <title>Amazon научила складского робота понимать обычную речь</title>
@@ -394,29 +449,12 @@ Square [...]]]></description>
 инсайдера Lanzuk, опубликованным в корейском блоге Naver, компания выпустит&nbsp;устройство с двумя [...]]]></description>
     </item>
     <item>
-      <title>Mechanics VoiceOver запустила сбор средств на дубляж 007 First Light</title>
-      <link>https://4pda.to/2026/06/05/457344/mechanics_voiceover_zapustila_sbor_sredstv_na_dublyazh_007_first_light/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457344/mechanics_voiceover_zapustila_sbor_sredstv_na_dublyazh_007_first_light/</guid>
-      <pubDate>Fri, 05 Jun 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[007 First Light всем хороша — компания IOI даже озаботилась текстовым переводом на русский язык. Коллектив Mechanics VoiceOver, впрочем, справедливо рассудил, что фанатам «Бондианы» этого явно недостаточно.
-[youtube=gDvbGANDH4E:640:360:::0]
-Команда [...]]]></description>
-    </item>
-    <item>
       <title>Кинотеатр на берегу, фудкорт и пляж. На Минском море открылась новая локация для отдыха</title>
       <link>https://realt.onliner.by/go/1108430</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/06/05/art-park-port-2</guid>
       <pubDate>Fri, 05 Jun 2026 15:33:35 +0000</pubDate>
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/05/art-park-port-2"><img alt="" src="https://content.onliner.by/news/thumbnail/dd1ef6fcd7bb9570f3130866b6cede16.jpg" /></a></p><p>Сегодня на берегу Заславского водохранилища заработала новая локация для летнего отдыха. Правда, пока только в тестовом режиме. Площадка получила название «арт‑парк „Порт“». Обещают еду, кино, развлечения и тусовки. Смотрим, что из этого уже реализовано. </p><p><a href="https://realt.onliner.by/2026/06/05/art-park-port-2">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Обзор Xiaomi 17T Pro: народный фотофлагман?</title>
-      <link>https://4pda.to/2026/06/05/457301/obzor_xiaomi_17t_pro_narodnyj_fotoflagman/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457301/obzor_xiaomi_17t_pro_narodnyj_fotoflagman/</guid>
-      <pubDate>Fri, 05 Jun 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi 17T Pro — тот самый «топ за свои деньги», когда ты получаешь 90% флагмана за долю его стоимости. Что не вошло в те самые 10% и стоит ли бежать с деньгами в магазин?
-Роль субфлагманов на рынке нынче [...]]]></description>
     </item>
     <item>
       <title>На что снижают цены перед выходными? Подборка электроники</title>
@@ -427,32 +465,12 @@ Square [...]]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Arctic на Computex 2026: кулеры с RGB-подсветкой, компактный ПК-корпус и другие новинки</title>
-      <link>https://4pda.to/2026/06/05/457340/arctic_na_computex_2026_kulery_s_rgb_podsvetkoj_kompaktnyj_pk_korpus_i_drugie_novinki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457340/arctic_na_computex_2026_kulery_s_rgb_podsvetkoj_kompaktnyj_pk_korpus_i_drugie_novinki/</guid>
-      <pubDate>Fri, 05 Jun 2026 15:20:00 +0000</pubDate>
-      <description><![CDATA[Arctic представила четыре
-новых продукта в рамках выставки Computex
-2026: новейшее семейство кулеров Freezer 61, обновлённые
-вентиляторы линейки BioniX, компактный корпус для ПК Xtender Mini и новый
-Smart
-Fan [...]]]></description>
-    </item>
-    <item>
       <title>Городской фестиваль, крутые тачки и любимое кино: планы на выходные</title>
       <link>https://people.onliner.by/go/1306319</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/06/05/gorodskoj-festival-krutye-tachki-i-lyubimoe-kino-plany-na-vyxodnye</guid>
       <pubDate>Fri, 05 Jun 2026 15:13:37 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/gorodskoj-festival-krutye-tachki-i-lyubimoe-kino-plany-na-vyxodnye"><img alt="" src="https://content.onliner.by/news/thumbnail/0a2e2565a76b306e5f83deb85892b262.jpg" /></a></p><p>Сегодня пятница, а значит впереди два дня отдыха. Вернее так: два летних дня отдыха. Так что помимо шашлыков и вылазок на природу советуем присмотреться к мероприятиям в городе. Куда сходить и что посмотреть, подскажет традиционная афиша.</p><p><a href="https://people.onliner.by/2026/06/05/gorodskoj-festival-krutye-tachki-i-lyubimoe-kino-plany-na-vyxodnye">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Audi Nuvolari стал первым суперкаром компании со времён R8</title>
-      <link>https://4pda.to/2026/06/05/457325/audi_nuvolari_stal_pervym_superkarom_kompanii_so_vremyon_r8/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457325/audi_nuvolari_stal_pervym_superkarom_kompanii_so_vremyon_r8/</guid>
-      <pubDate>Fri, 05 Jun 2026 15:10:00 +0000</pubDate>
-      <description><![CDATA[Audi представила новый флагманский суперкар Nuvolari — самую мощную и быструю серийную модель в истории бренда. Новинка получила гибридную силовую установку мощностью 1001 лошадиная сила.
-Главной [...]]]></description>
     </item>
     <item>
       <title>Ливни, грозы, до +28: погодный комплект на выходные</title>
@@ -463,65 +481,11 @@ Fan [...]]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>Один из создателей GTA: San Andreas жалеет, что в игру добавили стелс-элементы</title>
-      <link>https://4pda.to/2026/06/05/457347/odin_iz_sozdatelej_gta_san_andreas_zhaleet_chto_v_igru_dobavili_stels_elementy/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457347/odin_iz_sozdatelej_gta_san_andreas_zhaleet_chto_v_igru_dobavili_stels_elementy/</guid>
-      <pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[В своё время Grand Theft Auto: San Andreas поражала своим масштабом: в криминальном экшене было три города, множество персонажей, транспортных средств и видов оружия, а от количества различных механик [...]]]></description>
-    </item>
-    <item>
-      <title>Это точно задачка для 9-го класса? Попробуйте решить</title>
-      <link>https://tech.onliner.by/go/777575</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/05/zadachka-dlya-9-klassa-poprobujte-reshit</guid>
-      <pubDate>Fri, 05 Jun 2026 14:51:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/05/zadachka-dlya-9-klassa-poprobujte-reshit"><img alt="" src="https://content.onliner.by/news/thumbnail/3bd2c6e850a12dd724b7dc11e099860f.jpg" /></a></p><p><p dir="ltr">Репетитор по математике из Витебска <a href="https://www.threads.com/@ivictoriess/post/DZLGW8Sjr9A" target="_blank">поделилась</a> в Threads экзаменационным заданием для девятого класса, которое привлекло внимание пользователей соцсети. Проверьте, помните ли вы, как решать школьные примеры.</p><p><a href="https://tech.onliner.by/2026/06/05/zadachka-dlya-9-klassa-poprobujte-reshit">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В пятницу вечером в Минске пробки 9 баллов</title>
-      <link>https://auto.onliner.by/go/1249355</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/05/v-minske-probki-9-ballov-2</guid>
-      <pubDate>Fri, 05 Jun 2026 14:31:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/05/v-minske-probki-9-ballov-2"><img alt="" src="https://content.onliner.by/news/thumbnail/5e90c8dcea3b0609805ca7b85f7cfa44.png" /></a></p><p>Если вы планировали быстро добраться домой после работы, у Минска на этот вечер другие планы. Первые летние выходные начинаются с пятничных вечерних пробок. На дорогах города заторы в 9 баллов. </p><p><a href="https://auto.onliner.by/2026/06/05/v-minske-probki-9-ballov-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Один душ на этаж!» Белорусы делятся эмоциональными отзывами на детские лагеря (обновлено)</title>
-      <link>https://people.onliner.by/go/1305989</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/05/uzhe-otpravili-rebenka-v-lager-delites-otzyvami</guid>
-      <pubDate>Fri, 05 Jun 2026 14:13:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/uzhe-otpravili-rebenka-v-lager-delites-otzyvami"><img alt="" src="https://content.onliner.by/news/thumbnail/3283424792245e7e870d345c41fc7948.jpg" /></a></p><p>На этой неделе в детских лагерях массово стартовала первая смена. Родители успели смахнуть скупую слезу перед разлукой, а дети наверняка уже узнали новые способы использования зубной пасты. Мы решили выяснить, как современные школьники реагируют на непривычные для них условия — наслаждаются или приходят в ужас? И попросили читателей поделиться первыми впечатлениями от отдыха, а заодно и ценами на путевки.
-</p><p><a href="https://people.onliner.by/2026/06/05/uzhe-otpravili-rebenka-v-lager-delites-otzyvami">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Главные анонсы Computex 2026: возвращение легенды AMD, RTX Spark и тонкие экраны</title>
-      <link>https://4pda.to/2026/06/05/457348/glavnye_anonsy_computex_2026_vozvraschenie_legendy_amd_rtx_spark_i_tonkie_ekrany/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457348/glavnye_anonsy_computex_2026_vozvraschenie_legendy_amd_rtx_spark_i_tonkie_ekrany/</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[На июньской выставке Computex ведущие производители железа показали новинки, определяющие вектор развития отрасли в ближайшие годы. Компании сфокусировались на ИИ-вычислениях, портативном гейминге и востребованных [...]]]></description>
-    </item>
-    <item>
-      <title>«Яндекс» создал нейросеть размером менее 200 килобайт</title>
-      <link>https://4pda.to/2026/06/05/457352/yandeks_sozdal_nejroset_razmerom_menee_200_kilobajt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457352/yandeks_sozdal_nejroset_razmerom_menee_200_kilobajt/</guid>
-      <pubDate>Fri, 05 Jun 2026 13:55:00 +0000</pubDate>
-      <description><![CDATA[«Яндекс» сообщил о разработке ультрамалой нейросетевой модели для голосового управления в носимых устройствах. Её размер удалось сократить примерно до 200 КБ без заметной потери качества распознавания [...]]]></description>
-    </item>
-    <item>
       <title>Canonical Promotes Steam Snap to Stable on ARM64, With Plans to Rebuild It from Scratch Later</title>
       <link>https://feed.itsfoss.com/link/24361/17353951/arm64-steam-snap-goes-stable</link>
       <guid isPermaLink="false">6a21106a9fdab3000136f2f8</guid>
       <pubDate>Thu, 04 Jun 2026 13:04:01 +0000</pubDate>
       <description><![CDATA[the logos for ubuntu, snapcraft, and steam are placed in the center, the background is mixed shades of green]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Tuta Joins Other European Companies Under the Euro-Office Umbrella</title>
-      <link>https://feed.itsfoss.com/link/24361/17353438/tuta-joins-euro-office-initiative</link>
-      <guid isPermaLink="false">6a1ff7389fdab3000136efb9</guid>
-      <pubDate>Wed, 03 Jun 2026 17:11:33 +0000</pubDate>
-      <description><![CDATA[euro office logo is on the top, with a white banner section below showing logos of the many colation members for the euro-office project]]></description>
       <category>News</category>
     </item>
   </channel>
