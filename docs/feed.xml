@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 06 Jun 2026 08:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:43:04 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -29,7 +29,8 @@
       <link>https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23</link>
       <guid isPermaLink="false">6a1e6add9fdab3000136eb13</guid>
       <pubDate>Thu, 04 Jun 2026 14:38:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p><!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
+      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
             
             <div class="kg-cta-content">
                 
@@ -85,6 +86,101 @@
       <pubDate>Wed, 03 Jun 2026 15:28:20 +0000</pubDate>
       <description><![CDATA[Windows coreutils]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Amazon научила складского робота понимать обычную речь</title>
+      <link>https://4pda.to/2026/06/06/457311/amazon_nauchila_skladskogo_robota_ponimat_obychnuyu_rech/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457311/amazon_nauchila_skladskogo_robota_ponimat_obychnuyu_rech/</guid>
+      <pubDate>Sat, 06 Jun 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Amazon представила новую версию складского робота Proteus. Теперь живые сотрудники&nbsp;смогут ставить ему задачи с помощью обычной речи, а не через специальные программы и заученные команды.&nbsp;
+По [...]]]></description>
+    </item>
+    <item>
+      <title>В Климовичах после ДТП легковушка повисла на заборе</title>
+      <link>https://auto.onliner.by/go/1249541</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/v-klimovichax-posle-dtp</guid>
+      <pubDate>Sat, 06 Jun 2026 11:46:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/v-klimovichax-posle-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/1f311dd6ef3ef305a8afb4095216225d.jpg" /></a></p><p>Необычная авария произошла в Климовичах на перекрестке улиц Интернациональной и Свердлова. По предварительной информации, 52-летний водитель автомобиля Lada при выезде со второстепенной дороги не уступил дорогу Audi, которая двигалась по главной.</p><p><a href="https://auto.onliner.by/2026/06/06/v-klimovichax-posle-dtp">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Житель Борисова перевел почти 2 тысячи рублей за встречу, которой не было</title>
+      <link>https://money.onliner.by/go/330548</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/06/zhitel-borisova-perevel-pochti-2-tysyachi-rublej-za-vstrechu-kotoroj-ne-bylo</guid>
+      <pubDate>Sat, 06 Jun 2026 11:46:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/06/zhitel-borisova-perevel-pochti-2-tysyachi-rublej-za-vstrechu-kotoroj-ne-bylo"><img alt="" src="https://content.onliner.by/news/thumbnail/e5a9c74b0509d13838a26af4eb88dfc2.jpg" /></a></p><p>Попытка организовать романтическую встречу через интернет обернулась для 21-летнего жителя Борисова потерей денег и обращением в милицию.</p><p><a href="https://money.onliner.by/2026/06/06/zhitel-borisova-perevel-pochti-2-tysyachi-rublej-za-vstrechu-kotoroj-ne-bylo">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В Бресте задержали гражданина Португалии с наркотиками, спрятанными в сигаретах</title>
+      <link>https://people.onliner.by/go/1306463</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/06/v-breste-zaderzhali-grazhdanina-portugalii-s-narkotikami-spryatannymi-v-sigaretax</guid>
+      <pubDate>Sat, 06 Jun 2026 11:23:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/06/v-breste-zaderzhali-grazhdanina-portugalii-s-narkotikami-spryatannymi-v-sigaretax"><img alt="" src="https://content.onliner.by/news/thumbnail/dbf796e61356dd0f20e4de1d962e4dc1.jpg" /></a></p><p>Брестские таможенники задержали 37-летнего гражданина Португалии, который пытался ввезти в Беларусь наркотики через пункт пропуска «Брест».</p><p><a href="https://people.onliner.by/2026/06/06/v-breste-zaderzhali-grazhdanina-portugalii-s-narkotikami-spryatannymi-v-sigaretax">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Более 600 выпускников получили 100 баллов на ЦЭ. По какому предмету больше всего стобалльников</title>
+      <link>https://people.onliner.by/go/1306458</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/06/bolee-600-vypusknikov</guid>
+      <pubDate>Sat, 06 Jun 2026 11:12:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/06/bolee-600-vypusknikov"><img alt="" src="https://content.onliner.by/news/thumbnail/83f01217ce4c7f8c1e0d0bc46fd1acef.jpg" /></a></p><p>Министерство образования опубликовало результаты централизованного экзамена по профильным предметам. Максимальные 100 баллов смогли набрать 638 выпускников.</p><p><a href="https://people.onliner.by/2026/06/06/bolee-600-vypusknikov">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Она живая: The Wolf Among Us 2 получила трейлер и дату выхода [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/06/457356/ona_zhivaya_the_wolf_among_us_2_poluchila_trejler_i_datu_vykhoda_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457356/ona_zhivaya_the_wolf_among_us_2_poluchila_trejler_i_datu_vykhoda_video/</guid>
+      <pubDate>Sat, 06 Jun 2026 10:55:00 +0000</pubDate>
+      <description><![CDATA[Многие геймеры полюбили нуарный детектив The Wolf Among Us и с нетерпением ждали продолжения. Однако сиквел утонул в производственном аду, пережил закрытие студии и несколько переносов, но всё же по-прежнему [...]]]></description>
+    </item>
+    <item>
+      <title>Google Chrome установил новый рекорд скорости</title>
+      <link>https://4pda.to/2026/06/06/457360/google_chrome_ustanovil_novyj_rekord_skorosti/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457360/google_chrome_ustanovil_novyj_rekord_skorosti/</guid>
+      <pubDate>Sat, 06 Jun 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Google сообщила о новом рекорде производительности браузера Chrome на компьютерах Apple. Достичь этого удалось благодаря оптимизации JavaScript и переработке многих процессов «под капотом». В компании [...]]]></description>
+    </item>
+    <item>
+      <title>Гуманоидного робота DR02 учат тушить пожары</title>
+      <link>https://4pda.to/2026/06/06/457313/gumanoidnogo_robota_dr02_uchat_tushit_pozhary/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457313/gumanoidnogo_robota_dr02_uchat_tushit_pozhary/</guid>
+      <pubDate>Sat, 06 Jun 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Deep Robotics опубликовала новое видео с человекоподобным роботом DR02. Вместо привычных демонстраций возможности робота испытывали на улице весьма необычными способами.
+[youtube=sQLSAzqKGAk:640:360:::0]
+На [...]]]></description>
+    </item>
+    <item>
+      <title>Почти успели до дождя. В Минске проходит велокарнавал «Viva Ровар» (видео)</title>
+      <link>https://auto.onliner.by/go/1249426</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/viva-rovar-26</guid>
+      <pubDate>Sat, 06 Jun 2026 10:20:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/viva-rovar-26"><img alt="" src="https://content.onliner.by/news/thumbnail/dbca0c9cc4dd6b7840da554b3962aec5.jpg" /></a></p><p>Велокарнавал «Viva Ровар — 2026» из-за погоды уже переносили: с 30 мая на 6 июня. И после теплой недели казалось, что погода наконец взяла верный курс на лето. Но буквально в финишном створе все изменилось: сегодня в Минске похолодание, дождь. Впрочем, настоящий праздник этим не испортить, карнавал, по крайней мере его велосипедную часть, успели провести в нормальных условиях!</p><p><a href="https://auto.onliner.by/2026/06/06/viva-rovar-26">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Toyota покажет водородный болид на легендарной трассе Ле-Мана</title>
+      <link>https://4pda.to/2026/06/06/457309/toyota_pokazhet_vodorodnyj_bolid_na_legendarnoj_trasse_le_mana/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457309/toyota_pokazhet_vodorodnyj_bolid_na_legendarnoj_trasse_le_mana/</guid>
+      <pubDate>Sat, 06 Jun 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Toyota впервые проведёт публичные заезды своего нового гоночного прототипа TR LH2 Racing Prototype, работающего на жидком водороде. Демонстрация состоится перед легендарной гонкой «24 часа Ле-Мана».&nbsp;
+Прототип [...]]]></description>
+    </item>
+    <item>
+      <title>Анонсирована Stellar Blade: Blood Rain с новой героиней [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/06/457357/anonsirovana_stellar_blade_blood_rain_s_novoj_geroinej_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457357/anonsirovana_stellar_blade_blood_rain_s_novoj_geroinej_video/</guid>
+      <pubDate>Sat, 06 Jun 2026 09:10:00 +0000</pubDate>
+      <description><![CDATA[Сразу после успешного релиза Stellar Blade студия Shift Up заявила о создании сиквела. Но на двух играх разработчики останавливаться не собираются — уже готовится приквел экшена.
+[youtube=4aVoaSixc0E:640:360:::0]
+На [...]]]></description>
+    </item>
+    <item>
+      <title>Представлен недорогой vivo V70 Lite с экраном 120 Гц и АКБ на 6500 мАч</title>
+      <link>https://4pda.to/2026/06/06/457361/predstavlen_nedorogoj_vivo_v70_lite_s_ekranom_120_gts_i_akb_na_6500_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457361/predstavlen_nedorogoj_vivo_v70_lite_s_ekranom_120_gts_i_akb_na_6500_mach/</guid>
+      <pubDate>Sat, 06 Jun 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Компания vivo без лишнего шума представила новый смартфон V70 Lite. Это модель среднего сегмента с минималистичным дизайном, AMOLED-экраном с высокой частотой обновления, ёмким аккумулятором и поддержкой [...]]]></description>
     </item>
     <item>
       <title>В некоторых городах Беларуси на сутки ограничат продажу алкоголя</title>
@@ -399,30 +495,6 @@ Fan [...]]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>В Польшу быстрее через «Берестовицу», в Литву очередей нет: ситуация на границе перед выходными</title>
-      <link>https://auto.onliner.by/go/1249350</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/05/v-polshu-bystree-cherez-berestovicu-v-litvu-ocheredej-net-situaciya-na-granice-pered-vyxodnymi</guid>
-      <pubDate>Fri, 05 Jun 2026 14:05:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/05/v-polshu-bystree-cherez-berestovicu-v-litvu-ocheredej-net-situaciya-na-granice-pered-vyxodnymi"><img alt="" src="https://content.onliner.by/news/thumbnail/9d15092eb802d902ee71d3a0cdd8e5bf.jpg" /></a></p><p>Перед выходными в сезон путешествий ситуация на границе, как правило, обостряется. А что с очередями на этой неделе?</p><p><a href="https://auto.onliner.by/2026/06/05/v-polshu-bystree-cherez-berestovicu-v-litvu-ocheredej-net-situaciya-na-granice-pered-vyxodnymi">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Молния попала в квартиру через интернет-кабель и спалила компьютер геймера</title>
-      <link>https://tech.onliner.by/go/777557</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/05/molniya-po-internet-kabelyu</guid>
-      <pubDate>Fri, 05 Jun 2026 14:02:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/05/molniya-po-internet-kabelyu"><img alt="" src="https://content.onliner.by/news/thumbnail/c97d9ca8c0229dc9f470f86e9be8dfdf.jpg" /></a></p><p><p dir="ltr">Пользователь Reddit <a href="https://www.reddit.com/r/pcmasterrace/comments/1twehsn/router_blewup_motherboard/" target="_blank">рассказал</a> о необычном случае: молния во время грозы попала в его квартиру через коаксиальный кабель, спалив роутер и компьютер. Природный электрический заряд превратил интернет-соединение в проводник для тысяч вольт.</p><p><a href="https://tech.onliner.by/2026/06/05/molniya-po-internet-kabelyu">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В мае на Чкалова срубили ели. Что теперь будет со зданием, которое они «прикрывали»</title>
-      <link>https://realt.onliner.by/go/1105448</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/05/v-sssr-o-derevyax-zabotilis</guid>
-      <pubDate>Fri, 05 Jun 2026 14:00:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/05/v-sssr-o-derevyax-zabotilis"><img alt="" src="https://content.onliner.by/news/thumbnail/2e9db47098bc189bc527664845fd8111.jpg" /></a></p><p>Ближе к концу мая произошло событие, из-за которого переживали многие минчане: высокие здоровые ели, украшавшие улицу Чкалова и прикрывавшие фасад здания №5, спилили. Оказалось, что выросшие деревья вошли в «контры» с постройкой, в которой размещается Минский областной центр инвестиций и приватизации. <em>«Ели подлежали вырубке, так как своей корневой системой значительно разрушали отмостку в частности и фундамент всего здания в целом»,</em> — так объяснялось произошедшее.</p><p><a href="https://realt.onliner.by/2026/06/05/v-sssr-o-derevyax-zabotilis">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Главные анонсы Computex 2026: возвращение легенды AMD, RTX Spark и тонкие экраны</title>
       <link>https://4pda.to/2026/06/05/457348/glavnye_anonsy_computex_2026_vozvraschenie_legendy_amd_rtx_spark_i_tonkie_ekrany/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/05/457348/glavnye_anonsy_computex_2026_vozvraschenie_legendy_amd_rtx_spark_i_tonkie_ekrany/</guid>
@@ -435,69 +507,6 @@ Fan [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/06/05/457352/yandeks_sozdal_nejroset_razmerom_menee_200_kilobajt/</guid>
       <pubDate>Fri, 05 Jun 2026 13:55:00 +0000</pubDate>
       <description><![CDATA[«Яндекс» сообщил о разработке ультрамалой нейросетевой модели для голосового управления в носимых устройствах. Её размер удалось сократить примерно до 200 КБ без заметной потери качества распознавания [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi выпустила умный аромадиффузор Mijia</title>
-      <link>https://4pda.to/2026/06/05/457351/xiaomi_vypustila_umnyj_aromadiffuzor_mijia/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457351/xiaomi_vypustila_umnyj_aromadiffuzor_mijia/</guid>
-      <pubDate>Fri, 05 Jun 2026 13:50:00 +0000</pubDate>
-      <description><![CDATA[Новинкой компании Xiaomi стал умный
-аромадиффузор Mijia
-Smart Fragrance Diffuser Plant Extract Series. Устройство поддерживает интеграцию в систему умного дома и в автоматическом режиме&nbsp;ароматизирует [...]]]></description>
-    </item>
-    <item>
-      <title>В соцсетях обсуждают «массовую сдачу собак» на Гурского. «Фауна города» опровергает</title>
-      <link>https://people.onliner.by/go/1306315</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/05/v-faune-goroda-oprovergli</guid>
-      <pubDate>Fri, 05 Jun 2026 13:44:41 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/v-faune-goroda-oprovergli"><img alt="" src="https://content.onliner.by/news/thumbnail/78cea14e166f25b767b9ecbc5bb1451a.jpg" /></a></p><p><p dir="ltr">В соцсетях появились сообщения о том, что жители Минска якобы начали массово сдавать домашних животных в пункт временного содержания на улице Гурского. Авторы публикаций связывали это с изменениями в законодательстве и предстоящим расширением правил налогообложения владельцев собак. Однако в УП «Фауна города» заявляют, что таких случаев зафиксировано не было.</p><p><a href="https://people.onliner.by/2026/06/05/v-faune-goroda-oprovergli">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Спутниковые снимки показали, как стремительно нарастает Эль-Ниньо</title>
-      <link>https://tech.onliner.by/go/777527</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/05/el-nino-narastaet</guid>
-      <pubDate>Fri, 05 Jun 2026 13:40:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/05/el-nino-narastaet"><img alt="" src="https://content.onliner.by/news/thumbnail/2a6ebcd9a1c0dd10b60aab718c971731.png" /></a></p><p><p dir="ltr">Свежие наблюдения с радиолокационного спутника Sentinel-6 Michael Freilich предоставляют еще больше доказательств того, что явление Эль-Ниньо набирает обороты в Тихом океане. Измерения показывают, что более высокие и теплые воды движутся на восток через Тихий океан — это явление, известное как теплая волна Кельвина, считается предвестником Эль-Ниньо, <a href="https://gizmodo.com/ocean-observing-satellite-spots-telltale-sign-of-growing-el-nino-2000767538" target="_blank">пишет</a> Gizmodo.</p><p><a href="https://tech.onliner.by/2026/06/05/el-nino-narastaet">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Hisense анонсировала возвращение фирменного смартфона с экраном E Ink</title>
-      <link>https://4pda.to/2026/06/05/457334/hisense_anonsirovala_vozvraschenie_firmennogo_smartfona_s_ekranom_e_ink/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457334/hisense_anonsirovala_vozvraschenie_firmennogo_smartfona_s_ekranom_e_ink/</guid>
-      <pubDate>Fri, 05 Jun 2026 13:40:00 +0000</pubDate>
-      <description><![CDATA[После трёхлетнего перерыва Hisense
-вновь готовится представить смартфон, оснащённый экраном&nbsp;E Ink. В преддверии
-этого события компания выпустила несколько рекламных тизеров с подробностями о
-грядущем [...]]]></description>
-    </item>
-    <item>
-      <title>У автора PUBG всё плохо. Его безумно амбициозную игру сделают бесплатной, разработчиков сократят</title>
-      <link>https://4pda.to/2026/06/05/457345/u_avtora_pubg_vsyo_plokho_ego_bezumno_ambitsioznuyu_igru_sdelayut_besplatnoj_razrabotchikov_sokratyat/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457345/u_avtora_pubg_vsyo_plokho_ego_bezumno_ambitsioznuyu_igru_sdelayut_besplatnoj_razrabotchikov_sokratyat/</guid>
-      <pubDate>Fri, 05 Jun 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Около десяти лет назад Брендан Грин (также известный как PlayerUnknown) считался «золотым мальчиком» индустрии: он создал жанр Battle Royale, а&nbsp;разработанный его командой мультиплеерный экшен PUBG [...]]]></description>
-    </item>
-    <item>
-      <title>Google представила Gemini Go для очень бюджетных смартфонов</title>
-      <link>https://4pda.to/2026/06/05/457349/google_predstavila_gemini_go_dlya_ochen_byudzhetnykh_smartfonov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457349/google_predstavila_gemini_go_dlya_ochen_byudzhetnykh_smartfonov/</guid>
-      <pubDate>Fri, 05 Jun 2026 12:20:00 +0000</pubDate>
-      <description><![CDATA[Google представила Gemini Go — облегчённую версию своего ИИ-помощника для самых доступных Android-смартфонов. В отличие от большинства современных ИИ-сервисов, которым требуется мощное железо, новинка [...]]]></description>
-    </item>
-    <item>
-      <title>Опубликован релизный трейлер Monument of Triumph — последнего обновления Destiny 2 [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/05/457339/opublikovan_reliznyj_trejler_monument_of_triumph_poslednego_obnovleniya_destiny_2_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457339/opublikovan_reliznyj_trejler_monument_of_triumph_poslednego_obnovleniya_destiny_2_video/</guid>
-      <pubDate>Fri, 05 Jun 2026 12:10:00 +0000</pubDate>
-      <description><![CDATA[Всё, что имеет начало, имеет и конец. На следующей неделе Bungie официально попрощается с многопользовательским шутером Destiny 2, поэтому компания приурочила к запуску обновления Monument of Triumph&nbsp;последний [...]]]></description>
-    </item>
-    <item>
-      <title>Тонкая раскладушка Honor Magic V6 появилась на глобальном рынке</title>
-      <link>https://4pda.to/2026/06/05/457338/tonkaya_raskladushka_honor_magic_v6_poyavilas_na_globalnom_rynke/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457338/tonkaya_raskladushka_honor_magic_v6_poyavilas_na_globalnom_rynke/</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[После релиза на MWC 2026 бренд Honor представил&nbsp;Magic V6 на глобальном рынке. Это горизонтальная раскладушка толщиной 4 мм,&nbsp;оснащённая АКБ на 6600 мАч. Также новинка отличается яркими дисплеями [...]]]></description>
     </item>
     <item>
       <title>Canonical Promotes Steam Snap to Stable on ARM64, With Plans to Rebuild It from Scratch Later</title>
