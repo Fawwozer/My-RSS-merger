@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 07 Jun 2026 13:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 19:22:04 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -25,59 +25,71 @@
       <category>News</category>
     </item>
     <item>
-      <title>FOSS Weekly #26.23: Vim Forked, Coreutils on Windows, Reverse WSL, KDE Linux and a Giveaway</title>
-      <link>https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23</link>
-      <guid isPermaLink="false">6a1e6add9fdab3000136eb13</guid>
-      <pubDate>Thu, 04 Jun 2026 14:38:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p>
-<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
-            
-            <div class="kg-cta-content">
-                
-                    <div class="kg-cta-image-container">
-                        <a href="https://www.amazon.com/Ultimate-Guide-Linux-Engineers-environments/dp/1806664232/"><img alt="CTA Image" src="https://itsfoss.com/content/images/2026/06/linux-book.jpg" /></a>
-                    </div>
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p dir="ltr"><span style="white-space: pre-wrap;">The thing is that you cannot avoid AI specially if you are working as a sysadmin or DevOps. The best way is to use AI as a tool to assist you in your workflow. There is </span><a class="cta-link-color" href="https://www.amazon.com/Ultimate-Guide-Linux-Engineers-environments/dp/1806664232/"><span style="white-space: pre-wrap;">this new book</span></a><span style="white-space: pre-wrap;"> that guides you to build intelligent automation using LLMs, RAG, and AI agents for monitoring, troubleshooting, and system administration. You don't want to be left behind, after all.</span></p>
-                        </div>
-                    
-                    
-                        <a class="kg-cta-button " href="https://www.amazon.com/Ultimate-Guide-Linux-Engineers-environments/dp/1806664232/" style="background-color: #000000; color: #ffffff;">
-                            Get the book
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><!--kg-gated-block:end-->
-<h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>Your Arch mirror list from install day <a href="https://itsfoss.com/fast-arch-linux-mirrors/">is probably not your fastest option anymore</a>. <code>reflector</code> lets you pull the most recently synced HTTPS mirrors by country in one command. <code>rate-mirrors</code> benchmarks them and picks the fastest without you needing to specify anything.</p><p>Want to try Alpine Linux without touching your main system? The installation process is text-based and a bit different from what most distros do, so <a href="https://itsfoss.com/alpine-linux-virtualbox/">running it in VirtualBox</a> first makes sense.</p><p>Steam is proprietary. So are Obsidian, Warp, Docker Desktop, and the Snap Store backend. Thirteen tools that <a href="https://itsfoss.com/popular-software-open-source-feel/">regularly fool Linux users</a> into assuming otherwise, with open source alternatives listed.</p>
-<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
-            
-            <div class="kg-cta-content">
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><span style="white-space: pre-wrap;">Desktop Linux is mostly neglected by the industry but loved by the community. For the past 13 years, It's FOSS has been helping people use Linux on their personal computers. And we are now facing the existential threat from AI models stealing our content. </span></p><p><span style="white-space: pre-wrap;">If you like what we do and would love to support our work, please become It's FOSS Plus member. It costs less than the cost of a McDonald Happy Meal a month, and you get an ad-free reading experience with the satisfaction of helping the desktop Linux community.</span></p>
-                        </div>
-                    
-                    
-                        <a class="kg-cta-button " href="https://itsfoss.com/membership/" style="background-color: #000000; color: #ffffff;">
-                            Join It's FOSS Plus
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><!--kg-gated-block:end-->
-<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>ZimaBoard was the device I began my homelab journey with a couple of years ago. I tried their latest device, <a href="https://itsfoss.com/zimacube-2-review/">ZimaCube 2 and shared the experience in this review</a>. If money is not a problem and you are looking for the comfort of owning a homelab, Zima devices are worth it.</p><p>Jan AI <a href="https://itsfoss.com/jan-ai/">came close to replacing Ollama</a> for Bhuwan with its one-click model downloads, built-in cloud provider support, and local API server. But performance-wise, it disappointed.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p>WSL runs Linux inside Windows. <a href="https://itsfoss.com/winpodx/">Winpodx</a> does the opposite. It spins up a Windows container using Podman and streams individual Windows apps to your Linux desktop via FreeRDP.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>We are now almost halfway through 2026, and <a href="https://www.youtube.com/watch?v=PT8emqAIl7Y">these things still hold up</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In <a href="https://itsfoss.com/gnome-tricks-ubuntu/">GNOME</a>, if you have multiple keyboard layouts enabled, click on the keyboard layout button in the quick settings panel and click the "<em>Show Keyboard Layout</em>" button to get a quick overview of that layout.</p><figure class="kg-card kg-image-card"><img alt="gnome keyboard layouts tip" class="kg-image" height="745" src="https://itsfoss.com/content/images/2026/06/show-layout.png" width="887" /></figure><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Can you spot all the hidden logos in <a href="https://itsfoss.com/quiz/spot-hidden-logo/">this image puzzle</a>?</p><p>A glass of <a href="https://www.winehq.org">Wine</a> to keep the Winslop away. &#127863;&#128521;</p><figure class="kg-card kg-image-card"><img alt="wine linux windows meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/06/MEME16.png" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 5, 1833, <a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Byron</a> met <a href="https://en.wikipedia.org/wiki/Charles_Babbage">Charles Babbage</a> at a party in London and walked away captivated by his mechanical <a href="https://en.wikipedia.org/wiki/Difference_engine">Difference Engine</a>.</p><p>That chance encounter sparked a friendship that led Ada to write what is now recognized as the world's first computer program, over a decade before the word "<em>computer</em>" referred to anything other than a person doing sums.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Manuel, a regular FOSSer is <a href="https://itsfoss.community/t/terminal-do-you-have-recommendation-of-a-tool-where-is-possible-see-the-git-branches-history/15869">looking for suggestions</a> for a terminal app that shows git branch history. If that doesn't interest you, then there's another thread discussing <a href="https://itsfoss.community/t/is-technical-education-failing/15856">whether technical education is failing in Australia</a>.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17354030.gif" width="1" />]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Необычный кристалл совмещает свойства металла и стекла</title>
+      <link>https://4pda.to/2026/06/07/457187/neobychnyj_kristall_sovmeschaet_svojstva_metalla_i_stekla/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457187/neobychnyj_kristall_sovmeschaet_svojstva_metalla_i_stekla/</guid>
+      <pubDate>Sun, 07 Jun 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Учёные продолжают искать новые материалы для фотонных&nbsp;чипов&nbsp;и умных&nbsp;контактных линз. Одним из самых перспективных кандидатов оказался&nbsp;кристалл оксихлорида молибдена, чьи оптические [...]]]></description>
+    </item>
+    <item>
+      <title>Галактику c чёрной дырой в центре показали на детализированном снимке</title>
+      <link>https://4pda.to/2026/06/07/457188/galaktiku_c_chyornoj_dyroj_v_tsentre_pokazali_na_detalizirovannom_snimke/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457188/galaktiku_c_chyornoj_dyroj_v_tsentre_pokazali_na_detalizirovannom_snimke/</guid>
+      <pubDate>Sun, 07 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Космический телескоп «Хаббл» сделал новое детальное изображение спиральной галактики Мессье 88&nbsp;(M88), расположенной примерно в 63 миллионах световых лет от Земли. Учёные считают её хорошим примером [...]]]></description>
+    </item>
+    <item>
+      <title>Нейросеть помогает в создании аккумуляторов нового поколения</title>
+      <link>https://4pda.to/2026/06/07/457189/nejroset_pomogaet_v_sozdanii_akkumulyatorov_novogo_pokoleniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457189/nejroset_pomogaet_v_sozdanii_akkumulyatorov_novogo_pokoleniya/</guid>
+      <pubDate>Sun, 07 Jun 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Чикагского университета разработали нейросеть, способную самостоятельно создавать полноценные формулы электролитов для литий-металлических аккумуляторов. Это должно существенно ускорить [...]]]></description>
+    </item>
+    <item>
+      <title>Картины художников из Новинок, бездомных, детей и бабушек. Открылся самый странный музей Минска</title>
+      <link>https://people.onliner.by/go/1306621</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/07/muzej-naivnogo-iskusstva</guid>
+      <pubDate>Sun, 07 Jun 2026 16:30:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/07/muzej-naivnogo-iskusstva"><img alt="" src="https://content.onliner.by/news/thumbnail/1d1cf99f43e3d823826f043ddfc830f5.jpg" /></a></p><p>Слова «галерея» и «музей» наверняка у многих неразрывно связаны с тяжелым взглядом бабушки на входе, которая видит тебя насквозь и понимает, что ты ноль в искусстве. Это нормально (вернее, не очень, но дело не в вас). Это мы к чему: на этих выходных открыл свои двери музей, в котором каждый сможет насладиться искусством без снобства, а с детским интересом и азартом. Потому что это искусство наивное. Больше тысячи квадратных метров бывшего детского развлекательного центра «Карамелька» превратили в арт-пространство, в котором выставляются работы художников-самоучек со всего мира и ставят уникальность стиля и легкое сумасшествие выше регалий и профильного образования. Рассказываем о новом музее Наивного искусства: вероятно, самом странном музее столицы прямо сейчас.
+</p><p><a href="https://people.onliner.by/2026/06/07/muzej-naivnogo-iskusstva">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Крошечный брелок контроллера GameCube превратили в рабочий геймпад</title>
+      <link>https://4pda.to/2026/06/07/457191/kroshechnyj_brelok_kontrollera_gamecube_prevratili_v_rabochij_gejmpad/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457191/kroshechnyj_brelok_kontrollera_gamecube_prevratili_v_rabochij_gejmpad/</guid>
+      <pubDate>Sun, 07 Jun 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Автор YouTube-канала Brux превратил обычный брелок в форме контроллера GameCube в полностью рабочий геймпад. Проект стал вирусным после того, как выяснилось, что аксессуар действительно можно использовать [...]]]></description>
+    </item>
+    <item>
+      <title>Новый метод 3D-укладки кремния поможет продлить действие закона Мура</title>
+      <link>https://4pda.to/2026/06/07/457193/novyj_metod_3d_ukladki_kremniya_pomozhet_prodlit_dejstvie_zakona_mura/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457193/novyj_metod_3d_ukladki_kremniya_pomozhet_prodlit_dejstvie_zakona_mura/</guid>
+      <pubDate>Sun, 07 Jun 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Университета Иллинойса разработали метод последовательной укладки кремниевых схем друг на друга. Предполагается, что это один из ключевых способов продлить действие закона Мура, когда дальнейшее [...]]]></description>
+    </item>
+    <item>
+      <title>Пожилой разработчик выпустил игру для Commodore Amiga, которую начал делать 37 лет назад</title>
+      <link>https://4pda.to/2026/06/07/457222/pozhiloj_razrabotchik_vypustil_igru_dlya_commodore_amiga_kotoruyu_nachal_delat_37_let_nazad/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457222/pozhiloj_razrabotchik_vypustil_igru_dlya_commodore_amiga_kotoruyu_nachal_delat_37_let_nazad/</guid>
+      <pubDate>Sun, 07 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Игры нередко попадают в производственный ад или вовсе оказываются забытыми на полке, так и не добравшись до релиза. Но один пожилой разработчик решил закончить то, что начал почти 40 лет назад.
+[gallery=0]
+81-летний [...]]]></description>
+    </item>
+    <item>
+      <title>Создана неинвазивная замена кардиостимуляторам</title>
+      <link>https://4pda.to/2026/06/07/457195/sozdana_neinvazivnaya_zamena_kardiostimulyatoram/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457195/sozdana_neinvazivnaya_zamena_kardiostimulyatoram/</guid>
+      <pubDate>Sun, 07 Jun 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи Массачусетского технологического института разработали альтернативу классическим кардиостимуляторам в виде неинвазивной и тонкой наклейки на грудь. Прототип использует сфокусированные ультразвуковые [...]]]></description>
+    </item>
+    <item>
+      <title>Робот-рыба показал общий принцип движения древних беспозвоночных</title>
+      <link>https://4pda.to/2026/06/07/457196/robot_ryba_pokazal_obschij_printsip_dvizheniya_drevnikh_bespozvonochnykh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457196/robot_ryba_pokazal_obschij_printsip_dvizheniya_drevnikh_bespozvonochnykh/</guid>
+      <pubDate>Sun, 07 Jun 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Кембриджа создали робота, который помогает понять, как древние позвоночные могли впервые начать выходить на сушу сотни миллионов лет назад. Проект объединяет под собой компьютерное моделирование [...]]]></description>
     </item>
     <item>
       <title>Если сегодня были в центре Минска, вы точно видели эту колонну. Что там происходило</title>
@@ -371,11 +383,11 @@
       <description><![CDATA[Один из первых британских автопроизводителей&nbsp;AC Cars решил&nbsp;напомнить, за что многие до сих пор любят классические спорткары. Компания представила новую модель&nbsp;AC Cobra GT Coupe — первую [...]]]></description>
     </item>
     <item>
-      <title>Тысячи лошадиных сил на одной площадке. Фоторепортаж с BMW M Fest</title>
+      <title>1000 лошадиных сил под капотом и 100 000 в цене. Самые яркие проекты BMW M Fest (обновлено)</title>
       <link>https://auto.onliner.by/go/1249568</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest</guid>
       <pubDate>Sat, 06 Jun 2026 18:30:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest"><img alt="" src="https://content.onliner.by/news/thumbnail/2314a60805e3f6f2f7a361aea6f2e825.jpg" /></a></p><p>В Минске прошёл BMW M Fest — большой праздник для поклонников баварской марки. На одной площадке собрались владельцы редких и мощных BMW, а также любители тюнинга и автомобильной культуры. Гости могли увидеть десятки заряженных моделей линейки M, эксклюзивные проекты с доработками, необычные окрасы и автомобили, которые редко встретишь на дорогах общего пользования. Самые яркие моменты — в нашем фоторепортаже.</p><p><a href="https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest"><img alt="" src="https://content.onliner.by/news/thumbnail/bce846e7ed7d996d3b2a555f97c6bfb8.jpg" /></a></p><p>Под Минском прошел BMW M Fest: в Стайках вновь собрались самые яркие «эмки» страны, чтобы оглушить зрителей своими выхлопами (а те и рады), похвастаться дорогостоящими доработками и погонять по треку. В прошлом году нам также удалось <a href="https://auto.onliner.by/2025/08/24/bmw-fest-motorsport" target="_blank">пообщаться</a> с владельцами машин, у которых почти по тысяче сил под капотом и по пять нулей в цене. Повторяться не будем, расскажем про проекты, на которые сворачивали головы посетители фестиваля в этот раз. </p><p><a href="https://auto.onliner.by/2026/06/06/tysyachi-loshadinyx-sil-na-odnoj-ploshhadke-fotoreportazh-s-bmw-m-fest">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
@@ -435,14 +447,6 @@
 Студия Creative Assebly [...]]]></description>
     </item>
     <item>
-      <title>Amazon научила складского робота понимать обычную речь</title>
-      <link>https://4pda.to/2026/06/06/457311/amazon_nauchila_skladskogo_robota_ponimat_obychnuyu_rech/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457311/amazon_nauchila_skladskogo_robota_ponimat_obychnuyu_rech/</guid>
-      <pubDate>Sat, 06 Jun 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Amazon представила новую версию складского робота Proteus. Теперь живые сотрудники&nbsp;смогут ставить ему задачи с помощью обычной речи, а не через специальные программы и заученные команды.&nbsp;
-По [...]]]></description>
-    </item>
-    <item>
       <title>В Климовичах после ДТП легковушка повисла на заборе</title>
       <link>https://auto.onliner.by/go/1249541</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/v-klimovichax-posle-dtp</guid>
@@ -475,59 +479,12 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Она живая: The Wolf Among Us 2 получила трейлер и дату выхода [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/06/457356/ona_zhivaya_the_wolf_among_us_2_poluchila_trejler_i_datu_vykhoda_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457356/ona_zhivaya_the_wolf_among_us_2_poluchila_trejler_i_datu_vykhoda_video/</guid>
-      <pubDate>Sat, 06 Jun 2026 10:55:00 +0000</pubDate>
-      <description><![CDATA[Многие геймеры полюбили нуарный детектив The Wolf Among Us и с нетерпением ждали продолжения. Однако сиквел утонул в производственном аду, пережил закрытие студии и несколько переносов, но всё же по-прежнему [...]]]></description>
-    </item>
-    <item>
-      <title>Google Chrome установил новый рекорд скорости</title>
-      <link>https://4pda.to/2026/06/06/457360/google_chrome_ustanovil_novyj_rekord_skorosti/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457360/google_chrome_ustanovil_novyj_rekord_skorosti/</guid>
-      <pubDate>Sat, 06 Jun 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Google сообщила о новом рекорде производительности браузера Chrome на компьютерах Apple. Достичь этого удалось благодаря оптимизации JavaScript и переработке многих процессов «под капотом». В компании [...]]]></description>
-    </item>
-    <item>
-      <title>Гуманоидного робота DR02 учат тушить пожары</title>
-      <link>https://4pda.to/2026/06/06/457313/gumanoidnogo_robota_dr02_uchat_tushit_pozhary/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457313/gumanoidnogo_robota_dr02_uchat_tushit_pozhary/</guid>
-      <pubDate>Sat, 06 Jun 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Deep Robotics опубликовала новое видео с человекоподобным роботом DR02. Вместо привычных демонстраций возможности робота испытывали на улице весьма необычными способами.
-[youtube=sQLSAzqKGAk:640:360:::0]
-На [...]]]></description>
-    </item>
-    <item>
       <title>Почти успели до дождя. В Минске проходит велокарнавал «Viva Ровар» (видео)</title>
       <link>https://auto.onliner.by/go/1249426</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/viva-rovar-26</guid>
       <pubDate>Sat, 06 Jun 2026 10:20:45 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/viva-rovar-26"><img alt="" src="https://content.onliner.by/news/thumbnail/dbca0c9cc4dd6b7840da554b3962aec5.jpg" /></a></p><p>Велокарнавал «Viva Ровар — 2026» из-за погоды уже переносили: с 30 мая на 6 июня. И после теплой недели казалось, что погода наконец взяла верный курс на лето. Но буквально в финишном створе все изменилось: сегодня в Минске похолодание, дождь. Впрочем, настоящий праздник этим не испортить, карнавал, по крайней мере его велосипедную часть, успели провести в нормальных условиях!</p><p><a href="https://auto.onliner.by/2026/06/06/viva-rovar-26">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Toyota покажет водородный болид на легендарной трассе Ле-Мана</title>
-      <link>https://4pda.to/2026/06/06/457309/toyota_pokazhet_vodorodnyj_bolid_na_legendarnoj_trasse_le_mana/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457309/toyota_pokazhet_vodorodnyj_bolid_na_legendarnoj_trasse_le_mana/</guid>
-      <pubDate>Sat, 06 Jun 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Toyota впервые проведёт публичные заезды своего нового гоночного прототипа TR LH2 Racing Prototype, работающего на жидком водороде. Демонстрация состоится перед легендарной гонкой «24 часа Ле-Мана».&nbsp;
-Прототип [...]]]></description>
-    </item>
-    <item>
-      <title>Анонсирована Stellar Blade: Blood Rain с новой героиней [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/06/457357/anonsirovana_stellar_blade_blood_rain_s_novoj_geroinej_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457357/anonsirovana_stellar_blade_blood_rain_s_novoj_geroinej_video/</guid>
-      <pubDate>Sat, 06 Jun 2026 09:10:00 +0000</pubDate>
-      <description><![CDATA[Сразу после успешного релиза Stellar Blade студия Shift Up заявила о создании сиквела. Но на двух играх разработчики останавливаться не собираются — уже готовится приквел экшена.
-[youtube=4aVoaSixc0E:640:360:::0]
-На [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен недорогой vivo V70 Lite с экраном 120 Гц и АКБ на 6500 мАч</title>
-      <link>https://4pda.to/2026/06/06/457361/predstavlen_nedorogoj_vivo_v70_lite_s_ekranom_120_gts_i_akb_na_6500_mach/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457361/predstavlen_nedorogoj_vivo_v70_lite_s_ekranom_120_gts_i_akb_na_6500_mach/</guid>
-      <pubDate>Sat, 06 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Компания vivo без лишнего шума представила новый смартфон V70 Lite. Это модель среднего сегмента с минималистичным дизайном, AMOLED-экраном с высокой частотой обновления, ёмким аккумулятором и поддержкой [...]]]></description>
     </item>
     <item>
       <title>В некоторых городах Беларуси на сутки ограничат продажу алкоголя</title>
@@ -544,14 +501,6 @@
       <pubDate>Sat, 06 Jun 2026 07:45:21 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/na-gomelshhine-voditel-otvleksya-i-vyexal-na-vstrechnuyu-polosu-dva-cheloveka-pogibli"><img alt="" src="https://content.onliner.by/news/thumbnail/934f21d3a4f3c774c2cf20e8d96a4482.jpg" /></a></p><p>Смертельная авария произошла вечером 5 июня в Буда-Кошелевском районе. По предварительной информации, около 18:20 на автодороге Н-4631 Буда-Кошелево — Пытьковка 27-летний водитель автомобиля Jac отвлекся от управления, выехал на встречную полосу и столкнулся с автомобилем ВАЗ.</p><p><a href="https://auto.onliner.by/2026/06/06/na-gomelshhine-voditel-otvleksya-i-vyexal-na-vstrechnuyu-polosu-dva-cheloveka-pogibli">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Брал деньги за контракты: экс-главу мясокомбината отправили в колонию на 5 лет</title>
-      <link>https://money.onliner.by/go/330538</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/06/bral-dengi-za-kontrakty</guid>
-      <pubDate>Sat, 06 Jun 2026 07:41:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/06/bral-dengi-za-kontrakty"><img alt="" src="https://content.onliner.by/news/thumbnail/d33d01083fc3af9c33eda86a30272f48.jpg" /></a></p><p>Бывший генеральный директор одного из крупных мясокомбинатов Брестской области получил 5 лет колонии усиленного режима по делу о взятках.</p><p><a href="https://money.onliner.by/2026/06/06/bral-dengi-za-kontrakty">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
   </channel>
 </rss>
