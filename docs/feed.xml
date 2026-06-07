@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 06 Jun 2026 19:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 03:57:02 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -77,6 +77,20 @@
 <h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>ZimaBoard was the device I began my homelab journey with a couple of years ago. I tried their latest device, <a href="https://itsfoss.com/zimacube-2-review/">ZimaCube 2 and shared the experience in this review</a>. If money is not a problem and you are looking for the comfort of owning a homelab, Zima devices are worth it.</p><p>Jan AI <a href="https://itsfoss.com/jan-ai/">came close to replacing Ollama</a> for Bhuwan with its one-click model downloads, built-in cloud provider support, and local API server. But performance-wise, it disappointed.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p>WSL runs Linux inside Windows. <a href="https://itsfoss.com/winpodx/">Winpodx</a> does the opposite. It spins up a Windows container using Podman and streams individual Windows apps to your Linux desktop via FreeRDP.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>We are now almost halfway through 2026, and <a href="https://www.youtube.com/watch?v=PT8emqAIl7Y">these things still hold up</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In <a href="https://itsfoss.com/gnome-tricks-ubuntu/">GNOME</a>, if you have multiple keyboard layouts enabled, click on the keyboard layout button in the quick settings panel and click the "<em>Show Keyboard Layout</em>" button to get a quick overview of that layout.</p><figure class="kg-card kg-image-card"><img alt="gnome keyboard layouts tip" class="kg-image" height="745" src="https://itsfoss.com/content/images/2026/06/show-layout.png" width="887" /></figure><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Can you spot all the hidden logos in <a href="https://itsfoss.com/quiz/spot-hidden-logo/">this image puzzle</a>?</p><p>A glass of <a href="https://www.winehq.org">Wine</a> to keep the Winslop away. &#127863;&#128521;</p><figure class="kg-card kg-image-card"><img alt="wine linux windows meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/06/MEME16.png" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 5, 1833, <a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Byron</a> met <a href="https://en.wikipedia.org/wiki/Charles_Babbage">Charles Babbage</a> at a party in London and walked away captivated by his mechanical <a href="https://en.wikipedia.org/wiki/Difference_engine">Difference Engine</a>.</p><p>That chance encounter sparked a friendship that led Ada to write what is now recognized as the world's first computer program, over a decade before the word "<em>computer</em>" referred to anything other than a person doing sums.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Manuel, a regular FOSSer is <a href="https://itsfoss.community/t/terminal-do-you-have-recommendation-of-a-tool-where-is-possible-see-the-git-branches-history/15869">looking for suggestions</a> for a terminal app that shows git branch history. If that doesn't interest you, then there's another thread discussing <a href="https://itsfoss.community/t/is-technical-education-failing/15856">whether technical education is failing in Australia</a>.</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17354030.gif" width="1" />]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>«Искусственный лист» превращает CO2 в топливо</title>
+      <link>https://4pda.to/2026/06/06/457329/iskusstvennyj_list_prevraschaet_co2_v_toplivo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457329/iskusstvennyj_list_prevraschaet_co2_v_toplivo/</guid>
+      <pubDate>Sat, 06 Jun 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Йельского университета разработали прототип устройства, который превращает углекислый газ и воду в жидкое топливо метанол. Система работает без внешнего источника электричества, полагаясь&nbsp;только [...]]]></description>
+    </item>
+    <item>
+      <title>AC Cars возродила Cobra Coupe спустя 64 года перерыва</title>
+      <link>https://4pda.to/2026/06/06/457263/ac_cars_vozrodila_cobra_coupe_spustya_64_goda_pereryva/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/06/457263/ac_cars_vozrodila_cobra_coupe_spustya_64_goda_pereryva/</guid>
+      <pubDate>Sat, 06 Jun 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Один из первых британских автопроизводителей&nbsp;AC Cars решил&nbsp;напомнить, за что многие до сих пор любят классические спорткары. Компания представила новую модель&nbsp;AC Cobra GT Coupe — первую [...]]]></description>
     </item>
     <item>
       <title>Тысячи лошадиных сил на одной площадке. Фоторепортаж с BMW M Fest</title>
@@ -438,15 +452,6 @@ Square [...]]]></description>
       <pubDate>Fri, 05 Jun 2026 17:45:44 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/zhivot-krutilo-2-dnya-v-minske-zakryta-populyarnaya-shaurmennaya"><img alt="" src="https://content.onliner.by/news/thumbnail/30d17a8045365e181df52af3fdefb7a3.jpg" /></a></p><p>2 июня в минских пабликах начала появляться информация, что шаурменную «У Грача» закрыла санстанция. Во вторник заведение действительно не работало.&#8230;</p><p><a href="https://people.onliner.by/2026/06/05/zhivot-krutilo-2-dnya-v-minske-zakryta-populyarnaya-shaurmennaya">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Инсайдер: Samsung Galaxy Z Flip8 выйдет в двух версиях SoC</title>
-      <link>https://4pda.to/2026/06/05/457335/insajder_samsung_galaxy_z_flip8_vyjdet_v_dvukh_versiyakh_soc/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457335/insajder_samsung_galaxy_z_flip8_vyjdet_v_dvukh_versiyakh_soc/</guid>
-      <pubDate>Fri, 05 Jun 2026 16:40:00 +0000</pubDate>
-      <description><![CDATA[В сети появились новые
-подробности о предстоящем складном смартфоне Samsung Galaxy Z Flip8. По сообщениям
-инсайдера Lanzuk, опубликованным в корейском блоге Naver, компания выпустит&nbsp;устройство с двумя [...]]]></description>
     </item>
     <item>
       <title>Кинотеатр на берегу, фудкорт и пляж. На Минском море открылась новая локация для отдыха</title>
