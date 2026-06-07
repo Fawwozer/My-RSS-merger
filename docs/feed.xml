@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 07 Jun 2026 08:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:52:27 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -78,6 +78,97 @@
 <h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>ZimaBoard was the device I began my homelab journey with a couple of years ago. I tried their latest device, <a href="https://itsfoss.com/zimacube-2-review/">ZimaCube 2 and shared the experience in this review</a>. If money is not a problem and you are looking for the comfort of owning a homelab, Zima devices are worth it.</p><p>Jan AI <a href="https://itsfoss.com/jan-ai/">came close to replacing Ollama</a> for Bhuwan with its one-click model downloads, built-in cloud provider support, and local API server. But performance-wise, it disappointed.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p>WSL runs Linux inside Windows. <a href="https://itsfoss.com/winpodx/">Winpodx</a> does the opposite. It spins up a Windows container using Podman and streams individual Windows apps to your Linux desktop via FreeRDP.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>We are now almost halfway through 2026, and <a href="https://www.youtube.com/watch?v=PT8emqAIl7Y">these things still hold up</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In <a href="https://itsfoss.com/gnome-tricks-ubuntu/">GNOME</a>, if you have multiple keyboard layouts enabled, click on the keyboard layout button in the quick settings panel and click the "<em>Show Keyboard Layout</em>" button to get a quick overview of that layout.</p><figure class="kg-card kg-image-card"><img alt="gnome keyboard layouts tip" class="kg-image" height="745" src="https://itsfoss.com/content/images/2026/06/show-layout.png" width="887" /></figure><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Can you spot all the hidden logos in <a href="https://itsfoss.com/quiz/spot-hidden-logo/">this image puzzle</a>?</p><p>A glass of <a href="https://www.winehq.org">Wine</a> to keep the Winslop away. &#127863;&#128521;</p><figure class="kg-card kg-image-card"><img alt="wine linux windows meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/06/MEME16.png" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 5, 1833, <a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Byron</a> met <a href="https://en.wikipedia.org/wiki/Charles_Babbage">Charles Babbage</a> at a party in London and walked away captivated by his mechanical <a href="https://en.wikipedia.org/wiki/Difference_engine">Difference Engine</a>.</p><p>That chance encounter sparked a friendship that led Ada to write what is now recognized as the world's first computer program, over a decade before the word "<em>computer</em>" referred to anything other than a person doing sums.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Manuel, a regular FOSSer is <a href="https://itsfoss.community/t/terminal-do-you-have-recommendation-of-a-tool-where-is-possible-see-the-git-branches-history/15869">looking for suggestions</a> for a terminal app that shows git branch history. If that doesn't interest you, then there's another thread discussing <a href="https://itsfoss.community/t/is-technical-education-failing/15856">whether technical education is failing in Australia</a>.</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17354030.gif" width="1" />]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>Если сегодня были в центре Минска, вы точно видели эту колонну. Что там происходило</title>
+      <link>https://people.onliner.by/go/1306688</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/07/esli-segodnya-byli-v-centre-minska-vy-tochno-videli-etu-kolonnu-chto-tam-proisxodilo</guid>
+      <pubDate>Sun, 07 Jun 2026 13:15:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/07/esli-segodnya-byli-v-centre-minska-vy-tochno-videli-etu-kolonnu-chto-tam-proisxodilo"><img alt="" src="https://content.onliner.by/news/thumbnail/596bbe062af0c6eb75ad8e9b46b5d775.jpg" /></a></p><p>В воскресенье центр Минска на несколько часов оказался во власти большой пешей колонны. Сотни, а по визуальным оценкам — тысячи людей прошли по центральным улицам города в рамках традиционного шествия, из-за которого на отдельных участках временно ограничивали движение транспорта.</p><p><a href="https://people.onliner.by/2026/06/07/esli-segodnya-byli-v-centre-minska-vy-tochno-videli-etu-kolonnu-chto-tam-proisxodilo">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В Минской области утонула 22-летняя девушка</title>
+      <link>https://people.onliner.by/go/1306656</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/07/v-minskoj-oblasti-utonula-22-letnyaya-devushka</guid>
+      <pubDate>Sun, 07 Jun 2026 12:24:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/07/v-minskoj-oblasti-utonula-22-letnyaya-devushka"><img alt="" src="https://content.onliner.by/news/thumbnail/5360c45dcd792f07c4986add803a7fd0.jpg" /></a></p><p>Сразу два смертельных происшествия на воде произошли 6 июня в разных регионах Беларуси. В Столбцовском районе Минской области трагедия случилась на реке Сула возле деревни Дудки. Сообщение о происшествии поступило спасателям около полудня. Из воды сотрудники МЧС извлекли тело 22-летней женщины.</p><p><a href="https://people.onliner.by/2026/06/07/v-minskoj-oblasti-utonula-22-letnyaya-devushka">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>BYD разработала прочную алюминиевую раму для автомобилей</title>
+      <link>https://4pda.to/2026/06/07/457250/byd_razrabotala_prochnuyu_alyuminievuyu_ramu_dlya_avtomobilej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457250/byd_razrabotala_prochnuyu_alyuminievuyu_ramu_dlya_avtomobilej/</guid>
+      <pubDate>Sun, 07 Jun 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания рассказала о новой алюминиевой раме для внедорожника Yangwang U8L. По словам производителя, она крепче классической стальной рамы, а её конструкция выдержала испытание подъёмом с нагрузкой [...]]]></description>
+    </item>
+    <item>
+      <title>Китаец всухую выиграл ранговый матч в CS2, управляя сразу двумя персонажами</title>
+      <link>https://4pda.to/2026/06/07/457233/kitaets_vsukhuyu_vyigral_rangovyj_match_v_cs2_upravlyaya_srazu_dvumya_personazhami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457233/kitaets_vsukhuyu_vyigral_rangovyj_match_v_cs2_upravlyaya_srazu_dvumya_personazhami/</guid>
+      <pubDate>Sun, 07 Jun 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[В командных играх каждый геймер хоть раз жаловался на глупых тиммейтов. Один китайских фанат CS2 решил улучшить свои шансы на победу и сыграть сразу за нескольких&nbsp;персонажей. И у него получилось.
+[gallery=0]
+В [...]]]></description>
+    </item>
+    <item>
+      <title>Конь на подиуме и модники в тихой роскоши. В Минске прошел модный показ Fashion Fabrique</title>
+      <link>https://people.onliner.by/go/1306519</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/07/fashion-fabrique-3</guid>
+      <pubDate>Sun, 07 Jun 2026 11:18:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/07/fashion-fabrique-3"><img alt="" src="https://content.onliner.by/news/thumbnail/a66a1a62a9a45e92128877d6628f388f.jpg" /></a></p><p>Обычно после модных ивентов в Минске соцсети наполняются негодованиями и критикой. Но в этот раз подозрительно тихо. Встречаются посты о том, что очередной Fashion Fabrique получился стильным — и придраться-то не к чему. Один только перформанс с конем на подиуме чего стоит. Onlíner вчера тоже потусовался с модниками и посмотрел коллекции дизайнеров. Посмотрите и вы.</p><p><a href="https://people.onliner.by/2026/06/07/fashion-fabrique-3">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Обзор Qrevo Edge 2Pro: флагман для по-настоящему автономной уборки</title>
+      <link>https://4pda.to/2026/06/07/456729/obzor_qrevo_edge_2pro_flagman_dlya_po_nastoyaschemu_avtonomnoj_uborki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/456729/obzor_qrevo_edge_2pro_flagman_dlya_po_nastoyaschemu_avtonomnoj_uborki/</guid>
+      <pubDate>Sun, 07 Jun 2026 11:00:00 +0000</pubDate>
+      <description><![CDATA[Несмотря на байки о максимальной автоматизации, роботы-пылесосы всё же требуют ухода. Например, базовая станция зачастую плохо моет салфетки, так что желательно хотя бы иногда стирать их самостоятельно, [...]]]></description>
+    </item>
+    <item>
+      <title>Робот Pudu D7 создан для заводов нового поколения</title>
+      <link>https://4pda.to/2026/06/07/457197/robot_pudu_d7_sozdan_dlya_zavodov_novogo_pokoleniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457197/robot_pudu_d7_sozdan_dlya_zavodov_novogo_pokoleniya/</guid>
+      <pubDate>Sun, 07 Jun 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания Pudu Robotics представила промышленного робота D7, способного не только выполнять команды, но и учиться в процессе работы. Авторы уверены, что подобные системы помогут упростить автоматизацию [...]]]></description>
+    </item>
+    <item>
+      <title>Спорный дизайн Ferrari Luce попытались исправить тюнингом</title>
+      <link>https://4pda.to/2026/06/07/457192/spornyj_dizajn_ferrari_luce_popytalis_ispravit_tyuningom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457192/spornyj_dizajn_ferrari_luce_popytalis_ispravit_tyuningom/</guid>
+      <pubDate>Sun, 07 Jun 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Дебютный электромобиль&nbsp;Ferrari Luce&nbsp;вызвал бурное обсуждение из-за своего дизайна, к которому, к слову, приложил руку бывший главный дизайнер Apple. В качестве ответа на всеобщую критику&nbsp;ателье [...]]]></description>
+    </item>
+    <item>
+      <title>Новый квантовый чип работает на закрученном свете</title>
+      <link>https://4pda.to/2026/06/07/457182/novyj_kvantovyj_chip_rabotaet_na_zakruchennom_svete/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457182/novyj_kvantovyj_chip_rabotaet_na_zakruchennom_svete/</guid>
+      <pubDate>Sun, 07 Jun 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Стэнфордского университета представили миниатюрный квантовый чип, способным стать&nbsp;альтернативой более дорогостоящим квантовым технологиям. В отличие от большинства современных систем, он [...]]]></description>
+    </item>
+    <item>
+      <title>Новая велодорожка к Минскому морю — какой она получилась?</title>
+      <link>https://auto.onliner.by/go/1249588</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/07/velodorozhka-k-minskomu-moryu</guid>
+      <pubDate>Sun, 07 Jun 2026 09:00:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/07/velodorozhka-k-minskomu-moryu"><img alt="" src="https://content.onliner.by/news/thumbnail/a47b33b9d98fc74e99093958121061f3.jpg" /></a></p><p>В этом году в Минске параллельно ведутся два больших проекта по развитию велосипедной инфраструктуры. Первый в самом разгаре — это <a href="https://auto.onliner.by/2026/05/13/velomarshrut-2" target="_blank">реконструкция маршрута</a> вдоль Слепянской водной системы. Второй, по всей видимости, можно считать завершенным — это новая велодорожка, а по сути продление Главной минской велодорожки от разворотного колечка в Лебяжьем до Минского моря. Что, неужели до самого моря? Ну почти.</p><p><a href="https://auto.onliner.by/2026/06/07/velodorozhka-k-minskomu-moryu">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Представлен компактный электрический Hummer для бездорожья</title>
+      <link>https://4pda.to/2026/06/07/457186/predstavlen_kompaktnyj_elektricheskij_hummer_dlya_bezdorozhya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457186/predstavlen_kompaktnyj_elektricheskij_hummer_dlya_bezdorozhya/</guid>
+      <pubDate>Sun, 07 Jun 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Компания General Motors представила концепт Hummer X. Это среднеразмерный электрический внедорожник, выполненный в кузовах пикапа и SUV. В компании считают, что такая модель наглядно&nbsp;демонстрирует, [...]]]></description>
+    </item>
+    <item>
+      <title>У поваров столовой проверили сумки после смены и нашли продукты на сотни рублей</title>
+      <link>https://money.onliner.by/go/330608</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/07/syry-kolbasy-i-krabovye-palochki-chto-nashli-v-sumkax-povarov-studencheskoj-stolovoj</guid>
+      <pubDate>Sun, 07 Jun 2026 08:22:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/07/syry-kolbasy-i-krabovye-palochki-chto-nashli-v-sumkax-povarov-studencheskoj-stolovoj"><img alt="" src="https://content.onliner.by/news/thumbnail/bb704a4ebd310aea116c9d367e4e7d74.jpg" /></a></p><p>В Минске сотрудники Московского отдела охраны во время рейда задержали трех работниц студенческой столовой, которых заподозрили в хищении продуктов.</p><p><a href="https://money.onliner.by/2026/06/07/syry-kolbasy-i-krabovye-palochki-chto-nashli-v-sumkax-povarov-studencheskoj-stolovoj">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
     </item>
     <item>
       <title>«Вам положен перерасчет». Белорусов предупредили о новой уловке аферистов</title>
@@ -455,115 +546,12 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Реальный запас хода Mercedes-Benz CLA оказался лучше заявленного</title>
-      <link>https://4pda.to/2026/06/06/457257/realnyj_zapas_khoda_mercedes_benz_cla_okazalsya_luchshe_zayavlennogo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457257/realnyj_zapas_khoda_mercedes_benz_cla_okazalsya_luchshe_zayavlennogo/</guid>
-      <pubDate>Sat, 06 Jun 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[Электрический седан Mercedes-Benz CLA показал отличный результат в независимом дорожном тесте Edmunds. В приближённых к реальным сценариях автомобиль не только подтвердил заявленные показатели, но и ощутимо [...]]]></description>
-    </item>
-    <item>
       <title>Брал деньги за контракты: экс-главу мясокомбината отправили в колонию на 5 лет</title>
       <link>https://money.onliner.by/go/330538</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/06/06/bral-dengi-za-kontrakty</guid>
       <pubDate>Sat, 06 Jun 2026 07:41:27 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/06/bral-dengi-za-kontrakty"><img alt="" src="https://content.onliner.by/news/thumbnail/d33d01083fc3af9c33eda86a30272f48.jpg" /></a></p><p>Бывший генеральный директор одного из крупных мясокомбинатов Брестской области получил 5 лет колонии усиленного режима по делу о взятках.</p><p><a href="https://money.onliner.by/2026/06/06/bral-dengi-za-kontrakty">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Эпичный финал. Вышли трейлеры Final Fantasy VII Revelation — последней части масштабного ремейка [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/06/457358/epichnyj_final_vyshli_trejlery_final_fantasy_vii_revelation_poslednej_chasti_masshtabnogo_remejka_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457358/epichnyj_final_vyshli_trejlery_final_fantasy_vii_revelation_poslednej_chasti_masshtabnogo_remejka_video/</guid>
-      <pubDate>Sat, 06 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[В 2020 году Square Enix взялась за ремейк культовой Final Fantasy VII таких масштабов, каких не пытались достичь другие студии. Теперь же история наконец-то подходит к концу.
-[youtube=PH3ox5krci8:640:360:::0]
-Square [...]]]></description>
-    </item>
-    <item>
-      <title>Чип NVIDIA и MediaTek изменит рынок ПК, Россия борется с серым импортом. Главное за неделю</title>
-      <link>https://4pda.to/2026/06/06/457350/chip_nvidia_i_mediatek_izmenit_rynok_pk_rossiya_boretsya_s_serym_importom_glavnoe_za_nedelyu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457350/chip_nvidia_i_mediatek_izmenit_rynok_pk_rossiya_boretsya_s_serym_importom_glavnoe_za_nedelyu/</guid>
-      <pubDate>Sat, 06 Jun 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Разбираем ключевые события уходящей недели. В этом выпуске: обзор Honor 600, национальная система подтверждения ожидания товаров (СПОТ) и анонс платформы RTX Spark.
-Обзор Honor 600
-Смартфону достался [...]]]></description>
-    </item>
-    <item>
-      <title>Tesla запатентовала мини-дворники для камер автопилота</title>
-      <link>https://4pda.to/2026/06/06/457261/tesla_zapatentovala_mini_dvorniki_dlya_kamer_avtopilota/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457261/tesla_zapatentovala_mini_dvorniki_dlya_kamer_avtopilota/</guid>
-      <pubDate>Sat, 06 Jun 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[Tesla получила патент на необычную систему очистки камер, предназначенных для работы автопилота. Разработка должна помочь автомобилям лучше ориентироваться на дороге в дождь, снег и других сложных условиях.
-Владельцам [...]]]></description>
-    </item>
-    <item>
-      <title>Учёным удалось создать 1-нм нанотрубки для электроники будущего</title>
-      <link>https://4pda.to/2026/06/06/457328/uchyonym_udalos_sozdat_1_nm_nanotrubki_dlya_elektroniki_buduschego/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457328/uchyonym_udalos_sozdat_1_nm_nanotrubki_dlya_elektroniki_buduschego/</guid>
-      <pubDate>Sat, 06 Jun 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Учёные Токийского университета создали одни из самых маленьких полупроводниковых нанотрубок в мире. Их диаметр составляет всего 1 нанометр, что примерно в 100 тысяч раз тоньше человеческого волоса.
-Для [...]]]></description>
-    </item>
-    <item>
-      <title>С новыми батареями CATL электрокары смогут проезжать более 1600 км</title>
-      <link>https://4pda.to/2026/06/06/457262/s_novymi_batareyami_catl_elektrokary_smogut_proezzhat_bolee_1600_km/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457262/s_novymi_batareyami_catl_elektrokary_smogut_proezzhat_bolee_1600_km/</guid>
-      <pubDate>Sat, 06 Jun 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Производитель аккумуляторов CATL решил сосредоточиться на литий-воздушных батареях — технологии, которая в будущем может кардинально изменить рынок электромобилей. Если разработка окажется успешной, владельцы [...]]]></description>
-    </item>
-    <item>
-      <title>Корпорация одной фразой создала рынок на миллиарды долларов. Мир очнулся лишь десятилетия спустя</title>
-      <link>https://money.onliner.by/go/330307</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/06/de-beers</guid>
-      <pubDate>Sat, 06 Jun 2026 05:00:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/06/de-beers"><img alt="" src="https://content.onliner.by/news/thumbnail/d418d6367b6463d9d9430daea474f872.jpg" /></a></p><p>Все изменила одна короткая фраза, придуманная уставшей женщиной наспех, в полночь перед сном. Утром результат собственного творчества автору не понравился, но ее мнение никого не интересовало. Главное, что на слоган триумфально отреагировала целевая аудитория. В 1947 году на журнальном развороте впервые появилась реклама, где красивая девушка сверкала кольцом, а под иллюстрацией красовалась надпись «Бриллиант — это навсегда». Эта маркетинговая находка позволила южноафриканскому алмазному гиганту De Beers на протяжении многих десятилетий оставаться безусловным монополистом рынка, заработав на созданном им всеобщем помешательстве миллиарды долларов. Сегодня этот тщательно сконструированный мир трещит по швам: склады корпорации забиты сырьем, цены на него падают, а сама компания выставлена на продажу. Всему виной конкурент, уже не создаваемый природой на протяжении миллиардов лет, а выращиваемый руками ученых в высокотехнологичных лабораториях.</p><p><a href="https://money.onliner.by/2026/06/06/de-beers">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Строили как могли. Необычные дачи родом из 80-х и 90-х</title>
-      <link>https://realt.onliner.by/go/1108475</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/06/dachi-rodom-iz-80-x-i-90-x</guid>
-      <pubDate>Sat, 06 Jun 2026 05:00:25 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/06/dachi-rodom-iz-80-x-i-90-x"><img alt="" src="https://content.onliner.by/news/thumbnail/586b17dcc6d57d3c3d209b196295029d.jpg" /></a></p><p>Время было такое — строили из чего могли и как могли. Удалось достать кирпич — значит, возводили основательный каменный домик. Нет — довольствовались легким щитовым. Но даже в условиях дефицита 80—90-х (а нередко еще и безденежья) люди умудрялись создавать не просто коробки, а нечто оригинальное с архитектурной точки зрения. Цепляющее. Смотрим на памятники предприимчивости и находчивости, которые то и дело встречаются в садоводческих товариществах. И конечно же, прицениваемся.</p><p><a href="https://realt.onliner.by/2026/06/06/dachi-rodom-iz-80-x-i-90-x">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>«За год можно заработать на квартиру в Минске». Белоруска уехала в город будущего</title>
-      <link>https://people.onliner.by/go/1306121</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/06/nashi-v-saudovskoj-aravii</guid>
-      <pubDate>Sat, 06 Jun 2026 05:00:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/06/nashi-v-saudovskoj-aravii"><img alt="" src="https://content.onliner.by/news/thumbnail/d3cbfca36c8991f59137ba7a3476bd40.jpg" /></a></p><p>Екатерина не планировала переезжать на Ближний Восток, даже в путешествии там ни разу не была. Но внезапно в Tinder вместо приглашения на очередное свидание получила предложение по работе. Так она неожиданно для самой себя оказалась в Саудовской Аравии, в городе будущего посреди пустыни. Вместе с <a href="https://pm.by/ru/popup/registration?promocode=8ngz1762254490&amp;t_group=pr&amp;utm_source=pr_av&amp;utm_campaign=ba_casino_uzeslishali_500fs_inhs&amp;utm_medium=cpm&amp;utm_content=banner_statia&amp;utm_term=general_registr_fb100byn500fs&amp;campaign_name=ba_casinouze_500fs_PR_onliner_statia&amp;campaign_id=1951&amp;external_id=&amp;subid=2v05odc.79f.1t1o9v" target="_blank">Betera</a> продолжаем исследовать мир в рубрике <a href="https://people.onliner.by/tag/vot-eto-vas-zaneslo-sp" target="_blank">«Вот это вас занесло!»</a>.</p><p><a href="https://people.onliner.by/2026/06/06/nashi-v-saudovskoj-aravii">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Редкое купе Mazda 929 из 80-х и «ушастый» «Запорожец». А какой была ваша первая машина?</title>
-      <link>https://auto.onliner.by/go/1249377</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/redkoe-kupe-mazda-929-iz-80-x-i-ushastyj-zaporozhec-a-kakoj-byla-vasha-pervaya-mashina</guid>
-      <pubDate>Sat, 06 Jun 2026 05:00:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/redkoe-kupe-mazda-929-iz-80-x-i-ushastyj-zaporozhec-a-kakoj-byla-vasha-pervaya-mashina"><img alt="" src="https://content.onliner.by/news/thumbnail/45353c56d9b3e9ed1310984f925ceb9a.jpg" /></a></p><p>Вместе с организаторами автофестиваля <a href="https://auto.onliner.by/2026/05/05/tachki-otpravlyayutsya-v-turne-avtofestival-projdet-v-pyati-gorodax" target="_blank">«Тачки»</a> продолжаем публиковать истории, которые прислали на конкурс «Моя первая тачка» наши читатели (первую подборку можете найти по <a href="https://auto.onliner.by/2026/05/30/pervye-uchastniki-konkursa-moya-pervaya-tachka" target="_blank">ссылке</a>, а условия конкурса — <a href="https://auto.onliner.by/2026/05/21/s-vas-rasskaz-o-svoej-pervoj-mashine-s-nas-prizy-obyavlyaem-konkurs" target="_blank">тут</a>). Купе Mazda 929 из 80-х, Skoda Felicia и Skoda Octavia — чем запомнились эти машины их владельцам? Какой из них вы бы позавидовали в свое время? А какую и даром бы не приняли? Выбирайте своего фаворита (голосование будет открыто в конце месяца) и пишите в комментариях. </p><p><a href="https://auto.onliner.by/2026/06/06/redkoe-kupe-mazda-929-iz-80-x-i-ushastyj-zaporozhec-a-kakoj-byla-vasha-pervaya-mashina">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>LG показала 32-дюймовый цветной «постер» на электронных чернилах</title>
-      <link>https://4pda.to/2026/06/06/457249/lg_pokazala_32_dyujmovyj_tsvetnoj_poster_na_elektronnykh_chernilakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457249/lg_pokazala_32_dyujmovyj_tsvetnoj_poster_na_elektronnykh_chernilakh/</guid>
-      <pubDate>Sat, 06 Jun 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[LG представила новый дисплей на основе электронных чернил, который может стать альтернативой привычным бумажным плакатам, меню и рекламным вывескам. Он может работать полностью автономно от встроенного [...]]]></description>
-    </item>
-    <item>
-      <title>Дымящийся Bentley растаскивали на сувениры: вспоминаем «самую дорогую» аварию в Беларуси</title>
-      <link>https://auto.onliner.by/go/1155494</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/krasnyi-treugolnik-6</guid>
-      <pubDate>Sat, 06 Jun 2026 04:00:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/krasnyi-treugolnik-6"><img alt="" src="https://content.onliner.by/news/thumbnail/b2a81f037d3740a1b7bfcc919ca67026.jpg" /></a></p><p>Эта авария произошла летом 2013 года и наделала много шума. Летевший на огромной скорости из минского аэропорта люксовый Bentley Continental врезался в Volkswagen Passat. После столкновения Bentley протаранил еще несколько машин, воспламенился и сгорел дотла. К счастью, никто не пострадал, но ущерб оказался ошеломляющим — свыше 300 тысяч евро. И поначалу все шло к тому, что расплачиваться со страховщиками придется студенту минского вуза, находившемуся в ту ночь за рулем «Пассата».</p><p><a href="https://auto.onliner.by/2026/06/06/krasnyi-treugolnik-6">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Canonical Promotes Steam Snap to Stable on ARM64, With Plans to Rebuild It from Scratch Later</title>
-      <link>https://feed.itsfoss.com/link/24361/17353951/arm64-steam-snap-goes-stable</link>
-      <guid isPermaLink="false">6a21106a9fdab3000136f2f8</guid>
-      <pubDate>Thu, 04 Jun 2026 13:04:01 +0000</pubDate>
-      <description><![CDATA[the logos for ubuntu, snapcraft, and steam are placed in the center, the background is mixed shades of green]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
