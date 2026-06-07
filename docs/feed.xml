@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 07 Jun 2026 03:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 08:56:01 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -29,7 +29,8 @@
       <link>https://feed.itsfoss.com/link/24361/17354030/foss-weekly-26-23</link>
       <guid isPermaLink="false">6a1e6add9fdab3000136eb13</guid>
       <pubDate>Thu, 04 Jun 2026 14:38:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p><!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
+      <description><![CDATA[<p><a href="https://itsfoss.com/news/windows-coreutils/">Microsoft has released its own version of Coreutils</a> to bring Linux commands to Windows command prompt. If you can't beat them, join them? This is a big move from the company that once called Linux a "cancer".</p><p><a href="https://itsfoss.com/news/vim-classic-first-release/">Someone forked Vim to keep it free from any AI assisted code contribution</a>. A bit too extreme? You tell me.</p><p>KDE Linux is shaping up well, as <a href="https://itsfoss.com/news/kde-linux-may-2026-update/">May's progress update</a> shows the project dropping its AUR dependency, switching to kde-builder for a faster and more distro-agnostic build system, and replacing KWalletManager with the newer KeepSecret app.</p><p>Valve brought the Steam Deck OLED back after months of absence and quietly raised prices by nearly 50% to cover rising component costs. <a href="https://itsfoss.com/news/steam-deck-oled-stock-out/">People bought them anyway</a>. North America sold out overnight, and if you've been waiting for prices to normalize, <em>don't</em>.</p><p>M5Stack's <a href="https://itsfoss.com/news/cardputerzero-crowdfunding/">CardputerZero</a> is a credit card-sized Linux computer built around a Raspberry Pi Compute Module Zero, with a 46-key keyboard, 1.9-inch display with HDMI out up to 1080p, 8MP Sony camera, Wi-Fi, Bluetooth, Ethernet, and a 1,500mAh battery.</p><p>AlmaLinux Day <a href="https://itsfoss.com/news/almalinux-day-los-angeles/">is coming to Los Angeles</a> on July 18, scheduled the day before SIGGRAPH 2026 to catch the VFX and studio crowd before the larger conference kicks off.</p><p>More <a href="https://itsfoss.com/news/tuta-joins-euro-office-initiative/">European companies are joining hands to push Euro-Office</a>, the ONLYOFFICE clone.</p><p><strong>Here are other highlights of this edition of FOSS Weekly:</strong></p><ul><li>A new tool that feels like a reverse WSL.</li><li>Software that feels open source, but isn't.</li><li>Getting the fastest Arch Linux download mirrors.</li><li>And other Linux news, tips, and, of course, memes!</li></ul><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>GitHub Copilot's metered billing went live this week. What was a predictable monthly subscription <a href="https://www.theregister.com/ai-and-ml/2026/06/02/github-copilot-users-threaten-exit-as-metered-billing-kicks-in/5249826">is now usage-based</a>, with each request priced dynamically by model and context.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal  kg-cta-has-img  ">
             
             <div class="kg-cta-content">
                 
@@ -77,6 +78,192 @@
 <h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>ZimaBoard was the device I began my homelab journey with a couple of years ago. I tried their latest device, <a href="https://itsfoss.com/zimacube-2-review/">ZimaCube 2 and shared the experience in this review</a>. If money is not a problem and you are looking for the comfort of owning a homelab, Zima devices are worth it.</p><p>Jan AI <a href="https://itsfoss.com/jan-ai/">came close to replacing Ollama</a> for Bhuwan with its one-click model downloads, built-in cloud provider support, and local API server. But performance-wise, it disappointed.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p>WSL runs Linux inside Windows. <a href="https://itsfoss.com/winpodx/">Winpodx</a> does the opposite. It spins up a Windows container using Podman and streams individual Windows apps to your Linux desktop via FreeRDP.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>We are now almost halfway through 2026, and <a href="https://www.youtube.com/watch?v=PT8emqAIl7Y">these things still hold up</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In <a href="https://itsfoss.com/gnome-tricks-ubuntu/">GNOME</a>, if you have multiple keyboard layouts enabled, click on the keyboard layout button in the quick settings panel and click the "<em>Show Keyboard Layout</em>" button to get a quick overview of that layout.</p><figure class="kg-card kg-image-card"><img alt="gnome keyboard layouts tip" class="kg-image" height="745" src="https://itsfoss.com/content/images/2026/06/show-layout.png" width="887" /></figure><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Can you spot all the hidden logos in <a href="https://itsfoss.com/quiz/spot-hidden-logo/">this image puzzle</a>?</p><p>A glass of <a href="https://www.winehq.org">Wine</a> to keep the Winslop away. &#127863;&#128521;</p><figure class="kg-card kg-image-card"><img alt="wine linux windows meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/06/MEME16.png" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 5, 1833, <a href="https://en.wikipedia.org/wiki/Ada_Lovelace">Ada Byron</a> met <a href="https://en.wikipedia.org/wiki/Charles_Babbage">Charles Babbage</a> at a party in London and walked away captivated by his mechanical <a href="https://en.wikipedia.org/wiki/Difference_engine">Difference Engine</a>.</p><p>That chance encounter sparked a friendship that led Ada to write what is now recognized as the world's first computer program, over a decade before the word "<em>computer</em>" referred to anything other than a person doing sums.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Manuel, a regular FOSSer is <a href="https://itsfoss.community/t/terminal-do-you-have-recommendation-of-a-tool-where-is-possible-see-the-git-branches-history/15869">looking for suggestions</a> for a terminal app that shows git branch history. If that doesn't interest you, then there's another thread discussing <a href="https://itsfoss.community/t/is-technical-education-failing/15856">whether technical education is failing in Australia</a>.</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17354030.gif" width="1" />]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>«Вам положен перерасчет». Белорусов предупредили о новой уловке аферистов</title>
+      <link>https://money.onliner.by/go/330605</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/07/vam-polozhen-pereraschet-belorusov-predupredili-o-novoj-ulovke-aferistov</guid>
+      <pubDate>Sun, 07 Jun 2026 08:11:25 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/07/vam-polozhen-pereraschet-belorusov-predupredili-o-novoj-ulovke-aferistov"><img alt="" src="https://content.onliner.by/news/thumbnail/0cc7c70a449ecc364bc5beab9df6efb8.jpg" /></a></p><p>В Брестской области участились случаи мошенничества, жертвами которых становятся пожилые люди. На этот раз злоумышленники используют тему перерасчета пенсий и звонят от имени сотрудников социальных служб или пенсионного фонда.</p><p><a href="https://money.onliner.by/2026/06/07/vam-polozhen-pereraschet-belorusov-predupredili-o-novoj-ulovke-aferistov">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Под Гродно в ДТП погиб мотоциклист. Его 17-летняя дочь попала в больницу</title>
+      <link>https://auto.onliner.by/go/1249664</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/07/pod-grodno-v-dtp-pogib-motociklist-ego-17-letnyaya-doch-popala-v-bolnicu</guid>
+      <pubDate>Sun, 07 Jun 2026 08:10:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/07/pod-grodno-v-dtp-pogib-motociklist-ego-17-letnyaya-doch-popala-v-bolnicu"><img alt="" src="https://content.onliner.by/news/thumbnail/36e8b327ceccd10a4e2cb9e252901a83.jpg" /></a></p><p>Смертельная авария произошла вечером 6 июня на трассе М-6 Минск — Гродно — граница Польши. По предварительной информации, около 18:00 вблизи съезда на дорогу Гродно — Стародубовая — Одельск 44-летний водитель мотоцикла Kawasaki столкнулся с грузовиком DAF с полуприцепом.</p><p><a href="https://auto.onliner.by/2026/06/07/pod-grodno-v-dtp-pogib-motociklist-ego-17-letnyaya-doch-popala-v-bolnicu">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Беларуси заработал лимит задолженности по мобильной связи</title>
+      <link>https://tech.onliner.by/go/777616</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/07/v-belarusi-zarabotal-limit-zadolzhennosti-po-mobilnoj-svyazi</guid>
+      <pubDate>Sun, 07 Jun 2026 08:02:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/07/v-belarusi-zarabotal-limit-zadolzhennosti-po-mobilnoj-svyazi"><img alt="" src="https://content.onliner.by/news/thumbnail/c516f1575bbc866d8a72543f957b3965.jpg" /></a></p><p>С 7 июня у абонентов мобильной связи в Беларуси появился лимит на задолженность по услугам связи. Теперь операторы не смогут допускать долг на лицевом счете свыше пяти базовых величин — сейчас это 225 рублей.</p><p><a href="https://tech.onliner.by/2026/06/07/v-belarusi-zarabotal-limit-zadolzhennosti-po-mobilnoj-svyazi">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Робокостюм научит астронавтов работать в невесомости ещё на Земле</title>
+      <link>https://4pda.to/2026/06/07/457184/robokostyum_nauchit_astronavtov_rabotat_v_nevesomosti_eschyo_na_zemle/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457184/robokostyum_nauchit_astronavtov_rabotat_v_nevesomosti_eschyo_na_zemle/</guid>
+      <pubDate>Sun, 07 Jun 2026 07:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Немецкого исследовательского центра искусственного интеллекта и Университета Дуйсбурга — Эссена проверили новый способ подготовки астронавтов к работе в невесомости. Для этого они создали роботизированный [...]]]></description>
+    </item>
+    <item>
+      <title>Звезда кассового хоррора «Обсессия» оказалась скилловым игроком в Call of Duty [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/07/457244/zvezda_kassovogo_khorrora_obsessiya_okazalas_skillovym_igrokom_v_call_of_duty_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457244/zvezda_kassovogo_khorrora_obsessiya_okazalas_skillovym_igrokom_v_call_of_duty_video/</guid>
+      <pubDate>Sun, 07 Jun 2026 07:30:00 +0000</pubDate>
+      <description><![CDATA[Хоррор «Обсессия» взорвал прокат, и люди начали активно узнавать больше деталей о его создателях и актёрах. Например, в сети выяснили, что ведущая актриса является настоящей фанаткой Call of Duty и стримершей.
+[youtube=Mq2Mjd9MKyY:640:360:::0]
+Главную [...]]]></description>
+    </item>
+    <item>
+      <title>Создан эластичный электрогенератор для носимой электроники</title>
+      <link>https://4pda.to/2026/06/07/457183/sozdan_elastichnyj_elektrogenerator_dlya_nosimoj_elektroniki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457183/sozdan_elastichnyj_elektrogenerator_dlya_nosimoj_elektroniki/</guid>
+      <pubDate>Sun, 07 Jun 2026 06:15:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Харбинского технологического института разработали растягиваемый генератор, способный вырабатывать электричество за счёт влаги из окружающей среды.&nbsp;В основе разработки лежит специальный [...]]]></description>
+    </item>
+    <item>
+      <title>Новый рой роботов имитирует текучие материалы</title>
+      <link>https://4pda.to/2026/06/07/457181/novyj_roj_robotov_imitiruet_tekuchie_materialy/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457181/novyj_roj_robotov_imitiruet_tekuchie_materialy/</guid>
+      <pubDate>Sun, 07 Jun 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[Инженеры Корнеллского университета разработали систему Cross-Link Collective, в которой десятки миниатюрных&nbsp;роботов способны самостоятельно объединяться в группы и действовать синхронно.&nbsp;Сами [...]]]></description>
+    </item>
+    <item>
+      <title>Видеокарты дешевеют. Почему?</title>
+      <link>https://tech.onliner.by/go/777276</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/07/pochemu-desheveyut-videokarty</guid>
+      <pubDate>Sun, 07 Jun 2026 05:30:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/07/pochemu-desheveyut-videokarty"><img alt="" src="https://content.onliner.by/news/thumbnail/83f2552f440bf54644ecc0ea63adb450.jpg" /></a></p><p>Уже больше полугода мы живем с тотальной нехваткой чипов памяти. За это время сложилось стойкое мнение: все комплектующие, содержащие в себе этот компонент, стоят очень и очень дорого. Но что если мы скажем вам, что это не совсем так? В последние месяцы стоимость видеокарт значительно снизилась и продолжает снижаться. В этом материале посмотрим на сколько, ответим на вопрос «почему?» и, конечно же, покажем, какие карты покупают чаще всего. </p><p><a href="https://tech.onliner.by/2026/06/07/pochemu-desheveyut-videokarty">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«А Фимка вообще в курсе, что он дикий кабан?» На хуторе у белорусов живет необычный питомец</title>
+      <link>https://people.onliner.by/go/1306192</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/07/kaban-na-xutore</guid>
+      <pubDate>Sun, 07 Jun 2026 05:00:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/07/kaban-na-xutore"><img alt="" src="https://content.onliner.by/news/thumbnail/9c8aac480dcd49e98c25483eba49ad67.jpg" /></a></p><p>Этой весной у белорусов появился новый народный любимец — кабанчик Фимка. Он живет на хуторе вместе с людьми, гуляет по лесу, посещает «спа-процедуры» и просто обожает сладкое. Наблюдать за жизнью «поросэка» (так ласково называет его хозяин) — сплошное умиление и заряд дофамина в одном флаконе. Недаром видео с Фимкой в TikTok набирают тысячи лайков и сотни добрых, ироничных комментариев. <em>«А Фимка вообще в курсе, что он дикий кабан?» </em>— задаются вопросом поклонники животного. Журналисты Onlíner взяли с собой гостинцы и отправились в гости к необычному питомцу.</p><p><a href="https://people.onliner.by/2026/06/07/kaban-na-xutore">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Кафе и импульсивные покупки остались в прошлом». Сколько зарабатывает учитель в райцентре</title>
+      <link>https://money.onliner.by/go/329556</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/07/skolko-zarabatyvaet-uchitel</guid>
+      <pubDate>Sun, 07 Jun 2026 05:00:36 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/07/skolko-zarabatyvaet-uchitel"><img alt="" src="https://content.onliner.by/news/thumbnail/a15b0e7730c107e4fa3e913b845f440f.jpg" /></a></p><p>Семья Ирины живет на ее доход — зарплату учителя и репетиторство, которые приносят около 3200 рублей в месяц. Деньги мужа идут на стройку, чтобы закончить дом как можно быстрее. Ради этой цели читательница отказалась от части привычных трат и пересмотрела отношение к деньгам. Ее историей продолжаем конкурс бюджетов с брендом смартфонов <a href="https://www.instagram.com/infinix.belarus/" target="_blank">Infinix</a>.</p><p><a href="https://money.onliner.by/2026/06/07/skolko-zarabatyvaet-uchitel">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Топ фантастических мультфильмов, которые не стоило пропускать</title>
+      <link>https://tech.onliner.by/go/777454</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/07/fantasticheskaya-animaciya</guid>
+      <pubDate>Sun, 07 Jun 2026 05:00:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/07/fantasticheskaya-animaciya"><img alt="" src="https://content.onliner.by/news/thumbnail/0851a85bb559a1c5d37ce4d76eaed438.jpg" /></a></p><p>Анимация позволяет авторам фантастических историй разгуляться на полную катушку. Если с бюджетом все в порядке, то как для больших, так и для малых экранов реализуются плюс-минус любые затеи — от панковского «Рика и Морти» и до дорогущей «Паутины вселенных». В этот раз мы дернули тумблер субъективности и собрали анимационные проекты, которые как минимум вас удивят, а как максимум — влюбят в себя. Пристегивайтесь, ознакамливайтесь — и приятного просмотра.
+</p><p><a href="https://tech.onliner.by/2026/06/07/fantasticheskaya-animaciya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Мужчина построил себе на крыше панельки самодельный пентхаус с бассейном и зоопарком</title>
+      <link>https://realt.onliner.by/go/1108452</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/07/muzhchina-postroil-2</guid>
+      <pubDate>Sun, 07 Jun 2026 05:00:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/07/muzhchina-postroil-2"><img alt="" src="https://content.onliner.by/news/thumbnail/b126ffe326c0dc8d646b7ff5ea85c0ac.jpg" /></a></p><p>Это сооружение уже на протяжении многих лет притягивает внимание журналистов, а благодаря им — и их читателей, и зрителей. Одни сравнивают его с космическим кораблем или самолетом, каким-то образом угодившим на крышу совершенно обычной многоэтажки 1980-х. Другие не пытаются искать красивых образов и сразу называют его самой уродливой постройкой страны. В 1994 году в польском городе Ястшембе‑Здруй местный житель начал строить себе пентхаус, и вскоре это намерение вышло из-под контроля. По задумке хозяина внутри его должны были развлекать аквариум с хищными рыбами, собственный мини-зоопарк и бассейн, не говоря уже о таком необходимом в каждом доме объекте, как вертолетная площадка. Вместо этого все закончилось бесконечными судами с жилищным кооперативом и городскими властями и решением о демонтаже, который также затягивается. Такой архитектурный казус никак не должен был случиться. Но случился.</p><p><a href="https://realt.onliner.by/2026/06/07/muzhchina-postroil-2">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>The Single Biggest Reason Why ProtonMail is Killing My Productivity</title>
+      <link>https://feed.itsfoss.com/link/24361/17355492/protonmail-canned-response</link>
+      <guid isPermaLink="false">69be089f0a65230001ddec79</guid>
+      <pubDate>Sun, 07 Jun 2026 04:50:01 +0000</pubDate>
+      <description><![CDATA[<p>I use <a href="https://go.getproton.me/aff_c?offer_id=37&amp;aff_id=1173">ProtonMail</a> for all official communication related to It's FOSS. Around 2020, I took their Visionary plan and switched from Google Workspace for the @itsfoss.com emails.</p><p>The bundled offer of email, VPN, calendar, drive and password manager is a good ecosystem in its own. I am happy with their offering and continuous feature additions and improvements. Well, for the most part,</p><p>One thing that I am still missing after all these years is the canned response feature.</p><h2 id="the-lack-of-saved-replies">The lack of saved replies</h2><p>If you have ever used Gmail, you probably would have heard of the 'canned response' feature.</p><figure class="kg-card kg-image-card"><img alt="Gmail canned response" class="kg-image" height="573" src="https://itsfoss.com/content/images/2026/06/gmail-canned-response-2-1.png" width="819" /></figure><p>The idea is simple and it solves a major problem for people who get emails that often need similar replies. A canned response lets you save template responses. It lets you insert the template response in the email. Here, you can quickly modify it and hit the send button.</p><p>Without this feature, I have the usual responses saved in my knowledge base. I have to open that, go to the appropriate response section, copy it and then paste it in Proton Mail, modify the message if needed and then hit the send button.</p><p>This could have been fine if it was a once-a-day activity. But if I have to do it multiple times a day, I surely lose time in it. This is especially frustrating because I am aware of the existence of the canned response feature.</p><p>It's like being forced to use the mouse when you know the same thing can be quickly done through keyboard shortcuts easily and quickly. </p><p>I give you an example. I receive multiple press releases and software coverage requests a day. Often, the reply is similar, with only a little modification needed. Imagine if I could compose the repetitive reply in 2-3 clicks:</p><figure class="kg-card kg-video-card kg-width-regular">
+            <div class="kg-video-container">
+                <video height="572" loop="" poster="https://img.spacergif.org/v1/818x572/0a/spacer.png" preload="metadata" src="https://itsfoss.com/content/media/2026/06/canned-response-gmail-1.mp4" width="818"></video>
+                <div class="kg-video-overlay">
+                    <button class="kg-video-large-play-icon">
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
+                        </svg>
+                    </button>
+                </div>
+                <div class="kg-video-player-container kg-video-hide">
+                    <div class="kg-video-player">
+                        <button class="kg-video-play-icon">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
+                            </svg>
+                        </button>
+                        <button class="kg-video-pause-icon kg-video-hide">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <rect height="22" rx="1.5" ry="1.5" width="7" x="3" y="1"></rect>
+                                <rect height="22" rx="1.5" ry="1.5" width="7" x="14" y="1"></rect>
+                            </svg>
+                        </button>
+                        <span class="kg-video-current-time">0:00</span>
+                        <div class="kg-video-time">
+                            /<span class="kg-video-duration">0:06</span>
+                        </div>
+                        <input class="kg-video-seek-slider" max="100" type="range" value="0" />
+                        <button class="kg-video-playback-rate">1&times;</button>
+                        <button class="kg-video-unmute-icon">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M15.189 2.021a9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h1.794a.249.249 0 0 1 .221.133 9.73 9.73 0 0 0 7.924 4.85h.06a1 1 0 0 0 1-1V3.02a1 1 0 0 0-1.06-.998Z"></path>
+                            </svg>
+                        </button>
+                        <button class="kg-video-mute-icon kg-video-hide">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M16.177 4.3a.248.248 0 0 0 .073-.176v-1.1a1 1 0 0 0-1.061-1 9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h.114a.251.251 0 0 0 .177-.073ZM23.707 1.706A1 1 0 0 0 22.293.292l-22 22a1 1 0 0 0 0 1.414l.009.009a1 1 0 0 0 1.405-.009l6.63-6.631A.251.251 0 0 1 8.515 17a.245.245 0 0 1 .177.075 10.081 10.081 0 0 0 6.5 2.92 1 1 0 0 0 1.061-1V9.266a.247.247 0 0 1 .073-.176Z"></path>
+                            </svg>
+                        </button>
+                        <input class="kg-video-volume-slider" max="100" type="range" value="100" />
+                    </div>
+                </div>
+            </div>
+            
+        </figure><p>I think this feature is more than ten years old and is available for free to all Gmail users. I don't see a reason why ProtonMail cannot offer it.</p><h2 id="there-are-a-few-more-things-that-can-help-us-protonmail-users-save-some-time">There are a few more things that can help us ProtonMail users save some time</h2><p>In Gmail, if you are replying to an email and type Hi its predictive text feature already suggests the responder's name. It does save a few keystrokes.</p><p>Now that is Google but I am sure ProtonMail can work on providing a similar feature without intrusing our privacy.</p><p>How come? Well, Proton does provide a deep search option where messages are downloaded to the system and then you can search through email content. By default, you can only search through the email subject and sender. This way, the Proton server doesn't see your messages and yet you can do a full search.</p><p>Perhaps something on that line to make our lives more convenient? I don't know how technically challenging it could be, that's why it's just a suggestion.</p><p>Another convenient feature would be to make their AI integration more useful. ProtonMail has integrated its (private) <a href="https://itsfoss.com/news/proton-lumo-experience/" rel="noreferrer">Lumo AI</a> but I don't find it helpful.</p><p>Perhaps it can be utilized to provide predective text? If not that, at least it can be used to compose replies to emails?</p><p>For now, it provides a few options: Write for me, proofread, shorten, expand and a couple of options on changing the tone of the message.</p><figure class="kg-card kg-image-card"><img alt="Ai assistant in Protonmail" class="kg-image" height="649" src="https://itsfoss.com/content/images/2026/06/protonmail-ai-assistent-1.png" width="930" /></figure><p>The Write for me feature needs full prompts on what to write. If it could read the reply, locally in the browser, and suggest a response, that would be good. Basically, a "compose a reply" option here.</p><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="308" src="https://itsfoss.com/content/images/2026/06/proton-write-for-me-ai.png" width="623" /></figure><p>I know, not everyone is a fan of AI and many find it repulsive but if Proton has to become a real private alternative to Google Workspace, it has to offer the cutting edge tools and features. And AI is the hottest buzzword that can <a href="https://www.bbc.com/news/articles/c98mrepzgj7o">raise a shoe company's stocks 800% in a single day</a>.</p><p>Come on, good people at Proton. Give us lazy users the boon of template response &#128516;</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17355492.gif" width="1" />]]></description>
+      <category>Opinion</category>
+    </item>
+    <item>
+      <title>Марсоход VaMEx научили передвигаться по дюнам подобно ящерице</title>
+      <link>https://4pda.to/2026/06/07/457180/marsokhod_vamex_nauchili_peredvigatsya_po_dyunam_podobno_yascheritse/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457180/marsokhod_vamex_nauchili_peredvigatsya_po_dyunam_podobno_yascheritse/</guid>
+      <pubDate>Sun, 07 Jun 2026 04:45:00 +0000</pubDate>
+      <description><![CDATA[Инженеры Немецкого центра авиации и космонавтики представили необычную концепцию ровера для исследования Марса. Они предложили необычный дизайн колёс для изучения долины Валлес Маринерис — одной из крупнейших [...]]]></description>
+    </item>
+    <item>
+      <title>C или Ctrl? Геймеры поспорили об управлении в играх из-за странных настроек в 007 First Light</title>
+      <link>https://4pda.to/2026/06/07/457224/c_ili_ctrl_gejmery_posporili_ob_upravlenii_v_igrakh_iz_za_strannykh_nastroek_v_007_first_light/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457224/c_ili_ctrl_gejmery_posporili_ob_upravlenii_v_igrakh_iz_za_strannykh_nastroek_v_007_first_light/</guid>
+      <pubDate>Sun, 07 Jun 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[Большинство игр на ПК использует несколько основных вариантов управления, поэтому геймеры могут интуитивно выбирать правильные кнопки. Но странные решения в 007 First Light поразили игроков настолько, [...]]]></description>
+    </item>
+    <item>
+      <title>Как уговорить ребенка читать летом? Самые интересные книги из школьных списков литературы</title>
+      <link>https://people.onliner.by/go/1123278</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/07/kak-ugovorit-rebenka-chitat-letom-podobrali-samye-interesnye-knigi-iz-shkolnyx-spiskov-literatury</guid>
+      <pubDate>Sun, 07 Jun 2026 04:00:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/07/kak-ugovorit-rebenka-chitat-letom-podobrali-samye-interesnye-knigi-iz-shkolnyx-spiskov-literatury"><img alt="" src="https://content.onliner.by/news/thumbnail/d4a4162a079a1885a7a673f8914df2a9.png" /></a></p><p>Тонны литературы «на лето» часто выглядят как изощренное наказание для ребенка. Но заставлять из-под палки — лучший способ отбить у него желание читать до конца школы. Мы пересобрали стандартные школьные списки и выбрали произведения, которые действительно увлекают. Внутри — обновленный гайд для младших и старших классов: от милых сказок и рассказов нашего детства, которые приятно перечитать вместе, до мощных взрослых романов, меняющих сознание в 17 лет. </p><p><a href="https://people.onliner.by/2026/06/07/kak-ugovorit-rebenka-chitat-letom-podobrali-samye-interesnye-knigi-iz-shkolnyx-spiskov-literatury">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Еще недавно из салона, теперь на вторичке. Что можно купить среди подержанных Geely</title>
+      <link>https://auto.onliner.by/go/1183836</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/07/skolko-stoyat-geely-s-probegom</guid>
+      <pubDate>Sun, 07 Jun 2026 04:00:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/07/skolko-stoyat-geely-s-probegom"><img alt="" src="https://content.onliner.by/news/thumbnail/e6db7d7375f936b56046d82ae3b6daee.jpg" /></a></p><p>Очередной обзор подержанных автомобилей посвящаем кроссоверам Geely. На этот раз ограничимся самыми популярными моделями, которые официально продавались и продаются на нашем рынке, начиная с кроссовера Emgrand X7 (они по-прежнему в цене). Очень много автомобилей выставлено на площадках дилеров и автохаусов, но встречаются объявления и от самих владельцев. Напомним основные характеристики, расскажем о ценах. Попутно посмотрим, какие варианты предлагаются на <a href="https://ab.onliner.by/" target="_blank">«Автобарахолке»</a>.</p><p><a href="https://auto.onliner.by/2026/06/07/skolko-stoyat-geely-s-probegom">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Toyota отменила перспективный электрокар Lexus</title>
+      <link>https://4pda.to/2026/06/07/457194/toyota_otmenila_perspektivnyj_elektrokar_lexus/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/07/457194/toyota_otmenila_perspektivnyj_elektrokar_lexus/</guid>
+      <pubDate>Sun, 07 Jun 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[Японская компания прекратила разработку электрического седана Lexus LF-ZC. Это был один из самых ожидаемых премиальных электромобилей, претендующий на роль флагмана новой электрической линейки бренда.
+Изначально [...]]]></description>
     </item>
     <item>
       <title>«Искусственный лист» превращает CO2 в топливо</title>
@@ -363,127 +550,12 @@ Square [...]]]></description>
       <description><![CDATA[LG представила новый дисплей на основе электронных чернил, который может стать альтернативой привычным бумажным плакатам, меню и рекламным вывескам. Он может работать полностью автономно от встроенного [...]]]></description>
     </item>
     <item>
-      <title>Apple TV+ обошёл Netflix в рейтинге стриминговых сервисов</title>
-      <link>https://4pda.to/2026/06/06/457248/apple_tv_oboshyol_netflix_v_rejtinge_strimingovykh_servisov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457248/apple_tv_oboshyol_netflix_v_rejtinge_strimingovykh_servisov/</guid>
-      <pubDate>Sat, 06 Jun 2026 04:15:00 +0000</pubDate>
-      <description><![CDATA[Исследовательская компания MoffettNathanson представила новый индекс качества стриминговых платформ. По итогам исследования, Apple TV+ сумел опередить Netflix и занять третье место в рейтинге.
-При составлении [...]]]></description>
-    </item>
-    <item>
       <title>Дымящийся Bentley растаскивали на сувениры: вспоминаем «самую дорогую» аварию в Беларуси</title>
       <link>https://auto.onliner.by/go/1155494</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/06/06/krasnyi-treugolnik-6</guid>
       <pubDate>Sat, 06 Jun 2026 04:00:56 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/06/krasnyi-treugolnik-6"><img alt="" src="https://content.onliner.by/news/thumbnail/b2a81f037d3740a1b7bfcc919ca67026.jpg" /></a></p><p>Эта авария произошла летом 2013 года и наделала много шума. Летевший на огромной скорости из минского аэропорта люксовый Bentley Continental врезался в Volkswagen Passat. После столкновения Bentley протаранил еще несколько машин, воспламенился и сгорел дотла. К счастью, никто не пострадал, но ущерб оказался ошеломляющим — свыше 300 тысяч евро. И поначалу все шло к тому, что расплачиваться со страховщиками придется студенту минского вуза, находившемуся в ту ночь за рулем «Пассата».</p><p><a href="https://auto.onliner.by/2026/06/06/krasnyi-treugolnik-6">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Редкий обряд, который проводят лишь в нескольких белорусских деревнях. Фото</title>
-      <link>https://people.onliner.by/go/1306369</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/06/kak-na-polese-kust-vodili-fotoreportazh-s-narodnogo-obryada</guid>
-      <pubDate>Sat, 06 Jun 2026 04:00:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/06/kak-na-polese-kust-vodili-fotoreportazh-s-narodnogo-obryada"><img alt="" src="https://content.onliner.by/news/thumbnail/4ea5cb1031180c2e3da2ff89a940fab2.jpg" /></a></p><p>Вождение куста — древнейший полесский обряд, приуроченный к празднику Троица. В этот день в деревне выбирали самую красивую девушку, украшали ее листьями и цветами, и «Куста» вместе с подругами обходила все дворы, чтобы пожелать хозяевам добра и благополучия. «Свиту» взамен одаривали угощениями и деньгами, а  сопровождалось все действо ритуальными песнями. В Беларуси осталось не так много мест, где проводят этот народный праздник до сих пор. Среди них — агрогородок Дятловичи и деревня Люсино в Брестской области. Фотограф Виктор Драчев посмотрел на аутентичный ритуал и привез яркий фоторепортаж. Показываем!</p><p><a href="https://people.onliner.by/2026/06/06/kak-na-polese-kust-vodili-fotoreportazh-s-narodnogo-obryada">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Tesla Cybertruck впечатлил МЧС Казахстана</title>
-      <link>https://4pda.to/2026/06/06/457251/tesla_cybertruck_vpechatlil_mchs_kazakhstana/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/06/457251/tesla_cybertruck_vpechatlil_mchs_kazakhstana/</guid>
-      <pubDate>Sat, 06 Jun 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Министерство по чрезвычайным ситуациям Казахстана сообщило о планах расширить парк Tesla Cybertruck. Электропикап уже испытали в Алматы, где он показал хорошие результаты во время спасательных операций, [...]]]></description>
-    </item>
-    <item>
-      <title>Молодая белорусская картошка уже на Комаровке. А еще море пионов</title>
-      <link>https://money.onliner.by/go/330429</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/05/molodaya-belorusskaya-kartoshka-uzhe-na-komarovke-a-eshhe-more-pionov</guid>
-      <pubDate>Fri, 05 Jun 2026 20:24:48 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/05/molodaya-belorusskaya-kartoshka-uzhe-na-komarovke-a-eshhe-more-pionov"><img alt="" src="https://content.onliner.by/news/thumbnail/7d85dc1b716d48782f261beb99aa829f.jpg" /></a></p><p>К первым летним выходным Комаровку заполнило море пионов, а еще на прилавках впервые в этом году появилась молодая картошка — уже наша, белорусская, приехавшая из Слуцка. Еще из интересных находок — ранункулюсы, наборы для засолки огурцов и букеты с настроением летнего поля и солнечного дня. Показываем, за чем сейчас стоит охотиться на рынке.
-</p><p><a href="https://money.onliner.by/2026/06/05/molodaya-belorusskaya-kartoshka-uzhe-na-komarovke-a-eshhe-more-pionov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Статистика: 8 ГБ памяти снова становятся нормой в ноутбуках</title>
-      <link>https://4pda.to/2026/06/05/457346/statistika_8_gb_pamyati_snova_stanovyatsya_normoj_v_noutbukakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457346/statistika_8_gb_pamyati_snova_stanovyatsya_normoj_v_noutbukakh/</guid>
-      <pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
-      <description><![CDATA[После нескольких лет борьбы за увеличение объёма оперативной памяти производители ноутбуков неожиданно стали возвращаться к конфигурациям с 8 ГБ ОЗУ. Причины всем известны:&nbsp;рост стоимости памяти на [...]]]></description>
-    </item>
-    <item>
-      <title>Флагманские роботы-пылесосы Dreame доступны со скидкой до 20 тысяч рублей</title>
-      <link>https://4pda.to/2026/06/05/457326/flagmanskie_roboty_pylesosy_dreame_dostupny_so_skidkoj_do_20_tysyach_rublej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457326/flagmanskie_roboty_pylesosy_dreame_dostupny_so_skidkoj_do_20_tysyach_rublej/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:30:00 +0000</pubDate>
-      <description><![CDATA[Dreame начинает лето со скидок на свои самые продвинутые роботы-пылесосы. До 15 июня флагманские модели X60 Ultra Complete и X60 Master можно приобрести по сниженным ценам. Оба устройства относятся к новому [...]]]></description>
-    </item>
-    <item>
-      <title>EZDIY показала адаптер-дисплей для контроля за разъёмом питания видеокарты</title>
-      <link>https://4pda.to/2026/06/05/457353/ezdiy_pokazala_adapter_displej_dlya_kontrolya_za_razyomom_pitaniya_videokarty/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457353/ezdiy_pokazala_adapter_displej_dlya_kontrolya_za_razyomom_pitaniya_videokarty/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:20:00 +0000</pubDate>
-      <description><![CDATA[На выставке Computex 2026 компания EZDIY показала необычный аксессуар для владельцев мощных видеокарт. Адаптер Alpha Temp-Sensing GPU со встроенным дисплеем&nbsp;устанавливается между видеокартой и кабелем [...]]]></description>
-    </item>
-    <item>
-      <title>В одном из каршерингов появилась «копейка»</title>
-      <link>https://auto.onliner.by/go/1249370</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/05/v-odnom-iz-karsheringov-poyavilas-kopejka</guid>
-      <pubDate>Fri, 05 Jun 2026 18:14:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/05/v-odnom-iz-karsheringov-poyavilas-kopejka"><img alt="" src="https://content.onliner.by/news/thumbnail/01d8401ae311044ca68e40d946929114.jpg" /></a></p><p>В автопарке каршеринга Hello появилось новое направление — ретроавтомобили. Первой моделью стала легендарная ВАЗ-2101, более известная как «копейка».</p><p><a href="https://auto.onliner.by/2026/06/05/v-odnom-iz-karsheringov-poyavilas-kopejka">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Microsoft Surface Laptop Ultra получил секретный разъём</title>
-      <link>https://4pda.to/2026/06/05/457343/microsoft_surface_laptop_ultra_poluchil_sekretnyj_razyom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457343/microsoft_surface_laptop_ultra_poluchil_sekretnyj_razyom/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:10:00 +0000</pubDate>
-      <description><![CDATA[На выставке Computex 2026 Microsoft представила новый Surface Laptop Ultra на базе платформы NVIDIA RTX Spark. Однако внимание журналистов привлекли не только характеристики устройства, но и необычный [...]]]></description>
-    </item>
-    <item>
-      <title>Мультсериал Devil May Cry продлили на третий и финальный сезон. Автор объявил себя гением</title>
-      <link>https://4pda.to/2026/06/05/457341/multserial_devil_may_cry_prodlili_na_tretij_i_finalnyj_sezon_avtor_obyavil_sebya_geniem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/05/457341/multserial_devil_may_cry_prodlili_na_tretij_i_finalnyj_sezon_avtor_obyavil_sebya_geniem/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[Геймерам не привыкать к противоречивым экранизациям хороших игр. Мультсериал Devil May Cry, тем не менее, поразил даже видавших виды поклонников оригинальных игр: второй год&nbsp;подряд они с поднятыми [...]]]></description>
-    </item>
-    <item>
-      <title>В Минске снова заработала популярная шаурменная. Ее закрывали после жалоб  (обновлено)</title>
-      <link>https://people.onliner.by/go/1305624</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/05/zhivot-krutilo-2-dnya-v-minske-zakryta-populyarnaya-shaurmennaya</guid>
-      <pubDate>Fri, 05 Jun 2026 17:45:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/zhivot-krutilo-2-dnya-v-minske-zakryta-populyarnaya-shaurmennaya"><img alt="" src="https://content.onliner.by/news/thumbnail/30d17a8045365e181df52af3fdefb7a3.jpg" /></a></p><p>2 июня в минских пабликах начала появляться информация, что шаурменную «У Грача» закрыла санстанция. Во вторник заведение действительно не работало.&#8230;</p><p><a href="https://people.onliner.by/2026/06/05/zhivot-krutilo-2-dnya-v-minske-zakryta-populyarnaya-shaurmennaya">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Кинотеатр на берегу, фудкорт и пляж. На Минском море открылась новая локация для отдыха</title>
-      <link>https://realt.onliner.by/go/1108430</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/05/art-park-port-2</guid>
-      <pubDate>Fri, 05 Jun 2026 15:33:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/05/art-park-port-2"><img alt="" src="https://content.onliner.by/news/thumbnail/dd1ef6fcd7bb9570f3130866b6cede16.jpg" /></a></p><p>Сегодня на берегу Заславского водохранилища заработала новая локация для летнего отдыха. Правда, пока только в тестовом режиме. Площадка получила название «арт‑парк „Порт“». Обещают еду, кино, развлечения и тусовки. Смотрим, что из этого уже реализовано. </p><p><a href="https://realt.onliner.by/2026/06/05/art-park-port-2">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>На что снижают цены перед выходными? Подборка электроники</title>
-      <link>https://money.onliner.by/go/330411</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/05/na-chto-snizhayut-ceny-pered-vyxodnymi-podborka-elektroniki</guid>
-      <pubDate>Fri, 05 Jun 2026 15:20:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/05/na-chto-snizhayut-ceny-pered-vyxodnymi-podborka-elektroniki"><img alt="" src="https://content.onliner.by/news/thumbnail/5bc79e7591cf7045898fd80051e8d204.jpg" /></a></p><p>В новую подборку выгодных предложений из Каталога Onlíner мы собрали полезную электронику — от наушников до телевизора. Актуальные скидки на такие девайсы доходят до 20%. Если вы планировали обновление техники — для вас есть пять идей.</p><p><a href="https://money.onliner.by/2026/06/05/na-chto-snizhayut-ceny-pered-vyxodnymi-podborka-elektroniki">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Городской фестиваль, крутые тачки и любимое кино: планы на выходные</title>
-      <link>https://people.onliner.by/go/1306319</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/05/gorodskoj-festival-krutye-tachki-i-lyubimoe-kino-plany-na-vyxodnye</guid>
-      <pubDate>Fri, 05 Jun 2026 15:13:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/gorodskoj-festival-krutye-tachki-i-lyubimoe-kino-plany-na-vyxodnye"><img alt="" src="https://content.onliner.by/news/thumbnail/0a2e2565a76b306e5f83deb85892b262.jpg" /></a></p><p>Сегодня пятница, а значит впереди два дня отдыха. Вернее так: два летних дня отдыха. Так что помимо шашлыков и вылазок на природу советуем присмотреться к мероприятиям в городе. Куда сходить и что посмотреть, подскажет традиционная афиша.</p><p><a href="https://people.onliner.by/2026/06/05/gorodskoj-festival-krutye-tachki-i-lyubimoe-kino-plany-na-vyxodnye">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Ливни, грозы, до +28: погодный комплект на выходные</title>
-      <link>https://people.onliner.by/go/1306349</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/05/livni-grozy-do-28</guid>
-      <pubDate>Fri, 05 Jun 2026 15:00:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/05/livni-grozy-do-28"><img alt="" src="https://content.onliner.by/news/thumbnail/91541638dd48a16eadc049b8557514f8.jpg" /></a></p><p><p dir="ltr">Лето решило не церемониться и вместо спокойного старта приготовило белорусам комплект из ливней, гроз и порывистого ветра. <a href="https://belgidromet.by/ru" target="_blank">Белгидромет</a> объявил оранжевый уровень опасности: уже в субботу непогода покажет характер по полной программе.</p><p><a href="https://people.onliner.by/2026/06/05/livni-grozy-do-28">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Canonical Promotes Steam Snap to Stable on ARM64, With Plans to Rebuild It from Scratch Later</title>
