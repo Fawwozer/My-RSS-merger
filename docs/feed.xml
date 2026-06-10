@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 09 Jun 2026 20:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 03:42:43 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,20 @@
       <pubDate>Mon, 08 Jun 2026 06:26:47 +0000</pubDate>
       <description><![CDATA[Melia desktop email client]]></description>
       <category>Applications</category>
+    </item>
+    <item>
+      <title>Россияне просят у Microsoft русскую локализацию Fable на платформе Xbox Player Voice</title>
+      <link>https://4pda.to/2026/06/10/457447/rossiyane_prosyat_u_microsoft_russkuyu_lokalizatsiyu_fable_na_platforme_xbox_player_voice/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/10/457447/rossiyane_prosyat_u_microsoft_russkuyu_lokalizatsiyu_fable_na_platforme_xbox_player_voice/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[На днях стало известно, что грядущая Fable не получит русской локализации ни в каком виде — по крайней мере, так гласит страница в Steam. Российские пользователи Xbox просят компанию заняться этим вопросом [...]]]></description>
+    </item>
+    <item>
+      <title>Планшет REDMI Pad 9.7 4G анонсирован в России</title>
+      <link>https://4pda.to/2026/06/10/457440/planshet_redmi_pad_9_7_4g_anonsirovan_v_rossii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/10/457440/planshet_redmi_pad_9_7_4g_anonsirovan_v_rossii/</guid>
+      <pubDate>Wed, 10 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Дистрибьютор diHouse объявил о грядущем старте продаж планшетов&nbsp;REDMI Pad 2 9.7 и REDMI Pad 2 9.7 4G на российском рынке. Оба гаджета представлены в бюджетном ценовом сегменте и ориентированы на базовые [...]]]></description>
     </item>
     <item>
       <title>Дождались: Microsoft ускоряет работу фирменного «Проводника»</title>
@@ -358,14 +372,6 @@ Mini, H-TAB Go и H-TAB Crystal. Устройства ориентированы
       <description><![CDATA[Порой очевидные функции приходится ждать от компаний годами, а иногда и десятилетиями. Похоже, в Apple наконец&nbsp;поняли, что одного-единственного ползунка управления сразу всеми звуками в системе недостаточно. [...]]]></description>
     </item>
     <item>
-      <title>На МКАД появилась четвертая полоса? Некоторые водители так решили (обновлено)</title>
-      <link>https://auto.onliner.by/go/1246423</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/09/chetvertaya-polosa-na-mkad</guid>
-      <pubDate>Tue, 09 Jun 2026 11:06:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/09/chetvertaya-polosa-na-mkad"><img alt="" src="https://content.onliner.by/news/thumbnail/2d4cd5c2a21849c683087069188dca04.jpg" /></a></p><p>На Минской кольцевой — три полосы движения в каждую сторону. Но это в нормальной ситуации и у водителей, которые знают и соблюдают ПДД. Однако очень часто даже при небольших заторах находится тот, кто считает, что на МКАД есть и четвертая полоса, и без очереди старается проехать по ней.</p><p><a href="https://auto.onliner.by/2026/06/09/chetvertaya-polosa-na-mkad">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Авторы Exodus рассказали о создании игры. Часть идей они отложили на сиквел [ВИДЕО]</title>
       <link>https://4pda.to/2026/06/09/457433/avtory_exodus_rasskazali_o_sozdanii_igry_chast_idej_oni_otlozhili_na_sikvel_video/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/09/457433/avtory_exodus_rasskazali_o_sozdanii_igry_chast_idej_oni_otlozhili_na_sikvel_video/</guid>
@@ -402,20 +408,6 @@ Mini, H-TAB Go и H-TAB Crystal. Устройства ориентированы
       <pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
       <description><![CDATA[Компания DJI представила новое
 для себя устройство — блок питания на основе компонентов из нитрида галлия (GaN). Аксессуар с функцией быстрой зарядки может одновременно заряжать до трёх устройств, а его [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi ускорила производительность «кодерской» нейросети MiMo-V2.5-Pro в десять раз</title>
-      <link>https://4pda.to/2026/06/09/457425/xiaomi_uskorila_proizvoditelnost_koderskoj_nejroseti_mimo_v2_5_pro_v_desyat_raz/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/09/457425/xiaomi_uskorila_proizvoditelnost_koderskoj_nejroseti_mimo_v2_5_pro_v_desyat_raz/</guid>
-      <pubDate>Tue, 09 Jun 2026 09:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Xiaomi представила новый режим работы своей большой языковой модели MiMo-V2.5-Pro. При его активации, как утверждают разработчики, скорость генерации кода увеличивается вплоть до 10 раз — правда, [...]]]></description>
-    </item>
-    <item>
-      <title>AOC анонсировала белый 360-герцевый qHD-монитор Q27G4SL6 с быстрым откликом</title>
-      <link>https://4pda.to/2026/06/09/457422/aoc_anonsirovala_belyj_360_gertsevyj_qhd_monitor_q27g4sl6_s_bystrym_otklikom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/09/457422/aoc_anonsirovala_belyj_360_gertsevyj_qhd_monitor_q27g4sl6_s_bystrym_otklikom/</guid>
-      <pubDate>Tue, 09 Jun 2026 09:20:00 +0000</pubDate>
-      <description><![CDATA[В каталоге игровой периферии AOC появился монитор Q27G4SL6/WS с матрицей Fast IPS. Помимо «заряженных» характеристик, новинка примечательна белой расцветкой корпуса, которая не так уж и часто встречается [...]]]></description>
     </item>
     <item>
       <title>Tired of File Size Limits? This Open Source Tool Sends Large Files Directly Browser to Browser</title>
