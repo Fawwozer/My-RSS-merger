@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 14 Jun 2026 09:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:02:43 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -16,6 +16,38 @@
       <description><![CDATA[<p>It's FOSS turns 14 tomorrow. Incidentally, my son turns 1 tomorrow as well. Two milestones the same day call for celebration, right?</p><p>But there is something important that I wanted to share with you and it relates to the future of It's FOSS.</p><p>The thing is that <a href="https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/">Google Search is gone</a>. Not broken but gone. What replaces it is an AI that reads the web, summarizes it, and hands you the answer directly. No links. No clicks. No visits to the sites that actually wrote the content.</p><p>This is not a minor update. This is a <a href="https://moneywise.com/news/top-stories/google-ai-search-overhaul-content-creators-publishers">structural shift in how the internet works</a>.</p><p>For the past two decades, a quiet but fair deal powered the open web: you search, you click, we earn a little from ads, and we use that to keep writing. That deal is over. Google now takes our content, serves the answer, and the publisher gets nothing. Not even a visit.</p><p>Since the launch of ChatGPT, It's FOSS has already lost 80% of its Google search traffic. And it's alarming now.</p><p>I built It's FOSS because I love Linux and open-source software. Not to get rich. I built it because I wanted a place where people could learn Linux for free, stay informed, and feel part of a community that actually cares about what open-source software means. For years, that worked. Ad revenue kept the lights on. We kept creating informational content that helped Linux users all around the world.</p><p>That model is now broken, and no tweak to our content strategy will fix it. This is not an algorithm we can optimize around.</p><p>The big publishers will survive this. They have corporate backing, licensing deals, and investors to absorb the losses. We don't. What we have is you.</p><p>If It's FOSS has ever helped you, fixed a problem, taught you something new, saved you a frustrating hour, this is the moment to return the favor. You want us to continue for 14 more years, right?</p><p>Becoming a Plus member keeps this alive:</p><ul><li>The newsletter you're reading right now</li><li>The tutorials, guides, and news on It's FOSS</li><li>A small, independent voice in a world where content is increasingly written by non-humans for non-humans</li></ul><p><strong>To mark 14 years of It's FOSS (and my son's first birthday), I'm offering $30 off the lifetime membership this week.</strong> This one-time payment also solidifies the trust you have in It's FOSS and keeps us going in the age of AI slop.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://itsfoss.com/lifetime-membership/">Get Lifetime Membership ($30 off)</a></div><p>Not in a position to subscribe? A one-time donation helps too. Every contribution, whatever the size, is a vote for keeping It's FOSS alive, keeping the open web alive.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://ko-fi.com/itsfoss">Make a one-time donation</a></div><p>I've spent years writing about open source because I believe software freedom matters, using a free operating system matters. I still do. But this freedom also needs people willing to sustain the communities that talk about it.</p><p>I'm asking you to be one of those people.</p><h2 id="%F0%9F%93%B0-news-that-matter">&#128240; News That Matter</h2><p>Proton has given us some back-to-back updates. There's an <a href="https://itsfoss.com/news/proton-drive-encryption-upgrades/">encryption overhaul</a> that makes uploads up to 3x faster and downloads up to 2x faster, thanks to a cryptography rewrite. News on how a native GUI client for Linux is in the works, and an official <a href="https://itsfoss.com/news/proton-drive-cli/">CLI offering for Drive</a> that works on Linux, Windows, and macOS.</p><p>A lot has landed in the <a href="https://itsfoss.com/news/onlyoffice-docspace-3-7/">DocSpace 3.7</a> release. You get AI-generated files, DeepSeek, xAI and Google AI support, a complete rework of form filling rooms that now handle PDF creation, room tagging, bulk deletion, and new admin controls.</p><p>Similarly, Collabora have introduced <a href="https://itsfoss.com/news/collabora-code-26-04/">CODE 26.04</a>, possibly their biggest release yet. It includes AI assistance across all three editors, a reworked document comparison tool in Writer, per-user sheet views in Calc, 14 new spreadsheet functions, and a follow-me presentation mode in Impress. Yeah... AI everywhere.</p><p>You know what else is everywhere? systemd. Well... almost. <a href="https://itsfoss.com/news/kaos-first-dinit-image-release/">KaOS has decided to distance itself from systemd and opted for dinit instead</a>.</p><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>ProtonMail is a solid Gmail alternative for privacy-conscious users, but <a href="https://itsfoss.com/opinion/protonmail-canned-response/">the absence of canned responses</a> is still a daily pain point for me.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>Man pages are famously dense, but they're also <a href="https://itsfoss.com/linux-man-page-guide/">the most accurate and complete documentation</a> Linux has.</p><p>Need to send a large file without uploading it to someone else's server first? <a href="https://itsfoss.com/cheezy-pizza/">CheezyPizza</a> does it browser to browser over WebRTC, with no account, no size cap, and no middleman.</p><p><em>Not open source software</em> but <a href="https://itsfoss.com/melia/">Melia</a> is a new Linux desktop email client that takes privacy seriously in ways most clients don't bother with. Tracking pixels are neutralized, incoming emails are verified against SPF, DKIM, and DMARC, and senders whose display names don't match their addresses get flagged automatically.</p><p>If you find Linux Mint running slowly, <a href="https://itsfoss.com/disable-animations-cinnamon-desktop/">try disabling animations and window effects</a>. It may improve the performance a yiny bit and tiny bits help when you are struggling with performance.</p><p>On the contrary, if you have decent hardware, you can <a href="https://itsfoss.com/linux-mint-window-effects/">add eye candy to Linux Mint by adding more desktop effects</a>.</p><h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>Bambu Lab has been on a path to vendor lock-in, and even after outcry from the community over some of its recent moves, they don't seem to be learning anything.</p><p>Luckily, the open source community knows <a href="https://itsfoss.com/news/bambuddy-self-hosted-bambu-lab-alternative/">how to respond to such predatory behavior</a>.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/dank-linux/">Dank Linux</a> is in the Arch+Hyprland zone. It gives you a preconfigured Hyprland to enjoy.</p><p><a href="https://itsfoss.com/aliasvault/">AliasVault</a> can be a refuge from your escape from Bitwarden, seeing how they have been <a href="https://itsfoss.com/news/bitwarden-quiet-changes/">pulling off some major moves quietly</a>.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>If you use top to monitor processes in Linux, you ought to know some of its <a href="https://www.youtube.com/watch?v=0Z2ivTFPXao">lesser-known commands</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>If you are on a <a href="https://itsfoss.com/gnome-tricks-ubuntu/">GNOME</a> setup, then you can enable certain user interface settings on the <a href="https://apps.gnome.org/en/Resources/?ref=itsfoss.com">Resources</a> app to display important usage and hardware-related details in the sidebar at all times.</p><p>Go into the "<em>Preferences</em>" menu via the hamburger button (<em>looks like three lines</em>), then under the "General" tab, look for these options and enable them:</p><ul><li>Show Usage Details in Sidebar</li><li>Show Device Descriptions in Sidebar</li></ul><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="631" src="https://itsfoss.com/content/images/2026/06/gnome-resources-settings.png" width="1060" /></figure><p><strong>Suggested Read &#128214;:</strong> <a href="https://itsfoss.com/comparison/mission-center-vs-resources/"><em>Mission Center vs. Resources</em></a></p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>There have been many instances of the open source community striking back at projects that locked down. We have <a href="https://itsfoss.com/quiz/community-strikes-back/">a puzzle</a> that will test your knowledge of such occurrences.</p><p>Can you help this Arch user? &#129315;</p><figure class="kg-card kg-image-card"><img alt="BTW Arch" class="kg-image" height="545" src="https://itsfoss.com/content/images/2026/06/btw-arch-version.jpeg" width="960" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 7, 1954, <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>, the mathematician who conceived the theoretical blueprint for modern computers and helped crack <a href="https://en.wikipedia.org/wiki/Enigma_machine">Enigma cipher</a> at <a href="https://en.wikipedia.org/wiki/Bletchley_Park">Bletchley Park</a>, reportedly took his own life at age 41.</p><p>His work helped shorten World War II and laid the foundation for every computer running today.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: A newcomer is asking <a href="https://itsfoss.community/t/which-web-browsers-do-you-use/15897">which web browsers</a> his fellow FOSSers are using. Care to contribute?</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17359527.gif" width="1" />]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>В Китае запустили роботов-змей для патрулирования электролиний</title>
+      <link>https://4pda.to/2026/06/14/457600/v_kitae_zapustili_robotov_zmej_dlya_patrulirovaniya_elektrolinij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457600/v_kitae_zapustili_robotov_zmej_dlya_patrulirovaniya_elektrolinij/</guid>
+      <pubDate>Sun, 14 Jun 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Китайские энергетики начали использовать необычных роботов в форме змей для проверки линий электропередачи. Прототипы способны ползать по проводам, обследуя их с помощью камер и датчиков.&nbsp;
+Роботы [...]]]></description>
+    </item>
+    <item>
+      <title>Игрок в Path of Exile 2 пожертвовал редким персонажем 100 уровня во благо всех остальных</title>
+      <link>https://4pda.to/2026/06/14/457577/igrok_v_path_of_exile_2_pozhertvoval_redkim_personazhem_100_urovnya_vo_blago_vsekh_ostalnykh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457577/igrok_v_path_of_exile_2_pozhertvoval_redkim_personazhem_100_urovnya_vo_blago_vsekh_ostalnykh/</guid>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[Path of Exile 2 скрывает множество вещей,&nbsp;которые обнаружили далеко не все геймеры. И недавно фанаты раскрыли очень интересную и символическую механику, которая позволяет оставить след в истории игры.
+[youtube=dumk5X81kJw:640:360:::0]
+Первым [...]]]></description>
+    </item>
+    <item>
+      <title>Конденсатор на водной основе выдерживает 60 000 циклов зарядки</title>
+      <link>https://4pda.to/2026/06/14/457551/kondensator_na_vodnoj_osnove_vyderzhivaet_60_000_tsiklov_zaryadki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457551/kondensator_na_vodnoj_osnove_vyderzhivaet_60_000_tsiklov_zaryadki/</guid>
+      <pubDate>Sun, 14 Jun 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Немецкие исследователи создали необычный накопитель энергии, в котором ключевую роль играет обычная вода. Помимо жидкости в прототипе под названием Blue Capacitor используются ещё два&nbsp;распространённых [...]]]></description>
+    </item>
+    <item>
+      <title>Peugeot показала электрический хэтчбек E-208 GTi</title>
+      <link>https://4pda.to/2026/06/14/457469/peugeot_pokazala_elektricheskij_khetchbek_e_208_gti/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457469/peugeot_pokazala_elektricheskij_khetchbek_e_208_gti/</guid>
+      <pubDate>Sun, 14 Jun 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Французская компания готовит премьеру нового спортивного хэтчбека E-208 GTi. Модель станет частью празднования 100-летия участия бренда в легендарной гонке «24 часа Ле-Мана».&nbsp;
+Серийная версия E-208 [...]]]></description>
     </item>
     <item>
       <title>Двое гомельчан несколько лет продавали данные банковских карт</title>
@@ -42,7 +74,14 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>В минском метро парень заступился за девушку и оказался в больнице. Нападавший даже укусил его</title>
+      <title>Новые 3D-панели помогут сигналу 6G проходить внутри помещений</title>
+      <link>https://4pda.to/2026/06/14/457464/novye_3d_paneli_pomogut_signalu_6g_prokhodit_vnutri_pomeschenij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457464/novye_3d_paneli_pomogut_signalu_6g_prokhodit_vnutri_pomeschenij/</guid>
+      <pubDate>Sun, 14 Jun 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Сети 6G обещают невероятно высокие скорости передачи данных, но у них есть серьёзный недостаток. Сигнал нового поколения плохо проходит через стены, углы и другие препятствия. Из-за этого даже обычное [...]]]></description>
+    </item>
+    <item>
+      <title>Просьба оставить девушку в покое закончилась дракой в метро</title>
       <link>https://people.onliner.by/go/1308390</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/06/14/v-minskom-metro-paren-zastupilsya-za-devushku-i-okazalsya-v-bolnice-napadavshij-dazhe-ukusil-ego</guid>
       <pubDate>Sun, 14 Jun 2026 09:14:47 +0000</pubDate>
@@ -56,6 +95,13 @@
       <pubDate>Sun, 14 Jun 2026 09:12:00 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/14/pod-smolevichami-zametili"><img alt="" src="https://content.onliner.by/news/thumbnail/d338bee820361f754a6ee0ca1a57d38f.jpg" /></a></p><p>В Threads набирает популярность видео, снятое утром недалеко от Смолевичей. На кадрах виден лось, который вышел к оживленной трассе и, судя по всему, решил не рисковать.</p><p><a href="https://auto.onliner.by/2026/06/14/pod-smolevichami-zametili">Читать далее…</a></p>]]></description>
       <category>Авто</category>
+    </item>
+    <item>
+      <title>В Китае открывают круглосуточные магазины с робопродавцами</title>
+      <link>https://4pda.to/2026/06/14/457466/v_kitae_otkryvayut_kruglosutochnye_magaziny_s_roboprodavtsami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457466/v_kitae_otkryvayut_kruglosutochnye_magaziny_s_roboprodavtsami/</guid>
+      <pubDate>Sun, 14 Jun 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[На набережной района Хунхам в Гонконге&nbsp;готовится к открытию необычный круглосуточный магазин. Его главной особенностью станет человекоподобный робот по прозвищу Сяо Гай, который будет встречать покупателей, [...]]]></description>
     </item>
     <item>
       <title>Стало известно, сколько зарабатывают чиновники в Беларуси</title>
@@ -368,67 +414,6 @@ Da Han [...]]]></description>
       <pubDate>Sat, 13 Jun 2026 07:40:22 +0000</pubDate>
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/13/v-minskoj-oblasti-gorelo-proizvodstvo-mchs-ponadobilos-9-mashin"><img alt="" src="https://content.onliner.by/news/thumbnail/f0eeaa243ccb8e28c1c58bc4b1b86cd4.jpg" /></a></p><p>Возгорание возникло на территории производственного здания в Стародорожском районе. По данным МЧС, на месте происшествия наблюдалось открытое горение здания цеха по производству и фасовке пеллетного топлива. Как <a href="https://t.me/mchs112by/13049" target="_blank">отмечают</a> спасатели, в момент возникновения пожара в цехе находилось 100 тонн пеллет <strong></strong>и оборудование для изготовления гранул.</p><p><a href="https://realt.onliner.by/2026/06/13/v-minskoj-oblasti-gorelo-proizvodstvo-mchs-ponadobilos-9-mashin">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Худший сценарий для мировой экономики? Что будет, если Ормузский пролив останется закрытым</title>
-      <link>https://money.onliner.by/go/331184</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/13/chto-budet-esli-ormuzskij-proliv-ostanetsya-zakrytym</guid>
-      <pubDate>Sat, 13 Jun 2026 07:34:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/13/chto-budet-esli-ormuzskij-proliv-ostanetsya-zakrytym"><img alt="" src="https://content.onliner.by/news/thumbnail/88521ebdabf4b4fa9b68ad2665c7c8b1.jpg" /></a></p><p>Ормузский пролив уже больше трех месяцев остается в центре внимания всего мира. После ударов по Ирану оказался заблокирован важнейший маршрут, через который страны Персидского залива экспортируют нефть и газ. За три месяца нефть Brent поднималась почти до $100 за баррель, а цены на авиатопливо в отдельных регионах выросли до рекордных уровней. Тем временем США и Иран могут уже в ближайшее время договориться об открытии этого важного пути. Но что будет, если этого не случится? </p><p><a href="https://money.onliner.by/2026/06/13/chto-budet-esli-ormuzskij-proliv-ostanetsya-zakrytym">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Ошибка на миллионы. Xbox раскрыла, сколько потеряла из-за повышения цен на Game Pass</title>
-      <link>https://4pda.to/2026/06/13/457524/oshibka_na_milliony_xbox_raskryla_skolko_poteryala_iz_za_povysheniya_tsen_na_game_pass/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457524/oshibka_na_milliony_xbox_raskryla_skolko_poteryala_iz_za_povysheniya_tsen_na_game_pass/</guid>
-      <pubDate>Sat, 13 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Microsoft уже долгое время пытается закрыть убытки Xbox, в том числе повышая цены на свою подписку Game Pass. Вот только оказалось, что геймеры не готовы с этим мириться.
-Стратегический директор [...]]]></description>
-    </item>
-    <item>
-      <title>Новый транзистор сокращает число компонентов в чипах на 75%</title>
-      <link>https://4pda.to/2026/06/13/457458/novyj_tranzistor_sokraschaet_chislo_komponentov_v_chipakh_na_75/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457458/novyj_tranzistor_sokraschaet_chislo_komponentov_v_chipakh_na_75/</guid>
-      <pubDate>Sat, 13 Jun 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[Исследователи из южнокорейского университета POSTECH представили новый тип транзистора, который способен выполнять сразу несколько функций внутри электронной схемы. По словам разработчиков, такая конструкция [...]]]></description>
-    </item>
-    <item>
-      <title>Кофе научились заваривать звуком, а не кипятком</title>
-      <link>https://4pda.to/2026/06/13/457545/kofe_nauchilis_zavarivat_zvukom_a_ne_kipyatkom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457545/kofe_nauchilis_zavarivat_zvukom_a_ne_kipyatkom/</guid>
-      <pubDate>Sat, 13 Jun 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Университета Нового Южного Уэльса в Австралии придумали необычный способ готовить эспрессо без горячей воды. Вместо нагрева они используют ультразвуковые волны, которые буквально выбивают&nbsp;вкус [...]]]></description>
-    </item>
-    <item>
-      <title>Твердотельные аккумуляторы Donut Lab оказались большим обманом</title>
-      <link>https://4pda.to/2026/06/13/457470/tverdotelnye_akkumulyatory_donut_lab_okazalis_bolshim_obmanom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457470/tverdotelnye_akkumulyatory_donut_lab_okazalis_bolshim_obmanom/</guid>
-      <pubDate>Sat, 13 Jun 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Donut Lab, обещавшая революцию на рынке аккумуляторов, оказалась в центре крупного скандала. Независимое расследование блогера Ziroth с участием более 20 экспертов по аккумуляторным технологиям [...]]]></description>
-    </item>
-    <item>
-      <title>Toyota представила GRMN Corolla для любителей трека</title>
-      <link>https://4pda.to/2026/06/13/457462/toyota_predstavila_grmn_corolla_dlya_lyubitelej_treka/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457462/toyota_predstavila_grmn_corolla_dlya_lyubitelej_treka/</guid>
-      <pubDate>Sat, 13 Jun 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Toyota представила новую GRMN Corolla — самую продвинутую&nbsp;версию спортивного хэтчбека. Аббревиатура GRMN расшифровывается как Gazoo Racing Meister of N&#252;rburgring и используется только для&nbsp;экстремальных [...]]]></description>
-    </item>
-    <item>
-      <title>Сын Гейба Ньюэлла участвует в престижной гонке «24 часа Ле-Мана» (игровых)</title>
-      <link>https://4pda.to/2026/06/13/457573/syn_gejba_nyuella_uchastvuet_v_prestizhnoj_gonke_24_chasa_le_mana_igrovykh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457573/syn_gejba_nyuella_uchastvuet_v_prestizhnoj_gonke_24_chasa_le_mana_igrovykh/</guid>
-      <pubDate>Sat, 13 Jun 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Пока глава Valve Гейб Ньюэлл наслаждается своеобразной пенсией на личной яхте, его сын нашёл другое увлечение — гонки. И скоро он перейдёт на новый уровень.
-[gallery=0]
-Пользователи Reddit обнаружили, [...]]]></description>
-    </item>
-    <item>
-      <title>Sena объединила мотошлем и систему связи</title>
-      <link>https://4pda.to/2026/06/13/457461/sena_obedinila_motoshlem_i_sistemu_svyazi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457461/sena_obedinila_motoshlem_i_sistemu_svyazi/</guid>
-      <pubDate>Sat, 13 Jun 2026 04:15:00 +0000</pubDate>
-      <description><![CDATA[Компания Sena представила Outlander — свой первый мотошлем со встроенными ИИ-функциями. Модель избавляет владельцев двухколёсного транспорта от необходимости использовать отдельные гарнитуры.
-Шлем получил [...]]]></description>
     </item>
   </channel>
 </rss>
