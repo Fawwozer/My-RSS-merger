@@ -5,17 +5,68 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 14 Jun 2026 14:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 19:26:28 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>FOSS Weekly #26.24: Dank Linux Review, BitWarden Alternative, Mint Tips (And an Important Message)</title>
-      <link>https://feed.itsfoss.com/link/24361/17359527/foss-weekly-26-24</link>
-      <guid isPermaLink="false">6a2930dca14085000110e82a</guid>
-      <pubDate>Thu, 11 Jun 2026 14:27:39 +0000</pubDate>
-      <description><![CDATA[<p>It's FOSS turns 14 tomorrow. Incidentally, my son turns 1 tomorrow as well. Two milestones the same day call for celebration, right?</p><p>But there is something important that I wanted to share with you and it relates to the future of It's FOSS.</p><p>The thing is that <a href="https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/">Google Search is gone</a>. Not broken but gone. What replaces it is an AI that reads the web, summarizes it, and hands you the answer directly. No links. No clicks. No visits to the sites that actually wrote the content.</p><p>This is not a minor update. This is a <a href="https://moneywise.com/news/top-stories/google-ai-search-overhaul-content-creators-publishers">structural shift in how the internet works</a>.</p><p>For the past two decades, a quiet but fair deal powered the open web: you search, you click, we earn a little from ads, and we use that to keep writing. That deal is over. Google now takes our content, serves the answer, and the publisher gets nothing. Not even a visit.</p><p>Since the launch of ChatGPT, It's FOSS has already lost 80% of its Google search traffic. And it's alarming now.</p><p>I built It's FOSS because I love Linux and open-source software. Not to get rich. I built it because I wanted a place where people could learn Linux for free, stay informed, and feel part of a community that actually cares about what open-source software means. For years, that worked. Ad revenue kept the lights on. We kept creating informational content that helped Linux users all around the world.</p><p>That model is now broken, and no tweak to our content strategy will fix it. This is not an algorithm we can optimize around.</p><p>The big publishers will survive this. They have corporate backing, licensing deals, and investors to absorb the losses. We don't. What we have is you.</p><p>If It's FOSS has ever helped you, fixed a problem, taught you something new, saved you a frustrating hour, this is the moment to return the favor. You want us to continue for 14 more years, right?</p><p>Becoming a Plus member keeps this alive:</p><ul><li>The newsletter you're reading right now</li><li>The tutorials, guides, and news on It's FOSS</li><li>A small, independent voice in a world where content is increasingly written by non-humans for non-humans</li></ul><p><strong>To mark 14 years of It's FOSS (and my son's first birthday), I'm offering $30 off the lifetime membership this week.</strong> This one-time payment also solidifies the trust you have in It's FOSS and keeps us going in the age of AI slop.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://itsfoss.com/lifetime-membership/">Get Lifetime Membership ($30 off)</a></div><p>Not in a position to subscribe? A one-time donation helps too. Every contribution, whatever the size, is a vote for keeping It's FOSS alive, keeping the open web alive.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://ko-fi.com/itsfoss">Make a one-time donation</a></div><p>I've spent years writing about open source because I believe software freedom matters, using a free operating system matters. I still do. But this freedom also needs people willing to sustain the communities that talk about it.</p><p>I'm asking you to be one of those people.</p><h2 id="%F0%9F%93%B0-news-that-matter">&#128240; News That Matter</h2><p>Proton has given us some back-to-back updates. There's an <a href="https://itsfoss.com/news/proton-drive-encryption-upgrades/">encryption overhaul</a> that makes uploads up to 3x faster and downloads up to 2x faster, thanks to a cryptography rewrite. News on how a native GUI client for Linux is in the works, and an official <a href="https://itsfoss.com/news/proton-drive-cli/">CLI offering for Drive</a> that works on Linux, Windows, and macOS.</p><p>A lot has landed in the <a href="https://itsfoss.com/news/onlyoffice-docspace-3-7/">DocSpace 3.7</a> release. You get AI-generated files, DeepSeek, xAI and Google AI support, a complete rework of form filling rooms that now handle PDF creation, room tagging, bulk deletion, and new admin controls.</p><p>Similarly, Collabora have introduced <a href="https://itsfoss.com/news/collabora-code-26-04/">CODE 26.04</a>, possibly their biggest release yet. It includes AI assistance across all three editors, a reworked document comparison tool in Writer, per-user sheet views in Calc, 14 new spreadsheet functions, and a follow-me presentation mode in Impress. Yeah... AI everywhere.</p><p>You know what else is everywhere? systemd. Well... almost. <a href="https://itsfoss.com/news/kaos-first-dinit-image-release/">KaOS has decided to distance itself from systemd and opted for dinit instead</a>.</p><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>ProtonMail is a solid Gmail alternative for privacy-conscious users, but <a href="https://itsfoss.com/opinion/protonmail-canned-response/">the absence of canned responses</a> is still a daily pain point for me.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>Man pages are famously dense, but they're also <a href="https://itsfoss.com/linux-man-page-guide/">the most accurate and complete documentation</a> Linux has.</p><p>Need to send a large file without uploading it to someone else's server first? <a href="https://itsfoss.com/cheezy-pizza/">CheezyPizza</a> does it browser to browser over WebRTC, with no account, no size cap, and no middleman.</p><p><em>Not open source software</em> but <a href="https://itsfoss.com/melia/">Melia</a> is a new Linux desktop email client that takes privacy seriously in ways most clients don't bother with. Tracking pixels are neutralized, incoming emails are verified against SPF, DKIM, and DMARC, and senders whose display names don't match their addresses get flagged automatically.</p><p>If you find Linux Mint running slowly, <a href="https://itsfoss.com/disable-animations-cinnamon-desktop/">try disabling animations and window effects</a>. It may improve the performance a yiny bit and tiny bits help when you are struggling with performance.</p><p>On the contrary, if you have decent hardware, you can <a href="https://itsfoss.com/linux-mint-window-effects/">add eye candy to Linux Mint by adding more desktop effects</a>.</p><h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>Bambu Lab has been on a path to vendor lock-in, and even after outcry from the community over some of its recent moves, they don't seem to be learning anything.</p><p>Luckily, the open source community knows <a href="https://itsfoss.com/news/bambuddy-self-hosted-bambu-lab-alternative/">how to respond to such predatory behavior</a>.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/dank-linux/">Dank Linux</a> is in the Arch+Hyprland zone. It gives you a preconfigured Hyprland to enjoy.</p><p><a href="https://itsfoss.com/aliasvault/">AliasVault</a> can be a refuge from your escape from Bitwarden, seeing how they have been <a href="https://itsfoss.com/news/bitwarden-quiet-changes/">pulling off some major moves quietly</a>.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>If you use top to monitor processes in Linux, you ought to know some of its <a href="https://www.youtube.com/watch?v=0Z2ivTFPXao">lesser-known commands</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>If you are on a <a href="https://itsfoss.com/gnome-tricks-ubuntu/">GNOME</a> setup, then you can enable certain user interface settings on the <a href="https://apps.gnome.org/en/Resources/?ref=itsfoss.com">Resources</a> app to display important usage and hardware-related details in the sidebar at all times.</p><p>Go into the "<em>Preferences</em>" menu via the hamburger button (<em>looks like three lines</em>), then under the "General" tab, look for these options and enable them:</p><ul><li>Show Usage Details in Sidebar</li><li>Show Device Descriptions in Sidebar</li></ul><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="631" src="https://itsfoss.com/content/images/2026/06/gnome-resources-settings.png" width="1060" /></figure><p><strong>Suggested Read &#128214;:</strong> <a href="https://itsfoss.com/comparison/mission-center-vs-resources/"><em>Mission Center vs. Resources</em></a></p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>There have been many instances of the open source community striking back at projects that locked down. We have <a href="https://itsfoss.com/quiz/community-strikes-back/">a puzzle</a> that will test your knowledge of such occurrences.</p><p>Can you help this Arch user? &#129315;</p><figure class="kg-card kg-image-card"><img alt="BTW Arch" class="kg-image" height="545" src="https://itsfoss.com/content/images/2026/06/btw-arch-version.jpeg" width="960" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 7, 1954, <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>, the mathematician who conceived the theoretical blueprint for modern computers and helped crack <a href="https://en.wikipedia.org/wiki/Enigma_machine">Enigma cipher</a> at <a href="https://en.wikipedia.org/wiki/Bletchley_Park">Bletchley Park</a>, reportedly took his own life at age 41.</p><p>His work helped shorten World War II and laid the foundation for every computer running today.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: A newcomer is asking <a href="https://itsfoss.community/t/which-web-browsers-do-you-use/15897">which web browsers</a> his fellow FOSSers are using. Care to contribute?</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17359527.gif" width="1" />]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Потолочный светильник Philips Skylight имитирует окно в небо</title>
+      <link>https://4pda.to/2026/06/14/457553/potolochnyj_svetilnik_philips_skylight_imitiruet_okno_v_nebo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457553/potolochnyj_svetilnik_philips_skylight_imitiruet_okno_v_nebo/</guid>
+      <pubDate>Sun, 14 Jun 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Philips представила необычный потолочный светильник Skylight, который создаёт впечатление, будто над головой находится настоящее окно с видом на небо. Оно использует специальные светодиоды и технологии [...]]]></description>
+    </item>
+    <item>
+      <title>Простая добавка помогла водной батарее проработать более 2800 часов</title>
+      <link>https://4pda.to/2026/06/14/457588/prostaya_dobavka_pomogla_vodnoj_bataree_prorabotat_bolee_2800_chasov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457588/prostaya_dobavka_pomogla_vodnoj_bataree_prorabotat_bolee_2800_chasov/</guid>
+      <pubDate>Sun, 14 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Южной Кореи нашли способ&nbsp;улучшить водные аккумуляторы. Они представили перспективный тип батарей, который считается более безопасной и экологичной альтернативой литий-ионным решениям.
+Секрет [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске Geely выехал на красный и врезался в BMW: пострадала 18-летняя девушка</title>
+      <link>https://auto.onliner.by/go/1250955</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/14/v-minske-geely-vyexal</guid>
+      <pubDate>Sun, 14 Jun 2026 17:29:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/14/v-minske-geely-vyexal"><img alt="" src="https://content.onliner.by/news/thumbnail/b2511410a6a2e100c5dcc899454622c6.jpg" /></a></p><p>ДТП с участием двух легковых автомобилей случилось днем 14 июня на пересечении улиц Чкалова и Воронянского в Минске.</p><p><a href="https://auto.onliner.by/2026/06/14/v-minske-geely-vyexal">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Умный кулон The Gem поможет уберечься от опасного ультрафиолета</title>
+      <link>https://4pda.to/2026/06/14/457591/umnyj_kulon_the_gem_pomozhet_uberechsya_ot_opasnogo_ultrafioleta/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457591/umnyj_kulon_the_gem_pomozhet_uberechsya_ot_opasnogo_ultrafioleta/</guid>
+      <pubDate>Sun, 14 Jun 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Компания The90, основанная бывшим руководителем Fitbit Стейси Салви, представила необычный носимый гаджет. Ожерелье The Gem предназначено для отслеживания воздействия солнечного света и помогает человеку [...]]]></description>
+    </item>
+    <item>
+      <title>Прицеп Lightship Powersled может служить мобильной электростанцией</title>
+      <link>https://4pda.to/2026/06/14/457586/pritsep_lightship_powersled_mozhet_sluzhit_mobilnoj_elektrostantsiej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457586/pritsep_lightship_powersled_mozhet_sluzhit_mobilnoj_elektrostantsiej/</guid>
+      <pubDate>Sun, 14 Jun 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Американская компания Lightship представила необычный электрический прицеп Powersled. На первый взгляд это просто грузовая платформа, но на деле внутри скрыт огромный аккумулятор ёмкостью до 240 кВтч, [...]]]></description>
+    </item>
+    <item>
+      <title>Ночной пожар в Наровле унес жизни пенсионерки и двоих детей</title>
+      <link>https://realt.onliner.by/go/1109942</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/14/nochnoj-pozhar-v-narovle-unes-zhizni-pensionerki-i-dvoix-detej</guid>
+      <pubDate>Sun, 14 Jun 2026 15:38:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/14/nochnoj-pozhar-v-narovle-unes-zhizni-pensionerki-i-dvoix-detej"><img alt="" src="https://content.onliner.by/news/thumbnail/daa3f7492fbd13c8f68a0438f44ea833.jpg" /></a></p><p>Трагический пожар произошел в ночь на 14 июня в Наровле. При возгорании частного дома погибли три человека, среди которых двое детей.</p><p><a href="https://realt.onliner.by/2026/06/14/nochnoj-pozhar-v-narovle-unes-zhizni-pensionerki-i-dvoix-detej">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Valve больше не будет продавать физические подарочные карты Steam. Виноваты мошенники</title>
+      <link>https://4pda.to/2026/06/14/457580/valve_bolshe_ne_budet_prodavat_fizicheskie_podarochnye_karty_steam_vinovaty_moshenniki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457580/valve_bolshe_ne_budet_prodavat_fizicheskie_podarochnye_karty_steam_vinovaty_moshenniki/</guid>
+      <pubDate>Sun, 14 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Геймеры ценят Steam не только за красоту и широкий ассортимент товаров, но ещё и за удобства — например, у каждого пользователя в учётной записи есть свой кошелёк, который можно пополнить разными способами. [...]]]></description>
+    </item>
+    <item>
+      <title>В Китае решили одну из главных проблем квантовых компьютеров</title>
+      <link>https://4pda.to/2026/06/14/457541/v_kitae_reshili_odnu_iz_glavnykh_problem_kvantovykh_kompyuterov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/14/457541/v_kitae_reshili_odnu_iz_glavnykh_problem_kvantovykh_kompyuterov/</guid>
+      <pubDate>Sun, 14 Jun 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Чжэцзянского университета представили сверхбыструю квантовую память QRAM. Потенциально она способно предложить важное решение на пути к практическому использованию квантовых компьютеров.
+Проблема [...]]]></description>
     </item>
     <item>
       <title>В Китае запустили роботов-змей для патрулирования электролиний</title>
@@ -81,7 +132,7 @@
       <description><![CDATA[Сети 6G обещают невероятно высокие скорости передачи данных, но у них есть серьёзный недостаток. Сигнал нового поколения плохо проходит через стены, углы и другие препятствия. Из-за этого даже обычное [...]]]></description>
     </item>
     <item>
-      <title>Просьба оставить девушку в покое закончилась дракой в метро</title>
+      <title>Просьба оставить девушку в покое закончилась дракой в метро (обновлено)</title>
       <link>https://people.onliner.by/go/1308390</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/06/14/v-minskom-metro-paren-zastupilsya-za-devushku-i-okazalsya-v-bolnice-napadavshij-dazhe-ukusil-ego</guid>
       <pubDate>Sun, 14 Jun 2026 09:14:47 +0000</pubDate>
@@ -315,20 +366,6 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>Куртка с новой тканью превращает влагу из воздуха в воду для питья</title>
-      <link>https://4pda.to/2026/06/13/457603/kurtka_s_novoj_tkanyu_prevraschaet_vlagu_iz_vozdukha_v_vodu_dlya_pitya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457603/kurtka_s_novoj_tkanyu_prevraschaet_vlagu_iz_vozdukha_v_vodu_dlya_pitya/</guid>
-      <pubDate>Sat, 13 Jun 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Сотрудники Техасского университета в Остине разработали куртку, способную получать питьевую воду прямо из воздуха. Технология предназначена для туристов, спасателей&nbsp;и всех, кто работает вдали от&nbsp;источников [...]]]></description>
-    </item>
-    <item>
-      <title>CATL придумала батарею-трансформер</title>
-      <link>https://4pda.to/2026/06/13/457468/catl_pridumala_batareyu_transformer/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457468/catl_pridumala_batareyu_transformer/</guid>
-      <pubDate>Sat, 13 Jun 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Крупнейший производитель аккумуляторов CATL представил новую архитектуру батарей&nbsp;One Shell, Two Cells &nbsp;(«Один корпус — два типа ячеек»). Компания предлагает внутри одного аккумуляторного блока [...]]]></description>
-    </item>
-    <item>
       <title>Водители Tesla начали обманывать систему с помощью кукольных голов</title>
       <link>https://auto.onliner.by/go/1250836</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/06/13/voditeli-tesla-nachali-obmanyvat-sistemu-s-pomoshhyu-kukolnyx-golov</guid>
@@ -337,83 +374,12 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Развод? В сети обсуждают ссору Хидэо Кодзимы и Джеффа Кили</title>
-      <link>https://4pda.to/2026/06/13/457526/razvod_v_seti_obsuzhdayut_ssoru_khideo_kodzimy_i_dzheffa_kili/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457526/razvod_v_seti_obsuzhdayut_ssoru_khideo_kodzimy_i_dzheffa_kili/</guid>
-      <pubDate>Sat, 13 Jun 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[Неловкие выходы ведущего The Game Awards Джеффа Кили и гениального геймдизайнера Хидэо Кодзимы уже стали мемом. Но недавно фанаты заметили, что отношения между двумя звёздами охладились.
-[gallery=0]
-В [...]]]></description>
-    </item>
-    <item>
-      <title>Новый бизнес-джет установил рекорд скорости над Атлантикой</title>
-      <link>https://4pda.to/2026/06/13/457460/novyj_biznes_dzhet_ustanovil_rekord_skorosti_nad_atlantikoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457460/novyj_biznes_dzhet_ustanovil_rekord_skorosti_nad_atlantikoj/</guid>
-      <pubDate>Sat, 13 Jun 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Компания Bombardier сообщила о первом скоростном рекорде нового бизнес-джета Global 8000. Самолёт выполнил перелёт из Монреаля в Ниццу чуть более чем за шесть часов, доставив пассажиров на Гран-при Монако.
-Global [...]]]></description>
-    </item>
-    <item>
-      <title>Электрокроссовер Kia EV2 превзошёл заявленный запас хода</title>
-      <link>https://4pda.to/2026/06/13/457534/elektrokrossover_kia_ev2_prevzoshyol_zayavlennyj_zapas_khoda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457534/elektrokrossover_kia_ev2_prevzoshyol_zayavlennyj_zapas_khoda/</guid>
-      <pubDate>Sat, 13 Jun 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Компактный электрический кроссовер Kia EV2 показал неожиданно хороший результат на независимых испытаниях в Норвегии. В реальных дорожных условиях автомобиль не только подтвердил заявленный запас хода, [...]]]></description>
-    </item>
-    <item>
       <title>Valve ввезла в США сразу 13 тонн своих новых VR-гарнитур</title>
       <link>https://tech.onliner.by/go/778674</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/06/13/valve-vvezla-v-ssha-srazu-13-tonn-svoix-novyx-vr-garnitur</guid>
       <pubDate>Sat, 13 Jun 2026 09:34:07 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/13/valve-vvezla-v-ssha-srazu-13-tonn-svoix-novyx-vr-garnitur"><img alt="" src="https://content.onliner.by/news/thumbnail/2ea91ca944de6a60feca3cb394d1dab7.jpg" /></a></p><p>Steam Frame — не только свежий гаджет Valve, но и одно из самых ожидаемых обновлений на рынке VR-гарнитур в принципе. Сообщается, что сейчас судно Posen доставило в США первую партию этих девайсов: <a href="https://www.theverge.com/news/949517/valve-vr-headset-import-records-steam-frame-steam-machine-game-console" target="_blank">по данным</a> The Verge, компания Ceva отгрузила 13 тонн такой продукции.</p><p><a href="https://tech.onliner.by/2026/06/13/valve-vvezla-v-ssha-srazu-13-tonn-svoix-novyx-vr-garnitur">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>BMW раскрыла дизайн спортивных электрокаров M-серии</title>
-      <link>https://4pda.to/2026/06/13/457619/bmw_raskryla_dizajn_sportivnykh_elektrokarov_m_serii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457619/bmw_raskryla_dizajn_sportivnykh_elektrokarov_m_serii/</guid>
-      <pubDate>Sat, 13 Jun 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[В рамках гонки «24 часа Ле-Мана» BMW представила&nbsp;M Concept Neue Klasse. Это первый взгляд на&nbsp;полностью электрическое семейство спортивных моделей подразделения M. Ожидается, что именно этот концепт [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI показала HarmonyOS 7 с новым трёхмерным дизайном</title>
-      <link>https://4pda.to/2026/06/13/457618/huawei_pokazala_harmonyos_7_s_novym_tryokhmernym_dizajnom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457618/huawei_pokazala_harmonyos_7_s_novym_tryokhmernym_dizajnom/</guid>
-      <pubDate>Sat, 13 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[HUAWEI представила в Китае&nbsp;HarmonyOS 7. Фирменная операционная система нового поколения получила заметно обновлённый интерфейс, расширенные возможности искусственного интеллекта и ряд изменений на [...]]]></description>
-    </item>
-    <item>
-      <title>«Это космос!» «Чижовка-Арена» собрала в полночь сразу несколько тысяч выпускников</title>
-      <link>https://people.onliner.by/go/1308289</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/13/vypusknoj-v-chizhovka-arene</guid>
-      <pubDate>Sat, 13 Jun 2026 08:43:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/13/vypusknoj-v-chizhovka-arene"><img alt="" src="https://content.onliner.by/news/thumbnail/d81f2b32c24c2a07e6ec487dda99ce4a.jpg" /></a></p><p>В ночь с 12 на 13 июня по всей Беларуси прошли выпускные балы. В этом году 11-е классы закончили почти 59 тысяч человек. В Минске в этот раз решили провести масштабный эксперимент: после официальной части школьники из разных учебных заведений отправились на четыре крупные развлекательные площадки. Одной из них стала «Чижовка-Арена», которая собрала 2,5 тысячи выпускников из Заводского и Ленинского районов. Как это было, смотрите в колоритном репортаже нашего фотографа.
-</p><p><a href="https://people.onliner.by/2026/06/13/vypusknoj-v-chizhovka-arene">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Маслята, лисички, боровики — но не для всех. Стоит ли идти по грибы в эти выходные?</title>
-      <link>https://people.onliner.by/go/1308091</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/13/maslyata-lisichki-boroviki</guid>
-      <pubDate>Sat, 13 Jun 2026 07:53:20 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/13/maslyata-lisichki-boroviki"><img alt="" src="https://content.onliner.by/news/thumbnail/8bb69eb69de3dc6fea8a32455c7a5d22.jpg" /></a></p><p>Хватит молчать о грибах. Из разных концов страны сообщают о маслятах, боровиках, лисичках.... Не менее активно сообщают также о том, что грибов не существует, лес пуст. Носители грибной лихорадки баламутят воду — впереди выходные, надо куда-то идти сломя голову. Сегодня выясняем не только, где грибы <em>есть</em>, но и где их <em>нету</em>. Да, это еще никого не остановило (ясно же — власти скрывают), но немного успокаивает. Важно: нас интересуют грибы, которые могут найти простые смертные, а не только удалые монетизаторы.</p><p><a href="https://people.onliner.by/2026/06/13/maslyata-lisichki-boroviki">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>BYD показала новый флагманский электрокар Da Han</title>
-      <link>https://4pda.to/2026/06/13/457467/byd_pokazala_novyj_flagmanskij_elektrokar_da_han/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457467/byd_pokazala_novyj_flagmanskij_elektrokar_da_han/</guid>
-      <pubDate>Sat, 13 Jun 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[Китайская BYD показала первые официальные изображения нового флагманского седана Da Han. Новинка станет частью премиальной линейки Dynasty и должна выйти на рынок в третьем квартале 2026 года.
-Da Han [...]]]></description>
-    </item>
-    <item>
-      <title>В Минской области горело производство: МЧС понадобилось 9 машин</title>
-      <link>https://realt.onliner.by/go/1109899</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/13/v-minskoj-oblasti-gorelo-proizvodstvo-mchs-ponadobilos-9-mashin</guid>
-      <pubDate>Sat, 13 Jun 2026 07:40:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/13/v-minskoj-oblasti-gorelo-proizvodstvo-mchs-ponadobilos-9-mashin"><img alt="" src="https://content.onliner.by/news/thumbnail/f0eeaa243ccb8e28c1c58bc4b1b86cd4.jpg" /></a></p><p>Возгорание возникло на территории производственного здания в Стародорожском районе. По данным МЧС, на месте происшествия наблюдалось открытое горение здания цеха по производству и фасовке пеллетного топлива. Как <a href="https://t.me/mchs112by/13049" target="_blank">отмечают</a> спасатели, в момент возникновения пожара в цехе находилось 100 тонн пеллет <strong></strong>и оборудование для изготовления гранул.</p><p><a href="https://realt.onliner.by/2026/06/13/v-minskoj-oblasti-gorelo-proizvodstvo-mchs-ponadobilos-9-mashin">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
   </channel>
 </rss>
