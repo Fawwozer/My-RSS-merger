@@ -5,16 +5,384 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 15 Jun 2026 04:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:14:04 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>Курилка у вас под дверью. Что делать, если соседи дымят в подъезде</title>
-      <link>https://realt.onliner.by/go/1009093</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/15/kak-borotsya-s-kurilshhikami</guid>
-      <pubDate>Mon, 15 Jun 2026 04:00:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/15/kak-borotsya-s-kurilshhikami"><img alt="" src="https://content.onliner.by/news/thumbnail/79c19eaf7abcf059d1f5d9fa685e2412.jpg" /></a></p><p>Вышел за хлебом — вдохнул полкоридора табачного дыма. Утром, днем, вечером кто-то обязательно курит в подъезде. Запах въедается в одежду, раздражает глаза, проникает в квартиру. Ситуация, увы, знакома многим. Но подъезд — это не чья-то личная курилка, а общественное место. Разбираемся, где курить в Беларуси запрещено по закону, что делать с соседями-курильщиками и как защититься от табачного дыма, если вежливые просьбы уже не работают.</p><p><a href="https://realt.onliner.by/2026/06/15/kak-borotsya-s-kurilshhikami">Читать далее…</a></p>]]></description>
+      <title>Linux Kernel 7.1 is a Feature Release That Could Be Useful For You</title>
+      <link>https://feed.itsfoss.com/link/24361/17361309/linux-kernel-7-1-release</link>
+      <guid isPermaLink="false">6a2f8b4fe7c630000133a780</guid>
+      <pubDate>Mon, 15 Jun 2026 10:18:48 +0000</pubDate>
+      <description><![CDATA[<p>Following <a href="https://itsfoss.com/news/linux-kernel-7-0-release/">Linux 7.0</a> in April and the stable point releases since, Linux 7.1 is now available as a major feature release in the 7.x series.</p><p>You get a bunch of upgrades with this, ranging from a new NTFS driver that landed after four years of development all the way to a bugfix for a long-standing audio issue on the Steam Deck OLED.</p><p>And, if you remember <a href="https://itsfoss.com/news/linux-kernel-i486-cpu-support-removal/">our reporting</a> from a few months ago, then this release also formally drops i486 CPU support from the kernel build system.</p><h2 id="whats-new-in-this-release">What's new in this release?</h2><figure class="kg-card kg-image-card"><img alt="terminal window that is showing the fastfetch output on an ubuntu 26.04 lts system, the line for kernel is highlighted with a green box and blue arrows, inside it linux 7.1.0-070100-generic is written" class="kg-image" height="624" src="https://itsfoss.com/content/images/2026/06/ubuntu-26-04-running-linux-7-1.png" width="928" /></figure><p>Intel's Flexible Return and Event Delivery (<a href="https://www.intel.com/content/www/us/en/content-details/779982/flexible-return-and-event-delivery-fred-specification.html">FRED</a>) is <strong>now enabled by default</strong> in Linux, having previously required a manual <code>fred=on</code> boot flag. The switch was held back until publicly available hardware could be properly evaluated, and the code has since been tested thoroughly enough to flip from opt-in to opt-out.</p><p><a href="https://www.phoronix.com/news/Linux-7.1-Enabled-Intel-FRED">Phoronix</a> reports that people running Intel Core Ultra Series 3 "<em>Panther Lake</em>" should see real gains here, particularly on I/O-heavy workloads like databases, networking applications, and audio processing.</p><p>The crypto subsystem picks up some <a href="https://www.intel.com/content/www/us/en/architecture-and-technology/intel-quick-assist-technology-overview.html">Intel QAT</a> additions too. For QAT Gen4 and Gen5 hardware, basic Zstd compression offload is now available. The Gen6 version, intended for the <em>Diamond Rapids</em> platform, gets a native Zstd implementation covering both compression and decompression.</p><p>The <a href="https://docs.kernel.org/admin-guide/pm/amd-pstate.html">amd-pstate</a> driver gains CPPC Performance Priority, Dynamic EPP (<em>Energy Performance Preference</em>), and Raw EPP with this release for more granular control over power and performance on modern AMD Ryzen and EPYC hardware.</p><p>Similarly, the <a href="https://docs.kernel.org/gpu/amdgpu/index.html">AMDgpu</a> driver sees several changes this cycle, including SMU 15.0.8 IP support, DCN 4.2 display updates, a new DebugFS interface for monitoring 64-bit PCIe registers, and a fix for a GPU page fault triggering on non-4K page size kernel builds.</p><p>And, after four years of work, <strong>a new NTFS driver has landed</strong> in the mainline kernel. We covered its development <a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/">last December</a>, when it was still working its way toward integration.</p><p>Linus Torvalds called the merge the "<em>ntfs resurrection</em>," though he briefly un-pulled the code over a Git structure issue before <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cdd4dc3aebeab43a72ce0bc2b5bab6f0a80b97a5">accepting a revised pull request</a>. The new driver is available via the&#8291; <code>NTFS_FS</code> Kconfig switch, and NTFS3 is still around for now.</p><p>Finally, we have the newly introduced support for <strong>12 new SoCs</strong>, including Qualcomm's <strong>Glymur</strong>, <strong>Mahua</strong>, <strong>Eliza</strong>, and <strong>IPQ5210</strong>, Axis <strong>ARTPEC-9</strong>, Microchip's <strong>LAN9691</strong> and <strong>PIC64GX</strong>, Renesas <strong>RZ/G3L</strong>, NXP <strong>S32N79</strong>, Rockchip's <strong>RV1103B</strong>, and ARM's <strong>Zena</strong> and <strong>Corstone-1000-A320</strong>.</p><h2 id="should-you-install-this">Should you install this?</h2><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">It is to get excited about a new kernel release, But <a href="https://itsfoss.com/compile-linux-kernel/" rel="noreferrer">compiling a new kernel</a> or installing a new one is usually considered intermediate to expert zone. For a regular Linux user, it is better to wait for the distro to provide it, unless you have a compelling reason to get the new kernel early.</div></div><p><em>It depends</em>. If something in this release addresses a gap you had with earlier kernels, it's worth the upgrade. You can download the tarball from the <a href="https://www.kernel.org">official website</a> and get started installing it on something like <a href="https://itsfoss.com/upgrade-linux-kernel-ubuntu/">Ubuntu</a>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kernel.org">Linux Kernel 7.1</a></div><p>For the rest of us, it depends on the distribution one is using. Not every distro will be providing this release upgrade. Rolling releases like <a href="https://archlinux.org/">Arch Linux</a> and more frequently updated distros like <a href="https://fedoraproject.org/">Fedora</a> and its derivatives will be picking this up soon. </p><p>Others on distros like Debian or Linux Mint likely won't see it on their computers.</p><hr /><p><strong>Suggested Read &#128214;: </strong><a href="https://itsfoss.com/news/proton-drive-cli/" rel="noreferrer"><em>Proton Drive Now Has a CLI</em></a></p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17361309.gif" width="1" />]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Узнали, что будет в Беларуси с сертификатами защиты сайтов</title>
+      <link>https://tech.onliner.by/go/778803</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/15/uznali-chto-budet-v-belarusi-s-sertifikatami-zashhity-sajtov</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/15/uznali-chto-budet-v-belarusi-s-sertifikatami-zashhity-sajtov"><img alt="" src="https://content.onliner.by/news/thumbnail/370cc37526022fae9975fec07cf037ff.jpg" /></a></p><p>Крупнейшим в мире бесплатным удостоверяющим центром Let’s Encrypt управляет некоммерческая организация ISRG. Сейчас она <a href="https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026.pdf" target="_blank">представила</a> обновленную версию соглашения, которая вступит в силу в июне 2026 года. В ней появился пункт, который запрещает выдачу сертификатов лицам и компаниям из стран, находящихся под всеобъемлющими санкциями США. Однако, по данным hoster.by, Беларусь в этот перечень не входит.</p><p><a href="https://tech.onliner.by/2026/06/15/uznali-chto-budet-v-belarusi-s-sertifikatami-zashhity-sajtov">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В Заславле устроили день моды. Показ провели прямо на центральной площади</title>
+      <link>https://people.onliner.by/go/1308648</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/15/v-zaslavle-ustroili-den-mody-pokaz-proveli-pryamo-na-centralnoj-ploshhadi</guid>
+      <pubDate>Mon, 15 Jun 2026 11:53:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/15/v-zaslavle-ustroili-den-mody-pokaz-proveli-pryamo-na-centralnoj-ploshhadi"><img alt="" src="https://content.onliner.by/news/thumbnail/e63c5816af5d762ca5daf6f03c3ca34e.jpg" /></a></p><p>В воскресенье 14 июня в Заславле устроили городской праздник, посвященный моде. Его кульминацией стал иммерсивный показ под открытым небом. Его провели на центральной площади, у одной из главных достопримечательностей города — костела Рождества Пресвятой Девы Марии. Наш фотограф побывал на мероприятии — смотрите большой репортаж. </p><p><a href="https://people.onliner.by/2026/06/15/v-zaslavle-ustroili-den-mody-pokaz-proveli-pryamo-na-centralnoj-ploshhadi">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Нужен ли залог при временном ввозе в Беларусь электромобиля на иностранной регистрации?</title>
+      <link>https://auto.onliner.by/go/1251058</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/15/nuzhen-li-zalog</guid>
+      <pubDate>Mon, 15 Jun 2026 11:51:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/15/nuzhen-li-zalog"><img alt="" src="https://content.onliner.by/news/thumbnail/97b67ae1cee4a13a93740e00a3e90024.jpg" /></a></p><p>Необходимо ли предоставлять обеспечение уплаты таможенных пошлин, налогов при временном ввозе гражданином Беларуси электромобиля на иностранной регистрации? На этот вопрос <a href="https://t.me/customs_bel" target="_blank">ответили</a> в телеграм-канале Государственного таможенного комитета.</p><p><a href="https://auto.onliner.by/2026/06/15/nuzhen-li-zalog">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Какой будет инфляция в Беларуси в 2026—2028 годах? ЕАБР составил прогноз</title>
+      <link>https://money.onliner.by/go/331869</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/15/inflyaciya-v-belarusi-v-2026-2028-godax-prognoz-eabr</guid>
+      <pubDate>Mon, 15 Jun 2026 11:44:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/15/inflyaciya-v-belarusi-v-2026-2028-godax-prognoz-eabr"><img alt="" src="https://content.onliner.by/news/thumbnail/83288b8b03e8cd3f5c33a3346686ffa2.jpg" /></a></p><p>Инфляция в Беларуси продолжит замедляться — такой прогноз дал Евразийский банк развития на 2026—2028 годы. До какого уровня и какие факторы на это влияют? Приводим самые интересные цифры, <a href="https://eabr.org/analytics/ceg-quarterly-reviews/macroeconomic-outlook-2026-2028-june/" target="_blank">опубликованные</a> ЕАБР.</p><p><a href="https://money.onliner.by/2026/06/15/inflyaciya-v-belarusi-v-2026-2028-godax-prognoz-eabr">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Выставленная на продажу обычная двушка на самом деле расположена в очень незаурядном доме</title>
+      <link>https://realt.onliner.by/go/1110021</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/15/vystavlennaya-na-prodazhu</guid>
+      <pubDate>Mon, 15 Jun 2026 11:15:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/15/vystavlennaya-na-prodazhu"><img alt="" src="https://content.onliner.by/news/thumbnail/dd3802c78a6a216ecc0cce5a67f5d40d.jpg" /></a></p><p>В Шотландии на продажу выставлена необычная квартира, которая на фото выглядит как достаточно заурядная современная двушка. На самом деле она расположена в подвале викторианского особняка 1868 года, <a href="https://www.thesun.co.uk/money/39385669/basement-flat-normal-inside-unbelievable-outside/" target="_blank">сообщает</a> The Sun.</p><p><a href="https://realt.onliner.by/2026/06/15/vystavlennaya-na-prodazhu">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Что изменилось при заказе товаров в магазине Onlíner Prime</title>
+      <link>https://money.onliner.by/go/331833</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/15/yurlicam-stalo-proshhe-zakazyvat-tovary</guid>
+      <pubDate>Mon, 15 Jun 2026 11:00:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/15/yurlicam-stalo-proshhe-zakazyvat-tovary"><img alt="" src="https://content.onliner.by/news/thumbnail/5d5b79aad2296d34b8bb09ecd5316e6c.jpg" /></a></p><p>С 12 июня 2026 года товары стоимостью более 300 рублей в магазине Onlíner Prime можно заказывать по безналичному расчету через специальную форму для юридических лиц.</p><p><a href="https://money.onliner.by/2026/06/15/yurlicam-stalo-proshhe-zakazyvat-tovary">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Ballu Odyssey Pro DC Inverter: тихие, мощные и умные кондиционеры для дома</title>
+      <link>https://4pda.to/2026/06/15/456721/ballu_odyssey_pro_dc_inverter_tikhie_moschnye_i_umnye_konditsionery_dlya_doma/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/456721/ballu_odyssey_pro_dc_inverter_tikhie_moschnye_i_umnye_konditsionery_dlya_doma/</guid>
+      <pubDate>Mon, 15 Jun 2026 11:00:00 +0000</pubDate>
+      <description><![CDATA[Современный кондиционер — это не просто настенный морозильник. Он выполняет функции нескольких климатических приборов, не забывая о комфорте владельца. Модели серии Ballu Odyssey Pro DC Inverter умеют [...]]]></description>
+    </item>
+    <item>
+      <title>Ремейк Gothic разошёлся тиражом в 500 тысяч проданных копий</title>
+      <link>https://4pda.to/2026/06/15/457649/remejk_gothic_razoshyolsya_tirazhom_v_500_tysyach_prodannykh_kopij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457649/remejk_gothic_razoshyolsya_tirazhom_v_500_tysyach_prodannykh_kopij/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:50:00 +0000</pubDate>
+      <description><![CDATA[В это сложно поверить, но ремейк «Готики» наконец-то вылез из производственного ада. И хотя блокбастером новинку не назовёшь при всём желании, её авторы явно довольны успехами своего творения.
+Alkimia [...]]]></description>
+    </item>
+    <item>
+      <title>«Пришлось тормозить с 90 до 0!» Жесткий обгон водителя BMW попал на видео (видео)</title>
+      <link>https://auto.onliner.by/go/1251046</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/15/prishlos-tormozit</guid>
+      <pubDate>Mon, 15 Jun 2026 10:46:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/15/prishlos-tormozit"><img alt="" src="https://content.onliner.by/news/thumbnail/5608c7ff1eaf5c079ec3781d4e836866.jpg" /></a></p><p>Слева — встречная с автомобилями, справа — кювет. А в лоб едет BMW: водитель решился на жесткий обгон. Смотрим запись видеорегистратора и пугаемся вместе с нашим читателем, опубликовавшим ее.</p><p><a href="https://auto.onliner.by/2026/06/15/prishlos-tormozit">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Samsung случайно рассекретила недорогой смартфон Galaxy A27 до анонса</title>
+      <link>https://4pda.to/2026/06/15/457641/samsung_sluchajno_rassekretila_nedorogoj_smartfon_galaxy_a27_do_anonsa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457641/samsung_sluchajno_rassekretila_nedorogoj_smartfon_galaxy_a27_do_anonsa/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:40:00 +0000</pubDate>
+      <description><![CDATA[На официальном сайте компании Samsung в Чехии появилась страничка, посвящённая ещё не представленному смартфону Galaxy A27. Производитель поспешил скрыть её, но интернет помнит всё — дизайн и характеристики [...]]]></description>
+    </item>
+    <item>
+      <title>Призовой фонд — 5000 рублей: стартовала регистрация на Gorilla Game League</title>
+      <link>https://tech.onliner.by/go/778778</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/15/prizovoj-fond-5000-belorusskix-rublej-startovala-registraciya-na-gorilla-game-league</guid>
+      <pubDate>Mon, 15 Jun 2026 10:30:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/15/prizovoj-fond-5000-belorusskix-rublej-startovala-registraciya-na-gorilla-game-league"><img alt="" src="https://content.onliner.by/news/thumbnail/42e6c2aeef399f54a07fb74c90297217.jpg" /></a></p><p>Регистрация на второй сезон Gorilla Game League по Counter-Strike 2 пройдет в несколько этапов: открытые квалификации, плей-офф и LAN-финал в Минске. Квалификации состоятся 1, 3, 9 и 11 июля, по их итогам команды-победительницы выйдут в стадию плей-офф, которая пройдет 21—22 июля.</p><p><a href="https://tech.onliner.by/2026/06/15/prizovoj-fond-5000-belorusskix-rublej-startovala-registraciya-na-gorilla-game-league">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Представлен Honor X70 Pro Max: яркий дисплей и защищённый корпус за $300</title>
+      <link>https://4pda.to/2026/06/15/457638/predstavlen_honor_x70_pro_max_yarkij_displej_i_zaschischyonnyj_korpus_za_300/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457638/predstavlen_honor_x70_pro_max_yarkij_displej_i_zaschischyonnyj_korpus_za_300/</guid>
+      <pubDate>Mon, 15 Jun 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Honor презентовала новый среднебюджетный смартфон X70 Pro Max. Его ключевыми особенностями стали ёмкий аккумулятор, продвинутые характеристики экрана и надёжная защита от воды на уровне флагманских [...]]]></description>
+    </item>
+    <item>
+      <title>Курсовые с сюрпризом. Такие заказали 16 студентов и попались</title>
+      <link>https://money.onliner.by/go/331831</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/15/16-studentov-zakazali-kursovye-no-tak-ix-i-ne-poluchili</guid>
+      <pubDate>Mon, 15 Jun 2026 09:53:28 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/15/16-studentov-zakazali-kursovye-no-tak-ix-i-ne-poluchili"><img alt="" src="https://content.onliner.by/news/thumbnail/7ed68454a6019b8279d13f95c7ef6ae4.jpg" /></a></p><p>16 студентов заказали курсовые, но не увидели ни работ, ни денег. Оказалось, исполнитель обманывал их с самого начала. Подробности схемы <a href="https://sk.gov.by/ru/news-usk-minsk-ru/view/kursovaja-na-zakaz-okazalas-obmanom-muzhchina-iz-zhodino-obvinjaetsja-v-sovershenii-moshennichestva-16072" target="_blank">рассказали</a> в Следственном комитете.</p><p><a href="https://money.onliner.by/2026/06/15/16-studentov-zakazali-kursovye-no-tak-ix-i-ne-poluchili">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Датч-хаус, Ваня Дмитриенко и «Беларусь каханая». На стадионе «Динамо» прошел третий belbet fest</title>
+      <link>https://people.onliner.by/go/1308385</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/15/belbet-fest-2026</guid>
+      <pubDate>Mon, 15 Jun 2026 09:52:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/15/belbet-fest-2026"><img alt="" src="https://content.onliner.by/news/thumbnail/745fa8a50ecaa795a416b97c3aebfd5c.jpg" /></a></p><p><p dir="ltr">Фестивальное лето в Минске официально стартовало. Правда, с оговоркой. Если еще в прошлом году опен-эйры действительно все лето шли один за другим расслабленным потоком, то в этот раз все похоже на традиционный белорусский шторм — внезапный, шумный, скоротечный. По сути, belbet fest, который в субботу отгремел на стадионе «Динамо», — первый и последний по-настоящему большой столичный фестиваль в 2026-м (все остальные крупные «музыкальные осадки» прогнозируются в Витебской и Гродненской областях). Сходили и посмотрели, как он прошел.</p><p><a href="https://people.onliner.by/2026/06/15/belbet-fest-2026">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Это не коллективная галлюцинация. В строящейся башне «Газпром центра» «заработал» офис</title>
+      <link>https://realt.onliner.by/go/1109999</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/15/chto-proisxodit-v-gazprom-centre</guid>
+      <pubDate>Mon, 15 Jun 2026 09:30:46 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/15/chto-proisxodit-v-gazprom-centre"><img alt="" src="https://content.onliner.by/news/thumbnail/a0d79b5551b6f582b5023f41c8b3f480.jpg" /></a></p><p>В конце прошлой недели минчане столкнулись с необъяснимым: на одном из этажей строящейся башни «Газпром центра» закипела жизнь. За десятью панорамными витражами образовался полноценный офис: с подвесными потолками, покрашенными стенами и ковролином на полу. Столы, стулья, даже растения в кадках — все на месте. При этом уровни выше и ниже — абсолютно безмолвные. Что там у них вообще происходит?</p><p><a href="https://realt.onliner.by/2026/06/15/chto-proisxodit-v-gazprom-centre">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>iFFALCON IF-CLTB09 INV: мощный и доступный инвертор с самоочисткой</title>
+      <link>https://4pda.to/2026/06/15/457017/iffalcon_if_cltb09_inv_moschnyj_i_dostupnyj_invertor_s_samoochistkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457017/iffalcon_if_cltb09_inv_moschnyj_i_dostupnyj_invertor_s_samoochistkoj/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:30:00 +0000</pubDate>
+      <description><![CDATA[Выбирая сплит-систему, часто приходится метаться между доступной, но прожорливой классикой «on-off» и тихим, но бьющим по кошельку инвертором. Бренд iFFALCON предлагает решить эту дилемму с помощью модели [...]]]></description>
+    </item>
+    <item>
+      <title>Capcom объяснила недавние коммерческие удачи. Компания больше не полагается на «авторскую разработку»</title>
+      <link>https://4pda.to/2026/06/15/457647/capcom_obyasnila_nedavnie_kommercheskie_udachi_kompaniya_bolshe_ne_polagaetsya_na_avtorskuyu_razrabotku/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457647/capcom_obyasnila_nedavnie_kommercheskie_udachi_kompaniya_bolshe_ne_polagaetsya_na_avtorskuyu_razrabotku/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:25:00 +0000</pubDate>
+      <description><![CDATA[Геймерам и журналистам свойственно приписывать успехи того или иного произведения конкретному человеку — автору, если угодно. Однако настоящие хиты создаются общими усилиями, и Capcom этого даже не скрывает.
+Харухиро [...]]]></description>
+    </item>
+    <item>
+      <title>«Они уничтожают море». В Греции страдают из-за нашествия рыбы фугу</title>
+      <link>https://tech.onliner.by/go/778757</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/15/oni-unichtozhayut-more-v-grecii-stradayut-iz-za-nashestviya-ryby-fugu</guid>
+      <pubDate>Mon, 15 Jun 2026 09:20:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/15/oni-unichtozhayut-more-v-grecii-stradayut-iz-za-nashestviya-ryby-fugu"><img alt="" src="https://content.onliner.by/news/thumbnail/5fe2cd24442338d6a36000bb2c05e7b1.jpg" /></a></p><p>Взрывной рост популяции рыбы фугу в греческих водах стал еще одним подтверждением того, как <span dir="auto">потепление океанов</span><span dir="auto"><span dir="auto"> меняет экосистемы. К примеру, сейчас рыбаки с острова Крит, крупнейшего острова Греции, <a href="https://phys.org/news/2026-06-greek-fishermen-struggle-pufferfish-invaders.html" target="_blank">жалуются</a> на сокращение улова из-за нашествия серебристощекого зайцецефала, длина тела которого составляет от 40 до 60 сантиметров.</p><p><a href="https://tech.onliner.by/2026/06/15/oni-unichtozhayut-more-v-grecii-stradayut-iz-za-nashestviya-ryby-fugu">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Minix выпустила компактный и дорогой компьютер-чемодан с мощным железом</title>
+      <link>https://4pda.to/2026/06/15/457639/minix_vypustila_kompaktnyj_i_dorogoj_kompyuter_chemodan_s_moschnym_zhelezom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457639/minix_vypustila_kompaktnyj_i_dorogoj_kompyuter_chemodan_s_moschnym_zhelezom/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:20:00 +0000</pubDate>
+      <description><![CDATA[Компания&nbsp;Minix&nbsp;представила на рынке Японии мини-ПК ER939-AI Pro на
+базе процессора AMD Ryzen AI. Корпус новинки напоминает небольшой металлический
+чемодан, оснащённый четырьмя ножками и кожаной [...]]]></description>
+    </item>
+    <item>
+      <title>«Поначалу я решил, что это дорожники». Кто и зачем тормозил автомобили на трассе М1? (видео)</title>
+      <link>https://auto.onliner.by/go/1250648</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/15/kto-tormozil-auto-na-m1</guid>
+      <pubDate>Mon, 15 Jun 2026 09:16:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/15/kto-tormozil-auto-na-m1"><img alt="" src="https://content.onliner.by/news/thumbnail/3277fd71b4f9a8076899330a3d6f5445.jpg" /></a></p><p>Трасса М1 (Брест — Минск — граница России). Под эстакадой на проезжей части в обеих полосах находятся люди. При приближении автомобиля не уходят. По жестам непонятно, то ли ловят попутку, то ли просто ищут средство от безделья. А разрешенная скорость на трассе — 120 км/ч.
+</p><p><a href="https://auto.onliner.by/2026/06/15/kto-tormozil-auto-na-m1">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Rapoo представила игровую гарнитуру со съёмной АКБ и автономностью до 150 ч</title>
+      <link>https://4pda.to/2026/06/15/457637/rapoo_predstavila_igrovuyu_garnituru_so_syomnoj_akb_i_avtonomnostyu_do_150_ch/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457637/rapoo_predstavila_igrovuyu_garnituru_so_syomnoj_akb_i_avtonomnostyu_do_150_ch/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:10:00 +0000</pubDate>
+      <description><![CDATA[В ассортименте Rapoo появилась игровая беспроводная гарнитура VE3 с акцентом на длительном времени автономной работы. Кроме того, новинка примечательна оригинальным дизайном, а также поддержкой технологии [...]]]></description>
+    </item>
+    <item>
+      <title>Опубликованы первые снимки, сделанные на камеру vivo X Fold 6</title>
+      <link>https://4pda.to/2026/06/15/457636/opublikovany_pervye_snimki_sdelannye_na_kameru_vivo_x_fold_6/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457636/opublikovany_pervye_snimki_sdelannye_na_kameru_vivo_x_fold_6/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:05:00 +0000</pubDate>
+      <description><![CDATA[Vivo поделилась свежими подробностями о грядущем смартфоне vivo X Fold 6 в
+преддверии его анонса. В соцсети Weibo топ-менеджеры бренда рассекретили характеристики камеры устройства
+и продемонстрировали [...]]]></description>
+    </item>
+    <item>
+      <title>В Полоцком районе четвертый день ищут мужчину, отправившегося на подводную рыбалку</title>
+      <link>https://people.onliner.by/go/1308636</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/15/v-polockom-rajone-chetvertyj-den-ishhut-muzhchinu-otpravivshegosya-na-podvodnuyu-rybalku</guid>
+      <pubDate>Mon, 15 Jun 2026 09:00:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/15/v-polockom-rajone-chetvertyj-den-ishhut-muzhchinu-otpravivshegosya-na-podvodnuyu-rybalku"><img alt="" src="https://content.onliner.by/news/thumbnail/5469df77eb42e440ca51a0311dea3f95.jpg" /></a></p><p>За выходные 13—14 июня в Беларуси утонули четыре человека, еще троих удалось спасти. Кроме того, спасатели обнаружили в воде несколько&#8230;</p><p><a href="https://people.onliner.by/2026/06/15/v-polockom-rajone-chetvertyj-den-ishhut-muzhchinu-otpravivshegosya-na-podvodnuyu-rybalku">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В конце июня Dragon’s Dogma II ждут перемены: игру сделают дешевле, а из магазинов уберут микротранзакции</title>
+      <link>https://4pda.to/2026/06/15/457644/v_kontse_iyunya_dragon_s_dogma_ii_zhdut_peremeny_igru_sdelayut_deshevle_a_iz_magazinov_uberut_mikrotranzaktsii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457644/v_kontse_iyunya_dragon_s_dogma_ii_zhdut_peremeny_igru_sdelayut_deshevle_a_iz_magazinov_uberut_mikrotranzaktsii/</guid>
+      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[На прошлой неделе Capcom внезапно вспомнила о существовании Dragon’s Dogma II и анонсировала крупное DLC к культовой экшен-RPG. И, как выяснилось на выходных, благие вести для фанатов дилогии на этом не [...]]]></description>
+    </item>
+    <item>
+      <title>И не страшно так тормозить, когда на тебя едут 40 тонн? Версии (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1250047</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/15/ne-strashno</guid>
+      <pubDate>Mon, 15 Jun 2026 08:55:15 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/15/ne-strashno"><img alt="" src="https://content.onliner.by/news/thumbnail/91f63e5c91e92c9569a61514eb14a98f.jpg" /></a></p><p>Читатель прислал Onlíner видео с регистратора, установленного в грузовике, двигавшемся по МКАД. Средний ряд, туда въезжает компактный Peugeot и почему-то тормозит. А сзади на него надвигается тот самый грузовик. Не станем утверждать, что трюк выполнен профессионалом, но настоятельно рекомендуем никогда такого не повторять.</p><p><a href="https://auto.onliner.by/2026/06/15/ne-strashno">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Нашли квартиру, для передвижения по которой нужен навигатор</title>
+      <link>https://realt.onliner.by/go/1109977</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/15/nuzhen-navigator</guid>
+      <pubDate>Mon, 15 Jun 2026 08:36:32 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/15/nuzhen-navigator"><img alt="" src="https://content.onliner.by/news/thumbnail/9f7a8aaee53898b0f3cad47582ebe602.jpg" /></a></p><p>Пока одни минчане <a href="https://realt.onliner.by/2026/06/12/kak-nam-kupit-zhile" target="_blank">мечтают</a> о том, чтобы купить хотя бы небольшую студию, другие располагают настоящими хоромами. Царь-квартира, передвигаться по которой затруднительно без навигатора, прямо сейчас продается на улице Л. Беды, 38.</p><p><a href="https://realt.onliner.by/2026/06/15/nuzhen-navigator">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Видео: водитель мотоцикла упал вместе с пассажиром  (видео)</title>
+      <link>https://auto.onliner.by/go/1251017</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/15/ne-spravilsya-s-upravleniem-7</guid>
+      <pubDate>Mon, 15 Jun 2026 08:24:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/15/ne-spravilsya-s-upravleniem-7"><img alt="" src="https://content.onliner.by/news/thumbnail/c5e4ab3701d1d77ea9d525a05961fc3c.jpg" /></a></p><p>Вчера вечером в Минске 29-летний водитель мотоцикла Honda двигался по проспекту Пушкина. Рядом с домом №81 он, по предварительной информации, при торможении не справился с управлением.
+</p><p><a href="https://auto.onliner.by/2026/06/15/ne-spravilsya-s-upravleniem-7">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Возможно, нас ждет новая игра по «Ведьмаку»</title>
+      <link>https://tech.onliner.by/go/778748</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/15/vozmozhno-nas-zhdet-novaya-igra-po-vedmaku</guid>
+      <pubDate>Mon, 15 Jun 2026 08:21:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/15/vozmozhno-nas-zhdet-novaya-igra-po-vedmaku"><img alt="" src="https://content.onliner.by/news/thumbnail/c98a1fc16119e1512631e19a686eed62.jpg" /></a></p><p>В будущем геймеры могут получить условно-бесплатную кооперативную экшен-RPG, действие которой развернется во вселенной «Ведьмака». Об этом с ссылкой на собственные источники сообщает игровое издание MP1st: <a href="https://mp1st.com/news/unannounced-witcher-multiplayer-game-details-pc-mobile" target="_blank">по словам</a> журналистов, неанонсированный проект уже находится в работе, а его релиз состоится на ПК и смартфонах. </p><p><a href="https://tech.onliner.by/2026/06/15/vozmozhno-nas-zhdet-novaya-igra-po-vedmaku">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Доллар растет, а евро — еще сильнее. Смотрим, куда движутся курсы валют (обновлено)</title>
+      <link>https://money.onliner.by/go/331818</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/15/dollar-rastet-a-evro-rastet-eshhe-silnee-smotrim-kuda-dvizhutsya-kursy-valyut</guid>
+      <pubDate>Mon, 15 Jun 2026 08:20:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/15/dollar-rastet-a-evro-rastet-eshhe-silnee-smotrim-kuda-dvizhutsya-kursy-valyut"><img alt="" src="https://content.onliner.by/news/thumbnail/a12287e489ee14e85035bc12dc6fd1fa.jpg" /></a></p><p>В начале новой недели доллар взял курс вверх, евро делает так же, правда, растет еще активнее. Российский рубль становится дешевле. Давайте посмотрим, на каком уровне валюты остановились в конце торгов на Белорусской валютно-фондовой бирже. Биткоин за последние сутки подорожал, сейчас он находится вблизи отметки $65 816.
+</p><p><a href="https://money.onliner.by/2026/06/15/dollar-rastet-a-evro-rastet-eshhe-silnee-smotrim-kuda-dvizhutsya-kursy-valyut">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Как убрать неудаляемые приложения с Android-смартфона — без root, но с компьютером</title>
+      <link>https://4pda.to/2026/06/15/457620/kak_ubrat_neudalyaemye_prilozheniya_s_android_smartfona_bez_root_no_s_kompyuterom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457620/kak_ubrat_neudalyaemye_prilozheniya_s_android_smartfona_bez_root_no_s_kompyuterom/</guid>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[Предустановленные приложения — настоящий бич Android. Этим грешат практически все производители: при первом включении телефона вместе с оболочкой вы получаете целый ворох ненужного софта. Игры, в которые [...]]]></description>
+    </item>
+    <item>
+      <title>«Широкую» раскладушку Samsung заочно сравнили со стандартной моделью [ФОТО]</title>
+      <link>https://4pda.to/2026/06/15/457634/shirokuyu_raskladushku_samsung_zaochno_sravnili_so_standartnoj_modelyu_foto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457634/shirokuyu_raskladushku_samsung_zaochno_sravnili_so_standartnoj_modelyu_foto/</guid>
+      <pubDate>Mon, 15 Jun 2026 07:45:00 +0000</pubDate>
+      <description><![CDATA[Инсайдер Ice Universe опубликовал фотографии макетов и защитных стёкол сразу трёх будущих раскладушек Samsung: Galaxy Z Flip8, Z Fold8 Wide и Z Fold8 Ultra. Изображения демонстрируют, как устройства будут [...]]]></description>
+    </item>
+    <item>
+      <title>«День разоблачения» стал личным рекордом для Стивена Спилберга</title>
+      <link>https://tech.onliner.by/go/778735</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/15/den-razoblacheniya-stal-lichnym-rekordom-dlya-stivena-spilberga</guid>
+      <pubDate>Mon, 15 Jun 2026 07:30:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/15/den-razoblacheniya-stal-lichnym-rekordom-dlya-stivena-spilberga"><img alt="" src="https://content.onliner.by/news/thumbnail/d83c37f45d3b10497e2de4c55d418963.jpg" /></a></p><p>Свежий научно-фантастический фильм Стивена Спилберга занял первое место в американском прокате: за первые выходные релиз заработал 44 миллиона долларов в 3824 кинотеатрах. Еще 48,9 миллиона пришлись на зарубежные рынки. <a href="https://variety.com/2026/film/box-office/spielberg-disclosure-day-box-office-opening-masters-of-the-universe-huge-drop-obsession-shatters-expectations-1236780872/" target="_blank">Сообщается</a>, что «День разоблачения» стал картиной, показавшей лучший старт среди оригинальных фильмов Спилберга.</p><p><a href="https://tech.onliner.by/2026/06/15/den-razoblacheniya-stal-lichnym-rekordom-dlya-stivena-spilberga">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>DeepCool показала необычный мини-ПК с полноразмерным процессорным кулером</title>
+      <link>https://4pda.to/2026/06/15/457635/deepcool_pokazala_neobychnyj_mini_pk_s_polnorazmernym_protsessornym_kulerom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457635/deepcool_pokazala_neobychnyj_mini_pk_s_polnorazmernym_protsessornym_kulerom/</guid>
+      <pubDate>Mon, 15 Jun 2026 07:30:00 +0000</pubDate>
+      <description><![CDATA[Компания DeepCool представила
+прототип мини-ПК с весьма спорной конструкцией. Он, как и большинство аналогов, выполнен в миниатюрном корпусе, однако при этом оснащён стандартной процессорной «башней» для [...]]]></description>
+    </item>
+    <item>
+      <title>«Оплати» не будет работать без доступа к геолокации — уже с 1 июля</title>
+      <link>https://money.onliner.by/go/331805</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/15/prilozhenie-oplati-takzhe-budet-zaprashivat-geolokaciyu-s-1-iyulya</guid>
+      <pubDate>Mon, 15 Jun 2026 07:01:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/15/prilozhenie-oplati-takzhe-budet-zaprashivat-geolokaciyu-s-1-iyulya"><img alt="" src="https://content.onliner.by/news/thumbnail/a784eefb2fa0a02fc5d7c04c4afe90ee.jpg" /></a></p><p>Сервис «Оплати» с 1 июля будет запрашивать у пользователей геолокацию — без нее приложение не будет работать. Информация об этом <a href="https://www.o-plati.by/post/912" target="_blank">появилась</a> на сайте сервиса. Аналогичные новшества ранее анонсировали несколько белорусских банков — это связано с обновленными требованиями регулятора и касается всех банков.</p><p><a href="https://money.onliner.by/2026/06/15/prilozhenie-oplati-takzhe-budet-zaprashivat-geolokaciyu-s-1-iyulya">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Инсайд: Intel выпустит новую серию «народных» процессоров под сокет LGA 1700</title>
+      <link>https://4pda.to/2026/06/15/457633/insajd_intel_vypustit_novuyu_seriyu_narodnykh_protsessorov_pod_soket_lga_1700/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457633/insajd_intel_vypustit_novuyu_seriyu_narodnykh_protsessorov_pod_soket_lga_1700/</guid>
+      <pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
+      <description><![CDATA[Согласно свежему инсайду, компания готовит к релизу «антикризисную» серию десктопных чипов Raptor Lake Next под устаревший, но всё ещё популярный сокет LGA 1700. Новые CPU будут ориентированы на экономных [...]]]></description>
+    </item>
+    <item>
+      <title>Мотоциклист после падения сбил девушку с коляской на пешеходном переходе. Это попало на видео  (видео)</title>
+      <link>https://auto.onliner.by/go/1251000</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/15/sbil-devushku-s-kolyaskoj</guid>
+      <pubDate>Mon, 15 Jun 2026 06:56:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/15/sbil-devushku-s-kolyaskoj"><img alt="" src="https://content.onliner.by/news/thumbnail/23e6d80014a98e8eaa8c8969da3e3bcf.jpg" /></a></p><p>13 июня в 22:15 в Мозыре 36-летний водитель мотоцикла Honda, двигаясь по улице Рыжкова, наехал на 25-летнюю девушку, которая с коляской переходила проезжую часть по нерегулируемому пешеходному переходу, сообщает ГАИ Гомельской области. </p><p><a href="https://auto.onliner.by/2026/06/15/sbil-devushku-s-kolyaskoj">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Бразилии девушка погибла во время роуп-джампинга. Инструкторы забыли закрепить веревку</title>
+      <link>https://people.onliner.by/go/1308621</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/15/v-brazilii-devushka-pogibla-vo-vremya-roup-dzhampinga-instruktory-zabyli-zakrepit-verevku</guid>
+      <pubDate>Mon, 15 Jun 2026 06:50:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/15/v-brazilii-devushka-pogibla-vo-vremya-roup-dzhampinga-instruktory-zabyli-zakrepit-verevku"><img alt="" src="https://content.onliner.by/news/thumbnail/fea434f8fad6c3795970b96143e5786b.jpg" /></a></p><p>В бразильском городе Лимейра на аттракционе по роуп-джампингу погибла 21-летняя девушка. Инструкторы сбросили ее с 40-метровой высоты, не пристегнув страховочную веревку. Об этом <a href="https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/13/presos-por-morte-em-rope-jumping-nao-sabem-explicar-por-que-jovem-caiu-sem-corda-diz-delegada-desnorteados.ghtml" target="_blank"><span>сообщает</span></a> канал G1.
+</p><p><a href="https://people.onliner.by/2026/06/15/v-brazilii-devushka-pogibla-vo-vremya-roup-dzhampinga-instruktory-zabyli-zakrepit-verevku">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Из общежития могут выселить «на улицу»? Случай в Минске</title>
+      <link>https://realt.onliner.by/go/1109965</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/15/iz-obshhezhitiya-na-ulicu</guid>
+      <pubDate>Mon, 15 Jun 2026 06:50:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/15/iz-obshhezhitiya-na-ulicu"><img alt="" src="https://content.onliner.by/news/thumbnail/907dab62b5cbaf38e70b92e8e0a5268d.jpg" /></a></p><p>Получить место в общежитии (особенно нового типа, где не комнаты и блоки, а полноценные квартиры) — мечта многих белорусов. Однако заселение не означает автоматическое «закрепление» на месте навсегда. Исчезли основания для проживания — будь добр на выход. И даже на самых упертых жильцов, не желающих съезжать с обжитых метров, найдется управа.</p><p><a href="https://realt.onliner.by/2026/06/15/iz-obshhezhitiya-na-ulicu">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Honor X80 Pro Max с аккумулятором на 11 000 мАч получил дату премьеры</title>
+      <link>https://4pda.to/2026/06/15/457632/honor_x80_pro_max_s_akkumulyatorom_na_11_000_mach_poluchil_datu_premery/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457632/honor_x80_pro_max_s_akkumulyatorom_na_11_000_mach_poluchil_datu_premery/</guid>
+      <pubDate>Mon, 15 Jun 2026 06:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Honor объявила
+дату презентации своего смартфона X80 Pro Max. Несмотря на звучное название, устройство, как ожидается, будет представлено в среднем ценовом сегменте.
+Согласно официальному [...]]]></description>
+    </item>
+    <item>
+      <title>Anbernic работает над «портативками» в духе Nintendo 3DS и 2DS</title>
+      <link>https://4pda.to/2026/06/15/457631/anbernic_rabotaet_nad_portativkami_v_dukhe_nintendo_3ds_i_2ds/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457631/anbernic_rabotaet_nad_portativkami_v_dukhe_nintendo_3ds_i_2ds/</guid>
+      <pubDate>Mon, 15 Jun 2026 06:15:00 +0000</pubDate>
+      <description><![CDATA[В китайской соцсети QQ появились сведения о двух новых портативных консолях Anbernic. Одной из их главных особенностей станет узнаваемый дизайн: гаджеты, если верить источнику, практически скопируют Nintendo [...]]]></description>
+    </item>
+    <item>
+      <title>Слух: производство ремейка Resident Evil 0 перезапустили</title>
+      <link>https://4pda.to/2026/06/15/457617/slukh_proizvodstvo_remejka_resident_evil_0_perezapustili/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457617/slukh_proizvodstvo_remejka_resident_evil_0_perezapustili/</guid>
+      <pubDate>Mon, 15 Jun 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[На Summer Game Fest Capcom анонсировала долгожданный ремейк Resident Evil Code: Veronica. Увы, за хорошими новостями обычно следуют плохие — если верить инсайдеру, у другого схожего проекта компании возникли [...]]]></description>
+    </item>
+    <item>
+      <title>Китайские водители нашли необычный способ взлома «автопилота» Tesla</title>
+      <link>https://4pda.to/2026/06/15/457630/kitajskie_voditeli_nashli_neobychnyj_sposob_vzloma_avtopilota_tesla/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457630/kitajskie_voditeli_nashli_neobychnyj_sposob_vzloma_avtopilota_tesla/</guid>
+      <pubDate>Mon, 15 Jun 2026 05:45:00 +0000</pubDate>
+      <description><![CDATA[Система Full Self-Driving (FSD) в электрокарах Tesla требует активного участия человека в процессе поездки. Однако водители из Китая нашли необычную лазейку в работе «автопилота», позволяющую листать соцсети [...]]]></description>
+    </item>
+    <item>
+      <title>Инсайд: Honor разрабатывает смартфон с рекордно ярким экраном</title>
+      <link>https://4pda.to/2026/06/15/457629/insajd_honor_razrabatyvaet_smartfon_s_rekordno_yarkim_ekranom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457629/insajd_honor_razrabatyvaet_smartfon_s_rekordno_yarkim_ekranom/</guid>
+      <pubDate>Mon, 15 Jun 2026 05:30:00 +0000</pubDate>
+      <description><![CDATA[По данным инсайдера
+Digital Chat Station, компания Honor готовит к выходу смартфон с любопытным набором характеристик. Новинка будет примечательна как высокой ёмкостью аккумулятора, так и внушительным [...]]]></description>
+    </item>
+    <item>
+      <title>360-герцевый монитор AOC с подсветкой mini-LED оценили в $310</title>
+      <link>https://4pda.to/2026/06/15/457628/360_gertsevyj_monitor_aoc_s_podsvetkoj_mini_led_otsenili_v_310/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457628/360_gertsevyj_monitor_aoc_s_podsvetkoj_mini_led_otsenili_v_310/</guid>
+      <pubDate>Mon, 15 Jun 2026 05:15:00 +0000</pubDate>
+      <description><![CDATA[В каталоге AOC появился новый 27-дюймовый игровой монитор Q27G4SLM6/WS. Он ориентирован на геймеров и оснащён соответствующим набором технологий, но благодаря точной цветопередаче подойдёт и для других [...]]]></description>
+    </item>
+    <item>
+      <title>Zowie вернулась на рынок игровых мышей с двумя беспроводными новинками</title>
+      <link>https://4pda.to/2026/06/15/457627/zowie_vernulas_na_rynok_igrovykh_myshej_s_dvumya_besprovodnymi_novinkami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457627/zowie_vernulas_na_rynok_igrovykh_myshej_s_dvumya_besprovodnymi_novinkami/</guid>
+      <pubDate>Mon, 15 Jun 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[Принадлежащий BenQ бренд Zowie после долгого «отпуска» анонсировал&nbsp;две новые беспроводные мыши для геймеров. Модели FK1-DW и ZA12-DW выполнены в характерном для фирменной серии сдержанном дизайне, [...]]]></description>
+    </item>
+    <item>
+      <title>Peladn представила мощный мини-ПК с железом AMD и поддержкой eGPU</title>
+      <link>https://4pda.to/2026/06/15/457626/peladn_predstavila_moschnyj_mini_pk_s_zhelezom_amd_i_podderzhkoj_egpu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457626/peladn_predstavila_moschnyj_mini_pk_s_zhelezom_amd_i_podderzhkoj_egpu/</guid>
+      <pubDate>Mon, 15 Jun 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Peladn анонсировала новую версию компактного компьютера HO5. Она позиционируется как производительное устройство для локального запуска ИИ-функций Windows, а благодаря скоростному порту OCuLink [...]]]></description>
+    </item>
+    <item>
+      <title>Toys for Bob сбежала от Activision, потому что не хотела работать над Call of Duty и Overwatch</title>
+      <link>https://4pda.to/2026/06/15/457616/toys_for_bob_sbezhala_ot_activision_potomu_chto_ne_khotela_rabotat_nad_call_of_duty_i_overwatch/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/15/457616/toys_for_bob_sbezhala_ot_activision_potomu_chto_ne_khotela_rabotat_nad_call_of_duty_i_overwatch/</guid>
+      <pubDate>Mon, 15 Jun 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[Activision давно превратилась в фабрику по производству новых частей Call of Duty. Штамповкой боевиков, само собой, занимается не издательство, а подчиняющиеся ему студии — и далеко не каждой из них это [...]]]></description>
     </item>
     <item>
       <title>ASUS выпустила бюджетную портативную колонку с защитой IP67</title>
@@ -52,327 +420,6 @@
       <description><![CDATA[Рано или поздно любое устройство превращается в ценный артефакт своего времени. Даже телевизоры конца 1990-х.
 [gallery=1]
 Несколько дней назад коллекционер Clear_Sail9098 приобрёл Sony Trinitron KV-29X5E. [...]]]></description>
-    </item>
-    <item>
-      <title>Потолочный светильник Philips Skylight имитирует окно в небо</title>
-      <link>https://4pda.to/2026/06/14/457553/potolochnyj_svetilnik_philips_skylight_imitiruet_okno_v_nebo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457553/potolochnyj_svetilnik_philips_skylight_imitiruet_okno_v_nebo/</guid>
-      <pubDate>Sun, 14 Jun 2026 18:15:00 +0000</pubDate>
-      <description><![CDATA[Philips представила необычный потолочный светильник Skylight, который создаёт впечатление, будто над головой находится настоящее окно с видом на небо. Оно использует специальные светодиоды и технологии [...]]]></description>
-    </item>
-    <item>
-      <title>Простая добавка помогла водной батарее проработать более 2800 часов</title>
-      <link>https://4pda.to/2026/06/14/457588/prostaya_dobavka_pomogla_vodnoj_bataree_prorabotat_bolee_2800_chasov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457588/prostaya_dobavka_pomogla_vodnoj_bataree_prorabotat_bolee_2800_chasov/</guid>
-      <pubDate>Sun, 14 Jun 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Южной Кореи нашли способ&nbsp;улучшить водные аккумуляторы. Они представили перспективный тип батарей, который считается более безопасной и экологичной альтернативой литий-ионным решениям.
-Секрет [...]]]></description>
-    </item>
-    <item>
-      <title>В Минске Geely выехал на красный и врезался в BMW: пострадала 18-летняя девушка</title>
-      <link>https://auto.onliner.by/go/1250955</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/14/v-minske-geely-vyexal</guid>
-      <pubDate>Sun, 14 Jun 2026 17:29:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/14/v-minske-geely-vyexal"><img alt="" src="https://content.onliner.by/news/thumbnail/b2511410a6a2e100c5dcc899454622c6.jpg" /></a></p><p>ДТП с участием двух легковых автомобилей случилось днем 14 июня на пересечении улиц Чкалова и Воронянского в Минске.</p><p><a href="https://auto.onliner.by/2026/06/14/v-minske-geely-vyexal">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Умный кулон The Gem поможет уберечься от опасного ультрафиолета</title>
-      <link>https://4pda.to/2026/06/14/457591/umnyj_kulon_the_gem_pomozhet_uberechsya_ot_opasnogo_ultrafioleta/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457591/umnyj_kulon_the_gem_pomozhet_uberechsya_ot_opasnogo_ultrafioleta/</guid>
-      <pubDate>Sun, 14 Jun 2026 16:45:00 +0000</pubDate>
-      <description><![CDATA[Компания The90, основанная бывшим руководителем Fitbit Стейси Салви, представила необычный носимый гаджет. Ожерелье The Gem предназначено для отслеживания воздействия солнечного света и помогает человеку [...]]]></description>
-    </item>
-    <item>
-      <title>Прицеп Lightship Powersled может служить мобильной электростанцией</title>
-      <link>https://4pda.to/2026/06/14/457586/pritsep_lightship_powersled_mozhet_sluzhit_mobilnoj_elektrostantsiej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457586/pritsep_lightship_powersled_mozhet_sluzhit_mobilnoj_elektrostantsiej/</guid>
-      <pubDate>Sun, 14 Jun 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Американская компания Lightship представила необычный электрический прицеп Powersled. На первый взгляд это просто грузовая платформа, но на деле внутри скрыт огромный аккумулятор ёмкостью до 240 кВтч, [...]]]></description>
-    </item>
-    <item>
-      <title>Ночной пожар в Наровле унес жизни пенсионерки и двоих детей</title>
-      <link>https://realt.onliner.by/go/1109942</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/14/nochnoj-pozhar-v-narovle-unes-zhizni-pensionerki-i-dvoix-detej</guid>
-      <pubDate>Sun, 14 Jun 2026 15:38:48 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/14/nochnoj-pozhar-v-narovle-unes-zhizni-pensionerki-i-dvoix-detej"><img alt="" src="https://content.onliner.by/news/thumbnail/daa3f7492fbd13c8f68a0438f44ea833.jpg" /></a></p><p>Трагический пожар произошел в ночь на 14 июня в Наровле. При возгорании частного дома погибли три человека, среди которых двое детей.</p><p><a href="https://realt.onliner.by/2026/06/14/nochnoj-pozhar-v-narovle-unes-zhizni-pensionerki-i-dvoix-detej">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Valve больше не будет продавать физические подарочные карты Steam. Виноваты мошенники</title>
-      <link>https://4pda.to/2026/06/14/457580/valve_bolshe_ne_budet_prodavat_fizicheskie_podarochnye_karty_steam_vinovaty_moshenniki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457580/valve_bolshe_ne_budet_prodavat_fizicheskie_podarochnye_karty_steam_vinovaty_moshenniki/</guid>
-      <pubDate>Sun, 14 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Геймеры ценят Steam не только за красоту и широкий ассортимент товаров, но ещё и за удобства — например, у каждого пользователя в учётной записи есть свой кошелёк, который можно пополнить разными способами. [...]]]></description>
-    </item>
-    <item>
-      <title>В Китае решили одну из главных проблем квантовых компьютеров</title>
-      <link>https://4pda.to/2026/06/14/457541/v_kitae_reshili_odnu_iz_glavnykh_problem_kvantovykh_kompyuterov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457541/v_kitae_reshili_odnu_iz_glavnykh_problem_kvantovykh_kompyuterov/</guid>
-      <pubDate>Sun, 14 Jun 2026 13:45:00 +0000</pubDate>
-      <description><![CDATA[Исследователи из Чжэцзянского университета представили сверхбыструю квантовую память QRAM. Потенциально она способно предложить важное решение на пути к практическому использованию квантовых компьютеров.
-Проблема [...]]]></description>
-    </item>
-    <item>
-      <title>В Китае запустили роботов-змей для патрулирования электролиний</title>
-      <link>https://4pda.to/2026/06/14/457600/v_kitae_zapustili_robotov_zmej_dlya_patrulirovaniya_elektrolinij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457600/v_kitae_zapustili_robotov_zmej_dlya_patrulirovaniya_elektrolinij/</guid>
-      <pubDate>Sun, 14 Jun 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Китайские энергетики начали использовать необычных роботов в форме змей для проверки линий электропередачи. Прототипы способны ползать по проводам, обследуя их с помощью камер и датчиков.&nbsp;
-Роботы [...]]]></description>
-    </item>
-    <item>
-      <title>Игрок в Path of Exile 2 пожертвовал редким персонажем 100 уровня во благо всех остальных</title>
-      <link>https://4pda.to/2026/06/14/457577/igrok_v_path_of_exile_2_pozhertvoval_redkim_personazhem_100_urovnya_vo_blago_vsekh_ostalnykh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457577/igrok_v_path_of_exile_2_pozhertvoval_redkim_personazhem_100_urovnya_vo_blago_vsekh_ostalnykh/</guid>
-      <pubDate>Sun, 14 Jun 2026 12:00:00 +0000</pubDate>
-      <description><![CDATA[Path of Exile 2 скрывает множество вещей,&nbsp;которые обнаружили далеко не все геймеры. И недавно фанаты раскрыли очень интересную и символическую механику, которая позволяет оставить след в истории игры.
-[youtube=dumk5X81kJw:640:360:::0]
-Первым [...]]]></description>
-    </item>
-    <item>
-      <title>Конденсатор на водной основе выдерживает 60 000 циклов зарядки</title>
-      <link>https://4pda.to/2026/06/14/457551/kondensator_na_vodnoj_osnove_vyderzhivaet_60_000_tsiklov_zaryadki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457551/kondensator_na_vodnoj_osnove_vyderzhivaet_60_000_tsiklov_zaryadki/</guid>
-      <pubDate>Sun, 14 Jun 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Немецкие исследователи создали необычный накопитель энергии, в котором ключевую роль играет обычная вода. Помимо жидкости в прототипе под названием Blue Capacitor используются ещё два&nbsp;распространённых [...]]]></description>
-    </item>
-    <item>
-      <title>Peugeot показала электрический хэтчбек E-208 GTi</title>
-      <link>https://4pda.to/2026/06/14/457469/peugeot_pokazala_elektricheskij_khetchbek_e_208_gti/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457469/peugeot_pokazala_elektricheskij_khetchbek_e_208_gti/</guid>
-      <pubDate>Sun, 14 Jun 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Французская компания готовит премьеру нового спортивного хэтчбека E-208 GTi. Модель станет частью празднования 100-летия участия бренда в легендарной гонке «24 часа Ле-Мана».&nbsp;
-Серийная версия E-208 [...]]]></description>
-    </item>
-    <item>
-      <title>Двое гомельчан несколько лет продавали данные банковских карт</title>
-      <link>https://money.onliner.by/go/331780</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/14/dvoe-gomelchan-neskolko-let-prodavali-dannye-bankovskix-kart</guid>
-      <pubDate>Sun, 14 Jun 2026 09:32:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/14/dvoe-gomelchan-neskolko-let-prodavali-dannye-bankovskix-kart"><img alt="" src="https://content.onliner.by/news/thumbnail/0eefb5a3501337c197b5ad07bb63d906.jpg" /></a></p><p>Сотрудники ГУБОПиК при поддержке бойцов ОМОНа задержали в Гомеле двух местных жителей 23 и 33 лет. По версии следствия, мужчины несколько лет занимались продажей реквизитов банковских карт белорусов.</p><p><a href="https://money.onliner.by/2026/06/14/dvoe-gomelchan-neskolko-let-prodavali-dannye-bankovskix-kart">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>13-летняя школьница бросала из окна самокат и бутылки. Ее направили на перевоспитание</title>
-      <link>https://people.onliner.by/go/1308406</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/14/13-letnyaya-shkolnica-brosala</guid>
-      <pubDate>Sun, 14 Jun 2026 09:30:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/14/13-letnyaya-shkolnica-brosala"><img alt="" src="https://content.onliner.by/news/thumbnail/df99f150b873c1446c50f762b65e3d24.jpg" /></a></p><p>В Гродно 13-летнюю школьницу направили в специальное воспитательное учреждение для несовершеннолетних после серии правонарушений. Последней каплей стала опасная выходка в одном из подъездов города.</p><p><a href="https://people.onliner.by/2026/06/14/13-letnyaya-shkolnica-brosala">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>На АЗС снова нашли просрочку. Больше всего нарушений — в Брестской области</title>
-      <link>https://money.onliner.by/go/331775</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/14/na-azs-snova-nashli-prosrochku</guid>
-      <pubDate>Sun, 14 Jun 2026 09:17:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/14/na-azs-snova-nashli-prosrochku"><img alt="" src="https://content.onliner.by/news/thumbnail/05655db8ffa942dfec0cc5f27182504b.jpg" /></a></p><p>Министерство антимонопольного регулирования и торговли провело повторную проверку магазинов и объектов общепита на автозаправочных станциях по всей стране. Хотя ситуация стала лучше по сравнению с началом года, нарушения полностью не исчезли.</p><p><a href="https://money.onliner.by/2026/06/14/na-azs-snova-nashli-prosrochku">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Новые 3D-панели помогут сигналу 6G проходить внутри помещений</title>
-      <link>https://4pda.to/2026/06/14/457464/novye_3d_paneli_pomogut_signalu_6g_prokhodit_vnutri_pomeschenij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457464/novye_3d_paneli_pomogut_signalu_6g_prokhodit_vnutri_pomeschenij/</guid>
-      <pubDate>Sun, 14 Jun 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Сети 6G обещают невероятно высокие скорости передачи данных, но у них есть серьёзный недостаток. Сигнал нового поколения плохо проходит через стены, углы и другие препятствия. Из-за этого даже обычное [...]]]></description>
-    </item>
-    <item>
-      <title>Просьба оставить девушку в покое закончилась дракой в метро (обновлено)</title>
-      <link>https://people.onliner.by/go/1308390</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/14/v-minskom-metro-paren-zastupilsya-za-devushku-i-okazalsya-v-bolnice-napadavshij-dazhe-ukusil-ego</guid>
-      <pubDate>Sun, 14 Jun 2026 09:14:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/14/v-minskom-metro-paren-zastupilsya-za-devushku-i-okazalsya-v-bolnice-napadavshij-dazhe-ukusil-ego"><img alt="" src="https://content.onliner.by/news/thumbnail/0039da49084f2f121a32bdbcb674323f.jpg" /></a></p><p>В Минске вынесли приговор 28-летнему мужчине, который устроил драку в вагоне метро после неудачной попытки познакомиться с девушкой. Как <a href="https://minsknews.by/pyanyj-zhitel-stoliczy-izbil-nesovershennoletnego-yunoshu-v-vagone-metro/">пишут</a> «Минск-Новости», пострадал 17-летний парень, решивший за нее заступиться.</p><p><a href="https://people.onliner.by/2026/06/14/v-minskom-metro-paren-zastupilsya-za-devushku-i-okazalsya-v-bolnice-napadavshij-dazhe-ukusil-ego">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Под Смолевичами заметили необычно дисциплинированного лося</title>
-      <link>https://auto.onliner.by/go/1250899</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/14/pod-smolevichami-zametili</guid>
-      <pubDate>Sun, 14 Jun 2026 09:12:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/14/pod-smolevichami-zametili"><img alt="" src="https://content.onliner.by/news/thumbnail/d338bee820361f754a6ee0ca1a57d38f.jpg" /></a></p><p>В Threads набирает популярность видео, снятое утром недалеко от Смолевичей. На кадрах виден лось, который вышел к оживленной трассе и, судя по всему, решил не рисковать.</p><p><a href="https://auto.onliner.by/2026/06/14/pod-smolevichami-zametili">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Китае открывают круглосуточные магазины с робопродавцами</title>
-      <link>https://4pda.to/2026/06/14/457466/v_kitae_otkryvayut_kruglosutochnye_magaziny_s_roboprodavtsami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457466/v_kitae_otkryvayut_kruglosutochnye_magaziny_s_roboprodavtsami/</guid>
-      <pubDate>Sun, 14 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[На набережной района Хунхам в Гонконге&nbsp;готовится к открытию необычный круглосуточный магазин. Его главной особенностью станет человекоподобный робот по прозвищу Сяо Гай, который будет встречать покупателей, [...]]]></description>
-    </item>
-    <item>
-      <title>Стало известно, сколько зарабатывают чиновники в Беларуси</title>
-      <link>https://money.onliner.by/go/331765</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/14/stalo-izvestno-skolko-zarabatyvayut-chinovniki-v-belarusi</guid>
-      <pubDate>Sun, 14 Jun 2026 08:37:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/14/stalo-izvestno-skolko-zarabatyvayut-chinovniki-v-belarusi"><img alt="" src="https://content.onliner.by/news/thumbnail/1790679719f3825eec88927ae1a9b42d.jpg" /></a></p><p>В органах государственного управления Беларуси в 2025 году работали 178,9 тысячи человек. Такие данные опубликовал Белстат.</p><p><a href="https://money.onliner.by/2026/06/14/stalo-izvestno-skolko-zarabatyvayut-chinovniki-v-belarusi">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Беларуси продают монету почти за полмиллиона долларов. Таких в мире всего 49</title>
-      <link>https://money.onliner.by/go/331757</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/14/v-belarusi-prodayut-monetu-pochti-za-polmilliona-dollarov-takix-v-mire-vsego-49</guid>
-      <pubDate>Sun, 14 Jun 2026 08:23:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/14/v-belarusi-prodayut-monetu-pochti-za-polmilliona-dollarov-takix-v-mire-vsego-49"><img alt="" src="https://content.onliner.by/news/thumbnail/de0975f3b20deaa34809bcc629132f3a.jpg" /></a></p><p>На белорусском рынке коллекционных монет появилось необычное предложение. Редкую золотую монету Нацбанка <a href="https://belnumizmatika.by/p76786125-belorusskij-balet-2014.html">выставили</a> на продажу за 1 272 669 рублей — это около 459 тысяч долларов.</p><p><a href="https://money.onliner.by/2026/06/14/v-belarusi-prodayut-monetu-pochti-za-polmilliona-dollarov-takix-v-mire-vsego-49">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Новые мягкие роботы смогут менять свою жёсткость по требованию</title>
-      <link>https://4pda.to/2026/06/14/457465/novye_myagkie_roboty_smogut_menyat_svoyu_zhyostkost_po_trebovaniyu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457465/novye_myagkie_roboty_smogut_menyat_svoyu_zhyostkost_po_trebovaniyu/</guid>
-      <pubDate>Sun, 14 Jun 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[Лондонский стартап morph представил необычную платформу для создания мягкой робототехники. Её основой стали специальные роботизированные клетки, которые могут менять форму и жёсткость прямо во время работы.
-[youtube=pyFVT4q7aoo:640:360:::0]
-Каждая [...]]]></description>
-    </item>
-    <item>
-      <title>Глава Xbox: геймеры не смогут позволить себе новое поколение консолей</title>
-      <link>https://4pda.to/2026/06/14/457581/glava_xbox_gejmery_ne_smogut_pozvolit_sebe_novoe_pokolenie_konsolej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457581/glava_xbox_gejmery_ne_smogut_pozvolit_sebe_novoe_pokolenie_konsolej/</guid>
-      <pubDate>Sun, 14 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Компании не спешат завершать текущее поколение консолей, но уже вовсю готовятся к запуску следующего. Однако глава Xbox считает, что индустрия очень скоро столкнётся с серьёзным кризисом, который заставит [...]]]></description>
-    </item>
-    <item>
-      <title>Древесные отходы превратили в суперконденсатор</title>
-      <link>https://4pda.to/2026/06/14/457533/drevesnye_otkhody_prevratili_v_superkondensator/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457533/drevesnye_otkhody_prevratili_v_superkondensator/</guid>
-      <pubDate>Sun, 14 Jun 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Финский стартап Granarium Technologies представил необычный суперконденсатор, который почти полностью состоит из переработанной древесины и сельскохозяйственных отходов.
-Разработчики называют его первым [...]]]></description>
-    </item>
-    <item>
-      <title>Экраноплан WaveFly 5X может парить прямо над водой</title>
-      <link>https://4pda.to/2026/06/14/457463/ekranoplan_wavefly_5x_mozhet_parit_pryamo_nad_vodoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457463/ekranoplan_wavefly_5x_mozhet_parit_pryamo_nad_vodoj/</guid>
-      <pubDate>Sun, 14 Jun 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания NAVEE представила необычное транспортное средство под названием WaveFly 5X. Новинка способна&nbsp;скользить над поверхностью воды, создавая ощущение низкого полёта.&nbsp;
-Аппарат [...]]]></description>
-    </item>
-    <item>
-      <title>Семья за $45 тысяч купила микроавтобус и всего за месяц переделала его в жилье</title>
-      <link>https://realt.onliner.by/go/1109849</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/14/semya-za-45</guid>
-      <pubDate>Sun, 14 Jun 2026 05:00:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/14/semya-za-45"><img alt="" src="https://content.onliner.by/news/thumbnail/ed6698f8ca768d83a9cda095d68ef63d.jpg" /></a></p><p>Американцы Зои и Келби Джекеры давно живут так, как другим удается всего пару раз в год. В дороге, на природе они проводят большую часть своего времени. В прошлом году они решили окончательно перейти на мобильный образ существования, для чего им понадобился автомобиль, который бы при компактных габаритах мог выступать в качестве полноценного жилья, даже когда им приходится задерживаться на одном месте на недели, а то и месяцы. Микроавтобус Ford Transit 250, купленный на одном из маркетплейсов с большим дисконтом, решил задачу. Правда, для этого его пришлось разобрать до каркаса и фактически собрать заново, уже с учетом собственных нужд и желаний. Работа заняла всего месяц, но результатом авторы идеи остались довольны. Теперь у них есть новый дом, пусть его длина и составляет всего пять метров.</p><p><a href="https://realt.onliner.by/2026/06/14/semya-za-45">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Пропали на два часа, встретились с пришельцами. История Бетти и Барни Хилл, изменившая уфологию</title>
-      <link>https://tech.onliner.by/go/778447</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/14/suprugi-hill-nlo</guid>
-      <pubDate>Sun, 14 Jun 2026 05:00:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/14/suprugi-hill-nlo"><img alt="" src="https://content.onliner.by/news/thumbnail/144c3218e3d825ae82095123ca5c2fb5.jpg" /></a></p><p>61 год назад — если быть еще точнее, 25 октября 1965-го — на первой полосе газеты Boston Traveler появилась статья с заголовком «НЛО-триллер: на самом ли деле ОНИ смогли похитить семейную пару?». В ней репортер Джон Латтрелл рассказывал невероятную историю Бетти и Барни Хилл — супругов, которые утверждали: в ночь на 19 сентября 1961-го их похитили инопланетяне. </p><p><a href="https://tech.onliner.by/2026/06/14/suprugi-hill-nlo">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Все фильмы Квентина Тарантино от лучшего к худшему: рейтинг читателей Onlíner</title>
-      <link>https://people.onliner.by/go/1307733</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/14/filmy-kventina-tarantino</guid>
-      <pubDate>Sun, 14 Jun 2026 05:00:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/14/filmy-kventina-tarantino"><img alt="" src="https://content.onliner.by/news/thumbnail/8113684b4cb26697538120f28dc75a5e.jpg" /></a></p><p>Квентин Тарантино — культовый режиссер, имя которого уже давно превратилось в нарицательное. Мастер ироничных диалогов, постмодернистских отсылок, футфетишистских кадров и резких высказываний в сторону коллег умеет разбрасываться словами по поводу чего угодно, только не про собственную карьеру: Тарантино обещал снять всего десять фильмов и пока что, кажется, придерживается плана, оттягивая лебединую песню до последнего. Пока зрители ждут новых историй, в кинотеатрах показывают переиздание «Убить Билла» с подзаголовком «Кровавое дело целиком» — это расширенная, 4,5-часовая версия дилогии с Умой Турман. Хороший повод вместе рассортировать все фильмы Тарантино от лучшего к худшему или просто к нормальному: откровенно плохое кино он за 35 лет снять так и не смог. </p><p><a href="https://people.onliner.by/2026/06/14/filmy-kventina-tarantino">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Выбираем лучший бюджет! Бонус: белорус зарабатывает 17 тысяч, но жена говорит, что мало</title>
-      <link>https://money.onliner.by/go/330929</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/14/vybiraem-luchshij-byudzhet-bonus-belorus-zarabatyvaet-17-tysyach-no-zhena-govorit-chto-malo</guid>
-      <pubDate>Sun, 14 Jun 2026 05:00:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/14/vybiraem-luchshij-byudzhet-bonus-belorus-zarabatyvaet-17-tysyach-no-zhena-govorit-chto-malo"><img alt="" src="https://content.onliner.by/news/thumbnail/a0ec0cb5bb15724b5a063c8adc3ca69b.jpg" /></a></p><p>Почти два месяца наши читатели делились историями о своих доходах и тратах — теперь пришло время выбирать победителей, которым достанутся смартфоны от <a href="https://www.instagram.com/infinix.belarus/" target="_blank">Infinix</a>. Правила простые: лучшие рассказы определяют читатели, итоги подведем 18 июня. А бонусом расскажем историю читателя, который пришел к заработку в 17 000 рублей (но жена говорит, что мало).</p><p><a href="https://money.onliner.by/2026/06/14/vybiraem-luchshij-byudzhet-bonus-belorus-zarabatyvaet-17-tysyach-no-zhena-govorit-chto-malo">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Новые искусственные глаза помогут роботам лучше видеть</title>
-      <link>https://4pda.to/2026/06/14/457478/novye_iskusstvennye_glaza_pomogut_robotam_luchshe_videt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457478/novye_iskusstvennye_glaza_pomogut_robotam_luchshe_videt/</guid>
-      <pubDate>Sun, 14 Jun 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Исследователи из Пенсильванского университета создали устройство, имитирующее работу человеческого глаза. Новая технология должна помочь роботам и беспилотным автомобилям лучше ориентироваться в условиях, [...]]]></description>
-    </item>
-    <item>
-      <title>В России супруги могут поделить скины в играх при разводе</title>
-      <link>https://4pda.to/2026/06/14/457579/v_rossii_suprugi_mogut_podelit_skiny_v_igrakh_pri_razvode/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457579/v_rossii_suprugi_mogut_podelit_skiny_v_igrakh_pri_razvode/</guid>
-      <pubDate>Sun, 14 Jun 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[У каждого геймера, особенно если он увлекается играми-сервисами, рано или поздно складывается коллекция любимых скинов, на которые обычно истрачена&nbsp;круглая сумма. Теперь семейным парам стоит обращать [...]]]></description>
-    </item>
-    <item>
-      <title>Сколько платят донорам крови в Беларуси и как получить звание почетного донора</title>
-      <link>https://money.onliner.by/go/331490</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/14/skolko-platyat-donoram-krovi-v-belarusi</guid>
-      <pubDate>Sun, 14 Jun 2026 04:00:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/14/skolko-platyat-donoram-krovi-v-belarusi"><img alt="" src="https://content.onliner.by/news/thumbnail/edfc07a14c9d52c01f379dc51516b393.jpg" /></a></p><p>За одну донацию крови в Беларуси сегодня можно получить около 190 рублей, а за сдачу тромбоцитов — почти 500. Но деньги остаются далеко не главной причиной, по которой люди возвращаются на станции переливания снова и снова. Мы поговорили с донорами с многолетним стажем и собрали ответы на самые частые вопросы: кто может сдавать кровь, какие льготы положены донорам и как получить звание почетного донора.</p><p><a href="https://money.onliner.by/2026/06/14/skolko-platyat-donoram-krovi-v-belarusi">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Вместо новой Vesta SW: восемь премиальных универсалов за те же деньги</title>
-      <link>https://auto.onliner.by/go/1190316</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/14/premium-po-cene-byudzhetnika</guid>
-      <pubDate>Sun, 14 Jun 2026 04:00:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/14/premium-po-cene-byudzhetnika"><img alt="" src="https://content.onliner.by/news/thumbnail/f77b64c6589528d47469dfcc716d2ee6.jpg" /></a></p><p>За новые универсалы вроде Lada Vesta SW или Lada Iskra SW / SW Cross просят порядка 55—65 тысяч рублей. Кто-то наверняка скажет, что за эти деньги можно купить приличный автомобиль классом-другим повыше — с таким же типом кузова, но, разумеется, в подержанном состоянии. Что ж, давайте посмотрим, что же из премиальных моделей и в возрасте до 10 лет предлагается сейчас на вторичном рынке. Попутно поищем такие варианты на <a href="https://ab.onliner.by/" target="_blank">«Автобарахолке»</a>.</p><p><a href="https://auto.onliner.by/2026/06/14/premium-po-cene-byudzhetnika">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Новый седан BYD умеет крутиться на месте</title>
-      <link>https://4pda.to/2026/06/14/457471/novyj_sedan_byd_umeet_krutitsya_na_meste/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/14/457471/novyj_sedan_byd_umeet_krutitsya_na_meste/</guid>
-      <pubDate>Sun, 14 Jun 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[В сети завирусилось видео, где электрический седан BYD выполняет 360-градусный разворот на месте. Машина буквально вращается на стоянке вокруг&nbsp;оси, не двигаясь при этом вперёд или назад.
-Такой [...]]]></description>
-    </item>
-    <item>
-      <title>Карманный робот Q8botOne работает на АА-батарейках</title>
-      <link>https://4pda.to/2026/06/13/457480/karmannyj_robot_q8botone_rabotaet_na_aa_batarejkakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457480/karmannyj_robot_q8botone_rabotaet_na_aa_batarejkakh/</guid>
-      <pubDate>Sat, 13 Jun 2026 19:45:00 +0000</pubDate>
-      <description><![CDATA[Инженеры разработали миниатюрного робота Q8botOne. С его выпуском разработчики хотят сделать продвинутую робототехнику доступнее для студентов, инженеров и энтузиастов.
-Несмотря на компактные размеры, [...]]]></description>
-    </item>
-    <item>
-      <title>Электрокары сократили число смертей в Китае</title>
-      <link>https://4pda.to/2026/06/13/457472/elektrokary_sokratili_chislo_smertej_v_kitae/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/13/457472/elektrokary_sokratili_chislo_smertej_v_kitae/</guid>
-      <pubDate>Sat, 13 Jun 2026 19:30:00 +0000</pubDate>
-      <description><![CDATA[Массовый переход Китая на электромобили и другие транспортные средства на новых источниках энергии принёс не только экологическую, но и вполне ощутимую медицинскую пользу. Согласно исследованию, опубликованному [...]]]></description>
-    </item>
-    <item>
-      <title>Мотоцикл не разъехался с Peugeot: пострадали два человека</title>
-      <link>https://auto.onliner.by/go/1250885</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/13/motocikl-ne-razexalsya-s-peugeot-postradali-dva-cheloveka</guid>
-      <pubDate>Sat, 13 Jun 2026 19:02:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/13/motocikl-ne-razexalsya-s-peugeot-postradali-dva-cheloveka"><img alt="" src="https://content.onliner.by/news/thumbnail/a3526399d5fbaa586a2d15797d8d15be.jpg" /></a></p><p>ДТП случилось в Минске. 28-летний водитель автомобиля Peugeot двигалась по улице Карла Либкнехта, вблизи дома №178 по улице Розы Люксембург. По предварительной информации УГАИ ГУВД Мингорисполкома, при повороте налево девушка не предоставила преимущество 19-летнему водителю мотоцикла Suzuki, из-за чего случилось столкновение.
-</p><p><a href="https://auto.onliner.by/2026/06/13/motocikl-ne-razexalsya-s-peugeot-postradali-dva-cheloveka">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Могилевской области водитель Mercedes врезался в грузовик МАЗ</title>
-      <link>https://auto.onliner.by/go/1250873</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/13/v-mogilevskoj-oblasti-voditel-mercedes-vrezalsya-v-gruzovik-maz</guid>
-      <pubDate>Sat, 13 Jun 2026 16:44:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/13/v-mogilevskoj-oblasti-voditel-mercedes-vrezalsya-v-gruzovik-maz"><img alt="" src="https://content.onliner.by/news/thumbnail/cb4419f0ef5a17d9d11c054417601d38.jpg" /></a></p><p>На 57-м километре автодороги Р43 «Граница Российской Федерации — Кричев — Бобруйск — Ивацевичи», в Чериковском районе, недалеко от Речицы, произошло столкновение Mercedes-Benz Sprinter и грузовика-лесовоза МАЗ. По данным УВД Могилевского облисполкома, легковой автомобиль выехал на полосу встречного движения, где и случилось ДТП.</p><p><a href="https://auto.onliner.by/2026/06/13/v-mogilevskoj-oblasti-voditel-mercedes-vrezalsya-v-gruzovik-maz">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Минском районе столкнулись BMW и Audi. Один из водителей погиб</title>
-      <link>https://auto.onliner.by/go/1250860</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/13/v-minskom-rajone-stolknulis-bmw-i-audi-odin-iz-voditelej-pogib</guid>
-      <pubDate>Sat, 13 Jun 2026 14:18:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/13/v-minskom-rajone-stolknulis-bmw-i-audi-odin-iz-voditelej-pogib"><img alt="" src="https://content.onliner.by/news/thumbnail/386528e3dd5d3a08165899aacc9d0b5f.jpg" /></a></p><p>ДТП случилось сегодня, в районе 14:00, на 21-м километре автодороги М3 «Минск — Витебск». По предварительной информации ГАИ, 41-летний водитель BMW, двигавшийся в направлении Минска, в один момент выехал на полосу встречного движения. Там он столкнулся с движущимся ему навстречу Audi, за рулем которого находился 23-летний мужчина.</p><p><a href="https://auto.onliner.by/2026/06/13/v-minskom-rajone-stolknulis-bmw-i-audi-odin-iz-voditelej-pogib">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>ФБР построило копию целого города — и все из-за кибератак</title>
-      <link>https://tech.onliner.by/go/778700</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/13/fbr-postroilo-kopiyu-celogo-goroda-i-vse-iz-za-kiberatak</guid>
-      <pubDate>Sat, 13 Jun 2026 13:51:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/13/fbr-postroilo-kopiyu-celogo-goroda-i-vse-iz-za-kiberatak"><img alt="" src="https://content.onliner.by/news/thumbnail/efbca0854250be84472e6f55dc1e8aea.jpg" /></a></p><p>Федеральное бюро расследований представило макет города площадью 2043 квадратных метра, построенный в штате Алабама. По данным TechCrunch, цель такой имитации — обучение сотрудников правоохранительных органов моделированию и расследованию реальных кибератак.
-</p><p><a href="https://tech.onliner.by/2026/06/13/fbr-postroilo-kopiyu-celogo-goroda-i-vse-iz-za-kiberatak">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Водители Tesla начали обманывать систему с помощью кукольных голов</title>
-      <link>https://auto.onliner.by/go/1250836</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/13/voditeli-tesla-nachali-obmanyvat-sistemu-s-pomoshhyu-kukolnyx-golov</guid>
-      <pubDate>Sat, 13 Jun 2026 12:02:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/13/voditeli-tesla-nachali-obmanyvat-sistemu-s-pomoshhyu-kukolnyx-golov"><img alt="" src="https://content.onliner.by/news/thumbnail/446488152905ef4c32ef2df07094e4ca.jpg" /></a></p><p>У системы автономного вождения Tesla возникли сложности с тем, чтобы отличить пластиковую фигурку от реального человека. По данным Wired, этим начали пользоваться китайские водители, которые стали размещать крошечные кукольные головы над зеркалом заднего вида: так они создают иллюзию того, что за рулем находится водитель, чье внимание приковано к дороге.</p><p><a href="https://auto.onliner.by/2026/06/13/voditeli-tesla-nachali-obmanyvat-sistemu-s-pomoshhyu-kukolnyx-golov">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
   </channel>
 </rss>
