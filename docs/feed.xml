@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 15 Jun 2026 20:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 04:07:49 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -24,6 +24,53 @@
       <description><![CDATA[<p>Following <a href="https://itsfoss.com/news/linux-kernel-7-0-release/">Linux 7.0</a> in April and the stable point releases since, Linux 7.1 is now available as a major feature release in the 7.x series.</p><p>You get a bunch of upgrades with this, ranging from a new NTFS driver that landed after four years of development all the way to a bugfix for a long-standing audio issue on the Steam Deck OLED.</p><p>And, if you remember <a href="https://itsfoss.com/news/linux-kernel-i486-cpu-support-removal/">our reporting</a> from a few months ago, then this release also formally drops i486 CPU support from the kernel build system.</p><h2 id="whats-new-in-this-release">What's new in this release?</h2><figure class="kg-card kg-image-card"><img alt="terminal window that is showing the fastfetch output on an ubuntu 26.04 lts system, the line for kernel is highlighted with a green box and blue arrows, inside it linux 7.1.0-070100-generic is written" class="kg-image" height="624" src="https://itsfoss.com/content/images/2026/06/ubuntu-26-04-running-linux-7-1.png" width="928" /></figure><p>Intel's Flexible Return and Event Delivery (<a href="https://www.intel.com/content/www/us/en/content-details/779982/flexible-return-and-event-delivery-fred-specification.html">FRED</a>) is <strong>now enabled by default</strong> in Linux, having previously required a manual <code>fred=on</code> boot flag. The switch was held back until publicly available hardware could be properly evaluated, and the code has since been tested thoroughly enough to flip from opt-in to opt-out.</p><p><a href="https://www.phoronix.com/news/Linux-7.1-Enabled-Intel-FRED">Phoronix</a> reports that people running Intel Core Ultra Series 3 "<em>Panther Lake</em>" should see real gains here, particularly on I/O-heavy workloads like databases, networking applications, and audio processing.</p><p>The crypto subsystem picks up some <a href="https://www.intel.com/content/www/us/en/architecture-and-technology/intel-quick-assist-technology-overview.html">Intel QAT</a> additions too. For QAT Gen4 and Gen5 hardware, basic Zstd compression offload is now available. The Gen6 version, intended for the <em>Diamond Rapids</em> platform, gets a native Zstd implementation covering both compression and decompression.</p><p>The <a href="https://docs.kernel.org/admin-guide/pm/amd-pstate.html">amd-pstate</a> driver gains CPPC Performance Priority, Dynamic EPP (<em>Energy Performance Preference</em>), and Raw EPP with this release for more granular control over power and performance on modern AMD Ryzen and EPYC hardware.</p><p>Similarly, the <a href="https://docs.kernel.org/gpu/amdgpu/index.html">AMDgpu</a> driver sees several changes this cycle, including SMU 15.0.8 IP support, DCN 4.2 display updates, a new DebugFS interface for monitoring 64-bit PCIe registers, and a fix for a GPU page fault triggering on non-4K page size kernel builds.</p><p>And, after four years of work, <strong>a new NTFS driver has landed</strong> in the mainline kernel. We covered its development <a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/">last December</a>, when it was still working its way toward integration.</p><p>Linus Torvalds called the merge the "<em>ntfs resurrection</em>," though he briefly un-pulled the code over a Git structure issue before <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cdd4dc3aebeab43a72ce0bc2b5bab6f0a80b97a5">accepting a revised pull request</a>. The new driver is available via the&#8291; <code>NTFS_FS</code> Kconfig switch, and NTFS3 is still around for now.</p><p>Finally, we have the newly introduced support for <strong>12 new SoCs</strong>, including Qualcomm's <strong>Glymur</strong>, <strong>Mahua</strong>, <strong>Eliza</strong>, and <strong>IPQ5210</strong>, Axis <strong>ARTPEC-9</strong>, Microchip's <strong>LAN9691</strong> and <strong>PIC64GX</strong>, Renesas <strong>RZ/G3L</strong>, NXP <strong>S32N79</strong>, Rockchip's <strong>RV1103B</strong>, and ARM's <strong>Zena</strong> and <strong>Corstone-1000-A320</strong>.</p><h2 id="should-you-install-this">Should you install this?</h2><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">It is to get excited about a new kernel release, But <a href="https://itsfoss.com/compile-linux-kernel/" rel="noreferrer">compiling a new kernel</a> or installing a new one is usually considered intermediate to expert zone. For a regular Linux user, it is better to wait for the distro to provide it, unless you have a compelling reason to get the new kernel early.</div></div><p><em>It depends</em>. If something in this release addresses a gap you had with earlier kernels, it's worth the upgrade. You can download the tarball from the <a href="https://www.kernel.org">official website</a> and get started installing it on something like <a href="https://itsfoss.com/upgrade-linux-kernel-ubuntu/">Ubuntu</a>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kernel.org">Linux Kernel 7.1</a></div><p>For the rest of us, it depends on the distribution one is using. Not every distro will be providing this release upgrade. Rolling releases like <a href="https://archlinux.org/">Arch Linux</a> and more frequently updated distros like <a href="https://fedoraproject.org/">Fedora</a> and its derivatives will be picking this up soon. </p><p>Others on distros like Debian or Linux Mint likely won't see it on their computers.</p><hr /><p><strong>Suggested Read &#128214;: </strong><a href="https://itsfoss.com/news/proton-drive-cli/" rel="noreferrer"><em>Proton Drive Now Has a CLI</em></a></p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17361309.gif" width="1" />]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>«За 14 часов в самолете ноги превратились в „колодки“». Почему мы отекаем в путешествиях?</title>
+      <link>https://people.onliner.by/go/1307102</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/16/oteki-i-puteshestviya</guid>
+      <pubDate>Tue, 16 Jun 2026 04:00:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/16/oteki-i-puteshestviya"><img alt="" src="https://content.onliner.by/news/thumbnail/2115afa4dec472bbd7b3f8d72fae371f.jpg" /></a></p><p>Среди множества разнообразных страданий, доступных человечеству, включая заевшую молнию и уродливые шапочки для бассейна, особое место занимают отеки. Это гадкая история, которая случается с каждым в полете или долгом путешествии. Но как отличить нормальный отек от повода быстренько бежать к врачу? Чем помочь себе в самолете? Как не отекать в жару? И при чем здесь варикоз? Разбираемся вместе с читателями Onlíner и врачом-флебологом Ольгой Позняковой. Подробности — в совместном спецпроекте с <a href="https://servier.by/?utm_source=onliner&amp;utm_medium=brending&amp;utm_campaign=sp" target="_blank">Servier</a>.</p><p><a href="https://people.onliner.by/2026/06/16/oteki-i-puteshestviya">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Как General Motors, Chrysler и Ford уступили рынок США японцам и немцам</title>
+      <link>https://auto.onliner.by/go/627485</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/16/gm-ford-chry</guid>
+      <pubDate>Tue, 16 Jun 2026 04:00:43 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/16/gm-ford-chry"><img alt="" src="https://content.onliner.by/news/thumbnail/1833fd8c6311e2cbd8072b127c498af0.jpeg" /></a></p><p>Три кита всей американской промышленности — Ford, General Motors и Chrysler — бóльшую часть прошлого века процветали и задавали темп автомобилизации по всей планете, но уже в 2009-м получили от федерального правительства $77 млрд кредита, чтобы пройти через процедуру банкротства. Почему рухнули главные автогиганты Америки — разбираемся поэтапно.
+</p><p><a href="https://auto.onliner.by/2026/06/16/gm-ford-chry">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Что скрыто внутри Национальной библиотеки? Заглянули туда, куда не пускают читателей</title>
+      <link>https://realt.onliner.by/go/805124</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/16/nacionalka-otkuda-vklyuchayut-podsvetku-i-chto-tam-pod-almazom</guid>
+      <pubDate>Tue, 16 Jun 2026 04:00:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/16/nacionalka-otkuda-vklyuchayut-podsvetku-i-chto-tam-pod-almazom"><img alt="" src="https://content.onliner.by/news/thumbnail/7c3b30973ba1dec4834ce5096f2358e1.jpeg" /></a></p><p>Белорусы, даже не искушенные в геометрии, давно научились выговаривать слово «ромбокубооктаэдр» и хорошо знают, как такая фигура выглядит. Все благодаря необычной форме Национальной библиотеки. За годы существования нового здания в нем успели побывать миллионы людей. Однако большая часть жизни Националки по-прежнему скрыта от посторонних глаз. Книгохранилища на нескольких этажах, подземные технические помещения, реставрационные мастерские и центр оцифровки. В этом репортаже заглянем именно туда.</p><p><a href="https://realt.onliner.by/2026/06/16/nacionalka-otkuda-vklyuchayut-podsvetku-i-chto-tam-pod-almazom">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Двухрежимный игровой 4K-монитор TCL Thunderbird 274U7A оценён в $250</title>
+      <link>https://4pda.to/2026/06/16/457658/dvukhrezhimnyj_igrovoj_4k_monitor_tcl_thunderbird_274u7a_otsenyon_v_250/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457658/dvukhrezhimnyj_igrovoj_4k_monitor_tcl_thunderbird_274u7a_otsenyon_v_250/</guid>
+      <pubDate>Tue, 16 Jun 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[Компания TCL представила монитор Thunderbird 274U7A с подсветкой mini-LED, ориентированный на аудиторию геймеров. Новинка с быстрым и ярким дисплеем способна переключаться между двумя пресетами базовых [...]]]></description>
+    </item>
+    <item>
+      <title>Слух: студия-партнёр CDPR делает условно-бесплатную кооперативную игру во вселенной The Witcher</title>
+      <link>https://4pda.to/2026/06/16/457665/slukh_studiya_partnyor_cdpr_delaet_uslovno_besplatnuyu_kooperativnuyu_igru_vo_vselennoj_the_witcher/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457665/slukh_studiya_partnyor_cdpr_delaet_uslovno_besplatnuyu_kooperativnuyu_igru_vo_vselennoj_the_witcher/</guid>
+      <pubDate>Tue, 16 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Судя по финансовым отчётам, у CD Projekt полно дел — компания работает над сиквелом Cyberpunk 2077, The Witcher IV и двумя загадочными&nbsp;проектами. Однако это ещё не всё: если верить СМИ, компания также [...]]]></description>
+    </item>
+    <item>
+      <title>Главные характеристики камерофона OPPO Find X10 Pro раскрыты надёжным источником</title>
+      <link>https://4pda.to/2026/06/16/457642/glavnye_kharakteristiki_kamerofona_oppo_find_x10_pro_raskryty_nadyozhnym_istochnikom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457642/glavnye_kharakteristiki_kamerofona_oppo_find_x10_pro_raskryty_nadyozhnym_istochnikom/</guid>
+      <pubDate>Tue, 16 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Инсайдер Digital
+Chat Station&nbsp;опубликовал свежие подробности о готовящемся к выпуску флагманском смартфоне OPPO Find X10 Pro. В своём отчёте информатор назвал ключевые спецификации гаджета, включая [...]]]></description>
     </item>
     <item>
       <title>Опрос: какой «срок годности» у смартфонов?</title>
@@ -372,22 +419,6 @@ Alkimia [...]]]></description>
       <description><![CDATA[Компания Honor презентовала новый среднебюджетный смартфон X70 Pro Max. Его ключевыми особенностями стали ёмкий аккумулятор, продвинутые характеристики экрана и надёжная защита от воды на уровне флагманских [...]]]></description>
     </item>
     <item>
-      <title>Курсовые с сюрпризом. Такие заказали 16 студентов и попались</title>
-      <link>https://money.onliner.by/go/331831</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/15/16-studentov-zakazali-kursovye-no-tak-ix-i-ne-poluchili</guid>
-      <pubDate>Mon, 15 Jun 2026 09:53:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/15/16-studentov-zakazali-kursovye-no-tak-ix-i-ne-poluchili"><img alt="" src="https://content.onliner.by/news/thumbnail/7ed68454a6019b8279d13f95c7ef6ae4.jpg" /></a></p><p>16 студентов заказали курсовые, но не увидели ни работ, ни денег. Оказалось, исполнитель обманывал их с самого начала. Подробности схемы <a href="https://sk.gov.by/ru/news-usk-minsk-ru/view/kursovaja-na-zakaz-okazalas-obmanom-muzhchina-iz-zhodino-obvinjaetsja-v-sovershenii-moshennichestva-16072" target="_blank">рассказали</a> в Следственном комитете.</p><p><a href="https://money.onliner.by/2026/06/15/16-studentov-zakazali-kursovye-no-tak-ix-i-ne-poluchili">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Датч-хаус, Ваня Дмитриенко и «Беларусь каханая». На стадионе «Динамо» прошел третий belbet fest</title>
-      <link>https://people.onliner.by/go/1308385</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/15/belbet-fest-2026</guid>
-      <pubDate>Mon, 15 Jun 2026 09:52:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/15/belbet-fest-2026"><img alt="" src="https://content.onliner.by/news/thumbnail/745fa8a50ecaa795a416b97c3aebfd5c.jpg" /></a></p><p><p dir="ltr">Фестивальное лето в Минске официально стартовало. Правда, с оговоркой. Если еще в прошлом году опен-эйры действительно все лето шли один за другим расслабленным потоком, то в этот раз все похоже на традиционный белорусский шторм — внезапный, шумный, скоротечный. По сути, belbet fest, который в субботу отгремел на стадионе «Динамо», — первый и последний по-настоящему большой столичный фестиваль в 2026-м (все остальные крупные «музыкальные осадки» прогнозируются в Витебской и Гродненской областях). Сходили и посмотрели, как он прошел.</p><p><a href="https://people.onliner.by/2026/06/15/belbet-fest-2026">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>iFFALCON IF-CLTB09 INV: мощный и доступный инвертор с самоочисткой</title>
       <link>https://4pda.to/2026/06/15/457017/iffalcon_if_cltb09_inv_moschnyj_i_dostupnyj_invertor_s_samoochistkoj/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/15/457017/iffalcon_if_cltb09_inv_moschnyj_i_dostupnyj_invertor_s_samoochistkoj/</guid>
@@ -410,29 +441,6 @@ Alkimia [...]]]></description>
       <description><![CDATA[Компания&nbsp;Minix&nbsp;представила на рынке Японии мини-ПК ER939-AI Pro на
 базе процессора AMD Ryzen AI. Корпус новинки напоминает небольшой металлический
 чемодан, оснащённый четырьмя ножками и кожаной [...]]]></description>
-    </item>
-    <item>
-      <title>Rapoo представила игровую гарнитуру со съёмной АКБ и автономностью до 150 ч</title>
-      <link>https://4pda.to/2026/06/15/457637/rapoo_predstavila_igrovuyu_garnituru_so_syomnoj_akb_i_avtonomnostyu_do_150_ch/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/15/457637/rapoo_predstavila_igrovuyu_garnituru_so_syomnoj_akb_i_avtonomnostyu_do_150_ch/</guid>
-      <pubDate>Mon, 15 Jun 2026 09:10:00 +0000</pubDate>
-      <description><![CDATA[В ассортименте Rapoo появилась игровая беспроводная гарнитура VE3 с акцентом на длительном времени автономной работы. Кроме того, новинка примечательна оригинальным дизайном, а также поддержкой технологии [...]]]></description>
-    </item>
-    <item>
-      <title>Опубликованы первые снимки, сделанные на камеру vivo X Fold 6</title>
-      <link>https://4pda.to/2026/06/15/457636/opublikovany_pervye_snimki_sdelannye_na_kameru_vivo_x_fold_6/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/15/457636/opublikovany_pervye_snimki_sdelannye_na_kameru_vivo_x_fold_6/</guid>
-      <pubDate>Mon, 15 Jun 2026 09:05:00 +0000</pubDate>
-      <description><![CDATA[Vivo поделилась свежими подробностями о грядущем смартфоне vivo X Fold 6 в
-преддверии его анонса. В соцсети Weibo топ-менеджеры бренда рассекретили характеристики камеры устройства
-и продемонстрировали [...]]]></description>
-    </item>
-    <item>
-      <title>В конце июня Dragon’s Dogma II ждут перемены: игру сделают дешевле, а из магазинов уберут микротранзакции</title>
-      <link>https://4pda.to/2026/06/15/457644/v_kontse_iyunya_dragon_s_dogma_ii_zhdut_peremeny_igru_sdelayut_deshevle_a_iz_magazinov_uberut_mikrotranzaktsii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/15/457644/v_kontse_iyunya_dragon_s_dogma_ii_zhdut_peremeny_igru_sdelayut_deshevle_a_iz_magazinov_uberut_mikrotranzaktsii/</guid>
-      <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[На прошлой неделе Capcom внезапно вспомнила о существовании Dragon’s Dogma II и анонсировала крупное DLC к культовой экшен-RPG. И, как выяснилось на выходных, благие вести для фанатов дилогии на этом не [...]]]></description>
     </item>
   </channel>
 </rss>
