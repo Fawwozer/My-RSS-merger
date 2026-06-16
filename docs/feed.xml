@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 16 Jun 2026 16:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:51:04 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,21 @@
       <pubDate>Tue, 16 Jun 2026 15:57:05 +0000</pubDate>
       <description><![CDATA[against a red blue background the arch linux logo, aur written in white, and a sign-up not allowed sign are shown]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Raven Prism is a Linux Computer That Happens To Be A Pair of Glasses</title>
+      <link>https://feed.itsfoss.com/link/24361/17362195/raven-prism-linux-smart-glass</link>
+      <guid isPermaLink="false">6a30dfb9e7c630000133ace0</guid>
+      <pubDate>Tue, 16 Jun 2026 18:07:44 +0000</pubDate>
+      <description><![CDATA[on the left, a raven prism smart glass device is shown sitting on a tree branch stand, on the right is the raven resonance logo]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Перемещение всего трёх строк кода ускорило работу Linux</title>
+      <link>https://4pda.to/2026/06/16/457699/peremeschenie_vsego_tryokh_strok_koda_uskorilo_rabotu_linux/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457699/peremeschenie_vsego_tryokh_strok_koda_uskorilo_rabotu_linux/</guid>
+      <pubDate>Tue, 16 Jun 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Традиционно для ускорения программного обеспечения нужны новые технологии или масштабная&nbsp;оптимизация кода. В случае с будущим ядром Linux 7.2 ускорить работу накопителей примерно на 5% удалось лишь [...]]]></description>
     </item>
     <item>
       <title>Flipper One is a Pocket-sized Linux Cyberdeck</title>
@@ -32,6 +47,36 @@
       <description><![CDATA[<p>Following <a href="https://itsfoss.com/news/linux-kernel-7-0-release/">Linux 7.0</a> in April and the stable point releases since, Linux 7.1 is now available as a major feature release in the 7.x series.</p><p>You get a bunch of upgrades with this, ranging from a new NTFS driver that landed after four years of development all the way to a bugfix for a long-standing audio issue on the Steam Deck OLED.</p><p>And, if you remember <a href="https://itsfoss.com/news/linux-kernel-i486-cpu-support-removal/">our reporting</a> from a few months ago, then this release also formally drops i486 CPU support from the kernel build system.</p><h2 id="whats-new-in-this-release">What's new in this release?</h2><figure class="kg-card kg-image-card"><img alt="terminal window that is showing the fastfetch output on an ubuntu 26.04 lts system, the line for kernel is highlighted with a green box and blue arrows, inside it linux 7.1.0-070100-generic is written" class="kg-image" height="624" src="https://itsfoss.com/content/images/2026/06/ubuntu-26-04-running-linux-7-1.png" width="928" /></figure><p>Intel's Flexible Return and Event Delivery (<a href="https://www.intel.com/content/www/us/en/content-details/779982/flexible-return-and-event-delivery-fred-specification.html">FRED</a>) is <strong>now enabled by default</strong> in Linux, having previously required a manual <code>fred=on</code> boot flag. The switch was held back until publicly available hardware could be properly evaluated, and the code has since been tested thoroughly enough to flip from opt-in to opt-out.</p><p><a href="https://www.phoronix.com/news/Linux-7.1-Enabled-Intel-FRED">Phoronix</a> reports that people running Intel Core Ultra Series 3 "<em>Panther Lake</em>" should see real gains here, particularly on I/O-heavy workloads like databases, networking applications, and audio processing.</p><p>The crypto subsystem picks up some <a href="https://www.intel.com/content/www/us/en/architecture-and-technology/intel-quick-assist-technology-overview.html">Intel QAT</a> additions too. For QAT Gen4 and Gen5 hardware, basic Zstd compression offload is now available. The Gen6 version, intended for the <em>Diamond Rapids</em> platform, gets a native Zstd implementation covering both compression and decompression.</p><p>The <a href="https://docs.kernel.org/admin-guide/pm/amd-pstate.html">amd-pstate</a> driver gains CPPC Performance Priority, Dynamic EPP (<em>Energy Performance Preference</em>), and Raw EPP with this release for more granular control over power and performance on modern AMD Ryzen and EPYC hardware.</p><p>Similarly, the <a href="https://docs.kernel.org/gpu/amdgpu/index.html">AMDgpu</a> driver sees several changes this cycle, including SMU 15.0.8 IP support, DCN 4.2 display updates, a new DebugFS interface for monitoring 64-bit PCIe registers, and a fix for a GPU page fault triggering on non-4K page size kernel builds.</p><p>And, after four years of work, <strong>a new NTFS driver has landed</strong> in the mainline kernel. We covered its development <a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/">last December</a>, when it was still working its way toward integration.</p><p>Linus Torvalds called the merge the "<em>ntfs resurrection</em>," though he briefly un-pulled the code over a Git structure issue before <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cdd4dc3aebeab43a72ce0bc2b5bab6f0a80b97a5">accepting a revised pull request</a>. The new driver is available via the&#8291; <code>NTFS_FS</code> Kconfig switch, and NTFS3 is still around for now.</p><p>Finally, we have the newly introduced support for <strong>12 new SoCs</strong>, including Qualcomm's <strong>Glymur</strong>, <strong>Mahua</strong>, <strong>Eliza</strong>, and <strong>IPQ5210</strong>, Axis <strong>ARTPEC-9</strong>, Microchip's <strong>LAN9691</strong> and <strong>PIC64GX</strong>, Renesas <strong>RZ/G3L</strong>, NXP <strong>S32N79</strong>, Rockchip's <strong>RV1103B</strong>, and ARM's <strong>Zena</strong> and <strong>Corstone-1000-A320</strong>.</p><h2 id="should-you-install-this">Should you install this?</h2><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">It is to get excited about a new kernel release, But <a href="https://itsfoss.com/compile-linux-kernel/" rel="noreferrer">compiling a new kernel</a> or installing a new one is usually considered intermediate to expert zone. For a regular Linux user, it is better to wait for the distro to provide it, unless you have a compelling reason to get the new kernel early.</div></div><p><em>It depends</em>. If something in this release addresses a gap you had with earlier kernels, it's worth the upgrade. You can download the tarball from the <a href="https://www.kernel.org">official website</a> and get started installing it on something like <a href="https://itsfoss.com/upgrade-linux-kernel-ubuntu/">Ubuntu</a>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kernel.org">Linux Kernel 7.1</a></div><p>For the rest of us, it depends on the distribution one is using. Not every distro will be providing this release upgrade. Rolling releases like <a href="https://archlinux.org/">Arch Linux</a> and more frequently updated distros like <a href="https://fedoraproject.org/">Fedora</a> and its derivatives will be picking this up soon. </p><p>Others on distros like Debian or Linux Mint likely won't see it on their computers.</p><hr /><p><strong>Suggested Read &#128214;: </strong><a href="https://itsfoss.com/news/proton-drive-cli/" rel="noreferrer"><em>Proton Drive Now Has a CLI</em></a></p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17361309.gif" width="1" />]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Инсайды #3872: экран OnePlus 16, vivo T5 Lite 5G и анонс REDMI K90 Ultra</title>
+      <link>https://4pda.to/2026/06/16/457698/insajdy_3872_ekran_oneplus_16_vivo_t5_lite_5g_i_anons_redmi_k90_ultra/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457698/insajdy_3872_ekran_oneplus_16_vivo_t5_lite_5g_i_anons_redmi_k90_ultra/</guid>
+      <pubDate>Tue, 16 Jun 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом&nbsp;выпуске Инсайдов:&nbsp;OnePlus 16 получит быстрый экран; vivo T5 Lite 5G рассекречен до релиза;&nbsp;REDMI анонсировала смартфон K90 Ultra и открыла на него предзаказ.
+OnePlus 16 получит [...]]]></description>
+    </item>
+    <item>
+      <title>Commodore выпустила раскладушку для отдыха от современных технологий</title>
+      <link>https://4pda.to/2026/06/16/457704/commodore_vypustila_raskladushku_dlya_otdykha_ot_sovremennykh_tekhnologij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457704/commodore_vypustila_raskladushku_dlya_otdykha_ot_sovremennykh_tekhnologij/</guid>
+      <pubDate>Tue, 16 Jun 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Компания Commodore, известная по домашним компьютерам 1980-х и 1990-х годов, неожиданно ворвалась на мобильный рынок. Возродить легендарный бренд решил блогер Кристиан Симпсон, также известный как Peri [...]]]></description>
+    </item>
+    <item>
+      <title>У Gears of War: E-Day появились системные требования</title>
+      <link>https://4pda.to/2026/06/16/457702/u_gears_of_war_e_day_poyavilis_sistemnye_trebovaniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457702/u_gears_of_war_e_day_poyavilis_sistemnye_trebovaniya/</guid>
+      <pubDate>Tue, 16 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Microsoft вовсю готовится к осеннему релизу Gears of War: E-Day, своего главного консольного эксклюзива в этом году. Компания наконец-то раскрыла системные требования, так что у игроков есть возможность [...]]]></description>
+    </item>
+    <item>
+      <title>RuStore подозревают в слежке. Можно ли удалить маркетплейс и что вы при этом потеряете?</title>
+      <link>https://4pda.to/2026/06/16/457713/rustore_podozrevayut_v_slezhke_mozhno_li_udalit_marketplejs_i_chto_vy_pri_etom_poteryaete/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/16/457713/rustore_podozrevayut_v_slezhke_mozhno_li_udalit_marketplejs_i_chto_vy_pri_etom_poteryaete/</guid>
+      <pubDate>Tue, 16 Jun 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Пользователь «Хабра» проанализировал код магазина приложений RuStore. Судя по анализу и найденным разрешениям, приложение потенциально может получать расширенные данные об устройстве и активности пользователя.&nbsp;
+Что [...]]]></description>
     </item>
     <item>
       <title>Глава Qualcomm рассказал о грядущем изменении мира гаджетов</title>
@@ -271,7 +316,7 @@ Display. При этом
       <link>https://people.onliner.by/go/1308955</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/06/16/v-vitebskoj-oblasti-propal-izvestnyj-minskij-vrach-ego-ishhut-chetvertye-sutki</guid>
       <pubDate>Tue, 16 Jun 2026 11:57:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/16/v-vitebskoj-oblasti-propal-izvestnyj-minskij-vrach-ego-ishhut-chetvertye-sutki"><img alt="" src="https://content.onliner.by/news/thumbnail/8953739a8043a3913725039d7fb91d17.jpg" /></a></p><p>Известный минский врач-уролог Геннадий Щетко пропал 11 июня. Это случилось во время поездки с друзьями на озеро Ведето, расположенное в Полоцком районе. В ориентировках, распространенных поисково-спасательными отрядами и знакомыми врача, говорилось, что утром 12 июня он ушел на подводную рыбалку и не вернулся. Спустя четверо суток в ОСВОД <a href="https://t.me/osvodrs/8348" target="_blank">сообщили</a>, что пропавшего мужчину нашли. </p><p><a href="https://people.onliner.by/2026/06/16/v-vitebskoj-oblasti-propal-izvestnyj-minskij-vrach-ego-ishhut-chetvertye-sutki">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/16/v-vitebskoj-oblasti-propal-izvestnyj-minskij-vrach-ego-ishhut-chetvertye-sutki"><img alt="" src="https://content.onliner.by/news/thumbnail/c736a752ec310995d4292b8ac1bbc825.jpg" /></a></p><p>Известный минский врач-уролог Геннадий Щетко пропал 11 июня. Это случилось во время поездки с друзьями на озеро Ведето, расположенное в Полоцком районе. В ориентировках, распространенных поисково-спасательными отрядами и знакомыми врача, говорилось, что утром 12 июня он ушел на подводную рыбалку и не вернулся. Спустя четверо суток в ОСВОД <a href="https://t.me/osvodrs/8348" target="_blank">сообщили</a>, что пропавшего мужчину нашли. </p><p><a href="https://people.onliner.by/2026/06/16/v-vitebskoj-oblasti-propal-izvestnyj-minskij-vrach-ego-ishhut-chetvertye-sutki">Читать далее…</a></p>]]></description>
       <category>Люди</category>
     </item>
     <item>
@@ -360,14 +405,6 @@ Display. При этом
       <description><![CDATA[Konami уже несколько лет как не продаёт игры на территории Российской Федерации и Республики Беларусь. Однако этого издательству показалось мало, поэтому в середине мая оно объявило о прекращении обслуживания [...]]]></description>
     </item>
     <item>
-      <title>Белорусы стали богаче? Белстат рассказал, на сколько</title>
-      <link>https://money.onliner.by/go/332015</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/16/belorusy-stali-bogache-belstat-rasskazal-na-skolko</guid>
-      <pubDate>Tue, 16 Jun 2026 09:41:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/16/belorusy-stali-bogache-belstat-rasskazal-na-skolko"><img alt="" src="https://content.onliner.by/news/thumbnail/5cd06b23a2fcf4ec095a87a4d1a2ddf0.jpg" /></a></p><p>Кошельки белорусов в начале года потяжелели, подвел итоги Белстат. Реальные располагаемые денежные доходы населения Беларуси в январе — апреле 2026-го составили 108% к уровню этих же месяцев прошлого года.</p><p><a href="https://money.onliner.by/2026/06/16/belorusy-stali-bogache-belstat-rasskazal-na-skolko">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>To Make Things Easier, CachyOS Created a RUST-Based GUI Package Manager</title>
       <link>https://feed.itsfoss.com/link/24361/17361923/shelly-package-manager</link>
       <guid isPermaLink="false">69f574eea6f8af0001eb6f19</guid>
@@ -404,41 +441,6 @@ Display. При этом
       <description><![CDATA[Не одними лишь распродажами знаменит Steam. Иногда администрация платформы проводит мероприятия другого толка — посвящённые не уже вышедшим, а ещё находящимся в разработке тайтлам.
 [youtube=U4fjn5OzQWM:640:360:::0]
 Вечером [...]]]></description>
-    </item>
-    <item>
-      <title>AyaNeo анонсировала карманную ретроконсоль Pocket Micro 2</title>
-      <link>https://4pda.to/2026/06/16/457679/ayaneo_anonsirovala_karmannuyu_retrokonsol_pocket_micro_2/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457679/ayaneo_anonsirovala_karmannuyu_retrokonsol_pocket_micro_2/</guid>
-      <pubDate>Tue, 16 Jun 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[AyaNeo готовится обновить свою
-миниатюрную ретроконсоль Pocket Micro, выпустив модель второго поколения. Об этом
-производитель рассказал своим фанатам в официальном аккаунте в соцсети X.
-Техническими [...]]]></description>
-    </item>
-    <item>
-      <title>Lenovo выпустила бюджетные наушники-клипсы с автономностью до 48 ч</title>
-      <link>https://4pda.to/2026/06/16/457678/lenovo_vypustila_byudzhetnye_naushniki_klipsy_s_avtonomnostyu_do_48_ch/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457678/lenovo_vypustila_byudzhetnye_naushniki_klipsy_s_avtonomnostyu_do_48_ch/</guid>
-      <pubDate>Tue, 16 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Lenovo начала продажи TWS-наушников TA410 на рынке Китая. Аксессуар открытого типа выполнен в формате клипс и может долго работать даже без подзарядки от кейса.
-Каждый из наушников весом по [...]]]></description>
-    </item>
-    <item>
-      <title>Игра в прятки покорила Steam. За 5 дней её купили свыше 2 миллионов раз</title>
-      <link>https://4pda.to/2026/06/16/457669/igra_v_pryatki_pokorila_steam_za_5_dnej_eyo_kupili_svyshe_2_millionov_raz/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457669/igra_v_pryatki_pokorila_steam_za_5_dnej_eyo_kupili_svyshe_2_millionov_raz/</guid>
-      <pubDate>Tue, 16 Jun 2026 06:45:00 +0000</pubDate>
-      <description><![CDATA[Каждый год на просторах Steam появляется на вид совершенно невзрачный тайтл, который, тем не менее, ухитряется покорить геймеров по всему миру. На сей раз в магазине внезапно «завирусилась» игра в прятки.
-[youtube=X-65m9poaSY:640:360:::0]
-10 [...]]]></description>
-    </item>
-    <item>
-      <title>Характеристики процессора Xiaomi XRING O3 слили в сеть</title>
-      <link>https://4pda.to/2026/06/16/457675/kharakteristiki_protsessora_xiaomi_xring_o3_slili_v_set/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457675/kharakteristiki_protsessora_xiaomi_xring_o3_slili_v_set/</guid>
-      <pubDate>Tue, 16 Jun 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[В интернете появилась свежая инсайдерская информация о новом мобильном процессоре Xiaomi. Новинка, по имеющимся сведениям, получит сразу несколько заметных улучшений по сравнению с предшествующей моделью.
-Инсайдер [...]]]></description>
     </item>
     <item>
       <title>KDE is Going Wayland Only So This New Project Gives You Plasma With X11</title>
