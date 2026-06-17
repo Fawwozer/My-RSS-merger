@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 16 Jun 2026 20:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 04:08:02 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -47,6 +47,44 @@
       <description><![CDATA[<p>Following <a href="https://itsfoss.com/news/linux-kernel-7-0-release/">Linux 7.0</a> in April and the stable point releases since, Linux 7.1 is now available as a major feature release in the 7.x series.</p><p>You get a bunch of upgrades with this, ranging from a new NTFS driver that landed after four years of development all the way to a bugfix for a long-standing audio issue on the Steam Deck OLED.</p><p>And, if you remember <a href="https://itsfoss.com/news/linux-kernel-i486-cpu-support-removal/">our reporting</a> from a few months ago, then this release also formally drops i486 CPU support from the kernel build system.</p><h2 id="whats-new-in-this-release">What's new in this release?</h2><figure class="kg-card kg-image-card"><img alt="terminal window that is showing the fastfetch output on an ubuntu 26.04 lts system, the line for kernel is highlighted with a green box and blue arrows, inside it linux 7.1.0-070100-generic is written" class="kg-image" height="624" src="https://itsfoss.com/content/images/2026/06/ubuntu-26-04-running-linux-7-1.png" width="928" /></figure><p>Intel's Flexible Return and Event Delivery (<a href="https://www.intel.com/content/www/us/en/content-details/779982/flexible-return-and-event-delivery-fred-specification.html">FRED</a>) is <strong>now enabled by default</strong> in Linux, having previously required a manual <code>fred=on</code> boot flag. The switch was held back until publicly available hardware could be properly evaluated, and the code has since been tested thoroughly enough to flip from opt-in to opt-out.</p><p><a href="https://www.phoronix.com/news/Linux-7.1-Enabled-Intel-FRED">Phoronix</a> reports that people running Intel Core Ultra Series 3 "<em>Panther Lake</em>" should see real gains here, particularly on I/O-heavy workloads like databases, networking applications, and audio processing.</p><p>The crypto subsystem picks up some <a href="https://www.intel.com/content/www/us/en/architecture-and-technology/intel-quick-assist-technology-overview.html">Intel QAT</a> additions too. For QAT Gen4 and Gen5 hardware, basic Zstd compression offload is now available. The Gen6 version, intended for the <em>Diamond Rapids</em> platform, gets a native Zstd implementation covering both compression and decompression.</p><p>The <a href="https://docs.kernel.org/admin-guide/pm/amd-pstate.html">amd-pstate</a> driver gains CPPC Performance Priority, Dynamic EPP (<em>Energy Performance Preference</em>), and Raw EPP with this release for more granular control over power and performance on modern AMD Ryzen and EPYC hardware.</p><p>Similarly, the <a href="https://docs.kernel.org/gpu/amdgpu/index.html">AMDgpu</a> driver sees several changes this cycle, including SMU 15.0.8 IP support, DCN 4.2 display updates, a new DebugFS interface for monitoring 64-bit PCIe registers, and a fix for a GPU page fault triggering on non-4K page size kernel builds.</p><p>And, after four years of work, <strong>a new NTFS driver has landed</strong> in the mainline kernel. We covered its development <a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/">last December</a>, when it was still working its way toward integration.</p><p>Linus Torvalds called the merge the "<em>ntfs resurrection</em>," though he briefly un-pulled the code over a Git structure issue before <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cdd4dc3aebeab43a72ce0bc2b5bab6f0a80b97a5">accepting a revised pull request</a>. The new driver is available via the&#8291; <code>NTFS_FS</code> Kconfig switch, and NTFS3 is still around for now.</p><p>Finally, we have the newly introduced support for <strong>12 new SoCs</strong>, including Qualcomm's <strong>Glymur</strong>, <strong>Mahua</strong>, <strong>Eliza</strong>, and <strong>IPQ5210</strong>, Axis <strong>ARTPEC-9</strong>, Microchip's <strong>LAN9691</strong> and <strong>PIC64GX</strong>, Renesas <strong>RZ/G3L</strong>, NXP <strong>S32N79</strong>, Rockchip's <strong>RV1103B</strong>, and ARM's <strong>Zena</strong> and <strong>Corstone-1000-A320</strong>.</p><h2 id="should-you-install-this">Should you install this?</h2><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">It is to get excited about a new kernel release, But <a href="https://itsfoss.com/compile-linux-kernel/" rel="noreferrer">compiling a new kernel</a> or installing a new one is usually considered intermediate to expert zone. For a regular Linux user, it is better to wait for the distro to provide it, unless you have a compelling reason to get the new kernel early.</div></div><p><em>It depends</em>. If something in this release addresses a gap you had with earlier kernels, it's worth the upgrade. You can download the tarball from the <a href="https://www.kernel.org">official website</a> and get started installing it on something like <a href="https://itsfoss.com/upgrade-linux-kernel-ubuntu/">Ubuntu</a>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kernel.org">Linux Kernel 7.1</a></div><p>For the rest of us, it depends on the distribution one is using. Not every distro will be providing this release upgrade. Rolling releases like <a href="https://archlinux.org/">Arch Linux</a> and more frequently updated distros like <a href="https://fedoraproject.org/">Fedora</a> and its derivatives will be picking this up soon. </p><p>Others on distros like Debian or Linux Mint likely won't see it on their computers.</p><hr /><p><strong>Suggested Read &#128214;: </strong><a href="https://itsfoss.com/news/proton-drive-cli/" rel="noreferrer"><em>Proton Drive Now Has a CLI</em></a></p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17361309.gif" width="1" />]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Как формируется официальный курс белорусского рубля? Рассказываем в вопросах и ответах</title>
+      <link>https://money.onliner.by/go/67562</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/17/birzha-v-belarusi</guid>
+      <pubDate>Wed, 17 Jun 2026 04:00:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/17/birzha-v-belarusi"><img alt="" src="https://content.onliner.by/news/thumbnail/aafdfea4d11bffbbb7ce84d870287c22.jpeg" /></a></p><p>Курс валют влияет практически на все — от стоимости импортных товаров до цен на отдых за границей. Но далеко не все понимают, откуда вообще берутся цифры, которые мы видим в обменниках. Кто определяет стоимость доллара, евро и российского рубля в Беларуси? Почему банки предлагают разные курсы? И зачем Национальному банку нужна валютная корзина? Отвечаем на самые важные вопросы простыми словами.</p><p><a href="https://money.onliner.by/2026/06/17/birzha-v-belarusi">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Когда все проснулись голодными: большой семейный завтрак от шефа за полчаса</title>
+      <link>https://people.onliner.by/go/1308801</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/17/semejnyj-zavtrak</guid>
+      <pubDate>Wed, 17 Jun 2026 04:00:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/17/semejnyj-zavtrak"><img alt="" src="https://content.onliner.by/news/thumbnail/f8db6160751ef03743b60ada32e91b4f.jpg" /></a></p><p>С завтраком в выходные всегда одна и та же история. Хочется накормить семью чем-то интереснее обычной яичницы, но и провести половину утра у плиты желания нет. Вместе с шеф-поваром кулинарного клуба Брестского мясокомбината <a href="https://www.instagram.com/shefbmk/%20#ШЕФБМК" target="_blank">#ШЕФБМК</a> Дмитрием Дубчуком решили проверить, можно ли собрать большой домашний завтрак буквально из нескольких простых продуктов. В меню — хрустящие конвертики из лаваша с сырной начинкой, бутерброды с утиной намазкой и огромная сковорода яичницы с колбасками и овощами. Получилось настолько сытно, что вопрос обеда в этот день можно было считать закрытым еще до полудня.</p><p><a href="https://people.onliner.by/2026/06/17/semejnyj-zavtrak">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Noctua представила необычные СЖО с вентилятором на помпе</title>
+      <link>https://4pda.to/2026/06/17/457708/noctua_predstavila_neobychnye_szho_s_ventilyatorom_na_pompe/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/17/457708/noctua_predstavila_neobychnye_szho_s_ventilyatorom_na_pompe/</guid>
+      <pubDate>Wed, 17 Jun 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[В каталоге продукции Noctua появились новые системы жидкостного охлаждения процессора. Помимо фирменных «вертушек» с низким уровнем шума, они интересны возможностью установки дополнительного элемента охлаждения, [...]]]></description>
+    </item>
+    <item>
+      <title>К сериалу по Twisted Metal присоединился легендарный Марк Хэмилл</title>
+      <link>https://4pda.to/2026/06/17/457705/k_serialu_po_twisted_metal_prisoedinilsya_legendarnyj_mark_khemill/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/17/457705/k_serialu_po_twisted_metal_prisoedinilsya_legendarnyj_mark_khemill/</guid>
+      <pubDate>Wed, 17 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Практически каждая видеоигра нынче удостаивается фильма или хотя бы&nbsp;сериала по мотивам. В 2023 году, например, до малых экранов доехала адаптация Twisted Metal, и публике она, как ни странно, пришлась [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung Galaxy Book 6 Edge с чипом Snapdragon оказался очень дорогим</title>
+      <link>https://4pda.to/2026/06/17/457685/samsung_galaxy_book_6_edge_s_chipom_snapdragon_okazalsya_ochen_dorogim/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/17/457685/samsung_galaxy_book_6_edge_s_chipom_snapdragon_okazalsya_ochen_dorogim/</guid>
+      <pubDate>Wed, 17 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Samsung обновила информацию о
+премиальном ARM-ноутбуке Galaxy Book 6 Edge, анонсированном в апреле текущего года. На этот раз производитель подтвердил цену устройства — и она оказалась весьма [...]]]></description>
     </item>
     <item>
       <title>Инсайды #3872: экран OnePlus 16, vivo T5 Lite 5G и анонс REDMI K90 Ultra</title>
@@ -375,27 +413,11 @@ Display. При этом
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Как в Амстердаме, только в Минске. В сети восхищаются зданием из 7 архитектурных стилей</title>
-      <link>https://realt.onliner.by/go/1110240</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/16/zdanie-iz-7-stilej</guid>
-      <pubDate>Tue, 16 Jun 2026 10:31:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/16/zdanie-iz-7-stilej"><img alt="" src="https://content.onliner.by/news/thumbnail/db82fecf9458443ea745c4a8cbbc3428.jpg" /></a></p><p>В Минске прямо возле Запорожской площади притаилось (а иначе и не скажешь) нетипичное для наших широт здание. Сочетая в себе фасады различных стилей, оно будто бы телепортировалось из Амстердама или Антверпена. Стройка объекта широко не освещалась, а с ходу и непонятно, в чем предназначение этого чуда. Прохожим остается только гадать, что происходит за его стенами. </p><p><a href="https://realt.onliner.by/2026/06/16/zdanie-iz-7-stilej">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>HUAWEI запатентовала вертикальную тройную раскладушку</title>
       <link>https://4pda.to/2026/06/16/457684/huawei_zapatentovala_vertikalnuyu_trojnuyu_raskladushku/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/16/457684/huawei_zapatentovala_vertikalnuyu_trojnuyu_raskladushku/</guid>
       <pubDate>Tue, 16 Jun 2026 10:30:00 +0000</pubDate>
       <description><![CDATA[В портфолио HUAWE уже есть фирменная «трикладушка», но похоже, что компания рассматривала и другой похожий форм-фактор. В сети появились патентные эскизы, демонстрирующие складной смартфон с двумя шарнирами [...]]]></description>
-    </item>
-    <item>
-      <title>В Google Earth появился симулятор полетов. Как включить и полетать над Беларусью?</title>
-      <link>https://tech.onliner.by/go/778906</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/16/v-google-earth-poyavilsya-simulyator-poletov-kak-vklyuchit-i-poletat-nad-belarusyu</guid>
-      <pubDate>Tue, 16 Jun 2026 10:00:25 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/16/v-google-earth-poyavilsya-simulyator-poletov-kak-vklyuchit-i-poletat-nad-belarusyu"><img alt="" src="https://content.onliner.by/news/thumbnail/f6aa312c28190d0f20aff4135124946e.jpg" /></a></p><p>В сервисе Google Earth в качестве экспериментальной функции появился симулятор полетов. Он доступен в браузере. Чтобы включить его, достаточно перейти в пункт меню «Инструменты», а там выбрать «Имитация полета». Чтобы не преодолевать весь путь к интересующей вас точке в режиме реального времени, можно выбрать на карте нужную местность и там уже включить симулятор.</p><p><a href="https://tech.onliner.by/2026/06/16/v-google-earth-poyavilsya-simulyator-poletov-kak-vklyuchit-i-poletat-nad-belarusyu">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>Konami заблокировала свои онлайн-игры для пользователей из России и Республики Беларусь</title>
@@ -418,29 +440,6 @@ Display. При этом
       <guid isPermaLink="false">https://4pda.to/2026/06/16/457682/lenovo_vypustila_ergonomichnyj_4k_monitor_lecoo_m3237pl_dlya_doma_i_ofisa/</guid>
       <pubDate>Tue, 16 Jun 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[В каталоге продукции Lenovo появился новый монитор под брендом Leeco. Помимо высокого разрешения, модель M3237PL примечательна точной цветопередачей, подставкой с широким диапазоном регулировки и приличным [...]]]></description>
-    </item>
-    <item>
-      <title>Названы сроки выпуска процессоров Intel со «встройкой» NVIDIA</title>
-      <link>https://4pda.to/2026/06/16/457681/nazvany_sroki_vypuska_protsessorov_intel_so_vstrojkoj_nvidia/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457681/nazvany_sroki_vypuska_protsessorov_intel_so_vstrojkoj_nvidia/</guid>
-      <pubDate>Tue, 16 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Копилку слухов о совместной разработке Intel и NVIDIA пополнил свежий инсайд. Информацию о возможной дате анонса и некоторые подробности об архитектуре «сине-зелёных» чипов опубликовал технический журналист&nbsp;Эрди [...]]]></description>
-    </item>
-    <item>
-      <title>Samsung начала производить мозговые чипы для Neuralink</title>
-      <link>https://4pda.to/2026/06/16/457680/samsung_nachala_proizvodit_mozgovye_chipy_dlya_neuralink/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457680/samsung_nachala_proizvodit_mozgovye_chipy_dlya_neuralink/</guid>
-      <pubDate>Tue, 16 Jun 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[По данным корейских СМИ, компания Samsung расширила сотрудничество с Илоном Маском и перешла от производства процессоров для автомобилей Tesla, ИИ-серверов и роботов к созданию чипов для проекта&nbsp;Neuralink. [...]]]></description>
-    </item>
-    <item>
-      <title>В Steam начался фестиваль демоверсий «Играм быть» [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/16/457687/v_steam_nachalsya_festival_demoversij_igram_byt_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/16/457687/v_steam_nachalsya_festival_demoversij_igram_byt_video/</guid>
-      <pubDate>Tue, 16 Jun 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[Не одними лишь распродажами знаменит Steam. Иногда администрация платформы проводит мероприятия другого толка — посвящённые не уже вышедшим, а ещё находящимся в разработке тайтлам.
-[youtube=U4fjn5OzQWM:640:360:::0]
-Вечером [...]]]></description>
     </item>
     <item>
       <title>KDE is Going Wayland Only So This New Project Gives You Plasma With X11</title>
