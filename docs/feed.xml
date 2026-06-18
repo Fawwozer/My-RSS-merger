@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 17 Jun 2026 20:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 03:59:08 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -40,6 +40,27 @@
       <description><![CDATA[<p>Following <a href="https://itsfoss.com/news/linux-kernel-7-0-release/">Linux 7.0</a> in April and the stable point releases since, Linux 7.1 is now available as a major feature release in the 7.x series.</p><p>You get a bunch of upgrades with this, ranging from a new NTFS driver that landed after four years of development all the way to a bugfix for a long-standing audio issue on the Steam Deck OLED.</p><p>And, if you remember <a href="https://itsfoss.com/news/linux-kernel-i486-cpu-support-removal/">our reporting</a> from a few months ago, then this release also formally drops i486 CPU support from the kernel build system.</p><h2 id="whats-new-in-this-release">What's new in this release?</h2><figure class="kg-card kg-image-card"><img alt="terminal window that is showing the fastfetch output on an ubuntu 26.04 lts system, the line for kernel is highlighted with a green box and blue arrows, inside it linux 7.1.0-070100-generic is written" class="kg-image" height="624" src="https://itsfoss.com/content/images/2026/06/ubuntu-26-04-running-linux-7-1.png" width="928" /></figure><p>Intel's Flexible Return and Event Delivery (<a href="https://www.intel.com/content/www/us/en/content-details/779982/flexible-return-and-event-delivery-fred-specification.html">FRED</a>) is <strong>now enabled by default</strong> in Linux, having previously required a manual <code>fred=on</code> boot flag. The switch was held back until publicly available hardware could be properly evaluated, and the code has since been tested thoroughly enough to flip from opt-in to opt-out.</p><p><a href="https://www.phoronix.com/news/Linux-7.1-Enabled-Intel-FRED">Phoronix</a> reports that people running Intel Core Ultra Series 3 "<em>Panther Lake</em>" should see real gains here, particularly on I/O-heavy workloads like databases, networking applications, and audio processing.</p><p>The crypto subsystem picks up some <a href="https://www.intel.com/content/www/us/en/architecture-and-technology/intel-quick-assist-technology-overview.html">Intel QAT</a> additions too. For QAT Gen4 and Gen5 hardware, basic Zstd compression offload is now available. The Gen6 version, intended for the <em>Diamond Rapids</em> platform, gets a native Zstd implementation covering both compression and decompression.</p><p>The <a href="https://docs.kernel.org/admin-guide/pm/amd-pstate.html">amd-pstate</a> driver gains CPPC Performance Priority, Dynamic EPP (<em>Energy Performance Preference</em>), and Raw EPP with this release for more granular control over power and performance on modern AMD Ryzen and EPYC hardware.</p><p>Similarly, the <a href="https://docs.kernel.org/gpu/amdgpu/index.html">AMDgpu</a> driver sees several changes this cycle, including SMU 15.0.8 IP support, DCN 4.2 display updates, a new DebugFS interface for monitoring 64-bit PCIe registers, and a fix for a GPU page fault triggering on non-4K page size kernel builds.</p><p>And, after four years of work, <strong>a new NTFS driver has landed</strong> in the mainline kernel. We covered its development <a href="https://itsfoss.com/news/ntfsplus-becomes-ntfs-linux/">last December</a>, when it was still working its way toward integration.</p><p>Linus Torvalds called the merge the "<em>ntfs resurrection</em>," though he briefly un-pulled the code over a Git structure issue before <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=cdd4dc3aebeab43a72ce0bc2b5bab6f0a80b97a5">accepting a revised pull request</a>. The new driver is available via the&#8291; <code>NTFS_FS</code> Kconfig switch, and NTFS3 is still around for now.</p><p>Finally, we have the newly introduced support for <strong>12 new SoCs</strong>, including Qualcomm's <strong>Glymur</strong>, <strong>Mahua</strong>, <strong>Eliza</strong>, and <strong>IPQ5210</strong>, Axis <strong>ARTPEC-9</strong>, Microchip's <strong>LAN9691</strong> and <strong>PIC64GX</strong>, Renesas <strong>RZ/G3L</strong>, NXP <strong>S32N79</strong>, Rockchip's <strong>RV1103B</strong>, and ARM's <strong>Zena</strong> and <strong>Corstone-1000-A320</strong>.</p><h2 id="should-you-install-this">Should you install this?</h2><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">It is to get excited about a new kernel release, But <a href="https://itsfoss.com/compile-linux-kernel/" rel="noreferrer">compiling a new kernel</a> or installing a new one is usually considered intermediate to expert zone. For a regular Linux user, it is better to wait for the distro to provide it, unless you have a compelling reason to get the new kernel early.</div></div><p><em>It depends</em>. If something in this release addresses a gap you had with earlier kernels, it's worth the upgrade. You can download the tarball from the <a href="https://www.kernel.org">official website</a> and get started installing it on something like <a href="https://itsfoss.com/upgrade-linux-kernel-ubuntu/">Ubuntu</a>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kernel.org">Linux Kernel 7.1</a></div><p>For the rest of us, it depends on the distribution one is using. Not every distro will be providing this release upgrade. Rolling releases like <a href="https://archlinux.org/">Arch Linux</a> and more frequently updated distros like <a href="https://fedoraproject.org/">Fedora</a> and its derivatives will be picking this up soon. </p><p>Others on distros like Debian or Linux Mint likely won't see it on their computers.</p><hr /><p><strong>Suggested Read &#128214;: </strong><a href="https://itsfoss.com/news/proton-drive-cli/" rel="noreferrer"><em>Proton Drive Now Has a CLI</em></a></p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17361309.gif" width="1" />]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>ASUS представила 144-герцевый ноутбук Dawn 7S с защищённым корпусом</title>
+      <link>https://4pda.to/2026/06/18/457754/asus_predstavila_144_gertsevyj_noutbuk_dawn_7s_s_zaschischyonnym_korpusom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/18/457754/asus_predstavila_144_gertsevyj_noutbuk_dawn_7s_s_zaschischyonnym_korpusom/</guid>
+      <pubDate>Thu, 18 Jun 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[Компания ASUS начала продажи ноутбука Dawn 7S Ryzen Edition, который позиционирует как универсальную модель для работы и учёбы. Особенностями новинки стали антибликовый экран с высокой частотой обновления, [...]]]></description>
+    </item>
+    <item>
+      <title>Режиссёр экранизации Death Stranding поделился планами на фильм</title>
+      <link>https://4pda.to/2026/06/18/457772/rezhissyor_ekranizatsii_death_stranding_podelilsya_planami_na_film/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/18/457772/rezhissyor_ekranizatsii_death_stranding_podelilsya_planami_na_film/</guid>
+      <pubDate>Thu, 18 Jun 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Хотя геймеры десятилетиями мечтали о фильме по мотивам саги Metal Gear, судя по всему,&nbsp;адаптация Death Stranding — другого хита легендарного Хидео Кодзимы — выйдет раньше. Во всяком случае, автор [...]]]></description>
+    </item>
+    <item>
+      <title>SanDisk выпустила 8-терабайтный SSD для PS5 по цене нескольких консолей</title>
+      <link>https://4pda.to/2026/06/18/457770/sandisk_vypustila_8_terabajtnyj_ssd_dlya_ps5_po_tsene_neskolkikh_konsolej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/18/457770/sandisk_vypustila_8_terabajtnyj_ssd_dlya_ps5_po_tsene_neskolkikh_konsolej/</guid>
+      <pubDate>Thu, 18 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Компания SanDisk представила твердотельный накопитель Optimus GX Pro 850P, лицензированный для PS5 и PS5 Pro. Новинка с объёмом памяти 8 ТБ оказалась очень дорогой: за те же деньги можно приобрести сразу [...]]]></description>
     </item>
     <item>
       <title>Jonsbo выпустила компактный корпус D33 с поддержкой «обратных» плат</title>
@@ -415,30 +436,6 @@ Nord [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/06/17/457755/slukh_microsoft_anonsirovala_senua_dlya_privlecheniya_investorov_i_uproscheniya_prodazhi_ninja_theory/</guid>
       <pubDate>Wed, 17 Jun 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[На днях в сети появились тревожные новости — якобы Xbox планирует закрыть сразу несколько своих подразделений. В частности, бледная с косой нависла над Ninja Theory: мол, в понедельник её персонал уведомили [...]]]></description>
-    </item>
-    <item>
-      <title>Sony презентовала датчик LYTIA L910 с архитектурой LOFIC для камерофонов</title>
-      <link>https://4pda.to/2026/06/17/457745/sony_prezentovala_datchik_lytia_l910_s_arkhitekturoj_lofic_dlya_kamerofonov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/17/457745/sony_prezentovala_datchik_lytia_l910_s_arkhitekturoj_lofic_dlya_kamerofonov/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Sony представила
-LYTIA L910 — новый датчик изображения, первым в линейке бренда получившим архитектуру
-LOFIC. Новинка призвана улучшить качество снимков в сложных условиях
-освещения при высокой [...]]]></description>
-    </item>
-    <item>
-      <title>Анонсирован портативный мини-ПК CG Deck, который можно превратить в игровую консоль</title>
-      <link>https://4pda.to/2026/06/17/457744/anonsirovan_portativnyj_mini_pk_cg_deck_kotoryj_mozhno_prevratit_v_igrovuyu_konsol/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/17/457744/anonsirovan_portativnyj_mini_pk_cg_deck_kotoryj_mozhno_prevratit_v_igrovuyu_konsol/</guid>
-      <pubDate>Wed, 17 Jun 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[Стартап Mogozen анонсировал CG Deck —&nbsp;многофункциональный&nbsp;гаджет, сочетающий функции мини-ПК, портативной игровой консоли и смартфона. Всё это сочетается в одном корпусе благодаря модульной конструкции [...]]]></description>
-    </item>
-    <item>
-      <title>Black Myth: Wukong разошлась тиражом в 30 миллионов проданных копий</title>
-      <link>https://4pda.to/2026/06/17/457751/black_myth_wukong_razoshlas_tirazhom_v_30_millionov_prodannykh_kopij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/17/457751/black_myth_wukong_razoshlas_tirazhom_v_30_millionov_prodannykh_kopij/</guid>
-      <pubDate>Wed, 17 Jun 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[Фэнтезийные «солслайки» нынче выходят ежегодно, и с таким обилием конкурентов выделиться из толпы очень сложно. Тем не менее Black Myth: Wukong это удалось — хотя с премьеры тайтла&nbsp;минуло почти два [...]]]></description>
     </item>
     <item>
       <title>To Make Things Easier, CachyOS Opted for a New GUI Package Manager</title>
