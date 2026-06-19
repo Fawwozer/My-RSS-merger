@@ -5,17 +5,9 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:49:21 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
-    <item>
-      <title>Arch Linux Pulls the Plug on New AUR Registrations After Malware Flood</title>
-      <link>https://feed.itsfoss.com/link/24361/17362134/arch-linux-aur-malware-flood</link>
-      <guid isPermaLink="false">6a3124fde7c630000133af24</guid>
-      <pubDate>Tue, 16 Jun 2026 15:57:05 +0000</pubDate>
-      <description><![CDATA[against a red blue background the arch linux logo, aur written in white, and a sign-up not allowed sign are shown]]></description>
-      <category>News</category>
-    </item>
     <item>
       <title>Commodore&amp;#x27;s New Flip Phone Skips Android for Linux-Based Sailfish OS</title>
       <link>https://feed.itsfoss.com/link/24361/17363121/commodore-callback-8020-launch</link>
@@ -25,12 +17,103 @@
       <category>News</category>
     </item>
     <item>
-      <title>Raven Prism is a Linux Computer That Happens To Be A Pair of Glasses</title>
-      <link>https://feed.itsfoss.com/link/24361/17362195/raven-prism-linux-smart-glass</link>
-      <guid isPermaLink="false">6a30dfb9e7c630000133ace0</guid>
-      <pubDate>Tue, 16 Jun 2026 18:07:44 +0000</pubDate>
-      <description><![CDATA[on the left, a raven prism smart glass device is shown sitting on a tree branch stand, on the right is the raven resonance logo]]></description>
-      <category>News</category>
+      <title>Samsung придумала раскладываемо-растягиваемый смартфон</title>
+      <link>https://4pda.to/2026/06/19/457885/samsung_pridumala_raskladyvaemo_rastyagivaemyj_smartfon/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457885/samsung_pridumala_raskladyvaemo_rastyagivaemyj_smartfon/</guid>
+      <pubDate>Fri, 19 Jun 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Samsung продолжает экспериментировать с необычными форм-факторами смартфонов. Компания зарегистрировала&nbsp;патент на устройство, которое сочетает сразу несколько технологий гибких экранов: дисплей можно [...]]]></description>
+    </item>
+    <item>
+      <title>16-летний SSD записал в 25 раз больше заявленного ресурса</title>
+      <link>https://4pda.to/2026/06/19/457893/16_letnij_ssd_zapisal_v_25_raz_bolshe_zayavlennogo_resursa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457893/16_letnij_ssd_zapisal_v_25_raz_bolshe_zayavlennogo_resursa/</guid>
+      <pubDate>Fri, 19 Jun 2026 18:05:00 +0000</pubDate>
+      <description><![CDATA[Эксперимент энтузиаста&nbsp;показал, что реальные возможности SSD могут значительно превосходить заявленные характеристики производителей. Старый накопитель SanDisk P4 с интерфейсом SATA II, выпущенный [...]]]></description>
+    </item>
+    <item>
+      <title>Создатель Deus Ex: будущее System Shock 3 зависит от Tencent</title>
+      <link>https://4pda.to/2026/06/19/457889/sozdatel_deus_ex_buduschee_system_shock_3_zavisit_ot_tencent/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457889/sozdatel_deus_ex_buduschee_system_shock_3_zavisit_ot_tencent/</guid>
+      <pubDate>Fri, 19 Jun 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[С анонса System Shock 3 прошло уже 11&nbsp;лет, но никаких новостей об игре до сих пор нет. Недавно один из её разработчиков&nbsp;пролил свет на то, что произошло с продолжением именитой киберпанковской [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске после столкновения Volkswagen и Toyota в больницу увезли трех человек</title>
+      <link>https://auto.onliner.by/go/1251847</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/19/trex-chelovek-dostavili-v-bolnicu-posle-dtp</guid>
+      <pubDate>Fri, 19 Jun 2026 17:54:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/19/trex-chelovek-dostavili-v-bolnicu-posle-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/a6bfe4ac62e1d229ddac751a87b43727.jpg" /></a></p><p>Авария произошла сегодня вечером на ул. Рафиева в Минске. По предварительной информации, 40-летний водитель за рулем Volkswagen при повороте налево не предоставил преимущество Toyota, которая двигалась во встречном направлении. Это привело к столкновению.</p><p><a href="https://auto.onliner.by/2026/06/19/trex-chelovek-dostavili-v-bolnicu-posle-dtp">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Хватит на два дня: 5 недорогих смартфонов от 6000 мАч и выше</title>
+      <link>https://4pda.to/2026/06/19/457894/khvatit_na_dva_dnya_5_nedorogikh_smartfonov_ot_6000_mach_i_vyshe/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457894/khvatit_na_dva_dnya_5_nedorogikh_smartfonov_ot_6000_mach_i_vyshe/</guid>
+      <pubDate>Fri, 19 Jun 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[В начале июня в России стартовал предзаказ среднебюджетного смартфона HUAWEI nova 15 Max с аккумулятором на 8500 мАч. Кремний-углеродная технология становится всё доступнее. Доказываем на примерах до 30&nbsp;000 [...]]]></description>
+    </item>
+    <item>
+      <title>Камеру от Game Boy теперь можно подключить к смартфону</title>
+      <link>https://4pda.to/2026/06/19/457879/kameru_ot_game_boy_teper_mozhno_podklyuchit_k_smartfonu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457879/kameru_ot_game_boy_teper_mozhno_podklyuchit_k_smartfonu/</guid>
+      <pubDate>Fri, 19 Jun 2026 16:50:00 +0000</pubDate>
+      <description><![CDATA[Компания Epilogue выпустила приложение Flashback для iOS и Android, которое позволяет использовать оригинальную камеру для портативной приставки Game Boy со смартфоном.
+Game Boy Camera вышла ещё в [...]]]></description>
+    </item>
+    <item>
+      <title>Radiant оснастила портативный Monitor 2 трансфлективным экраном</title>
+      <link>https://4pda.to/2026/06/19/457880/radiant_osnastila_portativnyj_monitor_2_transflektivnym_ekranom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457880/radiant_osnastila_portativnyj_monitor_2_transflektivnym_ekranom/</guid>
+      <pubDate>Fri, 19 Jun 2026 16:40:00 +0000</pubDate>
+      <description><![CDATA[Компания Eazeye представила Radiant Monitor 2 — портативный 15,6-дюймовый монитор с трансфлективным LCD-дисплеем. Такая технология сочетает свойства обычного ЖК-экрана и электронных чернил: чем ярче окружающее [...]]]></description>
+    </item>
+    <item>
+      <title>Шрейер: PC-версии консольных эксклюзивов Sony приносили слишком мало денег</title>
+      <link>https://4pda.to/2026/06/19/457887/shrejer_pc_versii_konsolnykh_eksklyuzivov_sony_prinosili_slishkom_malo_deneg/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457887/shrejer_pc_versii_konsolnykh_eksklyuzivov_sony_prinosili_slishkom_malo_deneg/</guid>
+      <pubDate>Fri, 19 Jun 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Несколько лет Sony без особого энтузиазма выпускала игры своих внутренних студий на PC, однако недавно компания внезапно решила отказаться&nbsp;от этой практики. Ответ на вопрос «как же так?» оказался [...]]]></description>
+    </item>
+    <item>
+      <title>Что можно выгодно купить перед выходными? Топ-5 газонокосилок</title>
+      <link>https://money.onliner.by/go/332729</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/19/chto-mozhno-vygodno-kupit-pered-vyxodnymi-top-5-gazonokosilok</guid>
+      <pubDate>Fri, 19 Jun 2026 15:43:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/19/chto-mozhno-vygodno-kupit-pered-vyxodnymi-top-5-gazonokosilok"><img alt="" src="https://content.onliner.by/news/thumbnail/c2d1865881c0bafa3c098d5539671099.jpg" /></a></p><p>Новая подборка выгодных предложений из Каталога Onlíner посвящена заядлым дачникам — мы собрали пять гаджетов, которые поддержат газон в завидном состоянии. Приятная новость в том, что скидки на них доходят до 27%. Давайте посчитаем, сколько можно сэкономить.</p><p><a href="https://money.onliner.by/2026/06/19/chto-mozhno-vygodno-kupit-pered-vyxodnymi-top-5-gazonokosilok">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Притыцкого стоит в пробках из-за нескольких ДТП</title>
+      <link>https://auto.onliner.by/go/1251842</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/19/prityckogo-stoit-v-probkax</guid>
+      <pubDate>Fri, 19 Jun 2026 15:35:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/19/prityckogo-stoit-v-probkax"><img alt="" src="https://content.onliner.by/news/thumbnail/004cde171cb51ebc470f671458bb06c7.jpg" /></a></p><p>Вечер пятницы традиционно испытывает нервы минских водителей. Однако сегодня ситуацию дополнительно осложнили аварии на улице Притыцкого и МКАД. По данным сервиса «Яндекс Карты», серьезные заторы образовались как на выезде из города, так и на одном из самых загруженных участков Фрунзенского района.</p><p><a href="https://auto.onliner.by/2026/06/19/prityckogo-stoit-v-probkax">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Samsung Galaxy M47 5G в «сочном» дизайне показали на тизере</title>
+      <link>https://4pda.to/2026/06/19/457883/samsung_galaxy_m47_5g_v_sochnom_dizajne_pokazali_na_tizere/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457883/samsung_galaxy_m47_5g_v_sochnom_dizajne_pokazali_na_tizere/</guid>
+      <pubDate>Fri, 19 Jun 2026 15:20:00 +0000</pubDate>
+      <description><![CDATA[Samsung опубликовала тизер нового смартфона начального уровня&nbsp;Galaxy M47 5G. Изображение демонстрирует некоторые детали внешнего вида устройства, а данные из Geekbench раскрыли его характеристики.
+Судя [...]]]></description>
+    </item>
+    <item>
+      <title>Gemini Live наконец-то получил долгожданную функцию</title>
+      <link>https://4pda.to/2026/06/19/457871/gemini_live_nakonets_to_poluchil_dolgozhdannuyu_funktsiyu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457871/gemini_live_nakonets_to_poluchil_dolgozhdannuyu_funktsiyu/</guid>
+      <pubDate>Fri, 19 Jun 2026 15:10:00 +0000</pubDate>
+      <description><![CDATA[Google расширила возможности
+режима Gemini Live, дав ему доступ к памяти прошлых чатов. Теперь ИИ-помощник
+может использовать контекст из ранних разговоров, избавляя от необходимости
+каждый раз заново [...]]]></description>
+    </item>
+    <item>
+      <title>Atlus показала 20 минут геймплея Persona 4 Revival [ВИДЕО]</title>
+      <link>https://4pda.to/2026/06/19/457877/atlus_pokazala_20_minut_gejmpleya_persona_4_revival_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457877/atlus_pokazala_20_minut_gejmpleya_persona_4_revival_video/</guid>
+      <pubDate>Fri, 19 Jun 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Спустя год после премьеры невнятного тизера давно обещанный ремейк культовой Persona 4 наконец-то обрёл форму, свежий трейлер и даже обзавёлся датой релиза. Однако Atlus этого мало, поэтому она поделилась [...]]]></description>
     </item>
     <item>
       <title>BMW назвала цену на новейший седан i3. Что это за версия?</title>
@@ -295,30 +378,6 @@ N6 станет аккумулятор [...]]]></description>
       <description><![CDATA[Исследовательская компания Paradigm Shift обнаружила в смартфонах с чипами Apple A12 и A13 опасную «дыру», потенциально позволяющая взламывать такие устройства. Ещё большая проблема заключается в том, [...]]]></description>
     </item>
     <item>
-      <title>На столичной улице Немиге на выходных ограничат движение. Там будут менять асфальт</title>
-      <link>https://auto.onliner.by/go/1251759</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/19/na-stolichnoj-ulice-nemige-na-vyxodnyx-ogranichat-dvizhenie-tam-budut-menyat-asfalt</guid>
-      <pubDate>Fri, 19 Jun 2026 09:12:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/19/na-stolichnoj-ulice-nemige-na-vyxodnyx-ogranichat-dvizhenie-tam-budut-menyat-asfalt"><img alt="" src="https://content.onliner.by/news/thumbnail/034905c7984c0c67d0b6f7bf0e1171e6.jpg" /></a></p><p>Столичную улицу Немигу на выходных частично перекроют. Где и когда? </p><p><a href="https://auto.onliner.by/2026/06/19/na-stolichnoj-ulice-nemige-na-vyxodnyx-ogranichat-dvizhenie-tam-budut-menyat-asfalt">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Кто ответит за нарушение закона?» Соцсети возмущаются брошенными шеринговыми самокатами</title>
-      <link>https://auto.onliner.by/go/1251740</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/19/kto-otvetit-za-narushenie-zakona-socseti-vozmushhayutsya-broshennymi-sheringovymi-samokatami</guid>
-      <pubDate>Fri, 19 Jun 2026 09:10:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/19/kto-otvetit-za-narushenie-zakona-socseti-vozmushhayutsya-broshennymi-sheringovymi-samokatami"><img alt="" src="https://content.onliner.by/news/thumbnail/dcf2e16500286019c9a8cc72ac1f7029.jpg" /></a></p><p>Противостояние пешеходы vs электросамокаты в разгаре с начала сезона. Дело в том, что пользователи шеринговых сервисов, завершая аренду, нередко паркуют транспорт прямо посреди тротуара. Не сказать, что он преграждает путь и не дает пройти, но у отдельных пешеходов вызывает раздражение. Это привело к зарождению целого тренда в TikTok.</p><p><a href="https://auto.onliner.by/2026/06/19/kto-otvetit-za-narushenie-zakona-socseti-vozmushhayutsya-broshennymi-sheringovymi-samokatami">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Кучно пошли миллионеры. В доме на Грибоедова продали еще одну квартиру за $1 226 000 по курсу</title>
-      <link>https://realt.onliner.by/go/1111045</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/19/v-dome-na-griboedova</guid>
-      <pubDate>Fri, 19 Jun 2026 09:00:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/19/v-dome-na-griboedova"><img alt="" src="https://content.onliner.by/news/thumbnail/2577c714d9c5ac78f69c37adfc372898.jpg" /></a></p><p>Не успели мы прийти в себя от «квартирно-машинной» <a href="https://realt.onliner.by/2026/06/12/dom-millionerov" target="_blank">сделки</a> на $1 261 000 в эквиваленте, которая состоялась в начале месяца на «Объекте №6», как из этой же локации пришли очередные новости на миллион. По данным НКА, позавчера, 17 июня, в одном из самых стильных домов Минска продали еще одну выдающуюся квартиру. Больше и дороже прежней.</p><p><a href="https://realt.onliner.by/2026/06/19/v-dome-na-griboedova">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Дизайн iQOO Z11i раскрыт производителем до презентации</title>
       <link>https://4pda.to/2026/06/19/457860/dizajn_iqoo_z11i_raskryt_proizvoditelem_do_prezentatsii/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/19/457860/dizajn_iqoo_z11i_raskryt_proizvoditelem_do_prezentatsii/</guid>
@@ -360,63 +419,6 @@ N6 станет аккумулятор [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/06/19/457856/dizajn_pleera_v_mobilnoj_versii_youtube_stal_namnogo_udobnee/</guid>
       <pubDate>Fri, 19 Jun 2026 07:00:00 +0000</pubDate>
       <description><![CDATA[Разработчики YouTube обновили интерфейс плеера в мобильной версии видеохостинга. Акцент был сделан на разумном минимализме: новый дизайн стал менее загромождённым, позволяя зрителям лучше концентрироваться [...]]]></description>
-    </item>
-    <item>
-      <title>Sennheiser выпустила наушники-клипсы Accentum со звуком Hi-Res</title>
-      <link>https://4pda.to/2026/06/19/457855/sennheiser_vypustila_naushniki_klipsy_accentum_so_zvukom_hi_res/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457855/sennheiser_vypustila_naushniki_klipsy_accentum_so_zvukom_hi_res/</guid>
-      <pubDate>Fri, 19 Jun 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Sennheiser презентовала новые TWS-наушники Accentum Clip с конструкцией открытого типа. Производитель обещает высокое качество аудио, хорошую автономность и функцию подстройки звучания под разный [...]]]></description>
-    </item>
-    <item>
-      <title>Ноутбук Lenovo Yoga Pro 7 получил OLED-экран и мощную «встройку»</title>
-      <link>https://4pda.to/2026/06/19/457853/noutbuk_lenovo_yoga_pro_7_poluchil_oled_ekran_i_moschnuyu_vstrojku/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457853/noutbuk_lenovo_yoga_pro_7_poluchil_oled_ekran_i_moschnuyu_vstrojku/</guid>
-      <pubDate>Fri, 19 Jun 2026 05:30:00 +0000</pubDate>
-      <description><![CDATA[В каталоге ноутбуков Lenovo появилась новая модель Yoga Pro 7 15ASH11. Ключевыми особенностями лэптопа стали быстрый дисплей, мощное железо для решения всевозможных задач (в том числе с помощью ИИ), а [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi выпустила серию недорогих телевизоров FX Mini LED со 120-герцевыми экранами</title>
-      <link>https://4pda.to/2026/06/19/457848/xiaomi_vypustila_seriyu_nedorogikh_televizorov_fx_mini_led_so_120_gertsevymi_ekranami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457848/xiaomi_vypustila_seriyu_nedorogikh_televizorov_fx_mini_led_so_120_gertsevymi_ekranami/</guid>
-      <pubDate>Fri, 19 Jun 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Xiaomi начала продажи новой серии телевизоров FX Mini LED с одноимённым типом подсветки. Помимо невысокой цены, модели выделяются поддержкой двух сочетаний разрешения и частоты обновления, производительным [...]]]></description>
-    </item>
-    <item>
-      <title>В студии автора Deus Ex прошли сокращения</title>
-      <link>https://4pda.to/2026/06/19/457827/v_studii_avtora_deus_ex_proshli_sokrascheniya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457827/v_studii_avtora_deus_ex_proshli_sokrascheniya/</guid>
-      <pubDate>Fri, 19 Jun 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[В мае OtherSide Entertainment, студия Уоррена Спектора (Deus Ex), выпустила кооперативный стелс-экшен Thick as Thieves. Он, как видно, много денег компании так и не принёс.
-OtherSide отменила проект [...]]]></description>
-    </item>
-    <item>
-      <title>Инженеры встроили жидкостное охлаждение прямо в корпус процессора</title>
-      <link>https://4pda.to/2026/06/19/457846/inzhenery_vstroili_zhidkostnoe_okhlazhdenie_pryamo_v_korpus_protsessora/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457846/inzhenery_vstroili_zhidkostnoe_okhlazhdenie_pryamo_v_korpus_protsessora/</guid>
-      <pubDate>Fri, 19 Jun 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Исследователи из Корейского передового института науки и технологий (KAIST) разработали новый метод охлаждения электроники. Он кардинально отличается от традиционных методов: вместо циркуляции жидкости [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен OPPO Reno15 A: ёмкий аккумулятор, камера с OIS и защита IP68</title>
-      <link>https://4pda.to/2026/06/19/457808/predstavlen_oppo_reno15_a_yomkij_akkumulyator_kamera_s_ois_i_zaschita_ip68/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457808/predstavlen_oppo_reno15_a_yomkij_akkumulyator_kamera_s_ois_i_zaschita_ip68/</guid>
-      <pubDate>Fri, 19 Jun 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Компания OPPO выпустила новый среднебюджетный смартфон Reno15 A. Отличительными чертами устройства стали хорошая автономность, приличный объём памяти с возможностью расширения накопителя и надёжная защита [...]]]></description>
-    </item>
-    <item>
-      <title>Capcom опубликовала геймплейный трейлер Ясмин — нового бойца Street Fighter VI [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/19/457825/capcom_opublikovala_gejmplejnyj_trejler_yasmin_novogo_bojtsa_street_fighter_vi_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457825/capcom_opublikovala_gejmplejnyj_trejler_yasmin_novogo_bojtsa_street_fighter_vi_video/</guid>
-      <pubDate>Fri, 19 Jun 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Хотя у Capcom в этом году и так хватает дел, компания выкроила время и для поддержки Street Fighter VI. В августе ростер персонажей файтинга пополнится новым героем, поэтому компания решила заранее продемонстрировать [...]]]></description>
-    </item>
-    <item>
-      <title>Игровой монитор Acer Nitro XV270UX1 c частотой 200 Гц появился в России</title>
-      <link>https://4pda.to/2026/06/19/457833/igrovoj_monitor_acer_nitro_xv270ux1_c_chastotoj_200_gts_poyavilsya_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457833/igrovoj_monitor_acer_nitro_xv270ux1_c_chastotoj_200_gts_poyavilsya_v_rossii/</guid>
-      <pubDate>Fri, 19 Jun 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[На российском рынке стартовали продажи монитора Acer Nitro XV270UX1. Новая геймерская модель с быстрым откликом обеспечивает плавное изображение в динамичных киберспортивных играх и поддерживает функции [...]]]></description>
     </item>
     <item>
       <title>Epic Games Built Its Own Git Alternative For Handling Large Files</title>
