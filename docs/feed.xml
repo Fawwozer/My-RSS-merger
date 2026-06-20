@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:40:08 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,15 @@
       <pubDate>Thu, 18 Jun 2026 07:10:07 +0000</pubDate>
       <description><![CDATA[five colorways of the commodore callback 8020 are shown here with the new commodore logo placed below them]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Anbernic анонсировала портативную ретроконсоль с дизайном Switch Lite</title>
+      <link>https://4pda.to/2026/06/19/457869/anbernic_anonsirovala_portativnuyu_retrokonsol_s_dizajnom_switch_lite/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/19/457869/anbernic_anonsirovala_portativnuyu_retrokonsol_s_dizajnom_switch_lite/</guid>
+      <pubDate>Fri, 19 Jun 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Anbernic выпустила новый тизер портативной ретроконсоли RG 55G1, которая по дизайну напоминает Switch Lite, а также раскрыла часть её характеристик.
+[gallery=1]
+Передняя панель будет покрыта [...]]]></description>
     </item>
     <item>
       <title>Samsung придумала раскладываемо-растягиваемый смартфон</title>
@@ -363,14 +372,6 @@ N6 станет аккумулятор [...]]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>«Был в капюшоне». В Минске мужчину насмерть сбил поезд</title>
-      <link>https://people.onliner.by/go/1309955</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/19/muzhchinu-nasmert-sbil-poezd</guid>
-      <pubDate>Fri, 19 Jun 2026 09:30:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/19/muzhchinu-nasmert-sbil-poezd"><img alt="" src="https://content.onliner.by/news/thumbnail/d70714b0c24e354520eeb976f636f077.jpg" /></a></p><p><p dir="ltr">В Минске проводится проверка по факту смертельного травмирования мужчины на железной дороге. Об этом <a href="https://t.me/police_minsk/37540" target="_blank">сообщили</a> в столичной милиции.</p><p><a href="https://people.onliner.by/2026/06/19/muzhchinu-nasmert-sbil-poezd">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>В старых моделях iPhone нашли неустранимую уязвимость</title>
       <link>https://4pda.to/2026/06/19/457861/v_starykh_modelyakh_iphone_nashli_neustranimuyu_uyazvimost/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/19/457861/v_starykh_modelyakh_iphone_nashli_neustranimuyu_uyazvimost/</guid>
@@ -412,13 +413,6 @@ N6 станет аккумулятор [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/06/19/457857/caviar_vypustila_smennye_nakladki_dlya_iphone_17_pro_max_po_tsene_ot_1630/</guid>
       <pubDate>Fri, 19 Jun 2026 07:30:00 +0000</pubDate>
       <description><![CDATA[Компания Caviar, известная как изготовитель кастомных версий флагманских смартфонов, представила новую серию аксессуаров. В неё вошли несколько декоративных накладок для iPhone 17 Pro Max, которые делают [...]]]></description>
-    </item>
-    <item>
-      <title>Дизайн плеера в мобильной версии YouTube стал намного удобнее</title>
-      <link>https://4pda.to/2026/06/19/457856/dizajn_pleera_v_mobilnoj_versii_youtube_stal_namnogo_udobnee/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/19/457856/dizajn_pleera_v_mobilnoj_versii_youtube_stal_namnogo_udobnee/</guid>
-      <pubDate>Fri, 19 Jun 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[Разработчики YouTube обновили интерфейс плеера в мобильной версии видеохостинга. Акцент был сделан на разумном минимализме: новый дизайн стал менее загромождённым, позволяя зрителям лучше концентрироваться [...]]]></description>
     </item>
     <item>
       <title>Epic Games Built Its Own Git Alternative For Handling Large Files</title>
