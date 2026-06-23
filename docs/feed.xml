@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 22 Jun 2026 20:48:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:34:23 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,13 @@
       <pubDate>Sat, 20 Jun 2026 06:38:22 +0000</pubDate>
       <description><![CDATA[guncrypt demo version screenshot is in the middle, and the background is mixed shades of green, below, the logo for guncrypt is placed]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Слух — Onimusha: Way of the Sword выйдет раньше времени</title>
+      <link>https://4pda.to/2026/06/23/457932/slukh_onimusha_way_of_the_sword_vyjdet_ranshe_vremeni/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/23/457932/slukh_onimusha_way_of_the_sword_vyjdet_ranshe_vremeni/</guid>
+      <pubDate>Tue, 23 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Из-за Grand Theft Auto VI многие компании решили выстрелить своими новейшими&nbsp;играми как можно раньше — то бишь в конце сентября и начале октября. Как следствие, геймеры взвыли от количества ярких [...]]]></description>
     </item>
     <item>
       <title>Опрос: какого формата у вас компьютер?</title>
@@ -430,14 +437,6 @@ Dataland [...]]]></description>
       <pubDate>Mon, 22 Jun 2026 08:15:00 +0000</pubDate>
       <description><![CDATA[На выходных французские СМИ заявили о гибели Клода Гиймо — одного из пяти братьев, основавших корпорацию Ubisoft. Издательство подтвердило это информацию.
 [caption width="480" caption="Клод Гиймо (30 [...]]]></description>
-    </item>
-    <item>
-      <title>Google уточнила, как будет «закручивать гайки» разработчикам Android-приложений</title>
-      <link>https://4pda.to/2026/06/22/457908/google_utochnila_kak_budet_zakruchivat_gajki_razrabotchikam_android_prilozhenij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/22/457908/google_utochnila_kak_budet_zakruchivat_gajki_razrabotchikam_android_prilozhenij/</guid>
-      <pubDate>Mon, 22 Jun 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Компания назвала точные сроки внедрения новых правил установки приложений на Android-устройства 
-из сторонних источников. Изменения призваны усложнить установку такого софта — делается это, по заверению [...]]]></description>
     </item>
     <item>
       <title>Firefox Can Do All This? 21 Features Most Users Never Touch</title>
