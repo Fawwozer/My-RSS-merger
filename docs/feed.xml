@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 23 Jun 2026 20:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:35:15 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,13 @@
       <pubDate>Tue, 23 Jun 2026 08:10:36 +0000</pubDate>
       <description><![CDATA[Niri desktop]]></description>
       <category>Customization ⚙️</category>
+    </item>
+    <item>
+      <title>Owlcat Games добавила в Warhammer 40K: Rogue Trader собственный лаунчер. А потом быстро его убрала</title>
+      <link>https://4pda.to/2026/06/24/457991/owlcat_games_dobavila_v_warhammer_40k_rogue_trader_sobstvennyj_launcher_a_potom_bystro_ego_ubrala/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/24/457991/owlcat_games_dobavila_v_warhammer_40k_rogue_trader_sobstvennyj_launcher_a_potom_bystro_ego_ubrala/</guid>
+      <pubDate>Wed, 24 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Многие компании пытаются внедрить в свои игры сторонние программы для их запуска. Своеобразным образом последовать примеру Ubisoft, Electronic Arts, Rockstar Games, Epic Games и, разумеется, Steam решила [...]]]></description>
     </item>
     <item>
       <title>Инсайды #3874: камера ARRI в Honor Magic9, «солнечные» часы Amazfit и RDNA 5</title>
@@ -429,14 +436,6 @@ Nova. Производитель подтвердил внешний вид но
       <pubDate>Tue, 23 Jun 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[Последние несколько лет в России постоянно выходят из строя популярные сервисы. На сей раз неполадки наблюдаются&nbsp;у Twitch.
 Утром 23 июня у российских пользователей начались проблемы с просмотром [...]]]></description>
-    </item>
-    <item>
-      <title>Новый онлайн-сервис позволяет найти себя «внутри» нейросетей</title>
-      <link>https://4pda.to/2026/06/23/457957/novyj_onlajn_servis_pozvolyaet_najti_sebya_vnutri_nejrosetej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/23/457957/novyj_onlajn_servis_pozvolyaet_najti_sebya_vnutri_nejrosetej/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Бывшие сотрудники OpenAI запустили необычный онлайн-сервис, который ищет имена людей в базах данных ИИ-моделей. Заодно они составили рейтинг самых популярных личностей по версии нейросетей.
-Сайт создали [...]]]></description>
     </item>
     <item>
       <title>Astra: For All Your High Fidelity Music Needs and Absolute Control</title>
