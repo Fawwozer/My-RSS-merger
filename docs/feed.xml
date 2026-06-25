@@ -5,9 +5,45 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 25 Jun 2026 09:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:33:10 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff</title>
+      <link>https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26</link>
+      <guid isPermaLink="false">6a3a438ca911ac000193a324</guid>
+      <pubDate>Thu, 25 Jun 2026 14:17:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://itsfoss.com/news/brave-origin-linux/">Brave browser released Origin</a>, a striped down, non-crypto version of the Brave browser. It's basically Brave browser without the bloat but still with ad-block and anti-tracking. </p><p>Here's the good thing which you will lke a s Linux user. This Brave Origin costs $6o for Windows and macOS users, but it is free for Linux users. Not everyday we Linux users get such privilege.</p><p>Epic Games <a href="https://itsfoss.com/news/lore-launched/">open-sourced Lore</a> at State of Unreal 2026, a Git alternative built specifically for projects that mix code with huge binary files, the kind of thing Git LFS handles awkwardly.</p><p>NVK, the open source Vulkan driver for NVIDIA cards, <a href="https://www.phoronix.com/news/Mesa-NVK-Vulkan-Does-DLSS">can now run DLSS in games</a>. The catch is it's experimental and needs a special flag to turn on, so don't expect it to just work out of the box yet. Full stable support lands with Mesa 26.2 in August.</p><p>Remember Canonical's "<em>implicit/explicit AI</em>" framework from a few months ago? <a href="https://itsfoss.com/news/myna-ai-speech-to-text-tool/">Myna is the implicit half</a> taking shape as a local speech-to-text dictation tool that's expected to land in Ubuntu 26.10.</p><p>ArmSoM's Sige series has always shipped on Rockchip silicon, until now. The <a href="https://itsfoss.com/news/armsom-sige6-launched-with-allwinner-soc/">Sige6</a> swaps in an Allwinner A733 instead, an octa-core chip with a 3 TOPS NPU, LPDDR5 RAM up to 16GB, and an M.2 slot for NVMe storage.</p><p>Fruit Ninja's developers are making <a href="https://itsfoss.com/news/guncrypt-demo-review/">a dungeon crawler</a>, and the demo already runs on Linux through Proton without a hitch.</p><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128591;</div><div class="kg-callout-text">Thank you to all the people who supported It's FOSS with <a href="https://itsfoss.com/lifetime-membership/">lifetime membership</a>. We reached 192, just short of our goal of 200 supporters. The discount ends on 26th June. Maybe we will reach our goal.<br /><br />And if you recently paid for a <a href="https://itsfoss.com/lifetime-membership/">lifetime membership</a> and your Plus membership is not enabled yet, please reach out to me (support@itsfoss.com) and share the transaction details. I have sent follow up emails to a few people whose email address doesn't match in the membership database and yet to hear back from them. I don't want any lifetime members left behind.</div></div><h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>If you're running ARM64 servers on Ubuntu, you can finally patch kernel vulnerabilities <a href="https://itsfoss.com/news/arm64-livepatching-on-ubuntu/">without scheduling a reboot</a>, something AMD64 has had for years.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>Most people use Firefox for browsing and nothing else, which is a shame given how much is actually packed in. There are <a href="https://itsfoss.com/firefox-additional-features/">many features that you might've missed</a>, like split-screen tabs, a PDF editor with merge support, the built-in eyedropper tool, and full-page screenshots.</p><p>If you've ever wondered how LVM actually works under the hood rather than just clicking through an installer's defaults, <a href="https://itsfoss.com/lvm-guide/">we can walk you through it</a> command by command.</p><p>Niri rearranges nothing when you open a new window; it just adds another column to an endless horizontal strip, and you scroll over to it. After <a href="https://itsfoss.com/niri-window-manager/">a few weeks of daily use</a>, Bhuwan admits the real appeal only showed up once they stopped trying to use it like a normal tiling WM.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
+            
+                <div class="kg-cta-sponsor-label-wrapper">
+                    <div class="kg-cta-sponsor-label">
+                        <span style="white-space: pre-wrap;">SPONSORED</span>
+                    </div>
+                </div>
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p dir="ltr"><span style="white-space: pre-wrap;">ANY.RUN just released its </span><a class="cta-link-color" href="https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/?utm_source=itsfoss&amp;utm_medium=newsletter&amp;utm_campaign=q1_report_26&amp;utm_content=blog&amp;utm_term=110626"><u><span class="underline" style="white-space: pre-wrap;">Q1 2026 Cyber Risk report </span></u></a><span style="white-space: pre-wrap;">based on the data from 2M malware &amp; phishing investigations. It gives exclusive insight intohow the threat landscape is shifting and what it means for SOC and MSSP teams.</span></p><p dir="ltr"><span style="white-space: pre-wrap;">Inside the report:</span></p><ul><li value="1"><span style="white-space: pre-wrap;">+14.7% increase in credential theft, showing sustained attacker focus on identity compromise</span></li><li value="2"><span style="white-space: pre-wrap;">+98.3% growth in loader-based attacks, driving initial access at scale</span></li><li value="3"><span style="white-space: pre-wrap;">+58.4% rise in LOLBAS attacks leveraging JavaScript for low-noise execution</span></li></ul><p dir="ltr"><span style="white-space: pre-wrap;">Help your security team detect earlier, prioritize faster, and reduce incident impact.</span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://any.run/cybersecurity-blog/cyber-risk-report-q1-2026/?utm_source=itsfoss&amp;utm_medium=newsletter&amp;utm_campaign=q1_report_26&amp;utm_content=blog&amp;utm_term=110626" style="background-color: #000000; color: #ffffff;">
+                            Download the report for FREE
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><!--kg-gated-block:end-->
+<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>I <a href="https://itsfoss.com/terramaster-f4-425-pro-first-impressions/" rel="noreferrer">briefly tested Terramaster F4-425 Pro NAS</a>. The device is good but there are some rough edges to handle on the software side.</p><p>Raspberry Pi-powered handhelds are cropping up regularly now. Our list covers <a href="https://itsfoss.com/raspberry-pi-handhelds/">six such options</a> that you could look into.</p><p>PINE64's latest offering is <a href="https://itsfoss.com/news/pinevoice-smart-speaker/">PineVoice</a>, a $49.99 smart speaker that skips Alexa and Google Assistant entirely in favor of being a dedicated Home Assistant voice satellite.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p>Audiophiles, this one's for you. <a href="https://itsfoss.com/astra-music-player/">Astra</a> is a music player that lets you play locally stored music files with many controls to fine-tune playback.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>There's <a href="https://www.youtube.com/watch?v=xRZAt1t0ryM">a simple command</a> that can save you some considerable space on your Linux server.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><p>In KDE Plasma System Settings, go to <code>Window Management -&gt; Virtual Desktops</code>. Here, enable the "<em>Switch desktops independently for each screen</em>" option to easily switch between the different virtual desktops on multiple monitors.</p><p>This was introduced with the recent <a href="https://itsfoss.com/news/kde-plasma-6-7-release/">Plasma 6.7</a> release and should be very convenient for people who like to multi-task.</p><figure class="kg-card kg-image-card"><img alt="kde per display workspace setting tip" class="kg-image" height="736" src="https://itsfoss.com/content/images/2026/06/kde-plasma-workspace.png" width="1394" /></figure><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Can you <a href="https://itsfoss.com/quiz/match-terminal-shortcuts/">match terminal shortcuts with their actions</a>?</p><p>Selective outrage, I guess, right Brave Linux users ;)</p><figure class="kg-card kg-image-card"><img alt="hypocrite linux user meme" class="kg-image" height="1080" src="https://itsfoss.com/content/images/2026/06/memes4.png" width="1080" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On June 18, 1997, the <a href="https://en.wikipedia.org/wiki/DESCHALL_Project">DESCHALL Project</a> cracked the 56-bit <a href="https://en.wikipedia.org/wiki/Data_Encryption_Standard">Data Encryption Standard</a>. Managed by a modest i486 server, online volunteers pooled their idle computer power to brute-force the key in 96 days, proving DES was obsolete.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: A developer <a href="https://itsfoss.community/t/how-to-get-a-mac-like-text-capture-experience-on-gnome/15960">has posted on our forum</a> showing off their new GNOME shell extension called <a href="https://extensions.gnome.org/extension/10209/snap-text-extractor/">Snap Text</a> for OCR.</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17367828.gif" width="1" />]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
     <item>
       <title>Linux Users Get This For Free! Brave Origin Costs $59.99 For Everyone Else</title>
       <link>https://feed.itsfoss.com/link/24361/17367666/brave-origin-linux</link>
@@ -25,12 +61,329 @@
       <category>Customization ⚙️</category>
     </item>
     <item>
+      <title>На МКАД столкнулись Citroen и BMW — 13-летняя девочка попала в больницу (видео)</title>
+      <link>https://auto.onliner.by/go/1252971</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/stolknulis-citroen-i-bmw</guid>
+      <pubDate>Thu, 25 Jun 2026 14:08:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/stolknulis-citroen-i-bmw"><img alt="" src="https://content.onliner.by/news/thumbnail/441bd9a79627221b249bd3086783060d.jpg" /></a></p><p>ГАИ Минска сообщает о ДТП, которое случилось сегодня днем в районе 39-го км внутреннего кольца МКАД. Там столкнулись два автомобиля: Citroen и BMW.
+</p><p><a href="https://auto.onliner.by/2026/06/25/stolknulis-citroen-i-bmw">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Риелторы пытались остановить, но… Пенсионерка потеряла квартиру и 180 000 рублей</title>
+      <link>https://realt.onliner.by/go/1112551</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/moshenniki-10</guid>
+      <pubDate>Thu, 25 Jun 2026 14:00:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/moshenniki-10"><img alt="" src="https://content.onliner.by/news/thumbnail/ee46d216c80c9a88d928134c03a570b4.jpg" /></a></p><p>Очередные мошенники потирают ручки, сумев обмануть пенсионерку и лишить ее огромной суммы, а также жилья. С женщиной была провернута распространенная схема с фейковой заменой домофона. Подробности <a href="https://mogilev.mvd.gov.by/ru/news/15475" target="_blank">сообщает</a> УВД Могилевского облисполкома. </p><p><a href="https://realt.onliner.by/2026/06/25/moshenniki-10">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Уже появилась первая черника. Сколько стоит? (обновлено)</title>
+      <link>https://money.onliner.by/go/333398</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/uzhe-poyavilas-pervaya-chernika-skolko-stoit</guid>
+      <pubDate>Thu, 25 Jun 2026 13:59:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/uzhe-poyavilas-pervaya-chernika-skolko-stoit"><img alt="" src="https://content.onliner.by/news/thumbnail/89fd7b7188fc1221811db88ffdbb495d.jpg" /></a></p><p>На Комаровке наконец появилась первая черника, за килограмм просят 20 рублей. Клубника в это время подешевела до 5 рублей — похоже, ниже цен мы уже не увидим. А еще на главном минском рынке сейчас много молодой картошки, зелени и огурцов. Показываем, что почем перед последними июньскими выходными.</p><p><a href="https://money.onliner.by/2026/06/25/uzhe-poyavilas-pervaya-chernika-skolko-stoit">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Getting More Out of KDE Plasma System Monitor</title>
+      <link>https://feed.itsfoss.com/link/24361/17367829/kde-system-monitor-tweaks</link>
+      <guid isPermaLink="false">6a393fa9a911ac0001939dee</guid>
+      <pubDate>Thu, 25 Jun 2026 13:47:12 +0000</pubDate>
+      <description><![CDATA[KDE System Monitor customization]]></description>
+      <category>Customization ⚙️</category>
+    </item>
+    <item>
+      <title>Слет байкеров, VAG party, Гран-при по дрифту и многое другое. Анонс ближайших выходных</title>
+      <link>https://auto.onliner.by/go/1252951</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/anons-vyxodnyx</guid>
+      <pubDate>Thu, 25 Jun 2026 13:43:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/anons-vyxodnyx"><img alt="" src="https://content.onliner.by/news/thumbnail/1ba496c7c05c406c68b369c88898ae40.jpg" /></a></p><p>Очередной летний уик-энд будет жарким не только из-за погоды, но и из-за накала страстей на тематических мероприятиях! Хотите на трофи-рейд? Добро пожаловать на «Игуменские топи 2026». А может, дрифт? Трасса Гран-при Гродно уже готова. Или мечтаете попасть на праздник автомобильной культуры и эстетики? Тогда велком на VAG party в Клецк. И это далеко не полный список. Сейчас обо всем расскажем в традиционном анонсе Onlíner.
+</p><p><a href="https://auto.onliner.by/2026/06/25/anons-vyxodnyx">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Apple официально подняла цены. Вот какие устройства стали дороже</title>
+      <link>https://tech.onliner.by/go/780359</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/apple-oficialno-podnyala-ceny-vot-kakie-ustrojstva-stali-dorozhe</guid>
+      <pubDate>Thu, 25 Jun 2026 13:30:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/apple-oficialno-podnyala-ceny-vot-kakie-ustrojstva-stali-dorozhe"><img alt="" src="https://content.onliner.by/news/thumbnail/5f1ec1cb7a539e2ed842b0d4bf702a40.jpg" /></a></p><p>Apple обновила цены на ряд устройств — об этом стало известно исходя из официального сайта компании. Комментарий о причинах подобного решения компания также предоставила. Если коротко, дело — в рынке памяти, о чем ранее уже говорил Тим Кук.</p><p><a href="https://tech.onliner.by/2026/06/25/apple-oficialno-podnyala-ceny-vot-kakie-ustrojstva-stali-dorozhe">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>POCO Pad C1 появился в российской рознице</title>
+      <link>https://4pda.to/2026/06/25/458093/poco_pad_c1_poyavilsya_v_rossijskoj_roznitse/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458093/poco_pad_c1_poyavilsya_v_rossijskoj_roznitse/</guid>
+      <pubDate>Thu, 25 Jun 2026 13:30:35 +0000</pubDate>
+      <description><![CDATA[В российских магазинах появился&nbsp;среднебюджетный планшет POCO Pad C1. Это недорогая модель с большим дисплеем, ёмкой АКБ, стереодинамиками и&nbsp;процессором Snapdragon.
+POCO Pad C1 получил 9,7-дюймовый [...]]]></description>
+    </item>
+    <item>
+      <title>Apple ощутимо подняла цены на MacBook Neo и другую технику</title>
+      <link>https://4pda.to/2026/06/25/458117/apple_oschutimo_podnyala_tseny_na_macbook_neo_i_druguyu_tekhniku/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458117/apple_oschutimo_podnyala_tseny_na_macbook_neo_i_druguyu_tekhniku/</guid>
+      <pubDate>Thu, 25 Jun 2026 13:25:00 +0000</pubDate>
+      <description><![CDATA[Apple пересмотрела цены сразу нескольких ключевых устройств на фоне продолжающегося дефицита чипов памяти. Компания уже обновила фирменный сайт, представив новые ценники на практически все свои продукты.
+Сильнее [...]]]></description>
+    </item>
+    <item>
+      <title>Новый Fujitsu Arrows Alpha 2 соответствует 23 военным стандартам защиты</title>
+      <link>https://4pda.to/2026/06/25/458105/novyj_fujitsu_arrows_alpha_2_sootvetstvuet_23_voennym_standartam_zaschity/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458105/novyj_fujitsu_arrows_alpha_2_sootvetstvuet_23_voennym_standartam_zaschity/</guid>
+      <pubDate>Thu, 25 Jun 2026 13:10:12 +0000</pubDate>
+      <description><![CDATA[Японская компания FCNT (Fujitsu Connected Technologies Limited), мобильное подразделение Fujitsu под управлением Lenovo, представила новый смартфон Arrows Alpha 2. Главный акцент в устройстве сделан не [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung Galaxy A27 с шестью годами поддержки представлен в России</title>
+      <link>https://4pda.to/2026/06/25/458115/samsung_galaxy_a27_s_shestyu_godami_podderzhki_predstavlen_v_rossii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458115/samsung_galaxy_a27_s_shestyu_godami_podderzhki_predstavlen_v_rossii/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:55:00 +0000</pubDate>
+      <description><![CDATA[Samsung расширила линейку смартфонов начального уровня, представив модель Galaxy A27. В сравнении с предшественником аппарат получил более крупный экран, улучшенную&nbsp;производительность и расширенный [...]]]></description>
+    </item>
+    <item>
+      <title>Слух: Sony PlayStation 6 сможет запускать игры в 4K при 120 fps, но с оговоркой</title>
+      <link>https://4pda.to/2026/06/25/458107/slukh_sony_playstation_6_smozhet_zapuskat_igry_v_4k_pri_120_fps_no_s_ogovorkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458107/slukh_sony_playstation_6_smozhet_zapuskat_igry_v_4k_pri_120_fps_no_s_ogovorkoj/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:50:20 +0000</pubDate>
+      <description><![CDATA[Согласно новым данным инсайдеров, Sony делает сильный акцент на искусственный интеллект при разработке&nbsp;PlayStation 6. Это должно компенсировать не самое топовое железо, чтобы консоль смогла запускать [...]]]></description>
+    </item>
+    <item>
+      <title>Теперь данные своей медкарты можно посмотреть в режиме онлайн. В Беларуси заработал «Медпортал»</title>
+      <link>https://people.onliner.by/go/1311734</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/teper-dannye-svoej-medkarty-mozhno-posmotret-v-rezhime-onlajn-v-belarusi-zarabotal-medportal</guid>
+      <pubDate>Thu, 25 Jun 2026 12:48:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/teper-dannye-svoej-medkarty-mozhno-posmotret-v-rezhime-onlajn-v-belarusi-zarabotal-medportal"><img alt="" src="https://content.onliner.by/news/thumbnail/065d111f9af98bed0fd6c69a25dd1cbd.jpg" /></a></p><p>В Беларуси запустили новый медпортал, который позволяет получать данные о своем здоровье в режиме онлайн. Информация о посещениях врачей, поставленных диагнозах, результатах анализов, вакцинации и других медицинских услугах доступна через личный кабинет пользователя.</p><p><a href="https://people.onliner.by/2026/06/25/teper-dannye-svoej-medkarty-mozhno-posmotret-v-rezhime-onlajn-v-belarusi-zarabotal-medportal">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Джеймс Уэбб» объяснил природу одной из самых странных планет галактики</title>
+      <link>https://tech.onliner.by/go/780332</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/dzhejms-uebb-obyasnil-prirodu-odnoj-iz-samyx-strannyx-planet-galaktiki</guid>
+      <pubDate>Thu, 25 Jun 2026 12:45:14 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/dzhejms-uebb-obyasnil-prirodu-odnoj-iz-samyx-strannyx-planet-galaktiki"><img alt="" src="https://content.onliner.by/news/thumbnail/d8b32bbbff66e534837e4e3e3095a334.jpg" /></a></p><p>Телескоп имени Джеймса Уэбба обнаружил соляные облака на странной розовой планете примерно в 57 световых годах от Земли. Подробнее <a href="https://www.techspot.com/news/112879-james-webb-telescope-uncovers-salt-clouds-strange-pink.html" target="_blank">пишет</a> издание techspot — судя по их материалу, загадку этого мира не могли разгадать более десяти лет.</p><p><a href="https://tech.onliner.by/2026/06/25/dzhejms-uebb-obyasnil-prirodu-odnoj-iz-samyx-strannyx-planet-galaktiki">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>4K-проектор Acer H6805BDa под управлением Android появился в России</title>
+      <link>https://4pda.to/2026/06/25/458099/4k_proektor_acer_h6805bda_pod_upravleniem_android_poyavilsya_v_rossii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458099/4k_proektor_acer_h6805bda_pod_upravleniem_android_poyavilsya_v_rossii/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:40:00 +0000</pubDate>
+      <description><![CDATA[На российском рынке появился новый проектор Acer H6805BDa, который объединяет возможности домашнего кинотеатра, игровой системы и умного телевизора. Модель работает под управлением операционной системы [...]]]></description>
+    </item>
+    <item>
+      <title>Подборка видео про «суетные» BMW из Минска (видео)</title>
+      <link>https://auto.onliner.by/go/1252952</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/podborka-video-pro-suetnye-bmw-iz-minska</guid>
+      <pubDate>Thu, 25 Jun 2026 12:39:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/podborka-video-pro-suetnye-bmw-iz-minska"><img alt="" src="https://content.onliner.by/news/thumbnail/d4903a9bc04415c8b683e05928dff0f1.jpg" /></a></p><p>Шутки про манеру езды владельцев BMW не теряют своей актуальности. Не потому, что они смешные (чаще всего — нет), а потому, что водители «баварцев» периодически напоминают, почему стереотипы о них вообще появились. Вот подборка свежих видео с нашего форума.</p><p><a href="https://auto.onliner.by/2026/06/25/podborka-video-pro-suetnye-bmw-iz-minska">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Июль готов! Кто в середине лета останется без горячей воды (обновлено)</title>
+      <link>https://realt.onliner.by/go/1098905</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov</guid>
+      <pubDate>Thu, 25 Jun 2026 12:27:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov"><img alt="" src="https://content.onliner.by/news/thumbnail/0eafc2a5590e1083aaf418baadf724f5.jpg" /></a></p><p>Лето продолжается. А вместе с ним пополняется новыми адресами и один из самых неприятных списков — график отключения горячей воды. На июль работы распланировали оба поставщика услуг в столице: <a href="https://www.mkts.by/index.php/news/812-otklyuchenie-goryachego-vodosnabzheniya-v-iyule-2026g?utm_source=realt.by&amp;utm_campaign=news-article-47697" target="_blank">«Минсккоммунтеплосеть»</a> и <a href="https://web.minskenergo.by/news/planovye-otklyuchenie-goryachego-vodosnabzheniya-na-iul-2026/" target="_blank">«Минскэнерго»</a>. Смотрим, кому страдать в ближайшее время (или беззаботно включать бойлеры).
+</p><p><a href="https://realt.onliner.by/2026/06/25/kto-ostanetsya-bez-goryachej-vody-uzhe-v-mae-spisok-adresov">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>«Чтобы в нос били — такого никогда не было»: ту самую поющую Валентину ударили в метро</title>
+      <link>https://people.onliner.by/go/1311521</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/chtoby-v-nos-bili-takogo-nikogda-ne-bylo-tu-samuyu-poyushhuyu-valentinu-udarili-v-metro</guid>
+      <pubDate>Thu, 25 Jun 2026 12:24:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/chtoby-v-nos-bili-takogo-nikogda-ne-bylo-tu-samuyu-poyushhuyu-valentinu-udarili-v-metro"><img alt="" src="https://content.onliner.by/news/thumbnail/837c6c63bccaefdd788e771f46e6d539.jpg" /></a></p><p>В соцсетях завирусилось видео с Валентиной — женщиной, которую многие минчане считают легендой. Это она поет христианские песни на улицах и в метро. Но в этот раз поводом для обсуждений стал не сам факт исполнения песен, а неприятный инцидент: по словам женщины, в вагоне поезда ее ударил незнакомец. Пострадавшую в крови заметила другая пассажирка, которая сняла видео с рассказом Валентины и выложила в соцсети. Резонанс вызвала и сама ситуация, и этичность пения в метро. Рассказываем, что известно.</p><p><a href="https://people.onliner.by/2026/06/25/chtoby-v-nos-bili-takogo-nikogda-ne-bylo-tu-samuyu-poyushhuyu-valentinu-udarili-v-metro">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>211 человек фиктивно устроились на работу в одну фирму — ее собственников будут судить</title>
+      <link>https://money.onliner.by/go/333677</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/211-chelovek-fiktivno-ustroilis-na-rabotu-v-odnu-firmu-ee-sobstvennikov-sudili</guid>
+      <pubDate>Thu, 25 Jun 2026 12:20:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/211-chelovek-fiktivno-ustroilis-na-rabotu-v-odnu-firmu-ee-sobstvennikov-sudili"><img alt="" src="https://content.onliner.by/news/thumbnail/307587a621c7192bb2fd43b7becb461e.jpg" /></a></p><p>Двое мужчин организовали фирму, которая помогала выпускникам обходить распределение и фиктивно устраиваться на работу. Услугами фирмы воспользовались 211 человек, стало известно, как наказали ее собственников.</p><p><a href="https://money.onliner.by/2026/06/25/211-chelovek-fiktivno-ustroilis-na-rabotu-v-odnu-firmu-ee-sobstvennikov-sudili">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Беларусь на время исчезла из рейтинга скорости Speedtest. Комментарий компании (обновлено)</title>
+      <link>https://tech.onliner.by/go/779972</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/belarus-ischezla-iz-rejtinga-skorosti-speedtest</guid>
+      <pubDate>Thu, 25 Jun 2026 12:17:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/belarus-ischezla-iz-rejtinga-skorosti-speedtest"><img alt="" src="https://content.onliner.by/news/thumbnail/01b9334416fe1fe806a09bb0e93ed0ef.jpg" /></a></p><p>Speedtest — популярный бесплатный сервис, созданный американской компанией для измерения реальной скорости и качества вашего интернет-соединения. Сервис учитывает параметры вроде скорости передачи данных, скачивания и пинга. В июле 2025-го Speedtest <a href="https://tech.onliner.by/2025/07/30/v-rossii-zablokirovali-servis-speedtest-by-ookla-a-chto-v-belarusi" target="_blank">заблокировали</a> в России, а сейчас шероховатости в его работе наблюдаются и в Беларуси.</p><p><a href="https://tech.onliner.by/2026/06/25/belarus-ischezla-iz-rejtinga-skorosti-speedtest">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Terramaster F4-425 Pro: An Hardware Upgrade for an Already Solid NAS</title>
+      <link>https://feed.itsfoss.com/link/24361/17367784/terramaster-f4-425-pro-first-impressions</link>
+      <guid isPermaLink="false">6a3bd8d8a911ac000193ad9e</guid>
+      <pubDate>Thu, 25 Jun 2026 12:10:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://itsfoss.com/terramaster-f4-425-plus-review/">Terramaster F4-425 Plus was the first NAS</a> I ever used in my hoemlab setup. It's a solid device for a NAS. Not too expensive, silent and has a decent operating system. The hybrid HDD+SSD model along with TRAID and built-in backup tools makes it a good NAS choice.</p><p>Now Terramaster has refreshed their <a href="https://www.terra-master.com/products/f4-425-pro">F4-425 series with a Pro model</a>. The main thing that changes here is the CPU. There is also a revamped operating system in the form of TOS 7 but that should be available on previous F4-425 models, too.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.terra-master.com/products/f4-425-pro">20% off launch offer</a></div><p>The new F4-425 is still a solid device, hardware wise. Operating system has rough edges and hopefully it will improve in the future updates if Terramaster is serious on this product. They usually are.</p><p>I have used the device for a few days as it's a new device and I have been travelling to other cities for most of the past few weeks. So what I am sharing here are more of first impressions. A more thorough review with extended daily use will follow. </p><p>Still, there is enough here to give you a useful picture of where the F4-425 Pro stands right now.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">Just so that you know, Terramaster sent me the F4-425 Plus NAS. The views shared are my own, coming from my experience of using this device.</div></div><h2 id="the-hardware">The hardware</h2><p>Visually, the F4-425 Pro is identical to the Plus. Same aluminum chassis, same front layout with four HDD bays and a single USB-A port, same rear port arrangement. There is no design refresh here. You cannot distinguish between the two by just looking at them from the outside.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="676" src="https://itsfoss.com/content/images/2026/06/terramaster-F4-425-Pro-3.webp" width="1200" /><figcaption><span style="white-space: pre-wrap;">Find differences between the two models of F4-425</span></figcaption></figure><p>What changed is the processor primarily. The Plus had an Intel N150 with 4 cores. The Pro moves to the Intel Core 3 N350 with 8 cores and a 7W TDP. The integrated GPU gains 32 execution units versus 16 to 24 on the Plus, which matters for hardware-accelerated transcoding. My unit is the top configuration with the N350 and 16GB DDR5.</p>
+<!--kg-card-begin: html-->
+<table class="min-w-full border-collapse text-sm leading-[1.7] whitespace-normal"><thead class="text-left"><tr><th class="text-text-100 border-b-0.5 border-[hsl(var(--border-300)/0.6)] py-2 pr-4 align-top font-bold" scope="col">Component</th><th class="text-text-100 border-b-0.5 border-[hsl(var(--border-300)/0.6)] py-2 pr-4 align-top font-bold" scope="col">F4-425 Pro (this unit)</th><th class="text-text-100 border-b-0.5 border-[hsl(var(--border-300)/0.6)] py-2 pr-4 align-top font-bold" scope="col">F4-425 Plus</th></tr></thead><tbody><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">CPU</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">Intel Core 3 N350, 8-core (7W)</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">Intel N150, 4-core</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">RAM</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">16GB DDR5 (single SODIMM slot)</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">16GB DDR5</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">GPU (iGPU)</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">32 execution units</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">16&ndash;24 execution units</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">HDD Bays</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">4&times; SATA hot-swap</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">4&times; SATA hot-swap</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">M.2 Slots</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">3&times; NVMe (PCIe Gen3 x1)</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">3&times; NVMe (PCIe Gen3 x1)</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">Max Storage</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">152TB (32TB&times;4 HDD + 8TB&times;3 NVMe)</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">144TB</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">LAN</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">Dual 5GbE</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">Dual 5GbE</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">USB</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">3&times; USB-A + 1&times; USB-C (all 10Gbps)</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">3&times; USB-A + 1&times; USB-C (10Gbps)</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">OS</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">TOS 7</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">TOS 6 (upgradeable to TOS 7)</td></tr><tr><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">Price</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">$799.99</td><td class="border-b-0.5 border-[hsl(var(--border-300)/0.3)] py-2 pr-4 align-top">$599.99</td></tr></tbody></table>
+<!--kg-card-end: html-->
+<p>The 8-core upgrade is meaningful for a NAS running multiple Docker containers, simultaneous services, and media transcoding. <strong>There is also a cheaper N305 variant at $699.99 with 8GB less RAM, but given how much a NAS tends to do in parallel, I would lean toward this configuration</strong>.</p><p>One constraint worth noting is that there is only one SODIMM slot. If you want to upgrade beyond 16GB later, you will need a single module of single-rank DDR5.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">I like the fact that Terramaster includes bunch of M2 screws and stickers to label the hard disks. It's a minor thing but worth appreciation.</div></div><h2 id="first-a-discovery-that-changed-how-i-think-about-terramaster-migration">First, a discovery that changed how I think about TerraMaster migration</h2><p>Before the hardware rundown, I want to share something I stumbled into during setup that I did not know before and found genuinely useful.</p><p>Terrmaster's operating system, TOS, does not live on the NAS device itself. There is no onboard eMMC storage. The operating system is installed directly on one of the user-inserted disks.</p><p>When I moved some of my existing drives from the Plus into the Pro, it booted straight into TOS 6 with my old user credentials already present. The Pro just picked up where the Plus left off because the OS was on the drives, not the device. </p><p>If that was amusing, the story gets better.</p><p>I then inserted those same drives into my <a href="https://itsfoss.com/zimacube-2-review/" rel="noreferrer">ZimaCube Pro</a> as I wanted to format them. And the strangest thing happened. The ZimaCube started presenting itself as a TerraMaster NAS running TOS. The TOS installation on disk was only about 280 MB but that was enough to 'hijack' the boot process. </p><p>I formatted the SSDs by putting them in my <a href="https://itsfoss.com/terramaster-d1-ssd-plus-review/">Terramaster D1 SSD enclosure</a> and connecting it to my Ubuntu laptop. I formatted the drives using GParted via my TerraMaster USB DAS, reinserted them in the Pro, and it initialized fresh with TOS 7.</p><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">The upside of this design is that NAS migration is much simpler than you might expect. If the NAS unit dies, your OS, configuration, and data all survive on the drives. Move them to a new TerraMaster device and you pick up right where you left off. </div></div><h2 id="the-os-installation-experience">The OS installation experience</h2><p>No, I am not talking about installing an open source NAS OS on the Terramaster F4-425 Pro. I am talking about TOS itself.</p><p>Since the device doesn't come with on-board storage, the OS is installed when you boot (with fresh hard disks).</p><p>I used two SSDs to test the NAS. Only SSDs, no HDDs (don't judge me). I think in total, I have 8 SSDs of various size. I started buying them 2 years back when I started exploring homelab setup. My collection of disks would have grown as my interest and devices grew in my homelab but the increased price have put a stop on them for now. From what I see, the SSDs that I bought 2 years ago, cost 2 to 3 times more these days. I'll wait for the prices to come down.</p><figure class="kg-card kg-image-card"><img alt="Waiting for SSD prices to come down" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/06/waiting-for-ssd-price-to-go-down.webp" width="800" /></figure><p>Enough of my sob story. So, I used two disks and they were combined into one with TRAID. </p><p>The TOS 7 was downloaded and installed in 25 minutes or so. </p><figure class="kg-card kg-image-card"><img alt="TNAS initialization" class="kg-image" height="589" src="https://itsfoss.com/content/images/2026/06/Screenshot-From-2026-06-25-17-15-29.webp" width="1200" /></figure><p>Once it is installed, you get the option to create a "super user" locally:</p><figure class="kg-card kg-image-card"><img alt="TNAS user creation" class="kg-image" height="1156" src="https://itsfoss.com/content/images/2026/06/tnas-user-creation.webp" width="1963" /></figure><p>And then you get the option to add an email account. You have to provide an email address and you may provide a fake or temporary one and skip verification, I think. However, this email address is used to send notification about certain events like NAS being rebooted, shutdown and more. You can also configure custom notification for when disks are full or they encounter issues.</p><p>Here's a video of the TNAS OS installation and initilization. It's a raw, unedited video of about 35 minutes. Mostly the first and last few minutes are of interest.</p><figure class="kg-card kg-embed-card"></figure><p>You'll notice some errors when I first log in to the TOS. Those errors went away after the reboot.</p><h2 id="using-tos-7-improvement-on-tos-6-but-the-ai-native-label-is-not-justified-yet">Using TOS 7: Improvement on TOS 6, but the "AI-native" label is not justified (yet)</h2><p>TOS 7 is surely an improvement over the previous TOS 6. The interface is cleaner, navigation is more intuitive, and the storage management tools feel more coherent. The addition of system monitor in the sidebar is a good move and overall, the TOS seems to have a good user interface at first look.</p><figure class="kg-card kg-image-card"><img alt="TOS 7" class="kg-image" height="611" src="https://itsfoss.com/content/images/2026/06/tos-7.webp" width="1200" /></figure><p>The redesign is evident, sepecially if you have used TOS 6 in the past.</p><p>That said, TerraMaster is marketing TOS 7 as "the world's first AI-native NAS OS" and I think that's more of marketing than actual AI features.</p><h3 id="the-ai-native-tag-needs-a-lot-more-work">The "Ai-native" tag needs a lot more work</h3><p>The main AI feature is the inclusion of OpenClaw, which lets you interact with the NAS using natural language. Sounds compelling. But OpenClaw is an orchestration layer, not an AI model itself. It acts as a middleman between you and whatever LLM you connect it to, which could be a cloud service or a local model running on current or another device. The NAS itself is not doing any AI inference. So "AI-native" means "designed to connect to AI", which is a different thing.</p><p>The idea Terramaster showcased in their TOS7 video was that OpenClaw could be used to manage the NAS more easily by asking the AI to configure a few things instead of doing it all by yourself.</p><figure class="kg-card kg-embed-card"></figure><p>If that was the idea, it would have made more sense to include some open source model pretrained data on Terramaster docs or at least have some custom skills added to it (for the lack of good enough GPU for local AI). There is no scope for adding a GPU for more local AI capabilities.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="1162" src="https://itsfoss.com/content/images/2026/06/terramaster-nanoclaw.webp" width="2000" /><figcaption><span style="white-space: pre-wrap;">Nanoclaw needs to be conncted to an LLM first</span></figcaption></figure><p>I tried pointing OpenClaw at Ollama running on my ZimaCube Pro. The configuration is not straightforward. There are networking details to sort out and Ollama's API endpoint format matters. It is doable (and I'll revisit this scenario later), but it is not the one-click experience the marketing implies. </p><p>Of course, OpenClaw can be connected with Claude and other cloud LLMs but then it won't be native, local AI. I also don't have Claude Max plan to connect it to OpenClaw.</p><p>Personally, I would not trust AI automation with my private data, especially when I plan to use this as my primary local data backup. That said, the idea of including AI assistance is not entirely bad. People are increasingly using AI and they want it built into the tools they already use, rather than switching to a browser tab or a terminal. </p><p>The other AI feature is in the Photos app. It scans your library to recognize faces, places, and scenes. This is useful but nothing new or revolutionary, it was already there in TOS version 6. Tools like Immich and PhotoPrism already do this, and they are both open source options you can install on the NAS itself. What would actually differentiate this is something like OCR on scanned documents, which neither Photos nor most self-hosted tools handle well. That opportunity is sitting right there.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="690" src="https://itsfoss.com/content/images/2026/06/terramaster-tos-photos-ai-feature.webp" width="2000" /><figcaption><span style="white-space: pre-wrap;">Official Terramaster Photos apps has some AI features (that were in TOS 6 too)</span></figcaption></figure><p>The AI recognition in Photos is also not enabled by default. You have to go into settings and turn it on manually. Once enabled, it takes a while to process a large library.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">To give credit where it is due: TRAID for combining disks of different sizes works well and remains one of TOS' highlights. And Jellyfin had Intel QuickSync hardware transcoding enabled out of the box without any manual configuration on my part, which I appreciated.</div></div><h3 id="there-is-a-linux-terminal-too">There is a Linux terminal, too</h3><p>TOS 7 provides terminal access to a Linux environment running underneath. I guess this is good for people who do not want to rely on the provided graphical user interface and want to take matters into their own hands by using the command line.</p><p>Now, the Linux environment is Ubuntu. Ubuntu 22.04 specifically. That version reaches end of life in April 2027, almost a year from now. For a device just launched in mid-2026 and expected to run for years, shipping with a near-EOL Ubuntu base is not a good move. I would have expected 24.04 at minimum.</p><figure class="kg-card kg-image-card"><img alt="Terramaster Linux terminal" class="kg-image" height="543" src="https://itsfoss.com/content/images/2026/06/terramaster-linux-terminal-1.webp" width="1128" /></figure><p>Another thing is that I could see pending updates in the terminal but it threw a warning when I tried to run apt upgrade.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="754" src="https://itsfoss.com/content/images/2026/06/terramaster-linux-terminal.webp" width="1258" /><figcaption><span style="white-space: pre-wrap;">I don't know why the screenshot is blurry. Still, you can see the upgrade results in warning</span></figcaption></figure><p>Which makes sense to some extent. Terramaster doesn't want you to upgrade the system on your own. Rather, they will provide OTA updates. If you install a package on your own, you can upgrade it with "apt install package_name" way. And of course, the terminal is at your disposal to configure docker, development tools etc from the command line because a few things are rather easy in the terminal than fiddling around in the GUI menu.</p><h3 id="easy-remote-access-through">Easy remote access through</h3><p>Terramaster also has this new feature (I think) calles TNAS.online remote access. So, if you register an account with Terramaster, you can enable remote acces to your NAS device. This makes it easier for you to access data when you are not on your home network.</p><figure class="kg-card kg-image-card"><img alt="Terrmaster remote access" class="kg-image" height="640" src="https://itsfoss.com/content/images/2026/06/terramaster-remote-access.webp" width="1200" /></figure><h3 id="rough-edges-worth-knowing-about">Rough edges worth knowing about</h3><p>These are not dealbreakers but they add up and are worth calling out early. I hope Terramaster team reads this and provides software updates to address these issues.</p><p><strong>Global search has a scope problem.</strong> TOS 7 has a distinction between your personal space (home directory) and the shared public space. A global search only returns results from your home directory. Files stored elsewhere on the device did not appear. Even files I copied into the home directory did not show up in search results immediately, possibly due to indexing time. But the lack of clear guidance on what the two spaces mean, and which one search actually covers, will confuse new users.</p><p><strong>Jellyfin cannot browse subdirectories inside the home directory.</strong> I set up a Movies folder inside my home directory but Jellyfin would not display subdirectories when I tried to add it as a media library. It wanted to use /Volume1/jellyfin by default, which means media gets tied to the application path. If Jellyfin gets uninstalled, the data location becomes a concern. </p><figure class="kg-card kg-image-card"><img alt="Jellyfin path issue" class="kg-image" height="1183" src="https://itsfoss.com/content/images/2026/06/jellyfin-path-issue.png" width="2000" /></figure><p><strong>No keyboard navigation in Photos.</strong> Browsing photos requires mouse clicks throughout. You cannot use arrow keys to move between images in the viewer. The app search bar launched from the top bar also does not dismiss with Escape. These are minor but they signal a UI that was not fully tested for keyboard users.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Terramaster OS has lack of keyboard shortcuts" class="kg-image" height="594" src="https://itsfoss.com/content/images/2026/06/terramaster-lack-of-keyboard.webp" width="1200" /><figcaption><span style="white-space: pre-wrap;">Would make more sense to navigate through keys rather than mouse clicks</span></figcaption></figure><p><strong>The absurd need to enable apps after each reboot. </strong>Unless Terramaster really want to discourage shutting down the NAS device, I see no reason why an installed application needs to be enabled again after rebooting the device. I noticed it with OpenClaw, Jellyfin and even Terramaster's Photos application. It makes no sense to me.</p><figure class="kg-card kg-image-card"><img alt="Terramaster TOS7 requires applcations to be renamed after each reboot" class="kg-image" height="585" src="https://itsfoss.com/content/images/2026/06/terramaster-app-renenable-1.webp" width="1200" /></figure><h2 id="still-excellent-hardware-wise">Still excellent hardware wise</h2><p>I liked the previous F4-425 Plus device. This one is not much different other than a (needed) CPU upgrade. It's the same aluminium chasis, same small form factor and the same silent device.</p><p>Yes, F4-425 Pro is also a 'silent machine'. You'll probably won't notice it running even if it is sitting on your disk and its fan is running. </p><p>The hybrid model to include 4 HDDs and 3 SSDs is good. It's just that you need to pull out the outer casing to access the SSD compartment. HDDs can be easily accessed from the front.</p><p>It seems that TOS's software is capable of handling the hot swap. I could not test it for the lack of disks.</p><p>It measures 181 mm wide, 219 mm deep, and 150 mm tall. Basically a small form factor device that doesn't take much desk space.</p><p>The USB-C port is still at the back<strong>.</strong> I said this in my F4-425 Plus review, too. The single USB-C port is on the rear of the device. For quick external SSD connections, this is inconvenient for a lazy person like me.</p><figure class="kg-card kg-image-card"><img alt="Terramaster F4-425 Pro from the back" class="kg-image" height="676" src="https://itsfoss.com/content/images/2026/06/terramaster-F4-425-Pro-2.webp" width="1200" /></figure><p>I added around 125 GB of pictures and watched the resource consumption. It remained under 20% CPU and RAM load.</p><p>Similarly, I streamed a 4K movie in mkv format. The load remained under 10%. So the processor is quite capable here as a NAS and a casual media hub.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="1019" src="https://itsfoss.com/content/images/2026/06/terramaster-f4-425-pro-load-media-streaming.webp" width="1693" /><figcaption><span style="white-space: pre-wrap;">Resource utilization during 4k media streaming</span></figcaption></figure><p>I am not a professional and don't really run benchmark tests. Just sharing what I observed as a novice homelabber.</p><h2 id="verdict-promising-hardware-software-still-maturing">Verdict: promising hardware, software still maturing</h2><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="676" src="https://itsfoss.com/content/images/2026/06/terramaster-F4-425-Pro-5.webp" width="1200" /></figure><p>Based on a few days of use, the F4-425 Pro is a capable device with a hardware upgrade that makes sense. The 8-core processor and improved iGPU are relevant improvements for anyone running multiple services. The TOS-on-disk design makes migration genuinely easier than it has any right to be.</p><p>TOS 7 is a better version of TOS 6 by a clear margin. But the AI features are far from a finished product. OpenClaw requires external configuration to work so the native AI part is not there yet.</p><p>I will be putting the Pro through more extensive use as a daily driver and sharing a full review a few month later perhaps. There is more to test, including sustained performance under load, RAID behavior with multiple disks (if I can afford them), mobile apps and whether Ollama installed directly on the device makes OpenClaw actually useful. Stay tuned for that.</p><p>The NAS itself is $799.99 for this configuration. That is the entry point, not the total cost. If you do not already have drives, HDDs and SSDs have increased substantially in price over the past year. Building a usable NAS with populated bays is a meaningfully larger investment than the device price alone suggests. Factor that in before buying.</p><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">The device is priced at $799.99 but due to Prime Day sale, it is available for just $639.99. That saves $160 for you. Official <a href="https://www.terra-master.com/products/f4-425-pro" rel="noreferrer">website link here</a>.</div></div><p>If you already have the previous F4-425 model, I don't think you should upgrade just because there is a new model. If you are buying a NAS for the first time or upgrading your NAS for several years, F4-425 Pro is an option worth considering. Sure, the provided operating system may not be to everyone's liking but you can always install a different operating system. The hardware is solid.</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17367784.gif" width="1" />]]></description>
+      <category>First Look</category>
+    </item>
+    <item>
+      <title>Российские власти прокомментировали удаление приложений от VK из App Store</title>
+      <link>https://4pda.to/2026/06/25/458111/rossijskie_vlasti_prokommentirovali_udalenie_prilozhenij_ot_vk_iz_app_store/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458111/rossijskie_vlasti_prokommentirovali_udalenie_prilozhenij_ot_vk_iz_app_store/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:05:00 +0000</pubDate>
+      <description><![CDATA[Минцифры России и пресс-секретарь президента России Дмитрий Песков прокомментировали&nbsp;удаление всех приложений VK из App Store. От Apple ожидают объяснений, а ФАС просят изучить эту ситуацию на предмет [...]]]></description>
+    </item>
+    <item>
+      <title>Аналитик: главным конкурентом GTA VI станет GTA V</title>
+      <link>https://4pda.to/2026/06/25/458103/analitik_glavnym_konkurentom_gta_vi_stanet_gta_v/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458103/analitik_glavnym_konkurentom_gta_vi_stanet_gta_v/</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[Премьера Grand Theft Auto VI неминуемо приближается. И поскольку эксперты больше не могут спекулировать насчёт стоимости игры, некоторые из них решили поделиться размышлениями на другую, куда менее избитую&nbsp;тему.
+Рис [...]]]></description>
+    </item>
+    <item>
+      <title>Honor MagicPad 4 вышел в РФ: ультратонкий корпус, АКБ на 10 100 мАч и OLED-экран</title>
+      <link>https://4pda.to/2026/06/25/458096/honor_magicpad_4_vyshel_v_rf_ultratonkij_korpus_akb_na_10_100_mach_i_oled_ekran/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458096/honor_magicpad_4_vyshel_v_rf_ultratonkij_korpus_akb_na_10_100_mach_i_oled_ekran/</guid>
+      <pubDate>Thu, 25 Jun 2026 11:55:00 +0000</pubDate>
+      <description><![CDATA[На полках российских магазинов
+электроники появился планшет Honor MagicPad 4. Устройство совмещает ёмкий аккумулятор и
+производительный чип в корпусе толщиной всего 4,8 мм, а режим ПК и
+поддержка клавиатуры [...]]]></description>
+    </item>
+    <item>
+      <title>Может ли один из супругов продать семейный автомобиль без согласия второго? Ответ адвоката</title>
+      <link>https://auto.onliner.by/go/1252937</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/prodal-avto-bez-soglasiya</guid>
+      <pubDate>Thu, 25 Jun 2026 11:42:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/prodal-avto-bez-soglasiya"><img alt="" src="https://content.onliner.by/news/thumbnail/85421ba40f6055c49375f171d7493b33.jpg" /></a></p><p>Как делить имущество, в частности автомобили, при разводе — в целом процедура понятна. Но что делать, если в семье тишь да благодать, а в какой-то момент один из супругов продает автомобиль, не поставив в известность второго, и имеет ли он на это право?</p><p><a href="https://auto.onliner.by/2026/06/25/prodal-avto-bez-soglasiya">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Bohemia Interactive анонсировала DayZ 2</title>
+      <link>https://4pda.to/2026/06/25/458098/bohemia_interactive_anonsirovala_dayz_2/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458098/bohemia_interactive_anonsirovala_dayz_2/</guid>
+      <pubDate>Thu, 25 Jun 2026 11:20:00 +0000</pubDate>
+      <description><![CDATA[В начале 2010-х развлекательная индустрия сошла с ума по ожившим мертвецам. И хотя зомби-бум уже давно как схлынул, некоторые компании явно надеются, что народ изголодался по тайтлам с участием ходячих [...]]]></description>
+    </item>
+    <item>
+      <title>Почти $3000 за «квадрат». Не поверите, но такая стоимость у самой дешевой квартиры Минска</title>
+      <link>https://realt.onliner.by/go/1112104</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/pochti-3000-za-kvadrat</guid>
+      <pubDate>Thu, 25 Jun 2026 11:19:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/pochti-3000-za-kvadrat"><img alt="" src="https://content.onliner.by/news/thumbnail/c3e3ab5e97a18ce800540cbc53adfb3d.jpg" /></a></p><p>Продолжаем мониторить базу Onlíner <a href="https://r.onliner.by/pk/">«Дома и квартиры»</a>, чтобы отыскать там самую дешевую квартиру Минска. В мае цены уверенно держались на отметке $65 000 по курсу. Июнь практически не уступает — самое бюджетное жилье на улице Чигладзе продается за $64 855 в эквиваленте. Напоминаем, что не рассматриваем доли в квартирах и объявления без фотографий.</p><p><a href="https://realt.onliner.by/2026/06/25/pochti-3000-za-kvadrat">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Red Magic Gaming Tablet 5 Pro протестировали в играх до премьеры</title>
+      <link>https://4pda.to/2026/06/25/458084/red_magic_gaming_tablet_5_pro_protestirovali_v_igrakh_do_premery/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458084/red_magic_gaming_tablet_5_pro_protestirovali_v_igrakh_do_premery/</guid>
+      <pubDate>Thu, 25 Jun 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Незадолго до презентации геймерского планшета Red Magic Gaming Tablet 5 Pro компания Nubia поделилась результатами тестирования будущей новинки в мобильных играх. В отличие от сухих цифр бенчмарков, эти [...]]]></description>
+    </item>
+    <item>
+      <title>Белорус разработал мобильное приложение с картой общественных туалетов</title>
+      <link>https://people.onliner.by/go/1311534</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/belorus-razrabotal-mobilnoe-prilozhenie-s-kartoj-obshhestvennyx-tualetov</guid>
+      <pubDate>Thu, 25 Jun 2026 10:41:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/belorus-razrabotal-mobilnoe-prilozhenie-s-kartoj-obshhestvennyx-tualetov"><img alt="" src="https://content.onliner.by/news/thumbnail/6dee4f6a19eb182bf8debae248bc3d3e.jpg" /></a></p><p>Белорусский предприниматель разработал бесплатное мобильное и веб-приложение «Кабинка», которое помогает находить общественные туалеты в Минске. Сервис доступен на iOS, Android, в веб-версии, а также через телеграм-бот.</p><p><a href="https://people.onliner.by/2026/06/25/belorus-razrabotal-mobilnoe-prilozhenie-s-kartoj-obshhestvennyx-tualetov">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Самодельный аналог Steam Machine оказался гораздо дешевле оригинала</title>
+      <link>https://4pda.to/2026/06/25/458081/samodelnyj_analog_steam_machine_okazalsya_gorazdo_deshevle_originala/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458081/samodelnyj_analog_steam_machine_okazalsya_gorazdo_deshevle_originala/</guid>
+      <pubDate>Thu, 25 Jun 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Недавно объявленная Valve цена Steam Machine впечатлила геймеров&nbsp;— и вовсе не в хорошем смысле. Многие уже начали искать альтернативу подешевле: например, один энтузиаст собрал собственный мини-ПК [...]]]></description>
+    </item>
+    <item>
+      <title>Поездка в Алмазный. До Steam наконец-то добралась легендарная игра «Дальнобойщики 2»</title>
+      <link>https://4pda.to/2026/06/25/458091/poezdka_v_almaznyj_do_steam_nakonets_to_dobralas_legendarnaya_igra_dalnobojschiki_2/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458091/poezdka_v_almaznyj_do_steam_nakonets_to_dobralas_legendarnaya_igra_dalnobojschiki_2/</guid>
+      <pubDate>Thu, 25 Jun 2026 10:15:00 +0000</pubDate>
+      <description><![CDATA[Сегодня у геймеров есть Euro Truck Simulator, однако в нулевых любители развозить грузы и колесить по большой дороге проводили время за совсем другим жанровым шедевром. И на днях он внезапно объявился [...]]]></description>
+    </item>
+    <item>
+      <title>Женщина оплатила памятник на могиле матери. У ее сестры возникли вопросы</title>
+      <link>https://money.onliner.by/go/333658</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/zhenshhina-oplatila-pamyatnik-na-mogile-materi-u-ee-sestry-voznikli-voprosy</guid>
+      <pubDate>Thu, 25 Jun 2026 10:09:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/zhenshhina-oplatila-pamyatnik-na-mogile-materi-u-ee-sestry-voznikli-voprosy"><img alt="" src="https://content.onliner.by/news/thumbnail/0d92135c05959294053d6c15d9b8834d.jpg" /></a></p><p>Женщина занялась похоронами матери и выкупила участок. Ее сестра решила не оставаться в стороне, оплатила и установила памятник. Из-за него между сестрами разгорелся конфликт. Кто из родственников должен платить за такие работы, разобрал адвокат в <a href="https://t.me/vremechko_bt/3961" target="_blank">программе</a> «Белорусское времечко».</p><p><a href="https://money.onliner.by/2026/06/25/zhenshhina-oplatila-pamyatnik-na-mogile-materi-u-ee-sestry-voznikli-voprosy">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Белорусскому мобильному оператору может грозить штраф до 10% годовой выручки</title>
+      <link>https://tech.onliner.by/go/780245</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/verxovnyj-sud-podderzhal-mart-mobilnomu-operatoru-mozhet-grozit-shtraf</guid>
+      <pubDate>Thu, 25 Jun 2026 10:05:28 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/verxovnyj-sud-podderzhal-mart-mobilnomu-operatoru-mozhet-grozit-shtraf"><img alt="" src="https://content.onliner.by/news/thumbnail/b991cbe492ade04bf4465a5a3bb295b5.jpg" /></a></p><p>Судебная коллегия по экономическим делам Верховного суда Беларуси поддержала выводы МАРТ в отношении А1 — компании, как <a href="https://www.mart.gov.by/news/novost/verkhovnyy-sud-podderzhal-obosnovannost-resheniya-mart-v-otnoshenii-up-a1/" target="_blank">уточняется</a> в сообщении на сайте Министерства антимонопольного регулирования, может грозить штраф.</p><p><a href="https://tech.onliner.by/2026/06/25/verxovnyj-sud-podderzhal-mart-mobilnomu-operatoru-mozhet-grozit-shtraf">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>ASUS показала «парящий» корпус Prime AP304 для игровых сборок</title>
+      <link>https://4pda.to/2026/06/25/458082/asus_pokazala_paryaschij_korpus_prime_ap304_dlya_igrovykh_sborok/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458082/asus_pokazala_paryaschij_korpus_prime_ap304_dlya_igrovykh_sborok/</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[Компания ASUS представила новый компьютерный корпус в рамках серии Sparkling Island. Модель Prime AP304 Floating Ocean View ATX получила двухсекционную «парящую» конструкцию, нацеленную на сборку производительных
+систем [...]]]></description>
+    </item>
+    <item>
+      <title>Nothing раскрыла дизайн Phone (4b) во всех подробностях</title>
+      <link>https://4pda.to/2026/06/25/458078/nothing_raskryla_dizajn_phone_4b_vo_vsekh_podrobnostyakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458078/nothing_raskryla_dizajn_phone_4b_vo_vsekh_podrobnostyakh/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:45:00 +0000</pubDate>
+      <description><![CDATA[Nothing раскрыла новые подробности о&nbsp;недавно анонсированном&nbsp;смартфоне Phone (4b). Компания опубликовала официальные изображения гаджета, подтвердив&nbsp;свою приверженность фирменному дизайнерскому [...]]]></description>
+    </item>
+    <item>
+      <title>Женщина самовольно снесла старый особняк и теперь обязана его восстановить</title>
+      <link>https://realt.onliner.by/go/1112399</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/zhenshhina-samovolno-snesla</guid>
+      <pubDate>Thu, 25 Jun 2026 09:36:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/zhenshhina-samovolno-snesla"><img alt="" src="https://content.onliner.by/news/thumbnail/aa98d381276dbcc8e1c3bd4ee488748b.jpg" /></a></p><p>Власти британского округа Тест‑Вэлли в графстве Хэмпшир потребовали от местной жительницы восстановить разрушенный ею без разрешения 400‑летний коттедж в деревне Нёрслинг, <a href="https://realt.onliner.by/2026/06/25/v-belarusi-mogut-postroit/" target="_blank" title="В Беларуси могут появиться новые санатории">пишет</a> The Sun. Для сноса был использован обычный экскаватор.</p><p><a href="https://realt.onliner.by/2026/06/25/zhenshhina-samovolno-snesla">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Ретроградный Меркурий возвращается. В сети обсуждают, как он повлияет на людей</title>
+      <link>https://tech.onliner.by/go/780212</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/retrogradnyj-merkurij-vozvrashhaetsya</guid>
+      <pubDate>Thu, 25 Jun 2026 09:34:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/retrogradnyj-merkurij-vozvrashhaetsya"><img alt="" src="https://content.onliner.by/news/thumbnail/69a2466d4de60a9b338bd53a3e7c7e6f.jpg" /></a></p><p>Человечество летает в космос, готовится вернуться на Луну, а потом отправиться дальше — к Марсу, однако некоторые вещи остаются неизменными. В их число можно записать влияние ретроградного Меркурия на судьбы, которое сейчас живо обсуждают астрологи. В этом году подобное явление происходит уже второй раз, теперь планета входит в фазу ретроградного движения в период с 29 июня по 23 июля.</p><p><a href="https://tech.onliner.by/2026/06/25/retrogradnyj-merkurij-vozvrashhaetsya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>ASRock анонсировала «материнку» B550 Rock WiFi со старым сокетом AM4 и новыми функциями</title>
+      <link>https://4pda.to/2026/06/25/458079/asrock_anonsirovala_materinku_b550_rock_wifi_so_starym_soketom_am4_i_novymi_funktsiyami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458079/asrock_anonsirovala_materinku_b550_rock_wifi_so_starym_soketom_am4_i_novymi_funktsiyami/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:30:00 +0000</pubDate>
+      <description><![CDATA[ASRock объявила о выпуске материнской платы B550 Rock WiFi под сокет&nbsp;прошлого поколения AM4. Новинка предлагает владельцам старых моделей процессоров Ryzen возможность апгрейда игрового ПК без существенных [...]]]></description>
+    </item>
+    <item>
       <title>В Минске на ходу загорелся автобус: в салоне находились 20 пассажиров. Видео (видео, обновлено)</title>
       <link>https://auto.onliner.by/go/1252862</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/zagorelsya-avtobus-2</guid>
       <pubDate>Thu, 25 Jun 2026 09:17:02 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/zagorelsya-avtobus-2"><img alt="" src="https://content.onliner.by/news/thumbnail/6940f4069f7e0fe60e41d2205c44b57c.jpg" /></a></p><p>Очевидцы сообщают, что в Минске на улице Чкалова, на остановке «Гостиница „Спутник“», вчера горел автобус. По словам читателей, в автобусе выбиты стекла. Информации о пострадавших пока нет.</p><p><a href="https://auto.onliner.by/2026/06/25/zagorelsya-avtobus-2">Читать далее…</a></p>]]></description>
       <category>Авто</category>
+    </item>
+    <item>
+      <title>Rockstar открыла предзаказы на GTA VI и поделилась свежими деталями игры</title>
+      <link>https://4pda.to/2026/06/25/458085/rockstar_otkryla_predzakazy_na_gta_vi_i_podelilas_svezhimi_detalyami_igry/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458085/rockstar_otkryla_predzakazy_na_gta_vi_i_podelilas_svezhimi_detalyami_igry/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Геймеры месяцами (если не годами) с нетерпением ждали возможности купить себе Grand Theft Auto VI. Что ж, теперь они могут это сделать. Однако новые подробности игры вынудили некоторых из них оставить [...]]]></description>
+    </item>
+    <item>
+      <title>Из App Store удалены все приложения от VK</title>
+      <link>https://4pda.to/2026/06/25/458087/iz_app_store_udaleny_vse_prilozheniya_ot_vk/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458087/iz_app_store_udaleny_vse_prilozheniya_ot_vk/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:12:00 +0000</pubDate>
+      <description><![CDATA[Вслед за удалением из App Store российского мессенджера «Макс»&nbsp;из&nbsp;магазина пропали все приложения от&nbsp;VK. В пресс-службе последней уже прокомментировали ситуацию.
+На момент написания [...]]]></description>
+    </item>
+    <item>
+      <title>Аналитики: iPhone 18 Pro подорожает не так сильно, как ожидалось</title>
+      <link>https://4pda.to/2026/06/25/458076/analitiki_iphone_18_pro_podorozhaet_ne_tak_silno_kak_ozhidalos/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/25/458076/analitiki_iphone_18_pro_podorozhaet_ne_tak_silno_kak_ozhidalos/</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Издание Wall Street Journal недавно&nbsp;взбудоражило&nbsp;фанатов Apple слухом о подорожании нового iPhone на $300 вдобавок к предостережению&nbsp;Тима Кука. Но затем банк J.P. Morgan опубликовал свой [...]]]></description>
     </item>
     <item>
       <title>Эбола вышла за пределы Африки. Где еще обнаружили лихорадку?</title>
@@ -65,47 +418,6 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Из App Store удалено большинство приложений VK</title>
-      <link>https://4pda.to/2026/06/25/458087/iz_app_store_udaleno_bolshinstvo_prilozhenij_vk/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/458087/iz_app_store_udaleno_bolshinstvo_prilozhenij_vk/</guid>
-      <pubDate>Thu, 25 Jun 2026 08:41:00 +0000</pubDate>
-      <description><![CDATA[Вслед за удалением из App Store российского мессенджера «Макс»&nbsp;из&nbsp;магазина пропали почти все приложения от&nbsp;VK. В пресс-службе последней уже прокомментировали ситуацию.
-На момент написания [...]]]></description>
-    </item>
-    <item>
-      <title>Мужчина съел ради белков 224 яйца за неделю. Эксперты сказали, что с этим не так</title>
-      <link>https://tech.onliner.by/go/780196</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/224-yajca-za-nedelyu</guid>
-      <pubDate>Thu, 25 Jun 2026 08:32:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/224-yajca-za-nedelyu"><img alt="" src="https://content.onliner.by/news/thumbnail/19aa43b5494a35f563eec890d6880e8c.jpg" /></a></p><p>Молодой мужчина решил проверить на себе «яичную диету», съев 224 яйца за неделю (или 32 в день). Процесс он снимал на видео, которое стало вирусным, а целью парня было получить как можно больше белков, <a href="https://www.boredpanda.com/man-eats-224-eggs-in-week-challenge-food-diet-muscle/" target="_blank">рассказывает</a> BoredPanda. Но является ли такая «диета» полезной и безопасной, пояснили эксперты.</p><p><a href="https://tech.onliner.by/2026/06/25/224-yajca-za-nedelyu">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В Беларуси могут появиться новые санатории</title>
-      <link>https://realt.onliner.by/go/1112372</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/v-belarusi-mogut-postroit</guid>
-      <pubDate>Thu, 25 Jun 2026 08:21:21 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/v-belarusi-mogut-postroit"><img alt="" src="https://content.onliner.by/news/thumbnail/6047c5f9a4482a41adad901f3cbca472.jpg" /></a></p><p>В Беларуси хотят заметно расширить сеть санаториев. Как оказалось, запасов минеральной воды и лечебных грязей у нас столько, что можно спокойно открывать еще около сотни здравниц. Об этом рассказал <a href="https://belta.by/society/view/zapasy-prirodnyh-istochnikov-pozvoljajut-postroit-v-belarusi-esche-sotnju-sanatoriev-bolbatovskij-787765-2026/" target="_blank">БЕЛТА</a> директор Республиканского центра по оздоровлению и санаторно-курортному лечению населения Геннадий Болбатовский.</p><p><a href="https://realt.onliner.by/2026/06/25/v-belarusi-mogut-postroit">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Доллар в очередной раз пытается подорожать. Свежие курсы валют</title>
-      <link>https://money.onliner.by/go/333644</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/dollar-v-ocherednoj-raz-pytaetsya-podorozhat-svezhie-kursy-valyut</guid>
-      <pubDate>Thu, 25 Jun 2026 08:12:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/dollar-v-ocherednoj-raz-pytaetsya-podorozhat-svezhie-kursy-valyut"><img alt="" src="https://content.onliner.by/news/thumbnail/6a8da09a43deeaebbf125938c189aff3.jpg" /></a></p><p>Качели у доллара продолжаются: вчера дешевел, сегодня пытается стать дороже. Его обгоняет евро, эта валюта тоже укрепляется, а российский рубль пока решил взять передышку. Но все может измениться к концу торгов на Белорусской валютно-фондовой бирже — расскажем, чем они закончатся. Биткоин же за последние сутки подешевел, сейчас находится вблизи отметки $61 746.
-</p><p><a href="https://money.onliner.by/2026/06/25/dollar-v-ocherednoj-raz-pytaetsya-podorozhat-svezhie-kursy-valyut">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Венесуэле — серия мощных землетрясений. Толчки зафиксировали и в Японии</title>
-      <link>https://tech.onliner.by/go/780203</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/v-venesuele-seriya-moshhnyx-zemletryasenij-tolchki-zafiksirovali-i-v-yaponii</guid>
-      <pubDate>Thu, 25 Jun 2026 08:11:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/v-venesuele-seriya-moshhnyx-zemletryasenij-tolchki-zafiksirovali-i-v-yaponii"><img alt="" src="https://content.onliner.by/news/thumbnail/4c42d3a442bcd084f713cc829bdca372.jpg" /></a></p><p>В Венесуэле во второй половине дня среды, 24 июня, произошло два мощных землетрясения. По данным геологической службы США (USGS), одно из них, магнитудой 7,2, случилось примерно в 160 километрах от столицы — Каракаса. Менее чем через минуту последовало еще одно землетрясение, уже магнитудой 7,5. Кроме того, в ночь на 25 июня толчки зафиксировали в акватории Тихого океана у берегов Японии. Подробнее <a href="https://www.reuters.com/world/venezuela-earthquake-live-high-casualties-likely-after-two-strong-quakes-2026-06-25/" target="_blank">пишет</a> Reuters.</p><p><a href="https://tech.onliner.by/2026/06/25/v-venesuele-seriya-moshhnyx-zemletryasenij-tolchki-zafiksirovali-i-v-yaponii">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Обзор Honor MagicPad 4: пора выбрасывать ноутбук?</title>
       <link>https://4pda.to/2026/06/25/457838/obzor_honor_magicpad_4_pora_vybrasyvat_noutbuk/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/25/457838/obzor_honor_magicpad_4_pora_vybrasyvat_noutbuk/</guid>
@@ -128,51 +440,11 @@
 Oryon и ориентирована на работу с [...]]]></description>
     </item>
     <item>
-      <title>Видео: водитель Seat на пешеходном переходе сбил женщину  (видео)</title>
-      <link>https://auto.onliner.by/go/1252898</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/sbil-zhenshhinu-3</guid>
-      <pubDate>Thu, 25 Jun 2026 07:37:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/sbil-zhenshhinu-3"><img alt="" src="https://content.onliner.by/news/thumbnail/b0f85ed5cdc36a78b9a79bdd03e628c1.png" /></a></p><p>Вчера утром в Полоцке 27-летний водитель Seat, проезжая нерегулируемый пешеходный переход, не предоставил преимущество женщине-пешеходу и сбил ее.</p><p><a href="https://auto.onliner.by/2026/06/25/sbil-zhenshhinu-3">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>60 миллионов звезд. Телескоп «Евклид» сделал самый большой в истории снимок центра Млечного пути</title>
-      <link>https://tech.onliner.by/go/780169</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/60-millionov-zvezd-teleskop-evklid-sdelal-samyj-bolshoj-v-istorii-snimok-centra-mlechnogo-puti</guid>
-      <pubDate>Thu, 25 Jun 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/60-millionov-zvezd-teleskop-evklid-sdelal-samyj-bolshoj-v-istorii-snimok-centra-mlechnogo-puti"><img alt="" src="https://content.onliner.by/news/thumbnail/2dc742f292277b7b68da86d0a54e0fab.jpg" /></a></p><p>Космический телескоп «Евклид» с необычайной детализацией запечатлел центр Млечного пути, таким образом показав более 60 миллионов сосредоточенных в центре галактики звезд. Об этом <a href="https://www.livescience.com/space/astronomy/60-million-stars-euclid-space-telescope-snaps-the-largest-ever-close-up-photo-of-the-milky-ways-crowded-heart" target="_blank">сообщает</a> Live Science со <a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart" target="_blank">ссылкой</a> на Европейское космическое агентство (ESA).</p><p><a href="https://tech.onliner.by/2026/06/25/60-millionov-zvezd-teleskop-evklid-sdelal-samyj-bolshoj-v-istorii-snimok-centra-mlechnogo-puti">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Lenovo выпустила защищённый лэптоп с яркой OLED-матрицей и мощным железом</title>
       <link>https://4pda.to/2026/06/25/458074/lenovo_vypustila_zaschischyonnyj_leptop_s_yarkoj_oled_matritsej_i_moschnym_zhelezom/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/25/458074/lenovo_vypustila_zaschischyonnyj_leptop_s_yarkoj_oled_matritsej_i_moschnym_zhelezom/</guid>
       <pubDate>Thu, 25 Jun 2026 07:30:00 +0000</pubDate>
       <description><![CDATA[Компания Lenovo представила ноутбук ThinkPad T1g Gen 9 с производительным железом для решения «тяжёлых» рабочих задач. Новинка примечательна широким набором конфигураций, ёмкой АКБ и прочным корпусом с [...]]]></description>
-    </item>
-    <item>
-      <title>Мужчина сказал, что отвезет пенсионерок в больницу, а вместо этого вывез на пустырь и убил</title>
-      <link>https://people.onliner.by/go/1311478</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/muzhchina-tajno-zhil-u-pensionerki-na-dache-a-potom-ubil-ee-i-podrugu</guid>
-      <pubDate>Thu, 25 Jun 2026 07:26:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/muzhchina-tajno-zhil-u-pensionerki-na-dache-a-potom-ubil-ee-i-podrugu"><img alt="" src="https://content.onliner.by/news/thumbnail/0afdc7527d81882cd1765d887e6b9a84.jpg" /></a></p><p>Мужчина вышел из колонии и сразу же совершил несколько тяжелых преступлений — кражу и убийство двух пенсионерок, причем сделал это с особой жестокостью. Генеральная прокуратура<a href="https://prokuratura.gov.by/ru/media/novosti/nadzor-za-resheniyami-po-ugolovnym-i-grazhdanskim-delam/ubil-dvoikh-pensione24062026/"> завершила</a> предварительное расследование и передала дело в суд.</p><p><a href="https://people.onliner.by/2026/06/25/muzhchina-tajno-zhil-u-pensionerki-na-dache-a-potom-ubil-ee-i-podrugu">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Размером с пятиэтажку. Так выглядит самый высокий в Беларуси скалодром на свежем воздухе</title>
-      <link>https://realt.onliner.by/go/1112361</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/v-mogileve-skalodrom</guid>
-      <pubDate>Thu, 25 Jun 2026 07:20:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/v-mogileve-skalodrom"><img alt="" src="https://content.onliner.by/news/thumbnail/08e5f6b2802961a4ed8d1a6d2527a7e9.jpg" /></a></p><p>Вчера в Могилеве открыли необычный скалодром. Во-первых, он стоит на свежем воздухе, недалеко от жилых домов. Во-вторых, поднимается на 17 метров, а значит является самым высоким в стране. Ну и выглядит красочно и забавно. </p><p><a href="https://realt.onliner.by/2026/06/25/v-mogileve-skalodrom">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Деньги на свадьбу внучки исчезли после одного звонка</title>
-      <link>https://money.onliner.by/go/333631</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/pensionerka-skopila-11-000-rublej-na-svadbu-vnuchke-no-ej-pozvonili-moshenniki</guid>
-      <pubDate>Thu, 25 Jun 2026 07:10:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/pensionerka-skopila-11-000-rublej-na-svadbu-vnuchke-no-ej-pozvonili-moshenniki"><img alt="" src="https://content.onliner.by/news/thumbnail/1bd5da8c57efa00600af2495cf36a7e0.jpg" /></a></p><p>73-летняя минчанка копила деньги на свадьбу внучке — скопить удалось порядка 11 000 рублей. Деньги хранились дома, пока ей не позвонили мошенники. Как сработала популярная схема развода, рассказали в милиции.</p><p><a href="https://money.onliner.by/2026/06/25/pensionerka-skopila-11-000-rublej-na-svadbu-vnuchke-no-ej-pozvonili-moshenniki">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>«Яндекс» и NEPTUN представили датчики протечки и краны с удалённым управлением</title>
@@ -182,14 +454,6 @@ Oryon и ориентирована на работу с [...]]]></description>
       <description><![CDATA[«Яндекс» совместно с брендом NEPTUN представил домашнюю систему обнаружения протечек. Она работает с «Алисой», уведомляет об аварии даже без интернета, считает расход воды и самостоятельно перекрывает [...]]]></description>
     </item>
     <item>
-      <title>В Минсвязи рассказали, что будет с безлимитным интернетом</title>
-      <link>https://tech.onliner.by/go/780186</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/v-minsvyazi-rasskazali-chto-budet-s-bezlimitnym-internetom</guid>
-      <pubDate>Thu, 25 Jun 2026 06:54:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/v-minsvyazi-rasskazali-chto-budet-s-bezlimitnym-internetom"><img alt="" src="https://content.onliner.by/news/thumbnail/a0a516ff0180316cfa2a16896e573a28.jpg" /></a></p><p>Первый заместитель министра связи и информатизации Павел Ткач прокомментировал ситуацию с тарифами мобильных операторов с безлимитным интернетом. Подробнее <a href="https://belta.by/society/view/vernutsja-li-tarify-s-bezlimitnym-internetom-rasskazali-v-minsvjazi-787965-2026/" target="_blank">сообщает</a> БЕЛТА.</p><p><a href="https://tech.onliner.by/2026/06/25/v-minsvyazi-rasskazali-chto-budet-s-bezlimitnym-internetom">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Авторы The Blood of Dawnwalker обновили системные требования. Игру оптимизировали под слабые PC</title>
       <link>https://4pda.to/2026/06/25/458041/avtory_the_blood_of_dawnwalker_obnovili_sistemnye_trebovaniya_igru_optimizirovali_pod_slabye_pc/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/25/458041/avtory_the_blood_of_dawnwalker_obnovili_sistemnye_trebovaniya_igru_optimizirovali_pod_slabye_pc/</guid>
@@ -197,215 +461,11 @@ Oryon и ориентирована на работу с [...]]]></description>
       <description><![CDATA[Геймеры часто ругают современных разработчиков за то, что они уделяют мало внимания оптимизации. К счастью, далеко не каждая студия игнорирует публику и PC своих фанатов — команда Rebel Wolves, например, [...]]]></description>
     </item>
     <item>
-      <title>Водитель BMW сбил ребенка на велосипеде на пешеходном переходе. Это попало на видео (видео)</title>
-      <link>https://auto.onliner.by/go/1252890</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/voditel-bmw-sbil-rebenka</guid>
-      <pubDate>Thu, 25 Jun 2026 06:41:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/voditel-bmw-sbil-rebenka"><img alt="" src="https://content.onliner.by/news/thumbnail/cff66a71bca58b9c4de1e4544e9cf85c.png" /></a></p><p>Вчера около 19 часов на перекрестке улиц Крупской и Мытная в Могилеве 30-летний водитель BMW сбил 6-летнего мальчика на дороге, сообщает ГАИ Могилевской области. </p><p><a href="https://auto.onliner.by/2026/06/25/voditel-bmw-sbil-rebenka">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Это точно можно есть? 10 белорусских продуктов, которые вас удивят</title>
-      <link>https://money.onliner.by/go/333315</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/10-udivitelnyx-produktov</guid>
-      <pubDate>Thu, 25 Jun 2026 06:30:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/10-udivitelnyx-produktov"><img alt="" src="https://content.onliner.by/news/thumbnail/ff350b7dd90455d1e537a71601ba2add.jpg" /></a></p><p>Белорусские производители довольно часто выпускают новинки и экспериментируют с различными вкусами. Иногда сочетания получаются очень необычными и больше похожими на еду, сгенерированную ChatGPT или Nano Banana. Покажем вам 10 продуктов, которые при этом в реальности можно встретить на полке магазинов.</p><p><a href="https://money.onliner.by/2026/06/25/10-udivitelnyx-produktov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Infinix выпустила «гоночную» спецверсию смартфона NOTE 60 Pro в стилистике Ferrari</title>
       <link>https://4pda.to/2026/06/25/458067/infinix_vypustila_gonochnuyu_spetsversiyu_smartfona_note_60_pro_v_stilistike_ferrari/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/25/458067/infinix_vypustila_gonochnuyu_spetsversiyu_smartfona_note_60_pro_v_stilistike_ferrari/</guid>
       <pubDate>Thu, 25 Jun 2026 06:30:00 +0000</pubDate>
       <description><![CDATA[Смартфон Infinix NOTE 60 Pro&nbsp;получил новую модификацию в исполнении Pininfarina — компании, в стенах которой разработали дизайн почти всех автомобилей Ferrari. Спецверсия гаджета отличается от стандартной [...]]]></description>
-    </item>
-    <item>
-      <title>Средний чек — $4700 за комплект. Эти ребята производят в РФ кованые диски для крутых авто</title>
-      <link>https://auto.onliner.by/go/1252835</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/srednij-chek-4700-za-komplekt-eti-rebyata-proizvodyat-kovanye-diski-na-samye-krutye-avto-v-rf</guid>
-      <pubDate>Thu, 25 Jun 2026 06:15:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/srednij-chek-4700-za-komplekt-eti-rebyata-proizvodyat-kovanye-diski-na-samye-krutye-avto-v-rf"><img alt="" src="https://content.onliner.by/news/thumbnail/bac23260aa67fca7712678a69b978834.jpg" /></a></p><p><em>«80% красоты автомобиля — в его колесах»,</em> — говорил Генри Форд, и эта крылатая фраза до сих пор не устарела. Согласитесь: диски действительно задают образ машины, и «штампы» редко ее украшают. Другое дело — кованые диски. Правда, в Беларуси до сих пор нет ни одной местной компании, которая занималась бы их полноценным производством. Но есть в России: например, Power Wheels, в портфолио которых очень много эксклюзивных проектов. Некоторые из них вы вживую увидите на автошоу <a href="https://auto.onliner.by/2026/05/05/tachki-otpravlyayutsya-v-turne-avtofestival-projdet-v-pyati-gorodax" target="_blank">«Тачки»</a> в Минске (уже 4 июля, между прочим!) и одноименном фестивале в Лиде. Ну а мы пока расскажем, из каких этапов состоит производство кованых дисков, и покажем интересные работы московской компании. А еще поговорим про вкусы, о которых не спорят.</p><p><a href="https://auto.onliner.by/2026/06/25/srednij-chek-4700-za-komplekt-eti-rebyata-proizvodyat-kovanye-diski-na-samye-krutye-avto-v-rf">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Тим Кук заявил, что техника Apple подорожает. Аналитики сказали на сколько</title>
-      <link>https://tech.onliner.by/go/780158</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/tim-kuk-zayavil-chto-texnika-apple-podorozhaet-analitiki-skazali-na-skolko</guid>
-      <pubDate>Thu, 25 Jun 2026 06:09:25 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/tim-kuk-zayavil-chto-texnika-apple-podorozhaet-analitiki-skazali-na-skolko"><img alt="" src="https://content.onliner.by/news/thumbnail/312e121e4be2b3099863166ed2078588.jpg" /></a></p><p>В недавнем интервью The Wall Street Journal Тим Кук <a href="https://tech.onliner.by/2026/06/18/gadzhety-apple-budut-stoit-eshhe-bolshe-tim-kuk-obyasnyaet-pochemu" target="_blank">заявил</a>, что в будущем цены на продукцию Apple могут вырасти из-за проблем с поставками памяти. Позднее в издании <a href="https://www.wsj.com/tech/personal-tech/apple-iphone-price-increase-e846d737?mod=article_inline" target="_blank">сделали</a> прогноз, сколько в таком случае будут стоить грядущие iPhone 18 Pro. А еще через некоторое время свою версию <a href="https://x.com/mweinbach/status/2069493003731771405/photo/1" target="_blank">выдвинули</a> в J.P. Morgan. </p><p><a href="https://tech.onliner.by/2026/06/25/tim-kuk-zayavil-chto-texnika-apple-podorozhaet-analitiki-skazali-na-skolko">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Экран прямо внутри ПК. Обзор новинок DeepCool с Computex 2026</title>
-      <link>https://tech.onliner.by/go/780027</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/obzor-novinok-deepcool-26</guid>
-      <pubDate>Thu, 25 Jun 2026 06:01:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/obzor-novinok-deepcool-26"><img alt="" src="https://content.onliner.by/news/thumbnail/8f2acb195d6cc1f2d5f29bbe4f071a5d.jpg" /></a></p><p><p dir="ltr">Представляете ли вы себе жизнь и работу без дисплеев? А что если этот дисплей установлен прямо внутри вашего настольного компьютера? На прошедшей выставке Computex 2026 компания DeepCool продемонстрировала целую пачку новых моделей охлаждения и корпусов. К нам на обзор попала парочка из представленных экземпляров: система жидкостного охлаждения с сюрпризом и корпус. Рассказываем и все подробно показываем на красивых фото. </p><p><a href="https://tech.onliner.by/2026/06/25/obzor-novinok-deepcool-26">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Я никому ничего не должна». Эта белоруска летает на море без детей (а у нее их четверо)</title>
-      <link>https://people.onliner.by/go/1309991</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/deti-v-otpuske</guid>
-      <pubDate>Thu, 25 Jun 2026 06:00:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/deti-v-otpuske"><img alt="" src="https://content.onliner.by/news/thumbnail/72f52a55b59311bb4a5d320a39c53e9b.jpg" /></a></p><p>Недавно Threads <a href="https://www.threads.com/@sud.arina/post/DYWwZ8ZCI2H" target="_blank">взбудоражил</a> провокационный пост о том, зачем тащить с собой ребенка в отпуск, если ему 1—3 года и «он все равно ничего не запомнит». Дискуссия развернулась на 1000+ комментариев. Защитники отдыха с детьми объясняют, что их «не оставишь в камере хранения», «не положишь в банковскую ячейку», да и вообще с ними веселее, чем без них. Противников колясочно-памперсных путешествий тоже оказалось достаточно. Самые смелые оставляют малышей на бабушек и бывших мужей и беззаботно наслаждаются отпуском в формате 18+. Сегодня вместе с <a href="https://ecolines.by/by/ru" target="_blank">Ecolines</a> обсудим два радикальных подхода и узнаем, на чьей стороне большинство наших читателей.</p><p><a href="https://people.onliner.by/2026/06/25/deti-v-otpuske">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Виллы, спа-отель и модный пляж. Побывали в «поселке миллионеров» на Минском море</title>
-      <link>https://realt.onliner.by/go/1112193</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/06/25/miruar</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/06/25/miruar"><img alt="" src="https://content.onliner.by/news/thumbnail/e03430a614cc32753d926a85d6fd8c4f.jpg" /></a></p><p>Возле одного из пляжей Минского моря можно заметить несколько стильных въездных групп с надписью «Мируар». Разглядеть что-то за ограждениями сложно: здесь постоянно бдит охранник, а коттеджи скрыты за деревьями и туями. Людям остается делать выводы лишь по виднеющимся издалека объектам и информации из интернета. Но и этого хватает, чтобы сложить впечатление о загадочном жилом комплексе: выглядит он как картинка из фильмов. Правда, и стоимость вилл явно не для всех. В сети уже успели прознать, что без лишнего миллиона в кармане тут делать нечего. Поэтому «Мируар» по праву можно назвать поселком миллионеров. Смотрим, как он устроен.</p><p><a href="https://realt.onliner.by/2026/06/25/miruar">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>«Я этих денег даже в руках не держал». Белорус стал поручителем и сломал свою жизнь</title>
-      <link>https://money.onliner.by/go/333420</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/25/poveril-drugu-i-slomal-zhizn</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/25/poveril-drugu-i-slomal-zhizn"><img alt="" src="https://content.onliner.by/news/thumbnail/d1b22d5dfc327f16fcbe0542e9e5d9e5.jpg" /></a></p><p>Больше 20 лет назад минчанин Александр согласился помочь другу, которого знал долгие годы. По просьбе предпринимателя он открыл на свое имя фирму, а затем подписал поручительство по банковскому кредиту. Тогда все это казалось ему обычной формальностью и услугой для близкого человека. Однако спустя несколько месяцев друга арестовали и отправили в колонию, а Александр остался один на один с чужим долгом. Он потерял семью, квартиру, значительную часть доходов и до сих пор выплачивает кредит, денег от которого никогда не видел. Как так получилось, читайте в материале.</p><p><a href="https://money.onliner.by/2026/06/25/poveril-drugu-i-slomal-zhizn">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«У человека горе, а его гоняют по кругу». Минчанка несколько дней снимала с учета умершую собаку</title>
-      <link>https://people.onliner.by/go/1310045</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/snyatie-pitomca-s-ucheta</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/snyatie-pitomca-s-ucheta"><img alt="" src="https://content.onliner.by/news/thumbnail/b2a590c80943d69af6158561260a10ed.jpg" /></a></p><p>В начале лета у Дарьи умерла от онкологии собака. <em>«На протяжении года она тяжело болела и в итоге нам пришлось принять крайне сложное решение об эвтаназии,</em> — рассказала девушка; после этого с документами о кремации питомца она обратилась в районную службу „Одно окно“, чтобы снять его с учета. — <em>Но простая, казалось бы, процедура растянулась на три дня: сотрудники просто не знали, что делать. Об эмпатии я вообще молчу. Почему снятие домашнего животного с регистрации не имеет такого же четкого алгоритма, как постановка на учет? Ведь люди в моменте переживают настоящее горе, а тут сталкиваются со сложностями из ниоткуда».</em> Журналист Onlíner позвонил в «Одно окно» своего района и столкнулся с теми же трудностями, о которых рассказала читательница. Подробности этой истории, а также комментарий зоозащитника о том, как правильно действовать, если питомец ушел из жизни, — в нашем материале.</p><p><a href="https://people.onliner.by/2026/06/25/snyatie-pitomca-s-ucheta">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Мало «жрут» и много пашут. Рабочие пони на любой вкус</title>
-      <link>https://auto.onliner.by/go/1252817</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/06/25/malo-zhrut-i-mnogo-pashut</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/06/25/malo-zhrut-i-mnogo-pashut"><img alt="" src="https://content.onliner.by/news/thumbnail/265480e053381bc69d3a52a346de7108.jpg" /></a></p><p>Эти автомобили по старинке называют «каблуками», хотя их создатели давно отошли от характерного силуэта с коробом позади водительской кабины. В основе таких фургончиков — легковые модели супермини В-сегмента или даже автомобили гольф-класса (сегмент С). Но у них оригинальный кузов, рассчитанный на максимальное внутреннее пространство. Пассажирские версии повышенной комфортности могут поспорить по функциональности с универсалами, но сегодня поговорим про варианты, которые призваны возить грузы — и зарабатывать на этом деньги. Какая из этих моделей вам больше по душе? Голосуйте и оставляйте комментарии!</p><p><a href="https://auto.onliner.by/2026/06/25/malo-zhrut-i-mnogo-pashut">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>iFFALCON IF-CLTB09 INV: мощный и доступный инвертор с самоочисткой</title>
-      <link>https://4pda.to/2026/06/25/457017/iffalcon_if_cltb09_inv_moschnyj_i_dostupnyj_invertor_s_samoochistkoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/457017/iffalcon_if_cltb09_inv_moschnyj_i_dostupnyj_invertor_s_samoochistkoj/</guid>
-      <pubDate>Thu, 25 Jun 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Выбирая сплит-систему, часто приходится метаться между доступной, но прожорливой классикой «on-off» и тихим, но бьющим по кошельку инвертором. Бренд iFFALCON предлагает решить эту дилемму с помощью модели [...]]]></description>
-    </item>
-    <item>
-      <title>Анонсирован Motorola Pad 70 Pro с большим 144-герцевым экраном</title>
-      <link>https://4pda.to/2026/06/25/458065/anonsirovan_motorola_pad_70_pro_s_bolshim_144_gertsevym_ekranom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/458065/anonsirovan_motorola_pad_70_pro_s_bolshim_144_gertsevym_ekranom/</guid>
-      <pubDate>Thu, 25 Jun 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Бренд Motorola опубликовал официальные тизеры и список характеристик готовящегося к выпуску планшета Pad 70 Pro. Ключевой особенностью гаджета станет 13-дюймовый экран, но и другие спецификации на его [...]]]></description>
-    </item>
-    <item>
-      <title>Как представляли инопланетян в кино век назад и сейчас (видео)</title>
-      <link>https://tech.onliner.by/go/28396</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/06/25/evolutions</guid>
-      <pubDate>Thu, 25 Jun 2026 04:00:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/06/25/evolutions"><img alt="" src="https://content.onliner.by/news/thumbnail/c8173d33697bcaacd3c2a89cdbbb68cb.jpg" /></a></p><p>Зубастые и клыкастые, головастые и перепончатые, сочащиеся слизью и бестелесные, зеленые и бледные, свирепые и добродушные. Киноиндустрия в полную силу использовала древние страхи человека перед неизвестным, чтобы перенести их на большой экран. Пришельцы из космоса — благодатная и, чего уж греха таить, выгодная тема в кино. Сегодня обсудим культовых, а также самых запоминающихся инопланетных тварей, оказавших наиболее заметное влияние на жанр фантастики в кинематографе.</p><p><a href="https://tech.onliner.by/2026/06/25/evolutions">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Слухи подтвердились — Mudang: Two Hearts отменена, EVR Studio обанкротилась</title>
-      <link>https://4pda.to/2026/06/25/458049/slukhi_podtverdilis_mudang_two_hearts_otmenena_evr_studio_obankrotilas/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/458049/slukhi_podtverdilis_mudang_two_hearts_otmenena_evr_studio_obankrotilas/</guid>
-      <pubDate>Thu, 25 Jun 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Год назад команда EVR Studio громко заявила о себе анонсом Mudang: Two Hearts&nbsp;— мистического экшен-триллера с элементами The Last of Us, Metal Gear Solid и Splinter Cell. Увы, спустя всего несколько [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайд: Honor разрабатывает смартфон с аккумулятором на 14 000 мАч</title>
-      <link>https://4pda.to/2026/06/25/458062/insajd_honor_razrabatyvaet_smartfon_s_akkumulyatorom_na_14_000_mach/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/458062/insajd_honor_razrabatyvaet_smartfon_s_akkumulyatorom_na_14_000_mach/</guid>
-      <pubDate>Thu, 25 Jun 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Недавно Honor представила  в Китае смартфон с&nbsp;рекордной для фирменных устройств ёмкостью батареи в 11 000 мАч. Но, судя по свежим слухам на этом компания не остановилась — и уже скоро выпустит устройство [...]]]></description>
-    </item>
-    <item>
-      <title>Хакер взломал полную версию Hogwarts Legacy без помощи гипервизора</title>
-      <link>https://4pda.to/2026/06/25/458044/khaker_vzlomal_polnuyu_versiyu_hogwarts_legacy_bez_pomoschi_gipervizora/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/458044/khaker_vzlomal_polnuyu_versiyu_hogwarts_legacy_bez_pomoschi_gipervizora/</guid>
-      <pubDate>Thu, 25 Jun 2026 02:30:00 +0000</pubDate>
-      <description><![CDATA[Пиратство игр нынче на подъёме — не в последнюю очередь благодаря методу гипервизора, который позволяет легко обходить систему защиты Denuvo Anti-Tamper. Но отнюдь не каждый хакер считает, что этот способ [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайды #3875: 7-дюймовый смартфон HUAWEI, экраны в смартфонах Apple и OPPO Find X10 Ultra</title>
-      <link>https://4pda.to/2026/06/24/458051/insajdy_3875_7_dyujmovyj_smartfon_huawei_ekrany_v_smartfonakh_apple_i_oppo_find_x10_ultra/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458051/insajdy_3875_7_dyujmovyj_smartfon_huawei_ekrany_v_smartfonakh_apple_i_oppo_find_x10_ultra/</guid>
-      <pubDate>Wed, 24 Jun 2026 19:30:00 +0000</pubDate>
-      <description><![CDATA[В этом выпуске Инсайдов:&nbsp;HUAWEI готовит к релизу два 7-дюймовых смартфона; Apple откажется от OLED-экранов BOE; раскрыты параметры камеры OPPO Find X10 Ultra.
-HUAWEI готовит к релизу два 7-дюймовых [...]]]></description>
-    </item>
-    <item>
-      <title>Ballu Odyssey Pro DC Inverter: тихие, мощные и умные кондиционеры для дома</title>
-      <link>https://4pda.to/2026/06/24/456721/ballu_odyssey_pro_dc_inverter_tikhie_moschnye_i_umnye_konditsionery_dlya_doma/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/456721/ballu_odyssey_pro_dc_inverter_tikhie_moschnye_i_umnye_konditsionery_dlya_doma/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:30:00 +0000</pubDate>
-      <description><![CDATA[Современный кондиционер — это не просто настенный морозильник. Он выполняет функции нескольких климатических приборов, не забывая о комфорте владельца. Модели серии Ballu Odyssey Pro DC Inverter умеют [...]]]></description>
-    </item>
-    <item>
-      <title>Valve: «Вы не обязаны покупать Steam Machine»</title>
-      <link>https://4pda.to/2026/06/24/458037/valve_vy_ne_obyazany_pokupat_steam_machine/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458037/valve_vy_ne_obyazany_pokupat_steam_machine/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[Недавно Valve наконец-то открыла бронь предзаказов&nbsp;на Steam Machine, однако цены на устройство вызвали у геймеров недоумение. Компания тут же бросилась разными способами объяснять дороговизну новинки: [...]]]></description>
-    </item>
-    <item>
-      <title>Samsung Galaxy Watch Ultra2 показали на качественных рендерах до анонса</title>
-      <link>https://4pda.to/2026/06/24/458022/samsung_galaxy_watch_ultra2_pokazali_na_kachestvennykh_renderakh_do_anonsa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458022/samsung_galaxy_watch_ultra2_pokazali_na_kachestvennykh_renderakh_do_anonsa/</guid>
-      <pubDate>Wed, 24 Jun 2026 16:45:00 +0000</pubDate>
-      <description><![CDATA[Недолго просидев&nbsp;«на пенсии», известный инсайдер Эван Бласс обнародовал первые пресс-рендеры новых умных часов Samsung Galaxy Watch Ultra2. Судя по опубликованным изображениям, Samsung сохранит узнаваемый [...]]]></description>
-    </item>
-    <item>
-      <title>Журналисты поиграли в Star Wars: Galactic Racer. Гонку сравнили с Burnout [ВИДЕО]</title>
-      <link>https://4pda.to/2026/06/24/458043/zhurnalisty_poigrali_v_star_wars_galactic_racer_gonku_sravnili_s_burnout_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458043/zhurnalisty_poigrali_v_star_wars_galactic_racer_gonku_sravnili_s_burnout_video/</guid>
-      <pubDate>Wed, 24 Jun 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Хотя вселенная «Звёздных войн» ассоциируется у публики в первую очередь с джедаями и ситхами (а также световыми мечами и Силой), в ней хватает и других ярких элементов — взять, к примеру,&nbsp;гонки на [...]]]></description>
-    </item>
-    <item>
-      <title>Обзор Pylon Audio Jasper 25 MKII: инженерная победа</title>
-      <link>https://4pda.to/2026/06/24/457407/obzor_pylon_audio_jasper_25_mkii_inzhenernaya_pobeda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/457407/obzor_pylon_audio_jasper_25_mkii_inzhenernaya_pobeda/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[Выпустив напольную акустику Jasper 25 MKII, компания Pylon Audio доказала, что путь к хай-энду не так далёк, как пишут об этом в журналах. Что особенного в звучании и характеристиках Pylon Audio, разберёмся [...]]]></description>
-    </item>
-    <item>
-      <title>Ультралёгкая мышь Cougar Revenger Pro 8K поддерживает частоту 8000 Гц по беспроводу</title>
-      <link>https://4pda.to/2026/06/24/458055/ultralyogkaya_mysh_cougar_revenger_pro_8k_podderzhivaet_chastotu_8000_gts_po_besprovodu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458055/ultralyogkaya_mysh_cougar_revenger_pro_8k_podderzhivaet_chastotu_8000_gts_po_besprovodu/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:20:00 +0000</pubDate>
-      <description><![CDATA[Cougar представила игровую мышь Revenger Pro 8K, ориентированную на любителей соревновательных игр. Главной особенностью новинки стал малый вес и поддержка частоты опроса 8000 Гц не только при проводном [...]]]></description>
-    </item>
-    <item>
-      <title>Тодд Говард: Arkane упорно работает над Marvel&amp;#039;s Blade</title>
-      <link>https://4pda.to/2026/06/24/458048/todd_govard_arkane_uporno_rabotaet_nad_marvel_039_s_blade/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458048/todd_govard_arkane_uporno_rabotaet_nad_marvel_039_s_blade/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[На фоне новостей о грядущих сокращениях в Microsoft публика заподозрила, что компания задним числом&nbsp;отменила пару интересных&nbsp;проектов. Но далеко не всегда подобные слухи оказываются верны.
-[youtube=basLDO2bj2k:640:360:::0]
-В [...]]]></description>
-    </item>
-    <item>
-      <title>Скорость вдвое выше. Что даёт память UFS 5.0, которая будет в новых смартфонах?</title>
-      <link>https://4pda.to/2026/06/24/458045/skorost_vdvoe_vyshe_chto_dayot_pamyat_ufs_5_0_kotoraya_budet_v_novykh_smartfonakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458045/skorost_vdvoe_vyshe_chto_dayot_pamyat_ufs_5_0_kotoraya_budet_v_novykh_smartfonakh/</guid>
-      <pubDate>Wed, 24 Jun 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[Организация JEDEC совместно с Samsung утвердила спецификации накопителей нового поколения. Скорости чтения и записи в модулях UFS 5.0 выросли более чем вдвое, а энергопотребление заметно снизилось. Разбираемся, [...]]]></description>
-    </item>
-    <item>
-      <title>Creative представила XF1 — настольные колонки Hi-Res с двухполосным усилителем</title>
-      <link>https://4pda.to/2026/06/24/458038/creative_predstavila_xf1_nastolnye_kolonki_hi_res_s_dvukhpolosnym_usilitelem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458038/creative_predstavila_xf1_nastolnye_kolonki_hi_res_s_dvukhpolosnym_usilitelem/</guid>
-      <pubDate>Wed, 24 Jun 2026 13:50:00 +0000</pubDate>
-      <description><![CDATA[В ассортименте компании Creative появилась настольная двухполосная стереосистема XF1, которая&nbsp;подойдёт как для гейминга, так и для прослушивания музыки. Новинка сертифицирована по стандарту Hi-Res [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI выпустила смарт-часы Qingyun H3550 с большим экраном</title>
-      <link>https://4pda.to/2026/06/24/458024/huawei_vypustila_smart_chasy_qingyun_h3550_s_bolshim_ekranom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/24/458024/huawei_vypustila_smart_chasy_qingyun_h3550_s_bolshim_ekranom/</guid>
-      <pubDate>Wed, 24 Jun 2026 13:40:00 +0000</pubDate>
-      <description><![CDATA[В ассортименте HUAWEI появились корпоративные умные часы Qingyun H3550. Новинка получила очень&nbsp;яркий дисплей, автономность до 10 дней и множество различных датчиков.&nbsp;
-У HUAWEI Qingyun H3550 [...]]]></description>
     </item>
     <item>
       <title>PINE64&amp;#x27;s Smart Speaker is a Home Assistant Powered Alternative to Amazon Echo</title>
@@ -422,22 +482,6 @@ HUAWEI готовит к релизу два 7-дюймовых [...]]]></descri
       <pubDate>Tue, 23 Jun 2026 12:35:24 +0000</pubDate>
       <description><![CDATA[this picture depicts many icons and logos, including canonical, ubuntu, arm64, microprocessor, cloud server, cogwheels, and tux, the mascot penguin of linux]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>Astra: For All Your High Fidelity Music Needs and Absolute Control</title>
-      <link>https://feed.itsfoss.com/link/24361/17365312/astra-music-player</link>
-      <guid isPermaLink="false">69d891dcd09b9c000163051c</guid>
-      <pubDate>Mon, 22 Jun 2026 14:01:07 +0000</pubDate>
-      <description><![CDATA[Astra music player]]></description>
-      <category>Applications</category>
-    </item>
-    <item>
-      <title>6 Raspberry Pi Handhelds Worth Exploring (If You Have Money to Spend)</title>
-      <link>https://feed.itsfoss.com/link/24361/17365313/raspberry-pi-handhelds</link>
-      <guid isPermaLink="false">6a38d90da911ac0001939a8b</guid>
-      <pubDate>Mon, 22 Jun 2026 13:01:31 +0000</pubDate>
-      <description><![CDATA[a penguin holding a handheld with the raspberry pi logo embedded in it is shown at the center of this picture, the background is a raspberry pi 5 board]]></description>
-      <category>List 📋</category>
     </item>
   </channel>
 </rss>
