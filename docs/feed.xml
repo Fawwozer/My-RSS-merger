@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 25 Jun 2026 20:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 03:40:56 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -59,6 +59,13 @@
       <pubDate>Tue, 23 Jun 2026 08:10:36 +0000</pubDate>
       <description><![CDATA[Niri desktop]]></description>
       <category>Customization ⚙️</category>
+    </item>
+    <item>
+      <title>Авторы South of Midnight уходят из Compulsions Games. Их напугали новости о вероятном закрытии студии</title>
+      <link>https://4pda.to/2026/06/26/458110/avtory_south_of_midnight_ukhodyat_iz_compulsions_games_ikh_napugali_novosti_o_veroyatnom_zakrytii_studii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/26/458110/avtory_south_of_midnight_ukhodyat_iz_compulsions_games_ikh_napugali_novosti_o_veroyatnom_zakrytii_studii/</guid>
+      <pubDate>Fri, 26 Jun 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[На прошлой неделе по сети поползли слухи о новой волне сокращений в Microsoft — якобы компания собирается не просто уволить заметную часть своего персонала, но ещё и закрыть несколько студий. Сотрудники [...]]]></description>
     </item>
     <item>
       <title>Новый тизер Cyberpunk: Edgerunners 2 выпустят уже на следующей неделе</title>
@@ -409,14 +416,6 @@ POCO Pad C1 получил 9,7-дюймовый [...]]]></description>
       <description><![CDATA[Незадолго до презентации геймерского планшета Red Magic Gaming Tablet 5 Pro компания Nubia поделилась результатами тестирования будущей новинки в мобильных играх. В отличие от сухих цифр бенчмарков, эти [...]]]></description>
     </item>
     <item>
-      <title>Белорус разработал мобильное приложение с картой общественных туалетов</title>
-      <link>https://people.onliner.by/go/1311534</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/25/belorus-razrabotal-mobilnoe-prilozhenie-s-kartoj-obshhestvennyx-tualetov</guid>
-      <pubDate>Thu, 25 Jun 2026 10:41:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/25/belorus-razrabotal-mobilnoe-prilozhenie-s-kartoj-obshhestvennyx-tualetov"><img alt="" src="https://content.onliner.by/news/thumbnail/6dee4f6a19eb182bf8debae248bc3d3e.jpg" /></a></p><p>Белорусский предприниматель разработал бесплатное мобильное и веб-приложение «Кабинка», которое помогает находить общественные туалеты в Минске. Сервис доступен на iOS, Android, в веб-версии, а также через телеграм-бот.</p><p><a href="https://people.onliner.by/2026/06/25/belorus-razrabotal-mobilnoe-prilozhenie-s-kartoj-obshhestvennyx-tualetov">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Самодельный аналог Steam Machine оказался гораздо дешевле оригинала</title>
       <link>https://4pda.to/2026/06/25/458081/samodelnyj_analog_steam_machine_okazalsya_gorazdo_deshevle_originala/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/25/458081/samodelnyj_analog_steam_machine_okazalsya_gorazdo_deshevle_originala/</guid>
@@ -466,13 +465,6 @@ POCO Pad C1 получил 9,7-дюймовый [...]]]></description>
       <pubDate>Thu, 25 Jun 2026 09:12:00 +0000</pubDate>
       <description><![CDATA[Вслед за удалением из App Store российского мессенджера «Макс»&nbsp;из&nbsp;магазина пропали все приложения от&nbsp;VK. В пресс-службе последней уже прокомментировали ситуацию.
 На момент написания [...]]]></description>
-    </item>
-    <item>
-      <title>Аналитики: iPhone 18 Pro подорожает не так сильно, как ожидалось</title>
-      <link>https://4pda.to/2026/06/25/458076/analitiki_iphone_18_pro_podorozhaet_ne_tak_silno_kak_ozhidalos/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/25/458076/analitiki_iphone_18_pro_podorozhaet_ne_tak_silno_kak_ozhidalos/</guid>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Издание Wall Street Journal недавно&nbsp;взбудоражило&nbsp;фанатов Apple слухом о подорожании нового iPhone на $300 вдобавок к предостережению&nbsp;Тима Кука. Но затем банк J.P. Morgan опубликовал свой [...]]]></description>
     </item>
     <item>
       <title>PINE64&amp;#x27;s Smart Speaker is a Home Assistant Powered Alternative to Amazon Echo</title>
