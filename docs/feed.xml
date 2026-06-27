@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 26 Jun 2026 19:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:27:50 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -58,6 +58,13 @@
       <pubDate>Thu, 25 Jun 2026 04:34:48 +0000</pubDate>
       <description><![CDATA[a penguin holding a placard that says "thank you" is on the left, on the right is the black/white logo for brave o]]></description>
       <category>First Look</category>
+    </item>
+    <item>
+      <title>Ergohaven представила модульную механическую клавиатуру-трансфомер</title>
+      <link>https://4pda.to/2026/06/26/458163/ergohaven_predstavila_modulnuyu_mekhanicheskuyu_klaviaturu_transfomer/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/26/458163/ergohaven_predstavila_modulnuyu_mekhanicheskuyu_klaviaturu_transfomer/</guid>
+      <pubDate>Fri, 26 Jun 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Ergohaven представила необычную механическую клавиатуру K:04, которую за считаные секунды можно пересобирать под конкретные задачи. Для этого производитель предусмотрел модульную конструкцию со [...]]]></description>
     </item>
     <item>
       <title>Обзор Trouver Roller S70: спешите видеть — роликовая швабра в недорогом пылесосе</title>
@@ -353,14 +360,6 @@ Microsoft объявила о грядущем [...]]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>На хвосте принесла. Ученый получил $100 тысяч за расшифровку птичьего пения</title>
-      <link>https://money.onliner.by/go/333891</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/06/26/na-xvoste-prinesla-uchenyj-poluchil-100-tysyach-za-rasshifrovku-ptichego-peniya</guid>
-      <pubDate>Fri, 26 Jun 2026 10:46:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/06/26/na-xvoste-prinesla-uchenyj-poluchil-100-tysyach-za-rasshifrovku-ptichego-peniya"><img alt="" src="https://content.onliner.by/news/thumbnail/9adbc8427e4ea07a293e1f94e377898c.jpg" /></a></p><p>Доктора Джули Элай из Калифорнийского университета в Беркли можно назвать переводчиком с птичьего на человеческий. Орнитолог расшифровала «словарь», которым пернатые пользуются для общения, и получила за это премию Коллера-Долиттла 2026 года — $100 тысяч.</p><p><a href="https://money.onliner.by/2026/06/26/na-xvoste-prinesla-uchenyj-poluchil-100-tysyach-za-rasshifrovku-ptichego-peniya">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Telega — всё. Неофициальный Telegram-клиент закрывается</title>
       <link>https://4pda.to/2026/06/26/458155/telega_vsyo_neofitsialnyj_telegram_klient_zakryvaetsya/</link>
       <guid isPermaLink="false">https://4pda.to/2026/06/26/458155/telega_vsyo_neofitsialnyj_telegram_klient_zakryvaetsya/</guid>
@@ -447,13 +446,6 @@ Microsoft объявила о грядущем [...]]]></description>
       <pubDate>Fri, 26 Jun 2026 07:26:46 +0000</pubDate>
       <description><![CDATA[iode smartphones]]></description>
       <category>Interview</category>
-    </item>
-    <item>
-      <title>Представлена Retroid Pocket Nova: «портативка» с чипом Snapdragon и ярким дизайном</title>
-      <link>https://4pda.to/2026/06/26/458130/predstavlena_retroid_pocket_nova_portativka_s_chipom_snapdragon_i_yarkim_dizajnom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/26/458130/predstavlena_retroid_pocket_nova_portativka_s_chipom_snapdragon_i_yarkim_dizajnom/</guid>
-      <pubDate>Fri, 26 Jun 2026 07:15:00 +0000</pubDate>
-      <description><![CDATA[Выдержав небольшую паузу после анонса, компания Retroid выпустила портативную игровую консоль Pocket Nova. Помимо оригинальной внешности, гаджет интересен поддержкой внешних дисплеев, функцией быстрой [...]]]></description>
     </item>
     <item>
       <title>Getting More Out of KDE Plasma System Monitor</title>
