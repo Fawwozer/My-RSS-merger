@@ -5,16 +5,9 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 27 Jun 2026 19:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:50:53 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
-    <item>
-      <title>Purism выпустила Librem 16 — один из самых безопасных Linux-ноутбуков</title>
-      <link>https://4pda.to/2026/06/26/458165/purism_vypustila_librem_16_odin_iz_samykh_bezopasnykh_linux_noutbukov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/26/458165/purism_vypustila_librem_16_odin_iz_samykh_bezopasnykh_linux_noutbukov/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:15:00 +0000</pubDate>
-      <description><![CDATA[Американская компания Purism объявила о выпуске одного из «самых безопасных Linux-ноутбуков в мире» Librem 16. Производитель делает&nbsp;акцент&nbsp;на приватности&nbsp;и контроле&nbsp;пользователя над [...]]]></description>
-    </item>
     <item>
       <title>FOSS Weekly #26.26: Free Origin Access, Niri Tiling, Firefox Tricks, Myna in Ubuntu and More Linux Stuff</title>
       <link>https://feed.itsfoss.com/link/24361/17367828/foss-weekly-26-26</link>
@@ -58,6 +51,27 @@
       <pubDate>Thu, 25 Jun 2026 04:34:48 +0000</pubDate>
       <description><![CDATA[a penguin holding a placard that says "thank you" is on the left, on the right is the black/white logo for brave o]]></description>
       <category>First Look</category>
+    </item>
+    <item>
+      <title>Новый робот R-Noid будет полезен на заводах, складах и в гостиницах</title>
+      <link>https://4pda.to/2026/06/27/458034/novyj_robot_r_noid_budet_polezen_na_zavodakh_skladakh_i_v_gostinitsakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/27/458034/novyj_robot_r_noid_budet_polezen_na_zavodakh_skladakh_i_v_gostinitsakh/</guid>
+      <pubDate>Sat, 27 Jun 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Американская компания
+Robot.com представила R-Noid — человекоподобного робота, предназначенного
+для выполнения рутинных, трудоёмких задач в логистике, производстве, гостиничном бизнесе&nbsp;и
+общепите.
+[caption [...]]]></description>
+    </item>
+    <item>
+      <title>Представлен первый в мире узкоколейный поезд на водороде</title>
+      <link>https://4pda.to/2026/06/27/458029/predstavlen_pervyj_v_mire_uzkokolejnyj_poezd_na_vodorode/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/06/27/458029/predstavlen_pervyj_v_mire_uzkokolejnyj_poezd_na_vodorode/</guid>
+      <pubDate>Sat, 27 Jun 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Швейцарский производитель
+поездов Stadler в сотрудничестве с итальянским оператором ARST рассказали о
+разработке первого в мире поезда на водородном топливе, предназначенного для узкоколейных
+линий. Такой [...]]]></description>
     </item>
     <item>
       <title>К «King’s Bounty: Легенда о рыцаре» выпустили крупный патч в честь 18-летия игры</title>
@@ -184,7 +198,7 @@ Kia представили Plasma Care UVC — первую в своём род
       <category>Авто</category>
     </item>
     <item>
-      <title>От беспилотной сельхозтехники до дегустаций: что показывают на Форуме регионов Беларуси и России</title>
+      <title>Самые большие машины, белорусские продукты и новые контракты. Как проходит Форум регионов</title>
       <link>https://money.onliner.by/go/334145</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/06/27/forum-regionov-fotoreportazh</guid>
       <pubDate>Sat, 27 Jun 2026 10:02:38 +0000</pubDate>
@@ -444,21 +458,6 @@ Apple [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/06/26/458138/raskryty_podrobnosti_o_novykh_protsessorakh_qualcomm_dlya_smartfonov/</guid>
       <pubDate>Fri, 26 Jun 2026 16:45:00 +0000</pubDate>
       <description><![CDATA[Инсайдер Digital Chat Station рассказал о четырёх новых процессорах&nbsp;Qualcomm для смартфонов, которые&nbsp;компания&nbsp;может представить в ближайшее время. Все они войдут в восьмую серию и должны [...]]]></description>
-    </item>
-    <item>
-      <title>Мужчину, толкнувшего пожилую минчанку в метро, задержали</title>
-      <link>https://people.onliner.by/go/1312340</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/06/26/ne-ponravilos-chto-gromko-pela</guid>
-      <pubDate>Fri, 26 Jun 2026 16:31:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/06/26/ne-ponravilos-chto-gromko-pela"><img alt="" src="https://content.onliner.by/news/thumbnail/f3843351ff6e900a052e32117886ddfb.jpg" /></a></p><p>Минская милиция <a href="https://people.onliner.by/2026/06/25/chtoby-v-nos-bili-takogo-nikogda-ne-bylo-tu-samuyu-poyushhuyu-valentinu-udarili-v-metro" target="_blank">установила</a> и задержала мужчину, который толкнул пожилую женщину в вагоне метро. Поводом для проверки стало видео и сообщения, распространившиеся в интернете.</p><p><a href="https://people.onliner.by/2026/06/26/ne-ponravilos-chto-gromko-pela">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Коды из физических изданий GTA VI будут ограничены по регионам</title>
-      <link>https://4pda.to/2026/06/26/458148/kody_iz_fizicheskikh_izdanij_gta_vi_budut_ogranicheny_po_regionam/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/06/26/458148/kody_iz_fizicheskikh_izdanij_gta_vi_budut_ogranicheny_po_regionam/</guid>
-      <pubDate>Fri, 26 Jun 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Недавно Rockstar Games объявила, что в коробочных версиях Grand Theft Auto VI не будет&nbsp;дисков&nbsp;— вместо них в пластиковой упаковке будут лежать&nbsp;коды загрузки. Геймеры сразу отправились искать [...]]]></description>
     </item>
     <item>
       <title>Banking Apps, No Google, and a Locked Bootloader: How iodé Makes Privacy Android Work for Everyone</title>
