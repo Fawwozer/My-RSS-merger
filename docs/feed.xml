@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 02 Jul 2026 19:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:57:39 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,14 @@
       <pubDate>Wed, 01 Jul 2026 10:48:38 +0000</pubDate>
       <description><![CDATA[backup tools Linux]]></description>
       <category>List 📋</category>
+    </item>
+    <item>
+      <title>Инсайды #3881: Android 17 на Galaxy A25, Snapdragon в iPhone и ремешки новых Galaxy Watch</title>
+      <link>https://4pda.to/2026/07/02/458377/insajdy_3881_android_17_na_galaxy_a25_snapdragon_v_iphone_i_remeshki_novykh_galaxy_watch/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/02/458377/insajdy_3881_android_17_na_galaxy_a25_snapdragon_v_iphone_i_remeshki_novykh_galaxy_watch/</guid>
+      <pubDate>Thu, 02 Jul 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Samsung тестирует Android 17 с One UI 9 для Galaxy A25; опубликованы изображения ремешков для Galaxy Watch 9 и Watch Ultra 2; Apple всё ещё зависит от&nbsp;Qualcomm.
+Samsung [...]]]></description>
     </item>
     <item>
       <title>Скоро забудем про карты вообще? Протестировали новый способ оплаты в магазинах</title>
@@ -422,15 +430,6 @@ Lenovo [...]]]></description>
       <pubDate>Thu, 02 Jul 2026 08:30:00 +0000</pubDate>
       <description><![CDATA[За последний десяток лет изрядная доля рынка видеоигр перекочевала в цифру — и уже с 2028 года Sony полностью откажется от производства дисков.
 Важное объявление было сделано в блоге PlayStation. [...]]]></description>
-    </item>
-    <item>
-      <title>Уязвимость в Apple Hide My Email сливает личные данные пользователей</title>
-      <link>https://4pda.to/2026/07/02/458349/uyazvimost_v_apple_hide_my_email_slivaet_lichnye_dannye_polzovatelej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/02/458349/uyazvimost_v_apple_hide_my_email_slivaet_lichnye_dannye_polzovatelej/</guid>
-      <pubDate>Thu, 02 Jul 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[В функции Hide My Email обнаружена
-критическая уязвимость, которая раскрывает реальные адреса электронной почты пользователей. Apple игнорирует этот баг уже больше года с момента получения первого сообщения.
-Сам [...]]]></description>
     </item>
     <item>
       <title>Lumo 2.0: Proton&amp;#x27;s Private Alternative to ChatGPT and Claude Just Got Better</title>
