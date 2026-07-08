@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 07 Jul 2026 19:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 02:40:11 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -26,6 +26,14 @@
       <pubDate>Mon, 06 Jul 2026 10:21:12 +0000</pubDate>
       <description><![CDATA[hannah montana linux screenshot is placed in the center with dark-green rays coming out from behind it]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Инсайды #3885: дата релиза REDMI Turbo 6 Max, планшет Honor Win и два флагманских смартфона vivo</title>
+      <link>https://4pda.to/2026/07/07/458540/insajdy_3885_data_reliza_redmi_turbo_6_max_planshet_honor_win_i_dva_flagmanskikh_smartfona_vivo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/07/458540/insajdy_3885_data_reliza_redmi_turbo_6_max_planshet_honor_win_i_dva_flagmanskikh_smartfona_vivo/</guid>
+      <pubDate>Tue, 07 Jul 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: стала известна дата анонса REDMI Turbo 6 Max;&nbsp;Honor работает над игровым планшетом с ПК-режимом; два флагманских смартфона vivo уже сертифицированы в Китае.
+Стала известна [...]]]></description>
     </item>
     <item>
       <title>«Почти GTA в центре Минска». Стали известны все подробности погони (видео, обновлено)</title>
@@ -373,14 +381,6 @@ Vivo G5i снабдили 6,75-дюймовым IPS-дисплеем с разр
       <description><![CDATA[Минцифры подготовило проект новых правил оказания услуг телефонной связи, направленных на борьбу с телефонным мошенничеством. Документ вводит дополнительные требования к работе операторов, затрагивая корпоративные [...]]]></description>
     </item>
     <item>
-      <title>Топливо на АЗС дорожает с 8 июля</title>
-      <link>https://auto.onliner.by/go/1254909</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/07/toplivo-na-azs-dorozhaet-s-zavtrashnego-dnya</guid>
-      <pubDate>Tue, 07 Jul 2026 10:23:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/07/toplivo-na-azs-dorozhaet-s-zavtrashnego-dnya"><img alt="" src="https://content.onliner.by/news/thumbnail/464030eebec6d8e02d621cbb6b1d9b00.jpg" /></a></p><p>С 8 июля уровень предельных максимальных розничных цен на моторное топливо на АЗС в Беларуси изменится на 1 копейку, сообщает концерн «Белнефтехим».</p><p><a href="https://auto.onliner.by/2026/07/07/toplivo-na-azs-dorozhaet-s-zavtrashnego-dnya">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Смартфон vivo Y500 4G получил флагманскую защиту корпуса и АКБ на 8100 мАч</title>
       <link>https://4pda.to/2026/07/07/458522/smartfon_vivo_y500_4g_poluchil_flagmanskuyu_zaschitu_korpusa_i_akb_na_8100_mach/</link>
       <guid isPermaLink="false">https://4pda.to/2026/07/07/458522/smartfon_vivo_y500_4g_poluchil_flagmanskuyu_zaschitu_korpusa_i_akb_na_8100_mach/</guid>
@@ -442,14 +442,6 @@ Eagle GL6J. Новинка получила видеокарты прошлых 
       <pubDate>Tue, 07 Jul 2026 08:30:00 +0000</pubDate>
       <description><![CDATA[Пока в сети не могут поверить в то, что с 2028 года PlayStation прекратит издавать игры на дисках, кто-то уже считает денежку. Глава CI Games объяснил, сколько денег разработчики теряют на физических копиях.
 На [...]]]></description>
-    </item>
-    <item>
-      <title>Материнские платы AM5 от MSI теперь поддерживают разгон китайской памяти CXMT</title>
-      <link>https://4pda.to/2026/07/07/458524/materinskie_platy_am5_ot_msi_teper_podderzhivayut_razgon_kitajskoj_pamyati_cxmt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/07/458524/materinskie_platy_am5_ot_msi_teper_podderzhivayut_razgon_kitajskoj_pamyati_cxmt/</guid>
-      <pubDate>Tue, 07 Jul 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[MSI выпустила&nbsp;тестовую версию BIOS для материнских плат с сокетом AMD AM5, которая улучшает совместимость с модулями DDR5 на базе чипов китайской компании CXMT.
-После обновления пользователи [...]]]></description>
     </item>
     <item>
       <title>This E-Paper PDA Wants You to Ditch Your Smartphone for a Keyboard and Two Tiny Screens</title>
