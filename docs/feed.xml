@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 08 Jul 2026 19:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 03:16:39 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -23,6 +23,13 @@
       <pubDate>Mon, 06 Jul 2026 10:21:12 +0000</pubDate>
       <description><![CDATA[hannah montana linux screenshot is placed in the center with dark-green rays coming out from behind it]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Инсайды #3886: RTX 5080 SUPER, тизеры Edge 70 Max и HUAWEI Pura 90s Pro Max</title>
+      <link>https://4pda.to/2026/07/08/458594/insajdy_3886_rtx_5080_super_tizery_edge_70_max_i_huawei_pura_90s_pro_max/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/08/458594/insajdy_3886_rtx_5080_super_tizery_edge_70_max_i_huawei_pura_90s_pro_max/</guid>
+      <pubDate>Wed, 08 Jul 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов:&nbsp;Seasonic раскрыла TDP видеокарты&nbsp;RTX 5080 SUPER;&nbsp;Motorola начала тизерить смартфон Edge 70 Max;&nbsp;«глобалка» HUAWEI Pura 90s Pro Max сохранит уникальную расцветку [...]]]></description>
     </item>
     <item>
       <title>Ждете? Оцените новый трейлер третьей «Дюны»</title>
@@ -440,13 +447,6 @@ Pro окажется массивнее актуального iPhone 17 Pro.&nb
       <guid isPermaLink="false">https://4pda.to/2026/07/08/458583/defitsit_pamyati_udaril_po_dostupnym_android_smartfonam/</guid>
       <pubDate>Wed, 08 Jul 2026 09:00:00 +0000</pubDate>
       <description><![CDATA[Рост цен на оперативную память всё сильнее давит на рынок Android-смартфонов. По данным Omdia, особенно тяжело приходится моделям дешевле $400: их выпуск становится менее выгодным, а производители всё [...]]]></description>
-    </item>
-    <item>
-      <title>Крупный апдейт: для LineageOS выпустили веб-установщик и расширили список совместимых устройств</title>
-      <link>https://4pda.to/2026/07/08/458579/krupnyj_apdejt_dlya_lineageos_vypustili_veb_ustanovschik_i_rasshirili_spisok_sovmestimykh_ustrojstv/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/08/458579/krupnyj_apdejt_dlya_lineageos_vypustili_veb_ustanovschik_i_rasshirili_spisok_sovmestimykh_ustrojstv/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:45:00 +0000</pubDate>
-      <description><![CDATA[Разработчики LineageOS рассказали о крупном обновлении проекта, которое затронуло как процесс установки прошивки, так и встроенные приложения. Одним из главных нововведений стал долгожданный инструмент [...]]]></description>
     </item>
     <item>
       <title>LOL! Storage Bug on Microsoft Windows 11 Could Eat Up 500 GB Disk Space</title>
