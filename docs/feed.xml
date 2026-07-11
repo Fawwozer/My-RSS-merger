@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 11 Jul 2026 13:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:02:41 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,19 +17,84 @@
       <category>News</category>
     </item>
     <item>
-      <title>ORICO 88 Series 4-Bay USB4 NVMe SSD Enclosure Review: Fast Storage That Works Natively on Linux</title>
-      <link>https://feed.itsfoss.com/link/24361/17374968/orico-das-8848u-review</link>
-      <guid isPermaLink="false">6a4d10e48181fe0001a5928f</guid>
-      <pubDate>Wed, 08 Jul 2026 13:58:14 +0000</pubDate>
-      <description><![CDATA[Orico DAS 8848U]]></description>
-      <category>Gadgets 🎛️</category>
+      <title>Apple судится с OpenAI за кражу коммерческой тайны</title>
+      <link>https://tech.onliner.by/go/782287</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/11/apple-suditsya-s-openai-za-krazhu-kommercheskoj-tajny</guid>
+      <pubDate>Sat, 11 Jul 2026 18:15:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/11/apple-suditsya-s-openai-za-krazhu-kommercheskoj-tajny"><img alt="" src="https://content.onliner.by/news/thumbnail/0ecb302feb8a966349e61adf2f71e1da.jpg" /></a></p><p>Компания Apple подала в суд на OpenAI за воровство коммерческой тайны — ИИ-стартап обвиняют в скоординированной краже информации о будущих продуктах, <a href="https://www.bloomberg.com/news/articles/2026-07-10/apple-sues-openai-for-trade-secret-theft-in-blockbuster-case" target="_blank">пишет</a> Bloomberg. Рассказываем, почему компании недавно сотрудничали, а теперь враждуют.</p><p><a href="https://tech.onliner.by/2026/07/11/apple-suditsya-s-openai-za-krazhu-kommercheskoj-tajny">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
     </item>
     <item>
-      <title>В «Минск-Мире» с потолка полилась вода (видео)</title>
+      <title>Sony встроила PlayStation 1 в геймпад DualShock, но решила не выпускать такой гаджет</title>
+      <link>https://4pda.to/2026/07/11/458618/sony_vstroila_playstation_1_v_gejmpad_dualshock_no_reshila_ne_vypuskat_takoj_gadzhet/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458618/sony_vstroila_playstation_1_v_gejmpad_dualshock_no_reshila_ne_vypuskat_takoj_gadzhet/</guid>
+      <pubDate>Sat, 11 Jul 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Компания Sony постоянно экспериментирует с различными формами игровых устройств, стремясь расширить привязанность геймеров к своим продуктам. Она даже пыталась буквально вставить целую консоль в геймпад.
+[gallery=1]
+Брайан [...]]]></description>
+    </item>
+    <item>
+      <title>Электровелосипед Ariel Rider MUDD 72V может разгоняться до 105 км/ч</title>
+      <link>https://4pda.to/2026/07/11/458659/elektrovelosiped_ariel_rider_mudd_72v_mozhet_razgonyatsya_do_105_km_ch/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458659/elektrovelosiped_ariel_rider_mudd_72v_mozhet_razgonyatsya_do_105_km_ch/</guid>
+      <pubDate>Sat, 11 Jul 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Компания&nbsp;Ariel Rider открыла предзаказ на новый электробайк MUDD 72V. По своим возможностям он больше напоминает электрические мотоциклы начального уровня, чем&nbsp;классический велосипед.
+За [...]]]></description>
+    </item>
+    <item>
+      <title>PocketTrio вмещает три камеры в компактном корпусе</title>
+      <link>https://4pda.to/2026/07/11/458662/pockettrio_vmeschaet_tri_kamery_v_kompaktnom_korpuse/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458662/pockettrio_vmeschaet_tri_kamery_v_kompaktnom_korpuse/</guid>
+      <pubDate>Sat, 11 Jul 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[На Kickstarter стартовал сбор средств на PocketTrio — компактную камеру размером с ладонь. Новинка рассчитана на блогеров и создателей контента, которым нужен отдельный фотоаппарат вместо смартфона.
+Гаджет [...]]]></description>
+    </item>
+    <item>
+      <title>В Германии разработан «говорящий» аккумулятор</title>
+      <link>https://4pda.to/2026/07/11/458675/v_germanii_razrabotan_govoryaschij_akkumulyator/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458675/v_germanii_razrabotan_govoryaschij_akkumulyator/</guid>
+      <pubDate>Sat, 11 Jul 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Германии представили концепцию «говорящей» батареи, которая может самостоятельно сигнализировать о своём состоянии. Разработка обещает сделать аккумуляторы для электрокаров&nbsp;безопаснее, дешевле [...]]]></description>
+    </item>
+    <item>
+      <title>5 девайсов, которые помогут пережить сезон отключения горячей воды</title>
+      <link>https://money.onliner.by/go/336379</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/11/chto-vygodno-kupit-pryamo-sejchas-sobrali-vodonagrevateli-so-skidkami</guid>
+      <pubDate>Sat, 11 Jul 2026 15:53:46 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/11/chto-vygodno-kupit-pryamo-sejchas-sobrali-vodonagrevateli-so-skidkami"><img alt="" src="https://content.onliner.by/news/thumbnail/365b60b169edd038021ce1bdd31f5168.jpg" /></a></p><p>Свежая подборка выгодных предложений из Каталога Onlíner пригодится тем, кому только предстоит пережить отключение горячей воды. Собрали водонагреватели, которые избавят от необходимости доставать тазик и греть воду кастрюлями и чайниками. К тому же на такой покупке сейчас можно сэкономить — скидки доходят до 15%.
+</p><p><a href="https://money.onliner.by/2026/07/11/chto-vygodno-kupit-pryamo-sejchas-sobrali-vodonagrevateli-so-skidkami">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Игроки в WoW столкнулись с новой смертельной чумой — второй в истории</title>
+      <link>https://4pda.to/2026/07/11/458676/igroki_v_wow_stolknulis_s_novoj_smertelnoj_chumoj_vtoroj_v_istorii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458676/igroki_v_wow_stolknulis_s_novoj_smertelnoj_chumoj_vtoroj_v_istorii/</guid>
+      <pubDate>Sat, 11 Jul 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Эпидемии болезней обычно ограничиваются реальностью или специфическими играми. Но&nbsp;World of Wacraft смогла пережить уже две внезапные и незапланированные вспышки чумы.
+[gallery=1]
+В начале июля в [...]]]></description>
+    </item>
+    <item>
+      <title>VibeLens выпустила гарнитуру для съёмки видео и стримов</title>
+      <link>https://4pda.to/2026/07/11/458694/vibelens_vypustila_garnituru_dlya_syomki_video_i_strimov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458694/vibelens_vypustila_garnituru_dlya_syomki_video_i_strimov/</guid>
+      <pubDate>Sat, 11 Jul 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Компания VibeLens показала гарнитуру MusicCam Pro, которая совмещает наушники с костной проводимостью, экшен-камеру и инструменты для создания контента. Устройство рассчитано на велосипедистов, путешественников, [...]]]></description>
+    </item>
+    <item>
+      <title>Создана ядерная батарея со сроком службы более 5000 лет</title>
+      <link>https://4pda.to/2026/07/11/458695/sozdana_yadernaya_batareya_so_srokom_sluzhby_bolee_5000_let/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458695/sozdana_yadernaya_batareya_so_srokom_sluzhby_bolee_5000_let/</guid>
+      <pubDate>Sat, 11 Jul 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[В Китае представили новое поколение ядерной батареи Qianjiyuan Tianshu, работающей на изотопе углерода-14. Благодаря длительному периоду полураспада топлива, её срок службы может исчисляться тысячами лет.
+Вместо [...]]]></description>
+    </item>
+    <item>
+      <title>Залитие в «Минск-Мире» прокомментировала эксплуатирующая организация (видео, обновлено)</title>
       <link>https://realt.onliner.by/go/1116117</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/07/11/v-minsk-mire-s-potolka-polilas-voda</guid>
       <pubDate>Sat, 11 Jul 2026 12:54:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/11/v-minsk-mire-s-potolka-polilas-voda"><img alt="" src="https://content.onliner.by/news/thumbnail/c3485b81c35be504c90cadc1ee4d4857.jpg" /></a></p><p>Ливень сегодня особенно затронул квартал «Минск-Мир» — читатели прислали нам видео последствий дождя в домах «Салоники» и «Сингапур». На кадрах видно, как с потолков полилась вода.</p><p><a href="https://realt.onliner.by/2026/07/11/v-minsk-mire-s-potolka-polilas-voda">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/11/v-minsk-mire-s-potolka-polilas-voda"><img alt="" src="https://content.onliner.by/news/thumbnail/c3485b81c35be504c90cadc1ee4d4857.jpg" /></a></p><p>Ливень сегодня особенно затронул квартал «Минск-Мир» — читатели прислали нам видео последствий дождя в домах «Салоники» и «Сингапур». На кадрах видно, как с потолков полилась вода. Позже ситуацию прокомментировала эксплуатирующая организация.</p><p><a href="https://realt.onliner.by/2026/07/11/v-minsk-mire-s-potolka-polilas-voda">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
@@ -331,23 +396,6 @@
 на 100 аппаратов больше, чем за тот же период прошлого [...]]]></description>
     </item>
     <item>
-      <title>NVIDIA готовит к выпуску новую видеокарту RTX 5090 SE</title>
-      <link>https://4pda.to/2026/07/10/458719/nvidia_gotovit_k_vypusku_novuyu_videokartu_rtx_5090_se/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458719/nvidia_gotovit_k_vypusku_novuyu_videokartu_rtx_5090_se/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:40:00 +0000</pubDate>
-      <description><![CDATA[По данным ресурса GameGPU, компания NVIDIA готовится расширить линейку видеокарт RTX
-50, выпустив модель RTX 5090 SE. Она займёт промежуточное положение между GeForce
-RTX 5080 и флагманской RTX 5090.
-Как [...]]]></description>
-    </item>
-    <item>
-      <title>Экономическую стратегию The Guild — Europa 1410 перенесли на сентябрь</title>
-      <link>https://4pda.to/2026/07/10/458721/ekonomicheskuyu_strategiyu_the_guild_europa_1410_perenesli_na_sentyabr/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458721/ekonomicheskuyu_strategiyu_the_guild_europa_1410_perenesli_na_sentyabr/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[The Guild — Europa 1410 должна была выйти в раннем доступе уже 16 июля, однако разработчики решили взять дополнительное время. Причина довольно необычная: демоверсия оказалась настолько успешной, что студия [...]]]></description>
-    </item>
-    <item>
       <title>Планируете ехать в ЕС? В ночь на 11 июля могут возникнуть проблемы с оплатой через ЕРИП</title>
       <link>https://auto.onliner.by/go/1255424</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/07/10/planiruete-exat-v-es</guid>
@@ -372,86 +420,12 @@ RTX 5080 и флагманской RTX 5090.
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Обзор TECNO FreeHear 2: когда второе поколение лучше первого</title>
-      <link>https://4pda.to/2026/07/10/458669/obzor_tecno_freehear_2_kogda_vtoroe_pokolenie_luchshe_pervogo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458669/obzor_tecno_freehear_2_kogda_vtoroe_pokolenie_luchshe_pervogo/</guid>
-      <pubDate>Fri, 10 Jul 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[Открытые наушники — вещь на любителя. Одни обожают их за то, что не теряешь связь с миром вокруг, другие критикуют за нехватку изоляции. TECNO выпустила второе поколение своих клипс-наушников FreeHear, [...]]]></description>
-    </item>
-    <item>
-      <title>AOC выпустила свои первые «звонилки» на российском рынке</title>
-      <link>https://4pda.to/2026/07/10/458716/aoc_vypustila_svoi_pervye_zvonilki_na_rossijskom_rynke/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458716/aoc_vypustila_svoi_pervye_zvonilki_na_rossijskom_rynke/</guid>
-      <pubDate>Fri, 10 Jul 2026 15:25:00 +0000</pubDate>
-      <description><![CDATA[Бренд AOC хорошо знаком в России по игровым мониторам — теперь в его ассортименте&nbsp;появились и телефоны. Это как обычные звонилки, так и модели для пожилых людей, активного отдыха&nbsp;и работы на [...]]]></description>
-    </item>
-    <item>
-      <title>Sony выпустила суперзум-камеру RX10 V с многослойным сенсором</title>
-      <link>https://4pda.to/2026/07/10/458705/sony_vypustila_superzum_kameru_rx10_v_s_mnogoslojnym_sensorom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458705/sony_vypustila_superzum_kameru_rx10_v_s_mnogoslojnym_sensorom/</guid>
-      <pubDate>Fri, 10 Jul 2026 15:10:00 +0000</pubDate>
-      <description><![CDATA[Sony возвращает
-суперзум-камеру RX10 V после
-почти девятилетнего перерыва между моделями. Новинка&nbsp;сохранила тот же
-объектив, что и две её предшественницы, но получила ряд других важных
-улучшений.
-RX10 [...]]]></description>
-    </item>
-    <item>
-      <title>Шарме не интересно. Перед увольнениями id Software предлагала Xbox сразу несколько новых игр</title>
-      <link>https://4pda.to/2026/07/10/458683/sharme_ne_interesno_pered_uvolneniyami_id_software_predlagala_xbox_srazu_neskolko_novykh_igr/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458683/sharme_ne_interesno_pered_uvolneniyami_id_software_predlagala_xbox_srazu_neskolko_novykh_igr/</guid>
-      <pubDate>Fri, 10 Jul 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Одной из самых неожиданных и пострадавших жертв реорганизации Xbox стала id Software — уволено больше половины сотрудников студии, хотя ещё недавно команда обсуждала сразу несколько новых проектов.
-Студия [...]]]></description>
-    </item>
-    <item>
       <title>Водитель решил продлить «права», купленные в России. Что было дальше?</title>
       <link>https://auto.onliner.by/go/1255414</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/07/10/voditel-reshil-prodlit-prava</guid>
       <pubDate>Fri, 10 Jul 2026 14:53:46 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/10/voditel-reshil-prodlit-prava"><img alt="" src="https://content.onliner.by/news/thumbnail/64d2f119c1d9e26a17065e8483ee97e0.jpg" /></a></p><p>Местный житель обратился в МРЭО ГАИ Волковысского РОВД для замены водительского удостоверения — в связи с истечением срока действия. В ходе проверки сотрудники установили, что документ с данным номером выдавался другому человеку, а заявитель действующего удостоверения не имеет.</p><p><a href="https://auto.onliner.by/2026/07/10/voditel-reshil-prodlit-prava">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Дизайн Instagram и Facebook признали «вызывающим привыкание»</title>
-      <link>https://tech.onliner.by/go/782253</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/10/dizajn-instagram-i-facebook-priznali-vyzyvayushhim-privykanie</guid>
-      <pubDate>Fri, 10 Jul 2026 14:49:43 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/10/dizajn-instagram-i-facebook-priznali-vyzyvayushhim-privykanie"><img alt="" src="https://content.onliner.by/news/thumbnail/1e5aa7607971ed682ae15c27cc2c547f.jpg" /></a></p><p><p dir="ltr">Европейская комиссия <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1579">заявила</a> что такие функции Instagram и Facebook, как автоматическое воспроизведение видео и бесконечная прокрутка ленты, обеспечивающие непрерывный поток контента, «переводят мозг в режим автопилота и способствуют формированию вредных привычек и компульсивному использованию». Дизайн приложений назвали «вызывающим привыкание» и заявили, что он влечет риски для физического и психического здоровья пользователей.</p><p><a href="https://tech.onliner.by/2026/07/10/dizajn-instagram-i-facebook-priznali-vyzyvayushhim-privykanie">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Ценник на картошку подскочил на 63% в июне</title>
-      <link>https://money.onliner.by/go/336261</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/10/chto-stalo-s-cenami-na-produkty-v-iyune-podschital-belstat</guid>
-      <pubDate>Fri, 10 Jul 2026 14:30:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/10/chto-stalo-s-cenami-na-produkty-v-iyune-podschital-belstat"><img alt="" src="https://content.onliner.by/news/thumbnail/838823674cd9effa83e2c8dfdfc39f70.jpg" /></a></p><p>В июне картошка обыграла остальные продукты по росту цены. Что стало с ценниками в магазине, посчитали аналитики Национального статистического комитета. Рассказываем, какие товары подорожали, а какие, наоборот, подешевели сильнее остальных за первый месяц лета.</p><p><a href="https://money.onliner.by/2026/07/10/chto-stalo-s-cenami-na-produkty-v-iyune-podschital-belstat">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Фандоматы — всё? В Беларуси прекращает работу экопроект по переработке пластика</title>
-      <link>https://people.onliner.by/go/1316106</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/10/fandomaty-vsyo-v-belarusi-prekrashhaet-rabotu-ekoproekt-po-pererabotke-plastika</guid>
-      <pubDate>Fri, 10 Jul 2026 14:18:20 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/10/fandomaty-vsyo-v-belarusi-prekrashhaet-rabotu-ekoproekt-po-pererabotke-plastika"><img alt="" src="https://content.onliner.by/news/thumbnail/d9b1720b3035d42e675bf493962c2ba4.jpg" /></a></p><p>В Беларуси прекращают свою работу «фандоматы» — специальные автоматы для сбора и переработки пластика. На улицах Минска они <a href="https://people.onliner.by/2023/11/30/teper-na-pustyx-plastikovyx-butylkax-mozhno-budet-zarabatyvat-v-minske-ustanovili-specialnye-avtomaty-po-pererabotke-otxodov">появились</a> три года назад. В аппаратах можно было оставлять алюминиевые банки и пластиковые бутылки объемом от 0,5 до 2 литров и получать за это вознаграждение — 10 копеек за одну пустую тару.  Поступало оно в виде 10 экобонусов, которые было можно потратить в сети магазинов «Соседи» или, к примеру, на оплату услуг «А-100 Комфорт».</p><p><a href="https://people.onliner.by/2026/07/10/fandomaty-vsyo-v-belarusi-prekrashhaet-rabotu-ekoproekt-po-pererabotke-plastika">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Чтобы подарить детям свой дом, пенсионерка прошла психиатрическую экспертизу. Каков итог?</title>
-      <link>https://realt.onliner.by/go/1115945</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/10/chtoby-podarit-dom</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/10/chtoby-podarit-dom"><img alt="" src="https://content.onliner.by/news/thumbnail/d2a315d7f3499fb468d9425a7c5d39b1.jpg" /></a></p><p>Столичная пенсионерка решила подарить детям свой дом. Она хотела убедиться, что сделка будет юридически безупречной и не вызовет сомнений. Поэтому <a href="https://sudexpert.gov.by/ru/list_news_occurrence_n.html?news_id=15172" target="_blank">обратилась</a> в управление судебно-психиатрических экспертиз для проведения комплексной психолого-психиатрической экспертизы. Каков итог?</p><p><a href="https://realt.onliner.by/2026/07/10/chtoby-podarit-dom">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Паркер против Халка. Посмотрите свежий тизер «Человек-паук: Новый день»</title>
-      <link>https://tech.onliner.by/go/782234</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/10/novyj-tizer-chelovek-pauk-novyj-den</guid>
-      <pubDate>Fri, 10 Jul 2026 13:47:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/10/novyj-tizer-chelovek-pauk-novyj-den"><img alt="" src="https://content.onliner.by/news/thumbnail/e135af956fe5aa6dd3d9da92356e7617.jpg" /></a></p><p><p dir="ltr">На корейском YouTube-канале компании Sony Pictures опубликовали новый тизер фильма «Человек-паук: Новый день», главные роли в котором исполнили Том Холланд и Зендея. Это уже четвертый сольный фильм о Человеке-пауке в киновселенной Marvel и первый с 2021 года.</p><p><a href="https://tech.onliner.by/2026/07/10/novyj-tizer-chelovek-pauk-novyj-den">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More</title>
