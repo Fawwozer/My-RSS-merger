@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 11 Jul 2026 19:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:44:39 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,29 @@
       <pubDate>Fri, 10 Jul 2026 05:04:04 +0000</pubDate>
       <description><![CDATA[linux mint logo with a chat bubble housing the cinnamon desktop environment logo (on left), the wayland logo (on right), the background is dark green with gray tick marks]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Экзоскелет-перчатка помогает людям с параличом удерживать предметы</title>
+      <link>https://4pda.to/2026/07/11/458653/ekzoskelet_perchatka_pomogaet_lyudyam_s_paralichom_uderzhivat_predmety/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458653/ekzoskelet_perchatka_pomogaet_lyudyam_s_paralichom_uderzhivat_predmety/</guid>
+      <pubDate>Sat, 11 Jul 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Мюнхенского технического университета разработали мягкую роботизированную перчатку, которая помогает людям с парализованными руками снова удерживать повседневные предметы.
+Прототип [...]]]></description>
+    </item>
+    <item>
+      <title>Посмотрели, как в Минске прошла «Автожара»</title>
+      <link>https://auto.onliner.by/go/1255562</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/11/posmotreli-kak-v-minske-proshla-avtozhara</guid>
+      <pubDate>Sat, 11 Jul 2026 19:44:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/11/posmotreli-kak-v-minske-proshla-avtozhara"><img alt="" src="https://content.onliner.by/news/thumbnail/66848b7aa9d64103fd9f5391aa24c12f.jpg" /></a></p><p>В центре Минска в сквере «Манифест» прошла ежегодная выставка необычных автомобилей «Автожара 5.0». Фотокорреспондент Onlíner побывал на мероприятии и подготовил сочные кадры редких авто. Если пропустили, все самое интересное можно увидеть сейчас.</p><p><a href="https://auto.onliner.by/2026/07/11/posmotreli-kak-v-minske-proshla-avtozhara">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Скорость зарядки твердотельных батарей увеличили более чем на 300%</title>
+      <link>https://4pda.to/2026/07/11/458641/skorost_zaryadki_tverdotelnykh_batarej_uvelichili_bolee_chem_na_300/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/07/11/458641/skorost_zaryadki_tverdotelnykh_batarej_uvelichili_bolee_chem_na_300/</guid>
+      <pubDate>Sat, 11 Jul 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Массачусетского технологического института и Технического университета Мюнхена выяснили, почему твердотельные аккумуляторы разрушаются изнутри. Найденное решение может сделать такие батареи быстрее [...]]]></description>
     </item>
     <item>
       <title>Apple судится с OpenAI за кражу коммерческой тайны</title>
@@ -378,24 +401,6 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>OpenAI выпустила GPT-5.6 и новое приложение. И, кажется, только всех запутала</title>
-      <link>https://4pda.to/2026/07/10/458732/openai_vypustila_gpt_5_6_i_novoe_prilozhenie_i_kazhetsya_tolko_vsekh_zaputala/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458732/openai_vypustila_gpt_5_6_i_novoe_prilozhenie_i_kazhetsya_tolko_vsekh_zaputala/</guid>
-      <pubDate>Fri, 10 Jul 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[Свежее поколение моделей OpenAI дебютировало вместе с сервисом ChatGPT Work и обновлённым приложением для компьютеров. Крупный релиз сделал богатую экосистему продуктов ИИ-компании ещё сложнее.
-«Работа»
-Так [...]]]></description>
-    </item>
-    <item>
-      <title>SpaceX установила новый рекорд по запущенным спутникам Starlink</title>
-      <link>https://4pda.to/2026/07/10/458710/spacex_ustanovila_novyj_rekord_po_zapuschennym_sputnikam_starlink/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/07/10/458710/spacex_ustanovila_novyj_rekord_po_zapuschennym_sputnikam_starlink/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:50:00 +0000</pubDate>
-      <description><![CDATA[SpaceX готовится установить новый годовой рекорд
-по развёртыванию Starlink. За первое полугодие 2026-го компания отправила на низкую околоземную орбиту
-на 100 аппаратов больше, чем за тот же период прошлого [...]]]></description>
-    </item>
-    <item>
       <title>Планируете ехать в ЕС? В ночь на 11 июля могут возникнуть проблемы с оплатой через ЕРИП</title>
       <link>https://auto.onliner.by/go/1255424</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/07/10/planiruete-exat-v-es</guid>
@@ -418,14 +423,6 @@
       <pubDate>Fri, 10 Jul 2026 15:42:24 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/10/pravitelstvo-budet-regulirovat-ceny-na-menshee-chislo-tovarov"><img alt="" src="https://content.onliner.by/news/thumbnail/39d3ea9af1a28e4eea1f9d97cd1ccc1f.jpg" /></a></p><p>В Беларуси скорректировали систему регулирования цен, которая действует в стране с 2022 года. Соответствующее постановление подписал премьер-министр, сообщили в правительстве. Одно из главных новшеств — стало меньше товаров, на которые государство регулирует цены.</p><p><a href="https://money.onliner.by/2026/07/10/pravitelstvo-budet-regulirovat-ceny-na-menshee-chislo-tovarov">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Водитель решил продлить «права», купленные в России. Что было дальше?</title>
-      <link>https://auto.onliner.by/go/1255414</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/10/voditel-reshil-prodlit-prava</guid>
-      <pubDate>Fri, 10 Jul 2026 14:53:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/10/voditel-reshil-prodlit-prava"><img alt="" src="https://content.onliner.by/news/thumbnail/64d2f119c1d9e26a17065e8483ee97e0.jpg" /></a></p><p>Местный житель обратился в МРЭО ГАИ Волковысского РОВД для замены водительского удостоверения — в связи с истечением срока действия. В ходе проверки сотрудники установили, что документ с данным номером выдавался другому человеку, а заявитель действующего удостоверения не имеет.</p><p><a href="https://auto.onliner.by/2026/07/10/voditel-reshil-prodlit-prava">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>FOSS Weekly #26.28: Microslop Moment, Rustification, Brave New features, KDE Plasma Tips and Meme Distro and More</title>
