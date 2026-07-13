@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 13 Jul 2026 09:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 14:33:09 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -16,6 +16,175 @@
       <description><![CDATA[<p>As consumers, we are used to correlating handhelds with the big names like Valve's Steam Deck, Lenovo's Legion Go, and ASUS' ROG Ally. But these machines are geared towards gaming and are priced like it too.</p><p>Lately, a different segment has been getting just as much attention. Indie creators and small hardware outfits who are shipping handhelds built around open hardware, swappable parts, and running full Linux distros.</p><p>We have picked out eight such handhelds that range from fully assembled devices to bring-your-own board kits that expect you to bring your own board, battery, and storage.</p><h2 id="1-cardputerzero">1. CardputerZero</h2><figure class="kg-card kg-image-card"><img alt="cardputerzero" class="kg-image" height="675" src="https://itsfoss.com/content/images/2026/07/cardputerzero.png" width="1200" /></figure><p><a href="https://m5stack.com/?ref=itsfoss.com">M5Stack</a> has kept its Cardputer line going since 2023, updating it every so often. The original ran on an ESP32-S3, and so did the follow-up, the Cardputer-Adv, just with a bigger battery and more sensors bolted on. Howeverm, neither of them ran real Linux.</p><p>The <a href="https://shop.m5stack.com/pages/m5-cardputerzero?ref=itsfoss.com">CardputerZero</a> changes that. It swaps the ESP32 for a <strong>Raspberry Pi Compute Module Zero</strong>, which is equipped with a Broadcom BCM2837 with a quad-core Cortex-A53 running at 1GHz and 512MB of RAM.</p><p>You get a 1.9-inch non-touch LCD with HDMI output up to 1080p, a 46-key keyboard, and a 1500mAh battery to keep it running, all of which fits into an 84 x 54 x 23.1mm shell you could mistake for a fat credit card.</p><p>The <em>Standard</em> model throws in an 8MP camera and a full IMU sensor suite; features the cheaper <em>Lite</em> version drops entirely. Both variants keep Wi-Fi, Bluetooth, Ethernet, and a built-in app store that lets you flash community firmware without requiring a computer.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kickstarter.com/projects/m5stack/cardputerzero">Check it Out</a></div><p><strong>Suggested Read &#128214;:</strong><em> </em><a href="https://itsfoss.com/news/cardputerzero-crowdfunding/"><em>This Credit Card-Sized Linux Box Has a Keyboard</em></a></p><h2 id="2-mecha-comet">2. Mecha Comet</h2><figure class="kg-card kg-image-card"><img alt="Mecha Comet" class="kg-image" height="1120" src="https://itsfoss.com/content/images/2026/07/new-comet.jpg" width="1120" /></figure><p>The <a href="https://mecha.so/comet" rel="noreferrer">Mecha Comet</a> looks like a chunky Android phone at first glance, until you notice the 40-pin magnetic connector running along the bottom edge. Snap on a QWERTY keyboard with a trackpad, a gamepad with a dual D-pad, or a bare GPIO breakout, and the same device becomes a different tool entirely.</p><p>For the software, it runs <strong>Mechanix</strong>, Mecha's own Fedora-based distro powered by Linux 6.12, with the bootloader, kernel, and root filesystem all being published as open source. They are also committing to releasing the full PCB schematics once mass production starts.</p><p>You get to choose between two configurations; the cheaper one will get you an <strong>NXP i.MX 8M Plus</strong>, a quad-core Cortex-A53 clocked at 1.8GHz, paired with 4GB or 8GB of LPDDR4 RAM. Step up to the higher tier, and you get an <strong>i.MX 95</strong> with a six-core Cortex-A55 setup, yielding roughly double the GPU throughput.</p><p>Both of these are equipped with an NPU and share the same 3.92-inch AMOLED touchscreen that outputs at 1080 x 1240.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://hub.mecha.so/preorder">Check it Out</a></div><figure class="kg-card kg-embed-card"></figure><h2 id="3-orange-pi-neo">3. Orange Pi Neo</h2><figure class="kg-card kg-image-card"><img alt="orange pi neo" class="kg-image" height="446" src="https://itsfoss.com/content/images/2026/07/orange-pi-neo.png" width="1029" /></figure><p>The <a href="https://neo.manjaro.org/?ref=itsfoss.com">Orange Pi Neo</a> has been in the works since early 2024, being built as a joint effort between <strong>Orange Pi</strong> and <strong>Manjaro Linux</strong>.</p><p>The planned hardware for it is an AMD Ryzen 7 7840U chip, a 7-inch 1920x1200 display running at 120Hz, dual touchpads modeled after the Steam Deck's, and Hall effect joysticks with RGB lighting.</p><p>Sadly, <a href="https://itsfoss.com/news/orange-pi-neo-delayed/">it is running quite late</a>, and the recent hike in DDR5 RAM and SSD prices has only added to the delay, with Philip M&uuml;ller, Manjaro's project lead, saying that they are waiting for a good time to launch.</p><p>I added this to the list because, on paper, this looks like a capable Linux-powered handheld; would've been a bummer to skip.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://neo.manjaro.org/?ref=itsfoss.com">Check it Out</a></div><h2 id="4-pocketterm35">4. PocketTerm35</h2><figure class="kg-card kg-image-card"><img alt="pocketterm35" class="kg-image" height="600" src="https://itsfoss.com/content/images/2026/07/pocketterm35.png" width="1100" /></figure><p>Waveshare has designed the <a href="https://www.waveshare.com/pocketterm35.htm">PocketTerm35</a> around a dedicated RP2040 microcontroller that handles the keyboard, screen brightness, and volume control duties, freeing up the main board to just run Linux.</p><p>That main board can either be a <strong>Raspberry Pi 4B</strong> or a <strong>Pi 5</strong>, both of which slot in as the actual compute hardware doing the work. Software-wise, it runs a full Linux desktop with a terminal and command-line tools included, and it's compatible with <strong>RetroPie</strong> for retro gaming.</p><p>It is sold in four different configurations. Two come with a Pi 4B or Pi 5 already installed along with a preloaded SD card and heatsink, and two are accessory-only kits for anyone supplying their own board.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.waveshare.com/pocketterm35.htm">Check it Out</a></div><h2 id="5-pibrick-pocketcm5">5. piBrick PocketCM5</h2><figure class="kg-card kg-embed-card"></figure><p>Ahmad Amarullah, <a href="https://amarullz.com/2026/06/03/pibrick-pocketcm5-open-source-handheld-computer/">an Indonesian maker</a>, has spent considerable time refining what eventually became the <a href="https://github.com/amarullz/piBrick">piBrick PocketCM5</a>. The final design pairs a <strong>Raspberry Pi CM5</strong> with a <strong>BlackBerry BBQ20 keyboard</strong>, complete with its own integrated trackpad, inside a compact 80 x 145 x 19.6mm shell.</p><p>The screen is a 3.92-inch AMOLED panel running at 1080 x 1240 and a 90Hz refresh rate, output over MIPI/DSI. Full-size HDMI and micro-HDMI are both present too, so you're never lacking in ways to get an image onto a bigger screen.</p><p>Ports are expansive for something this size. You get 1x USB 3 Type-A, 1x USB 3 Type-C, 1x USB 2 Type-C, and 1x USB 2 Type-A, plus an internal USB 2.0 header, an I2C connector, and a GPIO extension header for anyone who wants to wire something in.</p><p>Every part of it, the PCB schematics, the 3D-printable case, and the keyboard firmware, is published openly on <a href="https://github.com/amarullz/piBrick/tree/main/Pocket-CM5">GitHub</a>. The full DIY kit without the CM5 is listed on <a href="https://www.tindie.com/products/amarullz/pibrick-pocketcm5-kit-for-raspberry-pi-cm5/">Tindie</a> but was out of stock at the time of writing.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://github.com/amarullz/piBrick/tree/main/Pocket-CM5">Check it Out</a></div><h2 id="6-pilet">6. Pilet</h2><figure class="kg-card kg-image-card"><img alt="pliet 5 and pilet 7" class="kg-image" height="991" src="https://itsfoss.com/content/images/2026/07/pliet-5-pilet-7.jpg" width="1788" /></figure><p>soulscircuit's <a href="https://soulscircuit.com/pilet?ref=itsfoss.com">Pilet</a> hit its <a href="https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/">Kickstarter</a> goal within five minutes of its debut. It is pitched as a retro open source computer that was initially built to house the Raspberry Pi 5, but, later, switched to the <strong>Raspberry Pi CM5</strong> instead.</p><p>While <a href="https://itsfoss.com/news/pilet-handeld/">my original coverage</a> of it did insinuate that the board was included, the original listing never mentioned that was the case. The <a href="https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/posts/4654610">change in board requirements</a> did stir up disappointment among backers, but the creators <a href="https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/posts/4682709">have pushed forward</a>.</p><p>It is offered in two sizes, the 5-inch <strong>Pilet 5</strong> with a retro console layout, and the 7-inch <strong>Pilet 7</strong>, a tablet variant running <a href="https://itsfoss.com/kde-plasma-widgets/">KDE Plasma</a>. Both share a 1280x800 touchscreen and a custom battery module for USB charging.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://soulscircuit.com/pilet?ref=itsfoss.com">Check it Out</a></div><h2 id="7-rootboard">7. RootBoard</h2><figure class="kg-card kg-image-card"><img alt="rootboard" class="kg-image" height="720" src="https://itsfoss.com/content/images/2026/07/rootboard.png" width="1280" /></figure><p><a href="https://www.kickstarter.com/projects/dian-lieu/rootboard/">RootBoard</a> is a pocket-sized Linux terminal designed by tinkerer Dian Lieu, built as an open hardware shell rather than a finished gadget. The keyboard controller, firmware, and software are all left fully open for makers to inspect and modify.</p><p>The shell wraps a 3.5-inch color display with a 70-key QWERTY keyboard and a built-in speaker, but there's no touchscreen here. You navigate using the keyboard or an external mouse instead.</p><p>And you will need a Raspberry Pi <strong>Zero</strong>,<strong> Zero W</strong>, or <strong>Zero 2 W</strong>, as the RootBoard doesn't feature a CPU, memory, or storage.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kickstarter.com/projects/dian-lieu/rootboard/">Check it Out</a></div><h2 id="8-mnt-pocket-reform">8. MNT Pocket Reform</h2><figure class="kg-card kg-embed-card"></figure><p>A German outfit, called <a href="https://mntre.com/about.html">MNT Research</a> has come up with the <a href="https://shop.mntre.com/products/mnt-pocket-reform">MNT Pocket Reform</a>, their take on a compact Linux handheld that takes pointers from the <a href="https://mntre.com/reform.html">Reform</a> laptop series.</p><p>It ships with <strong>Debian</strong> preinstalled, with custom versions of GNOME and Sway both preloaded as desktop options. Schematics, firmware, and case design files are all published <a href="https://source.mnt.re/reform/pocket-reform">under an open license</a>, along with the rest of the Reform hardware lineup.</p><p>If you go for this, you get to <strong>pick between three processor modules</strong>, an NXP i.MX8M Plus (<em>via </em><a href="https://www.crowdsupply.com/mnt/pocket-reform"><em>Crowd Supply</em></a>), a Rockchip RK3588, or a Qualcomm QCS6490. You can swap between them later since the CPU sits as a removable card rather than being soldered down.</p><p>There's also the 7-inch display that sits above a mechanical ortholinear keyboard and an optical trackball.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://shop.mntre.com/products/mnt-pocket-reform">Check it Out</a></div><hr /><p><strong>Suggested Read &#128214;:</strong> <em>If you are interested in Raspberry Pi-powered handhelds, we have </em><a href="https://itsfoss.com/raspberry-pi-handhelds/"><em>a separate list</em></a><em> for that.</em></p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17376876.gif" width="1" />]]></description>
       <category>List 📋</category>
+    </item>
+    <item>
+      <title>Можно ли заправляться на АЗС в канистру? И почему не все будут этим довольны (видео)</title>
+      <link>https://auto.onliner.by/go/1255873</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/zapravlyatsya-v-kanistru</guid>
+      <pubDate>Mon, 13 Jul 2026 14:26:43 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/zapravlyatsya-v-kanistru"><img alt="" src="https://content.onliner.by/news/thumbnail/6efb00a08efeb759f16af1615dd3d181.jpg" /></a></p><p>Топлива на белорусских АЗС в достатке, говорят официальные лица, и мы сами после недавнего <a href="https://auto.onliner.by/2026/07/13/do-polnogo-baka" target="_blank">путешествия на восток</a> страны можем это подтвердить. Тем не менее спрос на топливо есть, и есть повышенное внимание к происходящему на заправках. Наша читательница прислала видео с АЗС в Минске: автомобилист последовательно наполняет из колонки большие синие канистры. <em>«А так вообще можно?»</em> — поинтересуется кто-то.</p><p><a href="https://auto.onliner.by/2026/07/13/zapravlyatsya-v-kanistru">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Найдена нетронутая гробница периода расцвета Древнего Египта</title>
+      <link>https://tech.onliner.by/go/782401</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/najdena-netronutaya-grobnica-perioda-rascveta-drevnego-egipta</guid>
+      <pubDate>Mon, 13 Jul 2026 14:06:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/najdena-netronutaya-grobnica-perioda-rascveta-drevnego-egipta"><img alt="" src="https://content.onliner.by/news/thumbnail/ae0b2578d48603b998fdda0dac80ef5f.jpg" /></a></p><p>По данным министерства туризма и древностей Египта, голландская археологическая миссия обнаружила принадлежащую человеку по имени Пасер украшенную гробницу на западном берегу Луксора. Подробнее <a href="https://arkeonews.net/new-kingdom-tomb-of-paser-discovered-in-luxor-egypt/" target="_blank">пишет</a> arkeonews.</p><p><a href="https://tech.onliner.by/2026/07/13/najdena-netronutaya-grobnica-perioda-rascveta-drevnego-egipta">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Минчанин: «Арендодатель назвал стоимость аренды — 1000 рублей плюс налог. Это законно?»</title>
+      <link>https://realt.onliner.by/go/1116647</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/13/plyus-nalog</guid>
+      <pubDate>Mon, 13 Jul 2026 14:02:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/13/plyus-nalog"><img alt="" src="https://content.onliner.by/news/thumbnail/7d846a7f36efdaab34253063d2fc7502.jpg" /></a></p><p>Известно, что собственник квартиры, решивший законно сдавать свою недвижимость в долгосрочную аренду, обязан каждый месяц платить налог. И это логично, ведь денежный доход от квартирантов приходит регулярно. Пользователь форума Onlíner столкнулся с нетипичной ситуацией: владелец жилья хочет повесить эту «повинность» на плечи арендатора. Но насколько это законно?</p><p><a href="https://realt.onliner.by/2026/07/13/plyus-nalog">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Девушка похитила больше 22 тысяч рублей и все проиграла в онлайн-казино</title>
+      <link>https://money.onliner.by/go/336522</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/devushka-zabrala-sebe-chuzhuyu-vyplatu-na-pogrebenie-i-proigrala-na-stavkax</guid>
+      <pubDate>Mon, 13 Jul 2026 13:59:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/devushka-zabrala-sebe-chuzhuyu-vyplatu-na-pogrebenie-i-proigrala-na-stavkax"><img alt="" src="https://content.onliner.by/news/thumbnail/0e20043f489b2d42cd59ad66346d5c33.jpg" /></a></p><p>В 2023 году 29-летняя жительница Слонима пришла на работу в местный почтовый магазин. Поначалу девушка добросовестно выполняла трудовые обязанности, но вскоре увлеклась ставками в онлайн-казино и потратила на них все свои сбережения. С того времени слонимчанка занялась хищением на рабочем месте.</p><p><a href="https://money.onliner.by/2026/07/13/devushka-zabrala-sebe-chuzhuyu-vyplatu-na-pogrebenie-i-proigrala-na-stavkax">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>«Не понял, что едет на красный?» Вот к такому приводит невнимательность за рулем (видео)</title>
+      <link>https://auto.onliner.by/go/1255077</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/ne-ponyal-sfetofor</guid>
+      <pubDate>Mon, 13 Jul 2026 13:56:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/ne-ponyal-sfetofor"><img alt="" src="https://content.onliner.by/news/thumbnail/a4875226cbacebdcfe33cb6c4afacb26.jpg" /></a></p><p>Наш читатель в воскресенье, 5 июля, попал в обидное ДТП на пересечении улицы Ангарской и Партизанского проспекта в Минске. Он ехал на зеленый сигнал светофора и вдруг получил сильный удар справа. Есть видео с разных ракурсов.</p><p><a href="https://auto.onliner.by/2026/07/13/ne-ponyal-sfetofor">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Внезапно. На вечер объявлен оранжевый уровень опасности</title>
+      <link>https://people.onliner.by/go/1316751</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/vnezapno-na-vecher-obyavlen-oranzhevyj-uroven-opasnosti</guid>
+      <pubDate>Mon, 13 Jul 2026 13:55:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/vnezapno-na-vecher-obyavlen-oranzhevyj-uroven-opasnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/e03f5a60e45fb4d95f795793a294319c.jpg" /></a></p><p>Наступившее тепло едва успело порадовать, как синоптики уже предупреждают об оранжевом уровне опасности. Так что если были планы на вечер, то есть вероятность корректировок.</p><p><a href="https://people.onliner.by/2026/07/13/vnezapno-na-vecher-obyavlen-oranzhevyj-uroven-opasnosti">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Не пропустила школьника на переходе. Водителя будут судить</title>
+      <link>https://auto.onliner.by/go/1255858</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/ne-propustila-shkolnika</guid>
+      <pubDate>Mon, 13 Jul 2026 13:27:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/ne-propustila-shkolnika"><img alt="" src="https://content.onliner.by/news/thumbnail/6434699f50ed79a65f982f9e92e83851.jpg" /></a></p><p>Следственный комитет направил прокурору материалы уголовного дела, возбужденного после ДТП в Борисове. Там водитель Belgee X70 сбила на пешеходном переходе 12-летнего школьника. Ребенок получил травмы, которые, по заключению судебно-медицинской экспертизы, относятся к категории тяжких по признаку опасности для жизни.</p><p><a href="https://auto.onliner.by/2026/07/13/ne-propustila-shkolnika">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Совсем без складки. Samsung Galaxy Z Fold 8 Ultra попал на видео до анонса</title>
+      <link>https://tech.onliner.by/go/782393</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/sovsem-bez-skladki-samsung-galaxy-z-fold-8-ultra-popal-na-video-do-anonsa</guid>
+      <pubDate>Mon, 13 Jul 2026 12:42:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/sovsem-bez-skladki-samsung-galaxy-z-fold-8-ultra-popal-na-video-do-anonsa"><img alt="" src="https://content.onliner.by/news/thumbnail/be4035482d8db5f06ad42462dd4cf3ec.jpg" /></a></p><p>Новые топовые смартфоны Samsung представят уже 22 июля. Среди них, как ожидается, окажется и Z Fold 8 Ultra — продолжатель нынешнего Z Fold 7. В китайской сети Weibo появилось видео, на котором, если верить сетевым информаторам, показана грядущая новинка. И она, видимо, получила как минимум одно важное улучшение. На это <a href="https://www.gsmarena.com/leaked_video_shows_off_samsung_galaxy_z_fold8_ultras_creaseless_display-news-73689.php" target="_blank">обратили</a> внимание в GSMArena.</p><p><a href="https://tech.onliner.by/2026/07/13/sovsem-bez-skladki-samsung-galaxy-z-fold-8-ultra-popal-na-video-do-anonsa">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Денег нет, а за город хочется? Обзор дач недалеко от Минска, которые стоят до 30 000 рублей</title>
+      <link>https://realt.onliner.by/go/1116577</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/13/deneg-net-a-za-gorod-xochetsya</guid>
+      <pubDate>Mon, 13 Jul 2026 12:40:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/13/deneg-net-a-za-gorod-xochetsya"><img alt="" src="https://content.onliner.by/news/thumbnail/a0d37eb03fa4bc56647b81b798387855.jpg" /></a></p><p>Купить дачу под Минском и не влезть в кредитную кабалу — не такой уж сложный квест. Если закрыть глаза на отсутствие дизайнерского ремонта и ландшафтного дизайна, недалеко от МКАД все еще можно найти живые варианты. Мы изучили базу Onlíner «Дома и квартиры» и собрали простые, но еще крепкие дачные домики, за которые просят меньше $10 000 по курсу.</p><p><a href="https://realt.onliner.by/2026/07/13/deneg-net-a-za-gorod-xochetsya">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>«Съеденное — бесплатно». Почему люди едут на самосбор, если ягоду дешевле купить</title>
+      <link>https://money.onliner.by/go/336532</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/sedennoe-besplatno-pochemu-lyudi-edut-na-samosbor-esli-yagodu-deshevle-kupit</guid>
+      <pubDate>Mon, 13 Jul 2026 12:24:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/sedennoe-besplatno-pochemu-lyudi-edut-na-samosbor-esli-yagodu-deshevle-kupit"><img alt="" src="https://content.onliner.by/news/thumbnail/d86d99030ebc8cff4798fb0a8ddb7c20.jpg" /></a></p><p>Институт плодоводства объявил очередной сбор летних ягод. В меню — черешня, вишня, крыжовник, черная и красная смородина. В комментариях вновь удивились цене и даже уточняют: нет ли ошибки. Ведь вишню и черешню предлагают собирать самостоятельно за 12 рублей за килограмм, крыжовник — по 9, а смородину — по 6—8 рублей.</p><p><a href="https://money.onliner.by/2026/07/13/sedennoe-besplatno-pochemu-lyudi-edut-na-samosbor-esli-yagodu-deshevle-kupit">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Медведь под Ратомкой? В соцсетях разгорелся спор из-за фото</title>
+      <link>https://people.onliner.by/go/1316642</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/fejk-ili-pravda-v-socsetyax-sporyat-iz-za-foto-medvedya-pod-ratomkoj</guid>
+      <pubDate>Mon, 13 Jul 2026 11:59:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/fejk-ili-pravda-v-socsetyax-sporyat-iz-za-foto-medvedya-pod-ratomkoj"><img alt="" src="https://content.onliner.by/news/thumbnail/3c740702f9c7ad73eebf84ddda2890f7.jpg" /></a></p><p>В соцсетях обсуждают медведя, якобы замеченного в дачном поселке. Пишут, что кадр сделан в районе Ратомки. Правда, многие быстро усомнились в достоверности и заподозрили проделки ИИ.</p><p><a href="https://people.onliner.by/2026/07/13/fejk-ili-pravda-v-socsetyax-sporyat-iz-za-foto-medvedya-pod-ratomkoj">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Самый опасный поворот во всем городе — едешь вслепую!» Предложено решение проблемы</title>
+      <link>https://auto.onliner.by/go/1255824</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/samyj-opasnyj-povorot</guid>
+      <pubDate>Mon, 13 Jul 2026 11:55:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/samyj-opasnyj-povorot"><img alt="" src="https://content.onliner.by/news/thumbnail/205c04753aa44fa5710b4391cd26c807.jpg" /></a></p><p>Наш читатель пожаловался на то, как организовано движение по тротуару на проспекте Независимости в Минске, в районе пересечения с улицей Филимонова. По его словам, по обе стороны проспекта есть повороты, где двигаться может быть небезопасно.</p><p><a href="https://auto.onliner.by/2026/07/13/samyj-opasnyj-povorot">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Налоговая сообщила о последствиях для пользователей известного музыкального сервиса (обновлено)</title>
+      <link>https://money.onliner.by/go/334351</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/u-nalogovoj-poyavilis-voprosy-k-muzykalnomu-servisu-polzovateli-mogut-lishitsya-dostupa-k-nemu</guid>
+      <pubDate>Mon, 13 Jul 2026 11:34:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/u-nalogovoj-poyavilis-voprosy-k-muzykalnomu-servisu-polzovateli-mogut-lishitsya-dostupa-k-nemu"><img alt="" src="https://content.onliner.by/news/thumbnail/8e2c17c27c3a19974471e365524f807f.jpg" /></a></p><p>В Министерстве по налогам и сборам сообщили о возможных последствиях для пользователей зарубежного стримингового сервиса. Ранее речь шла о том, что он должен платить налоги в белорусский бюджет. Вероятно, речь может идти о Spotify, так как в сообщении МНС упоминалась Швеция, где зарегистрирован этот сервис.
+</p><p><a href="https://money.onliner.by/2026/07/13/u-nalogovoj-poyavilis-voprosy-k-muzykalnomu-servisu-polzovateli-mogut-lishitsya-dostupa-k-nemu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Больше никакого запаха? Стало известно, когда закончат ремонт Минской очистной станции</title>
+      <link>https://realt.onliner.by/go/1116442</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/13/kogda-zakonchat-remont-minskoj-ochistnoj-stancii</guid>
+      <pubDate>Mon, 13 Jul 2026 11:04:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/13/kogda-zakonchat-remont-minskoj-ochistnoj-stancii"><img alt="" src="https://content.onliner.by/news/thumbnail/ef9b73acad49f6273af2861a8ef29e80.jpg" /></a></p><p>В Минске продолжается масштабная модернизация очистной станции, куда стекаются все канализационные стоки столицы для механической и биологической очистки. Масштабные работы на объекте планируется полностью завершить к 2028 году, однако первые важные результаты будут видны уже в ближайшие месяцы — до конца текущего года строители рассчитывают сдать две очереди реконструкции из пяти, <a href="https://minsknews.by/dve-ocheredi-rekonstrukczii-minskoj-ochistnoj-stanczii-planiruetsya-zavershit-v-etom-godu/" target="_blank">рассказал</a> агентству «Минск-Новости» директор «Минскводоканала» Федор Римашевский.</p><p><a href="https://realt.onliner.by/2026/07/13/kogda-zakonchat-remont-minskoj-ochistnoj-stancii">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Рентабельность больше 15%. Производители детских товаров переориентировались на животных</title>
+      <link>https://money.onliner.by/go/336510</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/rynok-s-vysokoj-rentabelnostyu-proizvoditeli-podguznikov-stali-orientirovatsya-na-zhivotnyx</guid>
+      <pubDate>Mon, 13 Jul 2026 10:59:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/rynok-s-vysokoj-rentabelnostyu-proizvoditeli-podguznikov-stali-orientirovatsya-na-zhivotnyx"><img alt="" src="https://content.onliner.by/news/thumbnail/23e67ea9c58e19c7bdb3333de0181e2d.png" /></a></p><p>В Японии домашних животных сейчас на 2 миллиона больше, чем детей до 15 лет. Поэтому компании, которые когда-то строили свой бизнес на товарах для младенцев, все чаще обращают свое внимание на домашних животных. Покупателям предлагают подгузники для собак и кошек, аналоги детских переносок и колясок, заколки для шерсти.</p><p><a href="https://money.onliner.by/2026/07/13/rynok-s-vysokoj-rentabelnostyu-proizvoditeli-podguznikov-stali-orientirovatsya-na-zhivotnyx">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Флагман Pura 90s Pro Max и другие новинки Huawei представят 14 июля</title>
+      <link>https://tech.onliner.by/go/782382</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/flagman-pura-90s-pro-max-i-drugie-novinki-huawei-predstavyat-14-iyulya</guid>
+      <pubDate>Mon, 13 Jul 2026 10:59:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/flagman-pura-90s-pro-max-i-drugie-novinki-huawei-predstavyat-14-iyulya"><img alt="" src="https://content.onliner.by/news/thumbnail/aa310e2d65d27b8b6bfb60593fc3b3d6.jpg" /></a></p><p>Глобальная презентация новых гаджетов Huawei, в том числе фламагскинх смартфонов, состоится завтра, 14 июля. Компания выпустила несколько тизеров, в которых говорится, какие именно устройства стоит ожидать. Об этом <a href="https://www.huaweicentral.com/huawei-july-14-global-event-devices/" target="_blank">пишут</a> профильные ресурсы. </p><p><a href="https://tech.onliner.by/2026/07/13/flagman-pura-90s-pro-max-i-drugie-novinki-huawei-predstavyat-14-iyulya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>А вы бы тоже не пустили? Так выглядит водительская принципиальность (видео)</title>
+      <link>https://auto.onliner.by/go/1252054</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/uskoritsya-ili-pritormozit</guid>
+      <pubDate>Mon, 13 Jul 2026 10:38:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/uskoritsya-ili-pritormozit"><img alt="" src="https://content.onliner.by/news/thumbnail/21dfe69cae32be7aa8ad6b8723220520.jpg" /></a></p><p>Вы считаете себя принципиальным водителем? Если кто-то хочет перестроиться перед вами, как вы поступите: ускоритесь или отпустите газ и пропустите человека? Очевидно, что вопрос непростой, каждый отвечает на него по-своему.</p><p><a href="https://auto.onliner.by/2026/07/13/uskoritsya-ili-pritormozit">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Браславе лодка с туристами не могла вернуться на берег из-за ветра. Чем закончилось?</title>
+      <link>https://people.onliner.by/go/1316632</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/v-braslave-lodka-s-turistami-ne-mogla-vernutsya-na-bereg-iz-za-vetra-chem-zakonchilos</guid>
+      <pubDate>Mon, 13 Jul 2026 10:29:43 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/v-braslave-lodka-s-turistami-ne-mogla-vernutsya-na-bereg-iz-za-vetra-chem-zakonchilos"><img alt="" src="https://content.onliner.by/news/thumbnail/a5dd1b22f47d5ad05fb84136623b6eca.jpg" /></a></p><p>На спасательную станцию в Браславе поступило сообщение о происшествии на воде. Выяснилось, что пара туристов не смогли вернуться к берегу и просили помощи.</p><p><a href="https://people.onliner.by/2026/07/13/v-braslave-lodka-s-turistami-ne-mogla-vernutsya-na-bereg-iz-za-vetra-chem-zakonchilos">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«В реальности это очень страшно». О тех, кто появляется непрошено (видео)</title>
+      <link>https://auto.onliner.by/go/1255813</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/v-realnosti-eto-ochen-strashno</guid>
+      <pubDate>Mon, 13 Jul 2026 09:49:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/v-realnosti-eto-ochen-strashno"><img alt="" src="https://content.onliner.by/news/thumbnail/f97a6788dd07f3638fb95f4bbcee7745.jpg" /></a></p><p>Читатель на нашем <a href="https://forum.onliner.by/viewtopic.php?t=5461367&amp;start=18180" target="_blank">форуме</a> поделился видео со своего регистратора. Внутреннее кольцо МКАД, рядом съезд на Логойский тракт. В правой полосе затор, но в средней — свободно. Было, до тех пор пока туда не выехал водитель такси.</p><p><a href="https://auto.onliner.by/2026/07/13/v-realnosti-eto-ochen-strashno">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В древнем городе в Турции нашли клад персидского золота. Ему 2,5 тысячи лет</title>
+      <link>https://tech.onliner.by/go/782365</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/v-drevnem-gorode-v-turcii-nashli-klad-persidskogo-zolota-emu-25-tysyachi-let</guid>
+      <pubDate>Mon, 13 Jul 2026 09:32:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/v-drevnem-gorode-v-turcii-nashli-klad-persidskogo-zolota-emu-25-tysyachi-let"><img alt="" src="https://content.onliner.by/news/thumbnail/21159b0943f12e8ba9ebf82f3a72c0de.jpg" /></a></p><p>В небольшом керамическом сосуде, откопанном под зданием в Нотионе — древнем городе на западе Турции — нашли клад из 50 персидских золотых монет. Исследователи полагают: находке около 2,5 тысячи лет. Подробнее <a href="https://arkeonews.net/2500-year-old-persian-gold-coin-hoard-found-at-ancient-notion-in-turkiye/" target="_blank">пишет</a> Arkeonews.</p><p><a href="https://tech.onliner.by/2026/07/13/v-drevnem-gorode-v-turcii-nashli-klad-persidskogo-zolota-emu-25-tysyachi-let">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Стоял на коленях, просил на лечение ребенка. В милиции узнали, куда шли деньги</title>
+      <link>https://money.onliner.by/go/336477</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/muzhchina-v-perexode-prosil-dengi-na-lechenie-rebenka-a-tratil-na-sebya-chem-zakonchilos</guid>
+      <pubDate>Mon, 13 Jul 2026 09:32:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/muzhchina-v-perexode-prosil-dengi-na-lechenie-rebenka-a-tratil-na-sebya-chem-zakonchilos"><img alt="" src="https://content.onliner.by/news/thumbnail/478eeaa1e718dbf17cdc0353ab0dad08.png" /></a></p><p>Пассажиры метро во Фрунзенском районе Минска не раз могли видеть в переходе мужчину с информационной табличкой на шее. Он стоял на коленях и просил деньги на дорогостоящее лечение сына. Как оказалось, таким образом молодой человек зарабатывал себе на жизнь.</p><p><a href="https://money.onliner.by/2026/07/13/muzhchina-v-perexode-prosil-dengi-na-lechenie-rebenka-a-tratil-na-sebya-chem-zakonchilos">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
     </item>
     <item>
       <title>Пара после 14‑летней тяжбы за 15 сантиметров земли рискует получить счет на $166 тысяч</title>
@@ -51,64 +220,6 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Неделя началась с небольшого падения доллара. Что другие валюты?</title>
-      <link>https://money.onliner.by/go/336450</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/nedelya-nachalas-s</guid>
-      <pubDate>Mon, 13 Jul 2026 08:06:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/nedelya-nachalas-s"><img alt="" src="https://content.onliner.by/news/thumbnail/b26344cbf8987a0eaef6ec242a5ad2ae.jpg" /></a></p><p>В понедельник, 13 июля, доллар отступает все дальше от психологического рубежа в 3 рубля. Российский рубль также потерял в цене. Тем временем биткоин за последние сутки подешевел, сейчас находится вблизи отметки $62 962.
-</p><p><a href="https://money.onliner.by/2026/07/13/nedelya-nachalas-s">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Threads бурно обсуждает пост цветочного магазина. Владелец: «Это популярный тренд»</title>
-      <link>https://money.onliner.by/go/336479</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/nado-vydelyatsya-xozyain-cvetochnogo-magazina-prokommentiroval-reklamu-so-shpililiyami</guid>
-      <pubDate>Mon, 13 Jul 2026 07:58:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/nado-vydelyatsya-xozyain-cvetochnogo-magazina-prokommentiroval-reklamu-so-shpililiyami"><img alt="" src="https://content.onliner.by/news/thumbnail/e5ea115a6897d1189d41f4e01f8e6940.png" /></a></p><p>«Цветами дня» на выходных для многих пользователей Threads против воли стали лилии, пионы, гладиолусы и подсолнухи — а точнее, их реклама. В посте минского магазина названия цветов срифмовали так, что они обрели некий сексуальный подтекст. У ветки в Threads больше 164 тысяч просмотров и 270 лайков — и при этом больше 640 комментариев, где многие критикуют такой подход бренда. Комментаторы начали тегать владельца магазина, но собственник не согласился с читателями, которые возмутились постом.</p><p><a href="https://money.onliner.by/2026/07/13/nado-vydelyatsya-xozyain-cvetochnogo-magazina-prokommentiroval-reklamu-so-shpililiyami">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В центре Минска идет «секретная» стройка, о которой вы могли и не догадываться</title>
-      <link>https://realt.onliner.by/go/1116418</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/13/idet-sekretnaya-strojka</guid>
-      <pubDate>Mon, 13 Jul 2026 07:40:21 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/13/idet-sekretnaya-strojka"><img alt="" src="https://content.onliner.by/news/thumbnail/f5a2508d187b553f922f6f0713a56bff.jpg" /></a></p><p><p>В самом центре Минска развернулась стройка, которая практически не заметна с главных пешеходных маршрутов. Новый объект на улице Революционной, 24А, надежно спрятан во дворах: его не видно ни со стороны самой Революционной, ни с Немиги. Четырехэтажное здание деликатно примкнуло с тыльной стороны к дому №5 на улице Немиге, пишет телеграм-канал <a href="https://t.me/minskstroybelarus/9188" target="_blank">«Минскстрой»</a>.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/07/13/idet-sekretnaya-strojka">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Мотоциклист попал в тяжелейшую аварию. История его спасения стала уникальной для страны</title>
-      <link>https://auto.onliner.by/go/1255799</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/istoriya-spaseniya</guid>
-      <pubDate>Mon, 13 Jul 2026 07:23:01 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/istoriya-spaseniya"><img alt="" src="https://content.onliner.by/news/thumbnail/2918ad9fa9bbb1c00668a852690a3dc5.jpg" /></a></p><p>Сердце 34-летнего мужчины остановилось во время лечения после тяжелейшего ДТП. Тогда команда медиков приняла решение, которого прежде в белорусской практике еще не было: подключить пациента с тяжелой сочетанной травмой к аппарату экстракорпоральной мембранной оксигенации (ЭКМО) прямо в момент сердечно-легочной реанимации. Это решение стало уникальным для страны. Историю описывает агентство <a href="https://minsknews.by/minuty-na-grani-kak-vrachi-stolichnoj-bsmp-spasli-paczienta-v-sostoyanii-klinicheskoj-smerti/" target="_blank">«Минск-Новости»</a>.</p><p><a href="https://auto.onliner.by/2026/07/13/istoriya-spaseniya">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Умер Сэм Нил — звезда «Парка Юрского периода»</title>
-      <link>https://tech.onliner.by/go/782341</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/umer-sem-nil-zvezda-parka-yurskogo-perioda</guid>
-      <pubDate>Mon, 13 Jul 2026 07:11:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/umer-sem-nil-zvezda-parka-yurskogo-perioda"><img alt="" src="https://content.onliner.by/news/thumbnail/a0f84a5c615bce6db8dfd720b25326ec.jpg" /></a></p><p>О кончине актера сообщили его близкие в социальных сетях, <a href="https://www.hollywoodreporter.com/movies/movie-news/sam-neill-dead-actor-jurassic-park-the-piano-dies-1236646308/" target="_blank">уточняет</a> The Hollywood Reporter. Сэма Нила не стало в Сиднее — как утверждается, это произошло в кругу его семьи. Мужчине было 78 лет.</p><p><a href="https://tech.onliner.by/2026/07/13/umer-sem-nil-zvezda-parka-yurskogo-perioda">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Отчим бил ребенка, а затем обрил и написал на лбу слово «вор». Получил уголовное дело</title>
-      <link>https://people.onliner.by/go/1316561</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/otchim-bil-rebenka-a-zatem-obril-i-napisal-na-lbu-slovo-vor-poluchil-ugolovnoe-delo</guid>
-      <pubDate>Mon, 13 Jul 2026 07:10:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/otchim-bil-rebenka-a-zatem-obril-i-napisal-na-lbu-slovo-vor-poluchil-ugolovnoe-delo"><img alt="" src="https://content.onliner.by/news/thumbnail/a38443183ad849372e6aa16743f8385a.jpg" /></a></p><p>Уголовное дело возбудили против жителя Бобруйска. Выяснилось, что мужчина систематически избивал пасынка. А как-то обрил голову ребенка и маркером написал на ней слово «вор». В итоге мужчина предстал перед судом.</p><p><a href="https://people.onliner.by/2026/07/13/otchim-bil-rebenka-a-zatem-obril-i-napisal-na-lbu-slovo-vor-poluchil-ugolovnoe-delo">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Рост мировых цен на 15,8%». Аналитики предупреждают о подорожании продуктов питания</title>
-      <link>https://money.onliner.by/go/336457</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/rost-mirovyx-cen-na-158-analitiki-preduprezhdayut-o-podorozhanii-produktov-pitaniya</guid>
-      <pubDate>Mon, 13 Jul 2026 06:59:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/rost-mirovyx-cen-na-158-analitiki-preduprezhdayut-o-podorozhanii-produktov-pitaniya"><img alt="" src="https://content.onliner.by/news/thumbnail/643cf5bf45090750457e7e82a95306c2.jpg" /></a></p><p>Мировые цены на продовольствие и так выросли из-за ситуации на Ближнем Востоке, а теперь дополнительное влияние оказывает «супер-Эль-Ниньо». Экстремальные погодные условия могут вызвать серьезный шок вплоть до 2028 года, предупреждают экономисты.</p><p><a href="https://money.onliner.by/2026/07/13/rost-mirovyx-cen-na-158-analitiki-preduprezhdayut-o-podorozhanii-produktov-pitaniya">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Open Book Touch is Crowdfunding: A Buttonless, Open Hardware Answer to Kindle</title>
       <link>https://feed.itsfoss.com/link/24361/17379351/open-book-touch-crowdfunding</link>
       <guid isPermaLink="false">6a547a9ceebe540001b4ba34</guid>
@@ -116,119 +227,6 @@
       <description><![CDATA[<p>Back in 2020, <a href="https://itsfoss.com/open-book/">I wrote about Open Book</a>: a DIY, open source e-reader project from developer <a href="https://www.joeycastillo.com/">Joey Castillo</a> that you could solder together yourself... at least in theory. It had a 4.2 inch e-paper screen, seven physical buttons for navigation, and the kind of "anyone with a soldering iron can build one" ambition that attracts a certain kind of small userbase.</p><p>Six years later, Castillo is back with Open Book Touch. It is built on the same idea just that it's more of a ready-to-use, out of the box kind of product this time. If need be, you can still take it apart and modify it as needed. The new project just <a href="https://www.crowdsupply.com/oddly-specific-objects/open-book-touch">went live on Crowd Supply</a>.</p><figure class="kg-card kg-embed-card"></figure><p>With "<a href="https://itsfoss.com/opinion/self-hosting-rising/" rel="noreferrer">own your data</a>" becoming a way to resist against Big Tech's walled garden, an open source alternative to Kindle's ecosystem is exactly the kind of thing that appeals to many of us open source lovers. No account needed, no DRM, nothing "phoning home". If you have a good ebook coolection, a device like this is worth adding to wishlist, at least for me.</p><h2 id="%F0%9F%93%9D-key-specifications">&#128221; Key Specifications</h2><figure class="kg-card kg-image-card"><img alt="Open Book Touch" class="kg-image" height="899" src="https://itsfoss.com/content/images/2026/07/open-book-touch-3.jpg" width="1598" /></figure><ul><li><strong>Display:</strong> 4.26" e-paper touchscreen, 480 &times; 800 px, warm + cool frontlight</li><li><strong>Processor:</strong> ESP32-S3 dual-core, Wi-Fi + Bluetooth LE</li><li><strong>Memory:</strong> 16 MB flash, 8 MB PSRAM</li><li><strong>Formats:</strong> EPUB and plain text, no DRM</li><li>Storage: microSD card slot</li><li><strong>Interface</strong>: USB-C with integrated LiPo charging</li><li><strong>Dimension</strong>: 78 &times; 120 &times; 10 mm, about 85 g</li><li><strong>Open source:</strong> MIT-licensed firmware, open hardware (to be released at shipping)</li></ul><p>The base model is $149, with a limited "Author's Edition" going for $249 during the campaign only.</p><p>The most obvious change from the <a href="https://github.com/joeycastillo/The-Open-Book">original Open Book</a> is right there on the front. Where the old board had a directional pad, a select button, and dedicated page-turn buttons, Open Book Touch is a single symmetrical slab, just 1 cm thin, with a capacitive touchscreen doing all the work instead. That's why it is called Open Book Touch, perhaps.</p><p>The exclusion of physical buttons makes sense because it is a tiny device. The touchscreen sits on a 4.26 inch e-paper panel at 480 &times; 800 pixels, working out to roughly 220 ppi, sharper than you'd expect at that size. It's a 1-bit display at its core meaning fast, crisp black and white for page turns. Slower 2-bit grayscale mode is reserved for the lock screen, so a book cover or your own photo renders in more shades of gray.</p><figure class="kg-card kg-image-card"><img alt="Book cover image" class="kg-image" height="900" src="https://itsfoss.com/content/images/2026/07/open-book-touch-2.jpg" width="1600" /></figure><p>Frontlight uses five warm and five cool LEDs together, so you get a warm tone for reading in bed or something cooler for daylight, rather than being stuck with the single-temperature light.</p><p>At its core lies an ESP32-S3, paired with 16 MB of flash and 8 MB of PSRAM, the kind of arrangement you'd want for parsing EPUB files on a microcontroller instead of a full Linux SBC. The firmware itself is C++ on ESP-IDF and FreeRTOS, with SQLite quietly tracking your library's metadata.</p><p>Typesetting gets some attention too: justified text with proper hyphenation (English, Spanish, French, and Italian dictionaries are included), inline dithered images, and text set in bitmap versions of open source Lucida Bright and Lucida Sans fonts, complete with true bold and italic weights.</p><figure class="kg-card kg-image-card"><img alt="Language support in Open Book Touch" class="kg-image" height="900" src="https://itsfoss.com/content/images/2026/07/open-book-touch-4.jpg" width="1600" /></figure><p>Language support is pretty impressive for a new device. GNU Unifont ships on the device as a fallback covering around 70,000 glyphs, the interface itself is localized into seven languages including Arabic and Hebrew. They have also implemented the Unicode bidirectional algorithm so right-to-left scripts shape correctly instead of just rendering backwards.</p><p>There's no DRM support here, by design. Books load from a microSD card or over local Wi-Fi. You may also manage metadat of library with SQLite.</p><figure class="kg-card kg-image-card"><img alt="OpenBook Touch library metadata" class="kg-image" height="1247" src="https://itsfoss.com/content/images/2026/07/open-book-touch-web-inetrface.jpg" width="1599" /></figure><p>There is no companion app here. This 'feature' could be an inconvenience, too, if you like reading on more than one devices like your computer or smartphone. Perhaps later, something can be thought about it, </p><p>The 800 mAh (minimum) LiPo battery is user-replaceable, and the 3D-printed snap-fit case is designed to be taken apart, with printable CAD files included if you want to make your own in a different color.</p><h2 id="whatever-happened-to-the-original">Whatever happened to the original?</h2><p>The original Open Book won <a href="https://hackaday.com/2020/01/22/winners-of-the-take-flight-with-feather-contest/">Hackaday's "Take Flight with Feather" contest in January 2020</a>, a competition sponsored by Adafruit and <a href="https://www.digikey.com/">DigiKey</a> for Feather-compatible boards. </p><figure class="kg-card kg-image-card"><img alt="Original OpenBook from 2020" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/07/image.png" width="800" /></figure><p>That win was supposed to mean a manufactured run of at least 100 units landing on DigiKey's shelves. From what I recall, that specific retail run doesn't seem to have fully materialized.</p><p>Castillo sold bare PCBs himself through Tindie starting mid-2020, and by that October, more than 100 Open Book and E-Book FeatherWing boards had shipped to makers willing to solder them together at home. </p><p>So it did shipped, sort of, just not like DigiKey retail run originally promised. But real boards did reach real people as a DIY kit rather than a finished product. The project kept evolving after that, through an RP2040-based "<a href="https://hackaday.com/2022/09/29/open-book-abridged-oshw-e-reader-now-simplified-pico-driven/">Open Book Abridged</a>" and, eventually, a full reimagining that led to Open Book Touch.</p><p>The original Open Book had all its schematics and firmware <a href="https://github.com/joeycastillo/The-Open-Book">public on GitHub</a> from day one, before a single board existed. Open Book Touch is a bit different for now. Castillo has open sourced <a href="https://github.com/joeycastillo/focus">Focus</a>, the C++ application framework that powers the device's interface, and the firmware is MIT-licensed. </p><p>But the board files, enclosure CAD, and the Open Book Touch-specific firmware itself are staying private until the campaign ships, going public to backers first and everyone else after. This is what's promised by the developer.</p><h2 id="get-open-book-touch">Get Open Book Touch</h2><figure class="kg-card kg-image-card"><img alt="Open Book Touch" class="kg-image" height="900" src="https://itsfoss.com/content/images/2026/07/open-book-touch-1.jpg" width="1600" /></figure><p>Open Book Touch is live on Crowd Supply now. At the time of writing, the campaign has raised $25,658 of its $45,000 goal from 131 backers, with about five weeks left to go.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.crowdsupply.com/oddly-specific-objects/open-book-touch">Back Open Book Touch on Crowd Supply</a></div><p>Pledges start at $149 for the standard Open Book Touch (free US shipping, $12 elsewhere), with a $249 "Author's Edition" in a special enclosure available only during the campaign. </p><p>Crowd Supply is targeting early 2027 to get the first units to backers, fulfilled through its usual partner, Mouser. Manufacturing runs through <a href="https://www.crowdsupply.com/nextpcb/launchpad">NextPCB's Launchpad program</a>, with the e-paper panel itself coming from <a href="https://www.good-display.com/">Good Display</a>.</p><div class="kg-card kg-callout-card kg-callout-card-red"><div class="kg-callout-emoji">&#128679;</div><div class="kg-callout-text">As with any crowdfunding campaign, treat the timeline as an estimate. Back it because you want to support the project, not because you're counting on the ship date.</div></div><p>If you just want the reading experience Castillo designed, the $149 tier gets you the full thing. Go for the $249 Author's Edition only if the nicer enclosure matters to you, since the electronics inside are identical.</p><p><em>Suggested Read: If Open Book Touch is out of your price range or you'd rather build one yourself, </em><a href="https://itsfoss.com/open-source-ebook-readers-options/"><em>we've rounded up several DIY open source e-reader projects</em></a><em> you can put together at home.</em></p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17379351.gif" width="1" />]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>ГАИ: реконструкция путепровода на МКАД завершена, движение идет в штатном режиме</title>
-      <link>https://auto.onliner.by/go/1255789</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/rekonstrukciya-puteprovoda</guid>
-      <pubDate>Mon, 13 Jul 2026 06:40:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/rekonstrukciya-puteprovoda"><img alt="" src="https://content.onliner.by/news/thumbnail/abfff658b4f3602efd6b993bc630d5d8.jpg" /></a></p><p>ГАИ Минска сегодня поделилась хорошей новостью. Окончены работы по реконструкции путепровода на МКАД в районе Липковского проезда. Движение было организовано с нюансами аж с февраля.</p><p><a href="https://auto.onliner.by/2026/07/13/rekonstrukciya-puteprovoda">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Узнали, сколько станций будет у кольцевой ветки метро, как их оформят и когда начнут строить</title>
-      <link>https://realt.onliner.by/go/1116405</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/13/uznali-skolko-stancij-budet</guid>
-      <pubDate>Mon, 13 Jul 2026 06:31:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/13/uznali-skolko-stancij-budet"><img alt="" src="https://content.onliner.by/news/thumbnail/2da0be32deb0f081ce2768868387c979.jpg" /></a></p><p>Четвертая, кольцевая, линия столичного метрополитена будет иметь 15—17 станций. Первые три уже проектируются, а подготовку к строительству планируют начать до конца года. Где пройдет кольцевая, как оформят станции и зачем могут понадобиться 10-метровые тоннелепроходческие щиты, агентству <a href="https://minsknews.by/kolczevaya-liniya-minskogo-metro-kogda-nachnut-stroit-i-gde-projdet-trassa/" target="_blank">«Минск-Новости»</a> рассказал директор института «Минскметропроект» Михаил Рудько.</p><p><a href="https://realt.onliner.by/2026/07/13/uznali-skolko-stancij-budet">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Кристофер Нолан ответил на критику грядущей «Одиссеи»</title>
-      <link>https://tech.onliner.by/go/782328</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/kristofer-nolan-otvetil-na-kritiku-gryadushhej-odissei</guid>
-      <pubDate>Mon, 13 Jul 2026 06:26:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/kristofer-nolan-otvetil-na-kritiku-gryadushhej-odissei"><img alt="" src="https://content.onliner.by/news/thumbnail/82cbe6c4eb0ea3bbbb5148cc39364d97.jpg" /></a></p><p>Релиз нового фильма режиссера Кристофера Нолана «Одиссея» в зарубежном прокате намечен на 17 июля. Вместе с тем нешуточные  споры вокруг картины развернулись задолго до ее выхода — на некоторые мнения в недавнем интервью The Telegraph <a href="https://www.telegraph.co.uk/films/2026/07/10/christopher-nolan-interview-odyssey-backlash/" target="_blank">отреагировал</a> сам Нолан.</p><p><a href="https://tech.onliner.by/2026/07/13/kristofer-nolan-otvetil-na-kritiku-gryadushhej-odissei">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«В Гатово для них сложились все условия». Крыш, где живет так много чаек, в Европе больше нет</title>
-      <link>https://people.onliner.by/go/1315866</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/chajki-v-gatovo</guid>
-      <pubDate>Mon, 13 Jul 2026 06:00:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/chajki-v-gatovo"><img alt="" src="https://content.onliner.by/news/thumbnail/ac16520f322f4c43081f2a305cddb2f4.jpg" /></a></p><p>Вы знали, что под Минском находится гигантский многоквартирный дом для чаек? Именно там зафиксировано самое большое скопление чаек на одной крыше во всей континентальной Европе. Гнездятся птицы на здании кожевенного завода в Гатово. По данным ученых, там живет от 3 до 5 тысяч пар этих птиц. Выяснили, почему они облюбовали это место и как такое скопление птиц может отразиться на жизни городских жителей.
-</p><p><a href="https://people.onliner.by/2026/07/13/chajki-v-gatovo">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«В отпуске не был шесть лет». Поговорили с владельцем бренда, чьи сумки завирусились в соцсетях</title>
-      <link>https://money.onliner.by/go/335983</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/viko-guerra</guid>
-      <pubDate>Mon, 13 Jul 2026 05:00:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/viko-guerra"><img alt="" src="https://content.onliner.by/news/thumbnail/0a17da400bdc1e9d44013dc848b5290b.jpg" /></a></p><p><em>«Я просто хотел себе красивую сумку»,</em> — вспоминает Александр начало своего бизнес-пути восемь лет назад. Оказалось, такое желание разделяют многие люди. Теперь у Александра свое производство, магазины и амбициозные планы, а его кожаные аксессуары покупают в Европе, США и Австралии. Производителей сумок в Беларуси много, но далеко не каждый может позволить себе ставить цену выше среднерыночной и открывать офлайн-бутики. В последнее время изделия Viko Guerra вовсю обсуждают в социальных сетях, а на рынке уже появляются похожие модели от других производителей. Журналистам Onlíner удалось побеседовать с хозяином завирусившегося бренда. Оказалось, были в этой истории и кредит, и релокация, и выгорание. Узнали у молодого человека, чего стоит успех, что остается за кадром и какие перспективы у локальных производителей из Беларуси.</p><p><a href="https://money.onliner.by/2026/07/13/viko-guerra">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Закроешь один глаз, и играть не выйдет». Белорусский врач-инноватор создал лечебный «Тетрис»</title>
-      <link>https://tech.onliner.by/go/781741</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/13/vrach-izobretatel</guid>
-      <pubDate>Mon, 13 Jul 2026 05:00:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/13/vrach-izobretatel"><img alt="" src="https://content.onliner.by/news/thumbnail/d9f37c91b11d10683621937cc3ae319c.jpg" /></a></p><p>Ефим Константинович Сорочкин — белорусский врач-офтальмолог высшей категории, кандидат медицинских наук. При этом не меньший интерес вызывают его изобретения, созданные, как он сам рассказывает, для лечения амблиопии и нарушений бинокулярного зрения с помощью игр. К последним относится «Тетрис», для которого нужны красно-синие очки. Подробнее беседуем с офтальмологом о сути предложенных им еще в 1980-х годах методов. А также расспрашиваем врача, как к нему вообще пришли идеи подобных изобретений. </p><p><a href="https://tech.onliner.by/2026/07/13/vrach-izobretatel">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Намечтала красоту — и езжу по несколько раз в год». Белорусские пенсионерки-путешественницы</title>
-      <link>https://people.onliner.by/go/1315548</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/pensionerki-puteshestvennitsy</guid>
-      <pubDate>Mon, 13 Jul 2026 05:00:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/pensionerki-puteshestvennitsy"><img alt="" src="https://content.onliner.by/news/thumbnail/6e00e46f939e37fa39da7ef89651f292.jpg" /></a></p><p>Кажется, у каждого есть знакомый, который мечтает путешествовать «когда-нибудь потом». Когда дети вырастут. Когда закончится ремонт. Когда станет меньше работы. Когда появятся деньги. Или когда наступит пенсия. Но если для одних это «потом» так и не наступает, то для других становится началом совершенно новой жизни. В совместном с <a href="https://ecolines.by/by/ru" target="_blank">Ecolines</a> проекте мы познакомились с тремя белорусками, которые всерьез увлеклись путешествиями уже после выхода на пенсию, и расспросили, что подтолкнуло их к таким переменам, где они находят силы, деньги и желание снова и снова собирать чемодан.</p><p><a href="https://people.onliner.by/2026/07/13/pensionerki-puteshestvennitsy">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>До полного бака. Обстановка на АЗС от Минска и до самой границы</title>
-      <link>https://auto.onliner.by/go/1255640</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/13/do-polnogo-baka</guid>
-      <pubDate>Mon, 13 Jul 2026 05:00:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/13/do-polnogo-baka"><img alt="" src="https://content.onliner.by/news/thumbnail/fcaa59fb5cebb5153e54e1914717b6bb.jpg" /></a></p><p>Что происходит на автозаправочных станциях в Беларуси? Слухи поползли разные, но верить слухам мы не будем, а вместо этого отправимся в дорогу, чтобы все увидеть своими глазами. Время — самое пиковое: выезжаем в пятницу, перед выходными, когда многие должны бы заливать до полного бака, отправляясь на дачи и в небольшие путешествия, ведь лето в разгаре, даже если по погоде этого не скажешь.</p><p><a href="https://auto.onliner.by/2026/07/13/do-polnogo-baka">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Работаю за границей — значит, „тунеядец“?» Кого сейчас включают в списки и чем это грозит</title>
-      <link>https://money.onliner.by/go/262839</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/13/tuneyadczy</guid>
-      <pubDate>Mon, 13 Jul 2026 04:00:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/13/tuneyadczy"><img alt="" src="https://content.onliner.by/news/thumbnail/57e4ea21ca70884f73f282ee0ff0c4d5.jpg" /></a></p><p>В Беларуси несколько лет ведут базу людей, не занятых в экономике. Самое известное последствие такого статуса — необходимость платить «коммуналку» по полной стоимости. Но это не единственный нюанс: статус влияет на возможность получить некоторые льготы, а также может привести к дополнительному вниманию со стороны налоговой. Разбираемся, кого сейчас могут включить в список незанятых в экономике, кого это не касается и что нужно знать тем, кто работает на себя или за границей.</p><p><a href="https://money.onliner.by/2026/07/13/tuneyadczy">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Выкуп, пещера и восемь лет в плену. 12 самых громких похищений</title>
-      <link>https://realt.onliner.by/go/1116015</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/13/poxitili-pryamo-iz-doma-12-samyx-gromkix-istorij-poxishhenij-v-istorii</guid>
-      <pubDate>Mon, 13 Jul 2026 04:00:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/13/poxitili-pryamo-iz-doma-12-samyx-gromkix-istorij-poxishhenij-v-istorii"><img alt="" src="https://content.onliner.by/news/thumbnail/6b9342c1d195dc33f4a2acdc55641a4b.png" /></a></p><p>Похищения людей являются одними из самых шокирующих и загадочных преступлений в истории. Одни остаются нераскрытыми долгие годы, другие заканчиваются счастливым спасением, а третьи — к сожалению, трагические — навсегда меняют методы и законы расследования преступлений. В этом материале мы расскажем о двенадцати самых громких историях похищений, которые потрясли мир.</p><p><a href="https://realt.onliner.by/2026/07/13/poxitili-pryamo-iz-doma-12-samyx-gromkix-istorij-poxishhenij-v-istorii">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Городские легенды: от голой красной пленки до крокодилов в Свислочи</title>
-      <link>https://people.onliner.by/go/1077392</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/13/urban-myths</guid>
-      <pubDate>Mon, 13 Jul 2026 04:00:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/13/urban-myths"><img alt="" src="https://content.onliner.by/news/thumbnail/1a2d619d5e375234ccd39b7ad14af09c.jpg" /></a></p><p>Смешные и наивные, угрожающие и страшные — каждая эпоха рождает свои легенды, и их не стоит забывать. Мы решили немного повспоминать забавные истории из нашего общего прошлого, далекого и не очень: вечные басни про гигантских опарышей в бочках с квасом, байки про «красную пленку», что круче любого рентгена, ВИЧ-террористах на минских дискотеках и Комаровке, которой было предсказано рухнуть. Собрали самые громкие и известные из них.</p><p><a href="https://people.onliner.by/2026/07/13/urban-myths">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Под Минском прошел тест-драйв-фестиваль китайских мотоциклов</title>
-      <link>https://auto.onliner.by/go/1255747</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/12/pod-minskom-proshel-test-drajv-festival-kitajskix-motociklov</guid>
-      <pubDate>Sun, 12 Jul 2026 19:23:04 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/12/pod-minskom-proshel-test-drajv-festival-kitajskix-motociklov"><img alt="" src="https://content.onliner.by/news/thumbnail/90d800a909cfbfe0f6c24a6dc616cf38.jpg" /></a></p><p>В Раубичах вчера прошел первый открытый тест-драйв-фестиваль китайских мотоциклов. Организаторы пообещали живую атмосферу, тест-драйвы, много мотоциклов и их любителей. Приглашали как тех, кто давно живет мотокультурой, так и тех, кто только собирается купить первый в своей жизни мотоцикл. Публикуем подборку сочных фотографий о том, как прошло это событие.</p><p><a href="https://auto.onliner.by/2026/07/12/pod-minskom-proshel-test-drajv-festival-kitajskix-motociklov">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Сегодня вузы начали принимать документы у абитуриентов (обновлено)</title>
-      <link>https://people.onliner.by/go/1316305</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/12/segodnya-vuzy-nachali-prinimat-dokumenty-na-byudzhet</guid>
-      <pubDate>Sun, 12 Jul 2026 18:11:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/12/segodnya-vuzy-nachali-prinimat-dokumenty-na-byudzhet"><img alt="" src="https://content.onliner.by/news/thumbnail/b0efa09b20c0675076ff8fb05edb56d1.jpg" /></a></p><p>Сегодня белорусские вузы начали принимать документы на бюджетное и платное обучение. Прием на бюджет продлится до 17 июля, но традиционно в первый день возле приемных комиссий наибольший ажиотаж. Показываем, какая обстановка была в БГУ и БГУИР сегодня, на старте основного этапа вступительной кампании.</p><p><a href="https://people.onliner.by/2026/07/12/segodnya-vuzy-nachali-prinimat-dokumenty-na-byudzhet">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Мужчина прогулял за ночь на Зыбицкой 2000 рублей, вот где их взял</title>
-      <link>https://money.onliner.by/go/336419</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/12/muzhchina-progulyal-za-noch-na-zybickoj-2000-rublej-no-dengi-byli-ne-ego</guid>
-      <pubDate>Sun, 12 Jul 2026 15:35:25 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/12/muzhchina-progulyal-za-noch-na-zybickoj-2000-rublej-no-dengi-byli-ne-ego"><img alt="" src="https://content.onliner.by/news/thumbnail/eceb0490d6edcb679993696a7079c34c.jpg" /></a></p><p>20-летний парень отдыхал на Зыбицкой и за ночь потратил 2000 рублей. Владельцем денег оказался совсем другой человек, он отдыхал в том же заведении и не планировал закрывать чужие счета.</p><p><a href="https://money.onliner.by/2026/07/12/muzhchina-progulyal-za-noch-na-zybickoj-2000-rublej-no-dengi-byli-ne-ego">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>I Mined and Built My Way Through Space Haven</title>
