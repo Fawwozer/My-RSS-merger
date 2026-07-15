@@ -5,17 +5,130 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 15 Jul 2026 02:26:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:09:14 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>8 Linux Handheld Computers You Can Splurge On</title>
-      <link>https://feed.itsfoss.com/link/24361/17376876/linux-handhelds</link>
-      <guid isPermaLink="false">6a4e2b3e8181fe0001a597b6</guid>
-      <pubDate>Sun, 12 Jul 2026 06:00:22 +0000</pubDate>
-      <description><![CDATA[<p>As consumers, we are used to correlating handhelds with the big names like Valve's Steam Deck, Lenovo's Legion Go, and ASUS' ROG Ally. But these machines are geared towards gaming and are priced like it too.</p><p>Lately, a different segment has been getting just as much attention. Indie creators and small hardware outfits who are shipping handhelds built around open hardware, swappable parts, and running full Linux distros.</p><p>We have picked out eight such handhelds that range from fully assembled devices to bring-your-own board kits that expect you to bring your own board, battery, and storage.</p><h2 id="1-cardputerzero">1. CardputerZero</h2><figure class="kg-card kg-image-card"><img alt="cardputerzero" class="kg-image" height="675" src="https://itsfoss.com/content/images/2026/07/cardputerzero.png" width="1200" /></figure><p><a href="https://m5stack.com/?ref=itsfoss.com">M5Stack</a> has kept its Cardputer line going since 2023, updating it every so often. The original ran on an ESP32-S3, and so did the follow-up, the Cardputer-Adv, just with a bigger battery and more sensors bolted on. Howeverm, neither of them ran real Linux.</p><p>The <a href="https://shop.m5stack.com/pages/m5-cardputerzero?ref=itsfoss.com">CardputerZero</a> changes that. It swaps the ESP32 for a <strong>Raspberry Pi Compute Module Zero</strong>, which is equipped with a Broadcom BCM2837 with a quad-core Cortex-A53 running at 1GHz and 512MB of RAM.</p><p>You get a 1.9-inch non-touch LCD with HDMI output up to 1080p, a 46-key keyboard, and a 1500mAh battery to keep it running, all of which fits into an 84 x 54 x 23.1mm shell you could mistake for a fat credit card.</p><p>The <em>Standard</em> model throws in an 8MP camera and a full IMU sensor suite; features the cheaper <em>Lite</em> version drops entirely. Both variants keep Wi-Fi, Bluetooth, Ethernet, and a built-in app store that lets you flash community firmware without requiring a computer.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kickstarter.com/projects/m5stack/cardputerzero">Check it Out</a></div><p><strong>Suggested Read &#128214;:</strong><em> </em><a href="https://itsfoss.com/news/cardputerzero-crowdfunding/"><em>This Credit Card-Sized Linux Box Has a Keyboard</em></a></p><h2 id="2-mecha-comet">2. Mecha Comet</h2><figure class="kg-card kg-image-card"><img alt="Mecha Comet" class="kg-image" height="1120" src="https://itsfoss.com/content/images/2026/07/new-comet.jpg" width="1120" /></figure><p>The <a href="https://mecha.so/comet" rel="noreferrer">Mecha Comet</a> looks like a chunky Android phone at first glance, until you notice the 40-pin magnetic connector running along the bottom edge. Snap on a QWERTY keyboard with a trackpad, a gamepad with a dual D-pad, or a bare GPIO breakout, and the same device becomes a different tool entirely.</p><p>For the software, it runs <strong>Mechanix</strong>, Mecha's own Fedora-based distro powered by Linux 6.12, with the bootloader, kernel, and root filesystem all being published as open source. They are also committing to releasing the full PCB schematics once mass production starts.</p><p>You get to choose between two configurations; the cheaper one will get you an <strong>NXP i.MX 8M Plus</strong>, a quad-core Cortex-A53 clocked at 1.8GHz, paired with 4GB or 8GB of LPDDR4 RAM. Step up to the higher tier, and you get an <strong>i.MX 95</strong> with a six-core Cortex-A55 setup, yielding roughly double the GPU throughput.</p><p>Both of these are equipped with an NPU and share the same 3.92-inch AMOLED touchscreen that outputs at 1080 x 1240.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://hub.mecha.so/preorder">Check it Out</a></div><figure class="kg-card kg-embed-card"></figure><h2 id="3-orange-pi-neo">3. Orange Pi Neo</h2><figure class="kg-card kg-image-card"><img alt="orange pi neo" class="kg-image" height="446" src="https://itsfoss.com/content/images/2026/07/orange-pi-neo.png" width="1029" /></figure><p>The <a href="https://neo.manjaro.org/?ref=itsfoss.com">Orange Pi Neo</a> has been in the works since early 2024, being built as a joint effort between <strong>Orange Pi</strong> and <strong>Manjaro Linux</strong>.</p><p>The planned hardware for it is an AMD Ryzen 7 7840U chip, a 7-inch 1920x1200 display running at 120Hz, dual touchpads modeled after the Steam Deck's, and Hall effect joysticks with RGB lighting.</p><p>Sadly, <a href="https://itsfoss.com/news/orange-pi-neo-delayed/">it is running quite late</a>, and the recent hike in DDR5 RAM and SSD prices has only added to the delay, with Philip M&uuml;ller, Manjaro's project lead, saying that they are waiting for a good time to launch.</p><p>I added this to the list because, on paper, this looks like a capable Linux-powered handheld; would've been a bummer to skip.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://neo.manjaro.org/?ref=itsfoss.com">Check it Out</a></div><h2 id="4-pocketterm35">4. PocketTerm35</h2><figure class="kg-card kg-image-card"><img alt="pocketterm35" class="kg-image" height="600" src="https://itsfoss.com/content/images/2026/07/pocketterm35.png" width="1100" /></figure><p>Waveshare has designed the <a href="https://www.waveshare.com/pocketterm35.htm">PocketTerm35</a> around a dedicated RP2040 microcontroller that handles the keyboard, screen brightness, and volume control duties, freeing up the main board to just run Linux.</p><p>That main board can either be a <strong>Raspberry Pi 4B</strong> or a <strong>Pi 5</strong>, both of which slot in as the actual compute hardware doing the work. Software-wise, it runs a full Linux desktop with a terminal and command-line tools included, and it's compatible with <strong>RetroPie</strong> for retro gaming.</p><p>It is sold in four different configurations. Two come with a Pi 4B or Pi 5 already installed along with a preloaded SD card and heatsink, and two are accessory-only kits for anyone supplying their own board.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.waveshare.com/pocketterm35.htm">Check it Out</a></div><h2 id="5-pibrick-pocketcm5">5. piBrick PocketCM5</h2><figure class="kg-card kg-embed-card"></figure><p>Ahmad Amarullah, <a href="https://amarullz.com/2026/06/03/pibrick-pocketcm5-open-source-handheld-computer/">an Indonesian maker</a>, has spent considerable time refining what eventually became the <a href="https://github.com/amarullz/piBrick">piBrick PocketCM5</a>. The final design pairs a <strong>Raspberry Pi CM5</strong> with a <strong>BlackBerry BBQ20 keyboard</strong>, complete with its own integrated trackpad, inside a compact 80 x 145 x 19.6mm shell.</p><p>The screen is a 3.92-inch AMOLED panel running at 1080 x 1240 and a 90Hz refresh rate, output over MIPI/DSI. Full-size HDMI and micro-HDMI are both present too, so you're never lacking in ways to get an image onto a bigger screen.</p><p>Ports are expansive for something this size. You get 1x USB 3 Type-A, 1x USB 3 Type-C, 1x USB 2 Type-C, and 1x USB 2 Type-A, plus an internal USB 2.0 header, an I2C connector, and a GPIO extension header for anyone who wants to wire something in.</p><p>Every part of it, the PCB schematics, the 3D-printable case, and the keyboard firmware, is published openly on <a href="https://github.com/amarullz/piBrick/tree/main/Pocket-CM5">GitHub</a>. The full DIY kit without the CM5 is listed on <a href="https://www.tindie.com/products/amarullz/pibrick-pocketcm5-kit-for-raspberry-pi-cm5/">Tindie</a> but was out of stock at the time of writing.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://github.com/amarullz/piBrick/tree/main/Pocket-CM5">Check it Out</a></div><h2 id="6-pilet">6. Pilet</h2><figure class="kg-card kg-image-card"><img alt="pliet 5 and pilet 7" class="kg-image" height="991" src="https://itsfoss.com/content/images/2026/07/pliet-5-pilet-7.jpg" width="1788" /></figure><p>soulscircuit's <a href="https://soulscircuit.com/pilet?ref=itsfoss.com">Pilet</a> hit its <a href="https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/">Kickstarter</a> goal within five minutes of its debut. It is pitched as a retro open source computer that was initially built to house the Raspberry Pi 5, but, later, switched to the <strong>Raspberry Pi CM5</strong> instead.</p><p>While <a href="https://itsfoss.com/news/pilet-handeld/">my original coverage</a> of it did insinuate that the board was included, the original listing never mentioned that was the case. The <a href="https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/posts/4654610">change in board requirements</a> did stir up disappointment among backers, but the creators <a href="https://www.kickstarter.com/projects/soulscircuit/pilet-opensource-modular-portable-mini-computer/posts/4682709">have pushed forward</a>.</p><p>It is offered in two sizes, the 5-inch <strong>Pilet 5</strong> with a retro console layout, and the 7-inch <strong>Pilet 7</strong>, a tablet variant running <a href="https://itsfoss.com/kde-plasma-widgets/">KDE Plasma</a>. Both share a 1280x800 touchscreen and a custom battery module for USB charging.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://soulscircuit.com/pilet?ref=itsfoss.com">Check it Out</a></div><h2 id="7-rootboard">7. RootBoard</h2><figure class="kg-card kg-image-card"><img alt="rootboard" class="kg-image" height="720" src="https://itsfoss.com/content/images/2026/07/rootboard.png" width="1280" /></figure><p><a href="https://www.kickstarter.com/projects/dian-lieu/rootboard/">RootBoard</a> is a pocket-sized Linux terminal designed by tinkerer Dian Lieu, built as an open hardware shell rather than a finished gadget. The keyboard controller, firmware, and software are all left fully open for makers to inspect and modify.</p><p>The shell wraps a 3.5-inch color display with a 70-key QWERTY keyboard and a built-in speaker, but there's no touchscreen here. You navigate using the keyboard or an external mouse instead.</p><p>And you will need a Raspberry Pi <strong>Zero</strong>,<strong> Zero W</strong>, or <strong>Zero 2 W</strong>, as the RootBoard doesn't feature a CPU, memory, or storage.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.kickstarter.com/projects/dian-lieu/rootboard/">Check it Out</a></div><h2 id="8-mnt-pocket-reform">8. MNT Pocket Reform</h2><figure class="kg-card kg-embed-card"></figure><p>A German outfit, called <a href="https://mntre.com/about.html">MNT Research</a> has come up with the <a href="https://shop.mntre.com/products/mnt-pocket-reform">MNT Pocket Reform</a>, their take on a compact Linux handheld that takes pointers from the <a href="https://mntre.com/reform.html">Reform</a> laptop series.</p><p>It ships with <strong>Debian</strong> preinstalled, with custom versions of GNOME and Sway both preloaded as desktop options. Schematics, firmware, and case design files are all published <a href="https://source.mnt.re/reform/pocket-reform">under an open license</a>, along with the rest of the Reform hardware lineup.</p><p>If you go for this, you get to <strong>pick between three processor modules</strong>, an NXP i.MX8M Plus (<em>via </em><a href="https://www.crowdsupply.com/mnt/pocket-reform"><em>Crowd Supply</em></a>), a Rockchip RK3588, or a Qualcomm QCS6490. You can swap between them later since the CPU sits as a removable card rather than being soldered down.</p><p>There's also the 7-inch display that sits above a mechanical ortholinear keyboard and an optical trackball.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://shop.mntre.com/products/mnt-pocket-reform">Check it Out</a></div><hr /><p><strong>Suggested Read &#128214;:</strong> <em>If you are interested in Raspberry Pi-powered handhelds, we have </em><a href="https://itsfoss.com/raspberry-pi-handhelds/"><em>a separate list</em></a><em> for that.</em></p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17376876.gif" width="1" />]]></description>
-      <category>List 📋</category>
+      <title>В самом центре квартала. В «Гранд Вилладж» предложили 25 квартир</title>
+      <link>https://realt.onliner.by/go/1117122</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/15/v-samom-centre-kvartala-v-grand-villadzh-predlozhili-25-kvartir</guid>
+      <pubDate>Wed, 15 Jul 2026 07:58:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/15/v-samom-centre-kvartala-v-grand-villadzh-predlozhili-25-kvartir"><img alt="" src="https://content.onliner.by/news/thumbnail/bf73a7e0ee708132c9cf757efd067a35.jpg" /></a></p><p>Жилой комплекс «Гранд Вилладж», удачно «севший» на свободные гектары в Тарасово, продолжает расти и развиваться. Сегодня всем желающим предложили квартиры в объекте №12 по генплану. Это дом на три подъезда, высотой всего 6—7 этажей (в зависимости от секции). Находится многоквартирник в самом центре квартала. И имеет достаточно высокую степень готовности.</p><p><a href="https://realt.onliner.by/2026/07/15/v-samom-centre-kvartala-v-grand-villadzh-predlozhili-25-kvartir">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Преступника нашли спустя 17 лет: он убил целую семью и сбросил с моста человека. Подробности СК</title>
+      <link>https://people.onliner.by/go/1316983</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/15/spustya-17-let-najden-podozrevaemyj-v-ubijstve-muzhchiny-v-90-e-on-ubil-celuyu-semyu</guid>
+      <pubDate>Wed, 15 Jul 2026 07:35:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/15/spustya-17-let-najden-podozrevaemyj-v-ubijstve-muzhchiny-v-90-e-on-ubil-celuyu-semyu"><img alt="" src="https://content.onliner.by/news/thumbnail/6bf1db2ccb64a6181a06f5bf809f681e.jpg" /></a></p><p>В 2009 году в Буда-Кошелевском районе у моста было найдено тело мужчины с признаками насильственной смерти. Лишь спустя 17 лет следователи вышли на след подозреваемого. Подробностями этого дела <a href="https://sk.gov.by/ru/news-usk-gomel-ru/preview/ustanovlen-podozrevaemyj-v-ubijstve-muzhchiny-v-buda-koshelevskom-rajone-17-let-nazad-16173" target="_blank">поделился</a> Следственный комитет.</p><p><a href="https://people.onliner.by/2026/07/15/spustya-17-let-najden-podozrevaemyj-v-ubijstve-muzhchiny-v-90-e-on-ubil-celuyu-semyu">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Доллар резко дорожает</title>
+      <link>https://money.onliner.by/go/336844</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/15/dollar-rezko-dorozhaet-3</guid>
+      <pubDate>Wed, 15 Jul 2026 07:32:25 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/15/dollar-rezko-dorozhaet-3"><img alt="" src="https://content.onliner.by/news/thumbnail/e2e2a0cd4c629a3b7f09cbbeca26ecf0.jpg" /></a></p><p>В среду, 15 июля, доллар резко начал дорожать. Тем временем биткоин за последние сутки вырос, сейчас находится вблизи отметки $64 638.
+</p><p><a href="https://money.onliner.by/2026/07/15/dollar-rezko-dorozhaet-3">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Новые хиты? Xiaomi представила смартфоны Redmi Note 17 и 17 Pro</title>
+      <link>https://tech.onliner.by/go/782638</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/15/xiaomi-predstavila-smartfony-redmi-note-17-i-17-pro</guid>
+      <pubDate>Wed, 15 Jul 2026 07:11:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/15/xiaomi-predstavila-smartfony-redmi-note-17-i-17-pro"><img alt="" src="https://content.onliner.by/news/thumbnail/14e0830ab4e9b6e13583977a1de1fbfe.jpg" /></a></p><p><p dir="ltr">Xiaomi представила в Китае новую серию бюджетных смартфонов Redmi. Note 17 и 17 Pro отличаются большими размерами экранов и внушительными аккумуляторами. Note 17 оснащен 7-дюймовой OLED-панелью — самая большой из когда-либо интегрированных в устройства Redmi. А у Pro-модели аккумулятор на 9000 мАч.</p><p><a href="https://tech.onliner.by/2026/07/15/xiaomi-predstavila-smartfony-redmi-note-17-i-17-pro">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Видео: водитель Renault не справился с управлением, врезался в две машины и вылетел с дороги (видео)</title>
+      <link>https://auto.onliner.by/go/1256138</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/15/vyletel-s-dorogi-2</guid>
+      <pubDate>Wed, 15 Jul 2026 06:49:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/15/vyletel-s-dorogi-2"><img alt="" src="https://content.onliner.by/news/thumbnail/12590ce4592f84f737273caa802a5bb7.jpg" /></a></p><p>Вчера днем 50-летний водитель Renault ехал по проспекту Дзержинского и рядом с домом №26 врезался в попутные Hyundai и Kia. После столкновения он выехал за пределы проезжей части.</p><p><a href="https://auto.onliner.by/2026/07/15/vyletel-s-dorogi-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Белорус фиктивно продал имущество родственнице, чтобы не платить долг. Это не помогло</title>
+      <link>https://money.onliner.by/go/336828</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/15/belorus-fiktivno-prodal</guid>
+      <pubDate>Wed, 15 Jul 2026 06:47:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/15/belorus-fiktivno-prodal"><img alt="" src="https://content.onliner.by/news/thumbnail/b54c28baf5044a6c90e9c66506423b10.jpg" /></a></p><p>Житель Могилева попытался скрыть свое имущество от принудительного взыскания, оформив фиктивную продажу автомобиля родственнице. Однако после вмешательства прокуратуры он полностью погасил задолженность.</p><p><a href="https://money.onliner.by/2026/07/15/belorus-fiktivno-prodal">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Снаружи — замок, внутри — жилье минималиста. Как все это уживается в коттедже под Минском?</title>
+      <link>https://realt.onliner.by/go/1116953</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/15/snaruzhi-zamok</guid>
+      <pubDate>Wed, 15 Jul 2026 06:41:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/15/snaruzhi-zamok"><img alt="" src="https://content.onliner.by/news/thumbnail/298a991ddab916171b7c1f28f477617b.jpg" /></a></p><p>Внешность обманчива. Это касается не только людей, но и объектов недвижимости. Не стоит доверять фасадам частных домов, ведь зачастую за ними скрываются совершенно неожиданные интерьеры. Недавно мы рассказывали про скромный <a href="https://realt.onliner.by/2026/07/06/snaruzhi-skromnyj-dom" target="_blank">коттедж</a>, который внутри выглядит как тяжелый люкс. А теперь заглянем в настоящий <a href="https://r.onliner.by/pk/apartments/1263959" target="_blank">замок</a>, в помещениях которого воплощены не королевские покои, а пространства для минималиста. </p><p><a href="https://realt.onliner.by/2026/07/15/snaruzhi-zamok">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>«Будет вкусно»: минчан зовут на второй в этом сезоне пикник Vulitsa Ezha</title>
+      <link>https://people.onliner.by/go/1316869</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/15/budet-vkusno-minchan-zovut-na-vtoroj-v-etom-sezone-piknik-vulitsa-ezha</guid>
+      <pubDate>Wed, 15 Jul 2026 06:30:46 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/15/budet-vkusno-minchan-zovut-na-vtoroj-v-etom-sezone-piknik-vulitsa-ezha"><img alt="" src="https://content.onliner.by/news/thumbnail/89a1fabf6dcfec0b4bef1dc67b098b05.jpg" /></a></p><p>Второй городской пикник Vulitsa Ezha пройдет 18 и 19 июля в Ботаническом саду. Организаторы обещают: будет вкусно. На этот раз гостей ждут 26 фудкортов с авторским фестивальным меню — от уличной классики до эксклюзивных блюд.</p><p><a href="https://people.onliner.by/2026/07/15/budet-vkusno-minchan-zovut-na-vtoroj-v-etom-sezone-piknik-vulitsa-ezha">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>От миллионов пользователей до забвения: истории самых громких провалов социальных сетей (видео)</title>
+      <link>https://tech.onliner.by/go/782519</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/15/pogibshie-socseti</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/15/pogibshie-socseti"><img alt="" src="https://content.onliner.by/news/thumbnail/635900bd755fe8f5439c0869806854ac.jpg" /></a></p><p>Не так давно эти социальные сети поднимали на уши весь интернет. Казалось, что они встанут в один ряд с самыми успешными платформами, без которых сегодня невозможно представить онлайн-среду. Однако, сумев быстро привлечь миллионы пользователей, эти проекты вскоре оказались на кладбище стартапов или на задворках интернета. Но что пошло не так? Вспоминаем соцсети, которые смогли добиться громкого успеха и повлиять на индустрию, но не остались с нами надолго.</p><p><a href="https://tech.onliner.by/2026/07/15/pogibshie-socseti">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«За роды выставили счет в $50 тысяч». Белоруска переехала к мужу в Техас и завела блог</title>
+      <link>https://people.onliner.by/go/1315808</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/15/beloruska-v-amerike</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/15/beloruska-v-amerike"><img alt="" src="https://content.onliner.by/news/thumbnail/64458a094fba4e1bca709463f754d1c3.jpg" /></a></p><p>Оксана вместе с мужем и полуторагодовалым сыном живет в техасском Хьюстоне. В Instagram ведет популярный блог, в котором рассказывает о буднях в Штатах и устраивает тест-драйв белорусских продуктов для американских родственников. В Минск наша героиня приехала с сыном, чтобы навестить родных. Мы общаемся на уютной кухне в квартире ее родителей. Говорим о жизни в США: сколько там стоят роды и уход за детьми, легко ли найти друзей среди американцев и чем ее мужу так полюбился «новоспорог» (глазированные сырки).</p><p><a href="https://people.onliner.by/2026/07/15/beloruska-v-amerike">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Все случилось на ровном месте». У этого M-Hero сломался рычаг передней подвески в центре Минска (видео)</title>
+      <link>https://auto.onliner.by/go/1256067</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/15/vladelec-m-hero-o-problemax-s-mashinoj</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/15/vladelec-m-hero-o-problemax-s-mashinoj"><img alt="" src="https://content.onliner.by/news/thumbnail/05f3334ce63ee45c0e8e88c0a6e328d5.jpg" /></a></p><p>С брутальным внедорожником <a href="https://auto.onliner.by/2024/02/14/m-hero-917" target="_blank">M-Hero 917</a> белорусы познакомились в 2024 году. Крабовый ход, умная пневмоподвеска, мощность более 800 сил, поразительная динамика для таких габаритов… Герой удивлял, в том числе ценой: более $104 760 по курсу. Время прошло, стали появляться первые развернутые отзывы от белорусских владельцев. Мы уже <a href="https://auto.onliner.by/2026/04/06/otzyv-na-m-hero-917-so-100-000-km-probega" target="_blank">общались</a> с хозяином машины, который проехал 100 000 км и остался очень доволен. А сегодня поговорим с человеком, который преодолел всего лишь 17 000 км, но, по его словам, уже собрал целый букет «болячек». Это и сломанный рычаг (автомобиль «лег на пузо» прямо в центре Минска), и протекающая крыша (точнее, как оказалось, не совсем крыша), и проблемы с парктрониками, подножкой… Еще больше владельца дорогого внедорожника удивляют цены на запчасти: например, по его словам, за экран мультимедиа попросили больше $10 000. Как все претензии прокомментирует продавец и что планирует делать с машиной ее владелец?</p><p><a href="https://auto.onliner.by/2026/07/15/vladelec-m-hero-o-problemax-s-mashinoj">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Жители деревни ушли под землю и прожили в рукотворных тоннелях шесть лет. Зачем?</title>
+      <link>https://realt.onliner.by/go/1117035</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/15/zhiteli-derevni</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/15/zhiteli-derevni"><img alt="" src="https://content.onliner.by/news/thumbnail/9b206d0594e30d4a876d7df6c41a8832.jpg" /></a></p><p>Представьте деревню, в которой рожают детей на глубине 20 метров, еду готовят так, чтобы дым не выдал расположение населенного пункта, а самая обычная прогулка на поверхность превращается в миниатюрную спецоперацию. Причем это не декорации к фильму, а реальная жизнь, которую когда-то вели примерно 400 человек около шести лет. Деревня Виньмок во вьетнамской провинции Куангчи оказалась ровно на линии фронта холодной войны, ставшей в итоге горячей, и жители вместо эвакуации сделали неожиданный выбор: ушли под землю. В буквальном смысле. Три этажа тоннелей, вырытых вручную лопатами, пережили почти 2000 дней непрерывных бомбардировок, но за это время деревня не потеряла ни одного жителя. Сегодня туда возят туристов, а тогда, 60 лет назад, спуск под землю был единственным способом остаться в живых и не покинуть родную землю.</p><p><a href="https://realt.onliner.by/2026/07/15/zhiteli-derevni">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Работники ненавидят это в начальниках. Разбираем 12 спорных ситуаций, за которые могут уволить</title>
+      <link>https://money.onliner.by/go/330854</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/15/12-istorij-o-sotrudnikah</guid>
+      <pubDate>Wed, 15 Jul 2026 05:00:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/15/12-istorij-o-sotrudnikah"><img alt="" src="https://content.onliner.by/news/thumbnail/8bdbf2aae3b3a4a8936cdfd39665b89e.jpg" /></a></p><p>Как быть, если сотрудник постоянно опаздывает, отказывается работать сверхурочно, с отсутствующим видом сидит на планерках, болезненно реагирует на критику? Где та грань, после которой индивидуальная особенность превращается в проблему, которую пора решать увольнением? <em>«Если сотрудник дает отличные результаты, гибкость руководителя — это форма поощрения»,</em> — считает Александр Высоцкий, бизнес-консультант и эксперт по системному управлению. Он рассказал нам, когда руководителю стоит проявить терпение в отношении сложных сотрудников, а когда пора начинать «махать шашкой». Приводим в материале 12 реальных ситуаций, в которых, кстати, проблема не всегда в сотруднике, а иногда и в руководителе, вовремя не принявшем нужные меры.</p><p><a href="https://money.onliner.by/2026/07/15/12-istorij-o-sotrudnikah">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>DDR4 или DDR5: рейтинг оперативной памяти и цены в 2026 году</title>
+      <link>https://tech.onliner.by/go/742509</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/15/rejting-operativnoj-pamyati-2025-goda-ceny-sovety-i-top-modelej</guid>
+      <pubDate>Wed, 15 Jul 2026 04:00:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/15/rejting-operativnoj-pamyati-2025-goda-ceny-sovety-i-top-modelej"><img alt="" src="https://content.onliner.by/news/thumbnail/9f86c4fd6eb536a6dbcff73c2d6f8725.jpg" /></a></p><p>Память — одна из тех комплектующих, цены на которые могут заметно меняться всего за несколько месяцев. Если в начале года стоимость большинства комплектов уже сложно было назвать низкой, то к середине 2026-го оперативная память подорожала еще сильнее. Тем не менее без ОЗУ компьютер работать не сможет, а значит как-то нужно выкручиваться. В этом материале мы расскажем, как выбрать оперативную память для ПК, а также поможем вам найти минимальные цены Каталога Onlíner. Все модели и цены обновляются автоматически — сохраняйте материал в закладки, чтобы не потерять.
+<p dir="ltr"></p><p><a href="https://tech.onliner.by/2026/07/15/rejting-operativnoj-pamyati-2025-goda-ceny-sovety-i-top-modelej">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Почему насекомые кусают именно вас? 6 вещей, которые вы делаете не так</title>
+      <link>https://people.onliner.by/go/1316723</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/15/ukus-nasekomogo-chto-delat</guid>
+      <pubDate>Wed, 15 Jul 2026 04:00:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/15/ukus-nasekomogo-chto-delat"><img alt="" src="https://content.onliner.by/news/thumbnail/0d35f72969d6918f003d688127e12163.jpg" /></a></p><p>Есть мнение, что для человека без аллергии смертельными станут плюс-минус 500 укусов насекомых. Это число кажется практически нереальным, но даже один укус может доставить серьезные неприятности или просто испортить отдых. Как этого избежать, в какие моменты панику можно отставить, а когда — выкрутить на максимум? Собрали всю полезную информацию в одном гайде.</p><p><a href="https://people.onliner.by/2026/07/15/ukus-nasekomogo-chto-delat">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
     </item>
     <item>
       <title>В Витебске ребенок на велосипеде влетел в легковушку</title>
@@ -74,144 +187,12 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Volkswagen Group сократит модельный ряд вдвое. Каких авто лишимся?</title>
-      <link>https://auto.onliner.by/go/1256040</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/14/volkswagen-group-sokratit</guid>
-      <pubDate>Tue, 14 Jul 2026 14:14:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/14/volkswagen-group-sokratit"><img alt="" src="https://content.onliner.by/news/thumbnail/c46ca1eb99e4a422fa937fd1718e5b24.jpg" /></a></p><p>Немецкий концерн продолжает бегство от кризиса и, как пишут зарубежные СМИ, намерен серьезно урезать свои расходы по производству автомобилей. Причем не только за счет сокращения персонала, но и благодаря отказу от нишевых и низкомаржинальных моделей. Какие из них уйдут в историю?</p><p><a href="https://auto.onliner.by/2026/07/14/volkswagen-group-sokratit">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Компании из США разрешили отправить в космос гигантское зеркало — и вот для чего</title>
-      <link>https://tech.onliner.by/go/782595</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/14/kompanii-iz-ssha-razreshili-otpravit-v-kosmos-gigantskoe-zerkalo-i-vot-dlya-chego</guid>
-      <pubDate>Tue, 14 Jul 2026 14:03:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/14/kompanii-iz-ssha-razreshili-otpravit-v-kosmos-gigantskoe-zerkalo-i-vot-dlya-chego"><img alt="" src="https://content.onliner.by/news/thumbnail/7c1accc630ff7e2dd3b41ebb0f056c82.jpg" /></a></p><p>Разрешение на запуск космического зеркала после одобрения Федеральной комиссии по связи США получила калифорнийская компания Reflect Orbital. Речь идет о спутнике Eärendil-1, названном в честь персонажа Толкина: он нужен для того, чтобы перенаправить солнечный свет на определенные участки Земли после наступления темноты.</p><p><a href="https://tech.onliner.by/2026/07/14/kompanii-iz-ssha-razreshili-otpravit-v-kosmos-gigantskoe-zerkalo-i-vot-dlya-chego">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В соцсетях пишут о пугающем происшествии на витебской трассе</title>
-      <link>https://auto.onliner.by/go/1256039</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/14/o-proisshestvii-na-vitebskoj-trasse</guid>
-      <pubDate>Tue, 14 Jul 2026 13:53:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/14/o-proisshestvii-na-vitebskoj-trasse"><img alt="" src="https://content.onliner.by/news/thumbnail/81d4b9fdd0016e526fe927495b082453.jpg" /></a></p><p>Канал <a href="https://www.threads.com/@1polotsk_i_novopolotsk/post/DaxZm8OimWH?xmt=AQG0OoKXi7g2lcWYkS-8AUpyYKg1YCnTW-tI58nXFu37wtNPQJsdJAvOfFI_O0-zwndd-v0" target="_blank">«Новополоцк-Полоцк-Новости»</a> в TikTok сообщил о серьезном происшествии на трассе М3 (Минск — Витебск) недалеко от Логойска. Сообщается, что с путепровода рухнул прицеп с бревнами.</p><p><a href="https://auto.onliner.by/2026/07/14/o-proisshestvii-na-vitebskoj-trasse">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В швейцарских Альпах погиб белорус</title>
-      <link>https://people.onliner.by/go/1316906</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/14/v-shvejcarskix-alpax-pogib-belorus</guid>
-      <pubDate>Tue, 14 Jul 2026 13:48:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/14/v-shvejcarskix-alpax-pogib-belorus"><img alt="" src="https://content.onliner.by/news/thumbnail/d6bf1fd344a0d3ed00b5903e89f66746.jpg" /></a></p><p>Информацию о гибели белорусского альпиниста БЕЛТА <a href="https://belta.by/society/view/mid-podtverdil-gibel-grazhdanina-belarusi-v-shvejtsarskih-alpah-791211-2026/" target="_blank">подтвердили</a> в МИД.</p><p><a href="https://people.onliner.by/2026/07/14/v-shvejcarskix-alpax-pogib-belorus">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Еще недавно здесь ели и плясали. Как выглядит опустевшая «Песочница»</title>
-      <link>https://realt.onliner.by/go/1116998</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/14/kak-vyglyadit-opustevshaya-pesochnica</guid>
-      <pubDate>Tue, 14 Jul 2026 13:32:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/14/kak-vyglyadit-opustevshaya-pesochnica"><img alt="" src="https://content.onliner.by/news/thumbnail/485c60dc778c8d624bd298aba3571ad9.jpg" /></a></p><p>В мае этого года стало известно: одна из самых тусовочных локаций Минска прекращает свое существование. «Рассыпалась» «Песочница», радовавшая горожан едой и легкой атмосферой на протяжении восьми лет. «<em>Договор аренды расторгнут. На данный момент неясно, что будет с проектом дальше. Пока приоритетная задача — освободить занимаемые площади»</em><em>,</em> — так объяснили происходящее авторы проекта.</p><p><a href="https://realt.onliner.by/2026/07/14/kak-vyglyadit-opustevshaya-pesochnica">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Один из мобильных операторов запускает свой платежный сервис (обновлено)</title>
-      <link>https://money.onliner.by/go/336753</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/14/odin-iz-mobilnyx-operatorov-zapuskaet-svoj-pay-servis</guid>
-      <pubDate>Tue, 14 Jul 2026 12:50:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/14/odin-iz-mobilnyx-operatorov-zapuskaet-svoj-pay-servis"><img alt="" src="https://content.onliner.by/news/thumbnail/66f32dd054e31586c1e2bc434255be84.jpg" /></a></p><p>С 12 августа 2026 года компания А1 вводит собственный платежный сервис A1 Pay, который позволит платить за товары и услуги в интернете прямо с баланса мобильного телефона. Информация об этом <a href="https://a1.by/be/company/news/vstrechajte-a1-pay-novyj-sposob-oplachivat-pokupki-s-balansa-mobilnogo-nomera-a1/p/vstrechajte-a1-pay" target="_blank">появилась</a> на сайте компании. Уточнили, где можно будет им рассчитываться.</p><p><a href="https://money.onliner.by/2026/07/14/odin-iz-mobilnyx-operatorov-zapuskaet-svoj-pay-servis">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Это что-то из GTA? Хаос на городской улице и на трассе попал на видео (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1254954</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/14/udivitelnye-priklyucheniya</guid>
-      <pubDate>Tue, 14 Jul 2026 12:40:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/14/udivitelnye-priklyucheniya"><img alt="" src="https://content.onliner.by/news/thumbnail/5e76068f2d1ec24a8aa483ad8905134b.jpg" /></a></p><p>Машина начинает ускоряться на выходе с кругового перекрестка, цепляет бордюр, меняет траекторию движения, перескакивает через разделительную полосу и вылетает на тротуар. Пешеходы видят это, разбегаются кто куда. Водитель тем временем продолжает: сносит металлическую конструкцию вне дороги, едет по велодорожке, наезжает на молодое деревце, которое просто подминается под машину. Это что — GTA?
-</p><p><a href="https://auto.onliner.by/2026/07/14/udivitelnye-priklyucheniya">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Разбил окно и воровал еду. К мужчине в дом четыре раза за месяц вламывался неожиданный гость</title>
-      <link>https://realt.onliner.by/go/1116854</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/14/razbil-okno-i-voroval-edu</guid>
-      <pubDate>Tue, 14 Jul 2026 12:16:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/14/razbil-okno-i-voroval-edu"><img alt="" src="https://content.onliner.by/news/thumbnail/99ae73539881a76c437cf1936992098f.jpg" /></a></p><p><p>В Японии пожилой владелец частного дома столкнулся с аномальной коммунальной проблемой: его жилье облюбовал дикий медведь. Как сообщает полиция префектуры Иватэ, хищник за один только месяц умудрился проникнуть в один и тот же дом четыре раза, пишет <a href="https://www3.nhk.or.jp/nhkworld/en/news/20260713_17/" target="_blank">NHK World-Japan</a>.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/07/14/razbil-okno-i-voroval-edu">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>МЧС: в белорусских лесах ищут шестерых человек</title>
-      <link>https://people.onliner.by/go/1316889</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/14/mchs-v-belorusskix-lesax-ishhut-shesteryx-chelovek</guid>
-      <pubDate>Tue, 14 Jul 2026 12:02:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/14/mchs-v-belorusskix-lesax-ishhut-shesteryx-chelovek"><img alt="" src="https://content.onliner.by/news/thumbnail/3d7b3a9c3f5a86f4f6e145134cd334c5.jpg" /></a></p><p>С начала сезона грибов и ягод в белорусских лесах потерялось 68 человек, из них девять — дети. Об этом во время пресс-конференции <a href="https://telegram.me/belpresscenter/5285" target="_blank">сообщил</a> начальник центра поисково-спасательных работ РОСН «ЗУБР» МЧС Сергей Новичук.</p><p><a href="https://people.onliner.by/2026/07/14/mchs-v-belorusskix-lesax-ishhut-shesteryx-chelovek">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Самая мощная камера в истории»: показываем, как выглядят новинки Huawei</title>
-      <link>https://tech.onliner.by/go/782518</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/14/v-cvetax-zakatov-vot-kakie-flagmany-huawei-predstavila-v-kuala-lumpur</guid>
-      <pubDate>Tue, 14 Jul 2026 11:57:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/14/v-cvetax-zakatov-vot-kakie-flagmany-huawei-predstavila-v-kuala-lumpur"><img alt="" src="https://content.onliner.by/news/thumbnail/233540d213418ae48ed1e91024d3b2f0.jpg" /></a></p><p>Сегодня Huawei провела в Куала-Лумпур мировую презентацию флагманских продуктов. Компания официально представила смартфоны серии Pura 90s, а также наушники FreeClip 2 S и планшеты MatePad Air. Команда Onlíner побывала на этом ивенте: показываем и рассказываем, как выглядят и ощущаются обновки бренда.
-</p><p><a href="https://tech.onliner.by/2026/07/14/v-cvetax-zakatov-vot-kakie-flagmany-huawei-predstavila-v-kuala-lumpur">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Число электромобилей, которые можно ввезти без пошлины, стремительно сокращается (обновлено)</title>
-      <link>https://auto.onliner.by/go/1254219</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/14/skolko-elektromobilej-eshhe-mozhno-vvezti-s-tamozhennoj-lgotoj</guid>
-      <pubDate>Tue, 14 Jul 2026 11:46:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/14/skolko-elektromobilej-eshhe-mozhno-vvezti-s-tamozhennoj-lgotoj"><img alt="" src="https://content.onliner.by/news/thumbnail/34dd5720abb4c44c23c165acedf890e5.jpg" /></a></p><p>В 2026 году для беспошлинного ввоза электромобилей в Беларусь установлены следующие квоты: 13 800 единиц в рамках торгового оборота и 6200 единиц для личного пользования. Всего — 20 000 штук. Таможенные органы Беларуси периодически приводят информацию о том, сколько еще электромобилей можно ввезти с применением данной льготы. Сегодня стало известно о том, что число автомобилей, которые могут быть ввезены юрлицами по льготе, уже менее тысячи единиц. </p><p><a href="https://auto.onliner.by/2026/07/14/skolko-elektromobilej-eshhe-mozhno-vvezti-s-tamozhennoj-lgotoj">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>7 Open Source Trello Alternatives For Your Kanban Boards</title>
       <link>https://feed.itsfoss.com/link/24361/17380029/open-source-trello-alternatives</link>
       <guid isPermaLink="false">6a5323cdeebe540001b4b5c8</guid>
       <pubDate>Tue, 14 Jul 2026 11:14:47 +0000</pubDate>
       <description><![CDATA[Open source Trello alternatives]]></description>
       <category>Alternatives</category>
-    </item>
-    <item>
-      <title>На каком этапе реконструкция трассы М10?  (обновлено)</title>
-      <link>https://auto.onliner.by/go/1248077</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/14/na-kakom-etape-rekonstrukciya-trassy-m10</guid>
-      <pubDate>Tue, 14 Jul 2026 11:06:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/14/na-kakom-etape-rekonstrukciya-trassy-m10"><img alt="" src="https://content.onliner.by/news/thumbnail/389d4bce7d94efddf621d8bb15158410.jpg" /></a></p><p>В прошлом году началась реконструкция трассы М‑10, граница Российской Федерации (Селище) — Гомель — Кобрин, протяженностью 526 километров. Проект общей стоимостью более одного миллиарда рублей разделен на пять очередей, в ходе которых будет реконструировано почти 86 километров. Как продвигаются работы? </p><p><a href="https://auto.onliner.by/2026/07/14/na-kakom-etape-rekonstrukciya-trassy-m10">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Минтруда напомнили про способ оплаты вуза без кредитов</title>
-      <link>https://money.onliner.by/go/336738</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/14/kak-oplatit-uchebu-semejnym-kapitalom-napomnili-v-mintruda</guid>
-      <pubDate>Tue, 14 Jul 2026 11:00:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/14/kak-oplatit-uchebu-semejnym-kapitalom-napomnili-v-mintruda"><img alt="" src="https://content.onliner.by/news/thumbnail/3b08ae45d1953f9d6432a6293ca47c78.jpg" /></a></p><p>Оплатить учебу сына или дочери в вузе можно с помощью семейного капитала — даже если ребенку еще не исполнилось 18 лет. Кому доступна такая опция и как использовать семейный капитал для этой цели, напомнили в Министерстве труда и соцзащиты.</p><p><a href="https://money.onliner.by/2026/07/14/kak-oplatit-uchebu-semejnym-kapitalom-napomnili-v-mintruda">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Сколько квартир продали белорусы под воздействием мошенников? Есть данные от СК</title>
-      <link>https://realt.onliner.by/go/1116927</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/14/skolko-kvartir-prodali-belorusy</guid>
-      <pubDate>Tue, 14 Jul 2026 10:56:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/14/skolko-kvartir-prodali-belorusy"><img alt="" src="https://content.onliner.by/news/thumbnail/15427b9a53f83167d4dc8ee56a5a16f7.jpg" /></a></p><p><p>В Беларуси под воздействием телефонных и интернет-мошенников люди продали в общей сложности 41 квартиру, один жилой дом и один автомобиль. Это следует из материалов уголовных дел, находящихся прямо сейчас в производстве у следователей. При этом масштабы проблемы только растут: за первое полугодие 2026-го общий ущерб от кибератак подскочил сразу на 59% по сравнению с аналогичным периодом прошлого года, а доля таких преступлений в стране достигла 35%. Эти данные <a href="https://sk.gov.by/ru/news-ru/view/protivodejstvie-moshennichestvu-v-sfere-sdelok-s-nedvizhimostjju-itogi-kruglogo-stola-16169/" target="_blank">озвучили</a> представители Следственного комитета во время круглого стола по теме «Противодействие мошенничеству в сфере сделок с недвижимостью».<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/07/14/skolko-kvartir-prodali-belorusy">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>У зубра с трассы М1 появился свой сайт. Теперь можно услышать рык гиганта (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1251793</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/14/u-zubra-s-trassy-m1-poyavilsya-svoj-sajt-tam-est-tajmer-vypuska-para-iz-ego-nozdrej</guid>
-      <pubDate>Tue, 14 Jul 2026 10:38:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/14/u-zubra-s-trassy-m1-poyavilsya-svoj-sajt-tam-est-tajmer-vypuska-para-iz-ego-nozdrej"><img alt="" src="https://content.onliner.by/news/thumbnail/d0fc20bcce6af95ee5da619c2e1e7d21.jpg" /></a></p><p>У знаменитой скульптуры зубра на трассе М1 появился свой сайт. А еще теперь у гиганта есть спецэффекты. </p><p><a href="https://auto.onliner.by/2026/07/14/u-zubra-s-trassy-m1-poyavilsya-svoj-sajt-tam-est-tajmer-vypuska-para-iz-ego-nozdrej">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Древняя формула из храма майя помогла раскрыть личность загадочного ученого</title>
-      <link>https://tech.onliner.by/go/782494</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/14/drevnyaya-formula-iz-xrama-majya-pomogla-raskryt-lichnost-zagadochnogo-uchenogo</guid>
-      <pubDate>Tue, 14 Jul 2026 10:30:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/14/drevnyaya-formula-iz-xrama-majya-pomogla-raskryt-lichnost-zagadochnogo-uchenogo"><img alt="" src="https://content.onliner.by/news/thumbnail/fe527def725152c1ab09a10fb3a494ec.jpg" /></a></p><p>Математическая формула, выгравированная на стене в археологическом памятнике майя Ксультун в Гватемале, помогла раскрыть имя выдающегося математика и астронома майя. По словам исследователей, речь идет о Сак Тан Ваахе, или же Белогрудом лисе, которого сравнивают с математиками-гениями прошлых времен. </p><p><a href="https://tech.onliner.by/2026/07/14/drevnyaya-formula-iz-xrama-majya-pomogla-raskryt-lichnost-zagadochnogo-uchenogo">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>Slack Who? This Self-Hosted Chat App Just Went Open Source</title>
