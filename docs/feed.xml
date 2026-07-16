@@ -5,11 +5,207 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 16 Jul 2026 08:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:49:35 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>Доллар передумал дорожать</title>
+      <title>FOSS Weekly #26.29: Mint Goes Wayland, OpenBook Reader, Terminal Shortcut Tips, Linux Handheld Computers and More</title>
+      <link>https://feed.itsfoss.com/link/24361/17381301/foss-weekly-26-29</link>
+      <guid isPermaLink="false">6a55c65625bda200015099b8</guid>
+      <pubDate>Thu, 16 Jul 2026 13:06:19 +0000</pubDate>
+      <description><![CDATA[FOSS Weekly]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>В «Минск-Мире» бетонными блоками перекрыли парковку. Но вопрос решился в пользу автовладельцев (обновлено)</title>
+      <link>https://auto.onliner.by/go/1246496</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/blokami-perekryli-parkovku</guid>
+      <pubDate>Thu, 16 Jul 2026 13:45:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/blokami-perekryli-parkovku"><img alt="" src="https://content.onliner.by/news/thumbnail/ea268bb69bb390899371d04f39fec3ab.jpg" /></a></p><p>В «Минск-Мире» жильцы квартала №9 (дома по адресам улица Теслы, 30, и улица Щемелева, 10) столкнулись с проблемой доступа к парковке между домами. Речь идет о площадке примерно на 50 машино-мест, которую 15 мая полностью перекрыли бетонными блоками.</p><p><a href="https://auto.onliner.by/2026/07/16/blokami-perekryli-parkovku">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Природа победила: посмотрите, как деревья «пожирают» то, что создал человек</title>
+      <link>https://tech.onliner.by/go/782898</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/priroda-pobedila-posmotrite-kak-derevya-pozhirayut-to-chto-sozdal-chelovek</guid>
+      <pubDate>Thu, 16 Jul 2026 13:41:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/priroda-pobedila-posmotrite-kak-derevya-pozhirayut-to-chto-sozdal-chelovek"><img alt="" src="https://content.onliner.by/news/thumbnail/89b28900cd9a06fbc9d5261f773a101e.jpg" /></a></p><p>Из-за особенностей роста ствола деревья способны будто бы «пожирать» объекты, которые находятся рядом с ними. На деле же они обрастают их по мере того, как новые слои появляются снаружи старой древесины, из-за чего ствол постепенно увеличивается в диаметре. В этот раз ресурс <a href="https://www.boredpanda.com/trees-eating-things-pictures/?cexp_id=157457&amp;cexp_var=6&amp;_f=homepage_featured" target="_blank">Bored Panda</a> решил вспомнить, как выглядят такие странные деревья.
+</p><p><a href="https://tech.onliner.by/2026/07/16/priroda-pobedila-posmotrite-kak-derevya-pozhirayut-to-chto-sozdal-chelovek">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Сегодня ровно 50 дней». В Краснодарском крае ищут белоруса</title>
+      <link>https://people.onliner.by/go/1317414</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/segodnya-rovno-50-dnej-v-krasnodarskom-krae-ishhut-belorusa</guid>
+      <pubDate>Thu, 16 Jul 2026 13:18:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/segodnya-rovno-50-dnej-v-krasnodarskom-krae-ishhut-belorusa"><img alt="" src="https://content.onliner.by/news/thumbnail/e91ba377b3078ad508781ba981f121ce.jpg" /></a></p><p>Последний раз Максим Сезончик выходил на связь 28 мая. С того дня его телефон отключен. И у родных нет ни одной версии, что могло произойти. Близкие начали большую кампанию по поиску в соцсетях, но результата это не принесло — почти два месяца его никто не видел.</p><p><a href="https://people.onliner.by/2026/07/16/segodnya-rovno-50-dnej-v-krasnodarskom-krae-ishhut-belorusa">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Из-за жары люди начали забрасывать смартфоны в холодильники. Потом — ремонт</title>
+      <link>https://tech.onliner.by/go/782893</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/iz-za-zhary-lyudi-nachali-zabrasyvat-smartfony-v-xolodilniki-potom-remont</guid>
+      <pubDate>Thu, 16 Jul 2026 12:57:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/iz-za-zhary-lyudi-nachali-zabrasyvat-smartfony-v-xolodilniki-potom-remont"><img alt="" src="https://content.onliner.by/news/thumbnail/ae4031b48576f9137edbc8d7b5515468.jpg" /></a></p><p>Напомним, что этим летом Европу <a href="https://tech.onliner.by/2026/07/14/zhara-ne-otstupaet-v-ssha-temperaturnye-rekordy-v-evrope-tysyachi-pogibshix" target="_blank">накрыла</a> рекордная волна жары. Отразилось это не только на людях, но и на их технике. Так, чтобы справиться с перегревом гаджетов, британцы начали <a href="https://www.techspot.com/news/113127-repair-shops-booming-during-heatwaves-people-keep-putting.html" target="_blank">забрасывать</a> их в холодильники. Правда, они не учли тот факт, что в таких условиях внутри смартфонов и планшетов образовывается конденсат, из-за чего девайсы выходят из строя.</p><p><a href="https://tech.onliner.by/2026/07/16/iz-za-zhary-lyudi-nachali-zabrasyvat-smartfony-v-xolodilniki-potom-remont">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Шоколадки Milka притворились дешевыми на границе</title>
+      <link>https://money.onliner.by/go/337059</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/16/shokoladki-milka-pritvorilis-deshevymi-na-granice</guid>
+      <pubDate>Thu, 16 Jul 2026 12:21:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/16/shokoladki-milka-pritvorilis-deshevymi-na-granice"><img alt="" src="https://content.onliner.by/news/thumbnail/396174f3bb40e7bc3b53dcbaeb1bdd06.jpg" /></a></p><p>Молдавский перевозчик вез в Беларусь крупную партию шоколада Milka, а по документам — намного более дешевый шоколад. Нестыковки в документах заметили гродненские таможенники.</p><p><a href="https://money.onliner.by/2026/07/16/shokoladki-milka-pritvorilis-deshevymi-na-granice">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Почти в центре Минска можно снять однушку за 400 рублей. Но в ремонт надо будет вложиться</title>
+      <link>https://realt.onliner.by/go/1117540</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/snyat-odnushku-za-400-rublej</guid>
+      <pubDate>Thu, 16 Jul 2026 12:07:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/snyat-odnushku-za-400-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/db714074243ba48f0612599e58becb19.jpg" /></a></p><p>Продолжаем изучать самые любопытные варианты государственного арендного жилья. В этом месяце администрация Первомайского района <a href="https://minsk.gov.by/ru/freepage/other/arendnoe_zhiljo/" target="_blank">подготовила</a> для всех желающих (не только очередников) приятный сюрприз — однушку в эффектном сталинском доме на улице Козлова. Арендовать 30-метровую квартиру можно всего за 413 рублей в месяц (без учета «коммуналки»), но прежде «резиденцию» надо отремонтировать.</p><p><a href="https://realt.onliner.by/2026/07/16/snyat-odnushku-za-400-rublej">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Не выставил аварийный знак? В Минске Hyundai врезался в сломавшийся BMW (видео)</title>
+      <link>https://auto.onliner.by/go/1256344</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/ne-vystavil-avarijnyj-znak</guid>
+      <pubDate>Thu, 16 Jul 2026 11:41:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/ne-vystavil-avarijnyj-znak"><img alt="" src="https://content.onliner.by/news/thumbnail/f14c16d320c3ca02b85c2b1f0cf46edd.png" /></a></p><p>Сегодня утром на проспекте Пушкина, рядом с домом №89, 61-летний водитель Hyundai врезался в остановившийся из-за поломки автомобиль BMW, сообщает ГАИ Минска. </p><p><a href="https://auto.onliner.by/2026/07/16/ne-vystavil-avarijnyj-znak">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Евгений Корняг поставил спектакль о роковой любви женщины, готовой на все. Билетов снова нет</title>
+      <link>https://people.onliner.by/go/1316937</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/evgenij-kornyag-postavil-spektakl-o-rokovoj-lyubvi-zhenshhiny-gotovoj-na-vse-biletov-snova-net</guid>
+      <pubDate>Thu, 16 Jul 2026 11:31:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/evgenij-kornyag-postavil-spektakl-o-rokovoj-lyubvi-zhenshhiny-gotovoj-na-vse-biletov-snova-net"><img alt="" src="https://content.onliner.by/news/thumbnail/35ba06aaae6429f1b15dc447be67e6ec.jpg" /></a></p><p>Очередное событие в столичной театральной жизни: главный режиссер Белорусского государственного театра кукол Евгений Корняг представил публике свой новый спектакль — мрачную драму для взрослых «Леди М.ценского уезда». Это история о том, как женщина, оказавшись перед выбором между спокойной, размеренной жизнью и страстной любовью, выбирает второе и ради своего чувства готова на самые отчаянные поступки. Журналисты Onlíner побывали на премьере и рассказывают о новой работе Евгения Корняга.
+</p><p><a href="https://people.onliner.by/2026/07/16/evgenij-kornyag-postavil-spektakl-o-rokovoj-lyubvi-zhenshhiny-gotovoj-na-vse-biletov-snova-net">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Вот что будет, если забыть заправочный пистолет в баке и начать движение  (обновлено)</title>
+      <link>https://auto.onliner.by/go/1256276</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/vot-chto-budet-esli-zabyt-zapravochnyj-pistolet-v-bake-i-nachat-dvizhenie</guid>
+      <pubDate>Thu, 16 Jul 2026 11:31:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/vot-chto-budet-esli-zabyt-zapravochnyj-pistolet-v-bake-i-nachat-dvizhenie"><img alt="" src="https://content.onliner.by/news/thumbnail/b24418c1be8a9c57c9d529873fc76457.jpg" /></a></p><p>Забыл, что в бак вставлен заправочный пистолет, и начал движение. Чем это закончилось (и как отреагировали в ГАИ), рассказал пользователь Threads. </p><p><a href="https://auto.onliner.by/2026/07/16/vot-chto-budet-esli-zabyt-zapravochnyj-pistolet-v-bake-i-nachat-dvizhenie">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Поднялся и пошел выламывать мне двери». Самокатчик и водитель каршеринга встретились в Минске (обновлено)</title>
+      <link>https://auto.onliner.by/go/1256240</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/podnyalsya-i-poshel-vylamyvat-mne-dveri-samokatchik-i-karshering-vstretilis-v-minske</guid>
+      <pubDate>Thu, 16 Jul 2026 11:20:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/podnyalsya-i-poshel-vylamyvat-mne-dveri-samokatchik-i-karshering-vstretilis-v-minske"><img alt="" src="https://content.onliner.by/news/thumbnail/757da4c913c7163870b3d2d2a65932ad.jpg" /></a></p><p>Вчера в Минске произошла авария: человек на электросамокате, пересекающий пешеходный переход, врезался в каршеринговое авто. Все случилось на перекрестке улиц Гинтовта и Городецкой. О ДТП рассказал его непосредственный участник — водитель каршеринга. Как он утверждает, самокатчик после происшествия вел себя, мягко говоря, странно (версии второй стороны мы не знаем).
+</p><p><a href="https://auto.onliner.by/2026/07/16/podnyalsya-i-poshel-vylamyvat-mne-dveri-samokatchik-i-karshering-vstretilis-v-minske">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Рядом с Минском продают дачу художника. Поверьте, она вас удивит</title>
+      <link>https://realt.onliner.by/go/1117375</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/dlya-cenitelej-ruchnoj-raboty</guid>
+      <pubDate>Thu, 16 Jul 2026 11:03:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/dlya-cenitelej-ruchnoj-raboty"><img alt="" src="https://content.onliner.by/news/thumbnail/17d1f1ebdff9a96420240333f2c5978a.jpg" /></a></p><p><p>В Молодечненском направлении, в 45 километрах от Минска, выставили на продажу <a href="https://r.onliner.by/pk/apartments/1276254" target="_blank">необычный объект</a> — дачу художника. Вообще это двухэтажное кирпичное здание, возведенное в далеком 1989 году. Несмотря на почтенный возраст, развалюхой оно не выглядит — да, это не модный каркасник, но вполне себе крепкая постройка.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/07/16/dlya-cenitelej-ruchnoj-raboty">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Приложения VK удалили из Google Play</title>
+      <link>https://tech.onliner.by/go/782874</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/prilozheniya-vk-udalili-iz-google-play</guid>
+      <pubDate>Thu, 16 Jul 2026 10:55:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/prilozheniya-vk-udalili-iz-google-play"><img alt="" src="https://content.onliner.by/news/thumbnail/bb47b3f4cca8fba795879579bb2af2d4.jpg" /></a></p><p>Вместе с основным приложением из российского Google Play исчезли сервисы VK, а также мессенджер Max. Сообщается, что это может быть связано с введением санкций в отношении разработчиков Max и VK со стороны Евросоюза. В Google на данный момент это удаление никак не прокомментировали.</p><p><a href="https://tech.onliner.by/2026/07/16/prilozheniya-vk-udalili-iz-google-play">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Поездки в аэропорт станут удобнее: МАЗ представил новинку</title>
+      <link>https://auto.onliner.by/go/1256312</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/maz-predstavil-novinku-2</guid>
+      <pubDate>Thu, 16 Jul 2026 10:51:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/maz-predstavil-novinku-2"><img alt="" src="https://content.onliner.by/news/thumbnail/62e144197b82ee96c2a9b460e18ed139.jpg" /></a></p><p>МАЗ и «МАЗ-Купава» изготовили автомобиль представительского класса МАЗ 281 для Национального аэропорта Минск, сообщает пресс-служба Минского автомобильного завода.</p><p><a href="https://auto.onliner.by/2026/07/16/maz-predstavil-novinku-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Microsoft хочет, чтобы ее сотрудники принижали продукты других компаний</title>
+      <link>https://tech.onliner.by/go/782866</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/microsoft-xochet-chtoby-ee-sotrudniki-prinizhali-produkty-drugix-kompanij</guid>
+      <pubDate>Thu, 16 Jul 2026 10:30:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/microsoft-xochet-chtoby-ee-sotrudniki-prinizhali-produkty-drugix-kompanij"><img alt="" src="https://content.onliner.by/news/thumbnail/035657307ef44b122dc5ff970134c5a7.jpg" /></a></p><p><p><span dir="auto">Microsoft</span><span dir="auto"> обучает свою команду продаж тому, как эффективно конкурировать с Anthropic PBC и OpenAI, акцентируя внимание клиентов на недостатках продуктов компаний, занимающихся искусственным интеллектом. Это было <a href="https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NDE0Mzk5NywiZXhwIjoxNzg0NzQ4Nzk3LCJhcnRpY2xlSWQiOiJUSTZBRVhLSkg2VjYwMCIsImJjb25uZWN0SWQiOiJEQ0FGMjNFM0YyMkE0Qzk5OTM0RUMyRDEwNkM0ODc0NyJ9.xkGGKI3U9CBk_UcIipQZOAOwxHuYwKKLBjaEedoT928&amp;leadSource=article-gifting" target="_blank">оглашено</a> на внутреннем совещании компании, на котором говорилось о том, что продуктам Anthropic, Google и OpenAI должна даваться негативная оценка.</p><p><a href="https://tech.onliner.by/2026/07/16/microsoft-xochet-chtoby-ee-sotrudniki-prinizhali-produkty-drugix-kompanij">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Приложение «Альфа Банка» на iPhone больше не работает — чем сейчас пользоваться (обновлено)</title>
+      <link>https://money.onliner.by/go/337026</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/16/prilozhenie-alfa-banka-na-iphone-bolshe-sovsem-ne-rabotaet-chem-sejchas-polzovatsya</guid>
+      <pubDate>Thu, 16 Jul 2026 09:55:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/16/prilozhenie-alfa-banka-na-iphone-bolshe-sovsem-ne-rabotaet-chem-sejchas-polzovatsya"><img alt="" src="https://content.onliner.by/news/thumbnail/7ccf900d1ea05edcb4c0a8e8b2849182.jpg" /></a></p><p>В «Альфа Банке» сообщили, что приложение INSNC окончательно перестало работать на iPhone, и рассказали, какими двумя вариантами могут пользоваться владельцы «яблочных» смартфонов. Также анонсировали, что будет новое приложение для этой операционной системы.</p><p><a href="https://money.onliner.by/2026/07/16/prilozhenie-alfa-banka-na-iphone-bolshe-sovsem-ne-rabotaet-chem-sejchas-polzovatsya">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В Брестской области в городском парке утонул 4-летний ребенок</title>
+      <link>https://people.onliner.by/go/1317291</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/v-brestskoj-oblasti-v-gorodskom-parke-utonul-4-letnij-rebenok</guid>
+      <pubDate>Thu, 16 Jul 2026 09:41:32 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/v-brestskoj-oblasti-v-gorodskom-parke-utonul-4-letnij-rebenok"><img alt="" src="https://content.onliner.by/news/thumbnail/4bf483473847921890db3f3d728f218c.jpg" /></a></p><p>Вечером 15 июля спасателям поступило <a href="https://t.me/osvodrs/8762" target="_blank">сообщение</a> о том, что в искусственном водоеме агрогородка Горбаха в Ивановском районе утонул ребенок 2022 года рождения.</p><p><a href="https://people.onliner.by/2026/07/16/v-brestskoj-oblasti-v-gorodskom-parke-utonul-4-letnij-rebenok">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Трехэтажный жилой дом рухнул через несколько секунд после эвакуации. Жители спаслись</title>
+      <link>https://realt.onliner.by/go/1117425</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/trexetazhnyj-zhiloj-dom</guid>
+      <pubDate>Thu, 16 Jul 2026 09:36:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/trexetazhnyj-zhiloj-dom"><img alt="" src="https://content.onliner.by/news/thumbnail/10a472775b79bc382b11b13b817ecb2d.jpg" /></a></p><p>В пригороде Валенсии, Бенетуссере, трехэтажный дом внезапно обрушился спустя считанные секунды после того, как жильцы выбежали на улицу, услышав треск и подозрительные шумы, <a href="https://www.thesun.co.uk/news/39762129/flats-collapse-residents-fled-strange-noises/" target="_blank">сообщает</a> The Sun.</p><p><a href="https://realt.onliner.by/2026/07/16/trexetazhnyj-zhiloj-dom">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Фломастер, спасший двух астронавтов, продали за 850 тысяч</title>
+      <link>https://tech.onliner.by/go/782853</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/flomaster-pobyvavshij-v-kosmose-prodali-za-850-tysyach</guid>
+      <pubDate>Thu, 16 Jul 2026 09:22:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/flomaster-pobyvavshij-v-kosmose-prodali-za-850-tysyach"><img alt="" src="https://content.onliner.by/news/thumbnail/ecd34d25bf1b589fa88a53a6cb80daaf.jpg" /></a></p><p>Речь идет о канцелярской принадлежности, которой воспользовался астронавт <span dir="auto">Базз Олдрин. Вместе с Нилом Армстронгом он высадился на лунную поверхность в рамках исторической миссии «Аполлон-11» в июле 1969 года. Как <a href="https://www.theguardian.com/science/2026/jul/15/buzz-aldrin-apollo-astronaut-mission-felt-tip-pen-auction" target="_blank">вспоминает</a> Олдрин, в один момент они с Армстронгом готовились вздремнуть после своей первой прогулки по Луне, как вдруг астронавт  заметил небольшой черный переключатель на полу кабины.</p><p><a href="https://tech.onliner.by/2026/07/16/flomaster-pobyvavshij-v-kosmose-prodali-za-850-tysyach">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Рядом дурно находиться». Белорусы заметили на даче гриб необычной формы</title>
+      <link>https://people.onliner.by/go/1317256</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/ryadom-durno-naxoditsya-belorusy-zametili-na-dache-grib-neobychnoj-formy</guid>
+      <pubDate>Thu, 16 Jul 2026 09:10:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/ryadom-durno-naxoditsya-belorusy-zametili-na-dache-grib-neobychnoj-formy"><img alt="" src="https://content.onliner.by/news/thumbnail/8c9ebdad3355a9697c66d76810d84ae0.jpg" /></a></p><p>С редакцией связалась читательница по имени Марина. Женщина обнаружила на даче в Смолевичском районе гриб необычной формы. В этом году на участке такие грибы выросли впервые, да и в жизни раньше она их не встречала. Не заметить их невозможно — очень резкий запах чувствуется издалека.</p><p><a href="https://people.onliner.by/2026/07/16/ryadom-durno-naxoditsya-belorusy-zametili-na-dache-grib-neobychnoj-formy">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Пыль обречена? Тестируем вертикальный пылесос с силой всасывания почти 34 кПа</title>
+      <link>https://realt.onliner.by/go/1116457</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/obzor-trouver-g70-detect</guid>
+      <pubDate>Thu, 16 Jul 2026 09:00:15 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/obzor-trouver-g70-detect"><img alt="" src="https://content.onliner.by/news/thumbnail/4c262282b83157cb6464283927b5cc44.jpg" /></a></p><p><p dir="ltr">Рынок пылесосов продолжает двигаться в сторону повышения мощности и внедрения дополнительных удобных фишек, и Trouver G70 Detect — один из таких примеров. Модель получила одну из самых высоких сил всасывания среди вертикальных пылесосов в Каталоге Onlíner, а также датчик загрязнений, телескопическую трубку и несколько вариантов щеток для разных типов покрытий. Мы протестировали новинку в реальных условиях и проверили, насколько эффективно все это работает на практике.</p><p><a href="https://realt.onliner.by/2026/07/16/obzor-trouver-g70-detect">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Turns Out Wayland Isn&amp;#x27;t the Input Lag Disaster Everyone Says it is</title>
+      <link>https://feed.itsfoss.com/link/24361/17381171/x11-vs-wayland-input-latency</link>
+      <guid isPermaLink="false">6a574f4725bda2000150a0ad</guid>
+      <pubDate>Thu, 16 Jul 2026 08:40:19 +0000</pubDate>
+      <description><![CDATA[wayland logo, upwards green arrow, and a gamer penguin with a controller in its flippers]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>«Одиссею» Нолана оценили выше, чем «Темного рыцаря» и «Оппенгеймера»</title>
+      <link>https://tech.onliner.by/go/782839</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/odisseyu-nolana-ocenili-vyshe-chem-temnogo-rycarya-i-oppengejmera</guid>
+      <pubDate>Thu, 16 Jul 2026 08:39:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/odisseyu-nolana-ocenili-vyshe-chem-temnogo-rycarya-i-oppengejmera"><img alt="" src="https://content.onliner.by/news/thumbnail/25f3bb850dd92c3b1f3dffda1d41db66.jpg" /></a></p><p><p dir="ltr">«Одиссея» Кристофера Нолана стала самым высокооцененным релизом в фильмографии режиссера — как минимум в рамках агрегатора <a href="https://www.rottentomatoes.com/m/the_odyssey_2026" target="_blank">Rotten Tomatoes</a>. Сейчас «Одиссея» может похвастаться рейтингом в 96% «свежести», в то время как у «Темного рыцаря» рейтинг остановился на 94%, «Оппенгеймер» получил 93%,  а «Дюнкерк» — 92%.</p><p><a href="https://tech.onliner.by/2026/07/16/odisseyu-nolana-ocenili-vyshe-chem-temnogo-rycarya-i-oppengejmera">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Один не успел избежать наезда на косулю, другому не уступили дорогу: два ДТП с байкерами</title>
+      <link>https://auto.onliner.by/go/1256271</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/dtp-s-bajkerami</guid>
+      <pubDate>Thu, 16 Jul 2026 08:28:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/dtp-s-bajkerami"><img alt="" src="https://content.onliner.by/news/thumbnail/be31daa5d86764cb8b1ef997289e1cab.jpg" /></a></p><p>Вчера около 02:50 в Минском районе 39-летний мотоциклист за рулем Kawasaki наехал на внезапно выбежавшую на проезжую часть косулю, сообщает ГАИ Минской области. </p><p><a href="https://auto.onliner.by/2026/07/16/dtp-s-bajkerami">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Доллар передумал дорожать (обновлено)</title>
       <link>https://money.onliner.by/go/337017</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/07/16/dollar-peredumal-dorozhat</guid>
       <pubDate>Thu, 16 Jul 2026 08:00:38 +0000</pubDate>
@@ -18,7 +214,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>В «Уютном» «отсыпали» новых коттеджей (и еще более высоких цен)</title>
+      <title>Чувствительно даже для миллионеров. В «Уютном» предложили новую партию коттеджей</title>
       <link>https://realt.onliner.by/go/1117372</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/v-uyutnom-otsypali-novyx-kottedzhej</guid>
       <pubDate>Thu, 16 Jul 2026 07:59:07 +0000</pubDate>
@@ -31,151 +227,6 @@
       <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/iz-igr-dlya-steam-sdelali-kartridzhi-v-stile-dendy</guid>
       <pubDate>Thu, 16 Jul 2026 07:26:23 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/iz-igr-dlya-steam-sdelali-kartridzhi-v-stile-dendy"><img alt="" src="https://content.onliner.by/news/thumbnail/b30f6cc65af720e60e58975369e9b4ac.jpg" /></a></p><p>Речь идет о 2,5-дюймовых твердотельных накопителях с интерфейсом SATA III, с помощью которых запускаются игры, приобретенные в Steam. За такой разработкой стоит энтузиаст с ником Jibril-sama, который опубликовал свое детище в Reddit. По его <a href="https://www.tomshardware.com/video-games/pc-gaming/pc-gamer-turns-steam-games-into-cartridges-with-ingenious-2-5-inch-ssd-system-games-are-stored-on-128gb-drives-alongside-a-script-to-auto-start-the-title-once-plugged-in" target="_blank">словам</a>, для организации этой системы он разработал скрипт, который находит и запускает нужную игру через Steam при подключении соответствующего картриджа.</p><p><a href="https://tech.onliner.by/2026/07/16/iz-igr-dlya-steam-sdelali-kartridzhi-v-stile-dendy">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Знак на цепочке и никаких объяснений: что происходит с парковкой? (видео)</title>
-      <link>https://auto.onliner.by/go/1256265</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/znak-na-cepochke</guid>
-      <pubDate>Thu, 16 Jul 2026 07:16:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/znak-na-cepochke"><img alt="" src="https://content.onliner.by/news/thumbnail/d4aa79578e8b090ca02fa0de01e795dc.jpg" /></a></p><p>Парковка в Минске на улице Тимирязева, рядом с домом №93, уже второй год вызывает вопросы у автомобилистов. Вдоль дороги то появляется, то исчезает дорожный знак «Въезд запрещен». По словам нашего читателя, знак устанавливают чаще всего в конце рабочего дня или даже в его разгар, чтобы ограничить въезд на общественную стоянку. При этом никаких дополнительных табличек или пояснений рядом нет.</p><p><a href="https://auto.onliner.by/2026/07/16/znak-na-cepochke">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В магазине продавали просроченные на год товары — МАРТ нашел этот магазин</title>
-      <link>https://money.onliner.by/go/337000</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/16/na-expobel-nashli-prosrochku-u-mart-proshli-novye-proverki</guid>
-      <pubDate>Thu, 16 Jul 2026 07:15:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/16/na-expobel-nashli-prosrochku-u-mart-proshli-novye-proverki"><img alt="" src="https://content.onliner.by/news/thumbnail/efb74e6876ffd68f6266e27c1d160ffc.jpg" /></a></p><p>В одном из магазинов торгового центра Expobel нашли просроченные товары — Министерство антимонопольного регулирования и торговли запретило их продавать. Какой это был магазин, рассказали в ведомстве, а также поделились результатами свежих проверок по всей стране.</p><p><a href="https://money.onliner.by/2026/07/16/na-expobel-nashli-prosrochku-u-mart-proshli-novye-proverki">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Таиланде кошка научились выпрашивать у туристов конкретный корм</title>
-      <link>https://people.onliner.by/go/1317235</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/v-tailande-koshka-nauchilis-vyprashivat-u-turistov-konkretnyj-korm</guid>
-      <pubDate>Thu, 16 Jul 2026 06:53:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/v-tailande-koshka-nauchilis-vyprashivat-u-turistov-konkretnyj-korm"><img alt="" src="https://content.onliner.by/news/thumbnail/cbb335de5bb2650c564399f01d1a683a.jpg" /></a></p><p>В сети завирусилось видео с кошкой-«промоутером» из Таиланда. Она не просто выпрашивает у умиленных туристов угощения, а продвигает конкретный бренд корма.</p><p><a href="https://people.onliner.by/2026/07/16/v-tailande-koshka-nauchilis-vyprashivat-u-turistov-konkretnyj-korm">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В сети оказались полные характеристики Galaxy Z Fold 8 и Ultra</title>
-      <link>https://tech.onliner.by/go/782819</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/v-seti-okazalis-polnye-xarakteristiki-galaxy-z-fold-8-i-ultra</guid>
-      <pubDate>Thu, 16 Jul 2026 06:36:04 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/v-seti-okazalis-polnye-xarakteristiki-galaxy-z-fold-8-i-ultra"><img alt="" src="https://content.onliner.by/news/thumbnail/3dfeeb6ef7dfcf0acbe85cba738e3e08.jpg" /></a></p><p>Свои топовые смартфоны Samsung представит 22 июля, но ознакомиться с их техническими характеристиками можно уже сейчас. Сообщается, что одной из главных фишек Galaxy Z Fold 8 и Ultra <a href="https://winfuture.de/news,159995.html" target="_blank">станет</a> титановый подэкранный слой Flex Titanium, за счет которого дисплеи смартфона не только станут прочнее, но и избавятся от видимой складки.</p><p><a href="https://tech.onliner.by/2026/07/16/v-seti-okazalis-polnye-xarakteristiki-galaxy-z-fold-8-i-ultra">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Чтобы не сверлили за стенкой. В «Вершине» презентовали чистый этаж — квартиры с готовой отделкой</title>
-      <link>https://realt.onliner.by/go/1117173</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/chistyj-etazh-vershina</guid>
-      <pubDate>Thu, 16 Jul 2026 06:30:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/chistyj-etazh-vershina"><img alt="" src="https://content.onliner.by/news/thumbnail/2b5a29459c4debb609d6254b8f89c664.jpg" /></a></p><p>В жилом комплексе «Вершина» реализовали этаж с квартирами с готовой отделкой от застройщика. Назвали его «чистым», потому что будущие новоселы не столкнутся с мешками штукатурки возле дверей и пыльными работами. В квартиру после покупки нужно лишь завезти необходимую мебель. Такое жилье стоит весомо дороже вариантов с черновой отделкой, однако нужно учитывать, что и самостоятельные ремонтные работы сегодня тоже влетают в копеечку. Всего предлагается 14 полностью готовых к проживанию квартир. Как они выглядят и сколько стоят?</p><p><a href="https://realt.onliner.by/2026/07/16/chistyj-etazh-vershina">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Большой семейный пикник без суеты: жарим стейки, ребрышки и хот-доги</title>
-      <link>https://people.onliner.by/go/1316033</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/semejnyj-piknik</guid>
-      <pubDate>Thu, 16 Jul 2026 06:00:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/semejnyj-piknik"><img alt="" src="https://content.onliner.by/news/thumbnail/b51456ad17a3c9b01ae4b60c151587c6.jpg" /></a></p><p><p dir="ltr">Есть у семейного пикника одна главная проблема: в мечтах это всегда красивый летний день, плед на траве, дети бегают где-то рядом, взрослые неспешно разговаривают, а на мангале что-то аппетитно шкворчит. В реальности же половина компании приезжает с пакетами, кто-то забывает нож, кто-то еще дома начинает срочно резать овощи, а главный человек у углей исчезает на весь вечер. Вместе с шеф-поваром кулинарного клуба Брестского мясокомбината <a href="https://www.instagram.com/shefbmk/%20#ШЕФБМК" target="_blank">#ШЕФБМК</a> Дмитрием Дубчуком решили проверить другой сценарий: подготовить максимум дома, взять небольшой мангал, корзинки — и отправиться на природу просто отдыхать. В меню — стейк, ребрышки и хот-доги с гриля, которые собираются буквально на месте.</p><p><a href="https://people.onliner.by/2026/07/16/semejnyj-piknik">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Мое сердце разбито». Мужчина пытается отстоять право своей девушки на бьюти-процедуры (видео)</title>
-      <link>https://people.onliner.by/go/1317079</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/obvineniya-v-stalkinge</guid>
-      <pubDate>Thu, 16 Jul 2026 05:00:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/obvineniya-v-stalkinge"><img alt="" src="https://content.onliner.by/news/thumbnail/4edc387c6155b6d10e8790bb338dc4e5.jpg" /></a></p><p>С Антоном мы познакомились полтора года назад. Тогда он участвовал в конкурсе «Свое дело. Новый сезон» — <a href="https://money.onliner.by/2024/11/04/svoe-delo-noviy-minsk/" target="_blank">рассказывал</a>, как открыть собственную студию маникюра еще до 20 лет. Косвенно речь про ту самую студию — Baton Nails — пойдет и в этот раз. Именно работа там, как рассказывает сам парень, и стала причиной преследования. Антон говорит, что его начала сталкерить настойчивая клиентка, а позже — и ее бойфренд. Вторая сторона конфликта утверждает другое: они всего лишь пытались отстоять право на оказание услуг. Попробовали разобраться в запутанной истории.</p><p><a href="https://people.onliner.by/2026/07/16/obvineniya-v-stalkinge">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Дело случая: как игры внезапно изменили жизни белорусов</title>
-      <link>https://tech.onliner.by/go/782749</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/kak-igry-menyayut-zhizni-belorusov</guid>
-      <pubDate>Thu, 16 Jul 2026 05:00:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/kak-igry-menyayut-zhizni-belorusov"><img alt="" src="https://content.onliner.by/news/thumbnail/e7845b7e12ab1c902fe1dd4cc1d72e1a.jpg" /></a></p><p>Казалось бы: как тот факт, что вы гоняете персонажей из одного угла монитора в другой, может повлиять на ваше мироустройство? И в одних случаях компьютерные игры действительно не забираются дальше хобби, однако в других могут перевернуть жизнь человека — как в хорошую, так и в отрицательную сторону. В этот раз принесли вам именно такие истории: вот как гейминг развернул судьбы белорусов на 180 градусов.</p><p><a href="https://tech.onliner.by/2026/07/16/kak-igry-menyayut-zhizni-belorusov">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Покойник не должен вернуться». Что увидел фотограф в полесских деревнях 115 лет назад</title>
-      <link>https://realt.onliner.by/go/1117299</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/serbov-polese-foto</guid>
-      <pubDate>Thu, 16 Jul 2026 05:00:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/serbov-polese-foto"><img alt="" src="https://content.onliner.by/news/thumbnail/c915eaaaf1decb592594e1f56c681b9a.jpg" /></a></p><p>1911 год. В полесскую деревню приезжает незнакомый человек. В городской одежде, с чемоданом, длинной треногой и стопкой стеклянных пластин. Он не торгует, не собирает подати и не ищет работников. Вместо этого расспрашивает, как здесь ловят рыбу, как складывают стога, зачем нужна деревянная конструкция у сарая. Что-то записывает в блокнот. Потом устанавливает странный аппарат на треногу и просит несколько секунд постоять неподвижно… Этого человека звали Исаак Сербов. За три экспедиции по белорусскому Полесью он сделал сотни фотографий, на которых запечатлел людей, их дома и быт. Всмотримся в лица, одежду, инструменты и попробуем понять, как был устроен этот мир.</p><p><a href="https://realt.onliner.by/2026/07/16/serbov-polese-foto">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>300 000 км для них не предел. Специалист назвал топ-5 автоматических коробок</title>
-      <link>https://auto.onliner.by/go/1256202</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/16/top-5-nadezhnyx</guid>
-      <pubDate>Thu, 16 Jul 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/16/top-5-nadezhnyx"><img alt="" src="https://content.onliner.by/news/thumbnail/7950fa4994e76f7b10bfef4200254f98.jpg" /></a></p><p>Несколько лет назад мы уже рассказывали о самых беспроблемных «автоматах» для машин с <a href="https://auto.onliner.by/2023/01/03/top-6-diapazonnyx-akp" target="_blank">поперечным</a> и <a href="https://auto.onliner.by/2023/02/13/akp-dlya-prodolnoj-komponovki">продольным</a> расположением двигателя. Но время идет, герои тех публикаций — это уже достаточно возрастные агрегаты, на смену которым производители давно выпустили более современные модели, у которых уже может быть по 8—9 передач и ряд других технических особенностей. Еще недавно они были новинками, но на сегодняшний день и по ним накопилось достаточно статистики, чтобы назвать наиболее удачные, то есть надежные и ресурсные агрегаты. Причем в этом списке оказались не только гидромеханические «автоматы».</p><p><a href="https://auto.onliner.by/2026/07/16/top-5-nadezhnyx">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Почему загорать опаснее, чем кажется, — особенно у воды</title>
-      <link>https://people.onliner.by/go/976006</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/16/vrach-rasskazal-kak-pravilno-zagorat-i-obezopasit-kozhu</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/vrach-rasskazal-kak-pravilno-zagorat-i-obezopasit-kozhu"><img alt="" src="https://content.onliner.by/news/thumbnail/c78acbb7233688778e29e78eacf035e5.jpg" /></a></p><p>Как правильно загорать и сколько можно находиться на солнце? Летом мы все стремимся поймать немного ультрафиолета — загар все еще в моде. Но вместе с бронзовым оттенком легко получить ожог, пересушенную кожу или даже тепловой удар. Мы собрали советы врачей и дерматологов о том, как загорать с умом, когда солнце особенно опасно, можно ли загореть в воде и как выбрать правильный SPF. А еще — что делать, если все-таки обгорели.</p><p><a href="https://people.onliner.by/2026/07/16/vrach-rasskazal-kak-pravilno-zagorat-i-obezopasit-kozhu">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Выбираем хороший новый смартфон до 1000 рублей</title>
-      <link>https://tech.onliner.by/go/638606</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/16/smartfon-do-1000-rublej</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/16/smartfon-do-1000-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/58633de5b91d624d35a15c6a1a71b5e1.jpg" /></a></p><p>Ценник в 1000 белорусских рублей (по актуальному курсу это около $345) во многом определяющий. Ведь смартфонов как дешевле, так и ощутимо дороже явно хватает. Но, как правило, именно такую цену имеют аппараты, которые принято называть «народными». Хорошее соотношение цены и качества у подобных телефонов зачастую одна из их основных фишек. Посмотрели, какие пять устройств выделяются на общем фоне и, возможно, заслуживают внимания. </p><p><a href="https://tech.onliner.by/2026/07/16/smartfon-do-1000-rublej">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Или бороться за название, или спасать бизнес». Что происходит с известной кондитерской</title>
-      <link>https://money.onliner.by/go/336790</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/16/bolshe-ne-moulin</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/16/bolshe-ne-moulin"><img alt="" src="https://content.onliner.by/news/thumbnail/aaa22cabea971aa62e198a06c2bfa250.jpg" /></a></p><p>История этого места началась 13 лет назад, когда Татьяна Жолнерчик оставила перспективную работу в банке и нашла помещение в спальном районе Минска, чтобы печь хлеб и делать десерты по французским рецептам. Тогда (да и сейчас) открывать заведение без опыта в общепите было рискованно, но проект стал популярным. С тех пор рынок кратно вырос, открылось несколько заведений с вывеской Moulin, но недавно стало известно про неожиданный <a href="https://money.onliner.by/2026/07/07/nashi-puti-razoshlis-u-izvestnoj-minskoj-konditerskoj-bolshie-izmeneniya" target="_blank">поворот</a> этой бизнес-истории — место, где все начиналось, останется без своего названия. Что будет с заведением дальше? Мы поговорили с основательницей.</p><p><a href="https://money.onliner.by/2026/07/16/bolshe-ne-moulin">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>10 тысяч откликов на вакансию. Что творится с рынком труда</title>
-      <link>https://money.onliner.by/go/313785</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/16/rynok-truda-2026</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/16/rynok-truda-2026"><img alt="" src="https://content.onliner.by/news/thumbnail/b7846394f30583a84bf78b6d764a8cb4.jpg" /></a></p><p>За плечами половина 2026 года — самое время посмотреть, куда двинулся рынок труда. Второй квартал года способен порадовать тех, кто в поиске работы: конкуренция в целом снизилась. Но приятная картинка далеко не во всех сферах. Сейчас можно встретить вакансии, куда приходит 6—10 тыс. откликов. Как мы к этому пришли и что ждет нас дальше — поговорили об этом с директором сервиса по поиску работы.</p><p><a href="https://money.onliner.by/2026/07/16/rynok-truda-2026">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Могилевской области 13-летняя девочка лишилась двух пальцев, помогая отцу колоть дрова</title>
-      <link>https://people.onliner.by/go/1317196</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/15/v-mogilevskoj-oblasti</guid>
-      <pubDate>Wed, 15 Jul 2026 17:00:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/15/v-mogilevskoj-oblasti"><img alt="" src="https://content.onliner.by/news/thumbnail/e522428fe7bb700ab6439cdd1d78b95f.jpg" /></a></p><p>В Чериковском районе Следственный комитет проводит проверку после тяжелого несчастного случая, в результате которого серьезно пострадала 13-летняя школьница.</p><p><a href="https://people.onliner.by/2026/07/15/v-mogilevskoj-oblasti">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Поднялся и пошел выламывать мне двери». Самокатчик и каршеринг встретились в Минске</title>
-      <link>https://auto.onliner.by/go/1256240</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/15/podnyalsya-i-poshel-vylamyvat-mne-dveri-samokatchik-i-karshering-vstretilis-v-minske</guid>
-      <pubDate>Wed, 15 Jul 2026 14:59:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/15/podnyalsya-i-poshel-vylamyvat-mne-dveri-samokatchik-i-karshering-vstretilis-v-minske"><img alt="" src="https://content.onliner.by/news/thumbnail/757da4c913c7163870b3d2d2a65932ad.jpg" /></a></p><p>Вчера в Минске произошла авария: человек на электросамокате, пересекающий пешеходный переход, врезался в каршеринг. Все случилось на перекрестке улиц Гинтовта и Городецкой. О ДТП рассказал его непосредственный участник — водитель каршеринга. Как он утверждает, самокатчик после происшествия вел себя, мягко говоря, странно (версии второй стороны мы не знаем).
-</p><p><a href="https://auto.onliner.by/2026/07/15/podnyalsya-i-poshel-vylamyvat-mne-dveri-samokatchik-i-karshering-vstretilis-v-minske">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Ему нужно». Пока все ехали в колонне, один водитель решился на опасный обгон (видео)</title>
-      <link>https://auto.onliner.by/go/1256235</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/15/reshilsya-na-opasnyj-obgon</guid>
-      <pubDate>Wed, 15 Jul 2026 14:53:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/15/reshilsya-na-opasnyj-obgon"><img alt="" src="https://content.onliner.by/news/thumbnail/08cb9b2fd2d075d515f16e7212950c1c.png" /></a></p><p>Дорожные работы вносят свои коррективы в схему движения. И да, это не всегда удобно, комфортно и привычно, но необходимо соблюдать требования разметки и знаков. Однако не все участники дорожного движения с этим согласятся. На нашем <a href="https://forum.onliner.by/viewtopic.php?t=5461367&amp;start=18180" target="_blank">форуме</a> появилось видео, на котором зафиксирован опасный обгон. Давайте посмотрим.</p><p><a href="https://auto.onliner.by/2026/07/15/reshilsya-na-opasnyj-obgon">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Пустую коробку от этой видеоигры продали за $11 тысяч</title>
-      <link>https://tech.onliner.by/go/782754</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/15/pustuyu-korobku-ot-etoj-videoigry-prodali-za-11-tysyach</guid>
-      <pubDate>Wed, 15 Jul 2026 14:50:04 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/15/pustuyu-korobku-ot-etoj-videoigry-prodali-za-11-tysyach"><img alt="" src="https://content.onliner.by/news/thumbnail/f31f11e4f6cfe25292389c5b7126214b.jpg" /></a></p><p><p dir="ltr">В Англии состоялся аукцион, посвященный ретровидеоиграм, на котором <a href="https://nypost.com/2026/07/14/lifestyle/empty-nintendo-64-super-mario-video-game-box-sells-for-over-10k-at-auction/" target="_blank">продали</a> пустую коробку от Super Mario 64 для приставки Nintendo 64 за 8450 фунтов стерлингов, что эквивалентно примерно 11 360 долларам. Ценность футляра в том, что он подписан создателем серии игр Mario и «отцом современной игровой индустрии» Сигэру Миямото.</p><p><a href="https://tech.onliner.by/2026/07/15/pustuyu-korobku-ot-etoj-videoigry-prodali-za-11-tysyach">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
@@ -193,14 +244,6 @@
       <pubDate>Tue, 14 Jul 2026 11:14:47 +0000</pubDate>
       <description><![CDATA[Open source Trello alternatives]]></description>
       <category>Alternatives</category>
-    </item>
-    <item>
-      <title>Slack Who? This Self-Hosted Chat App Just Went Open Source</title>
-      <link>https://feed.itsfoss.com/link/24361/17379567/chatto-goes-open-source</link>
-      <guid isPermaLink="false">6a5477c1eebe540001b4ba1f</guid>
-      <pubDate>Mon, 13 Jul 2026 13:22:54 +0000</pubDate>
-      <description><![CDATA[purple-colored chatto logo on left, an illustration depicting open source software on the right]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
