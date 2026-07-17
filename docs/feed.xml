@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 16 Jul 2026 19:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:36:44 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -25,7 +25,7 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
-      <title>В Витебске стартовало открытие юбилейного «Славянского базара»</title>
+      <title>В Витебске стартовало открытие юбилейного «Славянского базара» (обновлено)</title>
       <link>https://people.onliner.by/go/1317516</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/07/16/v-vitebske-startovalo-otkrytie</guid>
       <pubDate>Thu, 16 Jul 2026 18:11:27 +0000</pubDate>
@@ -228,14 +228,6 @@
       <pubDate>Thu, 16 Jul 2026 09:41:32 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/16/v-brestskoj-oblasti-v-gorodskom-parke-utonul-4-letnij-rebenok"><img alt="" src="https://content.onliner.by/news/thumbnail/4bf483473847921890db3f3d728f218c.jpg" /></a></p><p>Вечером 15 июля спасателям поступило <a href="https://t.me/osvodrs/8762" target="_blank">сообщение</a> о том, что в искусственном водоеме агрогородка Горбаха в Ивановском районе утонул ребенок 2022 года рождения.</p><p><a href="https://people.onliner.by/2026/07/16/v-brestskoj-oblasti-v-gorodskom-parke-utonul-4-letnij-rebenok">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Трехэтажный жилой дом рухнул через несколько секунд после эвакуации. Жители спаслись</title>
-      <link>https://realt.onliner.by/go/1117425</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/16/trexetazhnyj-zhiloj-dom</guid>
-      <pubDate>Thu, 16 Jul 2026 09:36:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/16/trexetazhnyj-zhiloj-dom"><img alt="" src="https://content.onliner.by/news/thumbnail/10a472775b79bc382b11b13b817ecb2d.jpg" /></a></p><p>В пригороде Валенсии, Бенетуссере, трехэтажный дом внезапно обрушился спустя считанные секунды после того, как жильцы выбежали на улицу, услышав треск и подозрительные шумы, <a href="https://www.thesun.co.uk/news/39762129/flats-collapse-residents-fled-strange-noises/" target="_blank">сообщает</a> The Sun.</p><p><a href="https://realt.onliner.by/2026/07/16/trexetazhnyj-zhiloj-dom">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>Turns Out Wayland Isn&amp;#x27;t the Input Lag Disaster Everyone Says it is</title>
