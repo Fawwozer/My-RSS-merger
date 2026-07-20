@@ -5,106 +5,162 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 20 Jul 2026 08:57:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:04:53 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>15 O&amp;#x27;Reilly Linux eBooks for Under $30: A Bundle That Goes From Command Line Basics to Kubernetes</title>
-      <link>https://feed.itsfoss.com/link/24361/17381816/oreilly-linux-ebooks-bundle</link>
-      <guid isPermaLink="false">6a59db6925bda20001516170</guid>
-      <pubDate>Fri, 17 Jul 2026 10:29:41 +0000</pubDate>
-      <description><![CDATA[<p>Humble Bundle and O'Reilly have put together a pay-what-you-want Linux collection called <a href="https://humblebundleinc.sjv.io/X4r9Lg" rel="noreferrer"><strong>Linux: All the Things</strong></a> (partner link), and it's built to take you from basic command-line comfort to container orchestration across fifteen eBooks.</p><figure class="kg-card kg-image-card"><img alt="More Linux ebooks" class="kg-image" height="720" src="https://itsfoss.com/content/images/2026/07/all-things-linux-bundle.webp" width="1280" /></figure><p>O'Reilly doesn't really need an introduction. They are one of the most trusted technical book publishers. This bundle leans on some of their strongest Linux titles, including <strong>Learning Git</strong>, <strong>Linux Pocket Guide</strong>, and <strong>Practical Linux System Administration</strong>, alongside a handful of more specialized picks for security testing and Kubernetes.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://humblebundleinc.sjv.io/X4r9Lg">Humble Bundle: Linux: All the Things by O'Reilly</a></div><p>All fifteen eBooks come as DRM-free PDF and ePUB files. Which means they're yours to keep forever once you buy them. Whatever amount you pay goes toward the publisher, Humble, and Code for America, a nonprofit working on making government services simpler and more accessible. If you use our link, a tiny fraction will come to us as well (read our <a href="https://itsfoss.com/affiliate-policy/">affiliate policy</a>). Just wanted to be clear about that.</p>
-<!--kg-card-begin: html-->
-<!--
-  It's FOSS &mdash; Humble Bundle card (Ghost HTML card)
-  Paste this entire block into an HTML card in the Ghost editor.
-  For a new bundle: edit only the BUNDLE object below.
-    title     - bundle name
-    publisher - e.g. "O'Reilly", "No Starch Press"
-    format    - e.g. "DRM-free PDF/ePUB"
-    value     - e.g. "$870 value"
-    deadline  - ISO UTC, e.g. "2026-07-30T23:59:59Z"
-    charity   - charity name
-    link      - full affiliate URL, pasted as-is
-    note      - optional one-line highlight; "" hides the line
-    tiers     - up to 3: { name, price, count }
--->
-<div class="ifs-bundle-card" id="ifs-bundle-card">
-  <div class="ifs-bundle-top">
-    <div>
-      <h3 class="ifs-bundle-title" id="ifs-bundle-title"></h3>
-      <p class="ifs-bundle-meta" id="ifs-bundle-meta"></p>
-    </div>
-    <div class="ifs-bundle-cwrap">
-      <p class="ifs-bundle-clabel" id="ifs-bundle-clabel"></p>
-      <p class="ifs-bundle-countdown" id="ifs-bundle-countdown">--</p>
-    </div>
-  </div>
-  <div class="ifs-bundle-tiers" id="ifs-bundle-tiers"></div>
-  <p class="ifs-bundle-note" hidden="hidden" id="ifs-bundle-note"></p>
-  <div class="ifs-bundle-bottom">
-    <p class="ifs-bundle-charity" id="ifs-bundle-charity"></p>
-    <a class="ifs-bundle-cta" href="https://itsfoss.com#" id="ifs-bundle-cta" rel="nofollow sponsored noopener" target="_blank">Get the bundle</a>
-  </div>
-</div>
-&#129782;
-<!--kg-card-end: html-->
-<h2 id="heres-everything-in-the-bundle">Here's everything in the bundle</h2>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Tier 1</th>
-<th>Tier 2</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Linux Observability with BPF</td>
-<td>Learning Kali Linux</td>
-</tr>
-<tr>
-<td>Git for Teams</td>
-<td>Linux Pocket Guide</td>
-</tr>
-<tr>
-<td>Git Pocket Guide</td>
-<td>Learning Git</td>
-</tr>
-<tr>
-<td>Linux System Programming</td>
-<td>Practical Linux System Administration</td>
-</tr>
-<tr>
-<td>Understanding the Linux Kernel</td>
-<td>Version Control with Git</td>
-</tr>
-<tr>
-<td></td>
-<td>Kubernetes: Up and Running</td>
-</tr>
-<tr>
-<td></td>
-<td>Network Programmability and Automation</td>
-</tr>
-<tr>
-<td></td>
-<td>Learning Modern Linux</td>
-</tr>
-<tr>
-<td></td>
-<td>Efficient Linux at the Command Line</td>
-</tr>
-<tr>
-<td></td>
-<td>Linux Cookbook</td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>Bundle is divided into two tiers with different pricing and sets of books.</p><h2 id="tier-1-pay-590-or-more-for-5-books">Tier 1: Pay $5.90 or More for 5 Books</h2><figure class="kg-card kg-image-card"><img alt="Tier 1 Linux book bundle" class="kg-image" height="1209" src="https://itsfoss.com/content/images/2026/07/linux-book-bundle.webp" width="1358" /></figure><p>The entry tier costs $5.90 and gets you five books, leaning more toward Linux internals than beginner material.</p><p><strong>Linux Observability with BPF</strong> covers using BPF for performance analysis and network monitoring, the kind of thing you refer to when you're troubleshooting a production system rather than just running one. <strong>Linux System Programming</strong> and <strong>Understanding the Linux Kernel</strong> go a level deeper still, covering system calls, process management, and how the kernel itself is put together.</p><p>The other two books in this tier are Git references. <strong>Git for Teams</strong> focuses on building efficient, user-centered Git workflows across a team, and <strong>Git Pocket Guide</strong> is a quick-reference companion for common git commands.</p><h2 id="tier-2-pay-2950-or-more-for-all-15-books">Tier 2: Pay $29.50 or More for All 15 Books</h2><p>Paying $29.50 or more unlocks the full fifteen-book set. Do note that the tiers above that, $34.50 up to $49.50, don't add any more books. That extra money just routes to O'Reilly, Humble, and Code for America.</p><p>This tier adds two more Git titles to round out what Tier 1 started. <strong>Learning Git</strong> is a from-scratch introduction for anyone still fuzzy on branches and commits, and <strong>Version Control with Git</strong> goes deeper into collaborative workflows and tooling.</p><p>A cluster of books here cover core Linux skills. <strong>Linux Pocket Guide</strong>, now in its fourth edition for its 20th anniversary, is a command reference built for the terminal. <strong>Learning Modern Linux</strong> and <strong>Efficient Linux at the Command Line</strong> build on that with cloud-native context and practical shell efficiency, while <strong>Linux Cookbook</strong> and <strong>Practical Linux System Administration</strong> round things out with recipes and day-to-day sysadmin practice.</p><p><strong>Learning Kali Linux</strong> covers security testing, penetration testing, and ethical hacking basics, useful if you want to poke at your own systems before someone else does.</p><p>The last two books look are more advanced and geared towards DevOps. <strong>Kubernetes: Up and Running</strong> is a solid on-ramp into container orchestration, and <strong>Network Programmability and Automation</strong> covers automating network devices instead of clicking through them one by one.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">Do checkout for the edition of those books, though. Sometimes, these bundles may include older editions.</div></div><h2 id="%F0%9F%9B%92-get-the-bundle">&#128722; Get the Bundle</h2><p>All fifteen books are DRM-free PDF and ePUB, so they're yours to keep and move to whatever device you actually read on. </p><p>If even a couple of these titles are already on your reading list, $29.50 for all is still a good deal. And part of your payment supports Code for America, which is similar to doing charity yourself.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://humblebundleinc.sjv.io/X4r9Lg">Get the Linux: All the Things bundle</a></div>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17381816.gif" width="1" />]]></description>
-      <category>News</category>
+      <title>Шумные соседи: сочтут ли вызов ложным, если к приезду милиции станет тихо</title>
+      <link>https://realt.onliner.by/go/1118115</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/shumnye-sosedi-2</guid>
+      <pubDate>Mon, 20 Jul 2026 14:02:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/shumnye-sosedi-2"><img alt="" src="https://content.onliner.by/news/thumbnail/adcd7ec98c0927171b08e94dc5fb752e.jpg" /></a></p><p><em>«Летом почти каждый вечер соседи собираются во дворе. Они включают громкую музыку, разговаривают и смеются до поздней ночи. Хочу обратиться в службу 102, но боюсь, что, пока приедет наряд, нарушители спокойствия разойдутся. В таком случае не сочтут ли звонок ложным вызовом?»</em> — спрашивает Алексей, проживающий на улице Кольцова. Корреспондент агентства <a href="https://minsknews.by/shumnye-sosedi-sochtut-li-vyzov-lozhnym-esli-k-priezdu-naryada-miliczii-stanet-tiho/" target="_blank">«Минск-Новости»</a> отправилась за ответом к участковому.</p><p><a href="https://realt.onliner.by/2026/07/20/shumnye-sosedi-2">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>В Беларуси выпустили прямоугольную монету</title>
+      <link>https://money.onliner.by/go/337753</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/v-belarusi-vypustili-pryamougolnuyu-monetu</guid>
+      <pubDate>Mon, 20 Jul 2026 13:35:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/v-belarusi-vypustili-pryamougolnuyu-monetu"><img alt="" src="https://content.onliner.by/news/thumbnail/4f7a274eb77d674d4d8ddc270aaa48e5.jpg" /></a></p><p>В кассах Национального банка с 22 июля можно будет купить памятные монеты серии «Беларуская батлейка». В продаже будут две версии — из медно-никелевого сплава и серебра.</p><p><a href="https://money.onliner.by/2026/07/20/v-belarusi-vypustili-pryamougolnuyu-monetu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Премьера года? Оцените первый трейлер фильма «Мстители: Судный день»</title>
+      <link>https://tech.onliner.by/go/783423</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/premera-goda-ocenite-pervyj-trejler-filma-mstiteli-sudnyj-den</guid>
+      <pubDate>Mon, 20 Jul 2026 13:32:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/premera-goda-ocenite-pervyj-trejler-filma-mstiteli-sudnyj-den"><img alt="" src="https://content.onliner.by/news/thumbnail/ae28734c4db53668afd1ce78f54e80aa.jpg" /></a></p><p>В кинотеатрах потенциальный блокбастер покажут в этом году, 18 декабря. Напомним, что это будет кульминация истории киновселенной Marvel, охватывающей последние семь лет и три фазы с момента выхода «Мстителей: Финал». А годом позже в прокате окажется картина «Мстители: Секретные войны».</p><p><a href="https://tech.onliner.by/2026/07/20/premera-goda-ocenite-pervyj-trejler-filma-mstiteli-sudnyj-den">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Белджи» продал 50 000 кроссоверов Belgee X70. Юбилейный купили в России</title>
+      <link>https://auto.onliner.by/go/1257000</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/beldzhi-prodal-50-000-krossoverov-belgee-x70-yubilejnyj-kupili-v-rossii</guid>
+      <pubDate>Mon, 20 Jul 2026 13:03:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/beldzhi-prodal-50-000-krossoverov-belgee-x70-yubilejnyj-kupili-v-rossii"><img alt="" src="https://content.onliner.by/news/thumbnail/1356f2a51feecd76600e5e0c8a9df402.jpg" /></a></p><p>СЗАО «Белджи» реализовало 50 000 кроссоверов Belgee X70. Юбилейный автомобиль цвета синий металлик купил покупатель из Нижнего Новгорода (Россия). </p><p><a href="https://auto.onliner.by/2026/07/20/beldzhi-prodal-50-000-krossoverov-belgee-x70-yubilejnyj-kupili-v-rossii">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Витебске заметили необычную «фотобудку»: там девочка рисовала портреты всех желающих</title>
+      <link>https://people.onliner.by/go/1318511</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/20/v-vitebske-zametili-neobychnuyu-fotobudku</guid>
+      <pubDate>Mon, 20 Jul 2026 12:42:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/20/v-vitebske-zametili-neobychnuyu-fotobudku"><img alt="" src="https://content.onliner.by/news/thumbnail/19aca4ecf9cade22ad4efd414262a32e.jpg" /></a></p><p><p dir="ltr">В Витебске юная художница придумала необычный способ заработать на своем таланте. На улице Суворова заметили картонную «фотобудку», в которой вместо снимков посетителям рисовали портреты.</p><p><a href="https://people.onliner.by/2026/07/20/v-vitebske-zametili-neobychnuyu-fotobudku">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Шакира снова будет судиться с налоговой Испании (обновлено)</title>
+      <link>https://money.onliner.by/go/327306</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/shakiru-opravdali-po-delu</guid>
+      <pubDate>Mon, 20 Jul 2026 12:35:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/shakiru-opravdali-po-delu"><img alt="" src="https://content.onliner.by/news/thumbnail/717874fa285a80f85ec6937b1cbab210.jpg" /></a></p><p>Национальный суд Испании полностью оправдал певицу Шакиру по делу о предполагаемом налоговом мошенничестве за 2011 год. Теперь артистке должны вернуть более 60 млн евро — вместе с процентами и судебными расходами. Однако на этом история не закончилась.</p><p><a href="https://money.onliner.by/2026/07/20/shakiru-opravdali-po-delu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Пристанище для миллионера? Нашли рядом с Минском роскошный особняк с двумя бассейнами</title>
+      <link>https://realt.onliner.by/go/1118162</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/pristanishhe-dlya-millionera</guid>
+      <pubDate>Mon, 20 Jul 2026 12:17:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/pristanishhe-dlya-millionera"><img alt="" src="https://content.onliner.by/news/thumbnail/146dd33f6968da15f3db445a91ae5dcc.jpg" /></a></p><p>В пригороде Минска <a href="https://r.onliner.by/pk/apartments/1263961" target="_blank">выставили</a> на продажу по-настоящему роскошный загородный комплекс, который выглядит как Версальский дворец. Снаружи — красивый сад с фонтаном, внутри — помпезные интерьеры с классической мебелью. А еще здесь даже не один, а целых два бассейна — что это, если не жизнь как в фильмах? Правда, на такой статусный объект придется раскошелиться: за резиденцию миллионеров просят $690 000 в эквиваленте.</p><p><a href="https://realt.onliner.by/2026/07/20/pristanishhe-dlya-millionera">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Результат чемпионата мира по футболу предсказали в компьютерной игре</title>
+      <link>https://tech.onliner.by/go/783410</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/rezultat-chempionata-mira-po-futbolu-predskazali-v-kompyuternoj-igre</guid>
+      <pubDate>Mon, 20 Jul 2026 12:06:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/rezultat-chempionata-mira-po-futbolu-predskazali-v-kompyuternoj-igre"><img alt="" src="https://content.onliner.by/news/thumbnail/616ac2c4c29e8f04e6765613dec7e2ce.jpg" /></a></p><p>В начале июня разработчики EA Sports FC, популярной серии спортивных видеоигр, <a href="https://x.com/EASPORTSFC/status/2063274777335214273?s=20" target="_blank">провели</a> симуляцию с применением ИИ, в которой виртуальные спортсмены схлестнулись друг с другом. Отметим, что EA Sports FC используется для прогнозирования результатов мундиалей с 2010 года. </p><p><a href="https://tech.onliner.by/2026/07/20/rezultat-chempionata-mira-po-futbolu-predskazali-v-kompyuternoj-igre">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Такая ягода растет в Беларуси, но стоит дороже любой экзотики</title>
+      <link>https://money.onliner.by/go/337655</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/takaya-yagoda-rastet-v-belarusi-no-stoit-dorozhe-lyuboj-ekzotiki</guid>
+      <pubDate>Mon, 20 Jul 2026 11:39:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/takaya-yagoda-rastet-v-belarusi-no-stoit-dorozhe-lyuboj-ekzotiki"><img alt="" src="https://content.onliner.by/news/thumbnail/39bc64a3828a308c8fce50b722a59b50.jpg" /></a></p><p>В одном из минских магазинов заметили красную смородину по 18,99 рубля. Правда, речь идет не о килограмме, а о небольшой упаковке весом 125 граммов.</p><p><a href="https://money.onliner.by/2026/07/20/takaya-yagoda-rastet-v-belarusi-no-stoit-dorozhe-lyuboj-ekzotiki">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Не успела перейти дорогу, а машины уже поехали. Такие истории пугают и пешеходов, и водителей (видео)</title>
+      <link>https://auto.onliner.by/go/1256987</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/ne-uspela-perejti</guid>
+      <pubDate>Mon, 20 Jul 2026 11:38:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/ne-uspela-perejti"><img alt="" src="https://content.onliner.by/news/thumbnail/049f4e90cb47617d5e57f64b717e02a9.jpg" /></a></p><p>Логойский тракт в Минске: несколько полос движения, 60 км/ч, регулируемые пешеходные переходы. Но если горит зеленый свет — можно смело ехать, правда? А вот неправда. Потому что, даже если горит зеленый, неожиданно на дороге может появиться пешеход, который просто не успел перейти проезжую часть.</p><p><a href="https://auto.onliner.by/2026/07/20/ne-uspela-perejti">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Минчанин купил популярный в России «игрушечный» револьвер — в Беларуси за него дают срок</title>
+      <link>https://people.onliner.by/go/1318477</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/20/populyarnyj-v-rossii-igrushechnyj-revolver</guid>
+      <pubDate>Mon, 20 Jul 2026 10:37:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/20/populyarnyj-v-rossii-igrushechnyj-revolver"><img alt="" src="https://content.onliner.by/news/thumbnail/687f278240f348c00376ef278079c3d4.jpg" /></a></p><p><p dir="ltr">В Минске расследуют уголовное дело о незаконном приобретении и хранении травматического оружия. По <a href="https://sk.gov.by/ru/news-ru/view/v-minske-rassleduetsja-ugolovnoe-delo-po-faktu-nezakonnogo-priobretenija-revolvera-cherez-internet-resurs-16181/" target="_blank">данным</a> Следственного комитета, 48-летний житель столицы заказал револьвер через интернет-площадку и получил его по почте.</p><p><a href="https://people.onliner.by/2026/07/20/populyarnyj-v-rossii-igrushechnyj-revolver">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Очереди на границе выросли резко и в разы. Какая там обстановка?</title>
+      <link>https://auto.onliner.by/go/1256939</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/ocheredi-na-granice-10</guid>
+      <pubDate>Mon, 20 Jul 2026 10:35:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/ocheredi-na-granice-10"><img alt="" src="https://content.onliner.by/news/thumbnail/e09dc53749f5a6557ef3fbf176901e70.jpg" /></a></p><p>С пятницы очередь легковых и грузовых авто на въезд в Литву и Польшу выросла почти в четыре раза, сообщает Государственный пограничный комитет Беларуси.</p><p><a href="https://auto.onliner.by/2026/07/20/ocheredi-na-granice-10">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Кардиологи: вот сколько чашек кофе в день можно выпить без вреда для здоровья</title>
+      <link>https://tech.onliner.by/go/783388</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/kardiologi-vot-skolko-chashek-kofe-v-den-mozhno-vypit-bez-vreda-dlya-zdorovya</guid>
+      <pubDate>Mon, 20 Jul 2026 10:31:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/kardiologi-vot-skolko-chashek-kofe-v-den-mozhno-vypit-bez-vreda-dlya-zdorovya"><img alt="" src="https://content.onliner.by/news/thumbnail/9a5a303c54ddb16b0b37d339391afed8.jpg" /></a></p><p>Эксперты Американской кардиологической ассоциации выпустили новое научное заявление, посвященное связи между употреблением кофе и сердечно-сосудистыми заболеваниями. Исследователи <a href="https://gizmodo.com/how-much-coffee-is-too-much-heart-experts-have-a-new-answer-2000787168" target="_blank">утверждают</a>, что взаимосвязь между потреблением кофеина и здоровьем сердечно-сосудистой системы может быть довольно запутанной, поэтому они проанализировали самые актуальные научные данные по этой теме.</p><p><a href="https://tech.onliner.by/2026/07/20/kardiologi-vot-skolko-chashek-kofe-v-den-mozhno-vypit-bez-vreda-dlya-zdorovya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Почти миллион «квадратов» до 2030 года. Так звучат планы по строительству Зеленого Бора</title>
+      <link>https://realt.onliner.by/go/1118146</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/pochti-million-kvadratov-do-2030</guid>
+      <pubDate>Mon, 20 Jul 2026 10:30:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/pochti-million-kvadratov-do-2030"><img alt="" src="https://content.onliner.by/news/thumbnail/8cfff79233526d6a168ac31db7373ddb.jpg" /></a></p><p><p>На восточной окраине столицы, всего в трех километрах от МКАД, готовится к старту один из самых масштабных градостроительных проектов современности. К возведению огромного жилого района Зеленый Бор, который раскинется на территории бывшего военного полигона неподалеку от Колодищей, намерены приступить уже в конце 2026 года. Архитекторы окончательно определились с объемами застройки и планами на ближайшую перспективу, пишет агентство <a href="https://minsknews.by/do-2030-goda-v-zelenom-boru-planiruyut-postroit-okolo-952-tys-kv-m-zhilya/" target="_blank">«Минск-Новости»</a>.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/07/20/pochti-million-kvadratov-do-2030">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Столкновение Ford и BMW на перекрестке. Кто из водителей ехал на красный? (видео)</title>
+      <link>https://auto.onliner.by/go/1256940</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/stolknovenie-ford-i-bmw</guid>
+      <pubDate>Mon, 20 Jul 2026 10:07:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/stolknovenie-ford-i-bmw"><img alt="" src="https://content.onliner.by/news/thumbnail/14a0df9f0643dd9edc2f1d282a9625dc.jpg" /></a></p><p>В ГАИ Минска сообщили о ДТП, которое случилось сегодня утром на перекрестке улиц Неманской и Лидской. Авария попала на запись камеры видеонаблюдения: один из водителей ехал на красный.</p><p><a href="https://auto.onliner.by/2026/07/20/stolknovenie-ford-i-bmw">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Белорусы рассказали о работе мечты. Оказалось, карьера мало кому нужна</title>
+      <link>https://money.onliner.by/go/337622</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/belorusy-rasskazali-o-rabote-mechty</guid>
+      <pubDate>Mon, 20 Jul 2026 09:40:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/belorusy-rasskazali-o-rabote-mechty"><img alt="" src="https://content.onliner.by/news/thumbnail/c94b8ecac8e382337e140ae6402c7b4a.jpg" /></a></p><p>Белорусов спросили их мнение насчет работы мечты: оказалось, что 28% опрошенных уже нашли ее, а 48% верят, что еще смогут это сделать. Такими данными поделился исследовательский центр rabota.by, который узнал, что думают 765 пользователей сервиса о текущем месте, смысле работы и идеальных условиях.</p><p><a href="https://money.onliner.by/2026/07/20/belorusy-rasskazali-o-rabote-mechty">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Хогвартс будет уже в первой серии: появились подробности о сериале по «Гарри Поттеру»</title>
+      <link>https://tech.onliner.by/go/783379</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/xogvarts-budet-uzhe-v-pervoj-serii-poyavilis-podrobnosti-o-seriale-po-garri-potteru</guid>
+      <pubDate>Mon, 20 Jul 2026 09:31:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/xogvarts-budet-uzhe-v-pervoj-serii-poyavilis-podrobnosti-o-seriale-po-garri-potteru"><img alt="" src="https://content.onliner.by/news/thumbnail/5f17d94c441d778842479034a107f973.jpg" /></a></p><p>Адриано Голдман, оператор-постановщик сериала «Гарри Поттер» от HBO, дал <a href="https://www.youtube.com/watch?v=wCwXOfxNUOo" target="_blank">интервью</a> Андре Пилли, блогеру и режиссеру из Лос-Анджелеса. В нем он рассказал, что сейчас происходит с шоу, насколько жесткими ощущаются условия съемок сериала, и просто ли работать с новыми Гарри, Роном и Гермионой.</p><p><a href="https://tech.onliner.by/2026/07/20/xogvarts-budet-uzhe-v-pervoj-serii-poyavilis-podrobnosti-o-seriale-po-garri-potteru">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Метро не дождалось, очередь на такси — 462 заказа. Так Минск расходился после футбола (обновлено)</title>
+      <link>https://auto.onliner.by/go/1256901</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/metro-ne-dozhdalos</guid>
+      <pubDate>Mon, 20 Jul 2026 09:20:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/metro-ne-dozhdalos"><img alt="" src="https://content.onliner.by/news/thumbnail/f76caf56a1bf616a11f80534c822ae17.jpg" /></a></p><p>Футбол закончился. Болельщики по всему миру обсуждают в соцсетях победу Испании, несмотря на отмененные голы, а болельщики из Минска обсуждают еще ночное приключение: как добраться со стадиона «Динамо» домой, если общественный транспорт, включая метро, уже не работает?</p><p><a href="https://auto.onliner.by/2026/07/20/metro-ne-dozhdalos">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Под завалами в Ружанском дворце нашли башни XVII века, которые считались утраченными навсегда</title>
+      <link>https://realt.onliner.by/go/1118126</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/pod-zavalami-v-ruzhanskom-dvorce</guid>
+      <pubDate>Mon, 20 Jul 2026 09:10:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/pod-zavalami-v-ruzhanskom-dvorce"><img alt="" src="https://content.onliner.by/news/thumbnail/28a8cafdb4f473b534ce82147d2c4a8d.jpg" /></a></p><p><p>В Ружанском дворцовом комплексе во время расчистки завалов главного корпуса археологи обнаружили масштабные подземные конструкции начала XVII века и элементы первоначального оборонительного замка Сапег, которые долгое время считались полностью уничтоженными, пишет <a href="https://belta.by/society/view/tajny-ruin-ruzhanskogo-dvortsa-sensatsionnye-nahodki-sdelali-arheologi-vo-vremja-raskopok-791750-2026/" target="_blank">БЕЛТА</a>.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/07/20/pod-zavalami-v-ruzhanskom-dvorce">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
     </item>
     <item>
       <title>«Грустил после финала или просто не проснулся?» Таксист остановился в шаге от беды (видео)</title>
@@ -145,160 +201,6 @@
       <pubDate>Mon, 20 Jul 2026 08:01:08 +0000</pubDate>
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/dachnyj-sezon-2-j-tur"><img alt="" src="https://content.onliner.by/news/thumbnail/d3880f1b5a24babbec353d144fd04756.jpg" /></a></p><p>Onlíner объявляет начало второго тура конкурса <strong>«Дачный сезон»</strong>. Если вы превратили загородные сотки в чудесное место для отдыха, то это отличная возможность поделиться своим опытом со всей страной. Тем более что автор самой интересной по версии читателей истории получит приз от нашего партнера — торгового центра <a href="https://lenin-grad.by/sales">«Ленинград»</a>. А это 1000 рублей!</p><p><a href="https://realt.onliner.by/2026/07/20/dachnyj-sezon-2-j-tur">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Это вообще что было? Эффектная акробатика на проспекте в Минске (видео)</title>
-      <link>https://auto.onliner.by/go/1256892</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/akrobatika-na-prospekte</guid>
-      <pubDate>Mon, 20 Jul 2026 08:00:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/akrobatika-na-prospekte"><img alt="" src="https://content.onliner.by/news/thumbnail/d41ea8b74afe0abfc35c711737253560.jpg" /></a></p><p>Проспект Победителей в Минске, автомобилям горит зеленый свет. Вдруг слева кто-то несется по пешеходному переходу. Быстро, но недолго: на островке безопасности падает, летит на проезжую часть, где едут машины.</p><p><a href="https://auto.onliner.by/2026/07/20/akrobatika-na-prospekte">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Что происходит с долларом в начале новой недели</title>
-      <link>https://money.onliner.by/go/337588</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/chto-proisxodit-s-dollarom-v-nachale-novoj-nedeli</guid>
-      <pubDate>Mon, 20 Jul 2026 07:58:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/chto-proisxodit-s-dollarom-v-nachale-novoj-nedeli"><img alt="" src="https://content.onliner.by/news/thumbnail/63335bb29b4f39ee5d03a5612248317b.jpg" /></a></p><p>Новая неделя начинается медленным снижением доллара, но к концу торгов все еще может поменяться. Тем временем биткоин за последние сутки подешевел, сейчас находится вблизи отметки $64 076.
-</p><p><a href="https://money.onliner.by/2026/07/20/chto-proisxodit-s-dollarom-v-nachale-novoj-nedeli">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Cила смены образа. Девушки показали себя в хиджабе — и без</title>
-      <link>https://tech.onliner.by/go/783329</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/cila-smeny-obraza-devushki-pokazali-sebya-v-xidzhabe-i-bez</guid>
-      <pubDate>Mon, 20 Jul 2026 07:18:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/cila-smeny-obraza-devushki-pokazali-sebya-v-xidzhabe-i-bez"><img alt="" src="https://content.onliner.by/news/thumbnail/5d754fdd9b93a1b649dbbce5a56ccc63.jpg" /></a></p><p>Хиджаб — традиционный женский головной убор, который оставляет открытым лицо, но закрывает волосы, плечи и шею. Особенно часто он встречается в мусульманских странах и в некоторых регионах считается обязательным элементом одежды. Но есть девушки, которые решили отказаться от такого одеяния: ресурс <a href="https://www.boredpanda.com/powerful-side-by-side-women-shared-about-letting-go-of-the-hijab/" target="_blank">Bored Panda</a> показал, как они выглядят без этой накидки.
-</p><p><a href="https://tech.onliner.by/2026/07/20/cila-smeny-obraza-devushki-pokazali-sebya-v-xidzhabe-i-bez">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>На Минском море искали ребенка: его унесло за 1,5 километра от берега на сапборде</title>
-      <link>https://people.onliner.by/go/1318406</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/20/uneslo-za-15-kilometra</guid>
-      <pubDate>Mon, 20 Jul 2026 07:15:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/20/uneslo-za-15-kilometra"><img alt="" src="https://content.onliner.by/news/thumbnail/d0ef804795d8af549f8481db67bf89f6.jpg" /></a></p><p><p dir="ltr">На Минском море спасатели помогли 11-летнему мальчику, которого сильным ветром унесло далеко от берега на сапборде.</p><p><a href="https://people.onliner.by/2026/07/20/uneslo-za-15-kilometra">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В Беларуси появится еще одна база отдыха со стильными домиками у воды. Рассказываем где</title>
-      <link>https://realt.onliner.by/go/1118086</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/domiki-u-vody</guid>
-      <pubDate>Mon, 20 Jul 2026 06:55:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/domiki-u-vody"><img alt="" src="https://content.onliner.by/news/thumbnail/bc45b4a28e43a4b6e9b972016b144d59.png" /></a></p><p>В последние годы загородный отдых в уединенных стильных домиках обрел небывалую популярность. Цены на ночевку в них бьют все рекорды, но люди все равно с удовольствием организовывают себе такой природный досуг. Поэтому неудивительно, что новые объекты постоянно анонсируют. На днях мы рассказывали, что на Браславских озерах планируют <a href="https://realt.onliner.by/2026/07/18/poyavitsya-novaya-baza-otdyxa" target="_blank">построить</a> ретрит-центр. В той же Витебской области готовится еще один проект. Он сейчас вынесен на общественное обсуждение. </p><p><a href="https://realt.onliner.by/2026/07/20/domiki-u-vody">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Постановление №713 снова меняют — вот главные новшества (обновлено)</title>
-      <link>https://money.onliner.by/go/336279</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/pravitelstvo-budet-regulirovat-ceny-na-menshee-chislo-tovarov</guid>
-      <pubDate>Mon, 20 Jul 2026 06:47:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/pravitelstvo-budet-regulirovat-ceny-na-menshee-chislo-tovarov"><img alt="" src="https://content.onliner.by/news/thumbnail/39d3ea9af1a28e4eea1f9d97cd1ccc1f.jpg" /></a></p><p>В Беларуси скорректировали систему регулирования цен, которая действует в стране с 2022 года. Соответствующее постановление подписал премьер-министр, сообщили в правительстве. Одно из главных новшеств — стало меньше товаров, на которые государство регулирует цены.</p><p><a href="https://money.onliner.by/2026/07/20/pravitelstvo-budet-regulirovat-ceny-na-menshee-chislo-tovarov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Метро не дождалось, очередь на такси — 462 заказа. Так Минск расходился после футбола</title>
-      <link>https://auto.onliner.by/go/1256901</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/metro-ne-dozhdalos</guid>
-      <pubDate>Mon, 20 Jul 2026 06:47:20 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/metro-ne-dozhdalos"><img alt="" src="https://content.onliner.by/news/thumbnail/f76caf56a1bf616a11f80534c822ae17.jpg" /></a></p><p>Футбол закончился. Болельщики по всему миру обсуждают в соцсетях победу Испании, несмотря на отмененные голы, а болельщики из Минска обсуждают еще ночное приключение: как добраться со стадиона «Динамо» домой, если общественный транспорт, включая метро, уже не работает?</p><p><a href="https://auto.onliner.by/2026/07/20/metro-ne-dozhdalos">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Рекорд? За первые выходные «Одиссея» заработала 264 миллиона</title>
-      <link>https://tech.onliner.by/go/783323</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/rekord-za-pervye-vyxodnye-odisseya-zarabotala-264-milliona</guid>
-      <pubDate>Mon, 20 Jul 2026 06:23:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/rekord-za-pervye-vyxodnye-odisseya-zarabotala-264-milliona"><img alt="" src="https://content.onliner.by/news/thumbnail/41a7ee97a9c85304b44efef47512d35c.jpg" /></a></p><p>В одних лишь кинотеатрах США «Одиссея» Кристофера Нолана <a href="https://variety.com/2026/film/box-office/the-odyssey-box-office-christopher-nolan-opening-weekend-shatters-expectations-1236815861/" target="_blank">заработала</a> за эти выходные 124,5 миллиона долларов. Сообщается, что эти кассовые сборы примечательны тем, что это самый крупный дебют Нолана с 2012 года: тогда вышел «Темный рыцарь: Возрождение», собравший 160 миллионов долларов.</p><p><a href="https://tech.onliner.by/2026/07/20/rekord-za-pervye-vyxodnye-odisseya-zarabotala-264-milliona">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Сходили в бывший ресторан «Минск» в Потсдаме — теперь галерею, где можно увидеть картины Моне</title>
-      <link>https://people.onliner.by/go/1317293</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/20/restoran-minsk-v-potsdame</guid>
-      <pubDate>Mon, 20 Jul 2026 06:20:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/20/restoran-minsk-v-potsdame"><img alt="" src="https://content.onliner.by/news/thumbnail/3693ac6939dd8a19f57aba04b853d0ce.jpg" /></a></p><p><p dir="ltr">В 1970-х БССР и ГДР сделали необычную коллаборацию: обменялись ресторанами.</p><p><a href="https://people.onliner.by/2026/07/20/restoran-minsk-v-potsdame">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Подросток на мотоцикле сбил маленького мальчика, который выехал на дорогу на самокате</title>
-      <link>https://auto.onliner.by/go/1256857</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/sbil-malenkogo</guid>
-      <pubDate>Mon, 20 Jul 2026 06:10:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/sbil-malenkogo"><img alt="" src="https://content.onliner.by/news/thumbnail/68142f82c33bfdc50f79f27443a6e51a.jpg" /></a></p><p>Вчера, 19 июля, около 16:45 в Борисове случилось ДТП с двумя несовершеннолетними: 16-летним подростком, который ехал на мотоцикле, и 5-летним мальчиком, катавшимся на самокате.</p><p><a href="https://auto.onliner.by/2026/07/20/sbil-malenkogo">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Алло, меня слышно? Протестировали недорогие геймерские микрофоны</title>
-      <link>https://tech.onliner.by/go/782185</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/obzor-microphones-fifine-maono</guid>
-      <pubDate>Mon, 20 Jul 2026 05:30:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/obzor-microphones-fifine-maono"><img alt="" src="https://content.onliner.by/news/thumbnail/81b9247a3bfc624b36e4fac6d57c0ab3.jpg" /></a></p><p>Студийное качество — это уже давно не про большие деньги. Если раньше приходилось отдавать баснословные суммы за красивое звучание голоса, то сегодня его можно обеспечить дома с микрофоном, цена которого не превышает пары закупок в магазине. И тем не менее — все ли хорошо в низком бюджете или тут есть подводные камни? Выясняем на примере трех популярных моделей от FIFINE и Maono.</p><p><a href="https://tech.onliner.by/2026/07/20/obzor-microphones-fifine-maono">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Sony Ericsson за ползарплаты, вечеринки в «28» и первые гипермаркеты. Как жил Минск в 2006-м</title>
-      <link>https://realt.onliner.by/go/1115405</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/minsk-2006</guid>
-      <pubDate>Mon, 20 Jul 2026 05:00:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/minsk-2006"><img alt="" src="https://content.onliner.by/news/thumbnail/70dfcda1768d83a6b689dd9bec9e38d6.jpg" /></a></p><p><p dir="ltr">В 2006 году Минск был совсем другим. Национальная библиотека только открылась, на месте будущей «Минск-Арены» работала строительная техника, в Брилевичах росли первые многоэтажки, а главным способом выбрать ресторан или мобильный телефон были советы на форуме Onlíner. По вечерам город танцевал в «Блиндаже» и X-Ray, по выходным ездил на «Ждановичи» за джинсами, а за матчем теннисного Кубка Дэвиса следил так же внимательно, как сегодня за чемпионатом мира по футболу. Вместе с <a href="https://www.prostore.by" target="_blank">ProStore</a> мы заглянули в архивы, перечитали новости и обсуждения двадцатилетней давности, чтобы вспомнить, чем жил Минск в 2006-м — году, когда современный город только начинал приобретать привычные нам очертания. </p><p><a href="https://realt.onliner.by/2026/07/20/minsk-2006">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>$9 млн за Bugatti. Побывали в одном из самых дорогих автосалонов мира в Дубае (видео)</title>
-      <link>https://auto.onliner.by/go/1256804</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/pobyvali-v-odnom-iz-samyx-dorogix-avtosalonov-mira</guid>
-      <pubDate>Mon, 20 Jul 2026 05:00:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/pobyvali-v-odnom-iz-samyx-dorogix-avtosalonov-mira"><img alt="" src="https://content.onliner.by/news/thumbnail/99bdea114bee70337c865ae5f69bcaef.jpg" /></a></p><p>Оказаться в Дубае и не зайти в салон роскошных гиперкаров стоимостью до 9 млн долларов — это преступление. И мы решили его не совершать, а потому привезли репортаж из знаменитого F1rst Motors. Это один из самых дорогих автосалонов в мире: Bugatti, Ferrari, Lamborghini, Porsche, Aston-Martin и не только. Некоторые из представленных здесь моделей люксовых брендов существуют в единичных экземплярах. Кстати, оказались мы в салоне после его закрытия… Как так получилось — рассказываем.</p><p><a href="https://auto.onliner.by/2026/07/20/pobyvali-v-odnom-iz-samyx-dorogix-avtosalonov-mira">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Казалось, если положу трубку, сделаю хуже себе». Вот так «ломают» телефонные мошенники</title>
-      <link>https://money.onliner.by/go/337538</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/20/kredity-dlya-moshennikov</guid>
-      <pubDate>Mon, 20 Jul 2026 05:00:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/20/kredity-dlya-moshennikov"><img alt="" src="https://content.onliner.by/news/thumbnail/ec1f9a06763360e3dbeef09652ad876d.jpg" /></a></p><p>Однажды Екатерине позвонили. Незнакомый голос представился сотрудником госорганов и сообщил, что ее имя фигурирует в деле о финансировании опасного преступника. Следующие три недели ее телефон практически не замолкал. Девушке запрещали рассказывать о происходящем близким, убеждали оформить кредиты, учили, что говорить сотрудникам банков, и обещали, что после «спецоперации» деньги вернутся. Когда все закончилось, на Екатерине висело кредитов почти на 50 тыс. рублей, а ее парень впервые в жизни увидел, как человека можно «сломать» по телефону.</p><p><a href="https://money.onliner.by/2026/07/20/kredity-dlya-moshennikov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Что он с ней сделал?» Гражданин Эстонии вывез маленькую дочь без согласия ее мамы-белоруски</title>
-      <link>https://people.onliner.by/go/1317933</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/20/pokhishchenie-docheri</guid>
-      <pubDate>Mon, 20 Jul 2026 05:00:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/20/pokhishchenie-docheri"><img alt="" src="https://content.onliner.by/news/thumbnail/85d0bf8d7105193d6ae38a0fcd53be48.jpg" /></a></p><p>С 27 июня Елена Ш. не видит свою 4-летнюю дочь Дашу. В тот день бывший муж забрал девочку в одиннадцать утра, но к положенным семи вечера так и не вернул. <em>«Вместо этого он вывез дочку через Россию к себе в Эстонию. И это произошло вопреки решению суда, который запретил выезд ребенка за пределы Беларуси без моего письменного согласия,</em> — рассказывает Елена. — <em>На связь бывший супруг вышел только спустя десять дней, 6 июля. Мы созвонились по видеосвязи, но Даша вела себя так, словно я ей чужая: закрывала лицо руками, отворачивалась, не хотела разговаривать и не называла меня мамой. Что он с ней сделал? И как ему вообще удалось вывезти дочку в Евросоюз при действующем судебном запрете?»</em> Мы попытались разобраться в этой запутанной истории — рассказываем подробности.</p><p><a href="https://people.onliner.by/2026/07/20/pokhishchenie-docheri">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Американцы мучаются из-за «взрывной диареи». Вот в чем причина</title>
-      <link>https://tech.onliner.by/go/783180</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/20/v-ssha-vspyshka-vzryvnoj-diarei-rasskazyvaem-chto-proizoshlo</guid>
-      <pubDate>Mon, 20 Jul 2026 05:00:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/20/v-ssha-vspyshka-vzryvnoj-diarei-rasskazyvaem-chto-proizoshlo"><img alt="" src="https://content.onliner.by/news/thumbnail/7f366833ef040a2a2c5ac2852ccd5b8c.jpg" /></a></p><p>Сейчас жители США мучаются не только из-за рекордной жары, но и из-за напасти более деликатного характера. Речь идет о <a href="https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/investigation.html" target="_blank">циклоспорозе</a> — кишечном заболевании, вызываемом паразитом Cyclospora cayetanensis. По данным органов здравоохранения США, в истории страны это крупнейшая вспышка, из-за которой сотне американцев понадобилась срочная госпитализация. Рассказываем, что это за болезнь, почему циклоспороз разошелся настолько широко и может ли он покинуть пределы США.</p><p><a href="https://tech.onliner.by/2026/07/20/v-ssha-vspyshka-vzryvnoj-diarei-rasskazyvaem-chto-proizoshlo">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Рай здесь с нюансами. Самые живописные пляжи Европы (и что с ними не так)</title>
-      <link>https://realt.onliner.by/go/359687</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/20/top-10-8</guid>
-      <pubDate>Mon, 20 Jul 2026 04:00:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/20/top-10-8"><img alt="" src="https://content.onliner.by/news/thumbnail/bc65952b4d1e5d32ad0c88e625c34e1b.jpg" /></a></p><p>В Европе хватает пляжей, которые регулярно попадают в рейтинги самых красивых. Их объединяет необычный цвет воды и эффектные пейзажи. Но у каждого такого места есть свои особенности: где-то летом слишком многолюдно, где-то почти постоянно ветрено, а до некоторых пляжей еще нужно добраться. Мы выбрали 10 самых живописных пляжей Европы и рассказываем, что стоит знать перед поездкой.</p><p><a href="https://realt.onliner.by/2026/07/20/top-10-8">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Болторез против велозамков: устроили краш-тест и выяснили все (видео)</title>
-      <link>https://auto.onliner.by/go/1060481</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/20/krash-test-velozamkov</guid>
-      <pubDate>Mon, 20 Jul 2026 04:00:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/20/krash-test-velozamkov"><img alt="" src="https://content.onliner.by/news/thumbnail/004e9cb7c40e23f019694e7a773a4b35.jpg" /></a></p><p>Велозамок нужен. Даже если вам кажется, что вы ни на секунду не оставляете велосипед без присмотра. Потому что бывают случайности и бывают плохие дни. И потому что это самый элементарный способ защитить свое имущество: лучше сделать и забыть, чем не сделать, а потом горько сожалеть. Вопрос в том, какой велозамок выбрать. Мы проведем честный и жесткий краш-тест, чтобы помочь вам определиться.</p><p><a href="https://auto.onliner.by/2026/07/20/krash-test-velozamkov">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Осиповичах 5-летняя девочка выпала из окна третьего этажа</title>
-      <link>https://people.onliner.by/go/1318282</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/19/v-osipovichax-pyatiletnyaya</guid>
-      <pubDate>Sun, 19 Jul 2026 17:46:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/19/v-osipovichax-pyatiletnyaya"><img alt="" src="https://content.onliner.by/news/thumbnail/af5fb79308e440368a3d95703b809f7a.jpg" /></a></p><p>В Осиповичах следователи проводят проверку по факту падения 5-летнего ребенка с третьего этажа. По предварительным данным, вечером 18 июля девочка играла на балконе квартиры под присмотром отца. В какой-то момент мужчина ненадолго отвлекся, а ребенок забрался на детскую ванночку и выпал из окна.</p><p><a href="https://people.onliner.by/2026/07/19/v-osipovichax-pyatiletnyaya">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Become More Productive With These GNOME Extensions</title>
