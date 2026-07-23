@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 22 Jul 2026 19:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 02:42:38 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,7 +17,7 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Смартфоны, на которые стоит обратить внимание прямо сейчас</title>
+      <title>Пять смартфонов, которые сейчас выгодно покупать</title>
       <link>https://money.onliner.by/go/338229</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/07/22/smartfony-na-kotorye-stoit-obratit-vnimanie-pryamo-sejchas</guid>
       <pubDate>Wed, 22 Jul 2026 16:46:07 +0000</pubDate>
