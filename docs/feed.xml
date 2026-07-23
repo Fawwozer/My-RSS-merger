@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 23 Jul 2026 08:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:58:19 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff</title>
+      <link>https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30</link>
+      <guid isPermaLink="false">6a5f55d20dfcce0001cd2d9b</guid>
+      <pubDate>Thu, 23 Jul 2026 12:55:11 +0000</pubDate>
+      <description><![CDATA[FOSS Weekly]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
     <item>
       <title>Getting Windows-Like &amp;quot;My Computer&amp;quot; Feel on Linux File Manager</title>
       <link>https://feed.itsfoss.com/link/24361/17385186/nautilus-my-computer</link>
@@ -17,213 +25,214 @@
       <category>Customization ⚙️</category>
     </item>
     <item>
+      <title>Крутой мотофестиваль, выставка тюнингованных японских автомобилей и гонки. Анонс мероприятий</title>
+      <link>https://auto.onliner.by/go/1257572</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/anons-meropriyatij-6</guid>
+      <pubDate>Thu, 23 Jul 2026 13:55:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/anons-meropriyatij-6"><img alt="" src="https://content.onliner.by/news/thumbnail/bb2e4fc41dbb6402e568fc34f027d942.jpg" /></a></p><p>Очередные летние выходные подарят нам не только теплую погоду, но и несколько крутых ивентов. В Бресте пройдет масштабный слет байкеров с мощным рок-концертом, в столице в очередной раз состоится выставка ярких японских автомобилей, в Пинске мастера угла разыграют награды очередного этапа чемпионата РБ по дрифту, а в деревне Прилесье шума дадут участники проекта Togue battle. Сейчас все расскажем в традиционном анонсе Onlíner.   </p><p><a href="https://auto.onliner.by/2026/07/23/anons-meropriyatij-6">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Водитель ударил по лицу за просьбу сделать музыку тише». Милиция о скандале с WB Taxi (обновлено)</title>
+      <link>https://auto.onliner.by/go/1257507</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/voditel-udaril-menya-po-licu-za-prosbu-sdelat-muzyku-tishe-passazhirka-o-skandale-s-wb-taxi</guid>
+      <pubDate>Thu, 23 Jul 2026 13:34:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/voditel-udaril-menya-po-licu-za-prosbu-sdelat-muzyku-tishe-passazhirka-o-skandale-s-wb-taxi"><img alt="" src="https://content.onliner.by/news/thumbnail/285f47fe711e7c63c692ff4838dd2b73.jpg" /></a></p><p>С самого утра Threads и другие соцсети активно обсуждают пост минчанки, в котором она рассказала, что водитель WB Taxi ударил ее за просьбу сделать музыку потише. Девушка отмечает: поведение таксиста сразу показалось ей с коллегой странным.</p><p><a href="https://auto.onliner.by/2026/07/23/voditel-udaril-menya-po-licu-za-prosbu-sdelat-muzyku-tishe-passazhirka-o-skandale-s-wb-taxi">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Кто сможет посчитать листы? Новая задачка вызвала споры в интернете</title>
+      <link>https://tech.onliner.by/go/784086</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/kto-smozhet-poschitat-listy-novaya-zadachka-vyzvala-spory-v-internete</guid>
+      <pubDate>Thu, 23 Jul 2026 13:32:25 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/kto-smozhet-poschitat-listy-novaya-zadachka-vyzvala-spory-v-internete"><img alt="" src="https://content.onliner.by/news/thumbnail/5cb0f2ad5c4dad4815137787dc4b40f3.jpg" /></a></p><p>Задачки в школьных учебниках способны заставить задуматься сотни и тысячи взрослых, которые уже давно забыли таблицу умножения, а фраза «Пифагоровы штаны» воспринимается ими как что-то из модного бутика. И вот в Threads вновь разгорелись жаркие споры: на этот раз задачка действительно выглядит простой, но является ли такой на самом деле?</p><p><a href="https://tech.onliner.by/2026/07/23/kto-smozhet-poschitat-listy-novaya-zadachka-vyzvala-spory-v-internete">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В Витебске парень целый год тайно оформлял микрозаймы на бывшую одноклассницу</title>
+      <link>https://money.onliner.by/go/338337</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/v-vitebske-paren-celyj-god</guid>
+      <pubDate>Thu, 23 Jul 2026 13:15:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/v-vitebske-paren-celyj-god"><img alt="" src="https://content.onliner.by/news/thumbnail/7b9e3b023a1e9dd087b55a23c6d4f14d.jpg" /></a></p><p>В Витебске 23-летнего парня подозревают в том, что он около года тайно оформлял микрозаймы на бывшую одноклассницу. Общая сумма долга превысила 12 тысяч рублей.</p><p><a href="https://money.onliner.by/2026/07/23/v-vitebske-paren-celyj-god">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>У сомов нашли редкий вид рака. Он оказался заразным</title>
+      <link>https://tech.onliner.by/go/784060</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/u-somov-nashli-redkij-vid-raka-on-okazalsya-zaraznym</guid>
+      <pubDate>Thu, 23 Jul 2026 13:10:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/u-somov-nashli-redkij-vid-raka-on-okazalsya-zaraznym"><img alt="" src="https://content.onliner.by/news/thumbnail/5b5a7015fafc1bff9e164b566d0ae0f2.jpg" /></a></p><p>У диких сомов, обитающих на границе США и Канады, был обнаружен редкий заразный вид рака. Это четвертый зафиксированный случай, когда опухолевые клетки естественным образом распространяются от одного животного к другому. Речь идет о поражении кожи, разновидности меланомы чернильно-черного цвета, способной распространяться на мозг, печень и другие органы.</p><p><a href="https://tech.onliner.by/2026/07/23/u-somov-nashli-redkij-vid-raka-on-okazalsya-zaraznym">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Белорусский театр кукол покажет спектакль бесплатно. Где и когда?</title>
+      <link>https://people.onliner.by/go/1319185</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/belorusskij-teatr-kukol-pokazhet-spektakl-besplatno-gde-i-kogda</guid>
+      <pubDate>Thu, 23 Jul 2026 13:06:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/belorusskij-teatr-kukol-pokazhet-spektakl-besplatno-gde-i-kogda"><img alt="" src="https://content.onliner.by/news/thumbnail/c4a16710373fc33da25ff7d143fab9d0.jpg" /></a></p><p>Спектакль Белорусского государственного театра кукол «Кот в сапогах» можно будет посмотреть бесплатно! Его покажут в Раковском дворике (ул. Раковская, 25) 25 июля. Начало в 15:00.</p><p><a href="https://people.onliner.by/2026/07/23/belorusskij-teatr-kukol-pokazhet-spektakl-besplatno-gde-i-kogda">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Грядет финал второго сезона Belarusian Esports League. Кто заберет главный приз?</title>
+      <link>https://tech.onliner.by/go/784061</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/belarusian-esports-league-4</guid>
+      <pubDate>Thu, 23 Jul 2026 12:50:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/belarusian-esports-league-4"><img alt="" src="https://content.onliner.by/news/thumbnail/07242fe2f96c39dd9f8831c09332a837.jpg" /></a></p><p>24—25 июля в Минске пройдет финал второго сезона Belarusian Esports League. По итогам матчей регулярного этапа в финальную стадию второго сезона вышли восемь клубов: Cyberloga, META ARENA, PIXEL, UG_HUB, PLAZMA, CyberGameSport, Playday и SKYNET. В течение двух финальных дней команды определят чемпиона второго сезона BEL.</p><p><a href="https://tech.onliner.by/2026/07/23/belarusian-esports-league-4">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Страшная авария на М8: два пассажира погибли, шестеро пострадали. Возбуждено уголовное дело  (обновлено)</title>
+      <link>https://auto.onliner.by/go/1257083</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/strashnaya-avariya-na-m8</guid>
+      <pubDate>Thu, 23 Jul 2026 12:38:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/strashnaya-avariya-na-m8"><img alt="" src="https://content.onliner.by/news/thumbnail/0e9eecb7426568011c665571cf4c96f7.jpg" /></a></p><p>21 июля около 10:00 на трассе М8 (граница Российской Федерации — Витебск — Гомель — граница Украины) произошла страшная авария. На территории Буда-Кошелевского района на 378-м км автодороги столкнулись Renault и Jetta VS7.</p><p><a href="https://auto.onliner.by/2026/07/23/strashnaya-avariya-na-m8">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Одно необдуманное решение покупателя в магазине обернулось уголовной статьей</title>
+      <link>https://money.onliner.by/go/338331</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/zabytaya-na-kasse-k-obernulas</guid>
+      <pubDate>Thu, 23 Jul 2026 12:13:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/zabytaya-na-kasse-k-obernulas"><img alt="" src="https://content.onliner.by/news/thumbnail/1ed55996e712dc40bb1b7afe78043b43.jpg" /></a></p><p>В Барановичах 40-летний мужчина стал фигурантом уголовного дела после того, как расплатился в магазине найденной банковской картой. По данным милиции, с чужого счета он потратил более 400 рублей.</p><p><a href="https://money.onliner.by/2026/07/23/zabytaya-na-kasse-k-obernulas">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>На месте заброшки в одном из минских парков может появиться классное здание</title>
+      <link>https://realt.onliner.by/go/1119168</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/23/smotrite-kakoe-stilnoe-zdanie</guid>
+      <pubDate>Thu, 23 Jul 2026 12:01:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/23/smotrite-kakoe-stilnoe-zdanie"><img alt="" src="https://content.onliner.by/news/thumbnail/fd494636c76be6c2c024979f583de297.jpg" /></a></p><p><p>В живописной локации прямо на берегу Свислочи планируют обновить заброшенную одноэтажную постройку. Здесь может появиться стильный пункт проката с террасой и витражным остеклением. Администрация Ленинского района уже <a href="https://lenadmin.gov.by/obshchestvennye-obsuzhdeniya/7421-izveshchenie-o-provedenii-obshchestvennogo-obsuzhdeniya-arkhitekturno-planirovochnoj-kontseptsii-po-obektu-rekonstruktsiya-sushchestvuyushchego-zdaniya-spetsializirovannogo-inogo-naznacheniya-zdanie-obshchestvennogo-tualeta-raspolozhennogo-po-adresu-g-minsk-ul-krasnoarmejskaya-34b-pod-pomeshchenie-prokata?utm_source=realt.by&amp;utm_campaign=news-article-48008" target="_blank">вынесла</a> проект реконструкции объекта на общественные обсуждения.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/07/23/smotrite-kakoe-stilnoe-zdanie">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Очень много музыки, рыцари и динозавры. Афиша на выходные</title>
+      <link>https://people.onliner.by/go/1319054</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/ochen-mnogo-muzyki-rycari-i-dinozavry-afisha-na-vyxodnye</guid>
+      <pubDate>Thu, 23 Jul 2026 12:00:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/ochen-mnogo-muzyki-rycari-i-dinozavry-afisha-na-vyxodnye"><img alt="" src="https://content.onliner.by/news/thumbnail/27983eb3bf4e0e3d69a4b6b64ff2eaa0.jpg" /></a></p><p>Четверг напоминает: выходные уже виднеются на горизонте. Так что можно строить планы на пока еще июльские выходные. Тем более что на этой неделе пройдут сразу несколько фестивалей, а на большие минские экраны вернется Райан Гослинг. Как всегда, много интересного в нашей традиционной афише.</p><p><a href="https://people.onliner.by/2026/07/23/ochen-mnogo-muzyki-rycari-i-dinozavry-afisha-na-vyxodnye">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Новые автобусные рейсы в Москву, Санкт-Петербург и Псков: маршруты и цены</title>
+      <link>https://auto.onliner.by/go/1257538</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/novye-avtobusnye-rejsy-3</guid>
+      <pubDate>Thu, 23 Jul 2026 11:27:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/novye-avtobusnye-rejsy-3"><img alt="" src="https://content.onliner.by/news/thumbnail/1f56ead350ba0e894f1b1ce7ecdeb992.jpg" /></a></p><p>Активное развитие сейчас получило автобусное сообщение между Беларусью и Россией. Пассажиры все чаще отдают предпочтение этому транспорту. Кроме комфорта и доступной стоимости это еще и удобные ночные рейсы. В июле появились новые маршруты и рейсы. Об этом сообщает сервис «Атласбас».</p><p><a href="https://auto.onliner.by/2026/07/23/novye-avtobusnye-rejsy-3">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Гарри Поттера» вернут в кинотеатры — и покажут эксклюзивные кадры</title>
+      <link>https://tech.onliner.by/go/784040</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/garri-pottera-vernut-v-kinoteatry-i-pokazhut-eksklyuzivnye-kadry</guid>
+      <pubDate>Thu, 23 Jul 2026 11:21:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/garri-pottera-vernut-v-kinoteatry-i-pokazhut-eksklyuzivnye-kadry"><img alt="" src="https://content.onliner.by/news/thumbnail/a5a38ab02898f8d2dc1b2494130e9007.jpg" /></a></p><p>Картину «Гарри Поттер и философский камень» вернут в кинотеатры в честь 25-летия выхода фильма. Празднование <a href="https://variety.com/2026/film/news/harry-potter-back-to-hogwarts-25th-anniversary-1236817861/" target="_blank">приурочено</a> к первому сентября, дате, когда студенты традиционно возвращаются в Хогвартс. В кинотеатрах ленту будут крутить на протяжении недели: сообщается, что релиз пройдет в четырех регионах мира.</p><p><a href="https://tech.onliner.by/2026/07/23/garri-pottera-vernut-v-kinoteatry-i-pokazhut-eksklyuzivnye-kadry">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Белстат назвал среднюю зарплату продавцов в Беларуси</title>
+      <link>https://money.onliner.by/go/338314</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/belstat-nazval-srednyuyu-6</guid>
+      <pubDate>Thu, 23 Jul 2026 11:08:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/belstat-nazval-srednyuyu-6"><img alt="" src="https://content.onliner.by/news/thumbnail/0ce0bad9ac4d7a9af7df3083ea03382b.jpg" /></a></p><p>В сфере торговли в Беларуси заняты 675,6 тысячи человек, или более 16% всех работающих в экономике страны. Такие данные опубликовал Белстат ко Дню работников торговли.</p><p><a href="https://money.onliner.by/2026/07/23/belstat-nazval-srednyuyu-6">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Plex&amp;#x27;s Open Source Alternative Jellyfin is Having a Leadership Crisis</title>
+      <link>https://feed.itsfoss.com/link/24361/17385323/jellyfin-leadership-crisis</link>
+      <guid isPermaLink="false">6a61b6a90dfcce0001cd344f</guid>
+      <pubDate>Thu, 23 Jul 2026 10:46:06 +0000</pubDate>
+      <description><![CDATA[jellyfin logo, an illustration that shows many people, and a graphic element that shows an exit door]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Семейная пара купила дом мечты и обнаружила, что он оккупирован змеями</title>
+      <link>https://realt.onliner.by/go/1119053</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/23/semejnaya-para</guid>
+      <pubDate>Thu, 23 Jul 2026 10:37:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/23/semejnaya-para"><img alt="" src="https://content.onliner.by/news/thumbnail/4339666f6b8d35132b91eac9dc81095a.jpg" /></a></p><p>Американцы Тайлер и Лорен Боулдин, купившие исторический каменный дом 1830‑х годов в Пайн‑Гроув (штат Пенсильвания), только после переезда узнали, что живут там не одни. Компанию им составили сотни змей, <a href="https://www.realtor.com/news/trends/pennsylvania-home-snakes-bouldin/" target="_blank">сообщает</a> realtor.com.</p><p><a href="https://realt.onliner.by/2026/07/23/semejnaya-para">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Тормозил или нет? На проспекте автомобиль такси врезался в автобус — два человека в больнице (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1257218</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/tormozil-ili-net</guid>
+      <pubDate>Thu, 23 Jul 2026 10:34:23 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/tormozil-ili-net"><img alt="" src="https://content.onliner.by/news/thumbnail/5e9f0422b2ce9bec751bd77c252525dc.jpg" /></a></p><p>Вчера утром на проспекте Жукова в Минске автомобиль такси марки BYD врезался в попутный автобус-гармошку. ГАИ Минска опубликовала видео с камеры наблюдения. По нему складывается ощущение, что «электричка» не тормозила до самого столкновения.</p><p><a href="https://auto.onliner.by/2026/07/23/tormozil-ili-net">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В день города в Бресте можно будет узнать свой вес в глазированных сырках</title>
+      <link>https://people.onliner.by/go/1319134</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/na-dne-goroda-v-breste-mozhno-budet-uznat-svoj-ves-v-glazirovannyx-syrkax</guid>
+      <pubDate>Thu, 23 Jul 2026 10:30:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/na-dne-goroda-v-breste-mozhno-budet-uznat-svoj-ves-v-glazirovannyx-syrkax"><img alt="" src="https://content.onliner.by/news/thumbnail/2707d49c62e7d6e177db071683845f63.jpg" /></a></p><p>Брест отметит свое 1007-летие 24—26 июля. На празднике будет работать необычный аттракцион — огромные весы, на которых можно будет узнать свой вес в продуктах местного производства, <a href="https://belta.by/regions/view/svoj-ves-v-dranikah-glazirovannyh-syrkah-i-krevetkah-smogut-uznat-gosti-dnja-goroda-v-breste-792524-2026/">сообщает</a> БЕЛТА.</p><p><a href="https://people.onliner.by/2026/07/23/na-dne-goroda-v-breste-mozhno-budet-uznat-svoj-ves-v-glazirovannyx-syrkax">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>У Honor случится ребрендинг: вот что изменится</title>
+      <link>https://tech.onliner.by/go/784021</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/u-honor-sluchitsya-rebrending-vot-chto-izmenitsya</guid>
+      <pubDate>Thu, 23 Jul 2026 10:06:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/u-honor-sluchitsya-rebrending-vot-chto-izmenitsya"><img alt="" src="https://content.onliner.by/news/thumbnail/c8f1e4eb97d1c57dffcce4b2040981b6.jpg" /></a></p><p>Honor взялся за переосмысление как визуального стиля, так и позиционирования. Слоган «Go beyond» заменили на «Dare to be», текстовая часть логотипа дополнилась графическим знаком, а в качестве фирменного цвета будет использоваться оттенок Pantone 2193C. Из глобальных запросов — желание бренда перейти от «производителя смартфонов» к глобальному лидеру в области ИИ-экосистем.
+</p><p><a href="https://tech.onliner.by/2026/07/23/u-honor-sluchitsya-rebrending-vot-chto-izmenitsya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Лукашенко назначил двух новых министров и послов</title>
+      <link>https://people.onliner.by/go/1319126</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/dva-novyx-ministra</guid>
+      <pubDate>Thu, 23 Jul 2026 10:03:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/dva-novyx-ministra"><img alt="" src="https://content.onliner.by/news/thumbnail/164ae83ee100a600610f3ce9de76269e.jpg" /></a></p><p>Александр Лукашенко <a href="https://president.gov.by/ru/events/rassmotrenie-kadrovyh-voprosov-1784799509" target="_blank">провел</a> кадровые назначения. Новым министром архитектуры и строительства стал Вадим Ольшевский, а Министерство лесного хозяйства возглавил Сергей Ульдинович.</p><p><a href="https://people.onliner.by/2026/07/23/dva-novyx-ministra">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Новый зарядный хаб появился в Гродно. До августа действуют льготные тарифы</title>
+      <link>https://auto.onliner.by/go/1257523</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/novyj-zaryadnyj-xab</guid>
+      <pubDate>Thu, 23 Jul 2026 09:42:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/novyj-zaryadnyj-xab"><img alt="" src="https://content.onliner.by/news/thumbnail/dda5ebdd9172e5408eedc5eec56be6b3.jpg" /></a></p><p>Сеть зарядных станций Zaryadka открыла еще один крупный зарядный хаб. На этот раз в Гродно. На площадке установили сразу пять быстрых станций мощностью до 160 кВт каждая. Три станции поддерживают разъемы CCS и GB/T, еще две оснащены двумя коннекторами GB/T.</p><p><a href="https://auto.onliner.by/2026/07/23/novyj-zaryadnyj-xab">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Минске будут судить семерых человек, которые помогли легализоваться 158 иностранцам</title>
+      <link>https://money.onliner.by/go/338294</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/v-minske-budut-sudit-semeryx</guid>
+      <pubDate>Thu, 23 Jul 2026 09:39:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/v-minske-budut-sudit-semeryx"><img alt="" src="https://content.onliner.by/news/thumbnail/dee640c840e108e15a7807bf0107840e.jpg" /></a></p><p>По данным прокуратуры, среди обвиняемых — четыре гражданина Беларуси, которым вменяют организацию незаконной миграции с использованием служебного положения, а также трое иностранных граждан, обвиняемых в пособничестве.</p><p><a href="https://money.onliner.by/2026/07/23/v-minske-budut-sudit-semeryx">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Поселок готовится к «Дожинкам», а жители обогащаются — увозят плитку целыми поддонами</title>
+      <link>https://realt.onliner.by/go/1119013</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/23/uvozyat-plitku</guid>
+      <pubDate>Thu, 23 Jul 2026 09:05:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/23/uvozyat-plitku"><img alt="" src="https://content.onliner.by/news/thumbnail/3862bb82e1b82b0ccb67e8d058f5bf3b.png" /></a></p><p>В городском поселке Зеленый Бор, который находится в Смолевичском районе, идет активная подготовка к районному фестивалю-ярмарке «Дожинки». На улицах демонтируют старое покрытие и укладывают новую, современную тротуарную плитку. Казалось бы, местным жителям стоит только радоваться: совсем скоро поселок станет красивым, благоустроенным и комфортным. Однако некоторые жители решили извлечь из масштабных работ личную выгоду.</p><p><a href="https://realt.onliner.by/2026/07/23/uvozyat-plitku">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Viva Braslav 2026: что важно знать перед поездкой на фестиваль</title>
+      <link>https://people.onliner.by/go/1319061</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/viva-braslav-2026-chto-vazhno-znat-pered-poezdkoj-na-festival</guid>
+      <pubDate>Thu, 23 Jul 2026 08:45:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/viva-braslav-2026-chto-vazhno-znat-pered-poezdkoj-na-festival"><img alt="" src="https://content.onliner.by/news/thumbnail/c64cde876c0f4f34535fa1800e00d31f.jpg" /></a></p><p>С 24 по 26 июля на Браславских озерах пройдет Viva Braslav 2026 — один из самых масштабных опен-эйр-фестивалей в Беларуси. В этом году гостей ждут большая музыкальная программа, новинка Camp Stage, три кемпинговые зоны, спортивные активности, зарядка электромобилей и отдельная инклюзивная инфраструктура.На главной сцене выступят Дима Билан, МОТ, Ваня Дмитриенко, группа «Комната культуры», LYRIQ, Джоззи и другие артисты.
+</p><p><a href="https://people.onliner.by/2026/07/23/viva-braslav-2026-chto-vazhno-znat-pered-poezdkoj-na-festival">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Пьяный мужчина угнал Mercedes, чтобы доехать до знакомого. Окурок в салоне стал главной уликой</title>
+      <link>https://auto.onliner.by/go/1257509</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/ugnal-mercedes</guid>
+      <pubDate>Thu, 23 Jul 2026 08:43:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/ugnal-mercedes"><img alt="" src="https://content.onliner.by/news/thumbnail/b45aff2222107875ca74c02b37e39f22.jpg" /></a></p><p>В Могилеве мужчина вернулся домой после недельного отсутствия и не увидел свой автомобиль на парковке, где он его оставил. Благодаря камерам видеонаблюдения пропавший Mercedes в технически исправном состоянии нашли на соседней улице.</p><p><a href="https://auto.onliner.by/2026/07/23/ugnal-mercedes">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
       <title>С 25 июля изменятся переводы через ЕРИП по номеру телефона. Что нужно сделать получателю</title>
       <link>https://money.onliner.by/go/338285</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/07/23/s-25-iyulya-izmenyatsya-perevody-cherez-erip-po-nomeru-telefona-chto-nuzhno-sdelat-poluchatelyu</guid>
       <pubDate>Thu, 23 Jul 2026 08:21:09 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/s-25-iyulya-izmenyatsya-perevody-cherez-erip-po-nomeru-telefona-chto-nuzhno-sdelat-poluchatelyu"><img alt="" src="https://content.onliner.by/news/thumbnail/c9e5ba2f3f13bb0dff75e79f6a3dc7fe.jpg" /></a></p><p>С 25 июля во всех белорусских банках изменится порядок получения переводов через ЕРИП по номеру мобильного телефона. Чтобы деньги зачислились, получателю нужно будет заранее дать согласие на такие операции.</p><p><a href="https://money.onliner.by/2026/07/23/s-25-iyulya-izmenyatsya-perevody-cherez-erip-po-nomeru-telefona-chto-nuzhno-sdelat-poluchatelyu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В «Петровских верфях» продадут квартиры через аукцион. Из плюсов — без машино-места</title>
-      <link>https://realt.onliner.by/go/1118989</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/23/v-petrovskix-verfyax-2</guid>
-      <pubDate>Thu, 23 Jul 2026 08:02:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/23/v-petrovskix-verfyax-2"><img alt="" src="https://content.onliner.by/news/thumbnail/ab321eaf2d97a9045da701e99353d79a.png" /></a></p><p>Как правило, квартиры в недавно сданных новостройках в Минске быстро находят своих владельцев. Но иногда часть метров остаются вакантными даже после ажиотажного старта продаж. Госзастройщики в таком случае распродают оставшиеся варианты через аукцион. Например, на август назначены торги по реализации однушек и двушек в жилом комплексе «Петровские верфи». Смотрим стоимость. </p><p><a href="https://realt.onliner.by/2026/07/23/v-petrovskix-verfyax-2">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Life расширил 5G-роуминг — и добрался до Африки</title>
-      <link>https://tech.onliner.by/go/784001</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/life-rasshiril-5g-rouming-i-dobralsya-do-afriki</guid>
-      <pubDate>Thu, 23 Jul 2026 07:57:41 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/life-rasshiril-5g-rouming-i-dobralsya-do-afriki"><img alt="" src="https://content.onliner.by/news/thumbnail/23c6b3a67a334d81092d735760381d2f.jpg" /></a></p><p>В списке роуминговых направлений Life оказалась Танзания, государство в Восточной Африке, которое вы можете знать благодаря вулкану Килиманджаро, острову Занзибар и миграции антилоп в национальном парке Серенгети. Также Life <a href="https://life.by/notice/news/tanzania-and-5g-roaming" target="_blank">сообщает</a> о расширении покрытия 5G в роуминге.</p><p><a href="https://tech.onliner.by/2026/07/23/life-rasshiril-5g-rouming-i-dobralsya-do-afriki">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Доллар продолжает падать. Курсы четверга</title>
-      <link>https://money.onliner.by/go/338273</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/dollar-prodolzhaet-padat-kursy-2</guid>
-      <pubDate>Thu, 23 Jul 2026 07:41:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/dollar-prodolzhaet-padat-kursy-2"><img alt="" src="https://content.onliner.by/news/thumbnail/5ef42b4321ef4dbfa9a38103d6a31478.jpg" /></a></p><p>Утром 23 июля доллар продолжил дешеветь, хоть и незначительно. Биткоин за последние сутки подешевел, сейчас находится вблизи отметки $65 650.
-</p><p><a href="https://money.onliner.by/2026/07/23/dollar-prodolzhaet-padat-kursy-2">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Все Tesla отправляют на рентген? Владелец электрокара — о своем опыте пересечения границы</title>
-      <link>https://auto.onliner.by/go/1257500</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/vse-tesla-otpravlyayut</guid>
-      <pubDate>Thu, 23 Jul 2026 07:41:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/vse-tesla-otpravlyayut"><img alt="" src="https://content.onliner.by/news/thumbnail/8b569b5aa4561aaf54d42f3284969de3.jpg" /></a></p><p>Владелец Tesla рассказал, что столкнулся с необычной ситуацией. По его словам, уже несколько раз при въезде в страну при прохождении белорусско-польской границы его автомобиль отправляли на рентген. Лично он сталкивается с этим с марта 2026 года. По его наблюдениям, сканируют и другие автомобили этой марки.</p><p><a href="https://auto.onliner.by/2026/07/23/vse-tesla-otpravlyayut">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Apple готовит новые MacBook: гаджеты могут стать еще дороже</title>
-      <link>https://tech.onliner.by/go/783992</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/apple-gotovit-novye-macbook-gadzhety-mogut-stat-eshhe-dorozhe</guid>
-      <pubDate>Thu, 23 Jul 2026 07:15:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/apple-gotovit-novye-macbook-gadzhety-mogut-stat-eshhe-dorozhe"><img alt="" src="https://content.onliner.by/news/thumbnail/37ee70cd2c3071fb94e73ada75fdff37.jpg" /></a></p><p>В Apple готовятся к обновлению линейки Mac. Так говорит инсайдер Марк Гурман, утверждая, что компания может представить новые версии своих продаваемых компьютеров этой осенью и в следующем году. Сообщается, что Apple стремится извлечь выгоду из растущего спроса на мощные ноутбуки и настольные компьютеры, вызванного бумом искусственного интеллекта.</p><p><a href="https://tech.onliner.by/2026/07/23/apple-gotovit-novye-macbook-gadzhety-mogut-stat-eshhe-dorozhe">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Оплату парковки в Минске теперь будет проверять специальный автомобиль</title>
-      <link>https://auto.onliner.by/go/1257490</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/oplatu-parkovki</guid>
-      <pubDate>Thu, 23 Jul 2026 07:09:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/oplatu-parkovki"><img alt="" src="https://content.onliner.by/news/thumbnail/035e6c83dcd5abade215ade40eacd2fb.jpg" /></a></p><p>В Минске показали мобильный комплекс, который будет контролировать оплату парковки. Оборудование установлено на Belgee с наклейками «Безопасность движения». Машина будет ездить по зонам платной парковки и автоматически считывать регистрационные номера авто. Затем система проверит, оплачена парковка или нет, <a href="https://minsk.gov.by/ru/news/new/2026/07/22/2069/" target="_blank">сообщает</a> агентство «Минск-Новости».</p><p><a href="https://auto.onliner.by/2026/07/23/oplatu-parkovki">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Отец стрелял в дочь из пневматического оружия. Его лишили родительских прав</title>
-      <link>https://people.onliner.by/go/1319044</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/otec-strelyal-v-doch-iz-pnevmaticheskogo-oruzhiya-ego-lishili-roditelskix-prav</guid>
-      <pubDate>Thu, 23 Jul 2026 07:07:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/otec-strelyal-v-doch-iz-pnevmaticheskogo-oruzhiya-ego-lishili-roditelskix-prav"><img alt="" src="https://content.onliner.by/news/thumbnail/08d4463821aea7649f19f88d5824eb12.jpg" /></a></p><p>Мужчина выстрелил в собственную дочь из пневматического оружия. Это <a href="https://people.onliner.by/2025/09/18/otec-vystrelil-svoej-docheri-v-nogu-vozbuzhdeno-ugolovnoe-delo">случилось</a> еще осенью 2025 года, однако родительских прав минчанина лишили только сейчас.</p><p><a href="https://people.onliner.by/2026/07/23/otec-strelyal-v-doch-iz-pnevmaticheskogo-oruzhiya-ego-lishili-roditelskix-prav">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Руководитель предприятия сорвал аферу на 35 тысяч рублей</title>
-      <link>https://money.onliner.by/go/338265</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/rukovoditel-predpriyatiya-sorval-aferu-na-35-tysyach-rublej</guid>
-      <pubDate>Thu, 23 Jul 2026 07:05:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/rukovoditel-predpriyatiya-sorval-aferu-na-35-tysyach-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/6dd4e2ac2a26d358ae68178f6547700e.jpg" /></a></p><p>В Могилеве директор предприятия помог предотвратить крупное мошенничество. По данным милиции, аферисты убедили 33-летнего сотрудника оформить кредит на 35 тысяч рублей и привезти деньги в Минск, однако их план сорвался благодаря бдительности руководителя.</p><p><a href="https://money.onliner.by/2026/07/23/rukovoditel-predpriyatiya-sorval-aferu-na-35-tysyach-rublej">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Вместо привычных кроватей — циновки. Владельцы этого дома сделали ремонт «не как у всех»</title>
-      <link>https://realt.onliner.by/go/1118665</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/23/vmesto-privychnyx-krovatej-cinovki</guid>
-      <pubDate>Thu, 23 Jul 2026 07:01:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/23/vmesto-privychnyx-krovatej-cinovki"><img alt="" src="https://content.onliner.by/news/thumbnail/681bc6338a540b575e6c581b04f2eb02.jpg" /></a></p><p><p>Снаружи этот <a href="https://www.elledecor.com/design-decorate/house-interiors/a71952646/fawn-galli-upper-west-side-house-tour/" target="_blank">городской особняк</a> в Нью-Йорке кажется вполне привычным и даже строго консервативным, но стоит переступить порог — и он абсолютно противоречит всем ожиданиям. За традиционным фасадом скрывается неожиданный интерьер: владельцы дома — семья с тремя детьми и пожилыми родителями — полностью переосмыслили пространство, объединив восточную философию, природные мотивы и яркую современную эстетику.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/07/23/vmesto-privychnyx-krovatej-cinovki">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Тест: угадаете китайскую марку по эмблеме?</title>
-      <link>https://auto.onliner.by/go/1257467</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/test-ugadaete-kitajskuyu-marku-po-embleme</guid>
-      <pubDate>Thu, 23 Jul 2026 06:56:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/test-ugadaete-kitajskuyu-marku-po-embleme"><img alt="" src="https://content.onliner.by/news/thumbnail/cbfcfb894bc6173a1da908f4afca237e.jpg" /></a></p><p>Еще четыре года назад белорусские автолюбители едва ли могли назвать больше китайских марок, чем Geely, Chery и Haval. Ну и на худой конец — Lifan. А сейчас, кажется, мы разбираемся в «китайцах» лучше, чем жители страны-производителя. Или это слишком громкое заявление? А давайте проверим! Сможете угадать китайскую марку по эмблеме?</p><p><a href="https://auto.onliner.by/2026/07/23/test-ugadaete-kitajskuyu-marku-po-embleme">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Пастор подал в суд на OpenAI. Он заявил, что чуть не погиб из-за советов ChatGPT</title>
-      <link>https://tech.onliner.by/go/783984</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/pastor-podal-v-sud-na-openai-on-zayavil-chto-chut-ne-pogib-iz-za-sovetov-chatgpt</guid>
-      <pubDate>Thu, 23 Jul 2026 06:29:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/pastor-podal-v-sud-na-openai-on-zayavil-chto-chut-ne-pogib-iz-za-sovetov-chatgpt"><img alt="" src="https://content.onliner.by/news/thumbnail/31abc82f433ef86cb8e64ee5b73e02d4.jpg" /></a></p><p>Скотт Уинтерс, пастор из Флориды, подал в суд на компанию OpenAI. Он <a href="https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html" target="_blank">заявил</a>, что чат-бот ChatGPT предлагал ему «крайне опасные медицинские рекомендации», которые привели к задержке в оказании медицинской помощи при опасной для жизни легочной эмболии. В иске утверждается, что ChatGPT заверил Уинтерса, что описанные им признаки «не представляют опасности», и отговорил его от обращения за медицинской помощью. Вместо этого чат-бот призывал мужчину поверить в то, что «Бог не создал ваше тело для того, чтобы оно бесконечно давало сбои».</p><p><a href="https://tech.onliner.by/2026/07/23/pastor-podal-v-sud-na-openai-on-zayavil-chto-chut-ne-pogib-iz-za-sovetov-chatgpt">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Расскажите про свою первую тачку — и выиграйте приз. Запускаем второй тур конкурса!</title>
-      <link>https://auto.onliner.by/go/1257430</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/moya-pervaya-tachka-2</guid>
-      <pubDate>Thu, 23 Jul 2026 06:00:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/moya-pervaya-tachka-2"><img alt="" src="https://content.onliner.by/news/thumbnail/18cf9c26f359b135b00423e2a7267fde.jpg" /></a></p><p>В конце мая <a href="https://auto.onliner.by/tag/moya-pervaya-tachka" target="_blank">запустили</a> конкурс для автолюбителей: предложили нашим читателям вспомнить свою первую машину. Работ получили очень много — пришлось тщательно их отбирать. Но вот победители определены, призы уже в процессе вручения… И мы вместе с командой Tuning You Need — организаторами масштабного автоивента «Тачки» — решили: почему бы не разыграть еще 6 пригласительных на <a href="https://auto.onliner.by/2026/05/05/tachki-otpravlyayutsya-v-turne-avtofestival-projdet-v-pyati-gorodax" target="_blank">«Тачки Пiкнiк — 2026»</a>? Победителей будет трое (то есть каждый получит по два абонемента на оба дня мероприятия) — и их снова выберете вы с помощью голосования. </p><p><a href="https://auto.onliner.by/2026/07/23/moya-pervaya-tachka-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Не смогла отказать себе в удовольствии потроллить». Слушаем, как девушка говорила с аферистами</title>
-      <link>https://money.onliner.by/go/336850</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/23/raskusili-moshennikov</guid>
-      <pubDate>Thu, 23 Jul 2026 05:00:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/23/raskusili-moshennikov"><img alt="" src="https://content.onliner.by/news/thumbnail/3df123198a09a1654ee3699c79f5200d.jpg" /></a></p><p>Замена водопроводных счетчиков или домофона, перерасчет пенсии, проверка документов по работе через мессенджер — даже удивительно, что эти схемы мошенников все еще срабатывают и люди теряют деньги. Мы поговорили с белорусами, которым удалось вовремя разгадать замысел вымогателей и сохранить сбережения. В своих откликах на наши <a href="https://money.onliner.by/2026/07/10/krematorij-tak-krematorij-nash-chitatel-snova-obxitril-moshennikov/" target="_blank">материалы</a> читатели поделились записями разговоров и скриншотами переписок, чтобы вы узнали их реальные истории и при случае могли сориентироваться в опасной ситуации. Посмотрите, как работают мошенники, и расскажите близким об этих схемах.</p><p><a href="https://money.onliner.by/2026/07/23/raskusili-moshennikov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Жара, а тело кота заберут завтра». Как работают крематории для животных и почему это проблема</title>
-      <link>https://people.onliner.by/go/1317247</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/utilizatsiya-zhivotnyh</guid>
-      <pubDate>Thu, 23 Jul 2026 05:00:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/utilizatsiya-zhivotnyh"><img alt="" src="https://content.onliner.by/news/thumbnail/5bf92a8ba38d59e6a7a2dbc25543dc0c.jpg" /></a></p><p><em>«В середине июня у нас умер кот, проживший 18 лет. На улице было +33, мы стали обзванивать все контакты из интернета, ища возможность утилизировать его тело законно. Ведь сейчас везде говорят о том, что даже на собственном участке нельзя похоронить домашнее животное. Но оказалось, что у нас в Бресте нет ни одной организации, которая бы этим занималась,</em> — написала в редакцию Юлия; после долгих поисков она нашла вариант с зоокрематорием в Барановичах — правда, ради этого пришлось проехать 400 километров. — <em>Еще нам предлагали кремирование в Минске, но ехать в поезде с телом кота в пакете — это было бы уже слишком. С такой ситуацией мы сталкиваемся не впервые (полтора года назад у нас тоже умер питомец) и пришли к выводу, что время идет, но ничего не меняется: запрет на самостоятельное захоронение домашних животных есть, а организаций, которые оказывали бы такие услуги, мало».</em> Мы узнали, сколько зоокрематориев работает в стране, как устроена их работа и какой возможен алгоритм действий, когда любимый питомец ушел из жизни.</p><p><a href="https://people.onliner.by/2026/07/23/utilizatsiya-zhivotnyh">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«За неделю — тысячу». Эти белорусы зарабатывают на играх</title>
-      <link>https://tech.onliner.by/go/783892</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/za-nedelyu-tysyachu-eti-belorusy-zarabatyvayut-na-igrax</guid>
-      <pubDate>Thu, 23 Jul 2026 05:00:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/za-nedelyu-tysyachu-eti-belorusy-zarabatyvayut-na-igrax"><img alt="" src="https://content.onliner.by/news/thumbnail/54846e959eb4feeb3ba17b67bc366cb4.jpg" /></a></p><p>Зарабатывать на компьютерных играх — мечта, которая закрадывалась в голову плюс-минус каждого второго геймера. Некоторые пытаются реализовать ее через киберспорт, но многие со временем попросту отмахиваются. Однако находятся и те, кто получает деньги из игр, не пытаясь вскарабкаться на киберспортивный Олимп. Например, с помощью прокачки аккаунтов или торговли игровыми предметами. Поговорили с белорусами, для которых такие действия стали подобием работы. </p><p><a href="https://tech.onliner.by/2026/07/23/za-nedelyu-tysyachu-eti-belorusy-zarabatyvayut-na-igrax">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Автомобиль смяло, как консервную банку»: белоруска в 29 лет пережила страшную аварию</title>
-      <link>https://auto.onliner.by/go/1257377</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/avtomobil-smyalo-kak-konservnuyu-banku</guid>
-      <pubDate>Thu, 23 Jul 2026 05:00:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/avtomobil-smyalo-kak-konservnuyu-banku"><img alt="" src="https://content.onliner.by/news/thumbnail/9a7bd0918d3c783b2a51fb3ae9fd7f42.jpg" /></a></p><p>В декабре 2018 года могилевчанка Наталья Хиль попала в новостную сводку смоленских СМИ. <em>«От мощнейшего удара легковой автомобиль смяло, как консервную банку»,</em> — писали тогда в публикации. Дальше следует перечисление жертв: водитель иномарки и 60-летняя пассажирка погибли на месте, девушки 1989 года рождения госпитализированы. Одной из молодых пассажирок и была Наташа, которая поехала в Смоленск в компании родных — развеяться, «пошопиться» и просто хорошо провести время. На тот момент девушке было всего 29 лет — она только получила повышение на работе, наладила личную жизнь, путешествовала и строила планы на 5—10—15 лет вперед. Момент аварии Наташа не помнит, хотя именно он навсегда перевернул не только ее собственную жизнь.</p><p><a href="https://auto.onliner.by/2026/07/23/avtomobil-smyalo-kak-konservnuyu-banku">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Минчанин так заморочился со строительством дома, что вез все материалы аж из Сибири</title>
-      <link>https://realt.onliner.by/go/1118605</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/23/materialy-vezli-na-furax-tri-dnya</guid>
-      <pubDate>Thu, 23 Jul 2026 05:00:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/23/materialy-vezli-na-furax-tri-dnya"><img alt="" src="https://content.onliner.by/news/thumbnail/613d723d20877ac83d43b460241c923c.jpg" /></a></p><p>Для минчанина Александра мечта о собственном доме превратилась в настоящий квест, ведь строить коттедж он решил из довольно экзотического для Беларуси материала — сибирского кедра. Его везли сюда на фурах, тщательно обрабатывали, а само здание собирали используя различные хитрости, чтобы сделать прочным и долговечным. Всего на строительство у белоруса ушло два года.</p><p><a href="https://realt.onliner.by/2026/07/23/materialy-vezli-na-furax-tri-dnya">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Десять худших дизельных моторов из 2000-х. Какие двигатели точно никогда не нужно покупать</title>
-      <link>https://auto.onliner.by/go/951091</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/23/pyat-xudshix-dizelnyx-motorov-iz-2000-x</guid>
-      <pubDate>Thu, 23 Jul 2026 04:00:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/23/pyat-xudshix-dizelnyx-motorov-iz-2000-x"><img alt="" src="https://content.onliner.by/news/thumbnail/3679f2ba4b93ef20d33f84e43a47451e.jpeg" /></a></p><p>В «лихие 90-е» в Беларусь приехали первые иномарки с дизельными моторами. В СССР легковых дизелей собственного производства не было, но было много «лишнего» списанного топлива. Поэтому именно дизельные авто возглавили топ самых популярных машин. Шумные, медлительные, но надежные и неприхотливые моторы-миллионники породили свою субкультуру. <em>«А что в этом моторе может сломаться?»</em> — говорили владельцы Mercedes, BMW, Volkswagen и Renault. Но в 2000-х все изменилось: появились турбодизельные агрегаты с конструктивными просчетами и надежность таких моторов резко упала. В этом материале — самые неудачные из них.</p><p><a href="https://auto.onliner.by/2026/07/23/pyat-xudshix-dizelnyx-motorov-iz-2000-x">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>До сих пор гуглите? 13 полезных сценариев, как использовать ChatGPT в повседневной жизни</title>
-      <link>https://tech.onliner.by/go/718760</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/23/kak-ispolzovat-chatgpt</guid>
-      <pubDate>Thu, 23 Jul 2026 04:00:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/23/kak-ispolzovat-chatgpt"><img alt="" src="https://content.onliner.by/news/thumbnail/1a83e4631986b12c3bdb6ce5db4f007e.jpg" /></a></p><p><p dir="ltr">К искусственному интеллекту можно относиться по-разному. Можно <a href="https://tech.onliner.by/2025/02/15/chem-ii-razdrazhaet-i-pugaet" target="_blank">опасаться</a>, что технология заменит многие профессии, можно <a href="https://tech.onliner.by/2025/01/30/eti-belorusy-ne-mogut-zhit-bez-iskusstvennogo-intellekta" target="_blank">общаться</a> с ChatGPT как с другом, а можно использовать чат-боты по назначению — в качестве полезного инструмента, упрощающего жизнь. Так или иначе, ИИ стал неотъемлемой частью нашей жизни. Мы собрали 13 полезных сценариев (а на самом деле даже больше), как можно применять ИИ-чат-боты для работы и быта, которые могут пригодиться каждому.</p><p><a href="https://tech.onliner.by/2026/07/23/kak-ispolzovat-chatgpt">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«40 градусов жары, на 4 человека — один туалет». Как кишечные инфекции могут испортить отдых</title>
-      <link>https://people.onliner.by/go/1318670</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/23/otravleniya-i-kishechnye-infekcii</guid>
-      <pubDate>Thu, 23 Jul 2026 04:00:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/23/otravleniya-i-kishechnye-infekcii"><img alt="" src="https://content.onliner.by/news/thumbnail/1e3fe7be40abdcfcf8972e791a56eb8a.jpg" /></a></p><p>Наши ассоциации с летом: жара, пляж, пикники, фрукты. У врачей-инфекционистов картина немного другая: да, жара, плюс не до конца прожаренные шашлыки и плохо промытые фрукты, а с ними пищевые отравления и кишечные инфекции. Через это точно проходил каждый (наверняка и не раз), но вопросы все равно остаются: а можно ли укрепить организм, чтобы он лучше противостоял бактериям, и если все-таки отравился, как оправиться максимально быстро. При поддержке <a href="https://normobakt.akrikhin.by">АКРИХИН БиУай</a> задали наивные, но важные вопросы про летние отравления опытному инфекционисту — и послушали истории белорусов о самых эпичных «кишечных приключениях» в их жизни.</p><p><a href="https://people.onliner.by/2026/07/23/otravleniya-i-kishechnye-infekcii">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Несовершеннолетний не спешился». Audi сбил 11-летнего велосипедиста</title>
-      <link>https://auto.onliner.by/go/1257451</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/22/nesovershennoletnij-ne-speshilsya-audi-sbil-11-letnego-velosipedista</guid>
-      <pubDate>Wed, 22 Jul 2026 17:48:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/22/nesovershennoletnij-ne-speshilsya-audi-sbil-11-letnego-velosipedista"><img alt="" src="https://content.onliner.by/news/thumbnail/7ca72fbe66d0ac3692a612290b960b4b.jpg" /></a></p><p>Авария с юным велосипедистом в Гродно — 11-летний ребенок в больнице. </p><p><a href="https://auto.onliner.by/2026/07/22/nesovershennoletnij-ne-speshilsya-audi-sbil-11-letnego-velosipedista">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Пять смартфонов, которые сейчас выгодно покупать</title>
-      <link>https://money.onliner.by/go/338229</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/22/smartfony-na-kotorye-stoit-obratit-vnimanie-pryamo-sejchas</guid>
-      <pubDate>Wed, 22 Jul 2026 16:46:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/22/smartfony-na-kotorye-stoit-obratit-vnimanie-pryamo-sejchas"><img alt="" src="https://content.onliner.by/news/thumbnail/f3652d9d5963fdcd35c3f6087719f1a2.jpg" /></a></p><p>Новая подборка выгодных предложений из Каталога Onlíner посвящена тем, кто планирует обновить смартфон. Собрали варианты, которые стоит рассмотреть прямо сейчас: на все из них действуют скидки, которые доходят до 20%.</p><p><a href="https://money.onliner.by/2026/07/22/smartfony-na-kotorye-stoit-obratit-vnimanie-pryamo-sejchas">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>LEGO выпустила набор по «Секретным материалам». В рекламе снялась Джиллиан Андерсон</title>
-      <link>https://tech.onliner.by/go/783938</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/22/lego-vypustila-nabor-po-sekretnym-materialam</guid>
-      <pubDate>Wed, 22 Jul 2026 14:45:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/22/lego-vypustila-nabor-po-sekretnym-materialam"><img alt="" src="https://content.onliner.by/news/thumbnail/d0ae3fe2553719f722bcaa4096ad098a.png" /></a></p><p><p dir="ltr">Компания LEGO <a href="https://www.lego.com/en-us/product/the-x-files-21369" target="_blank">представила</a> новый набор конструктора по мотивам сериала «Секретные материалы», состоящий из 1478 деталей и восьми мини-фигурок, включая агентов Малдера и Скалли. В рекламном ролике, презентующем новинку, снялась Джиллиан Андерсон.</p><p><a href="https://tech.onliner.by/2026/07/22/lego-vypustila-nabor-po-sekretnym-materialam">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Какие нарушения фиксируются автоматически и как снизить ДТП</title>
-      <link>https://auto.onliner.by/go/1257368</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/22/kakie-narusheniya-fiksiruyutsya-avtomaticheski-i-kak-snizit-dtp</guid>
-      <pubDate>Wed, 22 Jul 2026 14:44:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/22/kakie-narusheniya-fiksiruyutsya-avtomaticheski-i-kak-snizit-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/a009ccc7942daeffb4939081b42ecdf8.jpg" /></a></p><p>Какие меры способны снизить ДТП с участием диких животных, как развивается система автоматической фиксации нарушений и как повлиять на аварийность среди начинающих водителей. Эти вопросы были рассмотрены на заседании Постоянной комиссии по обеспечению безопасности дорожного движения при Совете министров под председательством Александра Терехова, сообщает телеграм-канал «Правительство Беларуси».  </p><p><a href="https://auto.onliner.by/2026/07/22/kakie-narusheniya-fiksiruyutsya-avtomaticheski-i-kak-snizit-dtp">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Беларуси хотят запретить рекламу вейпов и обязать продавцов убрать их с витрин</title>
-      <link>https://money.onliner.by/go/338206</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/22/v-belarusi-zapretyat-reklamu</guid>
-      <pubDate>Wed, 22 Jul 2026 14:35:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/22/v-belarusi-zapretyat-reklamu"><img alt="" src="https://content.onliner.by/news/thumbnail/d57d8e55d6b6de7256711005b123c87a.jpg" /></a></p><p>В Беларуси планируют запретить рекламу электронных систем для курения и убрать их с открытых витрин. Такие изменения предусмотрены проектом нового закона о табачной и никотиносодержащей продукции, <a href="https://belta.by/society/view/v-belarusi-zapretjat-reklamu-elektronnyh-sistem-dlja-kurenija-792482-2026/">сообщила</a> заведующая отделом общественного здоровья Республиканского центра гигиены Анастасия Косова.</p><p><a href="https://money.onliner.by/2026/07/22/v-belarusi-zapretyat-reklamu">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
