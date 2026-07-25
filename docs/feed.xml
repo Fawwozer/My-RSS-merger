@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 24 Jul 2026 19:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 02:36:38 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -265,14 +265,6 @@
       <pubDate>Wed, 22 Jul 2026 04:55:09 +0000</pubDate>
       <description><![CDATA[a snippet from a mpeg la document is depicted here, which shows that the siemens ag patent for mpeg-4 visual has expired on jul 19, 2026]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>I Tried MangoWM, and I&amp;#x27;m Not Going Back to Niri</title>
-      <link>https://feed.itsfoss.com/link/24361/17384570/mangowm-explore</link>
-      <guid isPermaLink="false">6a293e90a14085000110e85b</guid>
-      <pubDate>Wed, 22 Jul 2026 02:27:23 +0000</pubDate>
-      <description><![CDATA[mangowm]]></description>
-      <category>Customization ⚙️</category>
     </item>
   </channel>
 </rss>
