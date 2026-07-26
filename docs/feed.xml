@@ -5,16 +5,48 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 26 Jul 2026 08:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 13:20:59 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>FOSS Weekly #26.30: Vocalinux, My Computer, Alacritty Terminal, TDF Against Microsoft and More Linux Stuff</title>
-      <link>https://feed.itsfoss.com/link/24361/17385353/foss-weekly-26-30</link>
-      <guid isPermaLink="false">6a5f55d20dfcce0001cd2d9b</guid>
-      <pubDate>Thu, 23 Jul 2026 12:55:11 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly]]></description>
-      <category>Newsletter ✉️</category>
+      <title>На Витебщине маршрутка столкнулась с легковушкой. Погибла женщина</title>
+      <link>https://auto.onliner.by/go/1258188</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/26/marshrutka-stolknulas-s-renault</guid>
+      <pubDate>Sun, 26 Jul 2026 12:51:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/26/marshrutka-stolknulas-s-renault"><img alt="" src="https://content.onliner.by/news/thumbnail/a7aa1704579e22f8a6a5e0b14a878b5d.jpg" /></a></p><p>Сегодня около 13:00 в Шумилинском районе произошло смертельное ДТП с участием маршрутного микроавтобуса. Авария случилась на 6-м километре автодороги Н-3950 Оболь — Полоцк, сообщили в ГАИ Витебской области.</p><p><a href="https://auto.onliner.by/2026/07/26/marshrutka-stolknulas-s-renault">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Под Минском протестировали новый вид гонок. Фоторепортаж</title>
+      <link>https://auto.onliner.by/go/1258157</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/26/test-togue-battle</guid>
+      <pubDate>Sun, 26 Jul 2026 12:12:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/26/test-togue-battle"><img alt="" src="https://content.onliner.by/news/thumbnail/c7d20804d06ea46c6534946a59bfce61.jpg" /></a></p><p>Сегодня днем на картодроме ДОСААФ в деревне Прилесье протестировали новый вид автомобильных гонок — Touge Battle. Дисциплина напоминает заезды в стиле time-attack, но теперь участники не едут на время, а соперничают друг с другом в очном противостоянии. Как все прошло, смотрите в фоторепортаже Onlíner.</p><p><a href="https://auto.onliner.by/2026/07/26/test-togue-battle">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Под Молодечно задержали крупную партию самогона — почти 2,5 тысячи литров</title>
+      <link>https://money.onliner.by/go/338590</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/26/molodechno-minus-samogon</guid>
+      <pubDate>Sun, 26 Jul 2026 09:44:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/26/molodechno-minus-samogon"><img alt="" src="https://content.onliner.by/news/thumbnail/73db4edc7c2f55e997d51777ad3a8844.jpg" /></a></p><p>В Молодечненском районе сотрудники ГАИ остановили грузовик Mercedes, в кузове которого обнаружили крупную партию самогона. Всего правоохранители изъяли 104 полимерные канистры общим объемом около 2,5 тыс. литров, сообщили в МВД.</p><p><a href="https://money.onliner.by/2026/07/26/molodechno-minus-samogon">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Минчанка вернулась с Занзибара и обнаружила в чемодане неожиданного «пассажира» (обновлено)</title>
+      <link>https://people.onliner.by/go/1319776</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/26/passazhir-s-zanzibara</guid>
+      <pubDate>Sun, 26 Jul 2026 09:37:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/26/passazhir-s-zanzibara"><img alt="" src="https://content.onliner.by/news/thumbnail/ede8417c580fa9720ca94f970ba6c66e.jpg" /></a></p><p>Необычным воспоминанием о поездке на Занзибар <a href="https://www.threads.com/@sssssssz.kkk/post/DbOHelJDH0u" target="_blank">поделилась</a> в Threads минчанка. После возвращения домой девушка начала разбирать чемодан и неожиданно обнаружила в нем маленького геккона, который, судя по всему, прилетел в Беларусь вместе с ней.</p><p><a href="https://people.onliner.by/2026/07/26/passazhir-s-zanzibara">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Play Local Music With File-Manager Simplicity</title>
+      <link>https://feed.itsfoss.com/link/24361/17387475/sonictree-music-player</link>
+      <guid isPermaLink="false">6a5ff7e80dfcce0001cd2f5b</guid>
+      <pubDate>Sun, 26 Jul 2026 09:36:44 +0000</pubDate>
+      <description><![CDATA[SonicTree music player]]></description>
+      <category>Applications</category>
     </item>
     <item>
       <title>От Средневековья до Burning Man: кто и в чем поехал на Viva Braslav</title>
@@ -89,7 +121,7 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>Рычали не только динозавры. Как в Минске отметили день рождения «Дино парка»</title>
+      <title>Рычали не только динозавры. Как в Минске отметили день рождения «Дино парка» (видео)</title>
       <link>https://people.onliner.by/go/1319705</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/07/25/dino-park-11-let</guid>
       <pubDate>Sat, 25 Jul 2026 17:24:04 +0000</pubDate>
@@ -201,14 +233,6 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>«Самое мягкое приводнение». SpaceX провела 13-й тестовый полет Starship</title>
-      <link>https://tech.onliner.by/go/784506</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/25/starship-test-flight-13</guid>
-      <pubDate>Sat, 25 Jul 2026 07:44:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/25/starship-test-flight-13"><img alt="" src="https://content.onliner.by/news/thumbnail/c24d2afb2ac350f41e4eb8ff028533b8.png" /></a></p><p>25 июля с космодрома Starbase в Техасе в 13-й раз <a href="https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video" target="_blank">отправилась</a> в космос самая мощная ракета в мире — Starship — в рамках очередного тестового запуска. Космический корабль успешно завершил все этапы миссии и совершил «самое мягкое приводнение за всю историю наблюдений», а ускоритель Super Heavy столкнулся с проблемами при перезапуске двигателей во время посадки в океан.</p><p><a href="https://tech.onliner.by/2026/07/25/starship-test-flight-13">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Ubuntu 26.10 "Stonking Stingray": All the New Features So Far</title>
       <link>https://feed.itsfoss.com/link/24361/17387110/ubuntu-26-10-features</link>
       <guid isPermaLink="false">6a61e2320dfcce0001cd352d</guid>
@@ -217,51 +241,11 @@
       <category>Ubuntu</category>
     </item>
     <item>
-      <title>Девушка засудила работодателя за требование включать камеру на созвонах</title>
-      <link>https://money.onliner.by/go/338544</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/25/kamera-na-sozvonah-sud</guid>
-      <pubDate>Sat, 25 Jul 2026 07:20:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/25/kamera-na-sozvonah-sud"><img alt="" src="https://content.onliner.by/news/thumbnail/f785bd1137ace6f85d3d6b8cc5776f1e.jpg" /></a></p><p>В Великобритании бывшая сотрудница компании Holiday Extras выиграла суд против работодателя после того, как ее обязали участвовать в рабочих видеозвонках с включенной камерой. Суд признал, что компания не учла состояние здоровья женщины и нарушила ее права, <a href="https://nypost.com/2026/07/23/lifestyle/anxious-worker-wins-discrimnation-suit-over-video-call-dispute/" target="_blank">пишет</a> New York Post.</p><p><a href="https://money.onliner.by/2026/07/25/kamera-na-sozvonah-sud">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>С 1 августа в Беларуси вырастут пособия на детей до 3 лет. На сколько?</title>
-      <link>https://money.onliner.by/go/338539</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/25/posobiya-po-uhodu-s-1-avgusta</guid>
-      <pubDate>Sat, 25 Jul 2026 07:11:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/25/posobiya-po-uhodu-s-1-avgusta"><img alt="" src="https://content.onliner.by/news/thumbnail/58045a73f52cc4daa2e9d6805bf7d3c5.jpg" /></a></p><p>С 1 августа в Беларуси увеличатся размеры пособий по уходу за ребенком в возрасте до 3 лет. Как сообщили в Министерстве труда и социальной защиты, выплаты вырастут в среднем на 5,7% и будут действовать до 31 января 2027 года.</p><p><a href="https://money.onliner.by/2026/07/25/posobiya-po-uhodu-s-1-avgusta">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Не хочется выглядеть женщиной, которая носит вещи 20-летней давности». Большой разбор гардероба</title>
-      <link>https://people.onliner.by/go/1319273</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/25/razbor-garderoba-new-5</guid>
-      <pubDate>Sat, 25 Jul 2026 05:00:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/25/razbor-garderoba-new-5"><img alt="" src="https://content.onliner.by/news/thumbnail/7b1fe62e513dc769f94ab6b2f9d2c7bf.jpg" /></a></p><p>Шкаф помнит все: вещи на случай «когда точно похудею», «это классика, еще внучки будут носить» и «выбрасывать нельзя, пригодится для тематической вечеринки». В итоге проблема переходит в категорию вечной: шкаф забит, а идей, что надеть завтра утром, ровно ноль. Мы уже в пятый раз проводим экспедицию в личное пространство белорусок — чтобы вместе с <a href="https://pm.by/ru/popup/registration?promocode=8ngz1762254490&amp;t_group=pr&amp;utm_source=pr_av&amp;utm_campaign=ba_casino_uzeslishali_500fs_inhs&amp;utm_medium=cpm&amp;utm_content=banner_statia&amp;utm_term=general_registr_fb100byn500fs&amp;campaign_name=ba_casinouze_500fs_PR_onliner_statia&amp;campaign_id=1951&amp;external_id=&amp;subid=1rh3hgl.79f.2aqi04" target="_blank">Betera</a> продолжать рубрику <a href="https://people.onliner.by/tag/razbor-garderoba" target="_blank">«Разбор гардероба»</a>. В этот раз отправились в гости к Марине, которая потерялась среди вещей, купленных пять-десять лет назад.</p><p><a href="https://people.onliner.by/2026/07/25/razbor-garderoba-new-5">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Этот «Мерс» круче, чем 600-й. Mercedes представил всю роскошь в Maybach GLS 680</title>
-      <link>https://auto.onliner.by/go/1257829</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/25/maybach-gls-680</guid>
-      <pubDate>Sat, 25 Jul 2026 05:00:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/25/maybach-gls-680"><img alt="" src="https://content.onliner.by/news/thumbnail/c5786b6ee6d2a831dbba28ca868ffd1e.jpg" /></a></p><p>Минувшей весной Mercedes затеяла масштабное обновление семейства крупных паркетников, выпускаемых на американском предприятии в Таскалусе (штат Алабама). Это затронуло также флагманский GLS, которому освежили внешность и салон, а заодно модернизировали техническую начинку. Но в обновленной гамме до сих пор отсутствовал более статусный Mercedes-Maybach GLS, то есть самая роскошная и дорогая разновидность модели. Теперь устранен и этот пробел — на текущей неделе в США рестайлинговый Maybach GLS предстал во всей красе.</p><p><a href="https://auto.onliner.by/2026/07/25/maybach-gls-680">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Ubuntu 26.04 Stopped Notifying Users About Updates, But That Was Intentional</title>
       <link>https://feed.itsfoss.com/link/24361/17386848/ubuntu-26-04-update-notifier-fix</link>
       <guid isPermaLink="false">6a6303440dfcce0001cded58</guid>
       <pubDate>Fri, 24 Jul 2026 17:41:58 +0000</pubDate>
       <description><![CDATA[an illustration showing a no update available notification with the ubuntu logo placed on its right]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Plex's Open Source Alternative Jellyfin is Having a Leadership Crisis</title>
-      <link>https://feed.itsfoss.com/link/24361/17385323/jellyfin-leadership-crisis</link>
-      <guid isPermaLink="false">6a61b6a90dfcce0001cd344f</guid>
-      <pubDate>Thu, 23 Jul 2026 10:46:06 +0000</pubDate>
-      <description><![CDATA[jellyfin logo, an illustration that shows many people, and a graphic element that shows an exit door]]></description>
       <category>News</category>
     </item>
   </channel>
