@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 27 Jul 2026 19:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:31:10 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -82,7 +82,7 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Предприятие дало займ директору на квартиру, а денег на технику не осталось</title>
+      <title>Предприятие помогло купить квартиру директору, а на оборудование не хватило</title>
       <link>https://money.onliner.by/go/338716</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/07/27/predpriyatie-dalo-zajm-direktoru-na-kvartiru-a-deneg-na-texniku-ne-ostalos</guid>
       <pubDate>Mon, 27 Jul 2026 13:03:24 +0000</pubDate>
