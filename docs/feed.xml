@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 31 Jul 2026 02:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 08:49:05 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -41,166 +41,181 @@
       <category>News</category>
     </item>
     <item>
-      <title>Под Россонами задержали организаторов массового «турслета» с 300 участниками</title>
-      <link>https://people.onliner.by/go/1320958</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/30/pod-rossonami-zaderzhali</guid>
-      <pubDate>Thu, 30 Jul 2026 17:00:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/30/pod-rossonami-zaderzhali"><img alt="" src="https://content.onliner.by/news/thumbnail/03fbddba7ec734d01c7666b3ff5e4a17.jpg" /></a></p><p>В Россонском районе сотрудники милиции пресекли несанкционированное массовое мероприятие на берегу озера. Как сообщили в МВД, поводом для выезда правоохранителей стало сообщение на линию 102 о шумном мероприятии с большим количеством участников.</p><p><a href="https://people.onliner.by/2026/07/30/pod-rossonami-zaderzhali">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Один день детокса — 105 рублей. Как в Минске помогают зависимым людям</title>
-      <link>https://people.onliner.by/go/1320826</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/30/chashhe-prixodyat-muzhchiny-reportazh-iz-minskogo-centra-gde-pomogayut-zavisimym</guid>
-      <pubDate>Thu, 30 Jul 2026 15:50:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/30/chashhe-prixodyat-muzhchiny-reportazh-iz-minskogo-centra-gde-pomogayut-zavisimym"><img alt="" src="https://content.onliner.by/news/thumbnail/4b339e791e8d9119c5a0d92e424e7409.jpg" /></a></p><p><p dir="ltr">В феврале этого года «Минский городской клинический наркологический центр» получил новую постоянную прописку на Ваупшасова. Обратиться за помощью сюда могут не только те, кто подсел на наркотики или алкоголь, но и игроманы, а еще желающие бросить курить. На один день журналистов пустили в кабинеты терапии и реабилитации, палаты реанимации и дали возможность поговорить с теми, кто пытается себя спасти.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/07/30/chashhe-prixodyat-muzhchiny-reportazh-iz-minskogo-centra-gde-pomogayut-zavisimym">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Владелец компании отказался от $400 миллионов. Его решение удивило многих</title>
-      <link>https://money.onliner.by/go/339208</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/30/mne-ne-nuzhna-200-futovaya-yaxta-millioner-otkazalsya-ot-400-millionov-radi-blagotvoritelnosti</guid>
-      <pubDate>Thu, 30 Jul 2026 15:22:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/30/mne-ne-nuzhna-200-futovaya-yaxta-millioner-otkazalsya-ot-400-millionov-radi-blagotvoritelnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/384dc3999184357d3bcd584464d6a18e.jpg" /></a></p><p>Большинство предпринимателей в такой ситуации продали бы бизнес и получили сотни миллионов долларов. Но 83-летний Эдди Смит поступил иначе: вместо сделки стоимостью более $400 млн он передал компанию в специальную структуру, чтобы она больше никогда не продавалась, а ее будущая прибыль шла на благотворительность.</p><p><a href="https://money.onliner.by/2026/07/30/mne-ne-nuzhna-200-futovaya-yaxta-millioner-otkazalsya-ot-400-millionov-radi-blagotvoritelnosti">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Водитель вышел из автобуса, не заглушив двигатель. Погибли два человека (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1246237</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/30/na-mogilevshhine-avtobus-sam</guid>
-      <pubDate>Thu, 30 Jul 2026 14:23:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/30/na-mogilevshhine-avtobus-sam"><img alt="" src="https://content.onliner.by/news/thumbnail/33903f34ac991d3128b20d5680f58f42.jpg" /></a></p><p>Смертельное ДТП случилось утром 16 мая в Чаусах. Под колесами рейсового автобуса погибли два человека.</p><p><a href="https://auto.onliner.by/2026/07/30/na-mogilevshhine-avtobus-sam">Читать далее…</a></p>]]></description>
+      <title>Видео аварии: водитель такси отвлекся и врезался в ограждение в центре Минска  (видео)</title>
+      <link>https://auto.onliner.by/go/1258890</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/voditel-taksi-otvleksya</guid>
+      <pubDate>Fri, 31 Jul 2026 08:15:36 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/31/voditel-taksi-otvleksya"><img alt="" src="https://content.onliner.by/news/thumbnail/d558fa84a996134ecf14515672e4993c.jpg" /></a></p><p>Сегодня утром 35-летний водитель автомобиля-такси Belgee двигался по улице Немиге. Вблизи дома №40 он выехал на разделительную полосу и врезался в металлическое ограждение.</p><p><a href="https://auto.onliner.by/2026/07/31/voditel-taksi-otvleksya">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>У некоторых мотоциклистов нет чувства страха? Эти двое сильно рисковали (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1255813</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/30/v-realnosti-eto-ochen-strashno</guid>
-      <pubDate>Thu, 30 Jul 2026 14:20:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/30/v-realnosti-eto-ochen-strashno"><img alt="" src="https://content.onliner.by/news/thumbnail/7908a910465577d607713755678f8b6b.jpg" /></a></p><p>Любой инструктор скажет, что на дороге нужно быть заметным и предсказуемым. Иначе, если загадать соседям по потоку загадку о том, что ты сделаешь в следующий момент, они ее могут и не отгадать, и тогда — беда.
-</p><p><a href="https://auto.onliner.by/2026/07/30/v-realnosti-eto-ochen-strashno">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Посмотрите трейлер эпического индийского блокбастера с летающим слоном и музыкой Ханса Циммера  (видео)</title>
-      <link>https://tech.onliner.by/go/785770</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/30/posmotrite-trejler-epicheskogo-indijskogo-blokbastera-s-letayushhim-slonom-i-muzykoj-xansa-cimmera</guid>
-      <pubDate>Thu, 30 Jul 2026 14:20:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/30/posmotrite-trejler-epicheskogo-indijskogo-blokbastera-s-letayushhim-slonom-i-muzykoj-xansa-cimmera"><img alt="" src="https://content.onliner.by/news/thumbnail/7dba7b0b9c13c06727bff30622ea95a8.jpg" /></a></p><p>На YouTube-канале Sony Pictures Entertainment опубликовали трейлер «Рамаяны» — первой из двух частей экранизации древнеиндийского эпоса. Музыку к проекту, которая в том числе звучит в трейлере, написали лауреаты «Оскара» Алла Ракха Рахман («Миллионер из трущоб») и Ханс Циммер.</p><p><a href="https://tech.onliner.by/2026/07/30/posmotrite-trejler-epicheskogo-indijskogo-blokbastera-s-letayushhim-slonom-i-muzykoj-xansa-cimmera">Читать далее…</a></p>]]></description>
+      <title>Девушки показали свои фото до и после желаемого набора веса</title>
+      <link>https://tech.onliner.by/go/785819</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/ves-3</guid>
+      <pubDate>Fri, 31 Jul 2026 08:10:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/ves-3"><img alt="" src="https://content.onliner.by/news/thumbnail/fb91e156f9f602e3b6f242ac3977ed67.jpg" /></a></p><p>Тренды на красоту меняются регулярно, иногда просматривается цикличность, как и во всем. Некоторые воспринимаются общественностью благосклонно (например, возвращение клеша), другие изменения могут вызывать тревогу. К таким обычно относят «игры» с весом, когда мода и ожидания как будто диктуют определенные стандарты.</p><p><a href="https://tech.onliner.by/2026/07/31/ves-3">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Скинулись и поставили мангал во дворе. Горожане радикально решили вопрос пикников</title>
-      <link>https://realt.onliner.by/go/1121015</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/30/skinulis-i-postavili-mangal</guid>
-      <pubDate>Thu, 30 Jul 2026 14:18:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/30/skinulis-i-postavili-mangal"><img alt="" src="https://content.onliner.by/news/thumbnail/1b23dca2ff272a09547add4df505a5f1.jpg" /></a></p><p>Зачем ехать куда-то далеко, если вдруг захотелось сделать шашлык? Видимо, так думали жильцы одной из новостроек по проспекту Санфировой в&#8230;</p><p><a href="https://realt.onliner.by/2026/07/30/skinulis-i-postavili-mangal">Читать далее…</a></p>]]></description>
+      <title>Упрощенная схема действует до 1 сентября. Владельцам экс-СПМ стоит поторопиться</title>
+      <link>https://auto.onliner.by/go/1258891</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/uproshhennaya-sxema</guid>
+      <pubDate>Fri, 31 Jul 2026 08:08:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/31/uproshhennaya-sxema"><img alt="" src="https://content.onliner.by/news/thumbnail/5e1329f0aff74685ac079630f6f3fd89.jpg" /></a></p><p>Согласно новой редакции правил дорожного движения, действующей с 1 сентября 2025 года, к средствам персональной мобильности (СПМ) относятся транспортные средства, максимальная конструктивная скорость движения которых не превышает 25 км/ч. Для других устройств <a href="https://auto.onliner.by/2025/09/10/priznayut-motociklom" target="_blank">предусмотрена</a> оценка соответствия типам транспортных средств (ОСТС) и регистрация по упрощенной системе — но такой порядок действует лишь до определенного времени.</p><p><a href="https://auto.onliner.by/2026/07/31/uproshhennaya-sxema">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Ушел в декрет, а его уволили. Молодой папа пошел в суд и получил компенсацию</title>
+      <link>https://money.onliner.by/go/339274</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/31/uvolili-posle-dekreta-molodoj-papa-poluchil-pochti-15-milliona-funtov-sterlingov-kompensacii</guid>
+      <pubDate>Fri, 31 Jul 2026 08:03:57 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/31/uvolili-posle-dekreta-molodoj-papa-poluchil-pochti-15-milliona-funtov-sterlingov-kompensacii"><img alt="" src="https://content.onliner.by/news/thumbnail/43f0b8412ff30b07ed5a6881518057f2.jpg" /></a></p><p>Один из руководителей Goldman Sachs в 2022 году должен был выйти на работу после шестимесячного отпуска по уходу за ребенком. Однако Джона Ривза уволили из-за «производственной необходимости» и «относительно низких показателей работы». Мужчина же утверждал, что эти причины лишь предлог и его наказывают за длительный отпуск в связи с отцовством. На днях Джон получил компенсацию 1,45 млн фунтов стерлингов (5,7 млн белорусских рублей) за дискриминацию по половому признаку и несправедливое увольнение.</p><p><a href="https://money.onliner.by/2026/07/31/uvolili-posle-dekreta-molodoj-papa-poluchil-pochti-15-milliona-funtov-sterlingov-kompensacii">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Медцентр, офисы, выставочные залы. Еще одна промзона Минска готовится к апгрейду</title>
+      <link>https://realt.onliner.by/go/1121067</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/31/luch-3</guid>
+      <pubDate>Fri, 31 Jul 2026 08:03:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/31/luch-3"><img alt="" src="https://content.onliner.by/news/thumbnail/4ed4004cc0c9df63cde1d9bc3ed7da7f.png" /></a></p><p>Через дорогу от парка Челюскинцев стоит «Минский часовой завод», известный своим знаковым зданием с часами и надписью «Луч». За его парадными фасадами скрывается большая дворовая территория с производственными постройками. Часть из них давно используется под различные бизнесы и точки общепита. Но в ближайшей перспективе здесь появится и что-то новенькое. Проект вынесен на <a href="https://pervadmin.gov.by/ru/obshchestvennye-obsuzhdeniya/rekonstruktsiya-zdaniya-proizvodstvennogo-korpusa-no-10-oao-minskij-chasovoj-zavod-pod-mnogofunktsionalnoe-zdanie-raspolozhennoe-po-adresu-g-minsk-pr-nezavisimosti-95" target="_blank">общественное обсуждение</a>. </p><p><a href="https://realt.onliner.by/2026/07/31/luch-3">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>В популярном минском заведении девушкам предлагают скидку «за месячные»</title>
-      <link>https://people.onliner.by/go/1320906</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/30/skidku-za-mesyachnye</guid>
-      <pubDate>Thu, 30 Jul 2026 14:18:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/30/skidku-za-mesyachnye"><img alt="" src="https://content.onliner.by/news/thumbnail/a3ac1a5e8c235a37b670aad42bc5cfdd.jpg" /></a></p><p><p dir="ltr">Минская «Женская пивная», открывшаяся этой весной на «Лучшей улице» и на старте наделавшая много шума, объявила о необычной акции. Посетительницы могут получить 10%-ную скидку на еду, если у них ПМС.</p><p><a href="https://people.onliner.by/2026/07/30/skidku-za-mesyachnye">Читать далее…</a></p>]]></description>
+      <title>Минчанин решил искупаться прямо в городе. Обернулось трагедией</title>
+      <link>https://people.onliner.by/go/1321054</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/31/minchanin-reshil-iskupatsya-pryamo-v-gorode-obernulos-tragediej</guid>
+      <pubDate>Fri, 31 Jul 2026 08:00:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/31/minchanin-reshil-iskupatsya-pryamo-v-gorode-obernulos-tragediej"><img alt="" src="https://content.onliner.by/news/thumbnail/326bf36798748b2b271c7742a15d6c6d.jpg" /></a></p><p>Вчера вечером спасателям поступила информация об утонувшем мужчине в Первомайском районе Минска. Сообщается, что все случилось в акватории Слепянской водной системы.</p><p><a href="https://people.onliner.by/2026/07/31/minchanin-reshil-iskupatsya-pryamo-v-gorode-obernulos-tragediej">Читать далее…</a></p>]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>«Фанатский» Samsung Galaxy S26 FE раскрыли до анонса</title>
-      <link>https://tech.onliner.by/go/785750</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/30/fanatskij-samsung-galaxy-s26-fe-raskryli-do-anonsa</guid>
-      <pubDate>Thu, 30 Jul 2026 13:25:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/30/fanatskij-samsung-galaxy-s26-fe-raskryli-do-anonsa"><img alt="" src="https://content.onliner.by/news/thumbnail/3337e969610934bf11dc29f9d58f3f1d.jpg" /></a></p><p>Французский источник сообщает: уже первого сентября Samsung представит «фанатский» флагман Galaxy S26 FE. Некоторые из его ключевых характеристик, а также предполагаемые цены в ЕС также успели попасть в сеть. На это <a href="https://www.gsmarena.com/samsung_galaxy_s26_fe_will_be_more_expensive_than_its_predecessor_new_leak_claims-news-73929.php" target="_blank">обратили</a> внимание в GSMArena.</p><p><a href="https://tech.onliner.by/2026/07/30/fanatskij-samsung-galaxy-s26-fe-raskryli-do-anonsa">Читать далее…</a></p>]]></description>
+      <title>Посмотрите, как Джейсон Момоа превращается в монстра, в трейлере экранизации Street Fighter</title>
+      <link>https://tech.onliner.by/go/785832</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/posmotrite-kak-dzhejson-momoa-prevrashhaetsya-v-monstra-v-trejlere-ekranizacii-street-fighter</guid>
+      <pubDate>Fri, 31 Jul 2026 07:45:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/posmotrite-kak-dzhejson-momoa-prevrashhaetsya-v-monstra-v-trejlere-ekranizacii-street-fighter"><img alt="" src="https://content.onliner.by/news/thumbnail/eebb66c3e7050d5aa8b2b41a02a1f193.jpg" /></a></p><p>На YouTube-каналах Paramount Pictures и Legendary опубликовали минутный ролик, который посвящен грядущей экранизации Street Fighter — именитой серии игр-файтингов. </p><p><a href="https://tech.onliner.by/2026/07/31/posmotrite-kak-dzhejson-momoa-prevrashhaetsya-v-monstra-v-trejlere-ekranizacii-street-fighter">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>В Беларуси запретили эти специи</title>
-      <link>https://money.onliner.by/go/339165</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/30/populyarnye-specii-popali-pod-zapret</guid>
-      <pubDate>Thu, 30 Jul 2026 13:19:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/30/populyarnye-specii-popali-pod-zapret"><img alt="" src="https://content.onliner.by/news/thumbnail/6031f08888205541ee52d7adf6baca1c.jpg" /></a></p><p>Госстандарт запретил продажу трех видов специй белорусского производителя «Гурмина-Про» под торговой маркой «Спец». Ограничения вступают в силу с 31 июля.</p><p><a href="https://money.onliner.by/2026/07/30/populyarnye-specii-popali-pod-zapret">Читать далее…</a></p>]]></description>
+      <title>3 рубля пока не получилось. Вот как начались торги</title>
+      <link>https://money.onliner.by/go/339247</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/31/valyuty-pered-vyxodnymi</guid>
+      <pubDate>Fri, 31 Jul 2026 07:18:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/31/valyuty-pered-vyxodnymi"><img alt="" src="https://content.onliner.by/news/thumbnail/deb3c01b2834d3acca23d1b115a82166.jpg" /></a></p><p>Сегодня, 31 июля, доллар сменил курс и в начале торгов слегка дешевеет. Тем временем биткоин за последние сутки подорожал, сейчас находится вблизи отметки в $64 078.
+</p><p><a href="https://money.onliner.by/2026/07/31/valyuty-pered-vyxodnymi">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>В Витебске водитель автобуса насмерть сбил пенсионерку на пешеходном переходе</title>
-      <link>https://auto.onliner.by/go/1258832</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/30/nasmert-sbil-pensionerku</guid>
-      <pubDate>Thu, 30 Jul 2026 13:01:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/30/nasmert-sbil-pensionerku"><img alt="" src="https://content.onliner.by/news/thumbnail/37ea5f840e94bf0600c06ad2b60d73c1.jpg" /></a></p><p>ДТП случилось сегодня около 11:00 на улице Карла Маркса в Витебске. 33-летний водитель автобуса МАЗ наехал на женщину-пешехода 1956 года рождения. Пенсионерка пересекала проезжую часть дороги по нерегулируемому пешеходному переходу.</p><p><a href="https://auto.onliner.by/2026/07/30/nasmert-sbil-pensionerku">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
+      <title>Школьникам предложили отказаться от цветов для учителей. Что нести взамен 1 сентября?</title>
+      <link>https://people.onliner.by/go/1321044</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/31/shkolnikam-predlozhili-otkazatsya-ot-cvetov-dlya-uchitelej-chto-nesti-vzamen-1-sentyabrya</guid>
+      <pubDate>Fri, 31 Jul 2026 07:18:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/31/shkolnikam-predlozhili-otkazatsya-ot-cvetov-dlya-uchitelej-chto-nesti-vzamen-1-sentyabrya"><img alt="" src="https://content.onliner.by/news/thumbnail/93a39959fac7314190a959071d9d4634.jpg" /></a></p><p>В 10-й раз фонд «Шанс» предлагает белорусским школьникам поддержать добрую инициативу. Вместо множества букетов для учителя принести 1 сентября один — от всего класса. А вот сэкономленные деньги отправить на помощь.</p><p><a href="https://people.onliner.by/2026/07/31/shkolnikam-predlozhili-otkazatsya-ot-cvetov-dlya-uchitelej-chto-nesti-vzamen-1-sentyabrya">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
     </item>
     <item>
-      <title>Не хватило денег на аренду: мужчина украл оборудование из автомобиля</title>
-      <link>https://auto.onliner.by/go/1258826</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/30/ukral-oborudovanie-iz-avto</guid>
-      <pubDate>Thu, 30 Jul 2026 12:29:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/30/ukral-oborudovanie-iz-avto"><img alt="" src="https://content.onliner.by/news/thumbnail/2504894c2f3a85766d4b6a739df5f062.jpg" /></a></p><p>В милицию Могилевской области обратился 29-летний мужчина и сообщил, что из салона его автомобиля, который он сдавал в аренду, пропали таксометр и видеорегистратор на общую сумму более 1000 рублей.</p><p><a href="https://auto.onliner.by/2026/07/30/ukral-oborudovanie-iz-avto">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Топ-10 фишек «юбилейного» iPhone 20 раскрыли в сети</title>
-      <link>https://tech.onliner.by/go/785729</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/30/nazvany-desyat-glavnyx-osobennostej-yubilejnogo-iphone-2027-goda</guid>
-      <pubDate>Thu, 30 Jul 2026 12:25:41 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/30/nazvany-desyat-glavnyx-osobennostej-yubilejnogo-iphone-2027-goda"><img alt="" src="https://content.onliner.by/news/thumbnail/ce466dceebe65b3baa68d8723422a376.jpg" /></a></p><p>Айфону, как продукту Apple, в 2027 году исполнится 20 лет. Многочисленные источники утверждают, что к этой дате компания готовит особенный «юбилейный» смартфон (или, возможно, смартфоны), в котором добавят несколько важных нововведений. В MacRumors <a href="https://www.macrumors.com/2026/07/29/20th-anniversary-iphone-10-features/" target="_blank">собрали</a> эти ожидаемые улучшения в один материал — получился топ из десяти пунктов.</p><p><a href="https://tech.onliner.by/2026/07/30/nazvany-desyat-glavnyx-osobennostej-yubilejnogo-iphone-2027-goda">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«А смысл, если можно взять свою квартиру в кредит?» Обзор премиального съемного жилья в Минске</title>
-      <link>https://realt.onliner.by/go/1120890</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/30/a-smysl-esli-mozhno-vzyat-svoyu-kvartiru-v-kredit-obzor-premialnogo-semnogo-zhilya-v-minske</guid>
-      <pubDate>Thu, 30 Jul 2026 12:15:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/30/a-smysl-esli-mozhno-vzyat-svoyu-kvartiru-v-kredit-obzor-premialnogo-semnogo-zhilya-v-minske"><img alt="" src="https://content.onliner.by/news/thumbnail/ddedfe7ee8d0dd1ba2429433b1bb7ed3.jpg" /></a></p><p>Скептики часто задаются вопросом: зачем отдавать за аренду больше тысячи долларов по курсу в месяц, если эти же деньги можно откладывать на собственное жилье или выплачивать за него кредит ? Тем не менее рынок дорогой недвижимости в Минске существует. Свои арендаторы у таких объектов есть всегда — от иностранцев до тех, кто просто не хочет привязывать себя к одному месту. Мы заглянули в базу объявлений Onlíner и выбрали дорогие варианты, которые можно снять прямо сейчас. Цены на них кусаются, а интерьеры варьируются от смелого «дорого, богато» до сдержанного скандинавского минимализма. К слову, рассматривали мы объявления только от собственников.</p><p><a href="https://realt.onliner.by/2026/07/30/a-smysl-esli-mozhno-vzyat-svoyu-kvartiru-v-kredit-obzor-premialnogo-semnogo-zhilya-v-minske">Читать далее…</a></p>]]></description>
+      <title>Работа в сложных условиях. Как продвигается строительство станции «Комаровская»?</title>
+      <link>https://realt.onliner.by/go/1121058</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/31/alesya-uzhe-proshla</guid>
+      <pubDate>Fri, 31 Jul 2026 07:15:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/31/alesya-uzhe-proshla"><img alt="" src="https://content.onliner.by/news/thumbnail/512cc7a527df19ef0230a9d8a0c251e2.jpg" /></a></p><p><p>Строительство второго участка зеленой ветки минского метро подбирается к площади Бангалор. На пересечении улиц Веры Хоружей и Максима Богдановича, где расположится будущая станция «Комаровская» (от «Парка Дружбы народов» ее отделяют 1036 метров или 740 колец), сейчас кипит работа. Специалисты СМУ-2 «Минскметростроя» первым делом <a href="https://t.me/minskstroybelarus/9286" target="_blank">занимаются</a> водопонижением: вся третья линия строится в сложных геологических условиях, а на Комаровке грунтовые воды залегают особенно высоко к поверхности. Чтобы котлован не затопило, контур станции возводят по технологии «стена в грунте».<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/07/31/alesya-uzhe-proshla">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Менеджера уволили из-за скриншота с его зарплатой</title>
-      <link>https://money.onliner.by/go/339150</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/30/menedzhera-uvolili-iz-za-skrinshota-s-ego-zarplatoj</guid>
-      <pubDate>Thu, 30 Jul 2026 12:01:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/30/menedzhera-uvolili-iz-za-skrinshota-s-ego-zarplatoj"><img alt="" src="https://content.onliner.by/news/thumbnail/cbc11fac6de2a7ed1a02046e1b4be116.jpg" /></a></p><p>Китайская компания Tencent уволила менеджера подразделения WeChat после того, как в интернете появились данные о его многомиллионном вознаграждении. История вызвала бурное обсуждение в китайских соцсетях.</p><p><a href="https://money.onliner.by/2026/07/30/menedzhera-uvolili-iz-za-skrinshota-s-ego-zarplatoj">Читать далее…</a></p>]]></description>
+      <title>Новая схема мошенников: фальшивые штрафы за парковку через СМС</title>
+      <link>https://auto.onliner.by/go/1258881</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/falshivye-shtrafy</guid>
+      <pubDate>Fri, 31 Jul 2026 06:52:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/31/falshivye-shtrafy"><img alt="" src="https://content.onliner.by/news/thumbnail/2269fdb2c4353d61e064ac5b05141efc.jpg" /></a></p><p>Кибермошенники используют схему с «оплатой штрафов ГАИ онлайн». Было найдено несколько фишинговых сайтов, которые маскируются под личный кабинет ЕРИП. Приходит сообщение с информацией о неоплаченном «штрафе за парковку» на сумму 40 рублей. Ссылка на такой сайт приходит в СМС, рассказали в телеграм-канале «КиберПул».</p><p><a href="https://auto.onliner.by/2026/07/31/falshivye-shtrafy">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Съемки фильма по Elden Ring завершены, но про это никто не должен был знать</title>
+      <link>https://tech.onliner.by/go/785811</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/semki-filma-po-elden-ring-zaversheny-no-pro-eto-nikto-ne-dolzhen-byl-znat</guid>
+      <pubDate>Fri, 31 Jul 2026 06:50:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/semki-filma-po-elden-ring-zaversheny-no-pro-eto-nikto-ne-dolzhen-byl-znat"><img alt="" src="https://content.onliner.by/news/thumbnail/905ee8fe74686986471064b37d704716.jpg" /></a></p><p>Про завершение съемок фильма, основывающегося на игре Elden Ring, в соцсетях рассказал один из членов съемочной команды. Правда, соответствующий пост быстро удалили — вероятно, в студии А24 посчитали его как минимум преждевременным. Об этом <a href="https://www.ign.com/articles/elden-ring-movie-officially-wraps-filming-as-producers-thank-crew-for-bringing-unique-project-to-life" target="_blank">пишут</a> в IGN.</p><p><a href="https://tech.onliner.by/2026/07/31/semki-filma-po-elden-ring-zaversheny-no-pro-eto-nikto-ne-dolzhen-byl-znat">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Вот для этого мне и нужен регистратор». Собираем ваши лучшие видео  (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1258347</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/mne-nuzhen-registrator</guid>
+      <pubDate>Fri, 31 Jul 2026 06:27:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/31/mne-nuzhen-registrator"><img alt="" src="https://content.onliner.by/news/thumbnail/0fb97b6937a409ede00105beb0dd65e8.jpg" /></a></p><p>На дорогах случается всякое, и очень часто видеорегистратор — тот важнейший свидетель, который помогает установить истину. Или он просто помогает запечатлеть что-то значимое. В общем, многие автомобилисты согласятся с тем, что регистратор — вещь незаменимая. Но мы хотим подтверждений. Присылайте видео, которые, по вашему мнению, лучше всего объясняют, зачем вам нужен видеорегистратор.</p><p><a href="https://auto.onliner.by/2026/07/31/mne-nuzhen-registrator">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Внук отыскал расписку, которую получил его дедушка. Семье вернули больше $10 тысяч</title>
+      <link>https://money.onliner.by/go/339235</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/31/bolshe-10-tysyach-za-zerno-seme-vernuli-dolg-spustya-pochti-80-let</guid>
+      <pubDate>Fri, 31 Jul 2026 06:26:46 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/31/bolshe-10-tysyach-za-zerno-seme-vernuli-dolg-spustya-pochti-80-let"><img alt="" src="https://content.onliner.by/news/thumbnail/4a885b046e4c96132d196be73eb99255.png" /></a></p><p>Китай вернул деньги семье, которая во время войны в 1947 году одолжила армии 850 кг зерна. Тогда житель деревни в центральном Китае Дин принял решение передать военным почти весь запас его семьи. Взамен он получил расписку с указанием даты, веса и ответственных должностных лиц. В военное время такие расписки называли сертификатами зернового займа.</p><p><a href="https://money.onliner.by/2026/07/31/bolshe-10-tysyach-za-zerno-seme-vernuli-dolg-spustya-pochti-80-let">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Курьер из Беларуси подпел уличному музыканту и стал звездой соцсетей (видео)</title>
-      <link>https://people.onliner.by/go/1320879</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/30/kurer-iz-belarusi</guid>
-      <pubDate>Thu, 30 Jul 2026 12:01:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/30/kurer-iz-belarusi"><img alt="" src="https://content.onliner.by/news/thumbnail/ed42f0046156bb3f470b5063b738c344.jpg" /></a></p><p><p dir="ltr">Белорус Константин из Бреста, который работает курьером доставки еды в Москве, неожиданно прославился после случайного выступления с уличными музыкантами. Видео с его исполнением быстро разошлось по соцсетям, а вскоре с молодым человеком связались музыкальные продюсеры.</p><p><a href="https://people.onliner.by/2026/07/30/kurer-iz-belarusi">Читать далее…</a></p>]]></description>
+      <title>Актер озвучки Геральта в «Ведьмаке 3» спустя 10 лет вернулся к роли и заинтриговал геймеров</title>
+      <link>https://tech.onliner.by/go/785805</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/akter-ozvuchki-geralta-v-vedmake-3-spustya-10-let-vernulsya-k-roli-i-zaintrigoval-gejmerov</guid>
+      <pubDate>Fri, 31 Jul 2026 06:21:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/akter-ozvuchki-geralta-v-vedmake-3-spustya-10-let-vernulsya-k-roli-i-zaintrigoval-gejmerov"><img alt="" src="https://content.onliner.by/news/thumbnail/20fbd5ae6efc6d73f9021235fd02de8c.jpg" /></a></p><p>Актер Даг Кокл, выступающий голосом Геральта в англоязычных версиях игр The Witcher и аниме The Witcher: Sirens of the Deep, заинтриговал фанатов фото из звукозаписывающей студии. Соответствующий пост он <a href="https://x.com/DCockle/status/2082538924497314128/" target="_blank">опубликовал</a> в соцсети X.</p><p><a href="https://tech.onliner.by/2026/07/31/akter-ozvuchki-geralta-v-vedmake-3-spustya-10-let-vernulsya-k-roli-i-zaintrigoval-gejmerov">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Говорят, что мы воняем на весь свет». Сколько зарабатывают на откачке канализаций (видео)</title>
+      <link>https://money.onliner.by/go/339134</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/31/voditel-assenizator</guid>
+      <pubDate>Fri, 31 Jul 2026 05:00:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/31/voditel-assenizator"><img alt="" src="https://content.onliner.by/news/thumbnail/30b537b99de5725e94e2ac921068ae15.jpg" /></a></p><p>Работа ассенизатора — одна из тех, о которых принято шутить гораздо чаще, чем пытаться разобраться, как она устроена. Между тем за каждым вызовом стоят десятки километров поездок, постоянный ремонт старого МАЗа, шланги, которые стираются за несколько месяцев, и септики, в которых можно найти все что угодно — от строительного мусора до мобильных телефонов. Наш сегодняшний герой — Николай, который уже одиннадцать лет откачивает канализацию в Минске и окрестностях. Мы поговорили с ним о том, как приходят в эту профессию, сколько можно заработать и как однажды он едва не остался без главной детали своей машины.</p><p><a href="https://money.onliner.by/2026/07/31/voditel-assenizator">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>«Комментаторы говорят всякое — не все можно цитировать». Легендарный Владимир Новицкий за рулем (видео)</title>
+      <link>https://auto.onliner.by/go/1258679</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/otkuda-prava-novitsky</guid>
+      <pubDate>Fri, 31 Jul 2026 05:00:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/31/otkuda-prava-novitsky"><img alt="" src="https://content.onliner.by/news/thumbnail/b303b8e84c5bc7ff28ae83b96a6d5980.jpg" /></a></p><p>С Владимиром Новицким встречаемся в минской Веснянке — здесь он живет. Знакомое лицо, «олимпийка» в цветах национальной команды. Но магия происходит при звуках голоса, который ни с чем не спутать. <em>«Здравствуйте, друзья!»</em> — и включается память… Чемпионаты мира и Олимпийские игры, наш хоккей и наш биатлон, Лига чемпионов допоздна и спортивные противостояния, вошедшие в историю, — все это мы смотрели вместе с ним. Сегодня легендарный спортивный комментатор в гостях у Onlíner и Юрия Краснова, преподавателя и инструктора по вождению, и это новый выпуск нашего совместного с <a href="https://pm.by/ru/popup/registration?t_group=pr&amp;utm_source=pr_onliner_by&amp;utm_campaign=ba_otkuda-prava-novitsky&amp;utm_term=general_registr_freebonus1000freespins1003&amp;subid={subid}" target="_blank">Betera</a> проекта, где спортсмены, блогеры, селебрити рассказывают об автомобильных предпочтениях и своем опыте за рулем, а мы — оцениваем их навыки.</p><p><a href="https://auto.onliner.by/2026/07/31/otkuda-prava-novitsky">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Стены влажные, плесень повсюду». Что происходит в сталинках на Ленина спустя месяц после пожара</title>
+      <link>https://realt.onliner.by/go/1120943</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/07/31/v-stalinkax-na-lenina</guid>
+      <pubDate>Fri, 31 Jul 2026 05:00:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/31/v-stalinkax-na-lenina"><img alt="" src="https://content.onliner.by/news/thumbnail/ca3603adda7982e57b63e851db22ca49.jpg" /></a></p><p>Прошло чуть больше месяца с того дня, как в сталинках №9 и 11 на улице Ленина в Минске <a href="https://realt.onliner.by/2026/06/28/nad-ulicej-lenina-gustoj-dym/" target="_blank">случился</a> крупный пожар. Огонь разгорелся вечером 28 июня. Происшествие было резонансным: в центре внимания оказались исторические здания, пламя повредило более 1000 квадратных метров кровли, почти все квартиры в доме промокли насквозь. Какова ситуация на данный момент? Как жильцы справляются с последствиями пожара и залития?</p><p><a href="https://realt.onliner.by/2026/07/31/v-stalinkax-na-lenina">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Здесь «выращивают» электричество: побывали в солнечном парке на краю Беларуси</title>
+      <link>https://tech.onliner.by/go/785334</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/kak-rabotaet-solnechnaya-stanciya</guid>
+      <pubDate>Fri, 31 Jul 2026 05:00:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/kak-rabotaet-solnechnaya-stanciya"><img alt="" src="https://content.onliner.by/news/thumbnail/333a18cda2229f7dd9324fbe288a9d94.jpg" /></a></p><p>«Хватит на два миллиарда кипящих чайников» — столько электроэнергии за время работы выработала фотоэлектрическая ферма, на которую журналистам Onlíner удалось посмотреть вблизи. Здесь, под Брагином, вместо кустов и деревьев растут солнечные панели. Их десятки, а то и сотни. Вокруг стоит тишина, если не принимать в расчет едва слышный гул оборудования. Но как это все работает? Побывали на солнечной электростанции <a href="https://esg.a1.by">A1</a>, чтобы рассказать вам — спустя 10 лет после запуска проекта.</p><p><a href="https://tech.onliner.by/2026/07/31/kak-rabotaet-solnechnaya-stanciya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Этот город называют «маленькой Швейцарией» — и не зря. Что посмотреть туристу в Мозыре</title>
+      <link>https://people.onliner.by/go/1320152</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/07/31/chto-posmotret-v-mozyre</guid>
+      <pubDate>Fri, 31 Jul 2026 05:00:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/31/chto-posmotret-v-mozyre"><img alt="" src="https://content.onliner.by/news/thumbnail/4b5e7c9a64d4d5673e7258cbe4e39d57.jpg" /></a></p><p>Вместе с <a href="https://belkart.by/BELKART/about/?utm_source=onliner&amp;utm_medium=blok&amp;utm_campaign=regiony_june2026" target="_blank">«Белкарт»</a> мы продолжаем гулять по «самым-самым» городам Беларуси — местам, которые лидируют в рейтинге населенных пунктов страны по любому небанальному параметру. На этот раз отправились в самый холмистый город. Получить такой статус в стране равнин, лесов и болот — задача непростая, но с ней успешно справился Мозырь. Одна из столиц белорусского Полесья пусть и не может похвастаться обилием памятников архитектуры или развитым пешеходным центром, зато обладает по-настоящему уникальным «горным» ландшафтом, который и местные, и приезжие не устают сравнивать то со Швейцарией, то с Закарпатьем. Нам этого хватило с лихвой — проведя в Мозыре один день, можем смело утверждать, что это лучший город Беларуси для красивых прогулок.</p><p><a href="https://people.onliner.by/2026/07/31/chto-posmotret-v-mozyre">Читать далее…</a></p>]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>Смотрел куда-то не туда — и вот итог. Что бывает, когда едут на красный (видео)</title>
-      <link>https://auto.onliner.by/go/1255077</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/30/ne-ponyal-sfetofor</guid>
-      <pubDate>Thu, 30 Jul 2026 11:23:20 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/30/ne-ponyal-sfetofor"><img alt="" src="https://content.onliner.by/news/thumbnail/29f850f8435cbcf3ab88fc42572fe0dd.jpg" /></a></p><p>Проехать на красный, выехать на перекресток не вовремя — это всегда огромный риск. И опасность зачастую настолько очевидна, что остается непонятным: водитель нарушал осознанно или просто не увидел, не понял сигнал светофора?
-</p><p><a href="https://auto.onliner.by/2026/07/30/ne-ponyal-sfetofor">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Автобус ждут или от жары прячутся? Дикие лошади повадились приходить на остановку у трассы (обновлено)</title>
-      <link>https://auto.onliner.by/go/1256186</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/30/dikie-loshadi-pryachutsya-ot-zhary-na-ostanovke-posredi-m6-video</guid>
-      <pubDate>Thu, 30 Jul 2026 11:05:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/30/dikie-loshadi-pryachutsya-ot-zhary-na-ostanovke-posredi-m6-video"><img alt="" src="https://content.onliner.by/news/thumbnail/de15e93b06f42f6776e3bb2bc4d8f342.jpg" /></a></p><p>Дикие тарпановидные лошади в полях у трассы М6 (Минск — Гродно) — уже не редкость, они стали своеобразной достопримечательностью. Обычно гуляют где-то вдали, но этим летом все чаще стали выходить к людям. Видимо, потому что они нашли необычный способ прятаться от жары. </p><p><a href="https://auto.onliner.by/2026/07/30/dikie-loshadi-pryachutsya-ot-zhary-na-ostanovke-posredi-m6-video">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Девушка сняла 40 тысяч рублей в банкомате чужого банка. Размер комиссии впечатлил соцсети (обновлено)</title>
-      <link>https://money.onliner.by/go/339135</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/30/snyala-40-tysyach-rublej-v-bankomate</guid>
-      <pubDate>Thu, 30 Jul 2026 10:34:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/30/snyala-40-tysyach-rublej-v-bankomate"><img alt="" src="https://content.onliner.by/news/thumbnail/42cc5ffb7fa39651b80b8380d9f191d9.jpg" /></a></p><p>Пользовательница Threads рассказала, что столкнулась с неожиданной комиссией при снятии денег с карты «Белагропромбанка» в банкомате другого банка.</p><p><a href="https://money.onliner.by/2026/07/30/snyala-40-tysyach-rublej-v-bankomate">Читать далее…</a></p>]]></description>
+      <title>От рубашек до постельного белья: рейтинг лучших утюгов 2026 года</title>
+      <link>https://money.onliner.by/go/338403</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/07/31/kak-vybrat-utyg</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/31/kak-vybrat-utyg"><img alt="" src="https://content.onliner.by/news/thumbnail/b85fbaadfb117a04605998e94f43de2b.jpg" /></a></p><p><p dir="ltr">Несмотря на популярность отпаривателей, классический утюг все равно остается самым универсальным устройством для ухода за одеждой. Он лучше справляется с плотными тканями, позволяет формировать стрелки на брюках и не требует покупки дистиллированной воды для залива. Разбираемся, как правильно подобрать модель, которая справится с поставленными задачами и не потянет излишних затрат. А заодно посмотрим, какие модели чаще всего покупают в Каталоге Onlíner в 2026 году.</p><p><a href="https://money.onliner.by/2026/07/31/kak-vybrat-utyg">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Лазеры выявили сотни геоглифов, созданных таинственной цивилизацией тысячи лет назад</title>
-      <link>https://tech.onliner.by/go/785718</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/30/lazery-vyyavili-sotni-geoglifov-sozdannyx-tainstvennoj-civilizaciej-tysyachi-let-nazad</guid>
-      <pubDate>Thu, 30 Jul 2026 10:34:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/30/lazery-vyyavili-sotni-geoglifov-sozdannyx-tainstvennoj-civilizaciej-tysyachi-let-nazad"><img alt="" src="https://content.onliner.by/news/thumbnail/e4beee307f7c078f1e4a259664944d03.jpg" /></a></p><p><em>«Новое исследование показало: используя технологию лазерного сканирования, археологи смогли обнаружить сотни древних земляных сооружений, созданных загадочным обществом более двух тысячелетий назад»</em>, — такими словами <a href="https://www.livescience.com/archaeology/americas/lasers-reveal-hundreds-of-geoglyphs-made-by-a-mysterious-civilization-in-the-amazon-rainforest-thousands-of-years-ago" target="_blank">открывается</a> материал Live Science, в котором <a href="https://www.nature.com/articles/s41586-026-10835-7" target="_blank">ссылаются</a> на статью в Nature. </p><p><a href="https://tech.onliner.by/2026/07/30/lazery-vyyavili-sotni-geoglifov-sozdannyx-tainstvennoj-civilizaciej-tysyachi-let-nazad">Читать далее…</a></p>]]></description>
+      <title>Как настроить Android-смартфон. Полный гайд</title>
+      <link>https://tech.onliner.by/go/467568</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/kak-nastroit-android-smartfon</guid>
+      <pubDate>Fri, 31 Jul 2026 04:00:23 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/kak-nastroit-android-smartfon"><img alt="" src="https://content.onliner.by/news/thumbnail/48f94ff8017265cb18fc4df364897619.jpg" /></a></p><p>Настройка современного Android-смартфона стала проще, но у новичков часто возникают вопросы. При первом включении устройство может попросить выполнить шаги, которые для непосвященных кажутся непонятными — например, вход в Google-аккаунт или установка приложений. В этом гайде мы расскажем, как быстро и легко настроить смартфон, даже если вы делаете это впервые.</p><p><a href="https://tech.onliner.by/2026/07/31/kak-nastroit-android-smartfon">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
@@ -226,14 +241,6 @@
       <pubDate>Tue, 28 Jul 2026 10:26:18 +0000</pubDate>
       <description><![CDATA[Ferrite markdown editor]]></description>
       <category>Applications</category>
-    </item>
-    <item>
-      <title>OpenUK Wants Britain to Stop Giving Away Open Source Creations</title>
-      <link>https://feed.itsfoss.com/link/24361/17389389/british-flavored-linux-foundation-proposal</link>
-      <guid isPermaLink="false">6a675f4012b9170001003a0e</guid>
-      <pubDate>Tue, 28 Jul 2026 05:34:45 +0000</pubDate>
-      <description><![CDATA[the united kingdom flag is shown being hurled up a human arm on the left, on the right is the multi-color logo for the openuk organization]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
