@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 31 Jul 2026 19:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 02:45:46 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -41,7 +41,7 @@
       <category>News</category>
     </item>
     <item>
-      <title>СМИ: Латвия закрыла границу с Беларусью</title>
+      <title>Латвия закрыла границу с Беларусью. ГПК: «Информация не подтверждается» (обновлено)</title>
       <link>https://auto.onliner.by/go/1258993</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/smi-latviya-zakryla-granicu-s-belarusyu</guid>
       <pubDate>Fri, 31 Jul 2026 19:01:01 +0000</pubDate>
