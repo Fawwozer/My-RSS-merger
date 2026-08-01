@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 01 Aug 2026 08:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:19:28 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -33,12 +33,28 @@
       <category>First Look</category>
     </item>
     <item>
-      <title>Good News Gamers! GOG is Officially Coming to Linux</title>
-      <link>https://feed.itsfoss.com/link/24361/17392959/gog-galaxy-is-coming-to-linux</link>
-      <guid isPermaLink="false">6a69958f173d1c0001489b5f</guid>
-      <pubDate>Wed, 29 Jul 2026 12:44:34 +0000</pubDate>
-      <description><![CDATA[gog galaxy banner illustration with a gamer penguin handling a controller]]></description>
-      <category>News</category>
+      <title>В Гомельском районе утонул 15-летний подросток</title>
+      <link>https://people.onliner.by/go/1321449</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/08/01/v-gomelskom-rajone-utonul-15-letnij-podrostok</guid>
+      <pubDate>Sat, 01 Aug 2026 09:53:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/01/v-gomelskom-rajone-utonul-15-letnij-podrostok"><img alt="" src="https://content.onliner.by/news/thumbnail/fc76b323977fcecb0cf911398e8861ea.jpg" /></a></p><p>Трагедия произошла вечером 31 июля на реке Сож, сообщили в Следственном комитете. По предварительной информации, житель деревни Шарпиловка отдыхал на берегу реки вместе с приятелями. В необорудованном для купания месте подросток зашел в воду, а спустя некоторое время исчез из виду. Его друзья не сообщили о случившемся взрослым.</p><p><a href="https://people.onliner.by/2026/08/01/v-gomelskom-rajone-utonul-15-letnij-podrostok">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В Солигорске 18-летний бесправник пытался скрыться от ГАИ на мотоцикле. Видео (видео)</title>
+      <link>https://auto.onliner.by/go/1259041</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/08/01/v-soligorske-18-letnij-bespravnik-pytalsya-skrytsya-ot-gai-na-motocikle-video</guid>
+      <pubDate>Sat, 01 Aug 2026 09:32:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/01/v-soligorske-18-letnij-bespravnik-pytalsya-skrytsya-ot-gai-na-motocikle-video"><img alt="" src="https://content.onliner.by/news/thumbnail/982bd4d3c9c3e27979bdc56b1a3223b0.jpg" /></a></p><p>В ночь на 31 июля в Солигорске сотрудники ГАИ устроили погоню за мотоциклистом, который проигнорировал требование об остановке. Как сообщили в Госавтоинспекции, нарушителя удалось задержать.</p><p><a href="https://auto.onliner.by/2026/08/01/v-soligorske-18-letnij-bespravnik-pytalsya-skrytsya-ot-gai-na-motocikle-video">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Суд вынес приговор Лерчек по делу о выводе 251 миллиона российских рублей за рубеж</title>
+      <link>https://money.onliner.by/go/339522</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/08/01/sud-vynes-prigovor</guid>
+      <pubDate>Sat, 01 Aug 2026 09:17:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/08/01/sud-vynes-prigovor"><img alt="" src="https://content.onliner.by/news/thumbnail/b32e22ad933922e8233b4c86f85042a7.jpg" /></a></p><p>Гагаринский районный суд Москвы вынес приговор блогеру Валерии Чекалиной, более известной как Лерчек. Ее признали виновной по делу о незаконных валютных операциях и назначили пять лет лишения свободы условно, штраф почти 800 млн российских рублей, а также запрет на продвижение собственного бренда в интернете сроком на три года.</p><p><a href="https://money.onliner.by/2026/08/01/sud-vynes-prigovor">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
     </item>
     <item>
       <title>Куда идти на «Одиссею», чтобы получить картинку, близкую к «оригиналу»? Спросили у эксперта</title>
@@ -81,7 +97,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>«Это портрет нации». Зачем белорус собирает фото с чужими свадьбами и похоронами</title>
+      <title>Эти фото не нужны внукам и правнукам. Но попали в роскошную частную коллекцию</title>
       <link>https://people.onliner.by/go/1320937</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/08/01/kollektsiya-staryh-foto</guid>
       <pubDate>Sat, 01 Aug 2026 05:00:44 +0000</pubDate>
@@ -209,60 +225,12 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>«Цвет как у поросеночка»: белорус похвастался редкой лисичкой</title>
-      <link>https://people.onliner.by/go/1321344</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/07/31/cvet-kak-u-porosenochka-belorus-poxvastalsya-redkoj-lisichkoj</guid>
-      <pubDate>Fri, 31 Jul 2026 12:55:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/07/31/cvet-kak-u-porosenochka-belorus-poxvastalsya-redkoj-lisichkoj"><img alt="" src="https://content.onliner.by/news/thumbnail/29a915869506d8dee4db12fa72e37462.jpg" /></a></p><p><em>«Сбылась одна из моих „лисичковых“ мечт», </em>— так начинается видео известного специалиста «тихой охоты» Александра. В ролике белорус рассказал о необычной находке: молодой булавовидной лисичке.</p><p><a href="https://people.onliner.by/2026/07/31/cvet-kak-u-porosenochka-belorus-poxvastalsya-redkoj-lisichkoj">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Вспышка Эболы в Демократической Республике Конго — вторая по масштабу за всю историю</title>
-      <link>https://tech.onliner.by/go/785937</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/07/31/vspyshka-eboly-v-demokraticheskoj-respublike-kongo-vtoraya-po-masshtabu-za-vsyu-istoriyu</guid>
-      <pubDate>Fri, 31 Jul 2026 12:50:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/07/31/vspyshka-eboly-v-demokraticheskoj-respublike-kongo-vtoraya-po-masshtabu-za-vsyu-istoriyu"><img alt="" src="https://content.onliner.by/news/thumbnail/9897bf5176026dd2920aa41baadd10ce.jpg" /></a></p><p>Вспышка лихорадки Эбола в Демократической Республике Конго (ДРК), по данным местных властей, выступает второй по масштабам за всю историю наблюдений. <em>«При этом темпы распространения вируса продолжают опережать усилия по сдерживанию»</em>, — <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/congos-ebola-outbreak-now-second-largest-record-data-shows-2026-07-31/" target="_blank">пишут</a> в Reuters.</p><p><a href="https://tech.onliner.by/2026/07/31/vspyshka-eboly-v-demokraticheskoj-respublike-kongo-vtoraya-po-masshtabu-za-vsyu-istoriyu">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Почти 2000 «квадратов». В Минске монтируют грандиозный аквапарк на воде</title>
-      <link>https://realt.onliner.by/go/1121232</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/07/31/v-severnom-berege-budet-svoj-akvapark-chto-za-gorki-poyavilis-na-cnyanskom-vodoxranilishhe</guid>
-      <pubDate>Fri, 31 Jul 2026 12:37:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/07/31/v-severnom-berege-budet-svoj-akvapark-chto-za-gorki-poyavilis-na-cnyanskom-vodoxranilishhe"><img alt="" src="https://content.onliner.by/news/thumbnail/00100100aa81f87f63aa6c1a75d32c37.jpg" /></a></p><p>Во времена соцсетей от минчан невозможно ничего утаить. Как только в городе начинается какое-то движение, в Threads тут же принимаются это обсуждать. Вот и появление горок на Цнянском водохранилище не осталось незамеченным. <em>«Собирают аквапарк. „Северный берег“ не перестает удивлять», «В „Северном Береге“ устанавливают аквапарк»</em>, — поделились снимками с места установки дебютных надувных горок сразу две жительницы столицы.</p><p><a href="https://realt.onliner.by/2026/07/31/v-severnom-berege-budet-svoj-akvapark-chto-za-gorki-poyavilis-na-cnyanskom-vodoxranilishhe">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>«Детский неоплачиваемый труд на потоке»? Threads обсуждает стажировку в кофейне (обновлено)</title>
-      <link>https://money.onliner.by/go/339416</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/07/31/ispolzovat-kak-rabochuyu-silu-i-nichego-ne-platit-threads-vstupilsya-za-stazherov-v-kofejne</guid>
-      <pubDate>Fri, 31 Jul 2026 12:37:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/07/31/ispolzovat-kak-rabochuyu-silu-i-nichego-ne-platit-threads-vstupilsya-za-stazherov-v-kofejne"><img alt="" src="https://content.onliner.by/news/thumbnail/121198f6fbb5764cb7482c019212e4e3.jpg" /></a></p><p>В социальной сети бурно комментируют ситуацию, которую описала одна из пользователей. Судя по сообщению женщины, ее дочь на лето устроилась подработать в кофейню. Однако, когда стажировка закончилась, оплатить работу наниматель отказался. После огласки и тегов в Threads руководитель кофейни, по словам мамы подростка, пообещал выплатить не только всю сумму за отработанное время, но и компенсацию.</p><p><a href="https://money.onliner.by/2026/07/31/ispolzovat-kak-rabochuyu-silu-i-nichego-ne-platit-threads-vstupilsya-za-stazherov-v-kofejne">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Шесть автомобилей повреждены в массовом ДТП в Минске: появилось видео  (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1258904</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/07/31/voditelyu-audi-stalo-ploxo</guid>
-      <pubDate>Fri, 31 Jul 2026 12:28:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/07/31/voditelyu-audi-stalo-ploxo"><img alt="" src="https://content.onliner.by/news/thumbnail/05656cf4e454df1cff69f9beac700d4e.jpg" /></a></p><p>ГАИ Минска сообщает о ДТП, которое случилось сегодня утром на Партизанском проспекте. Там 67-летний водитель Audi на пересечении с улицей Кулешова столкнулся с Renault, который от удара отбросило на автомобили Mercedes и Dongfeng.</p><p><a href="https://auto.onliner.by/2026/07/31/voditelyu-audi-stalo-ploxo">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Exploring Kittens With Kitty Terminal Emulator</title>
       <link>https://feed.itsfoss.com/link/24361/17397287/kittens-kitty</link>
       <guid isPermaLink="false">69e5e1461bd09f0001c44081</guid>
       <pubDate>Fri, 31 Jul 2026 11:16:37 +0000</pubDate>
       <description><![CDATA[Kitten Kitty terminal]]></description>
       <category>Terminal Tools</category>
-    </item>
-    <item>
-      <title>Ubuntu Now Has a Rolling Release Model! But Not For The Distro</title>
-      <link>https://feed.itsfoss.com/link/24361/17392669/ubuntu-rolling-release-virtualization-stack</link>
-      <guid isPermaLink="false">6a68740212b9170001003eeb</guid>
-      <pubDate>Wed, 29 Jul 2026 11:33:48 +0000</pubDate>
-      <description><![CDATA[ubuntu logo and an illustration of a server rack with four servers installed]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
