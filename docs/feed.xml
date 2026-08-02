@@ -5,33 +5,9 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 02 Aug 2026 13:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:08:48 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
-    <item>
-      <title>Keychron Built Open Source Firmware for Gaming Mice, and Linux Users Stand to Gain the Most</title>
-      <link>https://feed.itsfoss.com/link/24361/17396525/keychron-zgm-mouse-firmware</link>
-      <guid isPermaLink="false">6a6b09d0173d1c000148a0a5</guid>
-      <pubDate>Thu, 30 Jul 2026 16:42:42 +0000</pubDate>
-      <description><![CDATA[keychron and zgm logos on left, picture of the upcoming keychron g6 he on the right]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>FOSS Weekly #26.31: Ubuntu 26.10 Features, OpenUK, Graphene Trouble, Vibe Coded Linux and More</title>
-      <link>https://feed.itsfoss.com/link/24361/17396443/foss-weekly-26-31</link>
-      <guid isPermaLink="false">6a69c391173d1c0001489d48</guid>
-      <pubDate>Thu, 30 Jul 2026 13:57:34 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly]]></description>
-      <category>Newsletter ✉️</category>
-    </item>
-    <item>
-      <title>And Folks, We Have a Vibe Coded Linux Distro!</title>
-      <link>https://feed.itsfoss.com/link/24361/17396444/starling-vibe-coded-desktop</link>
-      <guid isPermaLink="false">6a6b2e10173d1c000148a1c0</guid>
-      <pubDate>Thu, 30 Jul 2026 13:30:40 +0000</pubDate>
-      <description><![CDATA[starling desktop screenshot sits over some funky-looking text that says "starling", below which "desktop environment" is written]]></description>
-      <category>First Look</category>
-    </item>
     <item>
       <title>В Клецком районе фура врезалась в автобус. Два пассажира попали в больницу</title>
       <link>https://auto.onliner.by/go/1259093</link>
@@ -57,7 +33,7 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Гродно снова ушел под воду после мощного ливня. Затоплены улицы, машины и подземные переходы (обновлено)</title>
+      <title>Машины по окна в воде и размытые дороги. Гродно снова пережил потоп (обновлено)</title>
       <link>https://auto.onliner.by/go/1259073</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/08/02/grodno-snova-ushel-pod-vodu</guid>
       <pubDate>Sun, 02 Aug 2026 07:40:08 +0000</pubDate>
@@ -225,14 +201,6 @@
       <pubDate>Sat, 01 Aug 2026 07:13:10 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/01/sotni-ognej-na-vode-ka"><img alt="" src="https://content.onliner.by/news/thumbnail/1d4c0f50bbb6b86e2111b2822b360348.jpg" /></a></p><p>Вечером пятницы в Центральном ботаническом саду впервые прошел фестиваль водных фонариков. Еще до начала основной программы берега озера заполнили сотни зрителей, а с наступлением темноты водная гладь постепенно покрылась десятками светящихся лотосов и бумажных фонариков. Предлагаем посмотреть, как прошел первый день фестиваля.</p><p><a href="https://people.onliner.by/2026/08/01/sotni-ognej-na-vode-ka">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>В Бресте водители Audi и мотоцикла устроили гонку — три человека погибли (обновлено)</title>
-      <link>https://auto.onliner.by/go/1259018</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/08/01/tri-cheloveka-pogibli-pri</guid>
-      <pubDate>Sat, 01 Aug 2026 06:50:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/01/tri-cheloveka-pogibli-pri"><img alt="" src="https://content.onliner.by/news/thumbnail/77fcfc1f195c8e89545e2e59befba6ac.jpg" /></a></p><p>Вечером 31 июля в Бресте, около знаменитой стелы на выезде из города в сторону трассы М1, случилось смертельное ДТП с участием мотоцикла и скутера. Три человека погибли. Авария произошла около 22:30, оба транспортных средства двигались в направлении деревни Тельмы Брестского района. На этом участке предусмотрено по три полосы в каждом направлении, установлена максимальная скорость в 70 км/ч. Как выяснилось, трагедии предшествовала попытка скоростного заезда.</p><p><a href="https://auto.onliner.by/2026/08/01/tri-cheloveka-pogibli-pri">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>Exploring Kittens With Kitty Terminal Emulator</title>
