@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 05 Aug 2026 19:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 02:31:36 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,14 @@
       <pubDate>Tue, 04 Aug 2026 16:08:04 +0000</pubDate>
       <description><![CDATA[against a green background with the rhythmbox logo strewn about is a screenshot of rhythmbox 3.5.0's about dialog and interface]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>У клиентов МТБанка произошел сбой: не работают карты и приложение</title>
+      <link>https://money.onliner.by/go/340048</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/08/05/u-klientov-mtbanka-proizoshel</guid>
+      <pubDate>Wed, 05 Aug 2026 19:36:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/08/05/u-klientov-mtbanka-proizoshel"><img alt="" src="https://content.onliner.by/news/thumbnail/02ad0047455199b7b073328ca71685c1.jpg" /></a></p><p>Вечером 5 августа читатели начали массово сообщать о проблемах в работе МТБанка. Пользователи жалуются, что не могут войти в мобильный банк, расплатиться картами и снять деньги в банкоматах.</p><p><a href="https://money.onliner.by/2026/08/05/u-klientov-mtbanka-proizoshel">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
     </item>
     <item>
       <title>В Могилеве на Святом озере утонул 14-летний подросток</title>
@@ -183,14 +191,6 @@
       <pubDate>Wed, 05 Aug 2026 10:51:20 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/05/v-evrope-budut-prodavat"><img alt="" src="https://content.onliner.by/news/thumbnail/6b49207f374c03bb5792910fa21ee697.jpg" /></a></p><p>В Бельгии стартовали предзаказы на компактный электромобиль Geely Е2 — в Китае эта модель продается под именем Xingyuan, а у нас, как и в некоторых других странах, известна под именем ЕХ2.</p><p><a href="https://auto.onliner.by/2026/08/05/v-evrope-budut-prodavat">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Белорус скрывался от службы в армии в России. В итоге его ждет год колонии</title>
-      <link>https://people.onliner.by/go/1322261</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/08/05/belorus-skryvalsya-ot-sluzhby-v-armii-v-rossii-v-itoge-ego-zhdet-god-kolonii</guid>
-      <pubDate>Wed, 05 Aug 2026 10:42:41 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/05/belorus-skryvalsya-ot-sluzhby-v-armii-v-rossii-v-itoge-ego-zhdet-god-kolonii"><img alt="" src="https://content.onliner.by/news/thumbnail/a117c0c9f239967da40fef03d5aaaec0.jpg" /></a></p><p>Белорус пытался переждать призывной возраст в России. Но в итоге все закончилось уголовным делом, сроком и штрафом. Как выяснилось в суде, молодой человек уже не впервые привлекался к ответственности за уклонение от призыва.</p><p><a href="https://people.onliner.by/2026/08/05/belorus-skryvalsya-ot-sluzhby-v-armii-v-rossii-v-itoge-ego-zhdet-god-kolonii">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Escape the Algorithm: 10 RSS Feed Readers You Can Self Host in Your Homelab</title>
