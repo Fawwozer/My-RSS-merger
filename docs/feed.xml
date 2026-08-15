@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 15 Aug 2026 06:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:35:45 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,47 @@
       <pubDate>Thu, 13 Aug 2026 13:34:14 +0000</pubDate>
       <description><![CDATA[FOSS Weekly]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>Нейросеть впервые уволила человека. Она управляла реальным магазином</title>
+      <link>https://tech.onliner.by/go/788039</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/08/15/nejroset-vpervye-uvolila-cheloveka-ona-upravlyala-realnym-magazinom</guid>
+      <pubDate>Sat, 15 Aug 2026 12:00:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/08/15/nejroset-vpervye-uvolila-cheloveka-ona-upravlyala-realnym-magazinom"><img alt="" src="https://content.onliner.by/news/thumbnail/67d5c8ff85428707a1a5349c6786ad93.jpg" /></a></p><p>Искусственному интеллекту Claude было поручено управлять магазином в Сан-Франциско. В итоге робот уволил первого сотрудника, <a href="https://time.com/article/2026/08/14/claude-fired-worker-ai-job-disruption/">сообщает</a> издание Time.</p><p><a href="https://tech.onliner.by/2026/08/15/nejroset-vpervye-uvolila-cheloveka-ona-upravlyala-realnym-magazinom">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Студентка забрала забытую карточку в банкомате и оплатила себе проездной</title>
+      <link>https://money.onliner.by/go/341580</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/08/15/studentka-zabrala-zabytuyu-kartochku-v-bankomate-i-oplatila-sebe-proezdnoj</guid>
+      <pubDate>Sat, 15 Aug 2026 10:45:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/08/15/studentka-zabrala-zabytuyu-kartochku-v-bankomate-i-oplatila-sebe-proezdnoj"><img alt="" src="https://content.onliner.by/news/thumbnail/f3e55982dfe967df69628083a8f27269.jpg" /></a></p><p>Забрав чужую банковскую карту из банкомата и решив ею воспользоваться, можно нарваться на серьезные неприятности — вплоть до уголовного дела. На этот раз в такую историю попала студентка из Гомеля: найденной картой она оплатила проездной и продукты
+</p><p><a href="https://money.onliner.by/2026/08/15/studentka-zabrala-zabytuyu-kartochku-v-bankomate-i-oplatila-sebe-proezdnoj">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Почти 900 километров: свадебный воздушный шар долетел из Германии до границы с Беларусью</title>
+      <link>https://people.onliner.by/go/1324669</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/08/15/pochti-900-kilometrov-svadebnyj-vozdushnyj-shar-doletel-iz-germanii-do-granicy-s-belarusyu</guid>
+      <pubDate>Sat, 15 Aug 2026 10:23:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/15/pochti-900-kilometrov-svadebnyj-vozdushnyj-shar-doletel-iz-germanii-do-granicy-s-belarusyu"><img alt="" src="https://content.onliner.by/news/thumbnail/d15e55cba1490f59cd8e26e9d5fd4f8f.jpg" /></a></p><p>Праздничный шарик пролетел около 900 километров и в итоге запутался в одном из деревьев в Беловежской пуще, недалеко от польско-белорусской границы.</p><p><a href="https://people.onliner.by/2026/08/15/pochti-900-kilometrov-svadebnyj-vozdushnyj-shar-doletel-iz-germanii-do-granicy-s-belarusyu">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Авария в центре Минска: грузовик задел автобус и снес светофор (обновлено)</title>
+      <link>https://auto.onliner.by/go/1261284</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/08/15/avariya-v-centre-minska-gruzovik-zadel-avtobus-i-snes-svetofor</guid>
+      <pubDate>Sat, 15 Aug 2026 08:35:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/15/avariya-v-centre-minska-gruzovik-zadel-avtobus-i-snes-svetofor"><img alt="" src="https://content.onliner.by/news/thumbnail/2937b3e1438f051b0005c4678a3e61ed.png" /></a></p><p>Инцидент произошел в субботу утром недалеко от площади Независимости, в районе пересечения улиц Московской и Толстого. Участниками ДТП стали грузовик и пассажирский автобус.</p><p><a href="https://auto.onliner.by/2026/08/15/avariya-v-centre-minska-gruzovik-zadel-avtobus-i-snes-svetofor">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Легковушка от удара с тягачом заехала на разделитель</title>
+      <link>https://auto.onliner.by/go/1261298</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/08/15/legkovushka-ot-udara-s-tyagachom-zaexala-na-razdelitel</guid>
+      <pubDate>Sat, 15 Aug 2026 08:29:36 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/15/legkovushka-ot-udara-s-tyagachom-zaexala-na-razdelitel"><img alt="" src="https://content.onliner.by/news/thumbnail/a2d5b60aefc085d8b71370edf5a230fc.jpg" /></a></p><p>Авария произошла поздним вечером в пятницу. От удара с тягачом автомобиль вынесло на разделительное ограждение, передает Госавтоинспекция.</p><p><a href="https://auto.onliner.by/2026/08/15/legkovushka-ot-udara-s-tyagachom-zaexala-na-razdelitel">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
     </item>
     <item>
       <title>Официально. Marvel выпустила новый трейлер «Мстителей: Доктор Дум»</title>
@@ -54,7 +95,7 @@
       <link>https://auto.onliner.by/go/1260984</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/08/15/nasha-istoriya</guid>
       <pubDate>Sat, 15 Aug 2026 05:00:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/15/nasha-istoriya"><img alt="" src="https://content.onliner.by/news/thumbnail/26cce4f0930f4df6a0f77722cb8d18b0.jpg" /></a></p><p>Подъезжать нужно не торным путем, а с тыльной стороны, через поля, мимо налившегося жнива. Грунтовая, местами размытая дорога, серое отяжелевшее небо опустилось к макушке и грозит новой напастью. И точно — начинается морось, заставляет морщиться, опускать голову. Но вот из-за горизонта встает укрытие — древнее, как предание, надежное, как клятва. И мы сворачиваем, как сворачивали всадники тысячу лет назад. То ли крепость, то ли церковь обещает приют блуждающему страннику. И являются тени прошлого: древние переселенцы и византийские зодчие, конница Витовта и лазареты великих войн. Входим, склоняя голову, шлем долу. Свечи, негромкая речь настоятеля. Сынковичи, готика, храм-крепость Святого Архангела Михаила — живая история в стороне от шумных трасс.</p><p><a href="https://auto.onliner.by/2026/08/15/nasha-istoriya">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/15/nasha-istoriya"><img alt="" src="https://content.onliner.by/news/thumbnail/26cce4f0930f4df6a0f77722cb8d18b0.jpg" /></a></p><p>Подъезжать нужно не торным путем, а с тыльной стороны, через поля, мимо налившегося жнива. Грунтовая, местами размытая дорога, серое отяжелевшее небо опустилось к макушке и грозит новой напастью. И точно — начинается морось, заставляет морщиться, опускать голову. Но вот из-за горизонта встает укрывище — древнее, как предание, надежное, как клятва. И мы сворачиваем, как сворачивали всадники тысячу лет назад. То ли крепость, то ли церковь обещает приют блуждающему страннику. И являются тени прошлого: древние переселенцы и византийские зодчие, конница Витовта и лазареты великих войн. Входим, склоняя голову, шлем долу. Свечи, негромкая речь настоятеля. Сынковичи, готика, храм-крепость Святого Архангела Михаила — живая история в стороне от шумных трасс.</p><p><a href="https://auto.onliner.by/2026/08/15/nasha-istoriya">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
@@ -86,7 +127,7 @@
       <link>https://auto.onliner.by/go/1261087</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/08/15/kak-pogib-viktor-coj</guid>
       <pubDate>Sat, 15 Aug 2026 04:00:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/15/kak-pogib-viktor-coj"><img alt="" src="https://content.onliner.by/news/thumbnail/30434efaa742cdf713a8896a43026d39.jpg" /></a></p><p>36 лет назад, 15 августа 1990 года, в возрасте 28 лет в автомобильной катастрофе погиб лидер группы «Кино» Виктор Цой. Его автомобиль столкнулся с автобусом недалеко от Юрмалы в Латвии, где рок-музыкант проводил свой отдых. В свое время в дату его рождения мы публиковали <a href="https://people.onliner.by/2022/06/21/coyu-60/" target="_blank">воспоминания</a> читателей, в том числе довольно необычные <a href="https://people.onliner.by/2022/06/23/ya-i-coj-istorii-chitatelej/" target="_blank">истории</a>. Ну а в эту печальную дату расскажем о самой аварии, а также о том, что происходило на ее месте в первую годовщину смерти рок-музыканта, артиста и художника.</p><p><a href="https://auto.onliner.by/2026/08/15/kak-pogib-viktor-coj">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/15/kak-pogib-viktor-coj"><img alt="" src="https://content.onliner.by/news/thumbnail/30434efaa742cdf713a8896a43026d39.jpg" /></a></p><p>15 августа 1990 года, в возрасте 28 лет в автомобильной катастрофе погиб лидер группы «Кино» Виктор Цой. Его автомобиль столкнулся с автобусом недалеко от Юрмалы в Латвии, где рок-музыкант проводил свой отдых. В свое время в дату его рождения мы публиковали <a href="https://people.onliner.by/2022/06/21/coyu-60/" target="_blank">воспоминания</a> читателей, в том числе довольно необычные <a href="https://people.onliner.by/2022/06/23/ya-i-coj-istorii-chitatelej/" target="_blank">истории</a>. Ну а в эту печальную дату расскажем о самой аварии, а также о том, что происходило на ее месте в первую годовщину смерти рок-музыканта, артиста и художника.</p><p><a href="https://auto.onliner.by/2026/08/15/kak-pogib-viktor-coj">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
@@ -162,62 +203,6 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Фестиваль «Тачки Пiкнiк» стартует уже завтра! Подробная программа (обновлено)</title>
-      <link>https://auto.onliner.by/go/1258663</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/08/14/drift-motofristajl-i-letayushhij</guid>
-      <pubDate>Fri, 14 Aug 2026 14:33:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/14/drift-motofristajl-i-letayushhij"><img alt="" src="https://content.onliner.by/news/thumbnail/6c423b392e5477b45aba1fa16c04ee6f.jpg" /></a></p><p>15 и 16 августа у стен Лидского замка пройдет фестиваль «Тачки Пiкнiк — 2026». Организаторы обещают дрифт-шоу, выступления мотокаскадеров, дрифт-такси, выставку 150 редких автомобилей и музыкальную программу под открытым небом.</p><p><a href="https://auto.onliner.by/2026/08/14/drift-motofristajl-i-letayushhij">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Еще до открытия кофейня в Бресте попала под волну критики. Всему виной кролики</title>
-      <link>https://people.onliner.by/go/1324520</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/08/14/v-breste-otkryvaetsya-kofejnya-s-krolikami-mnogie-nedovolny</guid>
-      <pubDate>Fri, 14 Aug 2026 14:11:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/14/v-breste-otkryvaetsya-kofejnya-s-krolikami-mnogie-nedovolny"><img alt="" src="https://content.onliner.by/news/thumbnail/2743bf4ae47dc9588eb464d0a0d9fa55.jpg" /></a></p><p>В Бресте открывается новая кофейня с детской игровой зоной во дворе и живыми кроликами. Однако еще до начала своей работы пространство «Кофе, Зай?» получило много критики в свой адрес. Пользователи соцсетей переживают за комфорт животных, которые будут жить в заведении.</p><p><a href="https://people.onliner.by/2026/08/14/v-breste-otkryvaetsya-kofejnya-s-krolikami-mnogie-nedovolny">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Аренда самой дешевой двушки в этом городе обойдется в $2195 в месяц</title>
-      <link>https://realt.onliner.by/go/1124243</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/08/14/arenda-samoj-deshevoj</guid>
-      <pubDate>Fri, 14 Aug 2026 14:07:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/08/14/arenda-samoj-deshevoj"><img alt="" src="https://content.onliner.by/news/thumbnail/236785181a44dbc134f0378300e322c1.jpg" /></a></p><p>В разных странах разное понимание того, что называют «доступным жильем». Например, в американском Сан-Франциско даже самая дешевая двухкомнатная квартира в неблагополучном районе обойдется арендатору минимум в $2 тысячи в месяц.</p><p><a href="https://realt.onliner.by/2026/08/14/arenda-samoj-deshevoj">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Помидоры по рублю. Узнали, где такие цены</title>
-      <link>https://money.onliner.by/go/341501</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/08/14/pomidory-po-rublyu-uznali-gde-takie-ceny</guid>
-      <pubDate>Fri, 14 Aug 2026 13:23:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/08/14/pomidory-po-rublyu-uznali-gde-takie-ceny"><img alt="" src="https://content.onliner.by/news/thumbnail/8e0bbda05c469ded84c36a80d7abb245.png" /></a></p><p>На рынке «Новый Лебяжий» за помидоры просят меньше, чем стоит талончик в троллейбусе. Что по стоимости других сезонных овощей?</p><p><a href="https://money.onliner.by/2026/08/14/pomidory-po-rublyu-uznali-gde-takie-ceny">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Юзеры заметили нечто странное на снимках с Марса</title>
-      <link>https://tech.onliner.by/go/787969</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/08/14/yuzery-zametili-nechto-strannoe-na-snimkax-s-marsa</guid>
-      <pubDate>Fri, 14 Aug 2026 13:18:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/08/14/yuzery-zametili-nechto-strannoe-na-snimkax-s-marsa"><img alt="" src="https://content.onliner.by/news/thumbnail/d447e7fc16c3e47aade6fe4b72b3634b.jpg" /></a></p><p><p dir="ltr">Одно из изображений с планеты Марс, полученных NASA еще несколько лет назад, активно распространяется в социальных сетях. Пользователи в сети увидели, будто на снимке запечатлена некая фигура, напоминающая медузу или пришельцев из фильма Стивена Спилберга «Война миров».</p><p><a href="https://tech.onliner.by/2026/08/14/yuzery-zametili-nechto-strannoe-na-snimkax-s-marsa">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Бесплатный музыкальный фестиваль и вечеринка с хитами 2000-х. Планы на выходные</title>
-      <link>https://people.onliner.by/go/1324417</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/08/14/besplatnyj-muzykalnyj-festival-i-vecherinka-s-xitami-2000-x-plany-na-vyxodnye</guid>
-      <pubDate>Fri, 14 Aug 2026 13:05:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/14/besplatnyj-muzykalnyj-festival-i-vecherinka-s-xitami-2000-x-plany-na-vyxodnye"><img alt="" src="https://content.onliner.by/news/thumbnail/4fd84a3ec4cac710c99ad34d4ed88266.jpg" /></a></p><p>На горизонте — середина августа. Самое время наблюдать за звездным небом, выбираться на пикники и наслаждаться пока еще теплым солнцем. А если нужны идеи, чем еще заполнить два следующих дня, то можно выбрать интересное в нашей афише.</p><p><a href="https://people.onliner.by/2026/08/14/besplatnyj-muzykalnyj-festival-i-vecherinka-s-xitami-2000-x-plany-na-vyxodnye">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Разворот закончился ДТП. Водитель BMW не предоставила преимущество трамваю  (видео)</title>
-      <link>https://auto.onliner.by/go/1261045</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/08/14/razvorot-zakonchilsya-dtp-2</guid>
-      <pubDate>Fri, 14 Aug 2026 12:22:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/08/14/razvorot-zakonchilsya-dtp-2"><img alt="" src="https://content.onliner.by/news/thumbnail/7331e835cee128ac27851a5d7aec7786.jpg" /></a></p><p>ГАИ Минска сообщает, что сегодня днем 43-летняя водитель BMW столкнулась с попутным трамваем. Все произошло на улице Змитрока Бядули рядом с домом №6. </p><p><a href="https://auto.onliner.by/2026/08/14/razvorot-zakonchilsya-dtp-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>LightDM is Back From The Dead, But Canonical isn't in Charge Anymore</title>
       <link>https://feed.itsfoss.com/link/24361/17417740/lightdm-is-back</link>
       <guid isPermaLink="false">6a7da76cb11ec20001887ad3</guid>
@@ -231,14 +216,6 @@
       <guid isPermaLink="false">6a7d335eb11ec200018878a9</guid>
       <pubDate>Thu, 13 Aug 2026 04:21:33 +0000</pubDate>
       <description><![CDATA[VLC blamed for Microsoft's issue]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>SimpleX Chat Wants Its 400K+ Users to Become Investors Too</title>
-      <link>https://feed.itsfoss.com/link/24361/17416295/simplex-chat-investment-drive</link>
-      <guid isPermaLink="false">6a7c087bb11ec2000188729c</guid>
-      <pubDate>Wed, 12 Aug 2026 10:59:08 +0000</pubDate>
-      <description><![CDATA[a banner that shows the simplex chat logo, and two illustration depicting the transfer or money and a group of people]]></description>
       <category>News</category>
     </item>
   </channel>
