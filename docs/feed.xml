@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 17 Aug 2026 18:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:10:46 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -97,7 +97,7 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Премьер Британии думал, что ему пишет советница Трампа. Но это был кибермошенник</title>
+      <title>Кибермошенники добрались до премьер-министра Великобритании</title>
       <link>https://tech.onliner.by/go/788187</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/08/17/premer-britanii-dumal-chto-emu-pishet-sovetnica-trampa-no-eto-byl-kibermoshennik</guid>
       <pubDate>Mon, 17 Aug 2026 12:40:22 +0000</pubDate>
@@ -231,14 +231,6 @@
       <pubDate>Mon, 17 Aug 2026 08:48:39 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/08/17/kak-tak-rabotnika-banka-v-minske-ubedili-vzyat-tri-kredita-i-otdat-vse-sberezheniya"><img alt="" src="https://content.onliner.by/news/thumbnail/570419cdeeddb92df0e83e3b4416a8c7.jpg" /></a></p><p>В Минске сотрудник финансового учреждения стал жертвой телефонных мошенников. За неделю аферисты убедили его отдать им свои сбережения и взять три кредита.</p><p><a href="https://money.onliner.by/2026/08/17/kak-tak-rabotnika-banka-v-minske-ubedili-vzyat-tri-kredita-i-otdat-vse-sberezheniya">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Nitrux Shows Off a New Desktop Approach Other Distros Might Want to Take Note of</title>
-      <link>https://feed.itsfoss.com/link/24361/17418654/nitrux-workspace-environment</link>
-      <guid isPermaLink="false">6a7eab6cb11ec200018931ab</guid>
-      <pubDate>Sat, 15 Aug 2026 01:02:27 +0000</pubDate>
-      <description><![CDATA[three screenshots of the new interface components for nitrux are shown here with the nitrux project logo]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
