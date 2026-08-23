@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:27:58 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,7 +17,7 @@
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Мечта любого фаната BMW старой школы — целый автовоз E31. И все они на BMW Fest</title>
+      <title>Вложил в старый BMW E31 стоимость нового M8. И вот что получилось</title>
       <link>https://auto.onliner.by/go/1262321</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/08/23/mechta-lyubogo-fanata-bmw-staroj-shkoly</guid>
       <pubDate>Sun, 23 Aug 2026 11:14:19 +0000</pubDate>
@@ -177,22 +177,6 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>«Собачники Минска, прием!» Пара придумала необычное развлечение для людей и питомцев</title>
-      <link>https://people.onliner.by/go/1325078</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/08/22/fun-dogs-club</guid>
-      <pubDate>Sat, 22 Aug 2026 05:00:43 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/22/fun-dogs-club"><img alt="" src="https://content.onliner.by/news/thumbnail/1527f3b6889b4edca3489ae3414245d4.jpg" /></a></p><p>Ира и Леша решили объединить собачников и их питомцев в большое комьюнити. Все началось с организации прогулки в формате «человек + собака» — и на первую встречу захотели прийти сразу 100 человек. За считаные месяцы проект начал набирать обороты: пес-хайкинг, встречи с экспертами, прогулки и даже сплавы на байдарках. Как это работает, сколько стоит и какие перспективы есть у проекта? Окунулись в тему во всех смыслах.</p><p><a href="https://people.onliner.by/2026/08/22/fun-dogs-club">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Почувствуйте себя старым. Проверьте, помните ли вы тот самый олдовый интернет</title>
-      <link>https://tech.onliner.by/go/788738</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/08/22/test-retro-internet</guid>
-      <pubDate>Sat, 22 Aug 2026 05:00:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/08/22/test-retro-internet"><img alt="" src="https://content.onliner.by/news/thumbnail/e7200c750686b7171edd45d3e62461fe.jpg" /></a></p><p>Предлагаем пуститься в ностальгический трип, вспомнить (или узнать), как выглядел интернет в прошлом, и попытаться угадать, когда это было. Помните звук подключения к интернету через dial-up-модем? Как страницы загружались по несколько минут, а сайты были объемными и пестрыми со множеством стилей? Такой глобальная сеть осталась у многих в памяти, а еще — на архивных скриншотах популярных сайтов, которые мы собрали в этот тест. </p><p><a href="https://tech.onliner.by/2026/08/22/test-retro-internet">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Proton Mail Wants to Organize Your Emails Automatically</title>
       <link>https://feed.itsfoss.com/link/24361/17426034/proton-mail-categories</link>
       <guid isPermaLink="false">6a87faa13527850001156567</guid>
@@ -207,14 +191,6 @@
       <pubDate>Fri, 21 Aug 2026 08:28:11 +0000</pubDate>
       <description><![CDATA[canonical logo sits at top, with the logo for c and the unofficial crab mascot of the rust programming language sit below]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>FOSS Weekly #26.34: StillOS Review, Kernel 7.2 Released, PINE Trouble, Beautifying GNOME, Terminal Multiplexers and More</title>
-      <link>https://feed.itsfoss.com/link/24361/17423937/foss-weekly-26-34</link>
-      <guid isPermaLink="false">6a8577ae6f49bc0001836c7b</guid>
-      <pubDate>Thu, 20 Aug 2026 12:54:54 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly]]></description>
-      <category>Newsletter ✉️</category>
     </item>
   </channel>
 </rss>
