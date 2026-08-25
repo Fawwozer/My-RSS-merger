@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 24 Aug 2026 18:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:13:02 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -49,7 +49,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Сколько действительно нужно пить воды? Отвечают ученые</title>
+      <title>Ученые рассказали, сколько действительно нужно пить воды</title>
       <link>https://tech.onliner.by/go/789468</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/08/24/skolko-dejstvitelno-nuzhno-pit-vody</guid>
       <pubDate>Mon, 24 Aug 2026 14:52:03 +0000</pubDate>
