@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 29 Aug 2026 20:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:55:20 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -216,14 +216,6 @@
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/08/28/rejting-eti-serialy-chashhe-vsego-smotreli-belorusy-a-vy-videli"><img alt="" src="https://content.onliner.by/news/thumbnail/e16aaa09e2d905f99c30cbb044c7c3e5.jpg" /></a></p><p>Крупный интернет-сервис, посвященный кино, опубликовал список сериалов на русском языке, которые чаще всего за последние 7 лет включали белорусы. В список попали именно те сериалы, которые выложены на «Кинопоиске». В топе оказались самые разные жанры: от комедий до триллеров, а еще несколько мультсериалов и панк-сказка.
 </p><p><a href="https://people.onliner.by/2026/08/28/rejting-eti-serialy-chashhe-vsego-smotreli-belorusy-a-vy-videli">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>You Should Keep an Eye Out on Chromium's Flatpak Experiment</title>
-      <link>https://feed.itsfoss.com/link/24361/17432579/experimental-chromium-flatpak-packaging</link>
-      <guid isPermaLink="false">6a8e73c23527850001157cc3</guid>
-      <pubDate>Thu, 27 Aug 2026 02:28:26 +0000</pubDate>
-      <description><![CDATA[chromium logo inside a circle on left, flatpak logo inside a square on the top-right, with some illustrations strewn about showing directional arrows and gears]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
