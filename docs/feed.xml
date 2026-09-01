@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 01 Sep 2026 11:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:08:27 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>This Dev Spent 8 Years on Intel's Clear Linux, Now He's Undoing Its Biggest Mistake</title>
+      <link>https://feed.itsfoss.com/link/24361/17436419/the-ur-project-appears</link>
+      <guid isPermaLink="false">6a9683ce2f93c60001400c4a</guid>
+      <pubDate>Tue, 01 Sep 2026 14:02:23 +0000</pubDate>
+      <description><![CDATA[a young man is shown working on a laptop, and a text bubble beside him says "the ur project]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>Tether Brings the Apple Continuity Experience to Linux</title>
       <link>https://feed.itsfoss.com/link/24361/17435541/tether-apple-continuity-on-linux</link>
@@ -17,7 +25,152 @@
       <category>News</category>
     </item>
     <item>
-      <title>До 1 «З»: первоклассники отправились в новую школу в «Минск-Мире»</title>
+      <title>Гродненцу обещали $100 за чужие банковские реквизиты. Теперь ему грозит до трех лет</title>
+      <link>https://money.onliner.by/go/344257</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/grodnencu-obeshhali</guid>
+      <pubDate>Tue, 01 Sep 2026 15:08:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/grodnencu-obeshhali"><img alt="" src="https://content.onliner.by/news/thumbnail/7385fa0a5a543404650c0b39ded12e1e.jpg" /></a></p><p>В Гродно задержали 27-летнего жителя Лидского района, которого подозревают в незаконном обороте платежных инструментов. По информации МВД, мужчина нашел в интернете предложение о быстром заработке и согласился собирать и перепродавать данные чужих банковских карт и интернет-банкинга.</p><p><a href="https://money.onliner.by/2026/09/01/grodnencu-obeshhali">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Выяснилось, что SSD в новеньком Macbook Neo может выйти из строя за 58 дней</title>
+      <link>https://tech.onliner.by/go/790588</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/vyyasnilos-chto-ssd-v-novenkom-macbook-neo-mozhet-vyjti-iz-stroya-za-58-dnej</guid>
+      <pubDate>Tue, 01 Sep 2026 14:45:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/vyyasnilos-chto-ssd-v-novenkom-macbook-neo-mozhet-vyjti-iz-stroya-za-58-dnej"><img alt="" src="https://content.onliner.by/news/thumbnail/5310c85379e8e6a581ea81486a5c0ab9.jpg" /></a></p><p>Износ встроенного накопителя в MacBook Neo с 8 ГБ оперативной памяти может случиться меньше чем за два месяца. Винить в этом следует постоянный файл использования подкачки, когда при нехватке унифицированной памяти macOS начинает активно сжимать данные. Тогда избыточная нагрузка перенаправляется на встроенный SSD.</p><p><a href="https://tech.onliner.by/2026/09/01/vyyasnilos-chto-ssd-v-novenkom-macbook-neo-mozhet-vyjti-iz-stroya-za-58-dnej">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Только получил водительские права, сел пьяным за руль и перевернулся на авто с пассажирами</title>
+      <link>https://auto.onliner.by/go/1263810</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/sel-pyanym-za-rul-2</guid>
+      <pubDate>Tue, 01 Sep 2026 14:40:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/sel-pyanym-za-rul-2"><img alt="" src="https://content.onliner.by/news/thumbnail/b89178c311670684b44c885ed5d567c0.jpg" /></a></p><p>25 августа около 05:20 пьяный 18-летний водитель был за рулем Peugeot и не справился с управлением, выехал за пределы проезжей части, где машина перевернулась. Как сообщает прокуратура Могилевской области, в машине также находились пятеро несовершеннолетних пассажиров.</p><p><a href="https://auto.onliner.by/2026/09/01/sel-pyanym-za-rul-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Владельцы китайских Tesla жалуются на проблемы. Что не так с подвеской?</title>
+      <link>https://auto.onliner.by/go/1263813</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/vladelcy-kitajskix-tesla</guid>
+      <pubDate>Tue, 01 Sep 2026 14:33:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/vladelcy-kitajskix-tesla"><img alt="" src="https://content.onliner.by/news/thumbnail/854022e6a4177dd3851c8c08e4169741.jpg" /></a></p><p>Владельцы 6-местного кроссовера Tesla Model Y L столкнулись с недостаточной надежностью задней подвески. Судя по жалобам в соцсетях, речь может идти о системной проблеме, пишут местные СМИ.</p><p><a href="https://auto.onliner.by/2026/09/01/vladelcy-kitajskix-tesla">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Репортаж из школы, куда летом родители круглосуточно стояли в очередях</title>
+      <link>https://people.onliner.by/go/1328895</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/poka-stoyali-v-ocheredi-splotilis-eli-vmeste-piccu-kak-proshla-linejka-v-novoj-borovoj</guid>
+      <pubDate>Tue, 01 Sep 2026 14:22:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/poka-stoyali-v-ocheredi-splotilis-eli-vmeste-piccu-kak-proshla-linejka-v-novoj-borovoj"><img alt="" src="https://content.onliner.by/news/thumbnail/75822f64fdff8f3a391407fb65905b25.jpg" /></a></p><p>В этом году первое сентября выдалось пасмурным, но праздник никто не отменял. С самого утра нарядные и немного сонные школьники спешили на линейки, чтобы начать новый учебный год и поздравить своих учителей. Журналисты Onlíner тоже сходили на День знаний — в школу №2 в Копище, ту самую, куда родители <a href="https://people.onliner.by/2026/06/12/pereklichka-kazhdye-tri-chasa" target="_blank">стояли в очереди</a> круглосуточно, чтобы оформить детей в первый класс. Оказавшись на территории «Школы талантов», понимаешь, откуда такой ажиотаж.</p><p><a href="https://people.onliner.by/2026/09/01/poka-stoyali-v-ocheredi-splotilis-eli-vmeste-piccu-kak-proshla-linejka-v-novoj-borovoj">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Посреди водоема заметили новый остров. Спустя несколько недель он загадочно исчез</title>
+      <link>https://realt.onliner.by/go/1127787</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/01/mysterious-island</guid>
+      <pubDate>Tue, 01 Sep 2026 14:16:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/01/mysterious-island"><img alt="" src="https://content.onliner.by/news/thumbnail/0bcc250d27a4f52fcdb5425c8080383c.jpg" /></a></p><p>В отдаленном водохранилище Уиллистон на севере канадской провинции Британская Колумбия неожиданно возник массивный полностью покрытый деревьями остров и так же внезапно исчез. Первые фото и видео сделали местные жители, после чего кадры быстро разошлись по интернету, <a href="https://nypost.com/2026/08/31/lifestyle/mysterious-island-emerges-then-disappears-in-remote-reservoir/" target="_blank">сообщает</a> New York Post. Специалисты объяснили возможную причину загадочного явления.</p><p><a href="https://realt.onliner.by/2026/09/01/mysterious-island">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Белоруска пропала без вести во время наводнения в Непале: что известно</title>
+      <link>https://people.onliner.by/go/1328915</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/beloruska-propala-bez-vesti-vo-vremya-navodneniya-v-nepale</guid>
+      <pubDate>Tue, 01 Sep 2026 14:00:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/beloruska-propala-bez-vesti-vo-vremya-navodneniya-v-nepale"><img alt="" src="https://content.onliner.by/news/thumbnail/124b6fad85e3253d097b4dbb2606dcd8.jpg" /></a></p><p><p dir="ltr">26 августа на севере Непала и в приграничных регионах Китая случилось мощное наводнение: после землетрясения и схода селевого потока река Бхоте-Коши вышла из берегов, разрушив деревни, дороги и гидроэлектростанции. По актуальным данным с непальской стороны, число погибших в результате катастрофы уже превысило 1 тысячу человек. Еще более 3,9 тысячи считаются пропавшими без вести. В их числе — одна гражданка Беларуси, 41-летняя Катерина Сакович. Onlíner связался с живущей в Израиле родной сестрой девушки, которая сейчас занимается координацией помощи в ее поисках.</p><p><a href="https://people.onliner.by/2026/09/01/beloruska-propala-bez-vesti-vo-vremya-navodneniya-v-nepale">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Галь Гадот не удивлена, что ее лишили роли Чудо-женщины, — и вот почему</title>
+      <link>https://tech.onliner.by/go/790537</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/gal-gadot-ne-udvilena-chto-ee-lishili-roli-chudo-zhenshhiny-i-vot-pochemu</guid>
+      <pubDate>Tue, 01 Sep 2026 14:00:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/gal-gadot-ne-udvilena-chto-ee-lishili-roli-chudo-zhenshhiny-i-vot-pochemu"><img alt="" src="https://content.onliner.by/news/thumbnail/a6758c895a11e3af47ea66cf19b404eb.jpg" /></a></p><p>Впервые Галь Гадот появилась в образе Чудо-женщины в фильме Зака Снайдера «Бэтмен против Супермена: На заре справедливости». После — в картинах «Чудо-женщина», «Лига справедливости» и «Чудо-женщина 1984». Третий фильм об этой супергероине находился в разработке, однако был отменен, когда Джеймс Ганн и Питер Сафран возглавили DC Studios. Галь Гадот же исключили из вселенной DC, и сейчас она заявила, что такое решение не стало для нее большой новостью.</p><p><a href="https://tech.onliner.by/2026/09/01/gal-gadot-ne-udvilena-chto-ee-lishili-roli-chudo-zhenshhiny-i-vot-pochemu">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>МАРТ нашел нарушения в каждом проверенном магазине DNS</title>
+      <link>https://money.onliner.by/go/344246</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/mart-nashel-narusheniya-v-kazhdom-proverennom-magazine-dns</guid>
+      <pubDate>Tue, 01 Sep 2026 13:58:15 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/mart-nashel-narusheniya-v-kazhdom-proverennom-magazine-dns"><img alt="" src="https://content.onliner.by/news/thumbnail/9e40916828a51eadd09b7973470918ac.jpg" /></a></p><p>МАРТ проверил 12 из 16 магазинов российской сети электроники DNS и в каждом нашел нарушения. Среди них — неполная информация о товарах, отсутствие ценников, несоблюдение обязательного ассортимента.</p><p><a href="https://money.onliner.by/2026/09/01/mart-nashel-narusheniya-v-kazhdom-proverennom-magazine-dns">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В минском аэропорту экстренно приземлился самолет из Турции</title>
+      <link>https://people.onliner.by/go/1329003</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/v-minskom-aeroportu-ekstrenno-posadili-samolet-vse-iz-za-odnogo-passazhira</guid>
+      <pubDate>Tue, 01 Sep 2026 13:38:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/v-minskom-aeroportu-ekstrenno-posadili-samolet-vse-iz-za-odnogo-passazhira"><img alt="" src="https://content.onliner.by/news/thumbnail/80d9b79c98a1ffc47613fd1b3c22bf31.jpg" /></a></p><p>Вчера в минском аэропорту неожиданно приземлился самолет из Анталии, который направлялся в Санкт-Петербург. Рейс выполняла авиакомпания Turkish Airlines. Совершить экстренную посадку экипаж вынудил один из пассажиров.</p><p><a href="https://people.onliner.by/2026/09/01/v-minskom-aeroportu-ekstrenno-posadili-samolet-vse-iz-za-odnogo-passazhira">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Онколог указал на три признака рака, которые люди ошибочно считают безобидными</title>
+      <link>https://tech.onliner.by/go/790514</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/onkolog-ukazal-na-tri-priznaka-raka-kotorye-lyudi-oshibochno-schitayut-bezobidnymi</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/onkolog-ukazal-na-tri-priznaka-raka-kotorye-lyudi-oshibochno-schitayut-bezobidnymi"><img alt="" src="https://content.onliner.by/news/thumbnail/1ef968eca827b19080a8383361f0842f.jpg" /></a></p><p>25 августа <a href="https://people.onliner.by/2026/08/26/umerla-legendarnaya-kantri-pevica-dolli-parton-v-poslednee-vremya-ona-borolas-s-onkologiej" target="_blank">умерла</a> кантри-исполнительница Долли Партон, автор хита I Will Always Love You и одна из самых успешных певиц кантри-сцены. Партон скончалась в возрасте 80 лет от онкологического заболевания. Характер болезни и ее локализация не были обнародованы, но сама певица <a href="https://www.boredpanda.com/dolly-parton-covered-her-tattooed-hands-with-skin-colored-gloves/" target="_blank">отмечала</a>, что не заботилась о себе, потому что ухаживала за больным мужем. На фоне кончины Партон радиационный онколог Йиржи Кубеш <a href="https://www.boredpanda.com/dolly-parton-cancer-doctor-reveals-symptoms-people-dismiss/" target="_blank">назвал</a> три симптома рака, которые люди часто принимают за безобидные состояния, что в итоге приводит к поздней диагностике.</p><p><a href="https://tech.onliner.by/2026/09/01/onkolog-ukazal-na-tri-priznaka-raka-kotorye-lyudi-oshibochno-schitayut-bezobidnymi">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Приезжаю — озера нет». В Логойском районе за два дня исчез водоем</title>
+      <link>https://people.onliner.by/go/1328927</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/priezzhayu-ozera-net-v-logojskom-rajone-za-dva-dnya-ischez-vodoem</guid>
+      <pubDate>Tue, 01 Sep 2026 12:59:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/priezzhayu-ozera-net-v-logojskom-rajone-za-dva-dnya-ischez-vodoem"><img alt="" src="https://content.onliner.by/news/thumbnail/add51b7c90267cb5295dc621f1cb09cc.jpg" /></a></p><p>С редакцией Onlíner связался житель Логойского района Дмитрий. Как утверждает мужчина, буквально за два дня в лесу исчез водоем. Еще в воскресенье он приезжал в эту местность за грибами — озеро было на месте, а уже ко вторнику вода практически полностью ушла.
+<code></p><p><a href="https://people.onliner.by/2026/09/01/priezzhayu-ozera-net-v-logojskom-rajone-za-dva-dnya-ischez-vodoem">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Видео: в Минске с моста упал кусок цемента и повредил BMW (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1263679</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/povredil-bmw</guid>
+      <pubDate>Tue, 01 Sep 2026 12:52:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/povredil-bmw"><img alt="" src="https://content.onliner.by/news/thumbnail/383592ca4b55a8db00d016d9b9287c2e.jpg" /></a></p><p>Пользователь Threads опубликовал видео и рассказал о ситуации, которая произошла с ним 29 августа примерно в 16:30. Мужчина ехал по улице Тимирязева, и, когда он въехал под мост, чтобы подняться на МКАД, на BMW с моста упал кусок цемента.</p><p><a href="https://auto.onliner.by/2026/09/01/povredil-bmw">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Нашел — забирай». Люди охотятся за спрятанными пачками наличных</title>
+      <link>https://money.onliner.by/go/344230</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/nashel-zabiraj-kto-to-pryachet-dengi-v-gorode-a-tysyachi-lyudej-ishhut-ix-po-podskazkam</guid>
+      <pubDate>Tue, 01 Sep 2026 12:49:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/nashel-zabiraj-kto-to-pryachet-dengi-v-gorode-a-tysyachi-lyudej-ishhut-ix-po-podskazkam"><img alt="" src="https://content.onliner.by/news/thumbnail/7cd11cfb48e3cb93172161bc44a4664f.jpg" /></a></p><p>В США люди начали охотиться за спрятанными в городе деньгами. Организаторы активности прячут пачки наличных в пакетах из-под чипсов, коробках от еды, конвертах и даже в дуплах деревьев, а затем публикуют подсказки в соцсетях.</p><p><a href="https://money.onliner.by/2026/09/01/nashel-zabiraj-kto-to-pryachet-dengi-v-gorode-a-tysyachi-lyudej-ishhut-ix-po-podskazkam">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>С 1 сентября парковка у «Чижовка Арены» на улице Ташкентской стала платной</title>
+      <link>https://auto.onliner.by/go/1263774</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/platnye-parkovki-minska</guid>
+      <pubDate>Tue, 01 Sep 2026 12:07:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/platnye-parkovki-minska"><img alt="" src="https://content.onliner.by/news/thumbnail/d42c5f8c2d4313a0f8072a839489b7e8.jpg" /></a></p><p>С 1 сентября автомобильная парковка, расположенная по улице Ташкентской у дома №19 (возле ГКСУ «Чижовка Арена»), начинает работать в платном режиме, <a href="https://parkouka.by/" target="_blank">рассказал</a> сайт «Парковки столицы».</p><p><a href="https://auto.onliner.by/2026/09/01/platnye-parkovki-minska">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Площадку ограждают забором. В Лебяжьем начали готовить территорию для строительства общежития</title>
+      <link>https://realt.onliner.by/go/1127824</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/01/ploshhadku-obnesli-zaborom</guid>
+      <pubDate>Tue, 01 Sep 2026 12:05:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/01/ploshhadku-obnesli-zaborom"><img alt="" src="https://content.onliner.by/news/thumbnail/3ef7eb0b5b3e26f6c1c9b933ada36230.jpg" /></a></p><p>Площадку в Лебяжьем, рядом с известной высоткой «Лазурит», начали обносить строительным забором. Видимо, совсем скоро здесь закипит жизнь — на участке начнут строить общежитие для работников социальной сферы. По плану это будет дом квартирного типа. Всего же в новом жилой районе должно появиться три общежития подобного типа. По мнению властей,<em> э</em>тот шаг позволит укомплектовать кадрами социальные объекты, которые работают в микрорайоне.</p><p><a href="https://realt.onliner.by/2026/09/01/ploshhadku-obnesli-zaborom">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Apple обвиняет OpenAI в шпионаже. Есть «шокирующие доказательства»</title>
+      <link>https://tech.onliner.by/go/790502</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/apple-obvinyaet-openai-v-shpionazhe-est-shokiruyushhie-dokazatelstva</guid>
+      <pubDate>Tue, 01 Sep 2026 11:35:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/apple-obvinyaet-openai-v-shpionazhe-est-shokiruyushhie-dokazatelstva"><img alt="" src="https://content.onliner.by/news/thumbnail/3f7fcf7b0a6f1b1bb463add50872c5bf.jpg" /></a></p><p>По словам представителей Apple, в иске против OpenAI представлены «шокирующие доказательства» того, что экс-сотрудники компании украли коммерческие секреты Apple в интересах OpenAI. Эти подробности<a href="https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/" target="_blank"> всплыли</a> после того, как адвокаты бывшего работника Apple Чан Лю, который сейчас работает в OpenAI, передали для расследования его старый MacBook в начале этого месяца.</p><p><a href="https://tech.onliner.by/2026/09/01/apple-obvinyaet-openai-v-shpionazhe-est-shokiruyushhie-dokazatelstva">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Выпускник хитро распределился после вуза в магазин, а там и не подозревали об этом</title>
+      <link>https://money.onliner.by/go/344217</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/budushhij-programmist-xotel-neobychnym-sposobom-izbezhat-otrabotki-teper-u-nego-sudimost</guid>
+      <pubDate>Tue, 01 Sep 2026 11:27:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/budushhij-programmist-xotel-neobychnym-sposobom-izbezhat-otrabotki-teper-u-nego-sudimost"><img alt="" src="https://content.onliner.by/news/thumbnail/ef48a0c6a03de37f025fda4a11af7ea1.jpg" /></a></p><p>В Гродно выпускник вуза пытался избежать распределения и придумал хитрую схему. Правда, в итоге все закончилось судом.</p><p><a href="https://money.onliner.by/2026/09/01/budushhij-programmist-xotel-neobychnym-sposobom-izbezhat-otrabotki-teper-u-nego-sudimost">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Есть даже 1 «З»: первоклассники отправились в новую школу в «Минск-Мире»</title>
       <link>https://people.onliner.by/go/1328827</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/09/01/do-1-z-pervoklassniki-otpravilis-v-novuyu-shkolu-v-minsk-mire</guid>
       <pubDate>Tue, 01 Sep 2026 10:54:38 +0000</pubDate>
@@ -25,7 +178,7 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>В Минске водитель LiXiang наехал на рабочего, который обслуживал инженерные сети (видео)</title>
+      <title>В Минске водитель LiXiang наехал на рабочего, который обслуживал инженерные сети (видео, обновлено)</title>
       <link>https://auto.onliner.by/go/1263775</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/lixiang-naexal-na-rabochego</guid>
       <pubDate>Tue, 01 Sep 2026 10:43:26 +0000</pubDate>
@@ -75,162 +228,12 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>Как в день открытия выглядит знаменитый «корабль» БНТУ, который реконструировали более 10 лет</title>
-      <link>https://realt.onliner.by/go/1127736</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/01/kak-v-den-otkrytiya-vykglyadit</guid>
-      <pubDate>Tue, 01 Sep 2026 09:13:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/01/kak-v-den-otkrytiya-vykglyadit"><img alt="" src="https://content.onliner.by/news/thumbnail/3ab65f52029b36439d4de206ec4e2b8e.jpg" /></a></p><p><p>Знаменитый «кораблик» БНТУ у станции метро «Борисовский тракт» наконец вернулся к жизни спустя долгие годы реконструкции — она заняла более 10 лет. Сегодня, 1 сентября, обновленный корпус университета принял в своих стенах студентов и преподавателей. Наш фотограф отправился на место и посмотрел, как здание выглядит в день официального открытия.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/01/kak-v-den-otkrytiya-vykglyadit">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>В заказнике под Ивацевичами произошел массовый мор рыбы. Ответ Минприроды</title>
-      <link>https://people.onliner.by/go/1328817</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/v-zakaznike-po-ivacevichami-proizoshel-massovyj-mor-ryby-otvet-minprirody</guid>
-      <pubDate>Tue, 01 Sep 2026 08:50:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/v-zakaznike-po-ivacevichami-proizoshel-massovyj-mor-ryby-otvet-minprirody"><img alt="" src="https://content.onliner.by/news/thumbnail/3c514e05b0167fd3b90a6b04a145f24b.jpg" /></a></p><p>В крупном тематическом аккаунте «Рыбалка в Беларуси» в начале недели опубликовали видео, которое вызвало тревогу у подписчиков. На нем видно, что вода у берега озера буквально покрыта слоем мертвой рыбы. Снят ролик был на озере Выгонощанском в Ивацевичском районе Брестской области.
-</p><p><a href="https://people.onliner.by/2026/09/01/v-zakaznike-po-ivacevichami-proizoshel-massovyj-mor-ryby-otvet-minprirody">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В Барановичах мужчина нашел в траве больше 50 тысяч. Вот что было потом</title>
-      <link>https://money.onliner.by/go/344191</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/v-baranovichax-muzhchina-nashel-v-trave-bolshe-50-tysyach-vot-chto-bylo-potom</guid>
-      <pubDate>Tue, 01 Sep 2026 08:40:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/v-baranovichax-muzhchina-nashel-v-trave-bolshe-50-tysyach-vot-chto-bylo-potom"><img alt="" src="https://content.onliner.by/news/thumbnail/5b54f04679fae7584b70e61dd2fde9bd.jpg" /></a></p><p>37-летний житель Березовского района оказался в Барановичах проездом: ехал из одного города в другой с пересадкой. После ночи в игровом клубе мужчина решил прогуляться возле железнодорожного вокзала.</p><p><a href="https://money.onliner.by/2026/09/01/v-baranovichax-muzhchina-nashel-v-trave-bolshe-50-tysyach-vot-chto-bylo-potom">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Строительство путепровода на Колесникова — Ратомской: что там происходит? (обновлено)</title>
-      <link>https://auto.onliner.by/go/1237367</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/stroitelstvo-puteprovoda</guid>
-      <pubDate>Tue, 01 Sep 2026 08:37:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/stroitelstvo-puteprovoda"><img alt="" src="https://content.onliner.by/news/thumbnail/2ac93b8d8de6fe68a5934ca1147e5efe.jpg" /></a></p><p>Продолжем рассказывать о <a href="https://auto.onliner.by/2025/07/22/v-minske-poyavitsya-puteprovod" target="_blank">строительстве</a> путепровода между улицами Колесникова и Ратомской в Минске. 381-метровый объект свяжет Фрунзенский и Центральный районы, он призван облегчить транспортное сообщение в этой части города. Что происходит на месте будущего строительства сейчас?
-</p><p><a href="https://auto.onliner.by/2026/09/01/stroitelstvo-puteprovoda">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Firefox 155 Adds 2 New Changes for Faster Web Browsing</title>
+      <title>Firefox 155 Adds Two New Changes for Faster Web Browsing</title>
       <link>https://feed.itsfoss.com/link/24361/17436188/firefox-155-faster-page-loads</link>
       <guid isPermaLink="false">6a9666fa2f93c60001400b73</guid>
       <pubDate>Tue, 01 Sep 2026 08:05:29 +0000</pubDate>
       <description><![CDATA[Firefox 155]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>«Стройматериалы подвозили строго с 4 до 6 утра». Ремонт этой квартиры оказался не таким простым</title>
-      <link>https://realt.onliner.by/go/1127693</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/01/remont-etoj-kvartiry</guid>
-      <pubDate>Tue, 01 Sep 2026 08:01:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/01/remont-etoj-kvartiry"><img alt="" src="https://content.onliner.by/news/thumbnail/d2056d1a5614207ff9b356ef8a8301ed.jpg" /></a></p><p><p>Купить <a href="https://www.elledecor.com/design-decorate/house-interiors/a73413978/achille-salvagni-rome-home-tour/" target="_blank">квартиру</a> с видом на Испанскую лестницу и церковь Тринита-деи-Монти — мечта, которая кажется почти нереальной. Однако в самом начале пандемии, когда привычно шумный Рим затих, владельцам улыбнулась удача: риелтор предложил осмотреть апартаменты на верхнем этаже исторического здания прямо над бутиком Chanel. Пространство раньше принадлежало знакомым семьи, поэтому сделку оформили в тот же день. А за переосмысление жилья взялся местный дизайнер, с которым хозяева были знакомы много лет. Ему предоставили полную творческую свободу.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/01/remont-etoj-kvartiry">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>В Минске водитель BMW сбил школьника на велосипеде. Мальчик в больнице (видео)</title>
-      <link>https://auto.onliner.by/go/1263746</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/bmw-sbil-shkolnika</guid>
-      <pubDate>Tue, 01 Sep 2026 07:50:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/bmw-sbil-shkolnika"><img alt="" src="https://content.onliner.by/news/thumbnail/77b8c5bc88bd5521b4894797c0c5c7c5.jpg" /></a></p><p>31 августа вечером на улице Неманской рядом с домом №67 12-летний велосипедист пересекал проезжую часть по линии тротуаров. На ребенка наехал водитель автомобиля BMW.</p><p><a href="https://auto.onliner.by/2026/09/01/bmw-sbil-shkolnika">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Успели вовремя затормозить». Крупный лось вышел на дорогу (видео)</title>
-      <link>https://auto.onliner.by/go/1263741</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/uspeli-vovremya-zatormozit</guid>
-      <pubDate>Tue, 01 Sep 2026 07:34:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/uspeli-vovremya-zatormozit"><img alt="" src="https://content.onliner.by/news/thumbnail/7f585d22916af4c62a54e65fcb161816.jpg" /></a></p><p>Крупного сохатого читатель Onlíner встретил на трассе Р53, примерно в километре от Кургана Славы в сторону Смолевичей. Благо водитель своевременно увидел животное, успел затормозить и съехать на обочину. Это произошло накануне вечером, в районе 20:35.</p><p><a href="https://auto.onliner.by/2026/09/01/uspeli-vovremya-zatormozit">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Первые торги осени: доллар сразу растет (обновлено)</title>
-      <link>https://money.onliner.by/go/344183</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/pervye-torgi-oseni-dollar-srazu-rastet</guid>
-      <pubDate>Tue, 01 Sep 2026 07:25:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/pervye-torgi-oseni-dollar-srazu-rastet"><img alt="" src="https://content.onliner.by/news/thumbnail/c4b6d34dff3b4f05bed38777cd5f4ddf.jpg" /></a></p><p>На первых осенних торгах, 1 сентября, доллар и евро продолжают расти. Тем временем биткоин за последние сутки подешевел, сейчас находится вблизи отметки $77 857. </p><p><a href="https://money.onliner.by/2026/09/01/pervye-torgi-oseni-dollar-srazu-rastet">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>С батареей на 10 000 мАч: появились первые характеристики Redmi K100</title>
-      <link>https://tech.onliner.by/go/790423</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/s-batareej-na-10-000-mach-poyavilis-pervye-xarakteristiki-redmi-k100</guid>
-      <pubDate>Tue, 01 Sep 2026 07:22:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/s-batareej-na-10-000-mach-poyavilis-pervye-xarakteristiki-redmi-k100"><img alt="" src="https://content.onliner.by/news/thumbnail/5afc6c5052593bd43b62f815a4119943.jpg" /></a></p><p>В начале августа Redmi выпустила в Китае смартфоны K100 Pro и K100 Pro Max, после чего ожидается их дебют в виде Poco F9 Pro и Poco F9 Ultra. Сейчас же настал черед «базовой» модели K100, которая, по данным Digital Chat Station в Weibo, будет оснащена мощной батареей емкостью в 10 000 мАч.</p><p><a href="https://tech.onliner.by/2026/09/01/s-batareej-na-10-000-mach-poyavilis-pervye-xarakteristiki-redmi-k100">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Экономика и безопасность. О чем говорил Лукашенко на саммите ШОС</title>
-      <link>https://money.onliner.by/go/344174</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/lukashenko-na-sammite-shos</guid>
-      <pubDate>Tue, 01 Sep 2026 07:21:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/lukashenko-na-sammite-shos"><img alt="" src="https://content.onliner.by/news/thumbnail/d60a15bde16415a82d4f5922784ae230.jpg" /></a></p><p>Ответом Шанхайской организации сотрудничества на существующие вызовы должно стать формирование новой архитектуры безопасности в Евразии. Об этом заявил Александр Лукашенко на саммите ШОС в Бишкеке.</p><p><a href="https://money.onliner.by/2026/09/01/lukashenko-na-sammite-shos">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>На МКАД водитель BMW вылетел с дороги и врезался в осветительную мачту (видео)</title>
-      <link>https://auto.onliner.by/go/1263734</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/bmw-vyletel-s-dorogi-2</guid>
-      <pubDate>Tue, 01 Sep 2026 06:58:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/bmw-vyletel-s-dorogi-2"><img alt="" src="https://content.onliner.by/news/thumbnail/ca485013ba38b9c6877feac8589d5100.jpg" /></a></p><p>Накануне вечером 22-летний водитель BMW, двигаясь по внутреннему кольцу МКАД и в районе 32-го километра, по предварительной информации, отвлекся от управления.</p><p><a href="https://auto.onliner.by/2026/09/01/bmw-vyletel-s-dorogi-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Минчане заплатили 10 тысяч за отдых в ОАЭ, но так и не улетели</title>
-      <link>https://money.onliner.by/go/344167</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/01/minchane-zaplatili-10-tysyach-za-otdyx-v-oae-no-tak-i-ne-uleteli</guid>
-      <pubDate>Tue, 01 Sep 2026 06:56:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/01/minchane-zaplatili-10-tysyach-za-otdyx-v-oae-no-tak-i-ne-uleteli"><img alt="" src="https://content.onliner.by/news/thumbnail/ae2e0607bf017ab8ca7a6009b043c3b8.jpg" /></a></p><p>Семейная пара из Минска собиралась в отпуск в ОАЭ, но вместо поездки потеряла больше 10 тысяч рублей. Они передали деньги турагенту, которого нашли через соцсети.</p><p><a href="https://money.onliner.by/2026/09/01/minchane-zaplatili-10-tysyach-za-otdyx-v-oae-no-tak-i-ne-uleteli">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Спустя 30 лет суд наконец назвал виновного в убийстве Тупака Шакура</title>
-      <link>https://people.onliner.by/go/1328803</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/spustya-30-let-sud-nakonec-nazval-vinovnogo-v-ubijstve-tupaka-shakura</guid>
-      <pubDate>Tue, 01 Sep 2026 06:41:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/spustya-30-let-sud-nakonec-nazval-vinovnogo-v-ubijstve-tupaka-shakura"><img alt="" src="https://content.onliner.by/news/thumbnail/030b5747292a5f72e2f82c1bb3852a7d.jpg" /></a></p><p>В Лас-Вегасе поставлена точка в одной из самых затяжных криминальных драм в истории музыки. Присяжные вынесли обвинительный приговор 63-летнему Дуэйну Дэвису по делу об убийстве культового рэпера Тупака Шакура. Экс-лидер уличной банды признан виновным в организации нападения, которое произошло еще в 1996 году. Сам Дэвис свою вину отрицает, <a href="https://www.reuters.com/legal/government/jury-hear-closing-arguments-tupac-killing-trial-2026-08-31/" target="_blank">сообщает</a> Reuters.
-</p><p><a href="https://people.onliner.by/2026/09/01/spustya-30-let-sud-nakonec-nazval-vinovnogo-v-ubijstve-tupaka-shakura">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Сначала на Харьковскую. Планы по строительству кольцевой линии метро изменились</title>
-      <link>https://realt.onliner.by/go/1127715</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/01/kolcevuyu-liniyu-nachnut-stroit</guid>
-      <pubDate>Tue, 01 Sep 2026 06:36:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/01/kolcevuyu-liniyu-nachnut-stroit"><img alt="" src="https://content.onliner.by/news/thumbnail/22c472186752f69e11b7ab84f8cd40d9.jpg" /></a></p><p><p>Схема минской подземки снова меняется с учетом растущих потребностей города. Первоначальный план по строительству кольцевой линии метро пересмотрели: первый ее участок пойдет совсем в другую сторону, чем планировалось изначально, сообщил в эфире телеканала <a href="https://ctv.by/news/obshestvo/v-minske-idet-proektirovka-4-j-linii-metro-gde-zhdat-novye-stancii-uznali-v-minskmetroproekt" target="_blank">СТВ</a> первый заместитель директора и главный инженер института «Минскметропроект» Георгий Протасов.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/01/kolcevuyu-liniyu-nachnut-stroit">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Тим Кук — всё. Глава Apple ушел и оставил прощальное послание</title>
-      <link>https://tech.onliner.by/go/790416</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/tim-kuk-vsyo-glava-apple-ushel-i-ostavil-proshhalnoe-poslanie</guid>
-      <pubDate>Tue, 01 Sep 2026 06:18:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/tim-kuk-vsyo-glava-apple-ushel-i-ostavil-proshhalnoe-poslanie"><img alt="" src="https://content.onliner.by/news/thumbnail/d15fdaca434ff50064f7ad8746426b0b.jpg" /></a></p><p>31 августа был последний день Тима Кука на посту генерального директора Apple, и уже сегодня этот пост займет Джон Тернус. Свой уход Кук снабдил прощальным письмом, которое получили сотрудники Apple. В нем он <a href="https://9to5mac.com/2026/08/31/read-tim-cooks-full-memo-to-apple-employees-on-his-last-day-as-ceo/" target="_blank">отмечает</a>, что «будет скучать по этой работе так сильно, как только может себе представить».</p><p><a href="https://tech.onliner.by/2026/09/01/tim-kuk-vsyo-glava-apple-ushel-i-ostavil-proshhalnoe-poslanie">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Не знаю, где живет, что ест». В Канаде муж забрал сына у известной белоруской модели</title>
-      <link>https://people.onliner.by/go/1328764</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/01/u-modeli-zabrali-syna</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/01/u-modeli-zabrali-syna"><img alt="" src="https://content.onliner.by/news/thumbnail/5de77ecbc03750fb79410a1b86ebb454.jpg" /></a></p><p>Вот уже три года, как Кристина Марцинкевич — известная белорусская <a href="https://people.onliner.by/2014/05/02/kon-18/" target="_blank">модель</a> — не может покинуть Канаду. <em>«Если уеду, то, боюсь, больше никогда не увижу своего маленького сына Лео, которого у меня пытается отобрать его отец,</em> — говорит девушка. — <em>По решению опеки мне разрешают видеться с ребенком всего три раза в неделю и при этом не говорят, где он живет, не дают контакты садика, в который его определили. Это ужасно больно».</em> С 2023-го Кристина живет в Монреале, родном городе мужа. По ее словам, спустя два года после свадьбы супруг ушел из семьи без объяснений, оставив их с полуторагодовалым Лео без средств к существованию. Затем последовал суд, который встал на сторону матери, назначив алименты на содержание ее и ребенка. Однако в июне 2026-го соцопека забрала у Кристины сына, и теперь она может видеться с ним только по расписанию. При этом передача ребенка проходит в полицейском участке. Как так вышло — в материале Onlíner.</p><p><a href="https://people.onliner.by/2026/09/01/u-modeli-zabrali-syna">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Самые ожидаемые игры сентября 2026-го (видео)</title>
-      <link>https://tech.onliner.by/go/790297</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/samye-ozhidaemye-igry-sentyabrya-2026-go</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/samye-ozhidaemye-igry-sentyabrya-2026-go"><img alt="" src="https://content.onliner.by/news/thumbnail/ce5a5de41b7b43c30b7c6f1c51e24254.jpg" /></a></p><p>Собрали подборку самых интересных игр сентября: осень вступает в свои права, стартует сезон крупных релизов. Самая жара, конечно, начнется позже, одной из наиболее ожидаемых игр этого года очевидно является GTA 6 — новая часть франшизы выходит, если вы позабыли, спустя 13 лет после предыдущей. Но это в ноябре, пока же вернемся к сентябрю.</p><p><a href="https://tech.onliner.by/2026/09/01/samye-ozhidaemye-igry-sentyabrya-2026-go">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Мигранты оккупировали испанскую Сеуту. Как устроен европейский анклав в Африке</title>
-      <link>https://realt.onliner.by/go/1127627</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/01/ceuta</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/01/ceuta"><img alt="" src="https://content.onliner.by/news/thumbnail/6b29619e9d04c9b0580d3ab92dc58111.jpg" /></a></p><p>С вершины Монте-Ачо, крепости на скалистом мысе над городом, видны сразу два континента. Прямо под ногами — Африка, а за двадцатью километрами воды Гибралтарского пролива угадывается испанский берег. Сеута занимает всего 18,5 квадратного километра африканской земли, но более шести веков эта земля фактически является Европой. Там, в эксклаве ЕС, окруженном территорией Марокко, та же валюта и те же законы, что и в Мадриде. Туда можно попасть по шенгенской визе. Город в его современном виде возник задолго до того, как европейские державы принялись делить Африку на колонии. Именно поэтому Сеута не вписалась в привычную схему деколонизации. К моменту, когда Марокко получило независимость в 1956 году, географическая аномалия сначала под португальским, а потом испанским флагами существовала уже пять с половиной столетий. Летом 2026-го об этом городе заговорил весь мир. На этот раз из-за беспрецедентного по своим масштабам пограничного кризиса.</p><p><a href="https://realt.onliner.by/2026/09/01/ceuta">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
   </channel>
 </rss>
