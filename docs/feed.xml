@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 01 Sep 2026 16:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:37:31 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -23,6 +23,22 @@
       <pubDate>Mon, 31 Aug 2026 12:32:04 +0000</pubDate>
       <description><![CDATA[tether aiphone smartphone linux laptop banner]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Vanilla OS 3 Comes in Hot, Packing ARM64 Support After a Long Wait</title>
+      <link>https://feed.itsfoss.com/link/24361/17436529/vanilla-os-3-release</link>
+      <guid isPermaLink="false">6a96b56e2f93c60001400d59</guid>
+      <pubDate>Tue, 01 Sep 2026 17:12:49 +0000</pubDate>
+      <description><![CDATA[a screenshot of vanilla os 3 sits in the middle, with its welcome tour app open]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>На Притыцкого скорая сбила двух девушек. Медики рассказали об их состоянии</title>
+      <link>https://auto.onliner.by/go/1263832</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/01/na-prityckogo-skoraya-sbila-dvux-devushek-mediki-rasskazali-ob-ix-sostoyanii</guid>
+      <pubDate>Tue, 01 Sep 2026 16:27:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/na-prityckogo-skoraya-sbila-dvux-devushek-mediki-rasskazali-ob-ix-sostoyanii"><img alt="" src="https://content.onliner.by/news/thumbnail/df8ff7cd3914cb71c984a7e6d98facd5.jpg" /></a></p><p>О серьезном ДТП на улице Притыцкого читатели Onlíner сообщили сегодня днем. По их словам, возле ТЦ «Скала» работали несколько бригад скорой помощи, а на проезжей части были разбросаны учебники и обувь. Официальной информации о случившемся от ГАИ Минска пока нет.</p><p><a href="https://auto.onliner.by/2026/09/01/na-prityckogo-skoraya-sbila-dvux-devushek-mediki-rasskazali-ob-ix-sostoyanii">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
     </item>
     <item>
       <title>Гродненцу обещали $100 за чужие банковские реквизиты. Теперь ему грозит до трех лет</title>
@@ -57,7 +73,7 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Репортаж из школы, куда летом родители круглосуточно стояли в очередях</title>
+      <title>Репортаж из школы, где летом родители круглосуточно стояли в очередях</title>
       <link>https://people.onliner.by/go/1328895</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/09/01/poka-stoyali-v-ocheredi-splotilis-eli-vmeste-piccu-kak-proshla-linejka-v-novoj-borovoj</guid>
       <pubDate>Tue, 01 Sep 2026 14:22:27 +0000</pubDate>
@@ -218,14 +234,6 @@
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/01/lada-niva-legend"><img alt="" src="https://content.onliner.by/news/thumbnail/c62edd286cfbb3b110a18b3e5f1d0f21.jpg" /></a></p><p>АвтоВАЗ объявил о начале продаж обновленной Lada Niva Legend, раскрыв варианты исполнения и цены. Напомним, последняя модернизация принесла возрастной модели новый 1,8-литровый двигатель, оцинкованные кузовные детали, а также переработанное шасси.
 </p><p><a href="https://auto.onliner.by/2026/09/01/lada-niva-legend">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Разбили стекло и выдрали iPhone. Девушку ограбили прямо в пробке</title>
-      <link>https://tech.onliner.by/go/790476</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/01/razbili-steklo-i-vydrali-iphone-devushku-blogera-ograbili-pryamo-v-probke</guid>
-      <pubDate>Tue, 01 Sep 2026 09:17:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/01/razbili-steklo-i-vydrali-iphone-devushku-blogera-ograbili-pryamo-v-probke"><img alt="" src="https://content.onliner.by/news/thumbnail/e85553282c23724b4199e8ad4c3a0bb8.jpg" /></a></p><p>Инцидент с брутальной кражей iPhone произошел с блогером Табатой Ленк, которая попала в пробку в Сан-Паулу. В один момент рядом с ней остановился мотоцикл, на котором находилось два человека. Один из них <a href="https://www.thesun.co.uk/news/40226287/masked-thieves-smash-influencers-car-window-steal-phone/" target="_blank">разбил</a> боковое стекло автомобиля Ленк и буквально выдрал ее iPhone, закрепленный на приборной панели.</p><p><a href="https://tech.onliner.by/2026/09/01/razbili-steklo-i-vydrali-iphone-devushku-blogera-ograbili-pryamo-v-probke">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>Firefox 155 Adds Two New Changes for Faster Web Browsing</title>
