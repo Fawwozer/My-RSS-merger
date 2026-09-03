@@ -5,9 +5,79 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 03 Sep 2026 10:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:52:21 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff</title>
+      <link>https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36</link>
+      <guid isPermaLink="false">6a96da262f93c60001400e84</guid>
+      <pubDate>Thu, 03 Sep 2026 13:34:02 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/09/foss-weekly.webp" /></figure>
+<p>Firefox 155 <a href="https://itsfoss.com/news/firefox-155-faster-page-loads/">has arrived quietly</a>, speeding up page loads with Happy Eyeballs v3 and QUIC v2. And the timing is perfect for you to switch. Google just removed uBlock Origin from the Chrome Web Store, leaving Firefox one of the last non-Chromium browsers still supporting it.</p><p>EndeavourOS 'Triton' is running late, so instead of that, the developers have introduced '<a href="https://endeavouros.com/news/titan-nova-is-available/">Titan Nova</a>' as a release mostly packed with hardware support enablement, misc fixes, Linux 7.1.8, and more.</p><p>Vanilla OS 3 'Reunion' is out <a href="https://itsfoss.com/news/vanilla-os-3-release/">with first-class ARM64 support</a>, reproducible images, and GNOME 50. New default apps include Ptyxis, Papers, and Resources, while snapshot backups come via the new Vanilla Continuity tool.</p><p>Virtual machines add a layer; containers share one kernel, but Multikernel's approach avoids both. It gives each workload its own full kernel on real hardware. The <a href="https://itsfoss.com/news/multikernel-public-release/">first public release</a> targets servers and SRE teams.</p><p>Do you own an Apple iPhone? Well, then you might be missing the Continuity feature on Linux. Luckily, a developer <a href="https://itsfoss.com/news/tether-apple-continuity-on-linux/">has managed to bring a comparable experience</a> with Tether, an open source app that carries iMessage, SMS, and OTP codes to Linux over Bluetooth.</p><p>Debian 11 "Bullseye" <a href="https://www.debian.org/News/2026/20260831">has reached end-of-life</a>, which means you have to either upgrade to a newer supported release, or stay on it, manually managing the security of your system.</p><p>Speaking of Debian, the <a href="https://itsfoss.com/news/cern-debian-push/">CERN lab is migrating 2200 of its control systems to Debian 13</a>. That's a massive win for all of us Linux users.</p><p><a href="https://itsfoss.com/news/libreoffice-26-8-release/">LibreOffice 26.8</a> contains no AI features, on purpose. TDF proudly markets its stance, promising that its office suite doesn't need to contact a server.</p><p>Germany's Sovereign Tech Agency <a href="https://modal.cx/blog/announcing-flatpak-sta/">is putting &euro;508,640 into Flatpak</a> over two years, involving a few other stakeholders. Seems like Flatpak is going to get stronger and more widespread.</p><p><strong>This edition of FOSS Weekly is supported by privacy service provider, </strong><a href="https://adguard.com?aid=135612" rel="noreferrer"><strong>AdGuard</strong></a><strong>.</strong></p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-immersive  kg-cta-has-img  ">
+            
+                <div class="kg-cta-sponsor-label-wrapper">
+                    <div class="kg-cta-sponsor-label">
+                        <span style="white-space: pre-wrap;">SPONSORED</span>
+                    </div>
+                </div>
+            
+            <div class="kg-cta-content">
+                
+                    <div class="kg-cta-image-container">
+                        <a href="https://adguard.com?aid=135612"><img alt="CTA Image" src="https://itsfoss.com/content/images/2026/09/Screenshot-From-2026-09-03-08-13-17.png" /></a>
+                    </div>
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">If you do not want to set up and maintain Pi-hole, AdGuard is a better choice than browser-based ad blockers. </span><b><strong style="white-space: pre-wrap;">It blocks ads on your device, not just your browser</strong></b><span style="white-space: pre-wrap;">. Imagine using Android ad-free.</span><br /><br /><span style="white-space: pre-wrap;">They are running a 'Back to School' promo and you g</span><b><strong style="white-space: pre-wrap;">et 40% off a 1-year license</strong></b><span style="white-space: pre-wrap;"> or </span><b><strong style="white-space: pre-wrap;">30% off a lifetime one</strong></b><span style="white-space: pre-wrap;">. One subscription </span><b><strong style="white-space: pre-wrap;">protects up to 9 devices</strong></b><span style="white-space: pre-wrap;"> and you enjoy a clean, distraction-free Web. There is also a </span><b><strong style="white-space: pre-wrap;">60-day money-back guarantee</strong></b><span style="white-space: pre-wrap;"> (in case you do not like it).</span><br /><br /><span style="white-space: pre-wrap;">Offer ends on 3rd Sep. That is today. So hurry up &#8987;</span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://adguard.com?aid=135612" style="background-color: #000000; color: #ffffff;">
+                            Get AdGuard
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><!--kg-gated-block:end-->
+<h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>AI crawlers are scraping the Linux kernel repo <a href="https://itsfoss.com/news/linux-kernel-repo-ai-overrun/">in a way that results in unnecessary compute usage</a>, burning ~4.6 million times more compute for a worse copy of data that was always free to grab.</p><p>A community leader in open source, Debian, <a href="https://itsfoss.com/news/debian-allows-ai-contribution/">has voted to allow AI-assisted contributions</a>, and the community response has been predictably split. One long-time Debian developer even quit over it.</p><p>That's not the only divide. Omarchy is now a foundation backed by several tech leaders, 1Password CEO being one of them. And that has created a divide in both its employees and users. <a href="https://itsfoss.com/news/1password-omarchy-pledge/">This article provides context</a>.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>How often do you think about which filesystem to install your OS on? Or swapping your kernel for a real-time build when you need it? Or moving your whole install to a different machine without a license headache?</p><p>We list <a href="https://itsfoss.com/things-linux-can-window-not/">ten things Linux does casually</a> that Windows either can't do or actively prevents.</p><p>Ubuntu's built-in tiling is more capable than most people realize. We explore the various keyboard shortcuts, window gaps, and active window hints in <a href="https://itsfoss.com/ubuntu-tiling-windows/">the default Ubuntu Tiling Assistant</a>, then go further into the Tiling Shell extension for proper layout management.</p><p>If you are absolutely new to bash shell scripting, we have a <a href="https://itsfoss.com/bash-scripting-tutorial/">10-part, hands-on bash learning series for you</a>. Good starting point for Linux users.</p><p><a href="https://itsfoss.com/customize-grub-linux/">Grub Customizer is a handy tool</a> that lets you change boot order in a multi-boot system.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Desktop Linux is mostly neglected by the industry but loved by the community. For the past 14 years, It's FOSS has been helping people use Linux on their personal computers. And we are now facing the existential threat from AI models stealing our content. </span></p><p><span style="white-space: pre-wrap;">If you like what we do and would love to support our work, please become It's FOSS Plus member. It costs $49 a year (less than the cost of a McDonald's burger a month), and you get an ad-free reading experience with the satisfaction of helping the desktop Linux community. And there are also free Linux ebooks.</span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://itsfoss.com/membership/" style="background-color: #000000; color: #ffffff;">
+                            Join It's FOSS Plus
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><!--kg-gated-block:end-->
+<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>Switched routers, and now your headless Raspberry Pi can't go online? Pull the SD card, mount it on your Linux machine, then <a href="https://itsfoss.com/change-raspberry-pi-wi-fi-from-sd-card/">follow these steps</a>. &#128071;</p><p>Canonical has joined NVIDIA's <a href="https://ubuntu.com/blog/open-secure-ai-alliance">Open Secure AI Alliance</a>, a coalition focused on building open tools for securing AI agents and the software stacks they run on.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/image-toolbox/">Image Toolbox</a> is the app for you if your life revolves around creating and posting content on social media. It is fully open source, doesn't sell you ads, and also has AI powers.</p><figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img alt="" height="2531" src="https://itsfoss.com/content/images/2026/09/image-toolbox.jpg" width="1214" /></div><div class="kg-gallery-image"><img alt="" height="2531" src="https://itsfoss.com/content/images/2026/09/image-toolbox-ai-tools-demo.jpg" width="1214" /></div><div class="kg-gallery-image"><img alt="" height="2531" src="https://itsfoss.com/content/images/2026/09/image-toolbox-presets-3.jpg" width="1214" /></div></div></div></figure><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>KDE's default terminal Konsole is an underrated but capable terminal emulator. <a href="https://youtu.be/WeOjWPYh4cU">Check out this video and learn a few new tips</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><figure class="kg-card kg-image-card"><img alt="gnome files grid view captions tip" class="kg-image" height="720" src="https://itsfoss.com/content/images/2026/09/show-captions.png" width="1206" /></figure><p>If you are using the <a href="https://itsfoss.com/nautilus-tips-tweaks/">Nautilus</a> file manager (<em>aka GNOME Files</em>), in the "<em>Icon</em>" options menu (<em>downwards arrow button</em>), go into "<em>Captions...</em>" and select "<em>Size</em>" and "<em>Detailed File Type</em>" captions for the "<em>First</em>" and "<em>Second</em>" options. </p><p>This way, you will be shown essential folder/file information without needing to go into the property view or the terminal.</p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Seeing that Linux <a href="https://www.linkedin.com/feed/update/urn:li:activity:7498225957804081152/">recently turned 35</a>, why not try your hand at <a href="https://itsfoss.com/quiz/linux-history-trivia/">a history trivia quiz</a>?</p><p>Firefox is still a strong force againsta everything Chrome.</p><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="1811" src="https://itsfoss.com/content/images/2026/09/firefox-meme.jpeg" width="1440" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: Happy 34th birthday to SUSE! &#127874;&#128154;</p><p>Founded on September 2, 1992, SUSE made history as the world&rsquo;s first provider of an Enterprise Linux distribution.</p><p>&#128161; Fun fact: The original name, S.u.S.E. GmbH, stood for "Software- und System-Entwicklung" (Software and Systems Development).</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: An old thread on the topic of <a href="https://itsfoss.community/t/summary-linux-distributions-for-32-bits/15398">Linux distros that still support 32-bit</a> has gone active again. Got any missing ones to add to the list?</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17439066.gif" width="1" />]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>1Password Just Pledged $300,000 to DHH's Omarchy, and its Own Employees Aren't Happy</title>
+      <link>https://feed.itsfoss.com/link/24361/17439067/1password-omarchy-pledge</link>
+      <guid isPermaLink="false">6a993723af07250001fdc271</guid>
+      <pubDate>Thu, 03 Sep 2026 13:03:20 +0000</pubDate>
+      <description><![CDATA[1password logo is floating above an illustration depicting angry people (left), two hands exchanging money and the omarchy logo with tagline (right)]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>An Honorless Move! Ubisoft Decides Linux isn't Worth the Effort</title>
       <link>https://feed.itsfoss.com/link/24361/17437119/for-honor-drops-linux-support</link>
@@ -25,12 +95,182 @@
       <category>News</category>
     </item>
     <item>
-      <title>Tether Brings the Apple Continuity Experience to Linux</title>
-      <link>https://feed.itsfoss.com/link/24361/17435541/tether-apple-continuity-on-linux</link>
-      <guid isPermaLink="false">6a9542122f93c60001400804</guid>
-      <pubDate>Mon, 31 Aug 2026 12:32:04 +0000</pubDate>
-      <description><![CDATA[tether aiphone smartphone linux laptop banner]]></description>
-      <category>News</category>
+      <title>Воспитательнице детсада сделали предложение в очень неожиданный момент</title>
+      <link>https://people.onliner.by/go/1329509</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/pozharnyj-sdelal-predlozheniya-devushke-vo-vremya-evakuacii</guid>
+      <pubDate>Thu, 03 Sep 2026 15:40:14 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/pozharnyj-sdelal-predlozheniya-devushke-vo-vremya-evakuacii"><img alt="" src="https://content.onliner.by/news/thumbnail/86c4aa937c6c2cbad07f72879aafe7b4.jpg" /></a></p><p>В Бобруйске парень сделал предложение своей девушке прямо во время экстренной эвакуации. Трогательная история <a href="https://mogilev.mchs.gov.by/novosti/528152/">произошла</a> в одном из детских садов города. </p><p><a href="https://people.onliner.by/2026/09/03/pozharnyj-sdelal-predlozheniya-devushke-vo-vremya-evakuacii">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В Минске бесплатную презентацию Apple можно будет посмотреть за деньги (обновлено)</title>
+      <link>https://tech.onliner.by/go/790958</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/prezentaciyu-apple-pokazhut-v-kinoteatre</guid>
+      <pubDate>Thu, 03 Sep 2026 15:05:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/prezentaciyu-apple-pokazhut-v-kinoteatre"><img alt="" src="https://content.onliner.by/news/thumbnail/25d889a57ca23239c767b6faad4a9da2.jpg" /></a></p><p><p dir="ltr">Компания Apple <a href="https://tech.onliner.by/2026/08/26/apple-provedet-prezentaciyu-iphone-18-uzhe-9-sentyabrya" target="_blank">проведет</a> традиционную сентябрьскую презентацию 9 сентября, на которой, как ожидается, представят новые айфоны серии 18 Pro, а также складной iPhone Ultra. Трансляцию мероприятия можно будет посмотреть как онлайн дома, так и в одном из кинотеатров Минска — на соответствующее мероприятие продаются билеты.</p><p><a href="https://tech.onliner.by/2026/09/03/prezentaciyu-apple-pokazhut-v-kinoteatre">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Фотофакт. Dreame показала новые продукты на техновыставке IFA 2026 в Берлине</title>
+      <link>https://tech.onliner.by/go/791006</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/fotofakt-dreame-pokazala-novye-produkty-na-texnovystavke-ifa-2026-v-berline</guid>
+      <pubDate>Thu, 03 Sep 2026 14:50:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/fotofakt-dreame-pokazala-novye-produkty-na-texnovystavke-ifa-2026-v-berline"><img alt="" src="https://content.onliner.by/news/thumbnail/eb51375f5e85de965f342a8336ca2af1.jpg" /></a></p><p><p dir="ltr">Китайский производитель Dreame представил на выставке IFA 2026 в Берлине новое поколение продуктов и технологий. Главной новинкой стал робот-пылесос Aqua20 Pro Ultra Roller X Complete с уборкой горячим паром. Среди других представленных продуктов: робот-пылесос X60 Pro Ultra Matrix с адаптивными сценариями уборки для разных помещений, робот-газонокосилка серии A4 AWD Pro и мини-камера LEAPTIC Cube. Onlíner побывал на выставке — показываем кадры с мероприятия.</p><p><a href="https://tech.onliner.by/2026/09/03/fotofakt-dreame-pokazala-novye-produkty-na-texnovystavke-ifa-2026-v-berline">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Из-за таких водителей невозможно спокойно ездить». Бессмысленное нарушение попало на видео (видео)</title>
+      <link>https://auto.onliner.by/go/1264247</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/iz-za-takix-voditelej-nevozmozhno-spokojno-ezdit-bessmyslennoe-narushenie-popalo-na-video</guid>
+      <pubDate>Thu, 03 Sep 2026 14:49:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/iz-za-takix-voditelej-nevozmozhno-spokojno-ezdit-bessmyslennoe-narushenie-popalo-na-video"><img alt="" src="https://content.onliner.by/news/thumbnail/56e64da9942293e8a5c0c6d4d09de182.jpg" /></a></p><p>Московская улица в Минске, впереди проспект Независимости. Две полосы по прямой, крайняя правая уводит на улицу Толстого. Но именно по ней едет водитель, которого почему-то не устраивает двигаться в довольно разряженном вечернем потоке.</p><p><a href="https://auto.onliner.by/2026/09/03/iz-za-takix-voditelej-nevozmozhno-spokojno-ezdit-bessmyslennoe-narushenie-popalo-na-video">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>За это нарушение мужчина лишился водительского удостоверения на год и получил штраф (видео)</title>
+      <link>https://auto.onliner.by/go/1264242</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/muzhchina-lishilsya-prav</guid>
+      <pubDate>Thu, 03 Sep 2026 14:40:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/muzhchina-lishilsya-prav"><img alt="" src="https://content.onliner.by/news/thumbnail/2c8fb067b862edb26496f806a469d803.jpg" /></a></p><p>Инцидент произошел на 34-м километре трассы М6 (Минск — Гродно). Там 59-летний водитель Lada перед перестроением не убедился, что его маневр безопасен, в результате чего вынудил попутного водителя, который ехал в левой полосе, изменить скорость движения, что привело к созданию аварийной обстановки, сообщает ГАИ Минской области. </p><p><a href="https://auto.onliner.by/2026/09/03/muzhchina-lishilsya-prav">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Квота на льготный ввоз электромобилей в Беларуси почти исчерпана</title>
+      <link>https://auto.onliner.by/go/1262197</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/kvota-na-lgotnyj-vvoz</guid>
+      <pubDate>Thu, 03 Sep 2026 14:30:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/kvota-na-lgotnyj-vvoz"><img alt="" src="https://content.onliner.by/news/thumbnail/2d90fc88db948f19f3ca207225e00fbe.jpg" /></a></p><p>По состоянию на 3 сентября оставшийся объем квоты на льготный ввоз электромобилей физическими лицами составляет 158 штук. </p><p><a href="https://auto.onliner.by/2026/09/03/kvota-na-lgotnyj-vvoz">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Новый глава Apple за месяц получает как средний белорус за 20 лет</title>
+      <link>https://money.onliner.by/go/344696</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/novyj-glava-apple-za-mesyac</guid>
+      <pubDate>Thu, 03 Sep 2026 14:13:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/novyj-glava-apple-za-mesyac"><img alt="" src="https://content.onliner.by/news/thumbnail/e5e20973af63c85203b13b054281ed96.jpg" /></a></p><p>В Apple сменился генеральный директор. После ухода Тима Кука его место занял Джон Тернус, который работает в компании уже много лет. В 2027 финансовом году его общий компенсационный пакет может составить около $58 млн, пишет Bloomberg.</p><p><a href="https://money.onliner.by/2026/09/03/novyj-glava-apple-za-mesyac">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Больше иллюминации и подсветки зданий вдоль МКАД. Как преобразится ночной Минск?</title>
+      <link>https://realt.onliner.by/go/1128158</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/03/kak-do-konca-goda-preobrazitsya-nochnoj-minsk</guid>
+      <pubDate>Thu, 03 Sep 2026 14:08:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/03/kak-do-konca-goda-preobrazitsya-nochnoj-minsk"><img alt="" src="https://content.onliner.by/news/thumbnail/968b37358ec8e89043c8f13af401b73c.jpg" /></a></p><p>Освещение в Минске в этом году сильно поменяется. Например, на проспекте Независимости продолжается масштабное обновление уличных фонарей. Прямо сейчас «Мингорсвет» совместно с «Гордорстроем» заменяет старые конструкции на новые оцинкованные столбы на участке от улицы Козлова до Филимонова. Отрезок от Свердлова до Козлова обновили чуть ранее, так что главный проспект столицы постепенно приводят к единому современному стилю, сообщает агентство <a href="https://minsknews.by/k-2030-godu-mingorsvet-planiruet-zavershit-perevod-vsej-ulichnoj-seti-na-sovremennye-svetilniki/" target="_blank">«Минск-Новости»</a>.</p><p><a href="https://realt.onliner.by/2026/09/03/kak-do-konca-goda-preobrazitsya-nochnoj-minsk">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>На МКАД перевернулась Audi. Двое детей в больнице (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1264231</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/na-mkad-perevernulas-audi</guid>
+      <pubDate>Thu, 03 Sep 2026 13:57:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/na-mkad-perevernulas-audi"><img alt="" src="https://content.onliner.by/news/thumbnail/5e8c80787310399749bbeeee0d0cbda1.jpg" /></a></p><p>Юрий Краснов передает с МКАД: внутреннее кольцо перед развязкой с Долгиновским трактом, в крайней правой полосе на крыше лежит Audi. Движение на участке кольцевой затруднено.</p><p><a href="https://auto.onliner.by/2026/09/03/na-mkad-perevernulas-audi">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Здание утопает в веренице автомобилей». Президент поручил разгрузить дворы Минска</title>
+      <link>https://auto.onliner.by/go/1264222</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/parkovki-vo-dvorax</guid>
+      <pubDate>Thu, 03 Sep 2026 13:45:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/parkovki-vo-dvorax"><img alt="" src="https://content.onliner.by/news/thumbnail/6aeaf76f8fe4743440850de436cb6f31.jpg" /></a></p><p>Президент Беларуси Александр Лукашенко предложил руководству города Минска подумать, как разгрузить придомовые территории от большого количества личного автотранспорта. Соответствующую задачу он поставил, принимая с докладом председателя Мингорисполкома Владимира Кухарева, <a href="https://belta.by/president/view/ne-zapretami-lukashenko-predlozhil-podumat-chto-delat-v-minske-s-okeanom-avtomobilej-u-domov-799222-2026/" target="_blank">сообщает</a> БЕЛТА.</p><p><a href="https://auto.onliner.by/2026/09/03/parkovki-vo-dvorax">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Водитель вышел из автобуса, не заглушив двигатель, — погибли два человека. Решение суда  (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1246237</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/na-mogilevshhine-avtobus-sam</guid>
+      <pubDate>Thu, 03 Sep 2026 13:40:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/na-mogilevshhine-avtobus-sam"><img alt="" src="https://content.onliner.by/news/thumbnail/33903f34ac991d3128b20d5680f58f42.jpg" /></a></p><p>Смертельное ДТП случилось утром 16 мая в Чаусах. Под колесами рейсового автобуса погибли два человека.</p><p><a href="https://auto.onliner.by/2026/09/03/na-mogilevshhine-avtobus-sam">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Белоруске дали подписать договор задним числом, а потом уволили. Теперь ей выплатят 7500 рублей</title>
+      <link>https://money.onliner.by/go/344682</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/beloruske-dali-podpisat-dogovor</guid>
+      <pubDate>Thu, 03 Sep 2026 13:33:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/beloruske-dali-podpisat-dogovor"><img alt="" src="https://content.onliner.by/news/thumbnail/4361af0eb980bad8a4a32a3f9238d941.jpg" /></a></p><p>В Рогачевском районе продавщица добилась восстановления на работе после увольнения и получит от бывшего работодателя около 7,5 тысячи рублей.</p><p><a href="https://money.onliner.by/2026/09/03/beloruske-dali-podpisat-dogovor">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Белорусы похитили 3 миллиона рублей под предлогом инвестирования в игру</title>
+      <link>https://tech.onliner.by/go/790947</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/belorusy-poxitili-3-milliona-rublej-pod-predlogom-investirovaniya-v-igru</guid>
+      <pubDate>Thu, 03 Sep 2026 13:33:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/belorusy-poxitili-3-milliona-rublej-pod-predlogom-investirovaniya-v-igru"><img alt="" src="https://content.onliner.by/news/thumbnail/61aa1a7052cb4899a2576b3e72e5e770.jpg" /></a></p><p><p dir="ltr">Прокуратура Минска направила в суд уголовное дело в отношении 43-летнего иностранного гражданина, которого обвиняют в мошенничестве в особо крупном размере, совершенном группой лиц. Сообщается, что подозреваемый <a href="https://prokuratura.gov.by/ru/media/novosti/nadzor-za-resheniyami-po-ugolovnym-i-grazhdanskim-delam/prokuratura-goroda-m03092026/" target="_blank">вступил</a> в преступный сговор с 44-летним гродненцем и 26-летним жителем Минска и предложил знакомому выкупить лицензию на компьютерную игру и в последующем инвестировать средства в ее усовершенствование для дальнейшей реализации. Однако за выгодным предложением скрывался обман.</p><p><a href="https://tech.onliner.by/2026/09/03/belorusy-poxitili-3-milliona-rublej-pod-predlogom-investirovaniya-v-igru">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Арендная двушка за $5,5 тысячи в месяц вызвала возмущение в сети</title>
+      <link>https://realt.onliner.by/go/1128252</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/03/san-francisco</guid>
+      <pubDate>Thu, 03 Sep 2026 13:11:22 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/03/san-francisco"><img alt="" src="https://content.onliner.by/news/thumbnail/55e2fc000af6eb6afd816b0ce218d2c7.jpg" /></a></p><p>Объявление об аренде двушки в Сан-Франциско вызвало бурю негодования в интернете. Квартиру предлагают за $5495 в месяц, несмотря на устаревший интерьер и сомнительное состояние жилья, <a href="https://nypost.com/2026/09/02/real-estate/san-francisco-renters-slam-5495-one-bedroom-apartment-listing/" target="_blank">пишет</a> New York Post.</p><p><a href="https://realt.onliner.by/2026/09/03/san-francisco">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>От удара током в хозяйстве погибла 21 корова. Кого будут судить?</title>
+      <link>https://people.onliner.by/go/1329492</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/ot-udara-tokom-v-xozyajstve-pogibla-21-korova-kogo-budut-sudit</guid>
+      <pubDate>Thu, 03 Sep 2026 13:07:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/ot-udara-tokom-v-xozyajstve-pogibla-21-korova-kogo-budut-sudit"><img alt="" src="https://content.onliner.by/news/thumbnail/518763d7c071cab29458cbcd493e6c23.jpg" /></a></p><p>В апреле 2025 года на сельхозпредприятии в Любанском районе от удара током погибла 21 корова. Причиной стало нарушение правил эксплуатации электрооборудования.
+</p><p><a href="https://people.onliner.by/2026/09/03/ot-udara-tokom-v-xozyajstve-pogibla-21-korova-kogo-budut-sudit">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>10-летний школьник спрятал семейные сбережения в парке</title>
+      <link>https://money.onliner.by/go/344640</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/10-letnij-minchanin-spryatal</guid>
+      <pubDate>Thu, 03 Sep 2026 12:34:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/10-letnij-minchanin-spryatal"><img alt="" src="https://content.onliner.by/news/thumbnail/6dd4e2ac2a26d358ae68178f6547700e.jpg" /></a></p><p>В Минске благодаря случайному очевидцу удалось спасти более 30 тысяч рублей, которые две жертвы мошенников оставили в тайнике в парке. Среди обманутых оказался 10-летний мальчик.</p><p><a href="https://money.onliner.by/2026/09/03/10-letnij-minchanin-spryatal">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В «Минск-Мире» водитель Lada врезался в Mercedes. Виновник вышел и сказал: «Извини» (видео)</title>
+      <link>https://auto.onliner.by/go/1264213</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/lada-vrezalsya-v-mercedes</guid>
+      <pubDate>Thu, 03 Sep 2026 12:28:43 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/lada-vrezalsya-v-mercedes"><img alt="" src="https://content.onliner.by/news/thumbnail/bf20056e82f0f3a2b0aeff53abc0d71a.jpg" /></a></p><p>Иногда обычное утро может принести неожиданные сюрпризы. К сожалению, не всегда приятные. В «Минск-Мире» водитель Mercedes ехал на работу, как тут — удар. В него влетел водитель Lada.</p><p><a href="https://auto.onliner.by/2026/09/03/lada-vrezalsya-v-mercedes">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Samsung выборочно блокирует аккаунты «по соображениям безопасности». Кто в зоне риска?</title>
+      <link>https://tech.onliner.by/go/790930</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/samsung-blokiruet-akkaunty-po-soobrazheniyam-bezopasnosti</guid>
+      <pubDate>Thu, 03 Sep 2026 12:15:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/samsung-blokiruet-akkaunty-po-soobrazheniyam-bezopasnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/226757f4a8d804a52434295d24827d75.jpg" /></a></p><p><p dir="ltr">Многие владельцы смартфонов Samsung Galaxy в последние дни не смогли получить доступ к своим учетным записям, потому что они  были деактивированы «по соображениям безопасности», <a href="https://9to5google.com/2026/09/01/samsung-account-deactivated-issue/" target="_blank">пишет</a> 9to5Google. Причины неизвестны, производитель пока не предоставил никаких объяснений проблемы.</p><p><a href="https://tech.onliner.by/2026/09/03/samsung-blokiruet-akkaunty-po-soobrazheniyam-bezopasnosti">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Заявку в службе 115 закрыли, а проблему не решили? Что делать, рассказали в Министерстве ЖКХ</title>
+      <link>https://realt.onliner.by/go/1128278</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/03/zayavku-v-sluzhbe-115-zakryli</guid>
+      <pubDate>Thu, 03 Sep 2026 12:04:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/03/zayavku-v-sluzhbe-115-zakryli"><img alt="" src="https://content.onliner.by/news/thumbnail/4c2f72d7013274cc0a9ae0848d66c092.jpg" /></a></p><p><p>Ситуация, когда служба 115 присылает уведомление об успешном закрытии заявки, хотя проблема в подъезде или во дворе остается нерешенной, знакома многим. В Министерстве ЖКХ <a href="https://t.me/mjkx_by/7018" target="_blank">пояснили</a>, как правильно действовать в таких случаях и почему оставлять повторные обращения — лишняя трата времени.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/09/03/zayavku-v-sluzhbe-115-zakryli">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>«Удерживать надо, но не форсировать». Лукашенко о зарплатах в Минске</title>
+      <link>https://money.onliner.by/go/344613</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/uderzhivat-nado-no-ne-forsirovat-lukashenko-o-zarplatax-v-minske</guid>
+      <pubDate>Thu, 03 Sep 2026 11:09:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/uderzhivat-nado-no-ne-forsirovat-lukashenko-o-zarplatax-v-minske"><img alt="" src="https://content.onliner.by/news/thumbnail/70fd411be68f6e400f8f7a3aa8f17f12.jpg" /></a></p><p>Средняя номинальная зарплата в Минске по итогам первого полугодия составила 3878 рублей. Об этом председатель Мингорисполкома Владимир Кухарев <a href="https://belta.by/president/view/lukashenko-o-razmere-srednej-zarplaty-po-minsku-nado-uderzhivat-no-ne-forsirovat-799223-2026/">рассказал</a> во время доклада Александру Лукашенко.</p><p><a href="https://money.onliner.by/2026/09/03/uderzhivat-nado-no-ne-forsirovat-lukashenko-o-zarplatax-v-minske">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Трагедия в Гродненской области: мужчина случайно застрелил знакомого</title>
+      <link>https://people.onliner.by/go/1329471</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/v-grodnenskom-rajone-vo-vremya-oxoty-pogib-muzhchina</guid>
+      <pubDate>Thu, 03 Sep 2026 10:59:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/v-grodnenskom-rajone-vo-vremya-oxoty-pogib-muzhchina"><img alt="" src="https://content.onliner.by/news/thumbnail/ad94d7ecf81f4adcf8e869ca2269d685.jpg" /></a></p><p>В Гродненском районе во время охоты мужчина случайно выстрелил в знакомого. От полученных травм тот скончался. Следователи устанавливают обстоятельства, которые привели к трагедии.</p><p><a href="https://people.onliner.by/2026/09/03/v-grodnenskom-rajone-vo-vremya-oxoty-pogib-muzhchina">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Вспомнился «Пункт назначения». Такая встреча с лесовозом никому не понравится (видео)</title>
+      <link>https://auto.onliner.by/go/1264201</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/punkt-naznacheniya</guid>
+      <pubDate>Thu, 03 Sep 2026 10:57:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/punkt-naznacheniya"><img alt="" src="https://content.onliner.by/news/thumbnail/0f1605b8d6fe7027a38f2f5db84dd9c8.jpg" /></a></p><p>Когда кто-то выезжает на узкой дороге на встречную полосу в лоб другому транспорту — это страшно и опасно. Когда так выезжает большой лесовоз с прицепом — страшно и опасно вдвойне. Видео со своего регистратора Onlíner прислал читатель.</p><p><a href="https://auto.onliner.by/2026/09/03/punkt-naznacheniya">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
     </item>
     <item>
       <title>Предприниматель запустил сеть салонов… для профессионального чесания клиентов</title>
@@ -49,189 +289,12 @@
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Белорус обнаружил свои данные на фото интернет-магазина. Что было дальше?</title>
-      <link>https://tech.onliner.by/go/790910</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/belorus-obnaruzhil-svoi-dannye-na-foto-internet-magazina</guid>
-      <pubDate>Thu, 03 Sep 2026 10:07:21 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/belorus-obnaruzhil-svoi-dannye-na-foto-internet-magazina"><img alt="" src="https://content.onliner.by/news/thumbnail/f6c66e9c89ba21128f6920e19caba618.jpg" /></a></p><p><p dir="ltr">Мужчина заметил, что в карточке уцененного товара в одном из интернет-магазинов размещены фотографии документов, где были указаны его ФИО, адрес и номер телефона. Он обратился в Центр персональных данных, после чего ведомство провело проверку, в результате которой, сотрудника интернет-магазина уволили.</p><p><a href="https://tech.onliner.by/2026/09/03/belorus-obnaruzhil-svoi-dannye-na-foto-internet-magazina">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Техосмотр в августе не прошли более 20 000 автомобилей. Какие неисправности находят чаще всего</title>
-      <link>https://auto.onliner.by/go/1264188</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/texosmotr-v-avguste</guid>
-      <pubDate>Thu, 03 Sep 2026 09:45:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/texosmotr-v-avguste"><img alt="" src="https://content.onliner.by/news/thumbnail/c2db353e2c8bda10e0c071d2f7a2b557.jpg" /></a></p><p>УП «Белтехосмотр» рассказало, что в августе было выдано 150 587 разрешений на допуск транспортного средства к участию в дорожном движении. Физическим лицам выдано 130 120 разрешений (86,4% от общего количества). Но не все получили «дазвол».</p><p><a href="https://auto.onliner.by/2026/09/03/texosmotr-v-avguste">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Детей надо хорошенько встряхнуть». Лукашенко принял с докладом министра образования</title>
-      <link>https://people.onliner.by/go/1329454</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/detej-nado-xoroshenko-vstryaxnut-lukashenko-prinyal-s-dokladom-ministra-obrazovaniya</guid>
-      <pubDate>Thu, 03 Sep 2026 09:38:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/detej-nado-xoroshenko-vstryaxnut-lukashenko-prinyal-s-dokladom-ministra-obrazovaniya"><img alt="" src="https://content.onliner.by/news/thumbnail/6d47feb581fe4ee4a4f8cde6ed7534fe.jpg" /></a></p><p>Сегодня Александр Лукашенко принял с докладом министра образования Андрея Иванца. На встрече обсуждают итоги вступительной кампании, питание в школах, физическую подготовку учащихся и студентов, а также другие вопросы сферы образования.</p><p><a href="https://people.onliner.by/2026/09/03/detej-nado-xoroshenko-vstryaxnut-lukashenko-prinyal-s-dokladom-ministra-obrazovaniya">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Куйбывшева, 69». Опечатка на банкомате в Минске развеселила соцсети</title>
-      <link>https://money.onliner.by/go/344543</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/kujbyvsheva-69-opechatka-na-bankomate-v-minske-razveselila-socseti</guid>
-      <pubDate>Thu, 03 Sep 2026 09:28:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/kujbyvsheva-69-opechatka-na-bankomate-v-minske-razveselila-socseti"><img alt="" src="https://content.onliner.by/news/thumbnail/004f25163be0634c2da494ec30ce3d7e.jpg" /></a></p><p>Необычную ошибку заметили на одном из банкоматов «Альфа Банка» в Минске. На наклейке с адресами ближайших устройств улица Куйбышева неожиданно превратилась в «Куйбывшева». Дополнительный повод для шуток пользователям дал номер дома — 69.</p><p><a href="https://money.onliner.by/2026/09/03/kujbyvsheva-69-opechatka-na-bankomate-v-minske-razveselila-socseti">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Горы сыра, мексиканская музыка и «Очумелые ручки». Вот такие планы на выходные</title>
-      <link>https://people.onliner.by/go/1329427</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/afisha-5-6-sentyabrya</guid>
-      <pubDate>Thu, 03 Sep 2026 09:08:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/afisha-5-6-sentyabrya"><img alt="" src="https://content.onliner.by/news/thumbnail/e9cf50cbfdd54e044928cb378361aa08.jpg" /></a></p><p>Хоть перевернутый календарь и намекает, что официально наступила осень, белорусы массово отказываются предаваться унынию: слишком много еще нереализованных летних планов. Так что в эти выходные планируем как можно больше времени проводить на открытых площадках, чтобы успеть ухватить ускользающее тепло за хвост. Присоединяйтесь!</p><p><a href="https://people.onliner.by/2026/09/03/afisha-5-6-sentyabrya">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Huawei представила глобальную версию смарт-часов Watch GT 7 и другие новинки</title>
-      <link>https://tech.onliner.by/go/790891</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/huawei-watch-gt-7</guid>
-      <pubDate>Thu, 03 Sep 2026 09:02:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/huawei-watch-gt-7"><img alt="" src="https://content.onliner.by/news/thumbnail/e625907543003fc5d5f98336ec13c19f.jpg" /></a></p><p><p dir="ltr">В Мюнхене состоялась презентация, на которой Huawei представила новые смарт-часы, планшеты, смартфоны и наушники. А именно: смарт-часы Huawei Watch GT 7, Watch 6 и Watch D3, флагманский планшет Huawei MatePad Pro 12”, беспроводные наушники Huawei FreeBuds Neo и молодежные смартфоны серии Huawei nova 16s.</p><p><a href="https://tech.onliner.by/2026/09/03/huawei-watch-gt-7">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>С розовыми балконами и яркими фасадами. В «Новой Боровой построят красочный дом в стиле поп-арта</title>
-      <link>https://realt.onliner.by/go/1128213</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/03/s-rozovymi-balkonami</guid>
-      <pubDate>Thu, 03 Sep 2026 08:45:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/03/s-rozovymi-balkonami"><img alt="" src="https://content.onliner.by/news/thumbnail/63fbeb6b0d6c22e4f5d9ff5f9e22dc25.jpg" /></a></p><p>В «Новой Боровой» построят дом в стиле комиксов 1950 годов. В нем будет 150 квартир евроформата, в том числе с личными террасами на первом этаже. Застройщик «А-100 Девелопмент» уже запустил продажи: «квадрат» стоит от $2379 в эквиваленте.</p><p><a href="https://realt.onliner.by/2026/09/03/s-rozovymi-balkonami">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>«Съели тарелку на троих». Что известно о состоянии мужчин, которые отравились бледной поганкой (обновлено)</title>
-      <link>https://people.onliner.by/go/1327622</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/inostrancy-nasobirali-neponyatnyx-gribov</guid>
-      <pubDate>Thu, 03 Sep 2026 08:44:48 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/inostrancy-nasobirali-neponyatnyx-gribov"><img alt="" src="https://content.onliner.by/news/thumbnail/42f45fe820f1303a10993a13d5f6a901.jpg" /></a></p><p><p>Трое иностранцев, живущих и работающих в Лиде, попали в больницу после употребления грибов. Оказалось, что мужчины перепутали  съедобные грибы с бледной поганкой. Сейчас их жизни ничего не угрожает.</p><p><a href="https://people.onliner.by/2026/09/03/inostrancy-nasobirali-neponyatnyx-gribov">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Белорус заработал 159 рублей на криптовалюте и получил штраф в 900 рублей</title>
-      <link>https://money.onliner.by/go/344517</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/belorus-zarabotal-159-rublej</guid>
-      <pubDate>Thu, 03 Sep 2026 08:26:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/belorus-zarabotal-159-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/d1b4ebb15e0c835b26b94a794b5c1876.jpg" /></a></p><p>Экономический суд Гомельской области оштрафовал жителя Гомеля за незаконную сделку с криптовалютой. Мужчина получил токены благодаря онлайн-игре, а затем продал их на иностранной криптобирже.</p><p><a href="https://money.onliner.by/2026/09/03/belorus-zarabotal-159-rublej">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Windows 11 принудительно включат функцию, из-за которой может возникнуть «синий экран»</title>
-      <link>https://tech.onliner.by/go/790858</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/memory-integrity</guid>
-      <pubDate>Thu, 03 Sep 2026 07:57:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/memory-integrity"><img alt="" src="https://content.onliner.by/news/thumbnail/9e24572fb87070c5a7dcb4842c627b33.jpg" /></a></p><p><p dir="ltr">Microsoft <a href="https://www.windowslatest.com/2026/09/02/microsoft-is-auto-enabling-memory-integrity-on-windows-11-pcs-from-october-why-you-shouldnt-turn-it-off/">начнет</a> автоматически включать функцию «Целостность памяти» (Memory Integrity) по умолчанию для соответствующих устройств на Windows 11 с октября 2026 года. Эта функция защиты на уровне ядра предназначена для предотвращения атак и внедрения вредоносного кода. Однако есть нюанс: по <a href="https://learn.microsoft.com/en-us/windows/security/hardware-security/enable-virtualization-based-protection-of-code-integrity?tabs=security" target="_blank">словам</a> самой Microsoft, некоторые приложения и драйверы могут быть несовместимы с этой функцией, что может привести к сбоям, а в редких случаях — к ошибке загрузки системы (синий экран).</p><p><a href="https://tech.onliner.by/2026/09/03/memory-integrity">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Вот это заблудился так заблудился! Пробуем отгадать замысел водителя (видео)</title>
-      <link>https://auto.onliner.by/go/1264171</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/zabludilsya</guid>
-      <pubDate>Thu, 03 Sep 2026 07:48:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/zabludilsya"><img alt="" src="https://content.onliner.by/news/thumbnail/d65970866ebd983777a446f996262f0e.jpg" /></a></p><p>Въезд в Минск по Партизанскому проспекту обычно весьма загруженный. Факторов много: две трассы, ведущие от областных центров — Могилева и Гомеля, промзоны, расположенные на этом же направлении и создающие грузовой трафик. Сложнее всего приходится тем, кому нужно съехать на МКАД. Важно вовремя занять полосу справа и не проскочить нужный съезд. Некоторые блуждают.</p><p><a href="https://auto.onliner.by/2026/09/03/zabludilsya">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В августе количество сделок на вторичном рынке Минска сильно сократилось. В чем причина?</title>
-      <link>https://realt.onliner.by/go/1128151</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/03/v-minske-kupili-menshe-kvartir</guid>
-      <pubDate>Thu, 03 Sep 2026 07:43:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/03/v-minske-kupili-menshe-kvartir"><img alt="" src="https://content.onliner.by/news/thumbnail/5ff1abca9a62015fd2473fe01bebce29.jpg" /></a></p><p>В августе в Минске купили ощутимо меньше квартир, чем в первые летние месяцы. Такой статистикой <a href="https://t.me/nca_by/557" target="_blank">поделились</a> в Национальном кадастровом агентстве. Часть договоров еще дойдет до реестра в сентябре и увеличит итоговую цифру, но проседание спроса на вторичном рынке видно уже сейчас.</p><p><a href="https://realt.onliner.by/2026/09/03/v-minske-kupili-menshe-kvartir">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Доллар продолжает подъем. Смотрим на свежие курсы (обновлено)</title>
-      <link>https://money.onliner.by/go/344459</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/dollar-prodolzhaet-podem-smotrim-na-svezhie-kursy</guid>
-      <pubDate>Thu, 03 Sep 2026 07:26:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/dollar-prodolzhaet-podem-smotrim-na-svezhie-kursy"><img alt="" src="https://content.onliner.by/news/thumbnail/27d4cb298445714322a6462ae9d23211.jpg" /></a></p><p>На торгах 3 сентября доллар и евро продолжают дорожать. Биткоин за последние сутки тоже подорожал, сейчас находится вблизи отметки $77 986.</p><p><a href="https://money.onliner.by/2026/09/03/dollar-prodolzhaet-podem-smotrim-na-svezhie-kursy">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Байкер-бесправник пытался уйти от ГАИ через поле. Теперь ему грозит уголовное дело (видео)</title>
-      <link>https://auto.onliner.by/go/1264162</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/pytalsya-ujti-ot-gai-cherez-pole</guid>
-      <pubDate>Thu, 03 Sep 2026 07:01:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/pytalsya-ujti-ot-gai-cherez-pole"><img alt="" src="https://content.onliner.by/news/thumbnail/49ec74debafea8d86dd65fbea7db754d.png" /></a></p><p>Вчера около 07:00 утра сотрудники ГАИ подали сигнал об остановке мотоциклисту, который ехал без регистрационного знака. Требование водитель проигнорировал и попытался скрыться. Началась погоня.</p><p><a href="https://auto.onliner.by/2026/09/03/pytalsya-ujti-ot-gai-cherez-pole">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Мир станет еще жарче. ООН предупредила о затоплении городов</title>
-      <link>https://tech.onliner.by/go/790844</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/globalnoe-poteplenie-3</guid>
-      <pubDate>Thu, 03 Sep 2026 06:59:41 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/globalnoe-poteplenie-3"><img alt="" src="https://content.onliner.by/news/thumbnail/da512abe4e2e2136e35cb5b9fe0b9fa2.jpg" /></a></p><p><p dir="ltr">Согласно <a href="https://www.unep.org/resources/limiting-overshoot-navigating-exceedance">докладу</a> Программы ООН по окружающей среде, повышение глобальной температуры в ближайшие несколько лет превысит порог в 1,5 градуса по Цельсию, установленный в рамках Парижского соглашения по регулированию климата. По оценкам специалистов ООН, даже при наиболее благоприятном сценарии средняя температура Земли может достичь пика примерно на 1,8 градуса выше доиндустриального уровня. Вероятность возвращения глобальной температуры ниже отметки в 1,5 градуса в течение XXI века крайне мала, считают климатологи.</p><p><a href="https://tech.onliner.by/2026/09/03/globalnoe-poteplenie-3">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Грибник нашел тело женщины в лесу. Эксперты установили причину смерти</title>
-      <link>https://people.onliner.by/go/1329418</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/gribnik-nashel-telo-zhenshhiny-v-lesu-eksperty-ustanovili-prichinu-smerti</guid>
-      <pubDate>Thu, 03 Sep 2026 06:41:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/gribnik-nashel-telo-zhenshhiny-v-lesu-eksperty-ustanovili-prichinu-smerti"><img alt="" src="https://content.onliner.by/news/thumbnail/12e85c2a0fa0b618b27948da41be8095.jpg" /></a></p><p>В начале июля местный житель Полоцкого района отправился в лес за грибами и обнаружил там тело женщины. На место происшествия прибыла оперативно-следственная группа. Правоохранители <a href="https://sudexpert.gov.by/ru/list_news_occurrence_n.html?news_id=15393">установили</a> личность погибшей и обстоятельства произошедшего.</p><p><a href="https://people.onliner.by/2026/09/03/gribnik-nashel-telo-zhenshhiny-v-lesu-eksperty-ustanovili-prichinu-smerti">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Не уступила дорогу»: водитель Kia столкнулась с Tesla. Пострадали женщина и ребенок  (видео)</title>
-      <link>https://auto.onliner.by/go/1264157</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/ne-ustupila-dorogu</guid>
-      <pubDate>Thu, 03 Sep 2026 06:40:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/ne-ustupila-dorogu"><img alt="" src="https://content.onliner.by/news/thumbnail/7180833ef0cede693c0c5c99f4d9537c.jpg" /></a></p><p>2 сентября вечером 33-летняя женщина-водитель Kia при выезде с прилегающей территории дома №45 по улице Шаранговича не уступила дорогу автомобилю Tesla. В результате этого случилось ДТП.</p><p><a href="https://auto.onliner.by/2026/09/03/ne-ustupila-dorogu">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В США выпустили долларовую монету с портретом Трампа</title>
-      <link>https://money.onliner.by/go/344436</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/03/v-ssha-vypustili-dollarovuyu</guid>
-      <pubDate>Thu, 03 Sep 2026 06:26:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/03/v-ssha-vypustili-dollarovuyu"><img alt="" src="https://content.onliner.by/news/thumbnail/2c631261557801680fddef51827ed4a3.jpg" /></a></p><p>В США появилась памятная монета номиналом $1 с изображением президента Дональда Трампа. Выпуск приурочили к 250-летию независимости страны, сообщает американский Монетный двор.</p><p><a href="https://money.onliner.by/2026/09/03/v-ssha-vypustili-dollarovuyu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>У Belgee и Geely рекордные продажи в Беларуси. Какие модели в топе?</title>
-      <link>https://auto.onliner.by/go/1264149</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/03/belgee-i-geely</guid>
-      <pubDate>Thu, 03 Sep 2026 06:24:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/03/belgee-i-geely"><img alt="" src="https://content.onliner.by/news/thumbnail/eb00a04a544fd4846cce2df487d01ef8.jpg" /></a></p><p>В августе в Беларуси обновлен рекорд: на внутреннем рынке было реализовано свыше 6500 автомобилей Belgee и Geely. За месяц продажи взлетели примерно на 16%.</p><p><a href="https://auto.onliner.by/2026/09/03/belgee-i-geely">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Приезжаю — озера нет». Стало известно, почему в Логойском районе за два дня исчез водоем (обновлено)</title>
-      <link>https://people.onliner.by/go/1328927</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/priezzhayu-ozera-net-v-logojskom-rajone-za-dva-dnya-ischez-vodoem</guid>
-      <pubDate>Thu, 03 Sep 2026 06:22:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/priezzhayu-ozera-net-v-logojskom-rajone-za-dva-dnya-ischez-vodoem"><img alt="" src="https://content.onliner.by/news/thumbnail/add51b7c90267cb5295dc621f1cb09cc.jpg" /></a></p><p>С редакцией Onlíner связался житель Логойского района Дмитрий. Как утверждает мужчина, буквально за два дня в лесу исчез водоем. Еще в воскресенье он приезжал в эту местность за грибами — озеро было на месте, а уже ко вторнику вода практически полностью ушла. Позже причину произошедшего назвали в Минприроды.
-<code></p><p><a href="https://people.onliner.by/2026/09/03/priezzhayu-ozera-net-v-logojskom-rajone-za-dva-dnya-ischez-vodoem">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>У сталинок на Ленина, пострадавших на пожаре, снова заметили спасателей. Что случилось?</title>
-      <link>https://realt.onliner.by/go/1128145</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/03/u-stalinok-na-lenina</guid>
-      <pubDate>Thu, 03 Sep 2026 06:21:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/03/u-stalinok-na-lenina"><img alt="" src="https://content.onliner.by/news/thumbnail/a8bb04162b8c40b962f3635f0e719adf.jpg" /></a></p><p>Вчера вечером у пострадавших от пожара сталинок на улице Ленина снова заметили пожарную технику. На видео, которое прислал в редакцию очевидец, видно, что у здания стоят несколько машин с включенными проблесковыми маячками. Но, как оказалось, ничего серьезного не произошло.</p><p><a href="https://realt.onliner.by/2026/09/03/u-stalinok-na-lenina">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>«Хаббл» сфотографировал загадочный десятиугольник на Сатурне</title>
-      <link>https://tech.onliner.by/go/790828</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/03/strannyj-desyatiugolnik-na-saturne</guid>
-      <pubDate>Thu, 03 Sep 2026 06:18:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/03/strannyj-desyatiugolnik-na-saturne"><img alt="" src="https://content.onliner.by/news/thumbnail/7f32bb5b288b04558eba819673765d8f.jpg" /></a></p><p><p dir="ltr">Снимки, полученные космическим телескопом «Хаббл», <a href="https://gizmodo.com/a-giant-hexagon-has-been-spinning-at-saturns-north-pole-for-decades-now-scientists-found-its-twin-2000806285" target="_blank">показали</a> растущую десятиугольную структуру вокруг южного полюса Сатурна. Астрономы считают, что это гигантская буря, которая, предположительно, сформировалась в период с 2023 по 2025 год. Интересно, что это вторая подобная «фигура», обнаруженная на газовом гиганте — в 1980-е годы на противоположном северном полюсе планеты обнаружили шестиугольную бурю, которая продолжает оставаться активной и по сей день.</p><p><a href="https://tech.onliner.by/2026/09/03/strannyj-desyatiugolnik-na-saturne">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Как Наполеон всех переиграл: побывали на месте знаменитой битвы под Аустерлицем</title>
-      <link>https://people.onliner.by/go/1329252</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/03/austerlitz</guid>
-      <pubDate>Thu, 03 Sep 2026 05:00:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/03/austerlitz"><img alt="" src="https://content.onliner.by/news/thumbnail/74cf7af03ff11d24afa48f8f852e12e8.jpg" /></a></p><p>2 декабря 1805 года на полях Моравии сошлись армии Франции, России и Австрии — и за несколько часов сражений изменили ход европейской истории. Наполеон разбил превосходившую его союзную армию настолько убедительно, что Аустерлиц стал не просто крупнейшей победой французского императора (и крупнейшим разгромом русских войск в XIX веке), но и почти идеальной иллюстрацией того, как можно выиграть войну хитростью, расчетом и правильным выбором момента. Это то самое сражение, которое спустя полвека Толстой описал в «Войне и мире» через судьбу князя Андрея Болконского и его знаменитое «высокое небо», и то самое, благодаря которому появился один из известнейших образов солнца в искусстве и культуре. Мощный символизм Аустерлица даже не сразу дает поверить, что спустя 220 лет на его месте — просто обычные поля, трассы и неприметные деревни чешской провинции. Недавно мы побывали в этих местах под городом Брно в поисках следов одного из самых известных эпизодов Наполеоновских войн.</p><p><a href="https://people.onliner.by/2026/09/03/austerlitz">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
+      <title>Good News! CERN is Migrating Over 2,200 Control Systems to Debian 13</title>
+      <link>https://feed.itsfoss.com/link/24361/17438376/cern-debian-push</link>
+      <guid isPermaLink="false">6a9911ddaf07250001fdc1c5</guid>
+      <pubDate>Thu, 03 Sep 2026 09:51:52 +0000</pubDate>
+      <description><![CDATA[cern logo (left), debian logo (right), background is green with a cell-like pattern]]></description>
+      <category>News</category>
     </item>
     <item>
       <title>How to Change Raspberry Pi Wi-Fi Details From the SD Card</title>
