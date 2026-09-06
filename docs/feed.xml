@@ -5,78 +5,40 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 06 Sep 2026 10:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:59:43 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>FOSS Weekly #26.36: Debian CERN Win, Faster Firefox, Free Bash Course, Grub Customization and More Linux Stuff</title>
-      <link>https://feed.itsfoss.com/link/24361/17439066/foss-weekly-26-36</link>
-      <guid isPermaLink="false">6a96da262f93c60001400e84</guid>
-      <pubDate>Thu, 03 Sep 2026 13:34:02 +0000</pubDate>
-      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/09/foss-weekly.webp" /></figure>
-<p>Firefox 155 <a href="https://itsfoss.com/news/firefox-155-faster-page-loads/">has arrived quietly</a>, speeding up page loads with Happy Eyeballs v3 and QUIC v2. And the timing is perfect for you to switch. Google just removed uBlock Origin from the Chrome Web Store, leaving Firefox one of the last non-Chromium browsers still supporting it.</p><p>EndeavourOS 'Triton' is running late, so instead of that, the developers have introduced '<a href="https://endeavouros.com/news/titan-nova-is-available/">Titan Nova</a>' as a release mostly packed with hardware support enablement, misc fixes, Linux 7.1.8, and more.</p><p>Vanilla OS 3 'Reunion' is out <a href="https://itsfoss.com/news/vanilla-os-3-release/">with first-class ARM64 support</a>, reproducible images, and GNOME 50. New default apps include Ptyxis, Papers, and Resources, while snapshot backups come via the new Vanilla Continuity tool.</p><p>Virtual machines add a layer; containers share one kernel, but Multikernel's approach avoids both. It gives each workload its own full kernel on real hardware. The <a href="https://itsfoss.com/news/multikernel-public-release/">first public release</a> targets servers and SRE teams.</p><p>Do you own an Apple iPhone? Well, then you might be missing the Continuity feature on Linux. Luckily, a developer <a href="https://itsfoss.com/news/tether-apple-continuity-on-linux/">has managed to bring a comparable experience</a> with Tether, an open source app that carries iMessage, SMS, and OTP codes to Linux over Bluetooth.</p><p>Debian 11 "Bullseye" <a href="https://www.debian.org/News/2026/20260831">has reached end-of-life</a>, which means you have to either upgrade to a newer supported release, or stay on it, manually managing the security of your system.</p><p>Speaking of Debian, the <a href="https://itsfoss.com/news/cern-debian-push/">CERN lab is migrating 2200 of its control systems to Debian 13</a>. That's a massive win for all of us Linux users.</p><p><a href="https://itsfoss.com/news/libreoffice-26-8-release/">LibreOffice 26.8</a> contains no AI features, on purpose. TDF proudly markets its stance, promising that its office suite doesn't need to contact a server.</p><p>Germany's Sovereign Tech Agency <a href="https://modal.cx/blog/announcing-flatpak-sta/">is putting &euro;508,640 into Flatpak</a> over two years, involving a few other stakeholders. Seems like Flatpak is going to get stronger and more widespread.</p><p><strong>This edition of FOSS Weekly is supported by privacy service provider, </strong><a href="https://adguard.com?aid=135612" rel="noreferrer"><strong>AdGuard</strong></a><strong>.</strong></p>
-<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-immersive  kg-cta-has-img  ">
-            
-                <div class="kg-cta-sponsor-label-wrapper">
-                    <div class="kg-cta-sponsor-label">
-                        <span style="white-space: pre-wrap;">SPONSORED</span>
-                    </div>
-                </div>
-            
-            <div class="kg-cta-content">
-                
-                    <div class="kg-cta-image-container">
-                        <a href="https://adguard.com?aid=135612"><img alt="CTA Image" src="https://itsfoss.com/content/images/2026/09/Screenshot-From-2026-09-03-08-13-17.png" /></a>
-                    </div>
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><span style="white-space: pre-wrap;">If you do not want to set up and maintain Pi-hole, AdGuard is a better choice than browser-based ad blockers. </span><b><strong style="white-space: pre-wrap;">It blocks ads on your device, not just your browser</strong></b><span style="white-space: pre-wrap;">. Imagine using Android ad-free.</span><br /><br /><span style="white-space: pre-wrap;">They are running a 'Back to School' promo and you g</span><b><strong style="white-space: pre-wrap;">et 40% off a 1-year license</strong></b><span style="white-space: pre-wrap;"> or </span><b><strong style="white-space: pre-wrap;">30% off a lifetime one</strong></b><span style="white-space: pre-wrap;">. One subscription </span><b><strong style="white-space: pre-wrap;">protects up to 9 devices</strong></b><span style="white-space: pre-wrap;"> and you enjoy a clean, distraction-free Web. There is also a </span><b><strong style="white-space: pre-wrap;">60-day money-back guarantee</strong></b><span style="white-space: pre-wrap;"> (in case you do not like it).</span><br /><br /><span style="white-space: pre-wrap;">Offer ends on 3rd Sep. That is today. So hurry up &#8987;</span></p>
-                        </div>
-                    
-                    
-                        <a class="kg-cta-button " href="https://adguard.com?aid=135612" style="background-color: #000000; color: #ffffff;">
-                            Get AdGuard
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><!--kg-gated-block:end-->
-<h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>AI crawlers are scraping the Linux kernel repo <a href="https://itsfoss.com/news/linux-kernel-repo-ai-overrun/">in a way that results in unnecessary compute usage</a>, burning ~4.6 million times more compute for a worse copy of data that was always free to grab.</p><p>A community leader in open source, Debian, <a href="https://itsfoss.com/news/debian-allows-ai-contribution/">has voted to allow AI-assisted contributions</a>, and the community response has been predictably split. One long-time Debian developer even quit over it.</p><p>That's not the only divide. Omarchy is now a foundation backed by several tech leaders, 1Password CEO being one of them. And that has created a divide in both its employees and users. <a href="https://itsfoss.com/news/1password-omarchy-pledge/">This article provides context</a>.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>How often do you think about which filesystem to install your OS on? Or swapping your kernel for a real-time build when you need it? Or moving your whole install to a different machine without a license headache?</p><p>We list <a href="https://itsfoss.com/things-linux-can-window-not/">ten things Linux does casually</a> that Windows either can't do or actively prevents.</p><p>Ubuntu's built-in tiling is more capable than most people realize. We explore the various keyboard shortcuts, window gaps, and active window hints in <a href="https://itsfoss.com/ubuntu-tiling-windows/">the default Ubuntu Tiling Assistant</a>, then go further into the Tiling Shell extension for proper layout management.</p><p>If you are absolutely new to bash shell scripting, we have a <a href="https://itsfoss.com/bash-scripting-tutorial/">10-part, hands-on bash learning series for you</a>. Good starting point for Linux users.</p><p><a href="https://itsfoss.com/customize-grub-linux/">Grub Customizer is a handy tool</a> that lets you change boot order in a multi-boot system.</p>
-<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
-            
-            <div class="kg-cta-content">
-                
-                
-                    <div class="kg-cta-content-inner">
-                    
-                        <div class="kg-cta-text">
-                            <p><span style="white-space: pre-wrap;">Desktop Linux is mostly neglected by the industry but loved by the community. For the past 14 years, It's FOSS has been helping people use Linux on their personal computers. And we are now facing the existential threat from AI models stealing our content. </span></p><p><span style="white-space: pre-wrap;">If you like what we do and would love to support our work, please become It's FOSS Plus member. It costs $49 a year (less than the cost of a McDonald's burger a month), and you get an ad-free reading experience with the satisfaction of helping the desktop Linux community. And there are also free Linux ebooks.</span></p>
-                        </div>
-                    
-                    
-                        <a class="kg-cta-button " href="https://itsfoss.com/membership/" style="background-color: #000000; color: #ffffff;">
-                            Join It's FOSS Plus
-                        </a>
-                        
-                    </div>
-                
-            </div>
-        </div><!--kg-gated-block:end-->
-<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p>Switched routers, and now your headless Raspberry Pi can't go online? Pull the SD card, mount it on your Linux machine, then <a href="https://itsfoss.com/change-raspberry-pi-wi-fi-from-sd-card/">follow these steps</a>. &#128071;</p><p>Canonical has joined NVIDIA's <a href="https://ubuntu.com/blog/open-secure-ai-alliance">Open Secure AI Alliance</a>, a coalition focused on building open tools for securing AI agents and the software stacks they run on.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/image-toolbox/">Image Toolbox</a> is the app for you if your life revolves around creating and posting content on social media. It is fully open source, doesn't sell you ads, and also has AI powers.</p><figure class="kg-card kg-gallery-card kg-width-wide"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img alt="" height="2531" src="https://itsfoss.com/content/images/2026/09/image-toolbox.jpg" width="1214" /></div><div class="kg-gallery-image"><img alt="" height="2531" src="https://itsfoss.com/content/images/2026/09/image-toolbox-ai-tools-demo.jpg" width="1214" /></div><div class="kg-gallery-image"><img alt="" height="2531" src="https://itsfoss.com/content/images/2026/09/image-toolbox-presets-3.jpg" width="1214" /></div></div></div></figure><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>KDE's default terminal Konsole is an underrated but capable terminal emulator. <a href="https://youtu.be/WeOjWPYh4cU">Check out this video and learn a few new tips</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><figure class="kg-card kg-image-card"><img alt="gnome files grid view captions tip" class="kg-image" height="720" src="https://itsfoss.com/content/images/2026/09/show-captions.png" width="1206" /></figure><p>If you are using the <a href="https://itsfoss.com/nautilus-tips-tweaks/">Nautilus</a> file manager (<em>aka GNOME Files</em>), in the "<em>Icon</em>" options menu (<em>downwards arrow button</em>), go into "<em>Captions...</em>" and select "<em>Size</em>" and "<em>Detailed File Type</em>" captions for the "<em>First</em>" and "<em>Second</em>" options. </p><p>This way, you will be shown essential folder/file information without needing to go into the property view or the terminal.</p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Seeing that Linux <a href="https://www.linkedin.com/feed/update/urn:li:activity:7498225957804081152/">recently turned 35</a>, why not try your hand at <a href="https://itsfoss.com/quiz/linux-history-trivia/">a history trivia quiz</a>?</p><p>Firefox is still a strong force againsta everything Chrome.</p><figure class="kg-card kg-image-card"><img alt="" class="kg-image" height="1811" src="https://itsfoss.com/content/images/2026/09/firefox-meme.jpeg" width="1440" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: Happy 34th birthday to SUSE! &#127874;&#128154;</p><p>Founded on September 2, 1992, SUSE made history as the world&rsquo;s first provider of an Enterprise Linux distribution.</p><p>&#128161; Fun fact: The original name, S.u.S.E. GmbH, stood for "Software- und System-Entwicklung" (Software and Systems Development).</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: An old thread on the topic of <a href="https://itsfoss.community/t/summary-linux-distributions-for-32-bits/15398">Linux distros that still support 32-bit</a> has gone active again. Got any missing ones to add to the list?</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17439066.gif" width="1" />]]></description>
-      <category>Newsletter ✉️</category>
+      <title>В «Минск-Мире» открыли зарядный мега-хаб на 12 автомобилей</title>
+      <link>https://auto.onliner.by/go/1264619</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/06/v-minsk-mire-otkryli-zaryadnyj-mega-xab-na-12-avtomobilej</guid>
+      <pubDate>Sun, 06 Sep 2026 14:05:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/06/v-minsk-mire-otkryli-zaryadnyj-mega-xab-na-12-avtomobilej"><img alt="" src="https://content.onliner.by/news/thumbnail/96ddf39c489bce77d83d19b420ed5f96.jpg" /></a></p><p>Сеть Zaryadka открыла в «Минск-Мире» большой зарядный хаб. В него вошли шесть станций, которые могут одновременно принять до 12 электромобилей. Скорость зарядки можно выбирать — от медленной на ночь до быстрой на полчаса.</p><p><a href="https://auto.onliner.by/2026/09/06/v-minsk-mire-otkryli-zaryadnyj-mega-xab-na-12-avtomobilej">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
     </item>
     <item>
-      <title>1Password Just Pledged $300,000 to DHH's Omarchy, and its Own Employees Aren't Happy</title>
-      <link>https://feed.itsfoss.com/link/24361/17439067/1password-omarchy-pledge</link>
-      <guid isPermaLink="false">6a993723af07250001fdc271</guid>
-      <pubDate>Thu, 03 Sep 2026 13:03:20 +0000</pubDate>
-      <description><![CDATA[1password logo is floating above an illustration depicting angry people (left), two hands exchanging money and the omarchy logo with tagline (right)]]></description>
-      <category>News</category>
+      <title>«Танцевальная группа приехала на выступление». В Мозыре горел каршеринг</title>
+      <link>https://auto.onliner.by/go/1264609</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/06/tancevalnaya-gruppa-priexala-na-vystuplenie-v-mozyre-gorel-karshering</guid>
+      <pubDate>Sun, 06 Sep 2026 11:17:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/06/tancevalnaya-gruppa-priexala-na-vystuplenie-v-mozyre-gorel-karshering"><img alt="" src="https://content.onliner.by/news/thumbnail/26d1afca1d1e8f58adc2bb65fc9cd846.jpg" /></a></p><p>Вчера в Мозыре горел автомобиль Mini Clubman. Как сообщил очевидец, машина принадлежит сервису каршеринга.</p><p><a href="https://auto.onliner.by/2026/09/06/tancevalnaya-gruppa-priexala-na-vystuplenie-v-mozyre-gorel-karshering">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Ночное ДТП в центре Минска. 19-летний водитель Geely выехал на перекресток на красный</title>
+      <link>https://auto.onliner.by/go/1264598</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/06/nochnoe-dtp-v-centre-minska-19-letnij-voditel-geely-vyexal-na-perekrestok-na-krasnyj</guid>
+      <pubDate>Sun, 06 Sep 2026 10:44:57 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/06/nochnoe-dtp-v-centre-minska-19-letnij-voditel-geely-vyexal-na-perekrestok-na-krasnyj"><img alt="" src="https://content.onliner.by/news/thumbnail/69857ef27de90a04ae0cfbb1fade17f6.jpg" /></a></p><p>Этой ночью на перекрестке проспекта Независимости и улицы Сурганова произошла авария — столкнулись Geely и Lifan.</p><p><a href="https://auto.onliner.by/2026/09/06/nochnoe-dtp-v-centre-minska-19-letnij-voditel-geely-vyexal-na-perekrestok-na-krasnyj">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Девушке сделали предложение на концерте МОТа в Гродно. Фотофакт (обновлено)</title>
+      <link>https://people.onliner.by/go/1330006</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/06/grodno-otmechaet-den-goroda-v-programme-pevec-mot-i-festival-syra</guid>
+      <pubDate>Sun, 06 Sep 2026 10:43:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/06/grodno-otmechaet-den-goroda-v-programme-pevec-mot-i-festival-syra"><img alt="" src="https://content.onliner.by/news/thumbnail/92fbf12801f907caf8eb6cbf248467fd.jpg" /></a></p><p>Гродно отметил день рождения: ему исполнилось 898 лет. В честь этого город гудел: для жителей подготовили действительно разнообразные мероприятия. Вы представляете фестиваль сыра и концерт МОТа на одной площадке и в один день? А именно такая программа была заявлена. Показываем наш фоторепортаж. </p><p><a href="https://people.onliner.by/2026/09/06/grodno-otmechaet-den-goroda-v-programme-pevec-mot-i-festival-syra">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
     </item>
     <item>
       <title>Марафон добрых дел: МЧС выезжали на помощь котику и собаке (видео)</title>
@@ -157,14 +119,6 @@
       <pubDate>Sun, 06 Sep 2026 04:00:15 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/06/akp"><img alt="" src="https://content.onliner.by/news/thumbnail/6e29b0c2f24d1858e0f2efea1883a839.jpg" /></a></p><p>У современных автомобилей сплошь сложные и форсированные турбомоторы, а вдобавок — вариаторы и «роботы». Но все же есть модели, предлагающие и старый добрый «атмосферник», и гидромеханическую коробку, которую в народе зовут классическим «автоматом». Причем это не только модели японских и корейских марок, есть и европейские.</p><p><a href="https://auto.onliner.by/2026/09/06/akp">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Гродно отмечает день города. В программе — певец МОТ и фестиваль сыра</title>
-      <link>https://people.onliner.by/go/1330006</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/05/grodno-otmechaet-den-goroda-v-programme-pevec-mot-i-festival-syra</guid>
-      <pubDate>Sat, 05 Sep 2026 18:22:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/05/grodno-otmechaet-den-goroda-v-programme-pevec-mot-i-festival-syra"><img alt="" src="https://content.onliner.by/news/thumbnail/75b557ecd4465940c964f5d803870492.jpg" /></a></p><p>Гродно сегодня отмечает день рождения: ему исполнилось 898 лет. В честь этого город гудит: для жителей подготовили действительно разнообразные мероприятия. Вы представляете фестиваль сыра и концерт МОТа на одной площадке и в один день? А именно такая программа была объявлена на сегодня. Пока наш фотограф ждет возможности пропеть «Я разлюблю тебя, когда исчезнут города» (концерт начался в 21:00), показываем дневные снимки.</p><p><a href="https://people.onliner.by/2026/09/05/grodno-otmechaet-den-goroda-v-programme-pevec-mot-i-festival-syra">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Много сомбреро и острой еды. В Минске проходит фестиваль мексиканской культуры</title>
@@ -270,30 +224,6 @@
       <pubDate>Sat, 05 Sep 2026 09:24:40 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/05/vozle-stolichnogo-cirka-geely-vrezalsya-v-avtobus-i-vletel-v-fonar-postradal-podrostok"><img alt="" src="https://content.onliner.by/news/thumbnail/27c0ebe18b6fd341cc293befdd3e4d78.jpg" /></a></p><p>Авария возле столичного цирка на проспекте Независимости произошла вчера вечером. Один человек был доставлен в больницу. </p><p><a href="https://auto.onliner.by/2026/09/05/vozle-stolichnogo-cirka-geely-vrezalsya-v-avtobus-i-vletel-v-fonar-postradal-podrostok">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Непогода прошлась по областям. Больше всего пострадали машины</title>
-      <link>https://auto.onliner.by/go/1264501</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/05/nepogoda-proshlas-po-oblastyam-bolshe-vsego-postradali-mashiny</guid>
-      <pubDate>Sat, 05 Sep 2026 09:23:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/05/nepogoda-proshlas-po-oblastyam-bolshe-vsego-postradali-mashiny"><img alt="" src="https://content.onliner.by/news/thumbnail/95d422bd4139c8b0bc2f3514483bd125.jpg" /></a></p><p>Непогода прошлась по областям, у МЧС была нелегкая смена. Выезжать пришлось и в Брестской, и в Витебской, и в Гомельской, и в Минской областях и в самом Минске.</p><p><a href="https://auto.onliner.by/2026/09/05/nepogoda-proshlas-po-oblastyam-bolshe-vsego-postradali-mashiny">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Белые, польские, маслята, опята: пошли нормальные грибы (не везде)</title>
-      <link>https://people.onliner.by/go/1329786</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/05/poshli-normalnye-griby</guid>
-      <pubDate>Sat, 05 Sep 2026 09:19:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/05/poshli-normalnye-griby"><img alt="" src="https://content.onliner.by/news/thumbnail/375690c7995f4f3a7b72012467401b82.jpg" /></a></p><p>Мы достаточно терпели, глядя, как грибы выстреливают то в одном, то в другом углу страны. Видя иллюзорные успехи единиц, остальные грибники отправлялись проверять свои заветные места — и возвращались ни с чем. Самые слабые духом сетовали: <em>«Этот год потерян…»</em> Но, похоже, погодная истерика таки дала результат: буквально на днях рванули благородные грибы. Не везде! С помощью <a href="https://t.me/+9BcZRsnIb4A4ZDky" target="_blank">Грибного чата</a> выясняем, куда можно ехать, а куда… все равно можно.</p><p><a href="https://people.onliner.by/2026/09/05/poshli-normalnye-griby">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Шотландский замок на севере Беларуси. Усадьба, ради которой не жаль отмахать 300 километров</title>
-      <link>https://realt.onliner.by/go/1128464</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/05/belorusskij-xogvarts</guid>
-      <pubDate>Sat, 05 Sep 2026 05:00:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/05/belorusskij-xogvarts"><img alt="" src="https://content.onliner.by/news/thumbnail/0088a09ba84c779a8f2441a123012295.jpg" /></a></p><p>Почти у границы Беларуси, на берегу живописного озера, стоит самый настоящий «белорусский Хогвартс». В таком нейминге нет никакого преувеличения — в здании, будто перенесенном со страниц книг, и правда занимались дети. Однако случилось это уже на нашем веку. А до того усадьба успела побывать не только родовым имением, но и тюрьмой, больницей, исполкомом, домом престарелых. Рассказываем про главную достопримечательность Россон, о существовании которой многие даже не подозревают.</p><p><a href="https://realt.onliner.by/2026/09/05/belorusskij-xogvarts">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
   </channel>
 </rss>
