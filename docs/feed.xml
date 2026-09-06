@@ -5,9 +5,35 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 06 Sep 2026 14:59:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:02:46 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>«Мисс мира» — 2026 стала девушка из Доминиканы. Вот ее фото</title>
+      <link>https://people.onliner.by/go/1330116</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/06/miss-mira-2026-stala-devushka-iz-dominikany-vot-ee-foto</guid>
+      <pubDate>Sun, 06 Sep 2026 16:05:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/06/miss-mira-2026-stala-devushka-iz-dominikany-vot-ee-foto"><img alt="" src="https://content.onliner.by/news/thumbnail/f615bf92ed16296c15c952668636a4e8.jpg" /></a></p><p>Вчера состоялся финал 73-го по счету конкурса «Мисс Мира». В этом году он проходил во вьетнамском городе Нячанг. Корону забрала представительница Доминиканской Республики, <a href="https://www.missworld.com/news/joheirry-mola-of-the-dominican-republic-crowned-the-73rd-miss-world-in-a-historic-75th-anniversary-final-in-vietnam" target="_blank">сообщается</a> на сайте конкурса.</p><p><a href="https://people.onliner.by/2026/09/06/miss-mira-2026-stala-devushka-iz-dominikany-vot-ee-foto">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Девушка пошла на опасный обгон, во время него ушла в занос и разбилась насмерть. Видео</title>
+      <link>https://auto.onliner.by/go/1264627</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/06/devushka-poshla-na-opasnyj-obgon-vo-vremya-nego-ushla-v-zanos-i-razbilas-nasmert-video</guid>
+      <pubDate>Sun, 06 Sep 2026 15:54:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/06/devushka-poshla-na-opasnyj-obgon-vo-vremya-nego-ushla-v-zanos-i-razbilas-nasmert-video"><img alt="" src="https://content.onliner.by/news/thumbnail/f9a0851e77a888f8d5060770269289d3.jpg" /></a></p><p>Смертельная авария произошла сегодня около 14:30 на 143-м километре М-8 (вблизи деревни Гришаны). Там 26-летняя водитель Citroen разбилась на машине насмерть.</p><p><a href="https://auto.onliner.by/2026/09/06/devushka-poshla-na-opasnyj-obgon-vo-vremya-nego-ushla-v-zanos-i-razbilas-nasmert-video">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Switzerland's Federal Government is Replacing Microsoft on 3,000 Computers</title>
+      <link>https://feed.itsfoss.com/link/24361/17441270/switzerland-replace-microssoft-pilot</link>
+      <guid isPermaLink="false">6a9d7585af07250001fe8501</guid>
+      <pubDate>Sun, 06 Sep 2026 15:23:30 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/09/swiss-federal-migration.webp" /></figure>
+<p>Switzerland's federal government has launched a pilot program to replace Microsoft 365 with open source alternatives across 3,000 workstations. That's about 7% of the federal workforce. The target is to complete the migration by end of 2027. </p><p>This move follows a successful proof-of-concept and a new digital sovereignty law. A separate fast-track military migration is also already underway.</p><h2 id="the-great-migration-goes-into-the-pilot-phase">The great migration goes into the pilot phase</h2><p>The Federal Chancellery is investing CHF 9 million in an open-source workplace rollout for 3,000 federal employees.</p><p>On September 3, 2026, the Federal Council published results of "PoC BOSS", a feasibility proof-of-concept involving 172 federal employees who tested the <a href="https://www.opendesk.eu/en">openDesk</a> suite, a German open-source collaboration platform.</p><p>During the proof-of-concept phase, core office tasks like document processing and email received positive assessments, while large-scale video conferencing still showed technical limitations.</p><p>Based on the 'success' of the PoC phase with 172 employees, the pilot is now launched for 3,000 employees. </p><p>Do note that during the pilot phase, the new system runs in parallel with Microsoft 365 rather than replacing it outright. That's okay, I think. Migration of such kind should be gradual rather than sudden.</p><p>If the pilot is successful, we might expect the migration to continue on all the 54,000 workstations owned by the federal administrations. That's my guess.</p><h2 id="why">Why?</h2><p>According to Matthias St&uuml;rmer, professor at the Bern University of Applied Sciences (BFH), Microsoft&rsquo;s supremacy in public institutions poses three problems that are driving this migration.</p><p>First is the risk of foreign access. US cloud legislation could expose Swiss government data to foreign authorities.</p><p>Second is the risk to service continuity, as dependency on a single foreign vendor creates operational risk.</p><p>The third risk is the escalating costs as proprietary licensing fees are rising with no Swiss leverage.</p><h2 id="swiss-army-is-already-moving-faster">Swiss Army is already moving faster</h2><p>Switzerland's military cybersecurity unit, Cyber Command, is not waiting for the civilian pilot. It is <a href="https://cybernews.com/tech/swiss-army-microsoft/">already poised</a> to replace Microsoft 365 entirely with openDesk by October 2026.</p><p>It is pretty much the same reason. Military doesn't want foreign governments accessing sensitive Swiss data.</p><h2 id="part-of-a-bigger-plan">Part of a bigger plan</h2><p>Back in 2024, the <a href="https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland">EMBAG Law</a> came into effect. It requires all Swiss federal agencies to publish government-developed software as open source by default. The law also aims to promote digital sovereignty and encourage innovation and collaboration within the public sector.</p><p>Then in <a href="https://www.admin.ch/en/newnsb/2VPWG78YrVs4eAVeiklQx">December 2025</a>, the Federal Council designated digital sovereignty as a primary focus theme. It defines digital sovereignty as "the federal government being able to fulfil its essential mission without depending on an external supplier or country."</p><p>Which is essentially moving away from big tech companies from the USA. </p><p>Neighboring France and <a href="https://itsfoss.com/news/german-state-ditch-microsoft/" rel="noreferrer">Germany</a> have also been trying similar moves. Let's hope that the great Swiss migration succeeds and sets an example for other countries who may speed up their own plan of moving away from Microsoft.</p><p>By the way, Microsoft has deep pockets, so they are also <a href="https://www.swissinfo.ch/eng/swiss-ai/can-switzerland-work-without-microsoft/91745812">investing over CHF 325 million to expand AI</a> and cloud infrastructure in Switzerland, partly to reduce the sovereignty argument.</p><p>Let's see how things move from here, but so far, it is looking positive for us open source supporters.</p><p>Source: <a href="https://www.rts.ch/info/suisse/2026/article/microsoft-l-administration-federale-teste-des-alternatives-29346805.html">RTS</a></p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17441270.gif" width="1" />]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>В «Минск-Мире» открыли зарядный мега-хаб на 12 автомобилей</title>
       <link>https://auto.onliner.by/go/1264619</link>
@@ -178,52 +204,12 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>На самом загруженном перекрестке Каменной горки изменилась схема движения. Но не все это поняли</title>
-      <link>https://auto.onliner.by/go/1264523</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/05/na-samom-zagruzhennom-perekrestke-kamennoj-gorki-izmenilas-sxema-dvizheniya-no-ne-vse-eto-ponyali</guid>
-      <pubDate>Sat, 05 Sep 2026 11:11:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/05/na-samom-zagruzhennom-perekrestke-kamennoj-gorki-izmenilas-sxema-dvizheniya-no-ne-vse-eto-ponyali"><img alt="" src="https://content.onliner.by/news/thumbnail/1493dc527da1124daf55ddf43da5915c.jpg" /></a></p><p>Перекресток улиц Притыцкого и Лобанка (возле ТЦ Green City) в столице можно назвать самым загруженным в Каменной горке. С сентября тут <a href="https://auto.onliner.by/2026/08/31/izmenili-sxemu-dvizheniya-2" target="_blank">произошли</a> важные изменения. Теперь с Лобанка на улицу Притыцкого нельзя повернуть налево в сторону МКАД. Исключение — только для общественного транспорта. Вот только не все автолюбители даже спустя (почти) неделю в курсе о нововведениях.</p><p><a href="https://auto.onliner.by/2026/09/05/na-samom-zagruzhennom-perekrestke-kamennoj-gorki-izmenilas-sxema-dvizheniya-no-ne-vse-eto-ponyali">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В ООН одобрили новую карту мира</title>
-      <link>https://tech.onliner.by/go/791285</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/05/novaya-karta-mira</guid>
-      <pubDate>Sat, 05 Sep 2026 11:07:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/05/novaya-karta-mira"><img alt="" src="https://content.onliner.by/news/thumbnail/67be6618c9b30c55e2ca5368e93cfa5c.jpg" /></a></p><p>Организация Объединенных Наций <a href="https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa" target="_blank">проголосовала</a> за принятие резолюции, призывающей мир к отказу от традиционной карты мира с проекцией Меркатора в пользу карты, которая более точно отображает размеры Африки и других стран планеты. 164 страны проголосовали за резолюцию. Только США проголосовали против, еще шесть стран воздержались.</p><p><a href="https://tech.onliner.by/2026/09/05/novaya-karta-mira">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Белорус вложил больше 12 000 рублей в доработки для Belgee S50. Вот что получилось</title>
-      <link>https://auto.onliner.by/go/1264518</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/05/belorus-vlozhil-bolshe-12-000-rublej-v-dorabotki-dlya-belgee-s50-vot-chto-poluchilos</guid>
-      <pubDate>Sat, 05 Sep 2026 10:27:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/05/belorus-vlozhil-bolshe-12-000-rublej-v-dorabotki-dlya-belgee-s50-vot-chto-poluchilos"><img alt="" src="https://content.onliner.by/news/thumbnail/7860a534f7ec10dc5ef7e065ac4b02fd.jpg" /></a></p><p>Владелец вложил в доработки для Belgee S50 больше 12 000 рублей ($4000) и <a href="https://www.threads.com/@ukolov_kir/post/Dc3FQaUint6?xmt=AQG0mCcD932phBACpbGHBFBKgDQHemT7xI0XpYKPAbPJ-zQDr8nK4D4uXBkgfnsBzVcJqiaZ&amp;slof=1" target="_blank">показал</a> результат в Treads. Оценили, конечно, не все.</p><p><a href="https://auto.onliner.by/2026/09/05/belorus-vlozhil-bolshe-12-000-rublej-v-dorabotki-dlya-belgee-s50-vot-chto-poluchilos">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Грибники заблудились в лесу — они сами позвонили в МЧС (видео)</title>
-      <link>https://people.onliner.by/go/1329881</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/05/gribniki-zabludilis-v-lesu-oni-sami-pozvonili-v-mchs</guid>
-      <pubDate>Sat, 05 Sep 2026 09:26:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/05/gribniki-zabludilis-v-lesu-oni-sami-pozvonili-v-mchs"><img alt="" src="https://content.onliner.by/news/thumbnail/ff58999cd59f0ea236dfd37a225b18c1.jpg" /></a></p><p>В Глубокском районе супружеская пара заблудилась в лесу. Мужчина и женщина сами позвонили в МЧС и попросили о помощи.</p><p><a href="https://people.onliner.by/2026/09/05/gribniki-zabludilis-v-lesu-oni-sami-pozvonili-v-mchs">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>I Tried This Rust Tool, and It Immediately Made Bash Modern</title>
       <link>https://feed.itsfoss.com/link/24361/17440361/flyline</link>
       <guid isPermaLink="false">6a75d43f40b6c500011a6e06</guid>
       <pubDate>Sat, 05 Sep 2026 09:25:15 +0000</pubDate>
       <description><![CDATA[Flyline]]></description>
       <category>Terminal Tools</category>
-    </item>
-    <item>
-      <title>Возле столичного цирка Geely врезался в автобус и влетел в фонарь. Пострадал подросток</title>
-      <link>https://auto.onliner.by/go/1264505</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/05/vozle-stolichnogo-cirka-geely-vrezalsya-v-avtobus-i-vletel-v-fonar-postradal-podrostok</guid>
-      <pubDate>Sat, 05 Sep 2026 09:24:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/05/vozle-stolichnogo-cirka-geely-vrezalsya-v-avtobus-i-vletel-v-fonar-postradal-podrostok"><img alt="" src="https://content.onliner.by/news/thumbnail/27c0ebe18b6fd341cc293befdd3e4d78.jpg" /></a></p><p>Авария возле столичного цирка на проспекте Независимости произошла вчера вечером. Один человек был доставлен в больницу. </p><p><a href="https://auto.onliner.by/2026/09/05/vozle-stolichnogo-cirka-geely-vrezalsya-v-avtobus-i-vletel-v-fonar-postradal-podrostok">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
   </channel>
 </rss>
