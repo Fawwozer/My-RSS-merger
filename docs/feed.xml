@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 08 Sep 2026 16:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:46:25 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,7 +17,31 @@
       <category>News</category>
     </item>
     <item>
-      <title>На заправке нашли кота всего в зеленке. Спасти его не удалось</title>
+      <title>FreeCORE is What Your TrueNAS CORE Box Should Have</title>
+      <link>https://feed.itsfoss.com/link/24361/17442852/freecore-truenas-core-fork</link>
+      <guid isPermaLink="false">6a9fe1b2af07250001fe9009</guid>
+      <pubDate>Tue, 08 Sep 2026 17:11:04 +0000</pubDate>
+      <description><![CDATA[a penguin looks over to a screenshot of freecore's about info dialog]]></description>
+      <category>First Look</category>
+    </item>
+    <item>
+      <title>Поиск! Тестируем «домашний» интернет в Минске — нужна помощь читателей</title>
+      <link>https://tech.onliner.by/go/791710</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/08/poisk-testiruem-domashnij-internet-v-minske-nuzhna-pomoshh-chitatelej</guid>
+      <pubDate>Tue, 08 Sep 2026 16:50:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/08/poisk-testiruem-domashnij-internet-v-minske-nuzhna-pomoshh-chitatelej"><img alt="" src="https://content.onliner.by/news/thumbnail/2a14ccf2c0edeef43be66b2a1a641e08.jpg" /></a></p><p>Мы продолжаем тесты белорусского интернета в разнообразных сценариях. На этот раз собираемся проверить, как «домашние» проводные сети в Минске показывают себя в разное время: утром, когда нагрузка, по идее, минимальна, и вечером — в это время интернетом дома, как правило, пользуются активнее. </p><p><a href="https://tech.onliner.by/2026/09/08/poisk-testiruem-domashnij-internet-v-minske-nuzhna-pomoshh-chitatelej">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>На МКАД после аварии загорелся автомобиль. Видео (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1264917</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/08/na-mkad-posle-avarii-zagorelsya-avtomobil</guid>
+      <pubDate>Tue, 08 Sep 2026 16:16:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/08/na-mkad-posle-avarii-zagorelsya-avtomobil"><img alt="" src="https://content.onliner.by/news/thumbnail/0cdc2c0cff1be6e295fa22e22982df17.jpg" /></a></p><p>На Минской кольцевой произошла авария, после которой один из автомобилей загорелся. Фото с места происшествия прислал читатель Onlíner.</p><p><a href="https://auto.onliner.by/2026/09/08/na-mkad-posle-avarii-zagorelsya-avtomobil">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На заправке нашли кота, который был весь в зеленке. Спасти его не удалось</title>
       <link>https://people.onliner.by/go/1330649</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/09/08/na-zapravke-nashli-kota-oblitogo-zelenkoj-spasti-ego-ne-udalos</guid>
       <pubDate>Tue, 08 Sep 2026 15:53:30 +0000</pubDate>
@@ -187,31 +211,6 @@
       <pubDate>Tue, 08 Sep 2026 10:44:14 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/08/obnovlennye-modeli-sollers-uzhe-v-belarusi-chto-s-cenami"><img alt="" src="https://content.onliner.by/news/thumbnail/fc2205ac34ee36e05d07d54f9d094bd4.jpg" /></a></p><p>На белорусский рынок выходят рестайлинговые фургоны Sollers SF5 и городские минивэны SF1. Что собой представляет эта техника и каковы начальные цены, рассказали представители официального дилера марки в Беларуси.</p><p><a href="https://auto.onliner.by/2026/09/08/obnovlennye-modeli-sollers-uzhe-v-belarusi-chto-s-cenami">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>«Моана» с живыми актерами вышла в «цифре»</title>
-      <link>https://tech.onliner.by/go/791694</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/08/moana-s-zhivym-duejnom-dzhonsonom-vyshla-v-cifre</guid>
-      <pubDate>Tue, 08 Sep 2026 10:29:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/08/moana-s-zhivym-duejnom-dzhonsonom-vyshla-v-cifre"><img alt="" src="https://content.onliner.by/news/thumbnail/466f1b603f92255c3b95cba830fe8d37.jpg" /></a></p><p>Киноремейк «Моаны» официально появился в зарубежных онлайн-кинотеатрах. Если коротко, то версию проекта с настоящими живыми актерами, в отличие от оригинальной анимационной версии, зрители приняли достаточно холодно.</p><p><a href="https://tech.onliner.by/2026/09/08/moana-s-zhivym-duejnom-dzhonsonom-vyshla-v-cifre">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В каркаснике от госзастройщика предложили двушки всем желающим. А что по цене?</title>
-      <link>https://realt.onliner.by/go/1129175</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/08/v-karkasnike-ot-goszastrojshhika</guid>
-      <pubDate>Tue, 08 Sep 2026 10:13:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/08/v-karkasnike-ot-goszastrojshhika"><img alt="" src="https://content.onliner.by/news/thumbnail/242afff2939f6a9ca2395900563d2146.jpg" /></a></p><p><p>УКС Советского района снова предложил партию квартир в строящемся каркаснике на улице Волгоградской. Приобрести жилье может любой желающий. Стоимость «квадрата» — $1546 по курсу. Но не спешите радоваться: к итоговой стоимости недвижимости придется приплюсовать цену за обязательное машино-место.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/08/v-karkasnike-ot-goszastrojshhika">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Скрывали наличную выручку, теперь заплатят почти полмиллиона рублей налогов</title>
-      <link>https://money.onliner.by/go/345354</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/08/345354</guid>
-      <pubDate>Tue, 08 Sep 2026 10:06:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/08/345354"><img alt="" src="https://content.onliner.by/news/thumbnail/1ff8b8717408f41b45c401e70d67fd15.jpg" /></a></p><p>В Гомельской области организация готовила и доставляла суши, а выручку декларировала через раз. Налоговики обратили внимание на низкий процент налички и пришли с проверкой в пункт приготовления. Нашли записи о заказах, клиентах и исполнителях.</p><p><a href="https://money.onliner.by/2026/09/08/345354">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>A Clanker Pitted Fedora Against Windows 11. Fedora Won, Mostly</title>
