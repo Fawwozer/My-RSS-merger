@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 10 Sep 2026 15:54:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:28:07 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -22,6 +22,14 @@
 <!--kg-card-end: html-->
 <img height="1" src="https://feed.itsfoss.com/link/24361/17444086.gif" width="1" />]]></description>
       <category>Quizzes</category>
+    </item>
+    <item>
+      <title>Linux Kernel is Getting Ready to Purge 55,00 Lines of Old 32-bit Arm Platform Code</title>
+      <link>https://feed.itsfoss.com/link/24361/17444682/linux-kernel-old-arm-code-removal</link>
+      <guid isPermaLink="false">6aa2524bba8fa20001519be0</guid>
+      <pubDate>Thu, 10 Sep 2026 17:22:31 +0000</pubDate>
+      <description><![CDATA[a penguin is working on a laptop, and two floating illustrations showing an arm chip and a cross sign are beside it]]></description>
+      <category>News</category>
     </item>
     <item>
       <title>FOSS Weekly #26.37: Swiss Linux Move, Flyline, PPA Guide, Fedora Win Over Windows and More</title>
@@ -118,6 +126,46 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
+      <title>Вот это «ноздри»! В Минске представили обновленный BMW 7-Series</title>
+      <link>https://auto.onliner.by/go/1265317</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/10/bmw-7-series-neu</guid>
+      <pubDate>Thu, 10 Sep 2026 17:56:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/10/bmw-7-series-neu"><img alt="" src="https://content.onliner.by/news/thumbnail/6c12e50b9826615d447b9fc615cecb5f.jpg" /></a></p><p>Сегодня вечером в Минске официально представили обновленный BMW 7-Series. Показ прошел в автосалоне «Автоидея».</p><p><a href="https://auto.onliner.by/2026/09/10/bmw-7-series-neu">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На МКАД Mazda врезалась в технику дорожных рабочих (видео)</title>
+      <link>https://auto.onliner.by/go/1265327</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/10/na-mkad-mazda-vrezalas</guid>
+      <pubDate>Thu, 10 Sep 2026 17:50:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/10/na-mkad-mazda-vrezalas"><img alt="" src="https://content.onliner.by/news/thumbnail/aac34932bffdfd2b6c49e4547ad4fd14.jpg" /></a></p><p>Авария произошла вечером 10 сентября на внешнем кольце МКАД, сообщает ГАИ. В районе 10-го километра кольцевой 36-летний водитель Mazda врезался в водоналивной блок и прицеп прикрытия, которые использовались при проведении дорожных работ.</p><p><a href="https://auto.onliner.by/2026/09/10/na-mkad-mazda-vrezalas">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Минске столкнулись Volkswagen и троллейбус</title>
+      <link>https://auto.onliner.by/go/1265308</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/10/v-minske-stolknulis-volkswagen-i-trollejbus</guid>
+      <pubDate>Thu, 10 Sep 2026 17:21:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/10/v-minske-stolknulis-volkswagen-i-trollejbus"><img alt="" src="https://content.onliner.by/news/thumbnail/ac59a996520dc53fd760948a9be9d05d.jpg" /></a></p><p>На пересечении улиц Ангарской и Байкальской столкнулись Volkswagen и троллейбус. Причины и обстоятельства ДТП сейчас устанавливаются.</p><p><a href="https://auto.onliner.by/2026/09/10/v-minske-stolknulis-volkswagen-i-trollejbus">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Смолевичском районе Ford съехал с дороги и врезался в дерево. Водитель погиб</title>
+      <link>https://auto.onliner.by/go/1265279</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/10/v-smolevichskom-rajone-ford</guid>
+      <pubDate>Thu, 10 Sep 2026 17:06:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/10/v-smolevichskom-rajone-ford"><img alt="" src="https://content.onliner.by/news/thumbnail/32ce915f07e7bba0435a612a9a28b1f7.jpg" /></a></p><p>Смертельная авария произошла днем 10 сентября в Смолевичском районе, сообщает ГАИ Минской области. Около 15:15 на 15-м километре дороги Жодино — Зеленый Бор — Кленник 47-летний житель Жодино за рулем Ford, по предварительной информации, не справился с управлением.</p><p><a href="https://auto.onliner.by/2026/09/10/v-smolevichskom-rajone-ford">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Белоруска поменяла имя со второй попытки: «Родители до сих пор это не приняли»</title>
+      <link>https://people.onliner.by/go/1331175</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/10/beloruska-pomenyala-imya-so-vtoroj-popytki-roditeli-do-six-por-eto-ne-prinyali</guid>
+      <pubDate>Thu, 10 Sep 2026 16:30:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/10/beloruska-pomenyala-imya-so-vtoroj-popytki-roditeli-do-six-por-eto-ne-prinyali"><img alt="" src="https://content.onliner.by/news/thumbnail/bf8b6ce2e76f2ecd3e1511703122e35a.jpg" /></a></p><p>На днях в Threads белоруска поделилась фото «долгожданного документа». Это свидетельство о перемене имени. Никаких кардинальных изменений не произошло: девушка была Вероникой, а стала Верой. И тем не менее это событие оказалось очень для нее значимым. Официально поменять имя удалось только со второй попытки.</p><p><a href="https://people.onliner.by/2026/09/10/beloruska-pomenyala-imya-so-vtoroj-popytki-roditeli-do-six-por-eto-ne-prinyali">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
       <title>Очень опасный поворот, еще и в запрещенном месте. Видео из Минска</title>
       <link>https://auto.onliner.by/go/1265243</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/09/10/ochen-opasnyj-povorot-eshhe-i-v-zapreshhennom-meste-video-iz-minska</guid>
@@ -167,7 +215,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Частная медицина и образование: что хотят изменить в лицензировании</title>
+      <title>Домофоны, частная медицина и образование: что хотят изменить в лицензировании</title>
       <link>https://people.onliner.by/go/1331204</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/09/10/soveshhanie-po-licenzirovaniyu</guid>
       <pubDate>Thu, 10 Sep 2026 14:25:43 +0000</pubDate>
@@ -264,47 +312,6 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Белорусы хотят двоих детей, и чтобы те стали врачами: исследование</title>
-      <link>https://people.onliner.by/go/1331128</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/10/belorusy-xotyat-dvoix-detej</guid>
-      <pubDate>Thu, 10 Sep 2026 11:17:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/10/belorusy-xotyat-dvoix-detej"><img alt="" src="https://content.onliner.by/news/thumbnail/7efec5c3ccdd2c61da9cbc98d0f0c575.jpg" /></a></p><p><p dir="ltr">44,3% белорусов планируют или планировали иметь двоих детей с учетом своих реальных жизненных обстоятельств — такими результатами опроса поделился Институт социологии НАН Беларуси.</p><p><a href="https://people.onliner.by/2026/09/10/belorusy-xotyat-dvoix-detej">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Девушки бежали, машина ехала»: после наезда автомобиля пострадавшая убежала  (видео)</title>
-      <link>https://auto.onliner.by/go/1265046</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/10/devushki-bezhali-mashina-exala</guid>
-      <pubDate>Thu, 10 Sep 2026 10:54:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/10/devushki-bezhali-mashina-exala"><img alt="" src="https://content.onliner.by/news/thumbnail/e2bd3c19fe5b8876e7b7ff10d93036d0.png" /></a></p><p>На перекрестке улицы Орловской и Долгиновского тракта случилось ДТП, один из участников которого убежал. Девушки переходили дорогу по регулируемому пешеходному переходу, и на одну из них наехал автомобиль.</p><p><a href="https://auto.onliner.by/2026/09/10/devushki-bezhali-mashina-exala">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Sony отменила игру Хидео Кодзимы. Тот не отчаялся и ушел к Microsoft</title>
-      <link>https://tech.onliner.by/go/792103</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/10/sony-otmenila-igru-xideo-kodzimy-tot-ne-otchayalsya-i-ushel-k-microsoft</guid>
-      <pubDate>Thu, 10 Sep 2026 10:50:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/10/sony-otmenila-igru-xideo-kodzimy-tot-ne-otchayalsya-i-ushel-k-microsoft"><img alt="" src="https://content.onliner.by/news/thumbnail/f4d50939adc97c4d189f611405672e91.jpg" /></a></p><p>Речь идет о проекте Physint — тактическом шпионском экшене Хидео Кодзимы, анонсированном в июне 2024-го. Игра создавалась специально под PlayStation 5 совместно с Columbia Pictures и должна была стать эксклюзивом Sony. Однако сейчас Кодзима рассказал, что в середине июня получил от PlayStation Studios сообщение об отмене Physint. С тех пор Kojima Productions находилась в поисках нового партнера.</p><p><a href="https://tech.onliner.by/2026/09/10/sony-otmenila-igru-xideo-kodzimy-tot-ne-otchayalsya-i-ushel-k-microsoft">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Соседи не выдержали? Минчанка снова вышла загорать во двор ЖК, но отдых прервала милиция</title>
-      <link>https://realt.onliner.by/go/1129810</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/10/sosedi-ne-vyderzhali</guid>
-      <pubDate>Thu, 10 Sep 2026 10:48:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/10/sosedi-ne-vyderzhali"><img alt="" src="https://content.onliner.by/news/thumbnail/b7e9232dafc8e16e5a2ae97249d8022c.jpg" /></a></p><p><p>Помните <a href="https://realt.onliner.by/2026/08/17/smutila-sosedka-v-bikini" target="_blank">историю</a> минчанки, которая загорала на шезлонге во дворе ЖК «Парк Челюскинцев», чем вызвала бурное обсуждение в Threads? Оказалось, пляжная эпопея прямо под окнами многоэтажки получила неожиданное продолжение.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/10/sosedi-ne-vyderzhali">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Врач уехала в отпуск, а через неделю ее потребовали вернуться из-за жалобы. Законно ли это?</title>
-      <link>https://money.onliner.by/go/345718</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/10/vrach-uexala-v-otpusk-a-cherez-nedelyu-ee-potrebovali-vernutsya-iz-za-zhaloby-zakonno-li-eto</guid>
-      <pubDate>Thu, 10 Sep 2026 10:28:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/10/vrach-uexala-v-otpusk-a-cherez-nedelyu-ee-potrebovali-vernutsya-iz-za-zhaloby-zakonno-li-eto"><img alt="" src="https://content.onliner.by/news/thumbnail/009c76e346a6ce91f3c6a81e573e87d2.jpg" /></a></p><p>Белоруска-медик уехала с семьей в деревню более чем за 200 километров от дома и рассчитывала провести там весь 21-дневный отпуск. Но спустя неделю ей позвонили с работы: на женщину пожаловался пациент, поэтому от нее потребовали в течение двух дней приехать и написать объяснительную. О том, законно ли это, <a href="https://gp.by/novosti/obshchestvo/rabotnik-otkazyvaetsya-idti-v-otpusk-chto-delat-nanimatelyu-desyat-situatsiy-kotorye-mogut-proizoyti-1647240/">рассказали</a> в профсоюзе газеты «Гомельская правда».</p><p><a href="https://money.onliner.by/2026/09/10/vrach-uexala-v-otpusk-a-cherez-nedelyu-ee-potrebovali-vernutsya-iz-za-zhaloby-zakonno-li-eto">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Broadcom Kills Public VDDK Access to Tighten its Grip on VMware</title>
       <link>https://feed.itsfoss.com/link/24361/17443678/broadcom-removes-vmware-vddk-downloads</link>
       <guid isPermaLink="false">6aa10f4d13b3ea0001703e42</guid>
@@ -340,16 +347,6 @@
       <guid isPermaLink="false">6a9fa5efaf07250001fe8ea3</guid>
       <pubDate>Tue, 08 Sep 2026 13:59:18 +0000</pubDate>
       <description><![CDATA[arm64 written inside a white box, above which is the logo for the bottles project, on the right is a screenshot of bottles 67.3]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>A Clanker Pitted Fedora Against Windows 11. Fedora Won, Mostly</title>
-      <link>https://feed.itsfoss.com/link/24361/17441984/fedora-beats-windows-11</link>
-      <guid isPermaLink="false">6a9e972caf07250001fe8a9d</guid>
-      <pubDate>Mon, 07 Sep 2026 16:33:37 +0000</pubDate>
-      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/09/fedora-windows-robot-banner.png" /></figure>
-<p><a href="https://www.phonebuff.com">PhoneBuff</a> is a company that built its name by offering lab-tested, standardized reviews for smartphones run by robotic hands. Their <a href="https://www.youtube.com/@PhoneBuff/" rel="noreferrer">YouTube channel</a> showcases a range of assessments that cover speed tests, drop tests, and battery tests.</p><p>When viewers started poking them about trying Linux after a recent performance comparison they did between a Dell XPS 13 and MacBook Neo, they responded. </p><p>Taking two identical Dell XPS 13s with an Intel Core 5 320 and 8GB of RAM, one on Windows 11 and one on <a href="https://fedoraproject.org/">Fedora</a>, the PhoneBuff crew ran the same real-world apps and workflows on each, timed by their robot mouse and keyboard (<em>aka the </em><a href="https://en.wikipedia.org/wiki/Clanker"><em>clanker</em></a><em> in question</em>).</p><p>By the time testing concluded, Fedora won six of eleven timed tests while four tied, and Windows 11 took home a single win.</p><h2 id="fedora-vs-windows-11-on-same-hardware">Fedora vs. Windows 11 on same hardware</h2><figure class="kg-card kg-embed-card"></figure><p>Same settings too! The screens sat at 200 nits, both laptops stood an equal distance from the WiFi point, and the room stayed temperature controlled. Each test was run three to five times, with the <a href="https://en.wikipedia.org/wiki/Median" rel="noreferrer">median</a> value noted.</p><p>Boot from a full shutdown tied at 23 seconds for Windows and 24 seconds for Fedora, too close to call. Restarting did not. Fedora came back in 27 seconds, median; Windows took 61 seconds. Windows' five runs swung 46 to 68 seconds, Fedora's 23 to 34 seconds.</p><p><strong>The widest gap was files</strong>. Unzipping the same 6GB archive took Fedora's built-in tool 12 seconds. On Windows, using Windows Explorer, it was 57 seconds, and installing <a href="https://www.7-zip.org/">7-Zip</a> only got it down to 17.4 seconds.</p><p><strong>Next comes the result that ought to sting Microsoft</strong>. Running VS Code, the robot loaded an open source whiteboard project, scanned it for errors, compiled it, and ran close to 1,900 tests. Fedora was done in 2:20.5. Windows 11 needed 3:41.99.</p><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img alt="" height="801" src="https://itsfoss.com/content/images/2026/09/phonebuff-fedora-windows-restart.png" width="1712" /></div><div class="kg-gallery-image"><img alt="" height="801" src="https://itsfoss.com/content/images/2026/09/phonebuff-fedora-windows-native-file-extraction.png" width="1712" /></div><div class="kg-gallery-image"><img alt="" height="801" src="https://itsfoss.com/content/images/2026/09/phonebuff-fedora-windows-idle-ram-usage.png" width="1712" /></div></div></div><figcaption><p><i><em class="italic" style="white-space: pre-wrap;">Source: PhoneBuff</em></i></p></figcaption></figure><p><strong>The creative apps went the same way</strong>. DaVinci Resolve imported two clips, graded one, stabilized the other, and exported in 2:10.9 (Fedora) against 2:49.9 (Windows). A GIMP session on a 4K image, using tools like smudge, heal, and object removal, finished 53.3 seconds against 60.7 seconds.</p><p><strong>The everyday apps were mostly a tie</strong>. Chrome on a locally hosted page with video, 3D models, maps, and chart math finished in 19.3 seconds on Fedora against 19.8 on Windows.</p><p>The same 500-page document opened in ONLYOFFICE in 8.7 seconds against 9.3, while the OCR pass also went to Fedora, 36.6 seconds against 39.8.</p><p>Even the Blender render of the same 1080p scene ended even, 44.2 seconds against 43.5.</p><p><strong>Idle memory usage was another big gap</strong>. Left idle for a minute, Fedora used 32.9% of the 8GB while Windows sat at 85.2%. The video showed 2.27GB being used on Fedora against Windows' 6.47GB.</p><p>The lone Windows win was launching Cyberpunk 2077, 54.3 seconds against Fedora's 57.0-second launch. Though remember, that is a launch time number, not a frame rate, and PhoneBuff didn't run any gaming benchmarks.</p><h2 id="what-do-the-numbers-mean">What do the numbers mean?</h2><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="the final results of the tests phonebuff ran to compare fedora and windows on same hardware" class="kg-image" height="952" src="https://itsfoss.com/content/images/2026/09/phonebuff-fedora-windows-test.png" width="1712" /><figcaption><i><em class="italic" style="white-space: pre-wrap;">Source: PhoneBuff</em></i></figcaption></figure><p>Do not read too much into it yet. There are no AI workloads here, and as I just said, no gaming benchmarks either.</p><p>The presenter for PhoneBuff says at the beginning of the video that Fedora is one of the many Linux distros out there and that "<em>this won't necessarily represent every possible Linux experience</em>."</p><p>A different distro running a different <a href="https://itsfoss.com/what-is-desktop-environment/">desktop environment</a> will definitely move some of the gaps we see here.</p><p>The RAM gap comes with an asterisk too. Windows sat at 85.2% with a few Dell utilities, Defender (MsMpEng), and Edge WebView2 running by default, so Windows is not the only thing behind that 6.47GB number. <strong>Fedora simply started off with less baggage</strong>.</p><p>To summarize, the heavy tasks went to Fedora, sometimes by minutes, the everyday ones tied, and idle RAM sat at around a third on Linux against 85% on Windows.</p><p>That is all eleven tests can claim, so take them as data points, not a verdict.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17441984.gif" width="1" />]]></description>
       <category>News</category>
     </item>
   </channel>
