@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 12 Sep 2026 15:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:14:26 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -132,6 +132,14 @@
         </figure><p>Now, when you click on items with more than one window opened, you can get an overview-style screen that shows the opened windows of only those apps.</p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Since Omarchy is everywhere, how about <a href="https://itsfoss.com/quiz/omarchy-qa/">testing your Omarchy knowledge in this quiz</a>?</p><p>Yeah, Linux can sometimes be tricky. &#129325;</p><figure class="kg-card kg-image-card"><img alt="ironic linux friendly meme" class="kg-image" height="1733" src="https://itsfoss.com/content/images/2026/09/meme6761.jpg" width="1440" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On September 9, 1947, engineers working on Harvard&rsquo;s <a href="https://en.wikipedia.org/wiki/Harvard_Mark_II">Mark II</a> computer discovered a real moth trapped in <em>Relay #70</em>, causing a malfunction. They taped the moth <a href="https://en.wikipedia.org/wiki/Harvard_Mark_II#/media/File:First_Computer_Bug,_1947.jpg">into the logbook</a>, calling it the &ldquo;first actual case of bug being found.&rdquo;</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: FOSSers are discussing <a href="https://itsfoss.community/t/cern-moves-thousands-of-accelerator-control-computers-to-debian/16229">the recent CERN move</a> to opt for Debian instead of a Red Hat for their particle accelerator computers.</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17444269.gif" width="1" />]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>Diablo V, новый StarCraft и World of Warcraft: Forever. Главные анонсы BlizzCon 2026 (видео)</title>
+      <link>https://tech.onliner.by/go/792472</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/12/diablo-v-novyj-starcraft-i-world</guid>
+      <pubDate>Sat, 12 Sep 2026 19:24:32 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/12/diablo-v-novyj-starcraft-i-world"><img alt="" src="https://content.onliner.by/news/thumbnail/740db0539911dcca4f4cc3a6b351b1f7.jpg" /></a></p><p>Blizzard открыла BlizzCon 2026 сразу несколькими крупными анонсами. Компания показала новую StarCraft, назвала дату выхода Diablo V, представила World of Warcraft: Forever и рассказала о ближайших обновлениях Overwatch, Hearthstone и других своих игр. Собрали самое интересное.</p><p><a href="https://tech.onliner.by/2026/09/12/diablo-v-novyj-starcraft-i-world">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
     </item>
     <item>
       <title>Как делают троллейбусы и трамваи. День открытых дверей на «Белкоммунмаше»</title>
@@ -317,22 +325,6 @@
       <pubDate>Fri, 11 Sep 2026 13:16:29 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/11/svet-po-nocham-opasen"><img alt="" src="https://content.onliner.by/news/thumbnail/8a14791e4b40b5af5b9f21a3774638da.jpg" /></a></p><p><p dir="ltr">Воздействие света в ночное время связано с потенциально опасными изменениями структуры и функции сердца, а также повышенным риском сердечно-сосудистых заболеваний и смерти от них. К такому выводу пришли ученые, проводившие исследование, которое <a href="https://www.escardio.org/news/press/press-releases/too-much-light-at-night-changes-the-shape-and-working-of-the-heart/" target="_blank">опубликовали</a> в Европейском кардиологическом журнале.</p><p><a href="https://tech.onliner.by/2026/09/11/svet-po-nocham-opasen">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>В Таиланде настоятеля монастыря обвинили в хищении $2,8 миллиона пожертвований</title>
-      <link>https://money.onliner.by/go/345918</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/11/v-tailande-nastoyatelya</guid>
-      <pubDate>Fri, 11 Sep 2026 13:13:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/11/v-tailande-nastoyatelya"><img alt="" src="https://content.onliner.by/news/thumbnail/85c0a7f998806c09db084845d7ff5dd5.jpg" /></a></p><p>В Таиланде задержали 66-летнего настоятеля одного из старейших буддийских монастырей страны. Следствие считает, что за два года из средств храма было похищено более 92 млн батов — около $2,8 млн. Об этом <a href="https://www.straitstimes.com/asia/se-asia/thai-abbot-arrested-in-s3-55-million-embezzlement-sex-scandal">сообщил</a> портал Straitstimes.</p><p><a href="https://money.onliner.by/2026/09/11/v-tailande-nastoyatelya">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Broadcom Kills Public VDDK Access to Tighten its Grip on VMware</title>
-      <link>https://feed.itsfoss.com/link/24361/17443678/broadcom-removes-vmware-vddk-downloads</link>
-      <guid isPermaLink="false">6aa10f4d13b3ea0001703e42</guid>
-      <pubDate>Wed, 09 Sep 2026 17:42:00 +0000</pubDate>
-      <description><![CDATA[vmware by broadcom logo along with a red alert s]]></description>
-      <category>News</category>
     </item>
   </channel>
 </rss>
