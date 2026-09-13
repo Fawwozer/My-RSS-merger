@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 12 Sep 2026 20:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 03:27:01 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -317,14 +317,6 @@
       <pubDate>Fri, 11 Sep 2026 13:39:50 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/11/sbil-peshexoda-3"><img alt="" src="https://content.onliner.by/news/thumbnail/45d17f99ce6744a952f9f1019f94935e.jpg" /></a></p><p>Госавтоинспекция Минской области сообщает, что сегодня около 14:40 по улице Луговой в деревне Вишневка 55-летний водитель мусоровоза при движении задним ходом наехал на 50-летнего пешехода, который был позади автомобиля.</p><p><a href="https://auto.onliner.by/2026/09/11/sbil-peshexoda-3">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Мешает свет по ночам? Это может быть опасно для здоровья</title>
-      <link>https://tech.onliner.by/go/792379</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/11/svet-po-nocham-opasen</guid>
-      <pubDate>Fri, 11 Sep 2026 13:16:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/11/svet-po-nocham-opasen"><img alt="" src="https://content.onliner.by/news/thumbnail/8a14791e4b40b5af5b9f21a3774638da.jpg" /></a></p><p><p dir="ltr">Воздействие света в ночное время связано с потенциально опасными изменениями структуры и функции сердца, а также повышенным риском сердечно-сосудистых заболеваний и смерти от них. К такому выводу пришли ученые, проводившие исследование, которое <a href="https://www.escardio.org/news/press/press-releases/too-much-light-at-night-changes-the-shape-and-working-of-the-heart/" target="_blank">опубликовали</a> в Европейском кардиологическом журнале.</p><p><a href="https://tech.onliner.by/2026/09/11/svet-po-nocham-opasen">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
   </channel>
 </rss>
