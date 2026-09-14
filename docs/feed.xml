@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:33:32 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -145,7 +145,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Под Логойском во двор забрела белая лиса</title>
+      <title>Под Логойском во двор забрела лиса уникального окраса</title>
       <link>https://people.onliner.by/go/1332252</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/09/14/pod-logojskom-vo-dvor-zabrela-belaya-lisa</guid>
       <pubDate>Mon, 14 Sep 2026 11:54:02 +0000</pubDate>
