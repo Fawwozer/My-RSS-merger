@@ -5,9 +5,26 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 15 Sep 2026 16:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:54:33 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>В Минске — новый автоцентр Avatr. Представлена модель с разгоном до «сотни» быстрее 3 секунд</title>
+      <link>https://auto.onliner.by/go/1265958</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/15/novyj-avtocentr-avatr</guid>
+      <pubDate>Tue, 15 Sep 2026 18:26:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/15/novyj-avtocentr-avatr"><img alt="" src="https://content.onliner.by/news/thumbnail/0e85f8e9794e87299fa1d4d316fbe37e.jpg" /></a></p><p>Сегодня в Минске, на улице Каменногорской, 11, открылся новый автоцентр бренда Avatr. Показали и новую модель — электрический кроссовер Avatr 06T, появившийся в этом году. Беларусь стала первым экспортным рынком новой модели.
+</p><p><a href="https://auto.onliner.by/2026/09/15/novyj-avtocentr-avatr">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Ubuntu's Rustification Has a New Milestone! Coreutils Migration is Complete</title>
+      <link>https://feed.itsfoss.com/link/24361/17462674/ubuntu-rustification-coreutils-migration</link>
+      <guid isPermaLink="false">6aa90c2eba8fa20001526e1f</guid>
+      <pubDate>Tue, 15 Sep 2026 16:21:36 +0000</pubDate>
+      <description><![CDATA[ubuntu logo containing the rust project logo, and a crab holding them all up]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>Пассажирский Boeing начал разваливаться в воздухе. Видео из салона (видео)</title>
       <link>https://people.onliner.by/go/1332649</link>
@@ -97,7 +114,7 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>США впервые подтвердили размещение оружия в космосе</title>
+      <title>Американцы разместили космическое оружие на орбите Земли</title>
       <link>https://tech.onliner.by/go/792844</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/09/15/ssha-razmestili-oruzhie-v-kosmose</guid>
       <pubDate>Tue, 15 Sep 2026 14:35:25 +0000</pubDate>
@@ -211,14 +228,6 @@
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/15/kak-zhivet-nastoyashhij-polesskij-robinzon"><img alt="" src="https://content.onliner.by/news/thumbnail/72902d9ca68abb4788cad59a75955f92.jpg" /></a></p><p>Борису Теслюку 75 лет. Он родился на Полесье, на берегу Припяти. Успел пожить в разных местах — добрался даже до Якутии — но со временем все равно вернулся домой, в деревню Переров. Кстати, она официально признана центром сохранения уникального полесского промысла — выдолбленных из цельного дуба челнов. Умеет их делать своими руками и наш герой. И не просто умеет, а действительно использует в повседневной жизни. Как это выглядит, смотрите в нашем фоторепортаже.
 </p><p><a href="https://people.onliner.by/2026/09/15/kak-zhivet-nastoyashhij-polesskij-robinzon">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Обнаружен лед, температура которого выше плавления стали. Как такое возможно?</title>
-      <link>https://tech.onliner.by/go/792736</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/15/ochen-goryachij-led</guid>
-      <pubDate>Tue, 15 Sep 2026 11:33:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/15/ochen-goryachij-led"><img alt="" src="https://content.onliner.by/news/thumbnail/ee7e428d57ac91a32a3883320861e1e6.jpg" /></a></p><p><p dir="ltr">Астрономы обнаружили в Солнечной системе необычную форму водяного льда, температура которого намного <a href="https://www.iflscience.com/ice-hotter-than-molten-steel-exists-inside-neptune-and-uranus-scientists-finally-recreated-it-in-the-lab-84643" target="_blank">выше</a> той, что требуется для плавления стали. Такой лед находится в глубинах Нептуна и Урана, а его необычайно высокая температура возникает из-за невероятно высокого давления.</p><p><a href="https://tech.onliner.by/2026/09/15/ochen-goryachij-led">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
     </item>
     <item>
       <title>Paperweight: An Open Source App to Clean Up Your Inbox and Digital Footprint</title>
