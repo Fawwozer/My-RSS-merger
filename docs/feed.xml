@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 15 Sep 2026 20:54:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:35:06 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>The Simplest Method to Extract All Images from a Document in LibreOffice</title>
+      <link>https://feed.itsfoss.com/link/24361/17463130/extract-all-images-office</link>
+      <guid isPermaLink="false">69d33cb1123c2f00010eb082</guid>
+      <pubDate>Wed, 16 Sep 2026 02:56:15 +0000</pubDate>
+      <description><![CDATA[Extract All Images from a Document in LibreOffice]]></description>
+      <category>LibreOffice 📄</category>
+    </item>
     <item>
       <title>В Минске — новый автоцентр Avatr. Представлена модель с разгоном до «сотни» быстрее 3 секунд</title>
       <link>https://auto.onliner.by/go/1265958</link>
