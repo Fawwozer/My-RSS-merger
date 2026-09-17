@@ -5,9 +5,25 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 17 Sep 2026 03:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:04:05 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>The Famed PS5 Linux Project Lead Quits Over a Premature Exploit Report to Sony</title>
+      <link>https://feed.itsfoss.com/link/24361/17464369/ps5-linux-lead-quits</link>
+      <guid isPermaLink="false">6aab75e6922f5a000126e1b8</guid>
+      <pubDate>Thu, 17 Sep 2026 09:11:44 +0000</pubDate>
+      <description><![CDATA[ps5 linux project and hackerone logos]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>How an Italian Logistics Company Moved From Windows to Linux: A Real Migration Story</title>
+      <link>https://feed.itsfoss.com/link/24361/17464323/italian-logistics-company-migration</link>
+      <guid isPermaLink="false">6aaa60b6922f5a000126d6c2</guid>
+      <pubDate>Thu, 17 Sep 2026 07:51:08 +0000</pubDate>
+      <description><![CDATA[Zerolock migration]]></description>
+      <category>Linux Stories</category>
+    </item>
     <item>
       <title>I Spent Time With GeForce NOW to See If It's Gameable on Linux</title>
       <link>https://feed.itsfoss.com/link/24361/17463310/geforce-now-linux-review</link>
@@ -17,212 +33,218 @@
       <category>Gaming 🎮</category>
     </item>
     <item>
-      <title>Что присходит до съемок и зачем нужны кинофестивали? В Минске расскажут об «изнанке кино»</title>
-      <link>https://people.onliner.by/go/1332888</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/16/chto-prisxodit-do-semok-i-zachem-nuzhny-kinofestivali-v-minske-rasskazhut-ob-iznanke-kino</guid>
-      <pubDate>Wed, 16 Sep 2026 16:15:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/16/chto-prisxodit-do-semok-i-zachem-nuzhny-kinofestivali-v-minske-rasskazhut-ob-iznanke-kino"><img alt="" src="https://content.onliner.by/news/thumbnail/8e4ea528aee292e72fd42d1598201ea0.jpg" /></a></p><p><p dir="ltr">С 1 октября по 26 ноября в кинотеатре Skyline Cinema в ТРЦ Galileo <a href="https://skyline.by/afisha/czikl-lekczij-absolute-cinema-chto-takoe-kinofestivali-i-kak-oni-formiruyut-to-chto-potom-budut-smotret-vse/">пройдет</a> цикл из пяти встреч для любителей кино. На лекциях расскажут, что происходит с фильмом до и после съемок: о влиянии продюсеров на авторский замысел, продвижении картин и решениях, которые могут изменить дальнейшую судьбу фильмов. Отдельно разберут тему кинофестивалей: какая их роли в индустрии, как происходит отбор фильмов и что влияет на интерес зрителей.<br /></p>
-<p dir="ltr">Еще одна тема — популярность спин-оффов, приквелов и перезапусков. Среди спикеров — режиссеры, продюсер, блогеры маркетологи и киножурналист.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/09/16/chto-prisxodit-do-semok-i-zachem-nuzhny-kinofestivali-v-minske-rasskazhut-ob-iznanke-kino">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Сделал звонок из Беларуси через сеть литовского оператора. Вот как это произошло</title>
-      <link>https://tech.onliner.by/go/793047</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/16/sdelal-zvonok-iz-belarusi-cherez-set-litovskogo-operatora-vot-kak-eto-proizoshlo</guid>
-      <pubDate>Wed, 16 Sep 2026 14:50:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/16/sdelal-zvonok-iz-belarusi-cherez-set-litovskogo-operatora-vot-kak-eto-proizoshlo"><img alt="" src="https://content.onliner.by/news/thumbnail/d7235747259c0d5f384fe1541b9e54fd.jpg" /></a></p><p>В нашу редакцию обратился читатель, который столкнулся с подключением к сети зарубежного оператора, при этом не покидая Беларусь. По его словам, 19 августа он двигался на автомобиле со стороны городского поселка Видзы в направлении города Поставы. В районе деревни Ждегели он совершил телефонный звонок, который продлился одну минуту. По его словам, после того, как звонок завершился, на экране его смартфона появилось сообщение от белорусского оператора о том, что мужчина подключился к сети литовской компании. Чуть позже — уведомление о том, что он будто бы пересек границу между Беларусью и Литвой.
-</p><p><a href="https://tech.onliner.by/2026/09/16/sdelal-zvonok-iz-belarusi-cherez-set-litovskogo-operatora-vot-kak-eto-proizoshlo">Читать далее…</a></p>]]></description>
+      <title>Неизвестные пытались завладеть данными юзеров через уведомления якобы от Zoom</title>
+      <link>https://tech.onliner.by/go/793194</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/neizvestnye-pytalis-zavladet-dannymi-yuzerov-cherez-uvedomleniya-yakoby-ot-zoom</guid>
+      <pubDate>Thu, 17 Sep 2026 10:50:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/neizvestnye-pytalis-zavladet-dannymi-yuzerov-cherez-uvedomleniya-yakoby-ot-zoom"><img alt="" src="https://content.onliner.by/news/thumbnail/8254806986f284993b03592baa1ced8d.jpg" /></a></p><p>Обнаружены фишинговые атаки, в которых неизвестные рассылают на корпоративные адреса поддельные уведомления от имени Zoom и Docusign. Цель подобных писем, как уточняют в Kaspersky, получить учетные и личные данные пользователей, а в некоторых случаях — реквизиты банковских карт.</p><p><a href="https://tech.onliner.by/2026/09/17/neizvestnye-pytalis-zavladet-dannymi-yuzerov-cherez-uvedomleniya-yakoby-ot-zoom">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Белорусы стали больше тратить в магазинах. В среднем выходит 34 рубля в день</title>
-      <link>https://money.onliner.by/go/346524</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/16/belorusy-stali-bolshe-tratit</guid>
-      <pubDate>Wed, 16 Sep 2026 14:45:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/16/belorusy-stali-bolshe-tratit"><img alt="" src="https://content.onliner.by/news/thumbnail/d5cd7c079c5ca0a35e37a205b9590060.jpg" /></a></p><p>За первые восемь месяцев 2026 года на одного жителя Беларуси приходилось в среднем 34,2 рубля розничного товарооборота в день. Год назад показатель был на 3 рубля меньше. Новые данные опубликовал Белстат.</p><p><a href="https://money.onliner.by/2026/09/16/belorusy-stali-bolshe-tratit">Читать далее…</a></p>]]></description>
+      <title>В Минске появился первый зарядный дискаунтер в пределах МКАД</title>
+      <link>https://auto.onliner.by/go/1266267</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/zaryadnyj-diskaunter</guid>
+      <pubDate>Thu, 17 Sep 2026 10:42:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/zaryadnyj-diskaunter"><img alt="" src="https://content.onliner.by/news/thumbnail/65439a92fbba28278b04f8e3d16474d7.jpg" /></a></p><p>Сеть Zaryadka открыла зарядный дискаунтер на улице Семашко, дом №8, рядом с 9-й городской клинической больницей, автошколой ДОСААФ и автодромом ГАИ. Стоимость зарядки здесь почти на 30% ниже обычного — 0,48 рубля за кВт·ч.</p><p><a href="https://auto.onliner.by/2026/09/17/zaryadnyj-diskaunter">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Гостю ресторана включили в счет дополнительные €7 за «фоновую музыку»</title>
+      <link>https://money.onliner.by/go/346589</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/gostyu-restorana</guid>
+      <pubDate>Thu, 17 Sep 2026 10:28:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/gostyu-restorana"><img alt="" src="https://content.onliner.by/news/thumbnail/3f6ab8f6a6d7e60aff0bface53103e4e.jpg" /></a></p><p>Итальянка Симона Пера, приехавшая в Венецию из Тосканы, получила неожиданный сюрприз во время визита в знаменитое кафе Caffè Florian на площади Сан‑Марко. В ее счете появилась строка «supplement musica» — доплата за живое музыкальное сопровождение в размере €7, что довело итоговую сумму до €72 за два круассана и два Aperol Spritz, <a href="https://www.dailymail.com/travel/article-16138321/Tourist-7-euro-surcharge-background-music-Venice.html" target="_blank">пишет</a> Daily Mail.</p><p><a href="https://money.onliner.by/2026/09/17/gostyu-restorana">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>«Просто отредактировал сообщение в Viber». Как арендодатель остался с деньгами квартирантов</title>
-      <link>https://realt.onliner.by/go/1130866</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/16/prosto-otredaktiroval-soobshhenie-v-viber-kak-arendodatel-ostalsya-s-dengami-kvartirantov</guid>
-      <pubDate>Wed, 16 Sep 2026 14:39:48 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/16/prosto-otredaktiroval-soobshhenie-v-viber-kak-arendodatel-ostalsya-s-dengami-kvartirantov"><img alt="" src="https://content.onliner.by/news/thumbnail/fa0874febdc5bd4411647014c1e7bea0.jpg" /></a></p><p>Специфическими, как известно, бывают не только квартиранты, но и арендодатели. Своим опытом взаимодействия с собственником квартиры, расположенной возле ПВТ, поделился пользователь нашего форума.
-</p><p><a href="https://realt.onliner.by/2026/09/16/prosto-otredaktiroval-soobshhenie-v-viber-kak-arendodatel-ostalsya-s-dengami-kvartirantov">Читать далее…</a></p>]]></description>
+      <title>«C грибами в этом сезоне все». Белоруску сильно испугала змея на дереве</title>
+      <link>https://people.onliner.by/go/1332980</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/zmeya-na-dereve</guid>
+      <pubDate>Thu, 17 Sep 2026 10:08:14 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/zmeya-na-dereve"><img alt="" src="https://content.onliner.by/news/thumbnail/b1f2914f9fd0b020ca4fa1048a183072.jpg" /></a></p><p><p dir="ltr">Беларуска отправилась в лес за грибами, но вместо этого нашла змею, которая забралась на дерево. Фотографиями встречи она поделилась в Threads.</p><p><a href="https://people.onliner.by/2026/09/17/zmeya-na-dereve">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Новый iPhone 18 Pro Max назвали самым быстро заряжающимся смартфоном Apple в истории</title>
+      <link>https://tech.onliner.by/go/793169</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/novyj-iphone-18-pro-max-nazvali-samym-bystro-zaryazhayushhimsya-smartfonom-apple-v-istorii</guid>
+      <pubDate>Thu, 17 Sep 2026 09:35:46 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/novyj-iphone-18-pro-max-nazvali-samym-bystro-zaryazhayushhimsya-smartfonom-apple-v-istorii"><img alt="" src="https://content.onliner.by/news/thumbnail/e1360f00cfe34ca9acb9ea68c7e00e08.jpg" /></a></p><p>Продажи новых iPhone 18 Pro и 18 Pro Max стартуют 18 сентября. Впрочем, некоторые блогеры, СМИ и прочие энтузиасты получили доступ к аппаратам раньше. Так, инсайдер Ice universe сообщает: модель Pro Max этого года «заряжается быстрее, чем любой другой айфон до нее». На это <a href="https://www.gsmarena.com/the_iphone_18_pro_max_is_the_fastestcharging_iphone_ever-news-74652.php" target="_blank">обратили</a> внимание в GSMArena.</p><p><a href="https://tech.onliner.by/2026/09/17/novyj-iphone-18-pro-max-nazvali-samym-bystro-zaryazhayushhimsya-smartfonom-apple-v-istorii">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Новый мотор и не только. Изучили Lada Niva Legend и узнали цены (обновлено)</title>
+      <link>https://auto.onliner.by/go/1266156</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/izuchili-lada-niva-legend</guid>
+      <pubDate>Thu, 17 Sep 2026 09:24:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/izuchili-lada-niva-legend"><img alt="" src="https://content.onliner.by/news/thumbnail/c0219c1b01b8ca3ea2cc295cff54087a.jpg" /></a></p><p>Накануне 50-летнего юбилея (его будут отмечать в следующем году) знаменитый тольяттинский внедорожник был серьезно модернизирован. В общей сложности внедрено более 350 новых или переработанных деталей и компонентов. Доработана подвеска, улучшена эргономика, некоторые кузовные панели получили оцинковку, ну а главное, теперь под капотом у Niva Legend совершенно новый для нее двигатель. Изучили все изменения в статике во время презентации, устроенной официальным импортером Lada в Беларуси.</p><p><a href="https://auto.onliner.by/2026/09/17/izuchili-lada-niva-legend">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Девушка пожаловалась на сложности поиска жилья с кошкой. Что ответили арендодатели?</title>
+      <link>https://realt.onliner.by/go/1131105</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/chto-vam-sdelali-zhivotnye</guid>
+      <pubDate>Thu, 17 Sep 2026 09:18:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/chto-vam-sdelali-zhivotnye"><img alt="" src="https://content.onliner.by/news/thumbnail/93570c10ca17cffb5c9a80affd0e3429.jpg" /></a></p><p><p>Поиск съемного жилья для владельцев домашних животных часто превращается в настоящий квест. В соцсетях разгорелась очередная дискуссия: девушка задалась вопросом, почему наличие кошки мгновенно закрывает перед квартирантами большинство дверей, даже если они готовы компенсировать возможные риски.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/09/17/chto-vam-sdelali-zhivotnye">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>«Если у вас iPhone 17 Pro, причин обновляться нет». Обзор обзоров iPhone 18 Pro</title>
-      <link>https://tech.onliner.by/go/793060</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/16/esli-u-vas-iphone-17-pro-prichin-obnovlyatsya-net-obzor-obzorov-iphone-18-pro</guid>
-      <pubDate>Wed, 16 Sep 2026 14:30:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/16/esli-u-vas-iphone-17-pro-prichin-obnovlyatsya-net-obzor-obzorov-iphone-18-pro"><img alt="" src="https://content.onliner.by/news/thumbnail/5a710ff096d096d0fcb2dc3bd3418da6.jpg" /></a></p><p>Новые флагманские смартфоны от компании Apple, iPhone 18 Pro и 18 Pro Max, стартуют в продаже через два дня — 18 сентября. Но некоторые крупные профильные СМИ и блогеры уже получили тестовые девайсы заранее, чтобы успеть выпустить обзорные материалы. Посмотрели, что журналистам подобных изданий понравилось в устройствах больше всего, что, напротив, скорее озадачило, и какие общие выводы они делают. </p><p><a href="https://tech.onliner.by/2026/09/16/esli-u-vas-iphone-17-pro-prichin-obnovlyatsya-net-obzor-obzorov-iphone-18-pro">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В Минске водитель Hyundai при развороте врезался в Citroen, а грузовик вылетел с дороги (видео)</title>
-      <link>https://auto.onliner.by/go/1266078</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/16/gruzovik-vyletel-s-dorogi</guid>
-      <pubDate>Wed, 16 Sep 2026 14:24:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/16/gruzovik-vyletel-s-dorogi"><img alt="" src="https://content.onliner.by/news/thumbnail/f0b3f948fa58e6b481156b4388a70a41.jpg" /></a></p><p>Сегодня 43-летний водитель Hyundai при развороте на перекрестке улиц Долгобродской и Буденного не предоставил преимущество автомобилю Citroen и столкнулся с ним. </p><p><a href="https://auto.onliner.by/2026/09/16/gruzovik-vyletel-s-dorogi">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Бронирования и заказы уничтожены». Главная страница сайта Tez Tour сейчас выглядит так (обновлено)</title>
-      <link>https://money.onliner.by/go/346340</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/16/s-tez-tour-chto-to-sluchilos-glavnaya-stranica-sajta-sejchas-vyglyadit-tak</guid>
-      <pubDate>Wed, 16 Sep 2026 14:15:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/16/s-tez-tour-chto-to-sluchilos-glavnaya-stranica-sajta-sejchas-vyglyadit-tak"><img alt="" src="https://content.onliner.by/news/thumbnail/ec06d0585cf451e570dc5db91104494b.jpg" /></a></p><p>Судя по тому, как сейчас выглядит главная страница сайта туроператора Tez Tour, клиентам придется проститься с мечтами об отдыхе. При попытке открыть сайт появляется надпись:<em> «DATASUCKERS взломали TEZ TOUR. Все сервера скомпрометированы. Выкачано и уничтожено: 45 398 685 записей бронирований, 21 515 914 заказов туров, 52 176 283 бронирований отелей и 252 300 000 финансовых транзакций. Итого: 395 500 000 записей — безвозвратно утеряны».</em></p><p><a href="https://money.onliner.by/2026/09/16/s-tez-tour-chto-to-sluchilos-glavnaya-stranica-sajta-sejchas-vyglyadit-tak">Читать далее…</a></p>]]></description>
+      <title>Белорус годами просил деньги у знакомых и не возвращал. Теперь его ждет тюрьма</title>
+      <link>https://money.onliner.by/go/346576</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/belorus-godami-prosil-dengi-u-znakomyx-i-ne-vozvrashhal-teper-ego-zhdet-tyurma</guid>
+      <pubDate>Thu, 17 Sep 2026 09:03:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/belorus-godami-prosil-dengi-u-znakomyx-i-ne-vozvrashhal-teper-ego-zhdet-tyurma"><img alt="" src="https://content.onliner.by/news/thumbnail/90d671e52c3c397018097f7b0afdbaa7.jpg" /></a></p><p>Сначала деньги понадобились на строительство квартиры, спустя несколько лет — на ремонт, мебель и инструменты. Как установил суд, все это время 40-летний житель Гомельской области занимал крупные суммы у знакомых, но возвращать их не собирался. История растянулась почти на девять лет.</p><p><a href="https://money.onliner.by/2026/09/17/belorus-godami-prosil-dengi-u-znakomyx-i-ne-vozvrashhal-teper-ego-zhdet-tyurma">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>«Ушла с одним чемоданом». Блогеры с 30-летней разницей в возрасте больше не вместе</title>
-      <link>https://people.onliner.by/go/1332879</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/16/ushla-s-odnim-chemodanom-blogery-s-30-letnej-raznicej-v-vozraste-bolshe-ne-vmeste</guid>
-      <pubDate>Wed, 16 Sep 2026 14:14:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/16/ushla-s-odnim-chemodanom-blogery-s-30-letnej-raznicej-v-vozraste-bolshe-ne-vmeste"><img alt="" src="https://content.onliner.by/news/thumbnail/c87e9dbe49e4bf9e05ec51bc3c1a3a39.jpg" /></a></p><p>За жизнью этой пары следили многие белорусы. Студентка Анфиса и ее преподаватель Сергей стали встречаться, несмотря на большую разницу в возрасте — 31 год. Мы подробно <a href="https://people.onliner.by/2024/07/27/on-starshe-moix-roditelej-no-eto-nikogo-ne-smushhaet-studentka-vyshla-zamuzh-za-prepodavatelya-peniya">рассказывали</a> их историю в проекте «Такие разные» в 2024 году. Спустя два года стало известно, что пара рассталась. Этой новостью в своих соцсетях поделилась сама Анфиса, подчеркнув, что причина разрыва не в возрасте.
-</p><p><a href="https://people.onliner.by/2026/09/16/ushla-s-odnim-chemodanom-blogery-s-30-letnej-raznicej-v-vozraste-bolshe-ne-vmeste">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Загадка из «Минск-Мира». Что делать, если разметка и знак друг другу противоречат?</title>
-      <link>https://auto.onliner.by/go/1266068</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/16/zagadka-iz-minsk-mira-chto-delat-esli-razmetka-i-znak-drug-drugu-protivorechat</guid>
-      <pubDate>Wed, 16 Sep 2026 13:57:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/16/zagadka-iz-minsk-mira-chto-delat-esli-razmetka-i-znak-drug-drugu-protivorechat"><img alt="" src="https://content.onliner.by/news/thumbnail/0b4653530fc8d4c139dd1dc6eace636a.jpg" /></a></p><p>Наш читатель прислал «загадку» из столичного «Минск-Мира». По его словам, на фото ниже — улица Алферова, 7. Посмотрите на разметку и на знаки. На разметку и на знаки... И как ехать-то? </p><p><a href="https://auto.onliner.by/2026/09/16/zagadka-iz-minsk-mira-chto-delat-esli-razmetka-i-znak-drug-drugu-protivorechat">Читать далее…</a></p>]]></description>
+      <title>Тестируем новинку от Belgee. Теперь это самый дешевый кроссовер в линейке</title>
+      <link>https://auto.onliner.by/go/1266137</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/testiruem-novinku-ot-belgee-teper-eto-samyj-deshevyj-krossover-v-linejke</guid>
+      <pubDate>Thu, 17 Sep 2026 09:00:22 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/testiruem-novinku-ot-belgee-teper-eto-samyj-deshevyj-krossover-v-linejke"><img alt="" src="https://content.onliner.by/news/thumbnail/5e8958705c959ae61907fc220318b889.jpg" /></a></p><p>Завод «Белджи» запустил в производство обновленную версию уже прекрасно знакомого кроссовера Belgee X50. Теперь это самый дешевый кроссовер в линейке, более того, он сопоставим со стоимостью S50. С седаном у новинки вообще много общего: они имеют один и тот же мотор и «коробку». Мы протестировали кроссовер, пересев на него как раз с S50. Рассказываем про впечатления. </p><p><a href="https://auto.onliner.by/2026/09/17/testiruem-novinku-ot-belgee-teper-eto-samyj-deshevyj-krossover-v-linejke">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>Подростки «путешествовали» на поезде, но ехали не в вагоне. За это им может грозить арест</title>
-      <link>https://people.onliner.by/go/1332874</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/16/podrostki-puteshestvovali-na-poezde-no-exali-ne-v-vagone-za-eto-im-mozhet-grozit-arest</guid>
-      <pubDate>Wed, 16 Sep 2026 13:36:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/16/podrostki-puteshestvovali-na-poezde-no-exali-ne-v-vagone-za-eto-im-mozhet-grozit-arest"><img alt="" src="https://content.onliner.by/news/thumbnail/fbfd068b116e9c1c699992e602f53157.jpg" /></a></p><p><p dir="ltr">В начале сентября трое подростков 14 и 15 лет попытались прокатиться на автосцепном устройстве дизель-поезда Гродно — Брузги. На станции Гибуличи их заметил помощник машиниста, и состав пришлось экстренно остановить.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/09/16/podrostki-puteshestvovali-na-poezde-no-exali-ne-v-vagone-za-eto-im-mozhet-grozit-arest">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Женщину-пешехода зажало под авто после ДТП. Пришлось подключать МЧС</title>
-      <link>https://auto.onliner.by/go/1266062</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/16/zhenshhinu-peshexoda-zazhalo-pod-avto-posle-dtp-prishlos-podklyuchat-mchs</guid>
-      <pubDate>Wed, 16 Sep 2026 13:32:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/16/zhenshhinu-peshexoda-zazhalo-pod-avto-posle-dtp-prishlos-podklyuchat-mchs"><img alt="" src="https://content.onliner.by/news/thumbnail/99b22b968c056b8f95dcdbed1fe50df8.jpg" /></a></p><p>Сегодня в Скиделе (Гродненская область) случилось ДТП с легковушкой и пешеходом. Прибывшие работники МЧС обнаружили, что под автомобилем оказалась зажата женщина.</p><p><a href="https://auto.onliner.by/2026/09/16/zhenshhinu-peshexoda-zazhalo-pod-avto-posle-dtp-prishlos-podklyuchat-mchs">Читать далее…</a></p>]]></description>
+      <title>ДТП на площади Богушевича: автомобиль сильно поврежден, сломано дорожное ограждение  (видео)</title>
+      <link>https://auto.onliner.by/go/1266180</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/dtp-na-ploshhadi-bogushevicha</guid>
+      <pubDate>Thu, 17 Sep 2026 08:57:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/dtp-na-ploshhadi-bogushevicha"><img alt="" src="https://content.onliner.by/news/thumbnail/c76c5cebef79782970d56d2a61b800c9.png" /></a></p><p>Читатели сообщают о ДТП, которое случилось сегодня на площади Богушевича. Судя по видео, у автомобиля сильно повреждена передняя часть. Дальше на кадрах можно заметить, что на дороге лежат части авто.</p><p><a href="https://auto.onliner.by/2026/09/17/dtp-na-ploshhadi-bogushevicha">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>В обменник пришли с фальшивыми $1,9 миллиона. Все закончилось перестрелкой и двумя смертями</title>
-      <link>https://money.onliner.by/go/346489</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/16/v-obmennik-stambula-prishli</guid>
-      <pubDate>Wed, 16 Sep 2026 13:28:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/16/v-obmennik-stambula-prishli"><img alt="" src="https://content.onliner.by/news/thumbnail/291bee269077c209a02fb9b6160db91d.jpg" /></a></p><p>Два человека погибли и еще двое пострадали во время перестрелки в пункте обмена валюты в Стамбуле. По <a href="https://t24.com.tr/gundem/fatih-te-3-kisinin-oldugu-doviz-burosu-catismasinda-yeni-detaylar-1-9-milyon-sahte-dolar-iddiasi,1348068?_t=1789563547124#goog_rewarded">данным</a> турецкого издания Sabah, причиной конфликта могла стать попытка обменять почти $2 млн фальшивыми купюрами.</p><p><a href="https://money.onliner.by/2026/09/16/v-obmennik-stambula-prishli">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Заявка на мультфильм года? Оцените трейлер «Ведьминого леса»</title>
-      <link>https://tech.onliner.by/go/793023</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/16/zayavka-na-multfilm-goda-ocenite-trejler-vedminogo-lesa</guid>
-      <pubDate>Wed, 16 Sep 2026 13:11:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/16/zayavka-na-multfilm-goda-ocenite-trejler-vedminogo-lesa"><img alt="" src="https://content.onliner.by/news/thumbnail/bde21d22a5909bc770d977d7920e2dee.jpg" /></a></p><p>Мультфильм, объединяющий в себе темное фэнтези и приключенческий хоррор, выйдет в кинотеатрах 23 октября. За производство картины взялась студия Laika, которую вы можете помнить по проектам вроде «Коралины в Стране кошмаров» и «Семейки монстров», так что зрителей вновь ждет мрачная, но притягательная покадровая анимация.</p><p><a href="https://tech.onliner.by/2026/09/16/zayavka-na-multfilm-goda-ocenite-trejler-vedminogo-lesa">Читать далее…</a></p>]]></description>
+      <title>Девушка сняла в баре видео на iPhone — в камере появились странные точки</title>
+      <link>https://tech.onliner.by/go/793094</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/iphone-lasers</guid>
+      <pubDate>Thu, 17 Sep 2026 08:50:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/iphone-lasers"><img alt="" src="https://content.onliner.by/news/thumbnail/db446d97e9ca6746e5bdc903b7928df8.jpg" /></a></p><p><p dir="ltr">Во время отдыха в одном из минских клубов девушка снимала видео для личного архива. Вскоре она обнаружила, что камера ее iPhone 17 Pro оказалась повреждена. Тогда белоруска предположила, что причина в световых приборах, установленных на танцполе. Спросили у экспертов, насколько частая такого рода поломка.</p><p><a href="https://tech.onliner.by/2026/09/17/iphone-lasers">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Нефтебитумный завод испытывает защитный состав для асфальта. Он может появиться и на дорогах?</title>
-      <link>https://auto.onliner.by/go/1266051</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/16/neftebitumnyj-zavod-ispytyvaet-zashhitnyj-sostav-dlya-asfalta-on-mozhet-poyavitsya-i-na-dorogax</guid>
-      <pubDate>Wed, 16 Sep 2026 13:01:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/16/neftebitumnyj-zavod-ispytyvaet-zashhitnyj-sostav-dlya-asfalta-on-mozhet-poyavitsya-i-na-dorogax"><img alt="" src="https://content.onliner.by/news/thumbnail/6b8e8b59c39ac581a0ece1f597024977.jpg" /></a></p><p>В эти дни нефтебитумный завод проводит испытания защитного состава для асфальта на площадках ОАО «Беларуськалий». Специалисты хотят проверить, сможет ли он защитить покрытие от солей в таких «экстремальных» условиях. </p><p><a href="https://auto.onliner.by/2026/09/16/neftebitumnyj-zavod-ispytyvaet-zashhitnyj-sostav-dlya-asfalta-on-mozhet-poyavitsya-i-na-dorogax">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В РФ запустили массовое производство российского электромобиля «Атом». Вот сколько он стоит</title>
-      <link>https://auto.onliner.by/go/1266045</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/16/v-rf-zapustili-massovoe-proizvodstvo-rossijskogo-elektromobilya-atom-vot-skolko-on-stoit</guid>
-      <pubDate>Wed, 16 Sep 2026 12:22:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/16/v-rf-zapustili-massovoe-proizvodstvo-rossijskogo-elektromobilya-atom-vot-skolko-on-stoit"><img alt="" src="https://content.onliner.by/news/thumbnail/46066975782c19313e594c9950cf59a7.jpg" /></a></p><p>В России объявили о запуске в массовое производство электромобиля «Атом». <em>«Первый серийный электромобиль, разработанный в России, и одно из самых значимых достижений отечественного автопрома за последние 70 лет.</em> <em>Это российский ответ Tesla»,</em> — так описывали его создатели. Напомним: нам удалось вживую <a href="https://auto.onliner.by/2025/10/01/aurus-na-vodorode-lada-azimut-i-ne-tolko" target="_blank">посмотреть</a> на автомобиль на прошлогодней выставке «ИННОПРОМ. Беларусь».</p><p><a href="https://auto.onliner.by/2026/09/16/v-rf-zapustili-massovoe-proizvodstvo-rossijskogo-elektromobilya-atom-vot-skolko-on-stoit">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Минчанин вложился в криптовалюту и увидел, как «растет» его счет. Потерял 110 тысяч рублей</title>
-      <link>https://money.onliner.by/go/346483</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/16/investicii-v-kriptu-oboshlis</guid>
-      <pubDate>Wed, 16 Sep 2026 12:17:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/16/investicii-v-kriptu-oboshlis"><img alt="" src="https://content.onliner.by/news/thumbnail/97da81b06a345a9a4eba538993cf4b3e.jpg" /></a></p><p>54-летний минчанин решил заработать на инвестициях, но вместо прибыли лишился более 110 тысяч рублей. Часть денег мужчина специально взял в долг у знакомых, сообщили в Следственном комитете.</p><p><a href="https://money.onliner.by/2026/09/16/investicii-v-kriptu-oboshlis">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Барановичах раскрыли убийство подростка, которое произошло 27 лет назад</title>
-      <link>https://people.onliner.by/go/1332848</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/16/v-baranovichax-raskryli-ubijstvo-podrostka-kotoroe-proizoshlo-27-let-nazad</guid>
-      <pubDate>Wed, 16 Sep 2026 12:13:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/16/v-baranovichax-raskryli-ubijstvo-podrostka-kotoroe-proizoshlo-27-let-nazad"><img alt="" src="https://content.onliner.by/news/thumbnail/ab46227fad4d28655d013caa279b5c50.jpg" /></a></p><p><p dir="ltr">В Барановичах раскрыли убийство подростка, которое произошло 27 лет назад. Оперативники установили причастность к преступлению 57-летнего местного жителя.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/09/16/v-baranovichax-raskryli-ubijstvo-podrostka-kotoroe-proizoshlo-27-let-nazad">Читать далее…</a></p>]]></description>
+      <title>Ватикан впервые в истории выдвинет фильм на «Оскар»</title>
+      <link>https://people.onliner.by/go/1332959</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/vatikan-vpervye-v-istorii-vydvinet-film-na-oskar</guid>
+      <pubDate>Thu, 17 Sep 2026 08:39:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/vatikan-vpervye-v-istorii-vydvinet-film-na-oskar"><img alt="" src="https://content.onliner.by/news/thumbnail/c4a36e2736bf9c188bd02eede0c3e6f5.jpg" /></a></p><p>Ватикан впервые в истории представит фильм для участия в отборе на кинопремию «Оскар». Об этом <a href="https://variety.com/2026/film/global/vatican-submit-film-oscar-consideration-1236864011/" target="_blank">сообщает</a> Variety.</p><p><a href="https://people.onliner.by/2026/09/17/vatikan-vpervye-v-istorii-vydvinet-film-na-oskar">Читать далее…</a></p>]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>Полезен ли апельсиновый сок для сердца? Ученые дали ответ на этот вопрос</title>
-      <link>https://tech.onliner.by/go/793017</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/16/polezen-li-apelsinovyj-sok-dlya-serdca-uchenye-dali-otvet-na-etot-vopros</guid>
-      <pubDate>Wed, 16 Sep 2026 11:43:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/16/polezen-li-apelsinovyj-sok-dlya-serdca-uchenye-dali-otvet-na-etot-vopros"><img alt="" src="https://content.onliner.by/news/thumbnail/d46ce3f342db1ed8e7779c3c07a3c9d1.jpg" /></a></p><p>Природные соединения, содержащиеся в апельсиновом соке, регулируют гены, участвующие в контроле сердечно-сосудистой системы и функционировании кровеносных сосудов. Такой вывод был сделан исследователями информационного центра Fruit Juice Science Centre, которые на протяжении шести недель следили за тем, как стопроцентный апельсиновый сок влияет на здоровье мужчин.</p><p><a href="https://tech.onliner.by/2026/09/16/polezen-li-apelsinovyj-sok-dlya-serdca-uchenye-dali-otvet-na-etot-vopros">Читать далее…</a></p>]]></description>
+      <title>В сети собрали сомнительные стрижки, которые лучше не повторять</title>
+      <link>https://tech.onliner.by/go/793146</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/v-kadr-popali-pricheski-kotorye-trudno-obyasnit</guid>
+      <pubDate>Thu, 17 Sep 2026 08:25:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/v-kadr-popali-pricheski-kotorye-trudno-obyasnit"><img alt="" src="https://content.onliner.by/news/thumbnail/5b461b9933b31d6b51c10b37167e8c83.jpg" /></a></p><p>Новая прическа — хороший способ преобразиться, при этом не обязательно кардинально меняя представление о себе. Но, кажется, люди и их стрижки, о которых пойдет речь ниже, думают иначе. Их образы в лучшем случае можно назвать экстравагантными. Но, если честно, скорее просто странными. В Bored Panda <a href="https://www.boredpanda.com/questionable-haircuts-gone-wrong/?_t=1&amp;_f=homepage_featured" target="_blank">собрали</a> примеры, ниже — некоторые из них.</p><p><a href="https://tech.onliner.by/2026/09/17/v-kadr-popali-pricheski-kotorye-trudno-obyasnit">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Тридцатый Mak.by уже на подходе. Где он находится?</title>
-      <link>https://realt.onliner.by/go/1130845</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/16/tridcatyj-uzhe-na-podxode</guid>
-      <pubDate>Wed, 16 Sep 2026 11:35:21 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/16/tridcatyj-uzhe-na-podxode"><img alt="" src="https://content.onliner.by/news/thumbnail/90c20d3fce4dae0a4341c4d7fa4d9ba8.jpg" /></a></p><p>Еще в середине июля на пересечении улицы Янки Лучины и Игуменского тракта находился пустырь: зеленая трава, несколько деревьев, кусты. И никаких признаков строительной жизни. Но прошло всего два месяца, и вид площадки кардинально изменился. Теперь из-за строительного забора на нас смотрит новое здание — будущий Mak.by.</p><p><a href="https://realt.onliner.by/2026/09/16/tridcatyj-uzhe-na-podxode">Читать далее…</a></p>]]></description>
+      <title>Водитель Ford не пропустила грузовик на перекрестке — столкновения избежать не удалось (видео)</title>
+      <link>https://auto.onliner.by/go/1266154</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/ford-ne-propustil-gruzovik</guid>
+      <pubDate>Thu, 17 Sep 2026 08:22:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/ford-ne-propustil-gruzovik"><img alt="" src="https://content.onliner.by/news/thumbnail/4069f76abce78ac6cce08c8a3246c7af.png" /></a></p><p>28-летняя женщина — водитель Ford сегодня утром на перекрестке проспекта Пушкина и улицы Пономаренко не предоставила преимущество грузовому автомобилю МАЗ и совершила с ним столкновение.</p><p><a href="https://auto.onliner.by/2026/09/17/ford-ne-propustil-gruzovik">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Первая школа в «Зеленой гавани» откроется в 2028 году. Какой она будет?</title>
+      <link>https://realt.onliner.by/go/1131133</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/xogvarts-kosmos-i-nauka</guid>
+      <pubDate>Thu, 17 Sep 2026 08:13:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/xogvarts-kosmos-i-nauka"><img alt="" src="https://content.onliner.by/news/thumbnail/a08ea43f890d2451327abc03b1c36399.jpg" /></a></p><p>В квартале «Зеленая гавань» начали строить важный социальный объект — первую школу. Ее разместят в так называемом социальном кластере, который в будущем будет включать сразу несколько школ, детских садов, поликлинику и торговый центр. А что, удобно: забрал деток, заглянул за справкой, забежал за продуктами — и домой. «Школа открытий» рассчитана на 1125 человек и примет учеников в 2028 году. Смотрим, какой она получится.
+</p><p><a href="https://realt.onliner.by/2026/09/17/xogvarts-kosmos-i-nauka">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Белоруска, которую считали пропавшей в Непале, нашлась на Тайване. Близкие просят о помощи (обновлено)</title>
-      <link>https://people.onliner.by/go/1332613</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/16/eshhe-odna-beloruska-chislitsya-propavshej</guid>
-      <pubDate>Wed, 16 Sep 2026 11:20:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/16/eshhe-odna-beloruska-chislitsya-propavshej"><img alt="" src="https://content.onliner.by/news/thumbnail/3d169f5f435c0c5a77daefb72f9efce5.jpg" /></a></p><p><p dir="ltr">15 сентября стало известно, что в списках иностранцев, пропавших без вести во время наводнения в Непале и Тибете, появилась еще одна гражданка Беларуси. Департамент по туризму Непала <a href="https://giwmscdnone.gov.np/media/pdf_upload/Final%20missing%20person%205-18%2020%3B30%20hr_yscqaan.pdf">называет</a> ее имя — Ирина Бодиловская. Однако, как удалось выяснить журналисту Onlíner, эти данные, вероятнее всего, ошибочные.</p><p><a href="https://people.onliner.by/2026/09/16/eshhe-odna-beloruska-chislitsya-propavshej">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В Варшаву за 90 рублей: новый рейс из Минска стартует 30 сентября</title>
-      <link>https://auto.onliner.by/go/1266035</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/16/v-varshavu-za-90-rublej</guid>
-      <pubDate>Wed, 16 Sep 2026 11:18:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/16/v-varshavu-za-90-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/c088afff15e53a5914c94ca5db0c8a52.jpg" /></a></p><p>С 30 сентября стартует новый рейс Минск — Варшава от перевозчика «ПрестижБас». Главная его особенность — выгодная цена. Если покупать билет прямо сейчас, то поездка обойдется в 90 рублей, а в обратную сторону — 115 рублей. Также есть скидка для детей. Еще перевозчик разрешает брать с собой животных (с соблюдением всех правил), сообщает сервис «Атласбас».</p><p><a href="https://auto.onliner.by/2026/09/16/v-varshavu-za-90-rublej">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Белорус открыл конфету «Любимая Аленка» и обнаружил внутри личинок. Что ответили на «Коммунарке»</title>
-      <link>https://money.onliner.by/go/346450</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/16/belorus-otkryl-konfetu-lyubimaya-alenka-i-obnaruzhil-vnutri-lichinok-chto-otvetili-na-kommunarke</guid>
-      <pubDate>Wed, 16 Sep 2026 11:11:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/16/belorus-otkryl-konfetu-lyubimaya-alenka-i-obnaruzhil-vnutri-lichinok-chto-otvetili-na-kommunarke"><img alt="" src="https://content.onliner.by/news/thumbnail/59f34661954fdbb2bbea722bddeb061c.jpg" /></a></p><p>Не самый приятный сюрприз ждал белоруса внутри конфеты «Любимая Аленка». Мужчина утверждает, что сразу после того, как развернул фантик, обнаружил там двух личинок. Фотографией находки он <a href="https://www.threads.com/@kasperovich74/post/DdQvOjYjlm9?xmt=AQG0iorR_0gc6WZhR--Kk1DxgQdOWCmrEfoMdv5cxEEzk59pVXrwjfpJLm3szIy5Q-j-IHKG">поделился</a> в Threads.</p><p><a href="https://money.onliner.by/2026/09/16/belorus-otkryl-konfetu-lyubimaya-alenka-i-obnaruzhil-vnutri-lichinok-chto-otvetili-na-kommunarke">Читать далее…</a></p>]]></description>
+      <title>Ставка ФРС США выросла. Как на это реагирует доллар? (обновлено)</title>
+      <link>https://money.onliner.by/go/346561</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/stavka-frs-ssha-poshla-vverx</guid>
+      <pubDate>Thu, 17 Sep 2026 07:50:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/stavka-frs-ssha-poshla-vverx"><img alt="" src="https://content.onliner.by/news/thumbnail/03b8b92fe40a92bb6ddf2f57201d4847.jpg" /></a></p><p>Теперь целевой диапазон ставки по федеральным фондам составляет 3,75—4%. Решение было принято единогласно. ФРС объяснила повышение тем, что инфляция в США остается повышенной и необходимо вернуть ее к цели в 2%. Утром в четверг, 17 сентября, доллар начал понемногу отыгрывать свое. Биткоин за последние сутки подорожал, сейчас находится вблизи отметки $76 470.
+</p><p><a href="https://money.onliner.by/2026/09/17/stavka-frs-ssha-poshla-vverx">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>В Красноярском крае медведь напал на женщину прямо во дворе дома. Она погибла</title>
-      <link>https://people.onliner.by/go/1332768</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/16/v-krasnoyarskom-krae-medved-napal-na-zhenshhinu-pryamo-vo-dvore-doma-ona-pogibla</guid>
-      <pubDate>Wed, 16 Sep 2026 10:31:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/16/v-krasnoyarskom-krae-medved-napal-na-zhenshhinu-pryamo-vo-dvore-doma-ona-pogibla"><img alt="" src="https://content.onliner.by/news/thumbnail/d2ffc789f09b9f5bfbb18e80b6ac2852.jpg" /></a></p><p><p dir="ltr">В Красноярском крае на женщину напал медведь — от полученных травм местная жительница скончалась. Ее тело нашли во дворе собственного дома. Хищник же после нападения ушел в лес, и поймать его пока не удалось, <a href="https://tass.ru/proisshestviya/28115561">сообщает</a> ТАСС.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/09/16/v-krasnoyarskom-krae-medved-napal-na-zhenshhinu-pryamo-vo-dvore-doma-ona-pogibla">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
+      <title>В Минске водитель BMW перестраивался и врезался в Volkswagen — тот отлетел на стену перехода (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1266146</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/vrezalsya-v-volkswagen</guid>
+      <pubDate>Thu, 17 Sep 2026 07:40:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/vrezalsya-v-volkswagen"><img alt="" src="https://content.onliner.by/news/thumbnail/19e702e8f1f9a3ef64a0f804f0d23c73.jpg" /></a></p><p>Вчера вечером водитель BMW рядом с домом №89 на проспекте Независимости при перестроении не убедился в безопасности маневра и столкнулся с попутным Volkswagen.</p><p><a href="https://auto.onliner.by/2026/09/17/vrezalsya-v-volkswagen">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
     </item>
     <item>
-      <title>Британский математик развенчал миф, связанный с иллюзиями Парфенона</title>
-      <link>https://tech.onliner.by/go/792990</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/16/britanskij-matematik-razvenchal-mif-svyazannyj-s-illyuziyami-parfenona</guid>
-      <pubDate>Wed, 16 Sep 2026 10:25:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/16/britanskij-matematik-razvenchal-mif-svyazannyj-s-illyuziyami-parfenona"><img alt="" src="https://content.onliner.by/news/thumbnail/ccfb4f81757b04d61150645438966998.jpg" /></a></p><p>Профессор Ален Гориэли из Оксфордского университета решил взяться за миф, связанный с памятником античной архитектуры, возвышающимся над Афинами. Считается, что плавные изгибы Парфенона призваны компенсировать оптические иллюзии, которые в противном случае нарушали бы безупречность его линий. Однако Гориэли считает, что эти иллюзии либо абсурдны, либо практически незаметны.</p><p><a href="https://tech.onliner.by/2026/09/16/britanskij-matematik-razvenchal-mif-svyazannyj-s-illyuziyami-parfenona">Читать далее…</a></p>]]></description>
+      <title>Фотофакт: в Минске заметили редкий Rolls Royce</title>
+      <link>https://auto.onliner.by/go/1266140</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/v-minske-zametili-redkij</guid>
+      <pubDate>Thu, 17 Sep 2026 07:28:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/v-minske-zametili-redkij"><img alt="" src="https://content.onliner.by/news/thumbnail/bf4e3b331c546d4d245235fde049e08d.jpg" /></a></p><p>Читатель прислал в адрес редакции фотографии Rolls Royce Silver Spur. Он рассказал, что сфотографировал этот автомобиль в Минске. <em>«Там долгое время 21-я „Волга“ стоит, символически восстановленная. А сегодня появился этот красавец»,</em> — рассказал он.</p><p><a href="https://auto.onliner.by/2026/09/17/v-minske-zametili-redkij">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Беларуси выйдет новая версия Belgee X50. Сколько стоит новинка? (обновлено)</title>
+      <link>https://auto.onliner.by/go/1265154</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/belgee-x50-2</guid>
+      <pubDate>Thu, 17 Sep 2026 06:51:22 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/belgee-x50-2"><img alt="" src="https://content.onliner.by/news/thumbnail/e0ed0693407b6ff7940af723ff02ec49.jpg" /></a></p><p>«Белджи» запустил в производство обновленную версию кроссовера Belgee X50. Что нового? Переработанный интерьер, атмосферный мотор в паре с классическим автоматом. Автомобиль предложат в комплектации Standard — с кожаными сиденьями, 16-дюймовыми дисками и десятком умных помощников. Новую версию Belgee X50 производят под Борисовом.
+</p><p><a href="https://auto.onliner.by/2026/09/17/belgee-x50-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Более 70 тысяч рублей взяток на двоих. На Брестчине осудили работников сельхозпредприятий</title>
+      <link>https://money.onliner.by/go/346551</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/bolee-70-tysyach-rublej</guid>
+      <pubDate>Thu, 17 Sep 2026 06:48:14 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/bolee-70-tysyach-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/b1a59d25a6c8949eb1f08c3322c66aae.jpg" /></a></p><p>Сразу два уголовных дела о взятках при закупках рассмотрели суды в Брестской области. В одном случае речь идет о директоре филиала сельхозпредприятия, в другом — о главном агрономе. Оба получили реальные сроки, сообщает прокуратура.</p><p><a href="https://money.onliner.by/2026/09/17/bolee-70-tysyach-rublej">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Найдены актеры на роль Артура Уизли и еще двух важных героев в сериале по «Гарри Поттеру»</title>
+      <link>https://tech.onliner.by/go/793132</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/najdeny-aktery-na-rol-artura-uizli-i-eshhe-dvux-vazhnyx-geroev-v-seriale-po-garri-potteru</guid>
+      <pubDate>Thu, 17 Sep 2026 06:43:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/najdeny-aktery-na-rol-artura-uizli-i-eshhe-dvux-vazhnyx-geroev-v-seriale-po-garri-potteru"><img alt="" src="https://content.onliner.by/news/thumbnail/c185ffa6c81c1dac04b86932e9f2d1c1.jpg" /></a></p><p>Вскоре должны стартовать съемки «Тайной комнаты» — второго сезона сериала по «Гарри Поттеру». Как <a href="https://variety.com/2026/tv/news/harry-potter-hbo-cast-arthur-weasley-moaning-myrtle-1236862281/" target="_blank">пишут</a> в Variety, HBO нашла актеров, которые исполнят в шоу — видимо, и в следующих сезонах — несколько важных ролей.
+</p><p><a href="https://tech.onliner.by/2026/09/17/najdeny-aktery-na-rol-artura-uizli-i-eshhe-dvux-vazhnyx-geroev-v-seriale-po-garri-potteru">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>«Теперь посреди двора хотят построить многоэтажку». В Лошице-7 опять грядут «перестановки»</title>
-      <link>https://realt.onliner.by/go/1130818</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/16/xotyat-postroit-mnogoetazhku-2</guid>
-      <pubDate>Wed, 16 Sep 2026 10:13:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/16/xotyat-postroit-mnogoetazhku-2"><img alt="" src="https://content.onliner.by/news/thumbnail/d5900ac9ac68007c95a542ca1aaaf7fe.jpg" /></a></p><p>Новые спальные районы совсем не такие тихие и безмятежные, как может показаться со стороны. По крайней мере, в Лошице-7 уже второй год подряд не спокойно. Напомним: в 2025-м новоселы <a href="https://realt.onliner.by/2025/05/06/obeshhali-detskij-sad" target="_blank">узнали</a>, что свободную территорию между их домами решили «перепрофилировать»: вместо детского садика на 140 мест задумали построить… стоянку. Таким новостям минчане ожидаемо не были рады. Коллективные обращения полетели в различные инстанции. И вот новый виток развития ситуации.</p><p><a href="https://realt.onliner.by/2026/09/16/xotyat-postroit-mnogoetazhku-2">Читать далее…</a></p>]]></description>
+      <title>Снаружи этот дом выглядит скромным и неприметным. Но стоит зайти внутрь — и все меняется</title>
+      <link>https://realt.onliner.by/go/1129041</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/snaruzhi-etot-dom-vyglyadit-skromnym</guid>
+      <pubDate>Thu, 17 Sep 2026 06:31:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/snaruzhi-etot-dom-vyglyadit-skromnym"><img alt="" src="https://content.onliner.by/news/thumbnail/d774a5a71784aaeba9c14b34dd321c80.jpg" /></a></p><p><p>Снаружи этот калифорнийский одноэтажный дом 1950-х годов <a href="https://www.elledecor.com/design-decorate/house-interiors/a73596866/la-jolla-georgis-mirgorodsky-house-tour/" target="_blank">выглядит</a> максимально неприметно: скромный фасад из темного кирпича, лаконичная плоская крыша... Его вполне можно спутать с какой-то пристройкой. Но стоит переступить порог — и архитектурная скромность сменяется продуманной роскошью.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/09/17/snaruzhi-etot-dom-vyglyadit-skromnym">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>На Минщине ребенок съел ягоды ландыша и попал в больницу</title>
+      <link>https://people.onliner.by/go/1332942</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/yagody-landysha</guid>
+      <pubDate>Thu, 17 Sep 2026 06:24:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/yagody-landysha"><img alt="" src="https://content.onliner.by/news/thumbnail/02b8433ed078dea08fb5f735b1bac93f.jpg" /></a></p><p>В Березинском районе двухлетний ребенок попал в больницу после того, как попробовал ягоды ландыша. Об этом <a href="https://mlyn.by/16092026/v-berezino-dvuhletnij-rebenok-otravilsya-yagodami-landysha/" target="_blank">сообщает</a> mlyn.by.</p><p><a href="https://people.onliner.by/2026/09/17/yagody-landysha">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Посмотрите второй трейлер приквела «Голодных игр» о юном Хеймитче</title>
+      <link>https://tech.onliner.by/go/793117</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/posmotrite-vtoroj-trejler-prikvela-golodnyx-igr-o-yunom-xejmitche</guid>
+      <pubDate>Thu, 17 Sep 2026 06:11:26 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/posmotrite-vtoroj-trejler-prikvela-golodnyx-igr-o-yunom-xejmitche"><img alt="" src="https://content.onliner.by/news/thumbnail/d57a41867c2ed524e1d92a1b32122ab2.jpg" /></a></p><p>На YouTube-канале Lionsgate Movies опубликовали второй официальный трейлер фильма «Голодные игры: Рассвет жатвы» — картины-приквела к оригинальным фильмам, в которой расскажут историю молодого Хеймитча Эбернети.</p><p><a href="https://tech.onliner.by/2026/09/17/posmotrite-vtoroj-trejler-prikvela-golodnyx-igr-o-yunom-xejmitche">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«У меня нет связок в руках». Белорус 15 лет отработал в лучшем цирке мира — что дальше? (видео)</title>
+      <link>https://people.onliner.by/go/1332362</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/15-let-v-cirque-du-soleil</guid>
+      <pubDate>Thu, 17 Sep 2026 05:00:57 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/15-let-v-cirque-du-soleil"><img alt="" src="https://content.onliner.by/news/thumbnail/8e489ea955be5595d2af34976be0ac88.jpg" /></a></p><p>«Я живу на два города: Лас-Вегас и Вилейка» — уже одной этой фразы достаточно, чтобы познакомиться с произнесшим ее человеком поближе. А в жизни нашего героя Александра Барсаня к тому же где-то между этими точками были Австралия, Бразилия, Япония и еще примерно треть мира. Уроженец Вилейки объездил планету с легендарным Cirque du Soleil, где полтора десятка лет отработал в качестве нижнего акробата (это те, кто подбрасывает и ловит других). Сейчас Александру 45, он уверяет, что еще в форме, хотя уже и не горит желанием возвращаться на сцену любой ценой. От старой жизни у него осталась внушительная коллекция артефактов — почти домашний музей. Заглянули в гости и, разглядывая экспонаты, послушали истории про десять шоу в неделю, безбашенных постсоветских акробатов, травмы и танцы с огнем.</p><p><a href="https://people.onliner.by/2026/09/17/15-let-v-cirque-du-soleil">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>On Time! GNOME 51 Arrives With a Set of Improvements You Shouldn't Miss</title>
+      <link>https://feed.itsfoss.com/link/24361/17464160/gnome-51-features</link>
+      <guid isPermaLink="false">6aaa2bf6922f5a000126d545</guid>
+      <pubDate>Thu, 17 Sep 2026 03:55:34 +0000</pubDate>
+      <description><![CDATA[gnome 51 banner]]></description>
+      <category>News</category>
     </item>
     <item>
       <title>The Simplest Method to Extract All Images from a Document in LibreOffice</title>
@@ -247,14 +269,6 @@
       <pubDate>Tue, 15 Sep 2026 13:11:07 +0000</pubDate>
       <description><![CDATA[rune logo and screenshot against a mixed green/blue,white background]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>Paperweight: An Open Source App to Clean Up Your Inbox and Digital Footprint</title>
-      <link>https://feed.itsfoss.com/link/24361/17461303/paperweight</link>
-      <guid isPermaLink="false">6a27c2c2a14085000110e05b</guid>
-      <pubDate>Mon, 14 Sep 2026 07:00:52 +0000</pubDate>
-      <description><![CDATA[Paperweight]]></description>
-      <category>Applications</category>
     </item>
   </channel>
 </rss>
