@@ -5,9 +5,105 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 17 Sep 2026 11:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:20:52 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>FOSS Weekly #26.38: GNOME 51 Release, LibreOffice Image Trick, VMWare Drama, Fingerprint Reader for Linux and More</title>
+      <link>https://feed.itsfoss.com/link/24361/17464532/foss-weekly-26-38</link>
+      <guid isPermaLink="false">6aaa83f7922f5a000126d80d</guid>
+      <pubDate>Thu, 17 Sep 2026 13:03:44 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/09/foss-weekly-2.webp" /></figure>
+<p>It's FOSS reader <a href="https://itsfoss.com/linux-stories/italian-logistics-company-migration/">Mi&scaron;o Oroz shares how he migrated</a> a small transport and logistics company in, Bergamo, Italy to Linux and open source to reduce cost and ordinary technical problems. This is the kind of positive stories we need to hear more.</p><p>Another positive news is that Rune, a Go-based IDE for Linux and macOS, <a href="https://itsfoss.com/news/rune-open-source-ide/">went GPLv3 this week</a> with no CLA requirements, with contributors keeping copyright over their work. The more interesting part is the revenue-sharing plan. Accepted contributions earn credits, and a slice of eligible service revenue gets split among contributors based on those credits.</p><p>Check out the features in <a href="https://itsfoss.com/news/gnome-51-features/">newly released GNOME 51</a>. Arch-based distro users should get it in the next few weeks, hopefully. Upcoming major releases like Ubuntu 26.10 and Fedora 45 will also offer it.</p><p><a href="https://itsfoss.com/news/ubuntu-rustification-coreutils-migration/">Ubuntu has completed its coreutils migration to Rust</a>, with <code>cp</code>, <code>mv</code>, and <code>rm</code> finally making the jump. Earlier, an audit commissioned by Canonical found 113 problems across two rounds, 44 of which got assigned CVEs, and the vast majority are now resolved.</p><p>Mirko Brombin, the creator of Bottles, <a href="https://itsfoss.com/news/bottles-microsoft-365-early-look/">recently got Microsoft 365 installing</a>, signing in, and launching Word on Linux using unreleased software that he is currently working on. Don't get your hopes too high, though. It's all experimental.</p><p>The Linux kernel <a href="https://itsfoss.com/news/linux-kernel-old-arm-code-removal/">is finally moving ahead on some of the 32-bit ARM platform removals</a> that have been on the table for years. Initially, thirteen patches target Linux 7.4, covering old hardware like the Acorn RiscPC, SA1100 boards, OMAP24xx, and various STM32 microcontrollers.</p><p>Leaving VMware just got harder thanks to Broadcom <a href="https://itsfoss.com/news/broadcom-removes-vmware-vddk-downloads/">quietly revoking public access</a> to VDDK, the SDK that backup and migration tools use to read VMware virtual disks.</p><p><strong>This edition of FOSS Weekly is supported by </strong><a href="https://uruky.com/"><strong>Uruky</strong></a><strong>.</strong></p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Search without ads or tracking. Uruky is a paid and private search engine focused on personal search customization, not an ecosystem. </span><br /><br /><span style="white-space: pre-wrap;">EU-based. No surveillance capitalism. </span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://uruky.com/" style="background-color: #000000; color: #ffffff;">
+                            Join the resistance against Big Tech.
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><!--kg-gated-block:end-->
+<h2 id="%F0%9F%A7%A0-what-we%E2%80%99re-thinking-about">&#129504; What We&rsquo;re Thinking About</h2><p>Bruce Schneier and EFF's Cindy Cohn <a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html">have written a strong piece</a> on how mass surveillance has outlived its terrorism justification. Instead, it's being used to breach constitutional rights and carry out systemic abuse.</p><h2 id="%F0%9F%A7%AE-linux-tips-tutorials-and-learnings">&#129518; Linux Tips, Tutorials, and Learnings</h2><p>This time I have another LibreOffice hack to share with you. If you are bothered by having to manually right-click document pages to extract images, <a href="https://itsfoss.com/extract-all-images-office/">you can extract all the images</a> by saving your documents as HTML.</p><p>Ubuntu's default sudo timeout is 15 minutes, but one line in <code>visudo</code> <a href="https://itsfoss.com/change-sudo-password-timeout-ubuntu/">is all it takes to change it</a>. </p><p>Done with Trello? We have tested and compared <a href="https://itsfoss.com/open-source-trello-alternatives/">seven open source alternatives</a>, with a pick for each use case. Kan if you're migrating an existing Trello board; Fizzy if you want something deliberately minimal; Vikunja if you need the full self-hosted package.</p><p>Sooner or later, you will see a keyring popup in most Linux distributions. Perhaps it's a good time to learn <a href="https://itsfoss.com/ubuntu-keyring/">what this actually is</a>.</p>
+<!--kg-gated-block:begin nonMember:true memberSegment:"status:free" --><div class="kg-card kg-cta-card kg-cta-bg-grey kg-cta-minimal    ">
+            
+            <div class="kg-cta-content">
+                
+                
+                    <div class="kg-cta-content-inner">
+                    
+                        <div class="kg-cta-text">
+                            <p><span style="white-space: pre-wrap;">Desktop Linux is mostly neglected by the industry but loved by the community. For the past 14 years, It's FOSS has been helping people use Linux on their personal computers. And we are now facing the existential threat from AI models stealing our content. </span></p><p><span style="white-space: pre-wrap;">If you like what we do and would love to support our work, please become It's FOSS Plus member. It costs $49 a year (less than the cost of a McDonald's burger a month), and you get an ad-free reading experience with the satisfaction of helping the desktop Linux community. And there are also free Linux ebooks.</span></p>
+                        </div>
+                    
+                    
+                        <a class="kg-cta-button " href="https://itsfoss.com/membership/" style="background-color: #000000; color: #ffffff;">
+                            Join It's FOSS Plus
+                        </a>
+                        
+                    </div>
+                
+            </div>
+        </div><!--kg-gated-block:end-->
+<h2 id="%F0%9F%91%B7-ai-homelab-and-hardware-corner">&#128119; AI, Homelab and Hardware Corner</h2><p><a href="https://itsfoss.com/news/makerphone-2-annoucement/">MAKERphone 2.0</a> is a DIY bar phone kit you assemble without needing to solder anything. It is ESP32-S3 powered, supports 4G LTE, and has swappable modules for IR, camera, speaker, and sensors, as well as a headphone jack.</p><h2 id="%E2%9C%A8-apps-and-projects-highlights">&#10024; Apps and Projects Highlights</h2><p><a href="https://itsfoss.com/paperweight/">Paperweight</a> scans your inbox locally to build a picture of every mailing list, forgotten account, and known data breach tied to your email address.</p><h2 id="%F0%9F%93%BD%EF%B8%8F-videos-for-you">&#128253;&#65039; Videos for You</h2><p>I also did <a href="https://www.youtube.com/watch?v=owT-7Rlhs_E">a video review of the Immurok fingerprint reader</a> on our YouTube channel. It is more than just a regular fingerprint reader, as it lets you use sudo, SSH and even TOTP authentication. See it in action in the video or <a href="https://itsfoss.com/immurok-review/">read the review</a>.</p><figure class="kg-card kg-embed-card"></figure><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.youtube.com/@itsfoss">Subscribe to It's FOSS YouTube Channel</a></div><h2 id="%F0%9F%92%A1-quick-handy-tip">&#128161; Quick Handy Tip</h2><figure class="kg-card kg-video-card kg-width-regular">
+            <div class="kg-video-container">
+                <video height="836" poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" preload="metadata" src="https://itsfoss.com/content/media/2026/09/background-window-actions.mp4" width="1453"></video>
+                <div class="kg-video-overlay">
+                    <button class="kg-video-large-play-icon">
+                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
+                        </svg>
+                    </button>
+                </div>
+                <div class="kg-video-player-container">
+                    <div class="kg-video-player">
+                        <button class="kg-video-play-icon">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
+                            </svg>
+                        </button>
+                        <button class="kg-video-pause-icon kg-video-hide">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <rect height="22" rx="1.5" ry="1.5" width="7" x="3" y="1"></rect>
+                                <rect height="22" rx="1.5" ry="1.5" width="7" x="14" y="1"></rect>
+                            </svg>
+                        </button>
+                        <span class="kg-video-current-time">0:00</span>
+                        <div class="kg-video-time">
+                            /<span class="kg-video-duration">0:17</span>
+                        </div>
+                        <input class="kg-video-seek-slider" max="100" type="range" value="0" />
+                        <button class="kg-video-playback-rate">1&times;</button>
+                        <button class="kg-video-unmute-icon">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M15.189 2.021a9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h1.794a.249.249 0 0 1 .221.133 9.73 9.73 0 0 0 7.924 4.85h.06a1 1 0 0 0 1-1V3.02a1 1 0 0 0-1.06-.998Z"></path>
+                            </svg>
+                        </button>
+                        <button class="kg-video-mute-icon kg-video-hide">
+                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M16.177 4.3a.248.248 0 0 0 .073-.176v-1.1a1 1 0 0 0-1.061-1 9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h.114a.251.251 0 0 0 .177-.073ZM23.707 1.706A1 1 0 0 0 22.293.292l-22 22a1 1 0 0 0 0 1.414l.009.009a1 1 0 0 0 1.405-.009l6.63-6.631A.251.251 0 0 1 8.515 17a.245.245 0 0 1 .177.075 10.081 10.081 0 0 0 6.5 2.92 1 1 0 0 0 1.061-1V9.266a.247.247 0 0 1 .073-.176Z"></path>
+                            </svg>
+                        </button>
+                        <input class="kg-video-volume-slider" max="100" type="range" value="100" />
+                    </div>
+                </div>
+            </div>
+            
+        </figure><p>In KDE Plasma, without losing focus of the current window, you can:</p><ul><li>Move a background window: <code>Meta + Left-click </code></li><li>Resize background window: <code>Meta + Right-click</code></li><li>Move a window to and fro from the background: <code>Meta + Middle click</code></li></ul><figure class="kg-card kg-image-card"><img alt="kde plasma window actions" class="kg-image" height="798" src="https://itsfoss.com/content/images/2026/09/inner-window-settings.png" width="1050" /></figure><p>There are other actions you can assign to it as well. The settings are available under <code>Window Management -&gt; Window Behavior -&gt; Window Actions</code>. You can see the available options above.</p><h2 id="%F0%9F%8E%8B-fun-in-the-fossverse">&#127883; Fun in the FOSSverse</h2><p>Did you know that Z shell (Zsh) is older than Linux? Perhaps you can <a href="https://itsfoss.com/quiz/zsh-shell-fun/">test more of your Zsh knowledge in the latest quiz</a>.</p><p>Seems like the action of a Windows user ;)</p><figure class="kg-card kg-image-card"><img alt="linux bible horror" class="kg-image" height="1920" src="https://itsfoss.com/content/images/2026/09/meme4732.jpg" width="1440" /></figure><p><strong>&#128467;&#65039; Tech Trivia</strong>: On September 14, 1959, Bank of America officially adopted <a href="https://www.sri.com/hoi/banking-automation-erma/" rel="noreferrer">ERMA</a>, letting computers read checks via magnetic-ink account numbers. Developed at Stanford Research Institute (SRI), this innovation automated banking and launched the magnetic ink character recognition tech still used on checks today.</p><p><strong>&#129489;&zwj;&#129309;&zwj;&#129489; From the Community</strong>: Laura, one of our regular FOSSers is celebrating <a href="https://itsfoss.community/t/happy-software-freedom-day-2026/16247">Software Freedom Day</a> along with other FOSSers; why don't you join them?</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17464532.gif" width="1" />]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
     <item>
       <title>The Famed PS5 Linux Project Lead Quits Over a Premature Exploit Report to Sony</title>
       <link>https://feed.itsfoss.com/link/24361/17464369/ps5-linux-lead-quits</link>
@@ -31,6 +127,152 @@
       <pubDate>Wed, 16 Sep 2026 08:59:12 +0000</pubDate>
       <description><![CDATA[gamer penguin holding controller, a screenshot of geforce now's linux client, and the wide nvidia logo]]></description>
       <category>Gaming 🎮</category>
+    </item>
+    <item>
+      <title>Встречную машину в заносе вынесло под минивэн. Рядом с МКАД — авария (видео)</title>
+      <link>https://auto.onliner.by/go/1266332</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/vstrechnuyu-mashinu-v-zanose</guid>
+      <pubDate>Thu, 17 Sep 2026 15:02:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/vstrechnuyu-mashinu-v-zanose"><img alt="" src="https://content.onliner.by/news/thumbnail/24ead18a7e6dc82d7a681d8b74b0e7c7.jpg" /></a></p><p>Очевидец сообщил об аварии, которая произошла сегодня днем на автодороге Н9034 (ведет от МКАД в сторону поселка Новый двор). На видео с регистратора можно увидеть, как развивались события.</p><p><a href="https://auto.onliner.by/2026/09/17/vstrechnuyu-mashinu-v-zanose">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На развязке МКАД и улицы Вязынской начинают стройку. С 19 сентября изменится схема движения</title>
+      <link>https://auto.onliner.by/go/1266325</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/sxema-dvizheniya</guid>
+      <pubDate>Thu, 17 Sep 2026 14:58:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/sxema-dvizheniya"><img alt="" src="https://content.onliner.by/news/thumbnail/c86a4a03496f89d56e5e7fe6eddfdc96.jpg" /></a></p><p>На развязке МКАД и улицы Вязынской начинают строить новый участок дороги — из-за этого с 20:00 19 сентября там изменится схема движения, сообщает ГАИ Минска.</p><p><a href="https://auto.onliner.by/2026/09/17/sxema-dvizheniya">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Взял в каршеринг автомобиль, а дальше «аренда зависла». Чем все закончилось?</title>
+      <link>https://auto.onliner.by/go/1266327</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/vzyal-v-karshering-avtomobil</guid>
+      <pubDate>Thu, 17 Sep 2026 14:53:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/vzyal-v-karshering-avtomobil"><img alt="" src="https://content.onliner.by/news/thumbnail/209e09fa2e42ccae5ff28d7dcf642f4a.jpg" /></a></p><p>Наш читатель рассказал о ситуации, с которой столкнулся сегодня при аренде каршерингового автомобиля. По его словам, по окончании поездки он не смог сразу завершить аренду, из-за чего деньги продолжали списываться. Прежде чем удалось остановить этот процесс, стоимость составила 239,2 руб. По оценке самого клиента, если бы он смог завершить аренду сразу по окончании поездки, вышло бы около 70 руб.</p><p><a href="https://auto.onliner.by/2026/09/17/vzyal-v-karshering-avtomobil">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Оцените релизный трейлер Control Resonant — игра выходит уже совсем скоро</title>
+      <link>https://tech.onliner.by/go/793316</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/ocenite-reliznyj-trejler-control-resonant-igra-vyxodit-uzhe-sovsem-skoro</guid>
+      <pubDate>Thu, 17 Sep 2026 14:40:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/ocenite-reliznyj-trejler-control-resonant-igra-vyxodit-uzhe-sovsem-skoro"><img alt="" src="https://content.onliner.by/news/thumbnail/3dd46bc84d905bb7dfbfe6cb6850cf11.jpg" /></a></p><p>На YouTube и других платформах опубликовали релизный трейлер игры Control Resonant — сиквела оригинальной Control от Remedy, вышедшей еще в 2019 году.</p><p><a href="https://tech.onliner.by/2026/09/17/ocenite-reliznyj-trejler-control-resonant-igra-vyxodit-uzhe-sovsem-skoro">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В сеть слили возможные характеристики предполагаемой PSP 3 от Sony</title>
+      <link>https://tech.onliner.by/go/793296</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/v-set-slili-vozmozhnye-xarakteristiki-predpolagaemoj-psp-3-ot-sony</guid>
+      <pubDate>Thu, 17 Sep 2026 14:08:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/v-set-slili-vozmozhnye-xarakteristiki-predpolagaemoj-psp-3-ot-sony"><img alt="" src="https://content.onliner.by/news/thumbnail/bd3ad7133e34c92cd2b12005aaf00be4.jpg" /></a></p><p>О том, что в Sony якобы готовят к выходу новую версию портативной игровой консоли, в сети говорили давно. Но теперь предполагаемый девайс силами инсайдера <a href="https://www.reddit.com/r/GamingLeaksAndRumours/comments/1wig561/keplerl2_project_canis_features_24gb_ram_rdna_5/" target="_blank">оброс</a> некоторыми подробностями — в частности, о технических параметрах.</p><p><a href="https://tech.onliner.by/2026/09/17/v-set-slili-vozmozhnye-xarakteristiki-predpolagaemoj-psp-3-ot-sony">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Ремонт сделали, а полы забыли? Минчане заплатили за обновление подъезда и остались недовольны</title>
+      <link>https://realt.onliner.by/go/1131370</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/remont-sdelali-a-poly-zabyli</guid>
+      <pubDate>Thu, 17 Sep 2026 14:05:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/remont-sdelali-a-poly-zabyli"><img alt="" src="https://content.onliner.by/news/thumbnail/c177709cd4a46b65c0de57f3494bc338.jpg" /></a></p><p><p>Жители одного из столичных домов оказались в коммунальной ловушке. Еще в июне жильцы — в большинстве своем пенсионеры — собственными средствами оплатили ремонт подъезда. Рабочие освежили стены, потолки и двери, но, когда дело дошло до деревянных полов, просто отказались их красить, сославшись на указание мастера. Жильцов это не устроило, и они записались на <a href="https://t.me/okt_minsk_official/31991" target="_blank">прием</a> к главе администрации Октябрьского района Эдуарду Томильчику.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/09/17/remont-sdelali-a-poly-zabyli">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Белоруска неожиданно узнала, что уволена за прогул. Вот только на работе она была</title>
+      <link>https://money.onliner.by/go/346657</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/beloruska-neozhidanno</guid>
+      <pubDate>Thu, 17 Sep 2026 13:57:15 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/beloruska-neozhidanno"><img alt="" src="https://content.onliner.by/news/thumbnail/b13d306cc39e0141e7a0a2ee26d8c62d.jpg" /></a></p><p>Инженер по охране труда одного из предприятий Петриковского района неожиданно <a href="https://brka.by/news/nezakonno-uvolennyy-sotrudnik-vosstanovlen-s-kompensatsiey-moralnogo-vreda-itogi-raboty-advokata/?bitrix_include_areas=N&amp;clear_cache=Y">узнала</a>, что ее уволили за прогул. Вот только в указанный день женщина была на работе и выполняла свои обязанности. Мириться с увольнением она не стала и после консультации с адвокатом обратилась в суд.</p><p><a href="https://money.onliner.by/2026/09/17/beloruska-neozhidanno">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>В Рогачевском районе коровы сбежали из сарая фермы и умерли</title>
+      <link>https://people.onliner.by/go/1333036</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/korovy-sbezhali</guid>
+      <pubDate>Thu, 17 Sep 2026 13:47:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/korovy-sbezhali"><img alt="" src="https://content.onliner.by/news/thumbnail/f428ad64d9ba16819482fd2f8e4eede5.jpg" /></a></p><p><p dir="ltr">В Рогачевском районе шесть коров погибли после того, как ночью выбрались из сарая на территории фермы. Животные отравились остатками фосфорных удобрений, которые лежали на земле. Прокуратура <a href="https://www.prokuratura.gov.by/ru/media/novosti/nadzor-za-resheniyami-po-ugolovnym-i-grazhdanskim-delam/po-isku-prokurora-ro17092026/" target="_blank">потребовала</a> взыскать с ответственных лиц более 24,6 тыс. рублей ущерба.</p><p><a href="https://people.onliner.by/2026/09/17/korovy-sbezhali">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В нидерландской библиотеке нашли фрагмент «Одиссеи» Гомера возрастом 1700 лет</title>
+      <link>https://tech.onliner.by/go/793276</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/v-niderlandskoj-biblioteke-nashli-fragment-odissei-gomera-vozrastom-1700-let</guid>
+      <pubDate>Thu, 17 Sep 2026 13:10:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/v-niderlandskoj-biblioteke-nashli-fragment-odissei-gomera-vozrastom-1700-let"><img alt="" src="https://content.onliner.by/news/thumbnail/708e8b03bbbe1df043b921d9d7bc2e6a.jpg" /></a></p><p>Исследователь, изучавший собрание древнеегипетских текстов в библиотеке Нидерландов, наткнулся на обрывок пергамента с, как утверждается, отрывком из «Одиссеи» Гомера. <em>«Судя по всему, этот фрагмент из карманного издания поэмы, изготовленного в Египте примерно в 300 году нашей эры»</em>, — <a href="https://www.livescience.com/archaeology/1-700-year-old-fragment-of-the-odyssey-discovered-between-pages-of-dutch-library-book" target="_blank">пишут</a> в Live Science. </p><p><a href="https://tech.onliner.by/2026/09/17/v-niderlandskoj-biblioteke-nashli-fragment-odissei-gomera-vozrastom-1700-let">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Закрытие байкерского сезона, драг-рейсинг и не только. Афиша выходных</title>
+      <link>https://auto.onliner.by/go/1266289</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/afisha-vyxodnyx-7</guid>
+      <pubDate>Thu, 17 Sep 2026 13:09:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/afisha-vyxodnyx-7"><img alt="" src="https://content.onliner.by/news/thumbnail/e9a899350f9a175e1009cc3f08d3a7db.jpg" /></a></p><p>Ловим последние тепленькие деньки вместе на тематических мероприятиях под открытым небом. Очередной осенний уик-энд вновь богат на различные ивенты по всей стране. Тут вам и закрытие байкерского сезона, и мотокросс, и драг-рейсинг, и многое другое. Сейчас все расскажем в традиционном анонсе Onlíner. </p><p><a href="https://auto.onliner.by/2026/09/17/afisha-vyxodnyx-7">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Нью-Йорке установят бесплатные общественные туалеты, но двери откроются через 10 минут</title>
+      <link>https://realt.onliner.by/go/1131161</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/ny-46</guid>
+      <pubDate>Thu, 17 Sep 2026 12:41:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/ny-46"><img alt="" src="https://content.onliner.by/news/thumbnail/87a448b9501d4346420ae018c002b3c4.jpg" /></a></p><p>В Нью‑Йорке началась установка 17 новых модульных общественных туалетов. Это часть программы по расширению бесплатной санитарной инфраструктуры в местах с высоким трафиком. Инициатор проекта, мэр города Зохран Мамдани, подчеркивает, что город десятилетиями страдал от нехватки доступных уборных, и новая система должна исправить ситуацию, <a href="https://www.nbcnewyork.com/new-york-city/nyc-bathrooms-mamdani-door-open-where-locations/6548407/" target="_blank">сообщает</a> NBC.</p><p><a href="https://realt.onliner.by/2026/09/17/ny-46">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>В Минске директора компании отправили на общественные работы за неуплату алиментов</title>
+      <link>https://money.onliner.by/go/346628</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/v-minske-direktora-kompanii</guid>
+      <pubDate>Thu, 17 Sep 2026 12:38:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/v-minske-direktora-kompanii"><img alt="" src="https://content.onliner.by/news/thumbnail/cf1f28d6b9c30f587034c88d489482c4.jpg" /></a></p><p>В Минске вынесли приговор 48-летнему мужчине, который задолжал алименты на содержание четверых детей. Несмотря на должность директора частной компании, некоторое время мужчина вообще не работал, <a href="https://minsknews.by/v-minske-direktor-chastnoj-kompanii-ne-platil-alimenty-na-soderzhanie-chetveryh-detej/">пишут</a> «Минск-Новости».</p><p><a href="https://money.onliner.by/2026/09/17/v-minske-direktora-kompanii">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Владельцы китайских Tesla жалуются на проблемы. Что не так с подвеской? (обновлено)</title>
+      <link>https://auto.onliner.by/go/1263813</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/vladelcy-kitajskix-tesla</guid>
+      <pubDate>Thu, 17 Sep 2026 12:23:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/vladelcy-kitajskix-tesla"><img alt="" src="https://content.onliner.by/news/thumbnail/854022e6a4177dd3851c8c08e4169741.jpg" /></a></p><p>Владельцы 6-местного кроссовера Tesla Model Y L столкнулись с недостаточной надежностью задней подвески. Судя по жалобам в соцсетях, речь может идти о системной проблеме, пишут местные СМИ.</p><p><a href="https://auto.onliner.by/2026/09/17/vladelcy-kitajskix-tesla">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Zsh Quiz: How Well Do You Know Your Shell?</title>
+      <link>https://feed.itsfoss.com/link/24361/17464480/zsh-shell-fun</link>
+      <guid isPermaLink="false">6aabd214922f5a000126e4f6</guid>
+      <pubDate>Thu, 17 Sep 2026 12:10:22 +0000</pubDate>
+      <description><![CDATA[zshell]]></description>
+      <category>Quizzes</category>
+    </item>
+    <item>
+      <title>50-летнего директора организации задержали за закладки</title>
+      <link>https://people.onliner.by/go/1333009</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/direktora-organizacii-zaderzhali-za-zakladki</guid>
+      <pubDate>Thu, 17 Sep 2026 12:07:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/direktora-organizacii-zaderzhali-za-zakladki"><img alt="" src="https://content.onliner.by/news/thumbnail/9dcce2f42b77467bb824974eb082cfc6.jpg" /></a></p><p><p dir="ltr">В Минске сотрудники наркоконтроля задержали двух мужчин, которых подозревают в распространении мефедрона. Это 23-летний монтажник и 50-летний директор организации. Как <a href="https://t.me/police_minsk/40060" target="_blank">сообщает</a> столичная милиция, они успели проработать на наркомаркет около трех недель.</p><p><a href="https://people.onliner.by/2026/09/17/direktora-organizacii-zaderzhali-za-zakladki">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В Германии под спортивной площадкой нашли монеты, которым 2 тысячи лет</title>
+      <link>https://tech.onliner.by/go/793218</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/v-germanii-pod-sportivnoj-ploshhadkoj-nashli-monety-kotorym-2-tysyachi-let</guid>
+      <pubDate>Thu, 17 Sep 2026 11:53:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/v-germanii-pod-sportivnoj-ploshhadkoj-nashli-monety-kotorym-2-tysyachi-let"><img alt="" src="https://content.onliner.by/news/thumbnail/1347a93a729a7b595701d6533455242e.jpg" /></a></p><p><em>«Под бывшей спортивной площадкой </em>[в центральной части Германии] <em>отыскали редкий клад кельтских серебряных монет возрастом 2000 лет»</em>, — такими словами <a href="https://arkeonews.net/rare-2000-year-old-celtic-silver-hoard-found-beneath-a-former-sports-field/" target="_blank">открывается</a> материал издания arkeonews, в котором о кладе рассказывается подробнее. </p><p><a href="https://tech.onliner.by/2026/09/17/v-germanii-pod-sportivnoj-ploshhadkoj-nashli-monety-kotorym-2-tysyachi-let">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Главная страница сайта Tez Tour подверглась атаке. Комментарий оператора (обновлено)</title>
+      <link>https://money.onliner.by/go/346340</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/s-tez-tour-chto-to-sluchilos-glavnaya-stranica-sajta-sejchas-vyglyadit-tak</guid>
+      <pubDate>Thu, 17 Sep 2026 11:08:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/s-tez-tour-chto-to-sluchilos-glavnaya-stranica-sajta-sejchas-vyglyadit-tak"><img alt="" src="https://content.onliner.by/news/thumbnail/8f26866e0a4e76716b5b8701bbc82712.png" /></a></p><p>При попытке открыть сайт 16-го сентября 2026 года появилась надпись:<em> «DATASUCKERS взломали TEZ TOUR. Все сервера скомпрометированы. Выкачано и уничтожено: 45 398 685 записей бронирований, 21 515 914 заказов туров, 52 176 283 бронирований отелей и 252 300 000 финансовых транзакций. Итого: 395 500 000 записей — безвозвратно утеряны»</em>. Насколько заявления совпадают с истиной, выяснили непосредственно у оператора.</p><p><a href="https://money.onliner.by/2026/09/17/s-tez-tour-chto-to-sluchilos-glavnaya-stranica-sajta-sejchas-vyglyadit-tak">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Лофт по-советски. В Минске продают сталинку с голыми стенами и мебелью</title>
+      <link>https://realt.onliner.by/go/1131117</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/loft-po-sovetski</guid>
+      <pubDate>Thu, 17 Sep 2026 11:04:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/loft-po-sovetski"><img alt="" src="https://content.onliner.by/news/thumbnail/8c72e45a6075a7acfb5b03316042ad05.jpg" /></a></p><p><p>К голым бетонным стенам в «Минск-Мире» все уже давно привыкли. Однако владельцы старого жилфонда тоже умеют удивлять: на вторичном рынке  <a href="https://r.onliner.by/pk/apartments/1273480" target="_blank">появилась</a> сталинка с крайне контрастным интерьером.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/09/17/loft-po-sovetski">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
     </item>
     <item>
       <title>Неизвестные пытались завладеть данными юзеров через уведомления якобы от Zoom</title>
@@ -79,164 +321,6 @@
       <pubDate>Thu, 17 Sep 2026 09:24:51 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/izuchili-lada-niva-legend"><img alt="" src="https://content.onliner.by/news/thumbnail/c0219c1b01b8ca3ea2cc295cff54087a.jpg" /></a></p><p>Накануне 50-летнего юбилея (его будут отмечать в следующем году) знаменитый тольяттинский внедорожник был серьезно модернизирован. В общей сложности внедрено более 350 новых или переработанных деталей и компонентов. Доработана подвеска, улучшена эргономика, некоторые кузовные панели получили оцинковку, ну а главное, теперь под капотом у Niva Legend совершенно новый для нее двигатель. Изучили все изменения в статике во время презентации, устроенной официальным импортером Lada в Беларуси.</p><p><a href="https://auto.onliner.by/2026/09/17/izuchili-lada-niva-legend">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Девушка пожаловалась на сложности поиска жилья с кошкой. Что ответили арендодатели?</title>
-      <link>https://realt.onliner.by/go/1131105</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/chto-vam-sdelali-zhivotnye</guid>
-      <pubDate>Thu, 17 Sep 2026 09:18:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/chto-vam-sdelali-zhivotnye"><img alt="" src="https://content.onliner.by/news/thumbnail/93570c10ca17cffb5c9a80affd0e3429.jpg" /></a></p><p><p>Поиск съемного жилья для владельцев домашних животных часто превращается в настоящий квест. В соцсетях разгорелась очередная дискуссия: девушка задалась вопросом, почему наличие кошки мгновенно закрывает перед квартирантами большинство дверей, даже если они готовы компенсировать возможные риски.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/17/chto-vam-sdelali-zhivotnye">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Белорус годами просил деньги у знакомых и не возвращал. Теперь его ждет тюрьма</title>
-      <link>https://money.onliner.by/go/346576</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/belorus-godami-prosil-dengi-u-znakomyx-i-ne-vozvrashhal-teper-ego-zhdet-tyurma</guid>
-      <pubDate>Thu, 17 Sep 2026 09:03:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/belorus-godami-prosil-dengi-u-znakomyx-i-ne-vozvrashhal-teper-ego-zhdet-tyurma"><img alt="" src="https://content.onliner.by/news/thumbnail/90d671e52c3c397018097f7b0afdbaa7.jpg" /></a></p><p>Сначала деньги понадобились на строительство квартиры, спустя несколько лет — на ремонт, мебель и инструменты. Как установил суд, все это время 40-летний житель Гомельской области занимал крупные суммы у знакомых, но возвращать их не собирался. История растянулась почти на девять лет.</p><p><a href="https://money.onliner.by/2026/09/17/belorus-godami-prosil-dengi-u-znakomyx-i-ne-vozvrashhal-teper-ego-zhdet-tyurma">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Тестируем новинку от Belgee. Теперь это самый дешевый кроссовер в линейке</title>
-      <link>https://auto.onliner.by/go/1266137</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/testiruem-novinku-ot-belgee-teper-eto-samyj-deshevyj-krossover-v-linejke</guid>
-      <pubDate>Thu, 17 Sep 2026 09:00:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/testiruem-novinku-ot-belgee-teper-eto-samyj-deshevyj-krossover-v-linejke"><img alt="" src="https://content.onliner.by/news/thumbnail/5e8958705c959ae61907fc220318b889.jpg" /></a></p><p>Завод «Белджи» запустил в производство обновленную версию уже прекрасно знакомого кроссовера Belgee X50. Теперь это самый дешевый кроссовер в линейке, более того, он сопоставим со стоимостью S50. С седаном у новинки вообще много общего: они имеют один и тот же мотор и «коробку». Мы протестировали кроссовер, пересев на него как раз с S50. Рассказываем про впечатления. </p><p><a href="https://auto.onliner.by/2026/09/17/testiruem-novinku-ot-belgee-teper-eto-samyj-deshevyj-krossover-v-linejke">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>ДТП на площади Богушевича: автомобиль сильно поврежден, сломано дорожное ограждение  (видео)</title>
-      <link>https://auto.onliner.by/go/1266180</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/dtp-na-ploshhadi-bogushevicha</guid>
-      <pubDate>Thu, 17 Sep 2026 08:57:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/dtp-na-ploshhadi-bogushevicha"><img alt="" src="https://content.onliner.by/news/thumbnail/c76c5cebef79782970d56d2a61b800c9.png" /></a></p><p>Читатели сообщают о ДТП, которое случилось сегодня на площади Богушевича. Судя по видео, у автомобиля сильно повреждена передняя часть. Дальше на кадрах можно заметить, что на дороге лежат части авто.</p><p><a href="https://auto.onliner.by/2026/09/17/dtp-na-ploshhadi-bogushevicha">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Девушка сняла в баре видео на iPhone — в камере появились странные точки</title>
-      <link>https://tech.onliner.by/go/793094</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/iphone-lasers</guid>
-      <pubDate>Thu, 17 Sep 2026 08:50:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/iphone-lasers"><img alt="" src="https://content.onliner.by/news/thumbnail/db446d97e9ca6746e5bdc903b7928df8.jpg" /></a></p><p><p dir="ltr">Во время отдыха в одном из минских клубов девушка снимала видео для личного архива. Вскоре она обнаружила, что камера ее iPhone 17 Pro оказалась повреждена. Тогда белоруска предположила, что причина в световых приборах, установленных на танцполе. Спросили у экспертов, насколько частая такого рода поломка.</p><p><a href="https://tech.onliner.by/2026/09/17/iphone-lasers">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Ватикан впервые в истории выдвинет фильм на «Оскар»</title>
-      <link>https://people.onliner.by/go/1332959</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/vatikan-vpervye-v-istorii-vydvinet-film-na-oskar</guid>
-      <pubDate>Thu, 17 Sep 2026 08:39:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/vatikan-vpervye-v-istorii-vydvinet-film-na-oskar"><img alt="" src="https://content.onliner.by/news/thumbnail/c4a36e2736bf9c188bd02eede0c3e6f5.jpg" /></a></p><p>Ватикан впервые в истории представит фильм для участия в отборе на кинопремию «Оскар». Об этом <a href="https://variety.com/2026/film/global/vatican-submit-film-oscar-consideration-1236864011/" target="_blank">сообщает</a> Variety.</p><p><a href="https://people.onliner.by/2026/09/17/vatikan-vpervye-v-istorii-vydvinet-film-na-oskar">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>В сети собрали сомнительные стрижки, которые лучше не повторять</title>
-      <link>https://tech.onliner.by/go/793146</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/v-kadr-popali-pricheski-kotorye-trudno-obyasnit</guid>
-      <pubDate>Thu, 17 Sep 2026 08:25:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/v-kadr-popali-pricheski-kotorye-trudno-obyasnit"><img alt="" src="https://content.onliner.by/news/thumbnail/5b461b9933b31d6b51c10b37167e8c83.jpg" /></a></p><p>Новая прическа — хороший способ преобразиться, при этом не обязательно кардинально меняя представление о себе. Но, кажется, люди и их стрижки, о которых пойдет речь ниже, думают иначе. Их образы в лучшем случае можно назвать экстравагантными. Но, если честно, скорее просто странными. В Bored Panda <a href="https://www.boredpanda.com/questionable-haircuts-gone-wrong/?_t=1&amp;_f=homepage_featured" target="_blank">собрали</a> примеры, ниже — некоторые из них.</p><p><a href="https://tech.onliner.by/2026/09/17/v-kadr-popali-pricheski-kotorye-trudno-obyasnit">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Водитель Ford не пропустила грузовик на перекрестке — столкновения избежать не удалось (видео)</title>
-      <link>https://auto.onliner.by/go/1266154</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/ford-ne-propustil-gruzovik</guid>
-      <pubDate>Thu, 17 Sep 2026 08:22:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/ford-ne-propustil-gruzovik"><img alt="" src="https://content.onliner.by/news/thumbnail/4069f76abce78ac6cce08c8a3246c7af.png" /></a></p><p>28-летняя женщина — водитель Ford сегодня утром на перекрестке проспекта Пушкина и улицы Пономаренко не предоставила преимущество грузовому автомобилю МАЗ и совершила с ним столкновение.</p><p><a href="https://auto.onliner.by/2026/09/17/ford-ne-propustil-gruzovik">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Первая школа в «Зеленой гавани» откроется в 2028 году. Какой она будет?</title>
-      <link>https://realt.onliner.by/go/1131133</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/xogvarts-kosmos-i-nauka</guid>
-      <pubDate>Thu, 17 Sep 2026 08:13:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/xogvarts-kosmos-i-nauka"><img alt="" src="https://content.onliner.by/news/thumbnail/a08ea43f890d2451327abc03b1c36399.jpg" /></a></p><p>В квартале «Зеленая гавань» начали строить важный социальный объект — первую школу. Ее разместят в так называемом социальном кластере, который в будущем будет включать сразу несколько школ, детских садов, поликлинику и торговый центр. А что, удобно: забрал деток, заглянул за справкой, забежал за продуктами — и домой. «Школа открытий» рассчитана на 1125 человек и примет учеников в 2028 году. Смотрим, какой она получится.
-</p><p><a href="https://realt.onliner.by/2026/09/17/xogvarts-kosmos-i-nauka">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Ставка ФРС США выросла. Как на это реагирует доллар? (обновлено)</title>
-      <link>https://money.onliner.by/go/346561</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/stavka-frs-ssha-poshla-vverx</guid>
-      <pubDate>Thu, 17 Sep 2026 07:50:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/stavka-frs-ssha-poshla-vverx"><img alt="" src="https://content.onliner.by/news/thumbnail/03b8b92fe40a92bb6ddf2f57201d4847.jpg" /></a></p><p>Теперь целевой диапазон ставки по федеральным фондам составляет 3,75—4%. Решение было принято единогласно. ФРС объяснила повышение тем, что инфляция в США остается повышенной и необходимо вернуть ее к цели в 2%. Утром в четверг, 17 сентября, доллар начал понемногу отыгрывать свое. Биткоин за последние сутки подорожал, сейчас находится вблизи отметки $76 470.
-</p><p><a href="https://money.onliner.by/2026/09/17/stavka-frs-ssha-poshla-vverx">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Минске водитель BMW перестраивался и врезался в Volkswagen — тот отлетел на стену перехода (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1266146</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/vrezalsya-v-volkswagen</guid>
-      <pubDate>Thu, 17 Sep 2026 07:40:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/vrezalsya-v-volkswagen"><img alt="" src="https://content.onliner.by/news/thumbnail/19e702e8f1f9a3ef64a0f804f0d23c73.jpg" /></a></p><p>Вчера вечером водитель BMW рядом с домом №89 на проспекте Независимости при перестроении не убедился в безопасности маневра и столкнулся с попутным Volkswagen.</p><p><a href="https://auto.onliner.by/2026/09/17/vrezalsya-v-volkswagen">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Фотофакт: в Минске заметили редкий Rolls Royce</title>
-      <link>https://auto.onliner.by/go/1266140</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/v-minske-zametili-redkij</guid>
-      <pubDate>Thu, 17 Sep 2026 07:28:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/v-minske-zametili-redkij"><img alt="" src="https://content.onliner.by/news/thumbnail/bf4e3b331c546d4d245235fde049e08d.jpg" /></a></p><p>Читатель прислал в адрес редакции фотографии Rolls Royce Silver Spur. Он рассказал, что сфотографировал этот автомобиль в Минске. <em>«Там долгое время 21-я „Волга“ стоит, символически восстановленная. А сегодня появился этот красавец»,</em> — рассказал он.</p><p><a href="https://auto.onliner.by/2026/09/17/v-minske-zametili-redkij">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Беларуси выйдет новая версия Belgee X50. Сколько стоит новинка? (обновлено)</title>
-      <link>https://auto.onliner.by/go/1265154</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/09/17/belgee-x50-2</guid>
-      <pubDate>Thu, 17 Sep 2026 06:51:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/17/belgee-x50-2"><img alt="" src="https://content.onliner.by/news/thumbnail/e0ed0693407b6ff7940af723ff02ec49.jpg" /></a></p><p>«Белджи» запустил в производство обновленную версию кроссовера Belgee X50. Что нового? Переработанный интерьер, атмосферный мотор в паре с классическим автоматом. Автомобиль предложат в комплектации Standard — с кожаными сиденьями, 16-дюймовыми дисками и десятком умных помощников. Новую версию Belgee X50 производят под Борисовом.
-</p><p><a href="https://auto.onliner.by/2026/09/17/belgee-x50-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Более 70 тысяч рублей взяток на двоих. На Брестчине осудили работников сельхозпредприятий</title>
-      <link>https://money.onliner.by/go/346551</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/17/bolee-70-tysyach-rublej</guid>
-      <pubDate>Thu, 17 Sep 2026 06:48:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/17/bolee-70-tysyach-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/b1a59d25a6c8949eb1f08c3322c66aae.jpg" /></a></p><p>Сразу два уголовных дела о взятках при закупках рассмотрели суды в Брестской области. В одном случае речь идет о директоре филиала сельхозпредприятия, в другом — о главном агрономе. Оба получили реальные сроки, сообщает прокуратура.</p><p><a href="https://money.onliner.by/2026/09/17/bolee-70-tysyach-rublej">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Найдены актеры на роль Артура Уизли и еще двух важных героев в сериале по «Гарри Поттеру»</title>
-      <link>https://tech.onliner.by/go/793132</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/najdeny-aktery-na-rol-artura-uizli-i-eshhe-dvux-vazhnyx-geroev-v-seriale-po-garri-potteru</guid>
-      <pubDate>Thu, 17 Sep 2026 06:43:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/najdeny-aktery-na-rol-artura-uizli-i-eshhe-dvux-vazhnyx-geroev-v-seriale-po-garri-potteru"><img alt="" src="https://content.onliner.by/news/thumbnail/c185ffa6c81c1dac04b86932e9f2d1c1.jpg" /></a></p><p>Вскоре должны стартовать съемки «Тайной комнаты» — второго сезона сериала по «Гарри Поттеру». Как <a href="https://variety.com/2026/tv/news/harry-potter-hbo-cast-arthur-weasley-moaning-myrtle-1236862281/" target="_blank">пишут</a> в Variety, HBO нашла актеров, которые исполнят в шоу — видимо, и в следующих сезонах — несколько важных ролей.
-</p><p><a href="https://tech.onliner.by/2026/09/17/najdeny-aktery-na-rol-artura-uizli-i-eshhe-dvux-vazhnyx-geroev-v-seriale-po-garri-potteru">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Снаружи этот дом выглядит скромным и неприметным. Но стоит зайти внутрь — и все меняется</title>
-      <link>https://realt.onliner.by/go/1129041</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/09/17/snaruzhi-etot-dom-vyglyadit-skromnym</guid>
-      <pubDate>Thu, 17 Sep 2026 06:31:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/09/17/snaruzhi-etot-dom-vyglyadit-skromnym"><img alt="" src="https://content.onliner.by/news/thumbnail/d774a5a71784aaeba9c14b34dd321c80.jpg" /></a></p><p><p>Снаружи этот калифорнийский одноэтажный дом 1950-х годов <a href="https://www.elledecor.com/design-decorate/house-interiors/a73596866/la-jolla-georgis-mirgorodsky-house-tour/" target="_blank">выглядит</a> максимально неприметно: скромный фасад из темного кирпича, лаконичная плоская крыша... Его вполне можно спутать с какой-то пристройкой. Но стоит переступить порог — и архитектурная скромность сменяется продуманной роскошью.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/09/17/snaruzhi-etot-dom-vyglyadit-skromnym">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>На Минщине ребенок съел ягоды ландыша и попал в больницу</title>
-      <link>https://people.onliner.by/go/1332942</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/yagody-landysha</guid>
-      <pubDate>Thu, 17 Sep 2026 06:24:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/yagody-landysha"><img alt="" src="https://content.onliner.by/news/thumbnail/02b8433ed078dea08fb5f735b1bac93f.jpg" /></a></p><p>В Березинском районе двухлетний ребенок попал в больницу после того, как попробовал ягоды ландыша. Об этом <a href="https://mlyn.by/16092026/v-berezino-dvuhletnij-rebenok-otravilsya-yagodami-landysha/" target="_blank">сообщает</a> mlyn.by.</p><p><a href="https://people.onliner.by/2026/09/17/yagody-landysha">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Посмотрите второй трейлер приквела «Голодных игр» о юном Хеймитче</title>
-      <link>https://tech.onliner.by/go/793117</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/09/17/posmotrite-vtoroj-trejler-prikvela-golodnyx-igr-o-yunom-xejmitche</guid>
-      <pubDate>Thu, 17 Sep 2026 06:11:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/09/17/posmotrite-vtoroj-trejler-prikvela-golodnyx-igr-o-yunom-xejmitche"><img alt="" src="https://content.onliner.by/news/thumbnail/d57a41867c2ed524e1d92a1b32122ab2.jpg" /></a></p><p>На YouTube-канале Lionsgate Movies опубликовали второй официальный трейлер фильма «Голодные игры: Рассвет жатвы» — картины-приквела к оригинальным фильмам, в которой расскажут историю молодого Хеймитча Эбернети.</p><p><a href="https://tech.onliner.by/2026/09/17/posmotrite-vtoroj-trejler-prikvela-golodnyx-igr-o-yunom-xejmitche">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«У меня нет связок в руках». Белорус 15 лет отработал в лучшем цирке мира — что дальше? (видео)</title>
-      <link>https://people.onliner.by/go/1332362</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/09/17/15-let-v-cirque-du-soleil</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/17/15-let-v-cirque-du-soleil"><img alt="" src="https://content.onliner.by/news/thumbnail/8e489ea955be5595d2af34976be0ac88.jpg" /></a></p><p>«Я живу на два города: Лас-Вегас и Вилейка» — уже одной этой фразы достаточно, чтобы познакомиться с произнесшим ее человеком поближе. А в жизни нашего героя Александра Барсаня к тому же где-то между этими точками были Австралия, Бразилия, Япония и еще примерно треть мира. Уроженец Вилейки объездил планету с легендарным Cirque du Soleil, где полтора десятка лет отработал в качестве нижнего акробата (это те, кто подбрасывает и ловит других). Сейчас Александру 45, он уверяет, что еще в форме, хотя уже и не горит желанием возвращаться на сцену любой ценой. От старой жизни у него осталась внушительная коллекция артефактов — почти домашний музей. Заглянули в гости и, разглядывая экспонаты, послушали истории про десять шоу в неделю, безбашенных постсоветских акробатов, травмы и танцы с огнем.</p><p><a href="https://people.onliner.by/2026/09/17/15-let-v-cirque-du-soleil">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>On Time! GNOME 51 Arrives With a Set of Improvements You Shouldn't Miss</title>
