@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 18 Sep 2026 20:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:22:50 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -548,14 +548,6 @@
       <pubDate>Thu, 17 Sep 2026 03:55:34 +0000</pubDate>
       <description><![CDATA[gnome 51 banner]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>The Simplest Method to Extract All Images from a Document in LibreOffice</title>
-      <link>https://feed.itsfoss.com/link/24361/17463130/extract-all-images-office</link>
-      <guid isPermaLink="false">69d33cb1123c2f00010eb082</guid>
-      <pubDate>Wed, 16 Sep 2026 02:56:15 +0000</pubDate>
-      <description><![CDATA[Extract All Images from a Document in LibreOffice]]></description>
-      <category>LibreOffice 📄</category>
     </item>
   </channel>
 </rss>
