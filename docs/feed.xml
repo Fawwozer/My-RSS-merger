@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 19 Sep 2026 20:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 03:40:01 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -119,6 +119,14 @@
       <pubDate>Thu, 17 Sep 2026 07:51:08 +0000</pubDate>
       <description><![CDATA[Zerolock migration]]></description>
       <category>Linux Stories</category>
+    </item>
+    <item>
+      <title>В соцсетях сообщают о пропаже двух воспитанников «SOS — Детская деревня Боровляны»</title>
+      <link>https://people.onliner.by/go/1333619</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/09/19/v-socsetyax-soobshhayut-o-propazhe-dvux-vospitannikov-sos-detskaya-derevnya-borovlyany</guid>
+      <pubDate>Sat, 19 Sep 2026 20:13:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/09/19/v-socsetyax-soobshhayut-o-propazhe-dvux-vospitannikov-sos-detskaya-derevnya-borovlyany"><img alt="" src="https://content.onliner.by/news/thumbnail/0f8d382ee89460f0e1c1a22e1a39d5e6.jpg" /></a></p><p>В социальных сетях <a href="https://t.me/borovlianynews/10291" target="_blank">сообщают</a> о пропаже двух детей. Они воспитанники организации «SOS — Детская деревня Боровляны».</p><p><a href="https://people.onliner.by/2026/09/19/v-socsetyax-soobshhayut-o-propazhe-dvux-vospitannikov-sos-detskaya-derevnya-borovlyany">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
     </item>
     <item>
       <title>BYD Formula S получил запас хода до 900 км и зарядку за 9 минут</title>
