@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 20 Sep 2026 20:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:34:49 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>Xiaomi 18 Pro и Pro Max получили официальную дату премьеры</title>
+      <link>https://4pda.to/2026/09/21/461337/xiaomi_18_pro_i_pro_max_poluchili_ofitsialnuyu_datu_premery/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/21/461337/xiaomi_18_pro_i_pro_max_poluchili_ofitsialnuyu_datu_premery/</guid>
+      <pubDate>Mon, 21 Sep 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi объявила дату презентации новой серии флагманских смартфонов Xiaomi 18 Pro. Заодно компания раскрыла часть характеристик будущих новинок, которые представит уже на этой неделе.
+Премьера новинок [...]]]></description>
+    </item>
     <item>
       <title>GoSun показала электрический трактор с солнечной зарядкой</title>
       <link>https://4pda.to/2026/09/20/461186/gosun_pokazala_elektricheskij_traktor_s_solnechnoj_zaryadkoj/</link>
@@ -424,13 +432,6 @@ ETT [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/09/19/461318/populyarnyj_elektrokar_byd_stal_avtonomnee_i_deshevle/</guid>
       <pubDate>Sat, 19 Sep 2026 10:30:00 +0000</pubDate>
       <description><![CDATA[BYD обновила компактный электрический кроссовер Yuan Up, который за пределами Китая продаётся под названием Atto 2. Модель получила новую версию с увеличенным запасом хода, а цена некоторых комплектаций [...]]]></description>
-    </item>
-    <item>
-      <title>Neuralink показала, как имплант превращает мысленную речь в слова</title>
-      <link>https://4pda.to/2026/09/19/461316/neuralink_pokazala_kak_implant_prevraschaet_myslennuyu_rech_v_slova/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/19/461316/neuralink_pokazala_kak_implant_prevraschaet_myslennuyu_rech_v_slova/</guid>
-      <pubDate>Sat, 19 Sep 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Neuralink показала новые результаты испытаний своего мозгового импланта, который позволяет человеку общаться без использования голоса. Компания опубликовала короткое&nbsp;видео, где участник клинического [...]]]></description>
     </item>
     <item>
       <title>GrapheneOS Isn't Happy With Google Over Pixel's Widening Head Start</title>
