@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 22 Sep 2026 16:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:56:07 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,49 @@
       <pubDate>Mon, 21 Sep 2026 13:16:46 +0000</pubDate>
       <description><![CDATA[garuda nix dr460nized flavor banner]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Инсайды #3939: хаб Apple, vivo V80 в Geekbench и Amazfit T-Rex Dual Solar</title>
+      <link>https://4pda.to/2026/09/22/461416/insajdy_3939_khab_apple_vivo_v80_v_geekbench_i_amazfit_t_rex_dual_solar/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/22/461416/insajdy_3939_khab_apple_vivo_v80_v_geekbench_i_amazfit_t_rex_dual_solar/</guid>
+      <pubDate>Tue, 22 Sep 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Apple может наконец выпустить домашний хаб с сенсорным экраном; vivo V80 засветился в Geekbench со знакомым процессором; Amazfit T-Rex Dual Solar получат&nbsp;солнечную зарядку.
+Apple [...]]]></description>
+    </item>
+    <item>
+      <title>Самосвал с поднятым кузовом поехал под мост. Самосвал проехал, кузов — нет</title>
+      <link>https://auto.onliner.by/go/1267133</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/09/22/samosval-s-podnyatym-kuzovom</guid>
+      <pubDate>Tue, 22 Sep 2026 18:53:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/22/samosval-s-podnyatym-kuzovom"><img alt="" src="https://content.onliner.by/news/thumbnail/fb367723559a11d537c6f35e86f4fa4c.jpg" /></a></p><p>Сегодня вечером в Шабанах случилось ДТП. По предварительной информации, 46-летний водитель грузового автомобиля Shacman уехал по улице Селицкого с поднятым кузовом. Машина проезжала под пролетом путепровода, кузов зацепился, и его сорвало с рамы автомобиля.</p><p><a href="https://auto.onliner.by/2026/09/22/samosval-s-podnyatym-kuzovom">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Глобальная версия vivo X500 Pro Max прошла сертификацию</title>
+      <link>https://4pda.to/2026/09/22/461413/globalnaya_versiya_vivo_x500_pro_max_proshla_sertifikatsiyu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/22/461413/globalnaya_versiya_vivo_x500_pro_max_proshla_sertifikatsiyu/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Перед международным запуском серии vivo X500 появились новые сертификационные данные. Они дают первое представление о том, какие аккумуляторы могут получить глобальные версии смартфонов и насколько сильно [...]]]></description>
+    </item>
+    <item>
+      <title>PeppermintOS Is Moving From Xorg to XLibre to Avoid Wayland</title>
+      <link>https://feed.itsfoss.com/link/24361/17470277/peppermintos-xlibre</link>
+      <guid isPermaLink="false">6ab27abc922f5a000127b28b</guid>
+      <pubDate>Tue, 22 Sep 2026 17:58:08 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/09/peppermint-os.png" /></figure>
+<p>If you run a lightweight distro and you do not like the fact that Wayland will probably become the default, PeppermintOS has some news you should know about. It's switching its display server from the soon-to-be-retired Xorg to XLibre for its next round of ISO refreshes.</p><p>It may look like a sensible call as it keeps X11 alive and skips Wayland (for now). However, <a href="https://xlibre.net/">XLibre</a> is one of the divisive projects in the Linux world right now. Choosing XLibre won't sit well with some people, at least.</p><h2 id="moving-away-from-wayland-and-xorg">Moving away from Wayland and Xorg</h2><p>In a <a href="https://peppermintos.com/2026/09/testing-updated-pepdebian-build-and-shift-to-xlibre/">recent blog</a>, PeppermintOS announced it's shifting the <a href="https://itsfoss.com/display-server/" rel="noreferrer">display server</a> from xorg-server to XLibre across its upcoming builds.</p><p>Reason is simple. Development on the original Xorg has stalled and most distributions have switched to Wayland. XLibre exists with the aim to keep maintaining, modernizing, and cleaning up the codebase for people who still prefer X11. </p><p>XLibre is built as a drop-in replacement for xorg, and it aims not to break standard desktop environments, window managers, or older drivers, and PeppermintOS says its testing so far has gone as expected.</p><p>PeppermintOS says it has no immediate plans to move to Wayland, pointing to XFCE's roadmap of supporting both Xorg and Wayland natively. Xfce is the default offering from PeppermintOS.</p><p>By the way, this is the project's first Debian-based ISO built without Debian's traditional live-build tools, moving instead to <code>mmdebstrap</code>, mirroring what PeppermintOS already did for its Devuan edition. </p><p>That Devuan build has also been updated to use XLibre and is close to community testing. A <a href="https://nightly.peppermintos.org/deb64/flagship/">64-bit Debian flagship nightly is already up for testing</a>, and PeppermintOS expects a few rough edges in the build process itself.</p><div class="kg-card kg-callout-card kg-callout-card-blue"><div class="kg-callout-emoji">&#128203;</div><div class="kg-callout-text">The important point for existing PeppermintOS users is that the interface and overall experience stay identical to the current stable release. The change is under the hood.</div></div><h2 id="choosing-xlibre-will-get-some-eyerolls">Choosing Xlibre will get some eyerolls</h2><p>Why? Because critics argue <a href="https://fossforce.com/2026/04/when-your-xorg-fork-is-more-about-dei-than-display-servers/">XLibre is more of a political fork</a> than a technical one. Also, Xlibre has been in the news for some not-so-positive reasons.</p><p>XLibre is a fork of the X.Org server started in mid-2025 by Enrico Weigelt, who was the top commit contributor to Xorg in 2024. Weigelt was banned from freedesktop.org's GitLab around the time the fork went public. </p><p><a href="https://ostechnix.com/xlibre-arch-wiki-removal-explained/">Arch Linux removed XLibre's page from its official wiki</a> earlier this year, citing a Code of Conduct rule against maligning other FOSS projects. The package itself stayed available in the AUR.</p><p>Artix Linux made XLibre its default X server in April 2026, then reversed course. With its August 2026 release it switched back to Xorg as the default, a decision it says it took after an unusually high volume of XLibre-related bug reports.</p><p>Artix then went further and <a href="https://artixlinux.org/news.php#XLibre_support_discontinued">announced it would stop packaging XLibre</a> entirely. They shared that the switchback drew backlash from XLibre, and a veteran Artix developer known as "Artist" was targeted and harassed to the point of resigning. Existing XLibre users on Artix are being moved back to the corresponding Xorg packages.</p><h2 id="what-next">What next?</h2><p>XLibre being controversial doesn't make it technically broken. The controversy is about the project's conduct and politics, not whether it draws windows. PerppermintOS is testing it and found to be working well. Let's hope it stays that way and we keep on getting choices on the display server scene. </p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17470277.gif" width="1" />]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Red Magic раскрыла дизайн нового игрового флагмана 12 Pro+</title>
+      <link>https://4pda.to/2026/09/22/461415/red_magic_raskryla_dizajn_novogo_igrovogo_flagmana_12_pro/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/22/461415/red_magic_raskryla_dizajn_novogo_igrovogo_flagmana_12_pro/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Red Magic опубликовала первые
+официальные тизеры флагманской серии игровых смартфонов Red Magic 12 Pro, а
+именно модели Pro+. Новинка получит полностью переработанный
+эргономичный корпус с акцентом на [...]]]></description>
     </item>
     <item>
       <title>Суровый немецкий шиномонтаж. Белорусу не отдавали автомобиль из-за шины (обновлено)</title>
@@ -32,7 +75,7 @@
       <description><![CDATA[Современный телевизор — не только средство для просмотра шедевров кинематографа, но и полноценная часть интерьера. 65-дюймовый телевизор TCL 65A400 Pro с технологией QD-Mini LED объединил внешность предмета [...]]]></description>
     </item>
     <item>
-      <title>В «День без автомобиля» в Минске пробки 10 баллов. Во всем виноват дождь?</title>
+      <title>Вот вам и «День без автомобиля». В Минске пробки 10 баллов</title>
       <link>https://auto.onliner.by/go/1267090</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/09/22/v-den-bez-avtomobilya-v-minske-probki-10-ballov-vo-vsem-vinovat-dozhd</guid>
       <pubDate>Tue, 22 Sep 2026 15:15:36 +0000</pubDate>
@@ -353,14 +396,6 @@ Bungie [...]]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Банк перепутал двух клиентов и почти год присылал одному чужие долги по кредитке</title>
-      <link>https://money.onliner.by/go/347387</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/09/22/bank-pereputal-dvux-klientov-i-pochti-god-prisylal-odnomu-chuzhie-dolgi-po-kreditke</guid>
-      <pubDate>Tue, 22 Sep 2026 09:43:25 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/09/22/bank-pereputal-dvux-klientov-i-pochti-god-prisylal-odnomu-chuzhie-dolgi-po-kreditke"><img alt="" src="https://content.onliner.by/news/thumbnail/9b1d4c3315a37d54360f62a9da181929.jpg" /></a></p><p>Житель Манчестера получил от Barclaycard письмо о том, что его заявка на кредитную карту одобрена. Проблема была в том, что никакой заявки он не подавал. Позже выяснилось, что банк перепутал его с другим клиентом с таким же именем.</p><p><a href="https://money.onliner.by/2026/09/22/bank-pereputal-dvux-klientov-i-pochti-god-prisylal-odnomu-chuzhie-dolgi-po-kreditke">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>18 Programming eBooks, 1 Bundle, and Your Purchase Also Fights Surveillance</title>
       <link>https://feed.itsfoss.com/link/24361/17469430/think-like-programmer-humble</link>
       <guid isPermaLink="false">6ab20fe8922f5a000127aee6</guid>
@@ -452,27 +487,6 @@ MacBook Neo при схожем весе и оснащена производи�
       <guid isPermaLink="false">https://4pda.to/2026/09/22/461399/xiaomi_predstavila_vertikalnyj_obogrevatel_mijia_s_bystrym_nagrevom/</guid>
       <pubDate>Tue, 22 Sep 2026 05:30:00 +0000</pubDate>
       <description><![CDATA[Xiaomi презентовала новый домашний тепловентилятор Mijia Graphene Heater Pro. Новинка получила вертикальный корпус, который занимает минимум места на полу, производительный нагревательный элемент с тремя [...]]]></description>
-    </item>
-    <item>
-      <title>Флагманский Snapdragon 8 Elite Extreme Gen 6 показал свою мощь в Geekbench</title>
-      <link>https://4pda.to/2026/09/22/461397/flagmanskij_snapdragon_8_elite_extreme_gen_6_pokazal_svoyu_mosch_v_geekbench/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/22/461397/flagmanskij_snapdragon_8_elite_extreme_gen_6_pokazal_svoyu_mosch_v_geekbench/</guid>
-      <pubDate>Tue, 22 Sep 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[За день до презентации Snapdragon Summit в сети появилось видео с инженерным образцом Snapdragon 8 Elite Extreme Gen 6. Ролик позволяет подробнее рассмотреть конфигурацию процессора, а также демонстрирует [...]]]></description>
-    </item>
-    <item>
-      <title>Раскрыт дизайн смартфона Motorola Signature 27 с пентакамерой</title>
-      <link>https://4pda.to/2026/09/22/461396/raskryt_dizajn_smartfona_motorola_signature_27_s_pentakameroj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/22/461396/raskryt_dizajn_smartfona_motorola_signature_27_s_pentakameroj/</guid>
-      <pubDate>Tue, 22 Sep 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Бренд Motorola опубликовал новый тизер флагманского смартфона, премьера которого ожидается под названием Signature 27. Судя по изображению, одной из главных особенностей модели станет крайне нестандартный [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi выпустила умный привод для штор Mijia Smart Curtain 3</title>
-      <link>https://4pda.to/2026/09/22/461356/xiaomi_vypustila_umnyj_privod_dlya_shtor_mijia_smart_curtain_3/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/22/461356/xiaomi_vypustila_umnyj_privod_dlya_shtor_mijia_smart_curtain_3/</guid>
-      <pubDate>Tue, 22 Sep 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[В ассортименте Xiaomi появился привод Mijia Smart Curtain 3 для автоматического управления шторами. Новинка получила компактный корпус, производительный двигатель с высокой рабочей нагрузкой и сразу несколько [...]]]></description>
     </item>
     <item>
       <title>Portainer Cuts the Cord Between Its Free and Paid Editions</title>
