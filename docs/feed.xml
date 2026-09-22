@@ -5,16 +5,23 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 21 Sep 2026 21:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:33:33 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>Garuda Linux Begins Nixification By Promoting Its Sybsystem</title>
+      <title>Garuda Linux Begins Nixification By Promoting Its Subsystem</title>
       <link>https://feed.itsfoss.com/link/24361/17468553/garuda-linux-nixification</link>
       <guid isPermaLink="false">6ab117a3922f5a000127acbc</guid>
       <pubDate>Mon, 21 Sep 2026 13:16:46 +0000</pubDate>
       <description><![CDATA[garuda nix dr460nized flavor banner]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Xiaomi 18 Pro получит дисплей с аппаратной защитой от подглядывания</title>
+      <link>https://4pda.to/2026/09/22/461352/xiaomi_18_pro_poluchit_displej_s_apparatnoj_zaschitoj_ot_podglyadyvaniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/22/461352/xiaomi_18_pro_poluchit_displej_s_apparatnoj_zaschitoj_ot_podglyadyvaniya/</guid>
+      <pubDate>Tue, 22 Sep 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi продолжает раскрывать характеристики смартфонов серии 18 Pro перед готовящейся презентацией. На этот раз компания рассказала об экране Super Pixel 2.0, в котором заметно изменится подход к защите [...]]]></description>
     </item>
     <item>
       <title>Переменная диафрагма iPhone 18 Pro: новый стандарт для смартфонов или маркетинговый хайп?</title>
@@ -427,13 +434,6 @@ Duo: она сочетает компактные [...]]]></description>
       <description><![CDATA[Недавно в сеть утёк большой архив данных Rockstar весом 192 ГБ, относящийся к масштабному сливу 2022 года. Моддеры смогли извлечь из архива прототип мира GTA VI и загрузить его в GTA V.
 [gallery=1]
 Предположительно [...]]]></description>
-    </item>
-    <item>
-      <title>AOC выпустила монитор с пятислойной «киберспортивной» матрицей QD-OLED</title>
-      <link>https://4pda.to/2026/09/21/461347/aoc_vypustila_monitor_s_pyatislojnoj_kibersportivnoj_matritsej_qd_oled/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/21/461347/aoc_vypustila_monitor_s_pyatislojnoj_kibersportivnoj_matritsej_qd_oled/</guid>
-      <pubDate>Mon, 21 Sep 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[AOC презентовала игровой монитор Agon AG277QSD с дисплеем&nbsp;QD-OLED&nbsp;нового поколения. Помимо высокой частоты обновления, модель получила несколько особенностей для работы с цветом и HDR, включая [...]]]></description>
     </item>
     <item>
       <title>Elecrow CrowPanel Advanced HMI Display Review: A Tinkerer's Touchscreen</title>
