@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 24 Sep 2026 21:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 03:41:16 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -30,6 +30,23 @@
       <pubDate>Wed, 23 Sep 2026 15:48:07 +0000</pubDate>
       <description><![CDATA[gravity linux banner that shows a mac laptop]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Logitech представила новую «механику» и беспроводную гарнитуру для геймеров</title>
+      <link>https://4pda.to/2026/09/25/461507/logitech_predstavila_novuyu_mekhaniku_i_besprovodnuyu_garnituru_dlya_gejmerov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/25/461507/logitech_predstavila_novuyu_mekhaniku_i_besprovodnuyu_garnituru_dlya_gejmerov/</guid>
+      <pubDate>Fri, 25 Sep 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[В ассортименте Logitech появились новые представители серии игровых аксессуаров Pro. Компания презентовала геймерскую клавиатуру Pro X2 Rapid&nbsp;с магнитными переключателями и
+беспроводную гарнитуру [...]]]></description>
+    </item>
+    <item>
+      <title>Характеристики камеры флагманского OnePlus 16 подтверждены официально</title>
+      <link>https://4pda.to/2026/09/25/461518/kharakteristiki_kamery_flagmanskogo_oneplus_16_podtverzhdeny_ofitsialno/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/25/461518/kharakteristiki_kamery_flagmanskogo_oneplus_16_podtverzhdeny_ofitsialno/</guid>
+      <pubDate>Fri, 25 Sep 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Компания OnePlus опубликовала подробности
+о камере готовящегося к выпуску смартфона OnePlus 16. Официальный тизер подтвердил значительный апгрейд возможностей съёмки устройства по сравнению
+с прошлогодней [...]]]></description>
     </item>
     <item>
       <title>Кондиционеры SHUFT Berg: выберите свой формат идеального комфорта</title>
@@ -434,21 +451,6 @@
       <guid isPermaLink="false">https://4pda.to/2026/09/24/461502/logitech_vypustila_igrovuyu_mysh_g_pro_x3_superstrike_so_135_chasovoj_avtonomnostyu/</guid>
       <pubDate>Thu, 24 Sep 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[Компания Logitech в очередной раз расширила семейство игровых мышей G-серии, выпустив новую модель G Pro X3 Superstrike. Беспроводной манипулятор во многом похож на свою предыдущую версию, но заметно превосходит [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi представила компактную и прозрачную версии смарт-часов Watch S5</title>
-      <link>https://4pda.to/2026/09/24/461503/xiaomi_predstavila_kompaktnuyu_i_prozrachnuyu_versii_smart_chasov_watch_s5/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/24/461503/xiaomi_predstavila_kompaktnuyu_i_prozrachnuyu_versii_smart_chasov_watch_s5/</guid>
-      <pubDate>Thu, 24 Sep 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi анонсировала сразу две новые модификации умных часов Watch S5. Первая получила более компактный 41-мм корпус, а вторая, с приставкой&nbsp;Transparent Edition, — эксклюзивный прозрачный из закалённого [...]]]></description>
-    </item>
-    <item>
-      <title>Надёжный инсайдер: чипы PlayStation 6 и Xbox Helix готовы, мощность графики впечатляет</title>
-      <link>https://4pda.to/2026/09/24/461511/nadyozhnyj_insajder_chipy_playstation_6_i_xbox_helix_gotovy_moschnost_grafiki_vpechatlyaet/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/24/461511/nadyozhnyj_insajder_chipy_playstation_6_i_xbox_helix_gotovy_moschnost_grafiki_vpechatlyaet/</guid>
-      <pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Пока Sony и Microsoft не спешат делиться подробностями консолей нового поколения, приходится полагаться на слухи. Инсайдер KeplerL2 принёс порцию бодрящей информации.
-Как уверяет достоверный инсайдер, [...]]]></description>
     </item>
     <item>
       <title>PeppermintOS Is Moving From Xorg to XLibre to Avoid Wayland</title>
