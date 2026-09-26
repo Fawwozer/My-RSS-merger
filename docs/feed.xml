@@ -5,11 +5,11 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 25 Sep 2026 21:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 03:47:19 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>The Netherlands Built a Nix-Basd Linux Desktop Because Microsoft Cut Off the ICC</title>
+      <title>The Netherlands Built a Nix-Based Linux Desktop Because Microsoft Cut Off the ICC</title>
       <link>https://feed.itsfoss.com/link/24361/17473313/netherlands-dawo-initiative</link>
       <guid isPermaLink="false">6ab614c62f4ed50001738661</guid>
       <pubDate>Fri, 25 Sep 2026 11:38:29 +0000</pubDate>
