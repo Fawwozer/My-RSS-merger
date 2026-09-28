@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 27 Sep 2026 20:57:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 03:56:46 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -23,6 +23,20 @@
       <pubDate>Fri, 25 Sep 2026 11:38:29 +0000</pubDate>
       <description><![CDATA[netherlands dawo initiative banner]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Logitech «прокачает» сенсоры своих игровых мышей новой прошивкой</title>
+      <link>https://4pda.to/2026/09/28/461587/logitech_prokachaet_sensory_svoikh_igrovykh_myshej_novoj_proshivkoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/28/461587/logitech_prokachaet_sensory_svoikh_igrovykh_myshej_novoj_proshivkoj/</guid>
+      <pubDate>Mon, 28 Sep 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Logitech анонсировала обновление прошивки для геймерских мышей&nbsp;G502 X Lightspeed и G502 X Plus. Главным нововведением станет заметное увеличение потолка разрешения сенсора относительно заводских [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung максимально урезала комплектацию своих бюджетных смартфонов</title>
+      <link>https://4pda.to/2026/09/28/461586/samsung_maksimalno_urezala_komplektatsiyu_svoikh_byudzhetnykh_smartfonov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/09/28/461586/samsung_maksimalno_urezala_komplektatsiyu_svoikh_byudzhetnykh_smartfonov/</guid>
+      <pubDate>Mon, 28 Sep 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Многие современные смартфоны уже не первый год поставляются без зарядного устройства. Но Samsung, судя по её новым моделям, планирует облегчить содержимое коробок с гаджетами ещё больше: два новых «бюджетника» [...]]]></description>
     </item>
     <item>
       <title>Видео с ресничками дыхательных путей победило в конкурсе Nikon Small World in Motion</title>
@@ -393,26 +407,12 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Учёные разработали «солнечные батареи» для повреждённой сетчатки</title>
-      <link>https://4pda.to/2026/09/26/461536/uchyonye_razrabotali_solnechnye_batarei_dlya_povrezhdyonnoj_setchatki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/26/461536/uchyonye_razrabotali_solnechnye_batarei_dlya_povrezhdyonnoj_setchatki/</guid>
-      <pubDate>Sat, 26 Sep 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Учёные разработали светочувствительные наночастицы, которые могут заменить погибшие фоторецепторы сетчатки. Их вводят непосредственно в глаз обычной инъекцией, после чего частицы помогают сохранившимся [...]]]></description>
-    </item>
-    <item>
       <title>В ЖК «Каскад» открыли зарядный хаб на шесть электромобилей</title>
       <link>https://auto.onliner.by/go/1267704</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/09/26/v-zhk-kaskad-otkryli-zaryadnyj-xab-na-shest-elektromobilej</guid>
       <pubDate>Sat, 26 Sep 2026 11:15:46 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/09/26/v-zhk-kaskad-otkryli-zaryadnyj-xab-na-shest-elektromobilej"><img alt="" src="https://content.onliner.by/news/thumbnail/8b1c92225dfc913bf4c84d5ef2dbaefd.jpg" /></a></p><p>Недалеко от центра Минска открыли новый зарядный хаб на шесть электромобилей от сети Zaryadka. Он расположился на улице Скрыганова, 14, в ЖК «Каскад». </p><p><a href="https://auto.onliner.by/2026/09/26/v-zhk-kaskad-otkryli-zaryadnyj-xab-na-shest-elektromobilej">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>BYD готовит электромобиль за $300 000 с дверьми как у Rolls-Royce</title>
-      <link>https://4pda.to/2026/09/26/461539/byd_gotovit_elektromobil_za_300_000_s_dvermi_kak_u_rolls_royce/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/09/26/461539/byd_gotovit_elektromobil_za_300_000_s_dvermi_kak_u_rolls_royce/</guid>
-      <pubDate>Sat, 26 Sep 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[BYD собирается выпустить новый флагманский электроседан в рамках премиального бренда Yangwang. Ожидается, что автомобиль станет одной из самых дорогих и технологичных серийных моделей компании. Прототип [...]]]></description>
     </item>
     <item>
       <title>This Tiny SBC Lets You Swap Interface Modules for Voice, Vision or Sensing</title>
