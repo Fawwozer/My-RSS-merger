@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 02 Oct 2026 21:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 04:00:52 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -453,14 +453,6 @@ Google на конференции Google I/O в мае, а затем раск�
       <guid isPermaLink="false">6abc959f6214c9000176aa56</guid>
       <pubDate>Wed, 30 Sep 2026 12:19:57 +0000</pubDate>
       <description><![CDATA[wsl containers banner shown with a laptop and two miniature containers]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>The Netherlands Picked NixOS. France Was Already Using It</title>
-      <link>https://feed.itsfoss.com/link/24361/17478137/france-nixos-move</link>
-      <guid isPermaLink="false">6abbb4e72f4ed5000173a292</guid>
-      <pubDate>Wed, 30 Sep 2026 02:33:37 +0000</pubDate>
-      <description><![CDATA[france securix nixos banner]]></description>
       <category>News</category>
     </item>
   </channel>
