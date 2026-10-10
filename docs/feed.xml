@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 10 Oct 2026 11:58:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:16:42 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,12 +17,47 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
-      <title>Vinix is Not a Linux Distro, But it Can Run Games, Docker, and QEMU</title>
-      <link>https://feed.itsfoss.com/link/24361/17491352/vinix-overview</link>
-      <guid isPermaLink="false">6ac4e2d77834300001c58298</guid>
-      <pubDate>Wed, 07 Oct 2026 13:48:32 +0000</pubDate>
-      <description><![CDATA[vinix 3-picture banner]]></description>
-      <category>First Look</category>
+      <title>Новые ядерные часы оказались в шесть раз стабильнее аналогов</title>
+      <link>https://4pda.to/2026/10/10/462009/novye_yadernye_chasy_okazalis_v_shest_raz_stabilnee_analogov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462009/novye_yadernye_chasy_okazalis_v_shest_raz_stabilnee_analogov/</guid>
+      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Университета Цинхуа добились заметного прогресса в разработке нового типа сверхточных часов. Их экспериментальная система на основе ядер тория-229 показала стабильность примерно в шесть раз выше, [...]]]></description>
+    </item>
+    <item>
+      <title>Белорусы переправляли сигареты в Польшу на воздушных шарах. Их задержали</title>
+      <link>https://money.onliner.by/go/349862</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/10/sigarety-na-vozdushnom-share</guid>
+      <pubDate>Sat, 10 Oct 2026 14:03:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/10/sigarety-na-vozdushnom-share"><img alt="" src="https://content.onliner.by/news/thumbnail/081b0a7dd43d29d24f554b9a6cda2dce.jpg" /></a></p><p>В Польше задержали шестерых человек, которых подозревают в контрабанде сигарет из Беларуси довольно необычным способом — с помощью воздушных шаров. Среди задержанных двое белорусов и четверо латвийцев.</p><p><a href="https://money.onliner.by/2026/10/10/sigarety-na-vozdushnom-share">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Открытый мир в первой GTA появился из-за лени разработчиков</title>
+      <link>https://4pda.to/2026/10/10/462076/otkrytyj_mir_v_pervoj_gta_poyavilsya_iz_za_leni_razrabotchikov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462076/otkrytyj_mir_v_pervoj_gta_poyavilsya_iz_za_leni_razrabotchikov/</guid>
+      <pubDate>Sat, 10 Oct 2026 13:55:00 +0000</pubDate>
+      <description><![CDATA[Открытый мир GTA стал одной из визитных карточек серии, но изначально разработчики вовсе не собирались строить игру вокруг свободного исследования города. Более того, к этой идее их подтолкнуло желание [...]]]></description>
+    </item>
+    <item>
+      <title>INIU выпустила пауэрбанки для активного отдыха</title>
+      <link>https://4pda.to/2026/10/10/462081/iniu_vypustila_pauerbanki_dlya_aktivnogo_otdykha/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462081/iniu_vypustila_pauerbanki_dlya_aktivnogo_otdykha/</guid>
+      <pubDate>Sat, 10 Oct 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Компания INIU представила линейку Outdoor Rugged для походов и активного отдыха, где техника подвергается воздействию пыли, воды и ударов. В неё вошли два пауэрбанка в усиленных корпусах&nbsp;ёмкостью [...]]]></description>
+    </item>
+    <item>
+      <title>Создан двигатель в виде нити толщиной несколько миллиметров</title>
+      <link>https://4pda.to/2026/10/10/462024/sozdan_dvigatel_v_vide_niti_tolschinoj_neskolko_millimetrov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462024/sozdan_dvigatel_v_vide_niti_tolschinoj_neskolko_millimetrov/</guid>
+      <pubDate>Sat, 10 Oct 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Инженеры Федеральной политехнической школы Лозанны разработали необычный гибкий двигатель FiberMotor, который визуально&nbsp;напоминает толстую нить. Диаметр прототипа — всего 1–3 мм. Он может свободно [...]]]></description>
+    </item>
+    <item>
+      <title>BYD показала электровнедорожник Tang с огромным экраном</title>
+      <link>https://4pda.to/2026/10/10/462057/byd_pokazala_elektrovnedorozhnik_tang_s_ogromnym_ekranom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462057/byd_pokazala_elektrovnedorozhnik_tang_s_ogromnym_ekranom/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[BYD впервые показала интерьер Tang третьего поколения — пятиместного электрического внедорожника с акцентом на комфорт водителя и пассажиров. Модель станет более компактной альтернативой полноразмерному [...]]]></description>
     </item>
     <item>
       <title>Двое школьников украли мотоцикл прямо на перемене</title>
@@ -159,7 +194,7 @@
       <description><![CDATA[Мобильная Rainbow Six не успела отметить даже первую годовщину глобального запуска, а её уже отправляют на покой. Ubisoft решила свернуть проект, но напоследок всё же выпустит обещанные сезоны: игрокам [...]]]></description>
     </item>
     <item>
-      <title>Думаете, сейчас дорого? Как рынок электроники сходил с ума раньше</title>
+      <title>Кризис памяти уже был. И не один</title>
       <link>https://tech.onliner.by/go/796158</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/10/10/history-of-electronic-crisis</guid>
       <pubDate>Sat, 10 Oct 2026 06:00:10 +0000</pubDate>
@@ -364,9 +399,9 @@ HE60 [...]]]></description>
       <category>Люди</category>
     </item>
     <item>
-      <title>Вышла ColorOS 17, которая заменяет OxygenOS и realme UI. Что изменится и кто получит апдейт?</title>
-      <link>https://4pda.to/2026/10/09/462077/vyshla_coloros_17_kotoraya_zamenyaet_oxygenos_i_realme_ui_chto_izmenitsya_i_kto_poluchit_apdejt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462077/vyshla_coloros_17_kotoraya_zamenyaet_oxygenos_i_realme_ui_chto_izmenitsya_i_kto_poluchit_apdejt/</guid>
+      <title>В КНР вышла ColorOS 17, которая заменяет OxygenOS и realme UI. Что изменится и кто получит апдейт?</title>
+      <link>https://4pda.to/2026/10/09/462077/v_knr_vyshla_coloros_17_kotoraya_zamenyaet_oxygenos_i_realme_ui_chto_izmenitsya_i_kto_poluchit_apdejt/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/09/462077/v_knr_vyshla_coloros_17_kotoraya_zamenyaet_oxygenos_i_realme_ui_chto_izmenitsya_i_kto_poluchit_apdejt/</guid>
       <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
       <description><![CDATA[8 октября стабильная ColorOS 17 на базе Android 17 дебютирует на смартфонах OnePlus, OPPO и realme в Китае. Обновление предложит полупрозрачный интерфейс, ИИ-улучшения и оптимизацию. Разбираем, почему [...]]]></description>
     </item>
@@ -377,23 +412,6 @@ HE60 [...]]]></description>
       <pubDate>Fri, 09 Oct 2026 13:52:52 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/09/beloruska-zayavila-chto-po-oshibke-popala-v-bazu-tuneyadcev-chto-otvetili-vlasti"><img alt="" src="https://content.onliner.by/news/thumbnail/ca225ba4709453f3e295b496b6b88130.jpg" /></a></p><p>Многодетная мать из Беларуси рассказала в TikTok, что оказалась в базе не занятых в экономике и платила за коммунальные услуги по полному тарифу. Ситуацию прокомментировали агентству <a href="https://minsknews.by/beloruska-pozhalovalas-chto-okazalas-v-baze-tuneyadczev-po-oshibke-ej-otvetili-v-profilnom-komitete/" target="_blank">«Минск-Новости»</a> в комитете по труду, занятости и соцзащите Мингорисполкома.</p><p><a href="https://money.onliner.by/2026/10/09/beloruska-zayavila-chto-po-oshibke-popala-v-bazu-tuneyadcev-chto-otvetili-vlasti">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Хотел показать чужой «косяк», но сам нарвался на хейт. А кто прав? (видео)</title>
-      <link>https://auto.onliner.by/go/1269539</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/09/xotel-pokazat-chuzhoj-kosyak-no-sam-narvalsya-na-xejt-a-kto-prav-po-vashemu-mneniyu</guid>
-      <pubDate>Fri, 09 Oct 2026 13:48:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/09/xotel-pokazat-chuzhoj-kosyak-no-sam-narvalsya-na-xejt-a-kto-prav-po-vashemu-mneniyu"><img alt="" src="https://content.onliner.by/news/thumbnail/f52704ced8c5f9a0b08bdf365c8c64c8.jpg" /></a></p><p>Пользователь нашего форума опубликовал видео, события которого разворачиваются на столичной улице Ленина. Автор ролика едет прямо, но тут перед ним решает развернуться Geely со встречки. Пришлось тормозить — и довольно усиленно.
-</p><p><a href="https://auto.onliner.by/2026/10/09/xotel-pokazat-chuzhoj-kosyak-no-sam-narvalsya-na-xejt-a-kto-prav-po-vashemu-mneniyu">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Минске водитель грузовика сбил парня на электровелосипеде. Молодой человек в больнице (видео)</title>
-      <link>https://auto.onliner.by/go/1269542</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/09/voditel-gruzovika-sbil-parnya</guid>
-      <pubDate>Fri, 09 Oct 2026 13:36:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/09/voditel-gruzovika-sbil-parnya"><img alt="" src="https://content.onliner.by/news/thumbnail/b2a592d637486f2a5441b749ec8cb435.png" /></a></p><p>Сегодня днем на улице Казимировской 20-летний водитель электровелосипеда при пересечении проезжей части по регулируемому пешеходному переходу попал под колеса грузовика. </p><p><a href="https://auto.onliner.by/2026/10/09/voditel-gruzovika-sbil-parnya">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>OnePlus анонсировала магнитный мини-кулер с питанием от смартфона</title>
@@ -408,54 +426,6 @@ HE60 [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/10/09/462059/novaya_posudomojka_xiaomi_vmeschaet_do_130_predmetov_posudy/</guid>
       <pubDate>Fri, 09 Oct 2026 13:15:00 +0000</pubDate>
       <description><![CDATA[Xiaomi выпустила новую посудомоечную&nbsp;машину Mijia Smart Dishwasher, рассчитанную на 18 комплектов посуды. Модель позволяет мыть много тарелок, чашек и столовых приборов за один цикл, что подойдёт [...]]]></description>
-    </item>
-    <item>
-      <title>Rockstar рассказала про радио в GTA VI — и дала послушать его заранее</title>
-      <link>https://4pda.to/2026/10/09/462075/rockstar_rasskazala_pro_radio_v_gta_vi_i_dala_poslushat_ego_zaranee/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462075/rockstar_rasskazala_pro_radio_v_gta_vi_i_dala_poslushat_ego_zaranee/</guid>
-      <pubDate>Fri, 09 Oct 2026 13:00:00 +0000</pubDate>
-      <description><![CDATA[В GTA можно будет не только гонять по городу под любимые песни, но и слушать эфир, пока герой гуляет по улице. Rockstar добавила в серию очередную привычную вещь из&nbsp;повседневной жизни — наушники и [...]]]></description>
-    </item>
-    <item>
-      <title>ASUS показала мощный мини-ПК ProArt GR1X с чипом NVIDIA RTX Spark</title>
-      <link>https://4pda.to/2026/10/09/462065/asus_pokazala_moschnyj_mini_pk_proart_gr1x_s_chipom_nvidia_rtx_spark/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462065/asus_pokazala_moschnyj_mini_pk_proart_gr1x_s_chipom_nvidia_rtx_spark/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:50:00 +0000</pubDate>
-      <description><![CDATA[ASUS представила новый компактный компьютер ProArt GR1X на базе ARM-процессора NVIDIA RTX Spark. Он рассчитан на запуск больших ИИ-моделей непосредственно на устройстве и поддерживает&nbsp;современные [...]]]></description>
-    </item>
-    <item>
-      <title>Новый пауэрбанк OnePlus на 10 000 мАч получит экран и встроенный кабель</title>
-      <link>https://4pda.to/2026/10/09/462048/novyj_pauerbank_oneplus_na_10_000_mach_poluchit_ekran_i_vstroennyj_kabel/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462048/novyj_pauerbank_oneplus_na_10_000_mach_poluchit_ekran_i_vstroennyj_kabel/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:40:00 +0000</pubDate>
-      <description><![CDATA[Компания OnePlus готовит к
-выпуску новый внешний аккумулятор SUPERVOOC 67W на 10 000 мАч. Новинка будет поддерживать быструю зарядку и получит небольшой встроенный дисплей,
-который позволит следить за [...]]]></description>
-    </item>
-    <item>
-      <title>ARC Raiders получила крупное обновление и стала временно бесплатной</title>
-      <link>https://4pda.to/2026/10/09/462064/arc_raiders_poluchila_krupnoe_obnovlenie_i_stala_vremenno_besplatnoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462064/arc_raiders_poluchila_krupnoe_obnovlenie_i_stala_vremenno_besplatnoj/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:30:00 +0000</pubDate>
-      <description><![CDATA[Как и любой хайповый мультиплеерный проект, ARC Raiders медленно теряла свою гигантскую аудиторию. Часть публики авторы хотят вернуть обратно с глобальным обновлением Frozen Trail.
-Разработчики называют [...]]]></description>
-    </item>
-    <item>
-      <title>Apple готовит к выпуску сенсорные MacBook Pro с OLED-экранами и новый iPad mini</title>
-      <link>https://4pda.to/2026/10/09/462045/apple_gotovit_k_vypusku_sensornye_macbook_pro_s_oled_ekranami_i_novyj_ipad_mini/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462045/apple_gotovit_k_vypusku_sensornye_macbook_pro_s_oled_ekranami_i_novyj_ipad_mini/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:20:00 +0000</pubDate>
-      <description><![CDATA[Apple планирует провести ещё
-одну презентацию в октябре, на которой представит сразу несколько новых
-устройств. По данным Bloomberg, главными новинками станут MacBook Pro с
-сенсорными OLED-дисплеями и [...]]]></description>
-    </item>
-    <item>
-      <title>SpaceX объявила о планах стать крупным мобильным оператором</title>
-      <link>https://4pda.to/2026/10/09/462069/spacex_obyavila_o_planakh_stat_krupnym_mobilnym_operatorom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462069/spacex_obyavila_o_planakh_stat_krupnym_mobilnym_operatorom/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:10:00 +0000</pubDate>
-      <description><![CDATA[SpaceX рассказала о двух важных достижениях для запуска Starlink Mobile — сервиса прямой связи спутников с обычными смартфонами. Компания договорилась о приобретении лицензий на низкочастотный спектр в [...]]]></description>
     </item>
     <item>
       <title>Gentoo Needs Your Help! Several Sponsors Have Pulled Out</title>
