@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:13:38 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,55 @@
       <pubDate>Thu, 08 Oct 2026 15:27:16 +0000</pubDate>
       <description><![CDATA[FOSS Weekly 26.41]]></description>
       <category>Newsletter ✉️</category>
+    </item>
+    <item>
+      <title>Новый робот заряжается прямо во время ходьбы</title>
+      <link>https://4pda.to/2026/10/10/462002/novyj_robot_zaryazhaetsya_pryamo_vo_vremya_khodby/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462002/novyj_robot_zaryazhaetsya_pryamo_vo_vremya_khodby/</guid>
+      <pubDate>Sat, 10 Oct 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Фуданьского университета в Китае разработали способ питания микророботов, который позволяет отказаться от тяжёлых аккумуляторов. Вместо батареи на их ногах размещается тонкая мембрана, способная [...]]]></description>
+    </item>
+    <item>
+      <title>Разработана модульная шина со сменным протектором и датчиками</title>
+      <link>https://4pda.to/2026/10/10/461979/razrabotana_modulnaya_shina_so_smennym_protektorom_i_datchikami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/461979/razrabotana_modulnaya_shina_so_smennym_protektorom_i_datchikami/</guid>
+      <pubDate>Sat, 10 Oct 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Университета имени Карлоса III в Мадриде разработали ECOTIRE — концепцию модульной автомобильной шины, которую не придётся полностью выбрасывать после износа протектора. Основная часть покрышки [...]]]></description>
+    </item>
+    <item>
+      <title>Кондиционеры SHUFT Berg: выберите свой формат идеального комфорта</title>
+      <link>https://4pda.to/2026/10/10/460850/konditsionery_shuft_berg_vyberite_svoj_format_idealnogo_komforta/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/460850/konditsionery_shuft_berg_vyberite_svoj_format_idealnogo_komforta/</guid>
+      <pubDate>Sat, 10 Oct 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Если надоело страдать от летней жары и мёрзнуть в межсезонье, домашний микроклимат стоит взять под контроль. Серия кондиционеров Berg от SHUFT предлагает для этого два подхода: классические сплит-системы [...]]]></description>
+    </item>
+    <item>
+      <title>Гибкий датчик поможет в реабилитации людей после травм</title>
+      <link>https://4pda.to/2026/10/10/462068/gibkij_datchik_pomozhet_v_reabilitatsii_lyudej_posle_travm/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462068/gibkij_datchik_pomozhet_v_reabilitatsii_lyudej_posle_travm/</guid>
+      <pubDate>Sat, 10 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Исследователи Массачусетского технологического института разработали гибкий сенсор, способный отслеживать&nbsp;изгибы, складки и скручивания материала, восстанавливая его форму в трёхмерном виде почти [...]]]></description>
+    </item>
+    <item>
+      <title>От утреннего кофе до вечернего кино: семь устройств для домашнего комфорта</title>
+      <link>https://4pda.to/2026/10/10/462021/ot_utrennego_kofe_do_vechernego_kino_sem_ustrojstv_dlya_domashnego_komforta/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462021/ot_utrennego_kofe_do_vechernego_kino_sem_ustrojstv_dlya_domashnego_komforta/</guid>
+      <pubDate>Sat, 10 Oct 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Кофе к заданному времени, свежая пицца из горячей печи, уборка по расписанию и свежий воздух в комнате — у комфорта и уюта много составляющих. Домашние устройства в этой статье очень разные. Но у каждого [...]]]></description>
+    </item>
+    <item>
+      <title>Greenairy разработала «живую» альтернативу очистителям воздуха</title>
+      <link>https://4pda.to/2026/10/10/462001/greenairy_razrabotala_zhivuyu_alternativu_ochistitelyam_vozdukha/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462001/greenairy_razrabotala_zhivuyu_alternativu_ochistitelyam_vozdukha/</guid>
+      <pubDate>Sat, 10 Oct 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Стартап Greenairy придумал необычный способ&nbsp;очистки воздуха в помещениях — вертикальные башни с растениями. Идея появилась после того, как основатели компании столкнулись с загрязнением воздуха в [...]]]></description>
+    </item>
+    <item>
+      <title>Porsche поделилась планами по электрификации своих авто</title>
+      <link>https://4pda.to/2026/10/10/462004/porsche_podelilas_planami_po_elektrifikatsii_svoikh_avto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/10/462004/porsche_podelilas_planami_po_elektrifikatsii_svoikh_avto/</guid>
+      <pubDate>Sat, 10 Oct 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Porsche определилась с дальнейшей судьбой семейства 718, в которое входят модели Boxster и Cayman. После завершения выпуска бензиновых версий компания решила полностью перевести их на электрическую тягу [...]]]></description>
     </item>
     <item>
       <title>Новые ядерные часы оказались в шесть раз стабильнее аналогов</title>
@@ -265,7 +314,7 @@
 Ранее [...]]]></description>
     </item>
     <item>
-      <title>Бобры, вирус, мертвецы. Топ-15 фильмов про зомби (18+) (видео)</title>
+      <title>Вирус вышел из-под контроля. Топ-15 фильмов про зомби (видео)</title>
       <link>https://tech.onliner.by/go/356380</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/10/10/zombie-movie</guid>
       <pubDate>Sat, 10 Oct 2026 04:00:55 +0000</pubDate>
@@ -326,45 +375,12 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Конец троттлингу? Как ведёт себя флагманский Snapdragon в играх</title>
-      <link>https://4pda.to/2026/10/09/462080/konets_trottlingu_kak_vedyot_sebya_flagmanskij_snapdragon_v_igrakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462080/konets_trottlingu_kak_vedyot_sebya_flagmanskij_snapdragon_v_igrakh/</guid>
-      <pubDate>Fri, 09 Oct 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[Первые гаджеты на процессоре Qualcomm Snapdragon 8 Elite Extreme Gen 6 уже здесь. Исторически чипы 8-й серии нередко сбрасывали показатели при длительных нагрузках. Китайские обозреватели проверили это [...]]]></description>
-    </item>
-    <item>
-      <title>Epomaker выпустила HE60 — беспроводную магнитную клавиатуру за $60 с частотой опроса 8000 Гц</title>
-      <link>https://4pda.to/2026/10/09/462052/epomaker_vypustila_he60_besprovodnuyu_magnitnuyu_klaviaturu_za_60_s_chastotoj_oprosa_8000_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462052/epomaker_vypustila_he60_besprovodnuyu_magnitnuyu_klaviaturu_za_60_s_chastotoj_oprosa_8000_gts/</guid>
-      <pubDate>Fri, 09 Oct 2026 16:30:00 +0000</pubDate>
-      <description><![CDATA[Epomaker выпустила HE60 — компактную игровую клавиатуру с магнитными переключателями и частотой опроса до 8000 Гц. Причём она доступна не только по кабелю, но и через беспроводное подключение 2,4 ГГц.
-HE60 [...]]]></description>
-    </item>
-    <item>
-      <title>AOC представила 27-дюймовый 4K-монитор с 3D-режимом без очков</title>
-      <link>https://4pda.to/2026/10/09/462044/aoc_predstavila_27_dyujmovyj_4k_monitor_s_3d_rezhimom_bez_ochkov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462044/aoc_predstavila_27_dyujmovyj_4k_monitor_s_3d_rezhimom_bez_ochkov/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:15:00 +0000</pubDate>
-      <description><![CDATA[Компания AOC выпустила новый
-27-дюймовый монитор U27G4FD. Новинка сочетает в себе характеристики, подходящие
-для игр и работы с графикой, а также обладает специальным режимом, способным
-выдавать 3D-картинку
-без [...]]]></description>
-    </item>
-    <item>
       <title>На выходных — дожди и ветер, ну а там и до –3 недалеко</title>
       <link>https://people.onliner.by/go/1338237</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/09/na-vyxodnyx-dozhdi-i-veter</guid>
       <pubDate>Fri, 09 Oct 2026 15:12:29 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/09/na-vyxodnyx-dozhdi-i-veter"><img alt="" src="https://content.onliner.by/news/thumbnail/a1a9b3c8ce9eebce3d71f6527aa98b50.jpg" /></a></p><p><p dir="ltr">Осень решила, что хватит уже этих ваших <a href="https://people.onliner.by/2026/10/08/botanicheskiy-sad-osen" target="_blank">фотогеничных</a> деньков. В ближайшие выходные Беларусь окажется во власти циклонов и атмосферных фронтов: дожди будут идти почти по всей стране, местами обещают сильные осадки, а ветер разгонится до 20 м/с, говорят в <a href="https://belgidromet.by/ru" target="_blank">Белгидромете</a>.</p><p><a href="https://people.onliner.by/2026/10/09/na-vyxodnyx-dozhdi-i-veter">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Игровая гарнитура Corsair HS80 v2 MAX работает до 130 часов на одном заряде</title>
-      <link>https://4pda.to/2026/10/09/462062/igrovaya_garnitura_corsair_hs80_v2_max_rabotaet_do_130_chasov_na_odnom_zaryade/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462062/igrovaya_garnitura_corsair_hs80_v2_max_rabotaet_do_130_chasov_na_odnom_zaryade/</guid>
-      <pubDate>Fri, 09 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Corsair выпустила новую игровую гарнитуру HS80 v2 MAX с поддержкой подключения по Bluetooth и радиоканалу 2,4 ГГц. Модель рассчитана на использование с ПК и консолями, а встроенного аккумулятора хватает [...]]]></description>
     </item>
     <item>
       <title>Сервис Zaryadka открыл зарядную площадку с быстрыми станциями. Где находится?</title>
@@ -397,35 +413,6 @@ HE60 [...]]]></description>
       <pubDate>Fri, 09 Oct 2026 14:15:54 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/09/kak-idut-poiski-minchanina"><img alt="" src="https://content.onliner.by/news/thumbnail/265f6578ffbc1a4e59f9dda820800213.jpg" /></a></p><p><p dir="ltr">Под Минском продолжаются поиски Александра Наркевича. Напомним, 41-летний мужчина перестал выходить на связь днем 29 сентября — с тех пор о его местонахождении ничего не известно. Супруга пропавшего сообщила, что последние несколько недель перед исчезновением Александр жаловался на необъяснимые боли и пребывал в крайне подавленном эмоциональном состоянии.</p><p><a href="https://people.onliner.by/2026/10/09/kak-idut-poiski-minchanina">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>В КНР вышла ColorOS 17, которая заменяет OxygenOS и realme UI. Что изменится и кто получит апдейт?</title>
-      <link>https://4pda.to/2026/10/09/462077/v_knr_vyshla_coloros_17_kotoraya_zamenyaet_oxygenos_i_realme_ui_chto_izmenitsya_i_kto_poluchit_apdejt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462077/v_knr_vyshla_coloros_17_kotoraya_zamenyaet_oxygenos_i_realme_ui_chto_izmenitsya_i_kto_poluchit_apdejt/</guid>
-      <pubDate>Fri, 09 Oct 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[8 октября стабильная ColorOS 17 на базе Android 17 дебютирует на смартфонах OnePlus, OPPO и realme в Китае. Обновление предложит полупрозрачный интерфейс, ИИ-улучшения и оптимизацию. Разбираем, почему [...]]]></description>
-    </item>
-    <item>
-      <title>Белоруска заявила, что по ошибке попала в базу «тунеядцев». Что ответили власти</title>
-      <link>https://money.onliner.by/go/349828</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/09/beloruska-zayavila-chto-po-oshibke-popala-v-bazu-tuneyadcev-chto-otvetili-vlasti</guid>
-      <pubDate>Fri, 09 Oct 2026 13:52:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/09/beloruska-zayavila-chto-po-oshibke-popala-v-bazu-tuneyadcev-chto-otvetili-vlasti"><img alt="" src="https://content.onliner.by/news/thumbnail/ca225ba4709453f3e295b496b6b88130.jpg" /></a></p><p>Многодетная мать из Беларуси рассказала в TikTok, что оказалась в базе не занятых в экономике и платила за коммунальные услуги по полному тарифу. Ситуацию прокомментировали агентству <a href="https://minsknews.by/beloruska-pozhalovalas-chto-okazalas-v-baze-tuneyadczev-po-oshibke-ej-otvetili-v-profilnom-komitete/" target="_blank">«Минск-Новости»</a> в комитете по труду, занятости и соцзащите Мингорисполкома.</p><p><a href="https://money.onliner.by/2026/10/09/beloruska-zayavila-chto-po-oshibke-popala-v-bazu-tuneyadcev-chto-otvetili-vlasti">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>OnePlus анонсировала магнитный мини-кулер с питанием от смартфона</title>
-      <link>https://4pda.to/2026/10/09/462058/oneplus_anonsirovala_magnitnyj_mini_kuler_s_pitaniem_ot_smartfona/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462058/oneplus_anonsirovala_magnitnyj_mini_kuler_s_pitaniem_ot_smartfona/</guid>
-      <pubDate>Fri, 09 Oct 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Вместе с новым флагманским смартфоном OnePlus представит и новый мини-кулер Ice Card Mini Magnetic Cooler. Аксессуар сочетает термоэлектрическое охлаждение с активным обдувом, а главной его особенностью [...]]]></description>
-    </item>
-    <item>
-      <title>Новая посудомойка Xiaomi вмещает до 130 предметов посуды</title>
-      <link>https://4pda.to/2026/10/09/462059/novaya_posudomojka_xiaomi_vmeschaet_do_130_predmetov_posudy/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/09/462059/novaya_posudomojka_xiaomi_vmeschaet_do_130_predmetov_posudy/</guid>
-      <pubDate>Fri, 09 Oct 2026 13:15:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi выпустила новую посудомоечную&nbsp;машину Mijia Smart Dishwasher, рассчитанную на 18 комплектов посуды. Модель позволяет мыть много тарелок, чашек и столовых приборов за один цикл, что подойдёт [...]]]></description>
     </item>
     <item>
       <title>Gentoo Needs Your Help! Several Sponsors Have Pulled Out</title>
