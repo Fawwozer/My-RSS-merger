@@ -5,19 +5,91 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:33:18 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>FOSS Weekly #26.41: Open Source Trouble, More Rust in Ubuntu, Adobe Photoshop's Linux Clone, Rich CLI Tool and More</title>
-      <link>https://feed.itsfoss.com/link/24361/17492189/foss-weekly-26-41</link>
-      <guid isPermaLink="false">6ac6233ca840cc00016461b0</guid>
-      <pubDate>Thu, 08 Oct 2026 15:27:16 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly 26.41]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Объявлены финалисты Nikon Comedy Wildlife Photography Awards 2026</title>
+      <link>https://4pda.to/2026/10/11/461907/obyavleny_finalisty_nikon_comedy_wildlife_photography_awards_2026/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461907/obyavleny_finalisty_nikon_comedy_wildlife_photography_awards_2026/</guid>
+      <pubDate>Sun, 11 Oct 2026 19:55:00 +0000</pubDate>
+      <description><![CDATA[Организаторы Nikon Comedy Wildlife Awards 2026 подвели итоги отбора финалистов. Жюри выбрало лучшие фотографии животных, которые случайно оказались в самых забавных позах и ситуациях.
+[caption width="3800" [...]]]></description>
     </item>
     <item>
-      <title>Щука длиной 122,5 сантиметра! На Браславских озерах соревнуются лучшие рыбаки Беларуси</title>
+      <title>Бетонный суперконденсатор может превратить здания в хранилища энергии</title>
+      <link>https://4pda.to/2026/10/11/461902/betonnyj_superkondensator_mozhet_prevratit_zdaniya_v_khranilischa_energii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461902/betonnyj_superkondensator_mozhet_prevratit_zdaniya_v_khranilischa_energii/</guid>
+      <pubDate>Sun, 11 Oct 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Харбинского технологического института в Китае разработали цементный суперконденсатор, который можно печатать на 3D-принтере. Материал способен&nbsp;одновременно выполнять роль строительного [...]]]></description>
+    </item>
+    <item>
+      <title>Создана автомобильная беспроводная зарядка с рекордной эффективностью</title>
+      <link>https://4pda.to/2026/10/11/461981/sozdana_avtomobilnaya_besprovodnaya_zaryadka_s_rekordnoj_effektivnostyu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461981/sozdana_avtomobilnaya_besprovodnaya_zaryadka_s_rekordnoj_effektivnostyu/</guid>
+      <pubDate>Sun, 11 Oct 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Совместная исследовательская группа из Китая и Великобритании разработала новую систему беспроводной зарядки электромобилей мощностью около 20 кВт. Она передаёт энергию через электромагнитную индукцию [...]]]></description>
+    </item>
+    <item>
+      <title>Аудиосистема Trettitre умеет проигрывать винил, CD и кассеты</title>
+      <link>https://4pda.to/2026/10/11/461930/audiosistema_trettitre_umeet_proigryvat_vinil_cd_i_kassety/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461930/audiosistema_trettitre_umeet_proigryvat_vinil_cd_i_kassety/</guid>
+      <pubDate>Sun, 11 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания Trettitre представила необычную аудиосистему Retro Ambient Sound System, способную&nbsp;работать&nbsp;с винилом, CD и кассетами. Вместе с тем она выглядит как полноценный элемент интерьера. [...]]]></description>
+    </item>
+    <item>
+      <title>Учёные пересмотрели сроки разрушения Солнечной системы</title>
+      <link>https://4pda.to/2026/10/11/461906/uchyonye_peresmotreli_sroki_razrusheniya_solnechnoj_sistemy/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461906/uchyonye_peresmotreli_sroki_razrusheniya_solnechnoj_sistemy/</guid>
+      <pubDate>Sun, 11 Oct 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные пересмотрели долгосрочное будущее Солнечной системы и пришли к выводу, что после «смерти» Солнца её планеты могут оказаться в гораздо более нестабильном положении, чем предполагали предыдущие расчёты. [...]]]></description>
+    </item>
+    <item>
+      <title>Honda создаёт дороги с функцией беспроводной зарядки</title>
+      <link>https://4pda.to/2026/10/11/461978/honda_sozdayot_dorogi_s_funktsiej_besprovodnoj_zaryadki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461978/honda_sozdayot_dorogi_s_funktsiej_besprovodnoj_zaryadki/</guid>
+      <pubDate>Sun, 11 Oct 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Honda вместе с Taisei Corporation и Taisei Rotec разработала технологию дорожного покрытия, способного передавать энергию электромобилям прямо во время движения. Система использует магнитную связь между [...]]]></description>
+    </item>
+    <item>
+      <title>Выпущен первый подкожный кохлеарный имплант для восстановления слуха</title>
+      <link>https://4pda.to/2026/10/11/461929/vypuschen_pervyj_podkozhnyj_kokhlearnyj_implant_dlya_vosstanovleniya_slukha/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461929/vypuschen_pervyj_podkozhnyj_kokhlearnyj_implant_dlya_vosstanovleniya_slukha/</guid>
+      <pubDate>Sun, 11 Oct 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Австрийская компания Med-El представила TICI Unico — первый коммерчески доступный кохлеарный имплант, все компоненты которого находятся под кожей. Устройство предназначено для людей с тяжёлой и глубокой [...]]]></description>
+    </item>
+    <item>
+      <title>Renault возродила Espace в виде электрического минивэна [ФОТО]</title>
+      <link>https://4pda.to/2026/10/11/461977/renault_vozrodila_espace_v_vide_elektricheskogo_minivena_foto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461977/renault_vozrodila_espace_v_vide_elektricheskogo_minivena_foto/</guid>
+      <pubDate>Sun, 11 Oct 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Renault показала E-Space Concept — переосмысление культового минивэна Espace 1984 года, но на этот раз в виде электрической версии.&nbsp;Компания решила вернуть модели первоначальный формат, отказавшись [...]]]></description>
+    </item>
+    <item>
+      <title>В Могилеве загорелось общежитие. Эвакуировали более 100 человек (видео)</title>
+      <link>https://realt.onliner.by/go/1135845</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/11/v-mogileve-zagorelos</guid>
+      <pubDate>Sun, 11 Oct 2026 12:38:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/11/v-mogileve-zagorelos"><img alt="" src="https://content.onliner.by/news/thumbnail/845f0446084eced2831fb2a0a198ee76.jpg" /></a></p><p>В Могилеве утром 11 октября произошел пожар в девятиэтажном общежитии на улице Белинского. Из здания эвакуировали более 100 человек, в том числе 23 ребенка. Один из жильцов попал в больницу с ожогами.</p><p><a href="https://realt.onliner.by/2026/10/11/v-mogileve-zagorelos">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>В Германии построили самую высокую в мире ветряную турбину</title>
+      <link>https://4pda.to/2026/10/11/461926/v_germanii_postroili_samuyu_vysokuyu_v_mire_vetryanuyu_turbinu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/11/461926/v_germanii_postroili_samuyu_vysokuyu_v_mire_vetryanuyu_turbinu/</guid>
+      <pubDate>Sun, 11 Oct 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Около немецкого города Шипкау в Бранденбурге компания Gicon завершила строительство самой высокой в мире ветряной турбины Gicon-H&#246;henwindturm. Установка общей высотой 365 метров призвана улавливать [...]]]></description>
+    </item>
+    <item>
+      <title>В Турции автобус столкнулся с грузовиком и перевернулся. Погибли 11 человек</title>
+      <link>https://auto.onliner.by/go/1269767</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/11/v-turcii-avtobus-stolknulsya-s-gruzovikom-i-perevernulsya-pogibli-11-chelovek</guid>
+      <pubDate>Sun, 11 Oct 2026 12:11:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/11/v-turcii-avtobus-stolknulsya-s-gruzovikom-i-perevernulsya-pogibli-11-chelovek"><img alt="" src="https://content.onliner.by/news/thumbnail/ae7da189338382b14f85b1f14d0dd4e6.jpg" /></a></p><p>В Турции произошло серьезное ДТП с участием пассажирского автобуса и грузовика. В результате аварии погибли 11 человек, еще 27 получили травмы, сообщает телеканал NTV.</p><p><a href="https://auto.onliner.by/2026/10/11/v-turcii-avtobus-stolknulsya-s-gruzovikom-i-perevernulsya-pogibli-11-chelovek">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На Браславских озерах ловят огромных щук. Посмотрите на улов</title>
       <link>https://people.onliner.by/go/1338350</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/11/shhuka-dlinoj-1225-santimetra</guid>
       <pubDate>Sun, 11 Oct 2026 12:09:26 +0000</pubDate>
@@ -98,7 +170,7 @@
       <link>https://auto.onliner.by/go/1269754</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/10/11/kabany-pod-minskom-video</guid>
       <pubDate>Sun, 11 Oct 2026 08:21:48 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/11/kabany-pod-minskom-video"><img alt="" src="https://content.onliner.by/news/thumbnail/ff4b6dcced3530ae8168c2f7c2c593e2.jpg" /></a></p><p>В Threads появилось видео, на котором целое стадо диких кабанов перебегает дорогу. По словам автора ролика, кадры сняты недалеко от Минска.</p><p><a href="https://auto.onliner.by/2026/10/11/kabany-pod-minskom-video">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/11/kabany-pod-minskom-video"><img alt="" src="https://content.onliner.by/news/thumbnail/ff4b6dcced3530ae8168c2f7c2c593e2.jpg" /></a></p><p>Появилось видео, на котором целое стадо диких кабанов перебегает дорогу. По словам автора ролика, кадры сняты недалеко от Минска.</p><p><a href="https://auto.onliner.by/2026/10/11/kabany-pod-minskom-video">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
@@ -177,6 +249,14 @@
       <pubDate>Sun, 11 Oct 2026 05:00:51 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/11/kak-otdyhat-v-2027-godu"><img alt="" src="https://content.onliner.by/news/thumbnail/e4580ecaa27a29eb6c89d7d611530002.jpg" /></a></p><p>На этой неделе появился график переносов в 2027 году. Даты сложились так, что переносить будут только один рабочий понедельник на субботу рядом, а это значит, что четырех выходных подряд не будет. Смотрим календарь на следующий год и прикидываем, когда лучше идти в отпуск.</p><p><a href="https://money.onliner.by/2026/10/11/kak-otdyhat-v-2027-godu">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Китайцы превратили заброшенный карьер в деревню на отвесной скале, и сюда едут миллионы туристов</title>
+      <link>https://realt.onliner.by/go/1135800</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/11/wangxian</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/11/wangxian"><img alt="" src="https://content.onliner.by/news/thumbnail/50b3d57f175151a760ab8cb1e1cc9966.jpg" /></a></p><p>На востоке Китая, среди гор провинции Цзянси, скрывается уголок, фотографии которого легко принять за кадры из кино или изображения, созданные нейросетью: многоярусные деревянные дома под темными черепичными крышами «приклеены» к отвесной скальной стене над глубоким ущельем. Рассматривая снимки, сложно поверить в их реальность. Кажется, что архитекторы проигнорировали законы гравитации, а строители совершили невозможное. Между тем невероятная картинка существует на самом деле, хотя родилась она вовсе не в древности. За сказочным фасадом скрываются десять лет тяжелейшей инженерной работы, кредиты на сотни миллионов долларов и радикальный слом прежнего уклада целого края. Еще недавно здешние пейзажи ассоциировались исключительно с тяжелой промышленностью и разрухой — сейчас туда приезжают сотни тысяч туристов за впечатлениями, среди которых бывает и разочарование.</p><p><a href="https://realt.onliner.by/2026/10/11/wangxian">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
     </item>
     <item>
       <title>Одобрено Стивеном Кингом. Обзор кровавой, но прекрасной «Кэрри» (видео)</title>
@@ -281,47 +361,12 @@
       <description><![CDATA[Porsche определилась с дальнейшей судьбой семейства 718, в которое входят модели Boxster и Cayman. После завершения выпуска бензиновых версий компания решила полностью перевести их на электрическую тягу [...]]]></description>
     </item>
     <item>
-      <title>Новые ядерные часы оказались в шесть раз стабильнее аналогов</title>
-      <link>https://4pda.to/2026/10/10/462009/novye_yadernye_chasy_okazalis_v_shest_raz_stabilnee_analogov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462009/novye_yadernye_chasy_okazalis_v_shest_raz_stabilnee_analogov/</guid>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Университета Цинхуа добились заметного прогресса в разработке нового типа сверхточных часов. Их экспериментальная система на основе ядер тория-229 показала стабильность примерно в шесть раз выше, [...]]]></description>
-    </item>
-    <item>
       <title>Белорусы переправляли сигареты в Польшу на воздушных шарах. Их задержали</title>
       <link>https://money.onliner.by/go/349862</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/10/10/sigarety-na-vozdushnom-share</guid>
       <pubDate>Sat, 10 Oct 2026 14:03:06 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/10/sigarety-na-vozdushnom-share"><img alt="" src="https://content.onliner.by/news/thumbnail/081b0a7dd43d29d24f554b9a6cda2dce.jpg" /></a></p><p>В Польше задержали шестерых человек, которых подозревают в контрабанде сигарет из Беларуси довольно необычным способом — с помощью воздушных шаров. Среди задержанных двое белорусов и четверо латвийцев.</p><p><a href="https://money.onliner.by/2026/10/10/sigarety-na-vozdushnom-share">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Открытый мир в первой GTA появился из-за лени разработчиков</title>
-      <link>https://4pda.to/2026/10/10/462076/otkrytyj_mir_v_pervoj_gta_poyavilsya_iz_za_leni_razrabotchikov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462076/otkrytyj_mir_v_pervoj_gta_poyavilsya_iz_za_leni_razrabotchikov/</guid>
-      <pubDate>Sat, 10 Oct 2026 13:55:00 +0000</pubDate>
-      <description><![CDATA[Открытый мир GTA стал одной из визитных карточек серии, но изначально разработчики вовсе не собирались строить игру вокруг свободного исследования города. Более того, к этой идее их подтолкнуло желание [...]]]></description>
-    </item>
-    <item>
-      <title>INIU выпустила пауэрбанки для активного отдыха</title>
-      <link>https://4pda.to/2026/10/10/462081/iniu_vypustila_pauerbanki_dlya_aktivnogo_otdykha/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462081/iniu_vypustila_pauerbanki_dlya_aktivnogo_otdykha/</guid>
-      <pubDate>Sat, 10 Oct 2026 13:45:00 +0000</pubDate>
-      <description><![CDATA[Компания INIU представила линейку Outdoor Rugged для походов и активного отдыха, где техника подвергается воздействию пыли, воды и ударов. В неё вошли два пауэрбанка в усиленных корпусах&nbsp;ёмкостью [...]]]></description>
-    </item>
-    <item>
-      <title>Создан двигатель в виде нити толщиной несколько миллиметров</title>
-      <link>https://4pda.to/2026/10/10/462024/sozdan_dvigatel_v_vide_niti_tolschinoj_neskolko_millimetrov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462024/sozdan_dvigatel_v_vide_niti_tolschinoj_neskolko_millimetrov/</guid>
-      <pubDate>Sat, 10 Oct 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Инженеры Федеральной политехнической школы Лозанны разработали необычный гибкий двигатель FiberMotor, который визуально&nbsp;напоминает толстую нить. Диаметр прототипа — всего 1–3 мм. Он может свободно [...]]]></description>
-    </item>
-    <item>
-      <title>BYD показала электровнедорожник Tang с огромным экраном</title>
-      <link>https://4pda.to/2026/10/10/462057/byd_pokazala_elektrovnedorozhnik_tang_s_ogromnym_ekranom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462057/byd_pokazala_elektrovnedorozhnik_tang_s_ogromnym_ekranom/</guid>
-      <pubDate>Sat, 10 Oct 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[BYD впервые показала интерьер Tang третьего поколения — пятиместного электрического внедорожника с акцентом на комфорт водителя и пассажиров. Модель станет более компактной альтернативой полноразмерному [...]]]></description>
     </item>
     <item>
       <title>Двое школьников украли мотоцикл прямо на перемене</title>
@@ -332,63 +377,12 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Во что поиграть в октябре? 22 главных релиза месяца</title>
-      <link>https://4pda.to/2026/10/10/461819/vo_chto_poigrat_v_oktyabre_22_glavnykh_reliza_mesyatsa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/461819/vo_chto_poigrat_v_oktyabre_22_glavnykh_reliza_mesyatsa/</guid>
-      <pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
-      <description><![CDATA[Перед выходом GTA VI трепещет вся индустрия, а издатели пытаются запрыгнуть в уходящий поезд. Нас ждёт масса крупнокалиберных релизов — от сюжетного дополнения Dragon’s Dogma 2 до новой Call of Duty, Castlevania [...]]]></description>
-    </item>
-    <item>
-      <title>Морские звёзды вдохновили инженеров на создание необычного робота</title>
-      <link>https://4pda.to/2026/10/10/462029/morskie_zvyozdy_vdokhnovili_inzhenerov_na_sozdanie_neobychnogo_robota/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462029/morskie_zvyozdy_vdokhnovili_inzhenerov_na_sozdanie_neobychnogo_robota/</guid>
-      <pubDate>Sat, 10 Oct 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Инженеры из Университета штата Северная Каролина разработали мягкого подводного робота, вдохновлённого перистыми морскими звёздами. Благодаря своей необычной конструкции он способен двигаться вперёд и [...]]]></description>
-    </item>
-    <item>
-      <title>Умные батареи для электромобилей смогут прослужить на 20% дольше</title>
-      <link>https://4pda.to/2026/10/10/462066/umnye_batarei_dlya_elektromobilej_smogut_prosluzhit_na_20_dolshe/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462066/umnye_batarei_dlya_elektromobilej_smogut_prosluzhit_na_20_dolshe/</guid>
-      <pubDate>Sat, 10 Oct 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[В Технологическом университете Чалмерса в Швеции решили проблему аккумуляторов, когда изношенные ячейки влияют на работу всей системы. Новая система перераспределяет соединения между элементами, что позволяет [...]]]></description>
-    </item>
-    <item>
-      <title>Брал по 70 рублей за экзамен без вопросов. Доцент попался на взятках</title>
-      <link>https://money.onliner.by/go/349853</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/10/dotsent-vzyatochnik</guid>
-      <pubDate>Sat, 10 Oct 2026 09:55:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/10/dotsent-vzyatochnik"><img alt="" src="https://content.onliner.by/news/thumbnail/ec7e6b673f625971f0d5cf8d01bfa289.jpg" /></a></p><p>В Горках преподаватель аграрного вуза решил немного заработать на экзаменах. Двум студенткам-заочницам он предложил поставить положительные оценки без проверки знаний. Цена вопроса — по 70 рублей с каждой. В итоге дело закончилось судом, сообщает прокуратура.</p><p><a href="https://money.onliner.by/2026/10/10/dotsent-vzyatochnik">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Четыре пенсионера оказались в больнице после ДТП на проспекте Победителей (видео)</title>
-      <link>https://auto.onliner.by/go/1269629</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/10/dtp-pensionery-v-bolnitse</guid>
-      <pubDate>Sat, 10 Oct 2026 09:28:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/10/dtp-pensionery-v-bolnitse"><img alt="" src="https://content.onliner.by/news/thumbnail/c58d5da310192b94b511b661874fe557.jpg" /></a></p><p>Днем в субботу на проспекте Победителей в Минске произошло ДТП с участием трех автомобилей. После аварии четырех пенсионеров доставили в больницу для обследования.</p><p><a href="https://auto.onliner.by/2026/10/10/dtp-pensionery-v-bolnitse">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Аналитики: в 2027-м ноутбуки станут ещё дороже или хуже технически</title>
-      <link>https://4pda.to/2026/10/10/462082/analitiki_v_2027_m_noutbuki_stanut_eschyo_dorozhe_ili_khuzhe_tekhnicheski/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/462082/analitiki_v_2027_m_noutbuki_stanut_eschyo_dorozhe_ili_khuzhe_tekhnicheski/</guid>
-      <pubDate>Sat, 10 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Новые ноутбуки уже поражают своими высокими ценниками, но аналитики TrendForce считают, что в 2027 году ситуация продолжит усугубляться. Производителям придётся выбирать между повышением цен, ухудшением [...]]]></description>
-    </item>
-    <item>
       <title>BentoPDF Handles PDFs Locally, So You Don’t Have to Upload Them to Websites</title>
       <link>https://feed.itsfoss.com/link/24361/17493291/bentopdf</link>
       <guid isPermaLink="false">6ac873ca2df9a50001a2e72f</guid>
       <pubDate>Sat, 10 Oct 2026 08:01:21 +0000</pubDate>
       <description><![CDATA[bentopdff banner with laptop and toolbox]]></description>
       <category>First Look</category>
-    </item>
-    <item>
-      <title>Флагманский робот-пылесос ECOVACS DEEBOT T90 PRO OMNI меняет представление об уборке</title>
-      <link>https://4pda.to/2026/10/10/461724/flagmanskij_robot_pylesos_ecovacs_deebot_t90_pro_omni_menyaet_predstavlenie_ob_uborke/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/10/461724/flagmanskij_robot_pylesos_ecovacs_deebot_t90_pro_omni_menyaet_predstavlenie_ob_uborke/</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Если вы считали, что робот-пылесос служит только лёгкой уборки и в целом не слишком нужен в хозяйстве, современные модели могут вас удивить. Флагманский ECOVACS DEEBOT T90 PRO OMNI умеет не только пылесосить, [...]]]></description>
     </item>
   </channel>
 </rss>
