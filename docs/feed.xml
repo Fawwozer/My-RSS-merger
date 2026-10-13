@@ -5,18 +5,220 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:39:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:20:12 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>Android, Linux, Windows. Стало известно, когда выйдет NexPhone с поддержкой трёх ОС</title>
-      <link>https://4pda.to/2026/10/13/462109/android_linux_windows_stalo_izvestno_kogda_vyjdet_nexphone_s_podderzhkoj_tryokh_os/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462109/android_linux_windows_stalo_izvestno_kogda_vyjdet_nexphone_s_podderzhkoj_tryokh_os/</guid>
-      <pubDate>Tue, 13 Oct 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Смартфон NexPhone, представленный
-в январе этого года, привлёк к себе внимание благодаря официальной поддержке
-сразу трёх ОС: Android, Linux и Windows 11. Однако путь к выпуску такого
-гаджета оказался [...]]]></description>
+      <title>Инсайды #3954: GeForce RTX 5080 с 24 ГБ VRAM, POCO X8s и OnePlus 16R</title>
+      <link>https://4pda.to/2026/10/13/462167/insajdy_3954_geforce_rtx_5080_s_24_gb_vram_poco_x8s_i_oneplus_16r/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462167/insajdy_3954_geforce_rtx_5080_s_24_gb_vram_poco_x8s_i_oneplus_16r/</guid>
+      <pubDate>Tue, 13 Oct 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: GeForce RTX 5080 может получить 24 ГБ VRAM-памяти; POCO X8s засветился в сертификаторах и Geekbench; OnePlus 16R оснастят телеобъективом.
+GeForce RTX 5080 может перейти на 24 [...]]]></description>
+    </item>
+    <item>
+      <title>Выпущена LineageOS 24 на базе Android 17. Что нового?</title>
+      <link>https://4pda.to/2026/10/13/462147/vypuschena_lineageos_24_na_baze_android_17_chto_novogo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462147/vypuschena_lineageos_24_na_baze_android_17_chto_novogo/</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Разработчики выпустили
+LineageOS 24 — новую версию открытой мобильной операционной системы на базе
+Android 17. Первая стабильная сборка доступна для 175 устройств, что на
+28 больше, чем у предыдущей версии. [...]]]></description>
+    </item>
+    <item>
+      <title>With an Eye on Europe, Mozilla Launches Firefox Enterprise With Self-Hosted Browser Management</title>
+      <link>https://feed.itsfoss.com/link/24361/17496630/firefox-enterprise</link>
+      <guid isPermaLink="false">6ace60650502180001324665</guid>
+      <pubDate>Tue, 13 Oct 2026 17:16:28 +0000</pubDate>
+      <description><![CDATA[mozilla]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Поставки смартфонов упали до минимума за 14 лет, но Apple поставила новый рекорд</title>
+      <link>https://4pda.to/2026/10/13/462151/postavki_smartfonov_upali_do_minimuma_za_14_let_no_apple_postavila_novyj_rekord/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462151/postavki_smartfonov_upali_do_minimuma_za_14_let_no_apple_postavila_novyj_rekord/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Мировой рынок смартфонов переживает один из самых серьёзных спадов за долгие годы. По предварительным данным Counterpoint Research, в третьем квартале 2026 года поставки устройств сократились на 20% по [...]]]></description>
+    </item>
+    <item>
+      <title>This New Distro Wants to Achieve What Ubuntu Failed to Do Nearly a Decade Ago</title>
+      <link>https://feed.itsfoss.com/link/24361/17496631/luma-first-look</link>
+      <guid isPermaLink="false">6accb8e00502180001323e52</guid>
+      <pubDate>Tue, 13 Oct 2026 16:39:19 +0000</pubDate>
+      <description><![CDATA[luma launch banner laptop and smartphone]]></description>
+      <category>First Look</category>
+    </item>
+    <item>
+      <title>Официально: Apple представила новые «домашние» гаджеты — параметры и цены</title>
+      <link>https://tech.onliner.by/go/796847</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/umnyj-dom-apple</guid>
+      <pubDate>Tue, 13 Oct 2026 16:36:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/13/umnyj-dom-apple"><img alt="" src="https://content.onliner.by/news/thumbnail/d38181674f189e4954c224ae708211d2.jpg" /></a></p><p>Apple на официальном сайте <a href="https://www.apple.com/newsroom/" target="_blank">представила</a> несколько новых устройств, предназначенных, по сути, для использования дома. В их число вошли смарт-хаб, колонка, ТВ-приставка, а также ряд датчиков.</p><p><a href="https://tech.onliner.by/2026/10/13/umnyj-dom-apple">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Рекомендуем обновиться: AMD выпустила экстренный патч для видеокарт Radeon RX 7000</title>
+      <link>https://4pda.to/2026/10/13/462149/rekomenduem_obnovitsya_amd_vypustila_ekstrennyj_patch_dlya_videokart_radeon_rx_7000/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462149/rekomenduem_obnovitsya_amd_vypustila_ekstrennyj_patch_dlya_videokart_radeon_rx_7000/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[AMD подтвердила наличие
+уязвимостей в прошивках видеокарт Radeon RX 7000 и порекомендовала установить новый vBIOS. Подробности о характере проблем и способах
+их эксплуатации компания пока не раскрывает, [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске 15-летняя девочка катала подругу на электросамокате. Их сбила машина</title>
+      <link>https://auto.onliner.by/go/1270102</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/devochka-popala-pod-belgee</guid>
+      <pubDate>Tue, 13 Oct 2026 15:44:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/devochka-popala-pod-belgee"><img alt="" src="https://content.onliner.by/news/thumbnail/0e0fbcca3e6d673b06a37dc5963d6b0c.jpg" /></a></p><p>В Минске две школьницы попали в ДТП, катаясь вдвоем на электросамокате. Девочки пересекали Логойский тракт, когда на них наехал автомобиль BelGee. К счастью, обошлось без пострадавших.</p><p><a href="https://auto.onliner.by/2026/10/13/devochka-popala-pod-belgee">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>С сентября 2027 года в Беларуси изменятся правила работы экспедиторов</title>
+      <link>https://auto.onliner.by/go/1270095</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/s-sentyabrya-2027-goda</guid>
+      <pubDate>Tue, 13 Oct 2026 15:24:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/s-sentyabrya-2027-goda"><img alt="" src="https://content.onliner.by/news/thumbnail/251aaee28a3a9f70cd6cc1a39ccb28ae.jpg" /></a></p><p>В Беларуси появится единый реестр транспортных экспедиторов. Соответствующий указ подписал Александр Лукашенко. С осени 2027 года компании и предприниматели, которые оказывают транспортно-экспедиционные услуги, должны будут находиться в этом реестре, чтобы продолжать работу.</p><p><a href="https://auto.onliner.by/2026/10/13/s-sentyabrya-2027-goda">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На взломанной PlayStation 5 запустили стриминг Xbox</title>
+      <link>https://4pda.to/2026/10/13/462156/na_vzlomannoj_playstation_5_zapustili_striming_xbox/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462156/na_vzlomannoj_playstation_5_zapustili_striming_xbox/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Ещё недавно дела в игровой индустрии шли к полной отмене эксклюзивов, но этот вектор резко изменился. Однако поменялось и ещё кое-что, благодаря чему Xbox Cloud Gaming теперь можно запустить на взломанных [...]]]></description>
+    </item>
+    <item>
+      <title>Том Круз с пузом и девушка с топором. Что мы посмотрели сами и советуем вам</title>
+      <link>https://people.onliner.by/go/1338898</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/13/digger-proslushka</guid>
+      <pubDate>Tue, 13 Oct 2026 15:05:46 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/13/digger-proslushka"><img alt="" src="https://content.onliner.by/news/thumbnail/e1cc48fac6ba81264b017b7d3bdf01d7.jpg" /></a></p><p>Это наш очередной большой выпуск подкаста «Прослушка», где мы докапывались до сути новой картины оскароносного Алехандро Иньярриту с Томом Крузом, выясняли, почему женщины снова убивают, а мужчины — в депрессии (даже когда сражаются с зомби), держали кулачки за Юру Борисова и Николаса Кейджа, ну и, как обычно, много смеялись, спорили и роняли микрофоны. Велкам!</p><p><a href="https://people.onliner.by/2026/10/13/digger-proslushka">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Пострадали две девушки: мотоциклист сбил велосипедистку. Возбуждено уголовное дело</title>
+      <link>https://auto.onliner.by/go/1270088</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/postradali-dve-devushki-2</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/postradali-dve-devushki-2"><img alt="" src="https://content.onliner.by/news/thumbnail/ae91beade463804927c2a6260a212748.jpg" /></a></p><p>9 октября около 22:50 21-летний водитель мотоцикла, перевозя на пассажирском сиденье 19-летнюю девушку, двигался по трассе (Гожа — Цидовичи). В направлении деревни Цидовичи мотоциклист вовремя не сбросил скорость и наехал на 23-летнюю девушку-пешехода. Та вела велосипед по правому краю проезжей части в попутном направлении.</p><p><a href="https://auto.onliner.by/2026/10/13/postradali-dve-devushki-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>AliExpress назвала топ-10 самых популярных планшетов третьего квартала 2026 года</title>
+      <link>https://4pda.to/2026/10/13/462166/aliexpress_nazvala_top_10_samykh_populyarnykh_planshetov_tretego_kvartala_2026_goda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462166/aliexpress_nazvala_top_10_samykh_populyarnykh_planshetov_tretego_kvartala_2026_goda/</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Аналитики AliExpress подвели итоги
+продаж планшетов в странах СНГ за третий квартал 2026 года. В топ-10
+вошли как доступные устройства для повседневных задач, так и мощные планшеты на
+базе флагманских [...]]]></description>
+    </item>
+    <item>
+      <title>GTA VI выпустят на ПК уже в начале 2027 года?</title>
+      <link>https://tech.onliner.by/go/796860</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/gta-vi-vypustyat-na-pk-uzhe-v-nachale-2027-goda</guid>
+      <pubDate>Tue, 13 Oct 2026 14:47:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/13/gta-vi-vypustyat-na-pk-uzhe-v-nachale-2027-goda"><img alt="" src="https://content.onliner.by/news/thumbnail/744d43968bfad22555ede7ed70ca4cb3.jpg" /></a></p><p>Издание GamesBeat, ссылаясь на несколько независимых источников, <a href="https://gamesbeat.com/grand-theft-auto-vis-pc-release-is-slated-for-q1-2027/" target="_blank">сообщает</a>: GTA VI на ПК якобы собираются выпустить уже в первом квартале 2027 года. Таким образом в Rockstar — опять же, якобы — хотят максимизировать прибыль.</p><p><a href="https://tech.onliner.by/2026/10/13/gta-vi-vypustyat-na-pk-uzhe-v-nachale-2027-goda">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В Антарктиде ищут людей для подсчета пингвинов. Рассказываем, сколько платят и что нужно делать</title>
+      <link>https://money.onliner.by/go/350305</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/13/schitat-pingvinov-za-2500</guid>
+      <pubDate>Tue, 13 Oct 2026 14:46:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/13/schitat-pingvinov-za-2500"><img alt="" src="https://content.onliner.by/news/thumbnail/c8fa699eac2ab4d2f270e7234cf764ab.jpg" /></a></p><p>В Антарктиде есть <a href="https://www.telecinco.es/noticias/estilo-de-vida/20261012/cambiar-de-vida-como-irte-contar-pinguinos-antartida-upp3rs_18_020350571.html">работа</a>, которая может показаться мечтой: считать пингвинов, встречать туристов и получать за это до 2500 евро в месяц. Правда, условия проживания понравятся далеко не всем.</p><p><a href="https://money.onliner.by/2026/10/13/schitat-pingvinov-za-2500">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Меньше и дешевле, но точно не хуже, чем L9. В Беларусь привезли новый Li L8</title>
+      <link>https://auto.onliner.by/go/1270078</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/menshe-i-deshevle</guid>
+      <pubDate>Tue, 13 Oct 2026 14:37:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/menshe-i-deshevle"><img alt="" src="https://content.onliner.by/news/thumbnail/209df3ee221c1892e49784e1c0c2c206.jpg" /></a></p><p>На прошлой неделе мы <a href="https://auto.onliner.by/2026/10/06/v-belarusi-startovali" target="_blank">писали</a> о старте продаж флагманского кроссовера Li L9 второго поколения. Теперь же на наш рынок выходит и более компактная соплатформенная модель L8, доступная исключительно в двухрядном исполнении.</p><p><a href="https://auto.onliner.by/2026/10/13/menshe-i-deshevle">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На МКАД водитель Chevrolet после перестроения столкнулась с Volkswagen и врезалась в столб  (видео)</title>
+      <link>https://auto.onliner.by/go/1270067</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/vrezalas-v-stolb</guid>
+      <pubDate>Tue, 13 Oct 2026 14:07:36 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/vrezalas-v-stolb"><img alt="" src="https://content.onliner.by/news/thumbnail/f96feea1238a8006bd92301c60a59eaa.jpg" /></a></p><p>Сегодня днем 29-летний водитель Chevrolet в районе 28-го км внешнего кольца МКАД столкнулась с попутным автомобилем Volkswagen, после чего врезалась в осветительную мачту.</p><p><a href="https://auto.onliner.by/2026/10/13/vrezalas-v-stolb">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Мужчина привез в Беларусь 40 тысяч долларов наличными. На таможне возникли проблемы</title>
+      <link>https://money.onliner.by/go/350268</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/13/muzhchina-priv</guid>
+      <pubDate>Tue, 13 Oct 2026 14:04:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/13/muzhchina-priv"><img alt="" src="https://content.onliner.by/news/thumbnail/230c43ae7b5cde62db034a59efc16b98.jpg" /></a></p><p>В Национальном аэропорту Минск задержали гражданина Таджикистана, который прилетел из Ташкента с крупной суммой наличных. Мужчина попытался пройти через зеленый коридор, но таможенники обнаружили у него более 40 тысяч долларов. Теперь ему грозит до пяти лет лишения свободы.</p><p><a href="https://money.onliner.by/2026/10/13/muzhchina-priv">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Дом стоимостью $680 тысяч выставлен на продажу за $1,3 доллара. В чем подвох?</title>
+      <link>https://realt.onliner.by/go/1136314</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/13/dom-stoimostyu</guid>
+      <pubDate>Tue, 13 Oct 2026 14:02:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/13/dom-stoimostyu"><img alt="" src="https://content.onliner.by/news/thumbnail/924620456fb3549bbc227cecda105e8c.jpg" /></a></p><p>В британском приморском городе Сент‑Леонардс‑он‑Си в графстве Восточный Сассекс на аукцион выставили отдельно стоящий дом с четырьмя спальнями, рыночная стоимость которого оценивается примерно в $680 тысяч. Однако стартовая цена объекта составляет всего £1 ($1,3). Издание The Sun <a href="https://www.thesun.co.uk/money/40654775/family-home-seaside-town-sale-1-massive-catch/" target="_blank">рассказывает</a>, что с этим домом не так.</p><p><a href="https://realt.onliner.by/2026/10/13/dom-stoimostyu">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Строительство путепровода на Колесникова — Ратомской: что там происходит? (обновлено)</title>
+      <link>https://auto.onliner.by/go/1237367</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/stroitelstvo-puteprovoda</guid>
+      <pubDate>Tue, 13 Oct 2026 14:00:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/stroitelstvo-puteprovoda"><img alt="" src="https://content.onliner.by/news/thumbnail/e6c16be38b182e4ed5b404c1c0a8a9fd.jpg" /></a></p><p>Продолжаем рассказывать о <a href="https://auto.onliner.by/2025/07/22/v-minske-poyavitsya-puteprovod" target="_blank">строительстве</a> путепровода между улицами Колесникова и Ратомской в Минске. 381-метровый объект свяжет Фрунзенский и Центральный районы, он призван облегчить транспортное сообщение в этой части города. Что происходит на месте будущего строительства сейчас?
+</p><p><a href="https://auto.onliner.by/2026/10/13/stroitelstvo-puteprovoda">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>YouTube тестирует новый дизайн. Вот как вернуть старый, если он вам не понравился</title>
+      <link>https://4pda.to/2026/10/13/462174/youtube_testiruet_novyj_dizajn_vot_kak_vernut_staryj_esli_on_vam_ne_ponravilsya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462174/youtube_testiruet_novyj_dizajn_vot_kak_vernut_staryj_esli_on_vam_ne_ponravilsya/</guid>
+      <pubDate>Tue, 13 Oct 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[YouTube начал тестирование нового интерфейса. У некоторых пользователей комментарии и описание роликов переместились в боковую панель, а рекомендации теперь отображаются под плеером.&nbsp;
+Изменения понравились [...]]]></description>
+    </item>
+    <item>
+      <title>Apple и LG представили камеры, термостат и замок для умного дома</title>
+      <link>https://4pda.to/2026/10/13/462175/apple_i_lg_predstavili_kamery_termostat_i_zamok_dlya_umnogo_doma/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462175/apple_i_lg_predstavili_kamery_termostat_i_zamok_dlya_umnogo_doma/</guid>
+      <pubDate>Tue, 13 Oct 2026 13:59:00 +0000</pubDate>
+      <description><![CDATA[Вместе с HomeView компания Apple представила Home Collection — новую линейку аксессуаров, разработанных совместно с LG Electronics и Schneider Electric. В неё вошли камеры наблюдения, видеозвонок, умный [...]]]></description>
+    </item>
+    <item>
+      <title>Apple HomePod mini умеет визуализировать музыку</title>
+      <link>https://4pda.to/2026/10/13/462173/apple_homepod_mini_umeet_vizualizirovat_muzyku/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462173/apple_homepod_mini_umeet_vizualizirovat_muzyku/</guid>
+      <pubDate>Tue, 13 Oct 2026 13:58:00 +0000</pubDate>
+      <description><![CDATA[Apple представила новое поколение компактной умной колонки HomePod mini. Устройство сохранило знакомый дизайн, но получило улучшенные аудиовозможности, новые цвета и поддержку Siri AI.
+За звук в колонке [...]]]></description>
+    </item>
+    <item>
+      <title>Программа для повышения fps в играх работает — подтвердил эксперт [ВИДЕО]</title>
+      <link>https://4pda.to/2026/10/13/462155/programma_dlya_povysheniya_fps_v_igrakh_rabotaet_podtverdil_ekspert_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/13/462155/programma_dlya_povysheniya_fps_v_igrakh_rabotaet_podtverdil_ekspert_video/</guid>
+      <pubDate>Tue, 13 Oct 2026 13:55:00 +0000</pubDate>
+      <description><![CDATA[Энтузиасты выпускают множество различных «улучшаторов кадровой частоты», большинство из которых никак не влияет на игровую производительность. Впрочем, разработчик SCSKiller сумел выделиться.
+[youtube=eD-P671830U:640:360:::0]
+Автор [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске разбился роупджампер: мужчина помогал проверять оборудование организатору прыжков (обновлено)</title>
+      <link>https://people.onliner.by/go/1338876</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/13/razbilsya-roupdzhamper</guid>
+      <pubDate>Tue, 13 Oct 2026 13:54:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/13/razbilsya-roupdzhamper"><img alt="" src="https://content.onliner.by/news/thumbnail/74e48702e98e3b882516d651a0a5a06d.jpg" /></a></p><p><p dir="ltr">В Минске мужчина сорвался с высоты во время подготовки к роупджампингу. Пострадавший получил многочисленные травмы и был госпитализирован в тяжелом состоянии. Следственный комитет проводит проверку.</p><p><a href="https://people.onliner.by/2026/10/13/razbilsya-roupdzhamper">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Обсерватория Веры Рубин зафиксировала крупнейший сверхбыстро вращающийся астероид</title>
+      <link>https://tech.onliner.by/go/796835</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/observatoriya-very-rubin-zafiksirovala-krupnejshij-sverxbystro-vrashhayushhijsya-asteroid</guid>
+      <pubDate>Tue, 13 Oct 2026 13:39:14 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/13/observatoriya-very-rubin-zafiksirovala-krupnejshij-sverxbystro-vrashhayushhijsya-asteroid"><img alt="" src="https://content.onliner.by/news/thumbnail/674abb9a1a53bb216970de5d777d8232.jpg" /></a></p><p>Скорость вращения астероида может многое рассказать о его составе, но нынешние методы измерения на основе телескопических наблюдений зачастую дают некорректные результаты. Исследователи из Вашингтонского университета разработали специальное ПО, которое отсеивает недостоверные измерения. Это дало возможность обнаружить «крупнейший на сегодняшний день сверхбыстро вращающийся астероид», <a href="https://phys.org/news/2026-10-vera-rubin-observatory-largest-ultra.html" target="_blank">пишет</a> Phys. </p><p><a href="https://tech.onliner.by/2026/10/13/observatoriya-very-rubin-zafiksirovala-krupnejshij-sverxbystro-vrashhayushhijsya-asteroid">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
     </item>
     <item>
       <title>Apple представила HomeView — центр умного дома с экраном и колонкой</title>
@@ -41,7 +243,7 @@
       <description><![CDATA[На Paris Motor Show 2026 компания Peugeot представила электрический концепт E-T16, созданный по мотивам раллийного 205 T16. Он получил три электромотора и технологии из автоспорта, а его экстерьер и салон [...]]]></description>
     </item>
     <item>
-      <title>«Яндекс» отменил плату за Yandex Cloud и «Яндекс 360» до конца октября</title>
+      <title>«Яндекс» отменил плату за Yandex Cloud и «Яндекс 360» до конца октября (обновлено)</title>
       <link>https://tech.onliner.by/go/796790</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/yandeks-otmenil-platu-za-yandex-cloud-i-yandeks-360-do-konca-oktyabrya</guid>
       <pubDate>Tue, 13 Oct 2026 13:10:26 +0000</pubDate>
@@ -190,23 +392,6 @@ No [...]]]></description>
       <description><![CDATA[«Яндекс» продолжает восстанавливать работу своих сервисов, в том числе связанных с финансами. Часть пользователей&nbsp;снова может переводить деньги и оплачивать покупки через «Яндекс Пэй», однако некоторые [...]]]></description>
     </item>
     <item>
-      <title>Хакеры нагрели холодильники в сотнях супермаркетов. Продукты пришлось выбросить</title>
-      <link>https://money.onliner.by/go/350212</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/13/xakery-nagreli-xolodilniki</guid>
-      <pubDate>Tue, 13 Oct 2026 10:01:43 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/13/xakery-nagreli-xolodilniki"><img alt="" src="https://content.onliner.by/news/thumbnail/1b2820e45090415bbd922598142c6432.jpg" /></a></p><p>Во Франции хакеры устроили необычную кибератаку: взломали системы охлаждения в сотнях супермаркетов и подняли температуру в холодильниках до 50 градусов. В результате продукты пришлось выбрасывать, а ущерб может составить десятки миллионов евро.
-</p><p><a href="https://money.onliner.by/2026/10/13/xakery-nagreli-xolodilniki">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>35-летние братья уснули на лавочке в «Минск-Мире». Один умер, второй — в тяжелом состоянии</title>
-      <link>https://people.onliner.by/go/1338761</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/13/bratya-usnuli-na-lavochke</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/13/bratya-usnuli-na-lavochke"><img alt="" src="https://content.onliner.by/news/thumbnail/4f75f36a940e323bfa7994a061845e44.jpg" /></a></p><p><p dir="ltr">Во дворе жилого дома на улице Аэродромной в столичном микрорайоне «Минск-Мир» утром 13 октября нашли двух мужчин без сознания. Один из них умер, второго в тяжелом состоянии доставили в больницу. Следователи выясняют обстоятельства произошедшего.</p><p><a href="https://people.onliner.by/2026/10/13/bratya-usnuli-na-lavochke">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Глава Nothing назвал iPhone Duo пустой тратой денег</title>
       <link>https://4pda.to/2026/10/13/462143/glava_nothing_nazval_iphone_duo_pustoj_tratoj_deneg/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/13/462143/glava_nothing_nazval_iphone_duo_pustoj_tratoj_deneg/</guid>
@@ -232,30 +417,12 @@ No [...]]]></description>
 график выхода прошивки, а также назвал точные сроки и модели&nbsp;на [...]]]></description>
     </item>
     <item>
-      <title>Такого вы точно не ожидали: в «Минск-Мире» появится свой рынок</title>
-      <link>https://realt.onliner.by/go/1136388</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/13/v-minsk-mire-poyavitsya-svoj-rynok</guid>
-      <pubDate>Tue, 13 Oct 2026 09:20:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/13/v-minsk-mire-poyavitsya-svoj-rynok"><img alt="" src="https://content.onliner.by/news/thumbnail/435d0bf02c743799a605e6b42b628a41.jpg" /></a></p><p><p>В «Минск-Мире» стартовало строительство нового объекта, который заметно оживит район. В третьем квартале начали возводить двухэтажный мини-рынок, совмещенный с паркингом на 1200 автомобилей. О начале работ рассказал агентству <a href="https://minsknews.by/zhiloj-kompleks-minsk-mir-prirastet-novymi-parkovkami-parkom-i-skverami/" target="_blank">«Минск-Новости»</a> глава администрации Октябрьского района Эдуард Томильчик.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/10/13/v-minsk-mire-poyavitsya-svoj-rynok">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Steam установил новый рекорд онлайна с ощутимым отрывом</title>
       <link>https://4pda.to/2026/10/13/462160/steam_ustanovil_novyj_rekord_onlajna_s_oschutimym_otryvom/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/13/462160/steam_ustanovil_novyj_rekord_onlajna_s_oschutimym_otryvom/</guid>
       <pubDate>Tue, 13 Oct 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[Steam давно стал главной платформой для ПК-геймеров&nbsp;и&nbsp;продолжает собирать всё больше пользователей. Для очередного исторического достижения большинству даже не понадобилось ничего запускать.
 Согласно [...]]]></description>
-    </item>
-    <item>
-      <title>Chery объявила отзыв после того, как один из ее кроссоверов потерял заднюю ось (обновлено)</title>
-      <link>https://auto.onliner.by/go/1269957</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/chery-obyavila-otzyv</guid>
-      <pubDate>Tue, 13 Oct 2026 09:10:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/chery-obyavila-otzyv"><img alt="" src="https://content.onliner.by/news/thumbnail/810ee087abdbbdd138fe30050c763dbd.jpg" /></a></p><p>Компания Chery отзывает 8878 автомобилей Omoda 5 на рынке Малайзии. Это произошло после того, как стало известно о случае, когда один из таких кроссоверов потерял заднюю ось. Китайские СМИ <a href="https://carnewschina.com/2026/10/12/chery-recalls-omoda-c5-due-to-detached-axle-for-the-second-time-in-malaysia/" target="_blank">обращают внимание</a> на то, что подобный случай уже имел место в прошлом: в 2024 году по этой же причине отозвали 600 автомобилей.
-</p><p><a href="https://auto.onliner.by/2026/10/13/chery-obyavila-otzyv">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>OnePlus 16 оказался настоящим игровым монстром в реальных тестах</title>
@@ -265,159 +432,11 @@ No [...]]]></description>
       <description><![CDATA[Новый флагманский смартфон OnePlus 16 продвигается в первую очередь как игровое устройство. Компания делает акцент на высокой частоте обновления экрана и его отзывчивости, производительности, эффективности [...]]]></description>
     </item>
     <item>
-      <title>Белорус свозил жену в Таиланд за 180 тысяч рублей. После отпуска его ждала колония</title>
-      <link>https://money.onliner.by/go/350190</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/13/belorus-svozil-zhenu</guid>
-      <pubDate>Tue, 13 Oct 2026 08:52:04 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/13/belorus-svozil-zhenu"><img alt="" src="https://content.onliner.by/news/thumbnail/15e3c5b4b37e053425d4c73e43d7256b.jpg" /></a></p><p>В Гомеле начальника отдела одного из предприятий приговорили к семи годам колонии за взятку. Полученные деньги мужчина потратил на отдых в Таиланде вместе с супругой. Причем поездка обошлась как минимум в 180 тысяч рублей.</p><p><a href="https://money.onliner.by/2026/10/13/belorus-svozil-zhenu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>CMF выпустила колонки Speaker S/M со сменными панелями, которые можно напечатать на 3D-принтере</title>
       <link>https://4pda.to/2026/10/13/462134/cmf_vypustila_kolonki_speaker_s_m_so_smennymi_panelyami_kotorye_mozhno_napechatat_na_3d_printere/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/13/462134/cmf_vypustila_kolonki_speaker_s_m_so_smennymi_panelyami_kotorye_mozhno_napechatat_na_3d_printere/</guid>
       <pubDate>Tue, 13 Oct 2026 08:48:21 +0000</pubDate>
       <description><![CDATA[CMF пополнила свою линейку первыми портативными Bluetooth-колонками — Speaker S и Speaker M. Они различаются размерами и мощностью, но получили одинаковые возможности подключения, сменные элементы корпуса [...]]]></description>
-    </item>
-    <item>
-      <title>Аналитики: поставки смартфонов упали на 20%. В плюсе только Samsung и Apple</title>
-      <link>https://tech.onliner.by/go/796750</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/analitiki-postavki-smartfonov-upali-na-20-v-plyuse-tolko-samsung-i-apple</guid>
-      <pubDate>Tue, 13 Oct 2026 08:41:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/13/analitiki-postavki-smartfonov-upali-na-20-v-plyuse-tolko-samsung-i-apple"><img alt="" src="https://content.onliner.by/news/thumbnail/57093c5e7adad77571285a347cab1d18.jpg" /></a></p><p>Аналитическая компания Counterpoint Research опубликовала отчет о состоянии мирового рынка смартфонов в третьем квартале (июль — сентябрь). <em>«Результаты неутешительные: объем поставок сократился на 20% по сравнению с аналогичным периодом прошлого года»</em>, — <a href="https://www.gsmarena.com/samsung_and_apple_were_the_winners_in_a_q3_smartphone_market_that_dropped_20-news-75013.php" target="_blank">отмечается</a> в заметке GSMArena, авторы которой изучили отчет. </p><p><a href="https://tech.onliner.by/2026/10/13/analitiki-postavki-smartfonov-upali-na-20-v-plyuse-tolko-samsung-i-apple">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Хор из Дании спел белорусскую народную песню и порвал соцсети (видео)</title>
-      <link>https://people.onliner.by/go/1338654</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/13/xor-iz-danii-spel-belorusskuyu-narodnuyu-pesnyu</guid>
-      <pubDate>Tue, 13 Oct 2026 08:36:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/13/xor-iz-danii-spel-belorusskuyu-narodnuyu-pesnyu"><img alt="" src="https://content.onliner.by/news/thumbnail/18e71ceb9f467b3fa9646abf849f5e92.jpg" /></a></p><p><p dir="ltr">В Instagram завирусился рилс с исполнением белорусской народной песни «Што й па мору» датским женским хором Konur. Ролик, где девушки поют ее акапельно в храме французского города Спелонкато, уже собрал 1,4 млн просмотров и сотни восторженных комментариев как от белорусов, так и от иностранцев.</p><p><a href="https://people.onliner.by/2026/10/13/xor-iz-danii-spel-belorusskuyu-narodnuyu-pesnyu">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Соулслайк по-наполеоновски. Критики оценили Valor Mortis от авторов хитовой Ghostrunner</title>
-      <link>https://4pda.to/2026/10/13/462153/soulslajk_po_napoleonovski_kritiki_otsenili_valor_mortis_ot_avtorov_khitovoj_ghostrunner/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462153/soulslajk_po_napoleonovski_kritiki_otsenili_valor_mortis_ot_avtorov_khitovoj_ghostrunner/</guid>
-      <pubDate>Tue, 13 Oct 2026 08:32:30 +0000</pubDate>
-      <description><![CDATA[Авторы Ghostrunner готовятся выпустить наполеоновский соулслайк Valor Mortis от первого лица. Игра получила оценки прессы — похоже, это крепкая, но не вполне однозначная вещь.
-[youtube=UJvs80cr2RA:640:360:::0]
-Valor [...]]]></description>
-    </item>
-    <item>
-      <title>Geely EX2 оставили без дешевых кредитов?</title>
-      <link>https://auto.onliner.by/go/1270008</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/13/geely-ex2-ostavili</guid>
-      <pubDate>Tue, 13 Oct 2026 08:25:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/13/geely-ex2-ostavili"><img alt="" src="https://content.onliner.by/news/thumbnail/0fbae3c0f490503f0be650db1722caf0.jpg" /></a></p><p>Еще несколько дней назад потенциальные покупатели модели Geely EX2 стали обсуждать в тематических чатах и соцсетях тему отмены льготных кредитов на данную модель. При этом они ссылались на сообщения от менеджеров отделов продаж. Называлась дата 13 октября. И вот она наступила. Изучив сайты разных дилеров, а именно разделы «кредиты», приходится констатировать, что интересных предложений по этой части для покупателей электрокара действительно стало меньше.</p><p><a href="https://auto.onliner.by/2026/10/13/geely-ex2-ostavili">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Появились первые фото и характеристики автономного Honor Win 2</title>
-      <link>https://4pda.to/2026/10/13/462136/poyavilis_pervye_foto_i_kharakteristiki_avtonomnogo_honor_win_2/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462136/poyavilis_pervye_foto_i_kharakteristiki_avtonomnogo_honor_win_2/</guid>
-      <pubDate>Tue, 13 Oct 2026 08:20:00 +0000</pubDate>
-      <description><![CDATA[Honor подтвердила грядущий выход смартфона Win
-2, презентация которого намечена на 21 октября. Официально характеристики
-устройства пока не объявлены, однако, инсайдер Informasi Gadget поделился новой [...]]]></description>
-    </item>
-    <item>
-      <title>Вместо сноса — удачный ремонт. Смотрим, как старый гараж переделали в атмосферное жилье</title>
-      <link>https://realt.onliner.by/go/1136309</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/13/staryj-garazh</guid>
-      <pubDate>Tue, 13 Oct 2026 08:17:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/13/staryj-garazh"><img alt="" src="https://content.onliner.by/news/thumbnail/b698ee2839529dcb55162f12442c1c3c.jpg" /></a></p><p>Иногда то, что на первый взгляд выглядит, как кандидат на снос, в руках талантливых людей превращается в <a href="https://www.elledecor.com/design-decorate/house-interiors/a73998297/ryan-lawson-connecticut-barn-house-tour/" target="_blank">полноценное жилье</a>. На месте этого уютного и атмосферного деревянного дома еще пару лет назад стоял обветшавший, покосившийся гараж: без нормального фундамента, с протекающей крышей и абсолютным отсутствием какого-либо намека на эстетику. Владельцы решили не просто снести старый сарай, а выжать из участка максимум и пристроить к основному жилью еще одно полноценное крыло. Дизайнеры поставили амбициозную задачу: сделать так, чтобы новая постройка выглядела не как новодел, а как историческое здание, которое простояло здесь минимум сотню лет и органично слилось с окружением.</p><p><a href="https://realt.onliner.by/2026/10/13/staryj-garazh">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Созданный HUAWEI автобренд AITO объявил о европейском дебюте</title>
-      <link>https://4pda.to/2026/10/13/462145/sozdannyj_huawei_avtobrend_aito_obyavil_o_evropejskom_debyute/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462145/sozdannyj_huawei_avtobrend_aito_obyavil_o_evropejskom_debyute/</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Китайский бренд премиальных автомобилей AITO, созданный Seres Group вместе с HUAWEI, объявил о планах выйти на европейский рынок осенью 2027 года. На Парижском автосалоне компания показала сразу четыре [...]]]></description>
-    </item>
-    <item>
-      <title>Доллар продолжает дешеветь (обновлено)</title>
-      <link>https://money.onliner.by/go/350143</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/13/dollar-prodolzhaet-deshevet-8</guid>
-      <pubDate>Tue, 13 Oct 2026 07:58:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/13/dollar-prodolzhaet-deshevet-8"><img alt="" src="https://content.onliner.by/news/thumbnail/1375f367a3620acfd66653a41f7fc8f2.jpg" /></a></p><p>Утром 13 октября доллар продолжает плавное снижение. Биткоин за последние сутки подешевел, сейчас находится вблизи отметки в $83 926.
-</p><p><a href="https://money.onliner.by/2026/10/13/dollar-prodolzhaet-deshevet-8">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Nothing приступила к развёртыванию Android 17 на фирменных смартфонах</title>
-      <link>https://4pda.to/2026/10/13/462130/nothing_pristupila_k_razvyortyvaniyu_android_17_na_firmennykh_smartfonakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462130/nothing_pristupila_k_razvyortyvaniyu_android_17_na_firmennykh_smartfonakh/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:40:00 +0000</pubDate>
-      <description><![CDATA[Компания Nothing выпустила
-стабильную версию Nothing OS 5.0 на базе Android 17. Обновление уже доступно для одного
-из фирменных смартфонов и включает более 80 изменений, затрагивающих интерфейс,
-производительность [...]]]></description>
-    </item>
-    <item>
-      <title>Поиск! Ищем белорусов, которые меняют iPhone каждый год на новый</title>
-      <link>https://tech.onliner.by/go/796739</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/poisk-ishhem-belorusov-kotorye-menyayut-iphone-kazhdyj-god-na-novyj</guid>
-      <pubDate>Tue, 13 Oct 2026 07:35:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/13/poisk-ishhem-belorusov-kotorye-menyayut-iphone-kazhdyj-god-na-novyj"><img alt="" src="https://content.onliner.by/news/thumbnail/53b3dee2c69f7d5dbd34879caa1e6dc2.jpg" /></a></p><p>Для журналистского материала ищем белорусов, которые каждый год (или почти) меняют свой айфон на самую свежую модель. Если после каждой презентации Apple в сентябре вы готовитесь обновляться на новинку, отзовитесь, пожалуйста, зададим несколько простых вопросов. Можно анонимно.</p><p><a href="https://tech.onliner.by/2026/10/13/poisk-ishhem-belorusov-kotorye-menyayut-iphone-kazhdyj-god-na-novyj">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Smart представила компактный электромобиль #2</title>
-      <link>https://4pda.to/2026/10/13/462128/smart_predstavila_kompaktnyj_elektromobil_2/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462128/smart_predstavila_kompaktnyj_elektromobil_2/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:20:00 +0000</pubDate>
-      <description><![CDATA[Компания Smart представила городской
-электоркар #2, который продолжает идею компактного двухместного Fortwo. Новинка
-сохранила характерные черты своего предшественника, но получила новую платформу
-и более [...]]]></description>
-    </item>
-    <item>
-      <title>Google выпустила фитнес-браслет, который стоит как целые смарт-часы</title>
-      <link>https://tech.onliner.by/go/796732</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/13/google-vypustila-fitnes-braslet-kotoryj-stoit-kak-celye-smart-chasy</guid>
-      <pubDate>Tue, 13 Oct 2026 07:12:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/13/google-vypustila-fitnes-braslet-kotoryj-stoit-kak-celye-smart-chasy"><img alt="" src="https://content.onliner.by/news/thumbnail/e1dfcf131eff6bc5f55ce0f8bb5a6b36.jpg" /></a></p><p>Google представила фитнес-браслет Fitbit Edge. От предыдущей модели — Fitbit Air — устройство отличается дисплеем: Edge в чем-то схож с Smart Band от Xiaomi, но его дисплей ниже и шире. Подробное про гаджет <a href="https://www.gsmarena.com/googles_new_fitbit_edge_fitness_tracker_offers_a_screen_and_up_to_7_days_of_usage-news-75011.php" target="_blank">пишут</a> в GSMArena.</p><p><a href="https://tech.onliner.by/2026/10/13/google-vypustila-fitnes-braslet-kotoryj-stoit-kak-celye-smart-chasy">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>OnePlus выпустила новый пауэрбанк для ноутбуков и смартфонов</title>
-      <link>https://4pda.to/2026/10/13/462127/oneplus_vypustila_novyj_pauerbank_dlya_noutbukov_i_smartfonov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462127/oneplus_vypustila_novyj_pauerbank_dlya_noutbukov_i_smartfonov/</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[Вместе с магнитным кулером OnePlus выпустила пауэрбанк на 10 000 мАч со встроенным кабелем, цветным экраном и быстрой зарядкой для множества гаджетов.
-Пауэрбанк подходит не только для смартфонов, но [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен Xiaomi Door and Window Sensor 3 — датчик открытия с автономностью в 3 года</title>
-      <link>https://4pda.to/2026/10/13/462126/predstavlen_xiaomi_door_and_window_sensor_3_datchik_otkrytiya_s_avtonomnostyu_v_3_goda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462126/predstavlen_xiaomi_door_and_window_sensor_3_datchik_otkrytiya_s_avtonomnostyu_v_3_goda/</guid>
-      <pubDate>Tue, 13 Oct 2026 06:40:00 +0000</pubDate>
-      <description><![CDATA[Шесть лет понадобилось Xiaomi, чтобы&nbsp;обновить фирменный датчик для дверей и окон, зато теперь одной батарейки должно хватать на три года его работы. Но ради этого компания немного изменила набор функций.
-Door [...]]]></description>
-    </item>
-    <item>
-      <title>OPPO тестирует смартфон с широким экраном и флагманским чипом</title>
-      <link>https://4pda.to/2026/10/13/462124/oppo_testiruet_smartfon_s_shirokim_ekranom_i_flagmanskim_chipom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462124/oppo_testiruet_smartfon_s_shirokim_ekranom_i_flagmanskim_chipom/</guid>
-      <pubDate>Tue, 13 Oct 2026 06:20:00 +0000</pubDate>
-      <description><![CDATA[OPPO, похоже, готовит к выпуску смартфон с широким экраном. Пока устройство существует в виде инженерного прототипа, но уже есть данные, что его оснастят флагманской начинкой и необычной системой камер.
-Необычно [...]]]></description>
-    </item>
-    <item>
-      <title>Новый кулер OnePlus оказался меньше банковской карты</title>
-      <link>https://4pda.to/2026/10/13/462125/novyj_kuler_oneplus_okazalsya_menshe_bankovskoj_karty/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462125/novyj_kuler_oneplus_okazalsya_menshe_bankovskoj_karty/</guid>
-      <pubDate>Tue, 13 Oct 2026 05:56:16 +0000</pubDate>
-      <description><![CDATA[OnePlus представила Magnetic Ice Card Mini — кулер для смартфонов, помогающий снизить температуру железа во время игр и других нагрузок. Новинка&nbsp;компактнее предыдущей модели, хотя внутри по-прежнему [...]]]></description>
-    </item>
-    <item>
-      <title>Anker выпустила электростанцию SOLIX S5000: 5 кВтч и быстрая зарядка за 99 минут</title>
-      <link>https://4pda.to/2026/10/13/462090/anker_vypustila_elektrostantsiyu_solix_s5000_5_kvtch_i_bystraya_zaryadka_za_99_minut/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/13/462090/anker_vypustila_elektrostantsiyu_solix_s5000_5_kvtch_i_bystraya_zaryadka_za_99_minut/</guid>
-      <pubDate>Tue, 13 Oct 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Anker представила SOLIX S5000 — портативную электростанцию для дома, поездок и аварийного питания. Несмотря на внушительные размеры, её можно перевозить на колёсах, а главные особенности модели — быстрая [...]]]></description>
     </item>
   </channel>
 </rss>
