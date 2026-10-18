@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 17 Oct 2026 20:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 03:15:54 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -417,14 +417,6 @@ Google [...]]]></description>
       <guid isPermaLink="false">6ad0a0fa965d0e00015a0234</guid>
       <pubDate>Thu, 15 Oct 2026 14:32:16 +0000</pubDate>
       <description><![CDATA[european union money and research-themed banner]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>A Joint Venture of Open Source Proportions! Open Productivity is Here</title>
-      <link>https://feed.itsfoss.com/link/24361/17497690/open-productivity-opendesk-joint-venture</link>
-      <guid isPermaLink="false">6ace0d3305021800013244d9</guid>
-      <pubDate>Wed, 14 Oct 2026 20:12:00 +0000</pubDate>
-      <description><![CDATA[open productivity launch banner]]></description>
       <category>News</category>
     </item>
   </channel>
