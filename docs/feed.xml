@@ -5,9 +5,56 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 21 Oct 2026 03:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:15:18 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>DankMaterialShell Becomes Dux Shell as Dank Linux Rebrands to Dux Labs</title>
+      <link>https://feed.itsfoss.com/link/24361/17501957/dank-linux-dux-labs-rebrand</link>
+      <guid isPermaLink="false">6ad84a8bf48358000137107b</guid>
+      <pubDate>Wed, 21 Oct 2026 09:43:46 +0000</pubDate>
+      <description><![CDATA[dms and dank linux rebrand banner]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Save Upto 40% on Kubernetes Security Certifications From the Linux Foundation</title>
+      <link>https://feed.itsfoss.com/link/24361/17501903/lf-cyber-security-26</link>
+      <guid isPermaLink="false">6ad86731f48358000137114c</guid>
+      <pubDate>Wed, 21 Oct 2026 08:42:20 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/10/linux-foundation-certification-deal.webp" /></figure>
+<p>If you have been planning to get a certification, this is the week to do it. The Linux Foundation is running its Cyber Security Month promo, and you can get up to 40% off on cyber security certifications, training courses and the THRIVE-ONE e-learning subscription.</p><p>Linux Foundation is the official organization behind Linux, Kubernetes, and many other industry-facing projects. Their certifications are well respected across countries and enterprises.</p><p>The offer ends on <strong>October 23, 2026 at 23:59 UTC</strong>. That gives you just a couple of days to make up your mind.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Foctober-2026-promo%2F&amp;platform=pl">Linux Foundation Cyber Security Offer</a></div><p>The good thing is that you have one full year to take the certification exam. So, you can purchase the cert exams today to save the money, prepare in a few weeks/couple of months and then attempt the exam.</p><p>There is also a 3 day money back guarantee with some conditions. Please <a href="https://training.linuxfoundation.org/about/money-back-guarantee/">read the policy here</a>.</p><p><em>This article contains affiliate links. Please read our </em><a href="https://itsfoss.com/affiliate-policy/"><em>affiliate policy</em></a><em>.</em></p><h2 id="your-discount-codes">Your discount codes</h2><p>Here are the codes. They are specific to It's FOSS readers, so use these and not the generic ones you see on the promo page.</p>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>Discount</th>
+<th>Applies to</th>
+<th>Code</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>40% off</td>
+<td>Cybersecurity certifications, bundles and courses (<a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Foctober-2026-promo%2F&amp;platform=pl">full list on the promo page</a>)</td>
+<td><code>OCT26CYBERFOSS</code></td>
+</tr>
+<tr>
+<td>35% off</td>
+<td>All other <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Finstructor-led-training-courses%2F&amp;platform=pl">Instructor-led Training</a>, <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification-catalog%2F&amp;platform=pl">Certifications</a> and <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Ftechnology-catalog%2F&amp;platform=pl">Courses by Technology</a></td>
+<td><code>OCT26NONCYBERFOSS</code></td>
+</tr>
+<tr>
+<td>30% off</td>
+<td>THRIVE-ONE Annual (new subscriptions only)</td>
+<td><code>OCT26THRIVEFOSS</code></td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<p>So if you are eyeing CKA, LFCS or any other Linux Foundation certification that is not in the cybersecurity list, you still get 35% off with the second code.</p><p><strong>Even if the offer ends, you can always get 30% off with our special coupon code: ITSFOSS.</strong></p><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">Apply the code on the checkout page. The discount is for new, individual purchases only and cannot be combined with other offers.</div></div><h2 id="kubernetes-security-certifications">Kubernetes Security Certifications</h2><p>The biggest savings this time are on the Kubernetes security certifications. Here are the ones worth looking at.</p><h3 id="kcsa-cks-bundle-645-387">KCSA + CKS bundle: <s>$645</s> $387</h3><figure class="kg-card kg-image-card"><a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle%2F&amp;platform=pl"><img alt="KCSA + CKS exam bundle page on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-kcsa-cks-bundle-october-2026.png" width="800" /></a></figure><p>This <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle%2F&amp;platform=pl">bundle groups two certification exams together</a>: Kubernetes and Cloud Native Security Associate (KCSA) and Certified Kubernetes Security Specialist (CKS). <strong>You save $258 over the regular bundle price</strong>.</p><p>KCSA is the entry-level, multiple choice exam. CKS is the hands-on, professional one. Taking them in this order makes sense, as KCSA builds the foundation that CKS expects from you.</p><p><strong>Keep in mind that you must have passed the Certified Kubernetes Administrator (CKA) exam before you can take CKS</strong>. If you don't have CKA yet, you can grab it with the 35% code <code>OCT26NONCYBERFOSS</code>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle%2F&amp;platform=pl">Get KCSA + CKS Bundle</a></div><p>You can also choose to get either of the certification exams instead of the bundle. But if you are getting both, the bundle saves you additional money.</p><h3 id="certified-kubernetes-security-specialist-cks-445-267">Certified Kubernetes Security Specialist (CKS): <s>$445</s> $267</h3><figure class="kg-card kg-image-card"><img alt="Certified Kubernetes Security Specialist (CKS) offer on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-cks-october-2026.png" width="800" /></figure><p><a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-kubernetes-security-specialist%2F&amp;platform=pl">CKS</a> is a 2-hour, performance-based exam. You solve real tasks on a live Kubernetes cluster from the command line, so there is no guessing your way through multiple choice options.</p><p>You also get two sessions on the Killer.sh exam simulator to practice in an environment similar to the real exam. The certification is valid for 2 years. <strong>As mentioned above, an active CKA is a prerequisite.</strong></p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-kubernetes-security-specialist%2F&amp;platform=pl">Get CKS</a></div><h3 id="kubernetes-and-cloud-native-security-associate-kcsa-250-150">Kubernetes and Cloud Native Security Associate (KCSA): <s>$250</s> $150</h3><figure class="kg-card kg-image-card"><img alt="Kubernetes and Cloud Native Security Associate (KCSA) offer on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-kcsa-october-2026.png" width="800" /></figure><p>KCSA is a pre-professional certification for people starting out in cloud native security. It is a 90-minute, online proctored, multiple choice exam with no prerequisites.</p><p>At $150, this is the most affordable way to get a Linux Foundation security certification on your resume this month. You save $100.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa%2F&amp;platform=pl">Get KCSA</a></div><h3 id="thrive-one-annual-e-learning-360-252">THRIVE-ONE Annual (e-learning): <s>$360</s> $252</h3><figure class="kg-card kg-image-card"><img alt="THRIVE-ONE subscription plans on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-thrive-one-october-2026.png" width="800" /></figure><p><a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fsubscriptions%2F&amp;platform=pl">THRIVE-ONE</a> is the Linux Foundation's subscription. The annual plan gives you unlimited access to the entire e-learning catalog for a year, plus all SkillCred exams.</p><p>You also get a 40% coupon for any certification or course and 50% off guaranteed-to-run instructor-led courses. <strong>Note that certification exams themselves are not included in the subscription.</strong></p><p>This works well if you want to learn several technologies over the year instead of focusing on one exam. The 30% discount applies to new subscriptions only.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fsubscriptions%2F&amp;platform=pl">Get THRIVE-ONE Annual</a></div><h2 id="why-get-certified-at-all">Why get certified at all?</h2><p>I get asked this a lot. Are Linux certifications worth it?</p><p>A certification is a way to prove to a recruiter that you have the skill. Anyone can list "Kubernetes" or "Linux administration" on a resume. A certification from an industry-recognized body like the Linux Foundation tells the hiring manager that someone has actually tested you on it.</p><p>This matters even more for performance-based exams like CKA, CKS and LFCS. You don't pick answers from a list. You fix real problems on a live system within a time limit, which is pretty much what the job looks like.</p><p>Certifications are even more helpful if you are a fresh graduate, or if you are switching to a new domain like cloud native or security. </p><p>And it is not just my opinion. In the <a href="https://www.linuxfoundation.org/hubfs/Research%20Reports/LFTraining_Tech_Talent_Report_Global_2026_webversion_052626.pdf">Linux Foundation&rsquo;s 2026 State of Tech Talent report</a>, 76% of organizations said they value certifications when assessing candidates for a technical role. That is slightly ahead of college degrees at 74%, and this is the third year in a row that certifications have ranked above degrees.</p><h2 id="you-dont-have-to-take-the-exam-this-week">You don't have to take the exam this week</h2><p>This is the part a lot of people miss. You only need to buy the certification before October 23. You don't need to take the exam right away.</p><p>Linux Foundation certifications come with 12 months of exam eligibility. You can schedule and take the exam any time within a year of purchase. So you can lock in the discounted price now and prepare at your own pace.</p><p>Most certifications also include one free retake. If your first attempt does not go well, you get a second chance without paying again. That's a big relief, in my opinion.</p><h2 id="missed-the-deal-use-our-evergreen-code">Missed the deal? Use our evergreen code</h2><p>If you are reading this after October 23, don't worry. It's FOSS readers have a code that works any time, even when no promo is running.</p><p>&#128161; <strong>Use the code ITSFOSS to get 30% off on Linux Foundation certifications, e-learning courses and bundles. Valid all year round.</strong></p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification-catalog%2F&amp;platform=pl">Browse Linux Foundation Certifications</a></div><p>Let me know in the comments if you encounter any inaccuracies or if you have questions.</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17501903.gif" width="1" />]]></description>
+      <category>Deals</category>
+    </item>
     <item>
       <title>Linux Kernel 7.3 Release is Good News For Gamers Short on VRAM</title>
       <link>https://feed.itsfoss.com/link/24361/17500485/linux-kernel-7-3-release</link>
@@ -15,6 +62,373 @@
       <pubDate>Mon, 19 Oct 2026 02:56:37 +0000</pubDate>
       <description><![CDATA[linux kernel 7.3 release banner]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>В Беларуси покажут самый высокооцененный фильм 2026-го. Говорят, авторы изобрели новый жанр кино</title>
+      <link>https://people.onliner.by/go/1340410</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/21/uvidet-vse</guid>
+      <pubDate>Wed, 21 Oct 2026 10:55:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/21/uvidet-vse"><img alt="" src="https://content.onliner.by/news/thumbnail/300753908efc94dcf8397315b6359574.jpg" /></a></p><p><p dir="ltr">19 ноября в белорусский прокат выйдет документальный фильм «Увидеть все» — одна из самых обсуждаемых кинопремьер сезона, получившая почти максимальные оценки критиков и зрителей. Информацию об этом журналисту Onlíner подтвердил представитель дистрибьютора «Вольга».<br /></p>
+</p><p><a href="https://people.onliner.by/2026/10/21/uvidet-vse">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Назад в девяностые. Пресса оценила олдскульную Final Fantasy Resonance</title>
+      <link>https://4pda.to/2026/10/21/462455/nazad_v_devyanostye_pressa_otsenila_oldskulnuyu_final_fantasy_resonance/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462455/nazad_v_devyanostye_pressa_otsenila_oldskulnuyu_final_fantasy_resonance/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:50:00 +0000</pubDate>
+      <description><![CDATA[Уже завтра состоится релиз Final Fantasy Resonance — интересного ретроэксперимента Square Enix, который вернёт геймеров в золотые времена серии. Судя по рецензиям игровых журналистов, предприятие не было [...]]]></description>
+    </item>
+    <item>
+      <title>Токио, Израиль, Чили. Белорусы изучают географию по родным чипсам — сколько они там стоят?</title>
+      <link>https://money.onliner.by/go/351571</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/21/tokio-izrail-chili-belorusy-izuchayut-geografiyu-po-rodnym-chipsam-skolko-oni-tam-stoyat</guid>
+      <pubDate>Wed, 21 Oct 2026 10:45:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/21/tokio-izrail-chili-belorusy-izuchayut-geografiyu-po-rodnym-chipsam-skolko-oni-tam-stoyat"><img alt="" src="https://content.onliner.by/news/thumbnail/2631cd4f44f737832546ae68170e385b.jpg" /></a></p><p><em>«Родненькие, смотрите, что я в Чили нашла. Наши чипсы — огонь», </em>— обратилась к белорусам пользовательница Threads. Девушка продемонстрировала пачку «МегаЧипсов» со вкусом сметаны и лука. В комментариях автор треда посоветовала искать продукт из бульбы на онлайн-платформах или в небольших продуктовых магазинах, в частности, в Сантьяго. Судя по ценнику на упаковке, 50 граммов чипсов обошлись девушке в 1,2 тысячи чилийских песо — это примерно 3,6 белорусского рубля.
+</p><p><a href="https://money.onliner.by/2026/10/21/tokio-izrail-chili-belorusy-izuchayut-geografiyu-po-rodnym-chipsam-skolko-oni-tam-stoyat">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Новый интерфейс YouTube «запретил» дизлайкать видеоролики</title>
+      <link>https://4pda.to/2026/10/21/462441/novyj_interfejs_youtube_zapretil_dizlajkat_videoroliki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462441/novyj_interfejs_youtube_zapretil_dizlajkat_videoroliki/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:40:00 +0000</pubDate>
+      <description><![CDATA[Кнопки с пальцем вверх и вниз долгие годы были привычным средством «народной» оценки роликов на YouTube. Но похоже, что вскоре выразить свой негатив станет сложнее: в обновлённом интерфейсе, который компания [...]]]></description>
+    </item>
+    <item>
+      <title>Умный ночник Xiaomi Mijia Bedside Lamp 3 имитирует рассвет и реагирует на жесты</title>
+      <link>https://4pda.to/2026/10/21/462439/umnyj_nochnik_xiaomi_mijia_bedside_lamp_3_imitiruet_rassvet_i_reagiruet_na_zhesty/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462439/umnyj_nochnik_xiaomi_mijia_bedside_lamp_3_imitiruet_rassvet_i_reagiruet_na_zhesty/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi представила Mijia Bedside Lamp 3 — новую прикроватную лампу для спальни. Она умеет работать как ночник, давать обычный белый свет и менять атмосферу комнаты с помощью цветных сцен.
+Mijia Bedside [...]]]></description>
+    </item>
+    <item>
+      <title>Их ждали многие: завтра в «Минск-Мире» начнут продавать таунхаусы. Узнали цены</title>
+      <link>https://realt.onliner.by/go/1137949</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/21/v-minsk-mire-taunxasy</guid>
+      <pubDate>Wed, 21 Oct 2026 10:27:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/21/v-minsk-mire-taunxasy"><img alt="" src="https://content.onliner.by/news/thumbnail/030a2d11a7354f282c0022c1e5fb83c7.jpg" /></a></p><p>Несмотря на то что «Минск-Мир» представляет собой мини-город со стеклянными высотками, в нем есть и малоэтажная недвижимость — таунхаусы. Правда, их очень мало и стоят они на самой окраине. Тем не менее интерес к ним успел заметно подогреться. Ну а что, ведь квартал уже почти полностью готов, наполнен инфраструктурой, да и комфортный частный дом в условиях города — редкость. Завтра таунхаусы наконец-то начнут продавать. Узнали, сколько денег готовить тем, кто их ждал. </p><p><a href="https://realt.onliner.by/2026/10/21/v-minsk-mire-taunxasy">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Тимлид попытался устроиться в свою же компанию, но моментально получил отказ</title>
+      <link>https://tech.onliner.by/go/798117</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/21/timlid-ne-smog-ustroitsya-v-svoyu-zhe-kompaniyu-vse-iz-za-odnogo-slova</guid>
+      <pubDate>Wed, 21 Oct 2026 10:27:11 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/21/timlid-ne-smog-ustroitsya-v-svoyu-zhe-kompaniyu-vse-iz-za-odnogo-slova"><img alt="" src="https://content.onliner.by/news/thumbnail/59f866757651622cff5b65b6e440c46a.jpg" /></a></p><p><p>После нескольких месяцев безуспешного поиска старшего специалиста тимлид команды из девяти разработчиков решил проверить систему найма собственной компании. Он хотел выяснить, почему его HR уже полгода не могут найти подходящего кандидата. Поэтому отликнулся на вакансию, отправив резюме под вымышленным именем, изменив некоторые даты, но сохранив свой реальный профессиональный опыт. Ответ пришел через шесть минут, и это был отказ.</p><p><a href="https://tech.onliner.by/2026/10/21/timlid-ne-smog-ustroitsya-v-svoyu-zhe-kompaniyu-vse-iz-za-odnogo-slova">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Honor Win Turbo2 с аккумулятором на 12 070 мАч и защитой IP69 оценили в $397</title>
+      <link>https://4pda.to/2026/10/21/462457/honor_win_turbo2_s_akkumulyatorom_na_12_070_mach_i_zaschitoj_ip69_otsenili_v_397/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462457/honor_win_turbo2_s_akkumulyatorom_na_12_070_mach_i_zaschitoj_ip69_otsenili_v_397/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:20:00 +0000</pubDate>
+      <description><![CDATA[Honor Win Turbo2 стал самой доступной моделью в новой серии игровых смартфонов компании. Он выполнен в том же дизайне, что Win2 и Win RT2, и даже получил такой же 185-герцевый QHD-экран, а также ёмкий [...]]]></description>
+    </item>
+    <item>
+      <title>В Adobe Lightroom появилась новая функция для спасения неудачных мобильных фотографий</title>
+      <link>https://4pda.to/2026/10/21/462440/v_adobe_lightroom_poyavilas_novaya_funktsiya_dlya_spaseniya_neudachnykh_mobilnykh_fotografij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462440/v_adobe_lightroom_poyavilas_novaya_funktsiya_dlya_spaseniya_neudachnykh_mobilnykh_fotografij/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:50:00 +0000</pubDate>
+      <description><![CDATA[Неудачный кадр с закрытыми
+глазами больше не обязательно переснимать или вручную исправлять в
+фоторедакторе. В мобильной версии Adobe Lightroom появилась функция Open Eyes,
+которая с помощью генеративного [...]]]></description>
+    </item>
+    <item>
+      <title>Выпущен игровой Honor Win RT2 с большим турбовентилятором и АКБ на 12 070 мАч</title>
+      <link>https://4pda.to/2026/10/21/462454/vypuschen_igrovoj_honor_win_rt2_s_bolshim_turboventilyatorom_i_akb_na_12_070_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462454/vypuschen_igrovoj_honor_win_rt2_s_bolshim_turboventilyatorom_i_akb_na_12_070_mach/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:36:09 +0000</pubDate>
+      <description><![CDATA[Вместе с флагманским игровым Win2 компания Honor представила более доступный Win RT2. Смартфон во многом повторяет старшую модель серии, но с характеристиками попроще. У него тоже есть активное охлаждение [...]]]></description>
+    </item>
+    <item>
+      <title>Самые дорогие квартиры в элитных «старичках». Какие они?</title>
+      <link>https://realt.onliner.by/go/1137830</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/21/samye-dorogie-kvartiry-2</guid>
+      <pubDate>Wed, 21 Oct 2026 09:31:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/21/samye-dorogie-kvartiry-2"><img alt="" src="https://content.onliner.by/news/thumbnail/85aa1e7bf0fcc28f41e55b1f5e915434.jpg" /></a></p><p>Слово «элитный» в сфере недвижимости раньше применялось часто. Им активно пользовались маркетологи, его высмеивали в народе. Тем не менее двухтысячные и десятые в Минске запомнились громкими проектами, которые до сих пор держат планку: «Славянский квартал», «У Троицкого», «Парус»... За их стенами порой скрываются такие дизайнерские шедевры, что смотришь и удивляешься, причем не только масштабу их обустройства, но и цене. Поискали самые дорогие варианты в элитных «старичках». </p><p><a href="https://realt.onliner.by/2026/10/21/samye-dorogie-kvartiry-2">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Мужчине не дали кредит в банке. Тогда он устроился «внештатным сотрудником»</title>
+      <link>https://money.onliner.by/go/351520</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/21/po-parabole-minchanin-perevel-moshennikam-bolshe-20-tysyach-rublej-chuzhix</guid>
+      <pubDate>Wed, 21 Oct 2026 09:23:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/21/po-parabole-minchanin-perevel-moshennikam-bolshe-20-tysyach-rublej-chuzhix"><img alt="" src="https://content.onliner.by/news/thumbnail/60dc8a44ad3a233ade1039281904c012.jpg" /></a></p><p>Минчанину позвонили «представители оператора связи» и убедили продиктовать код из SMS-сообщения — якобы пришла пора продлевать договор. Вскоре раздался звонок от лжеправоохранителей: 22-летнего парня предупредили о возбужденном уголовном деле из-за подозрительных переводов за границу с его счета.
+</p><p><a href="https://money.onliner.by/2026/10/21/po-parabole-minchanin-perevel-moshennikam-bolshe-20-tysyach-rublej-chuzhix">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Страшно, но красиво. Вот как выглядит фантастика «Над Землей»</title>
+      <link>https://tech.onliner.by/go/798109</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/21/strashno-no-krasivo-vot-kak-vyglyadit-fantastika-nad-zemlej</guid>
+      <pubDate>Wed, 21 Oct 2026 09:20:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/21/strashno-no-krasivo-vot-kak-vyglyadit-fantastika-nad-zemlej"><img alt="" src="https://content.onliner.by/news/thumbnail/0afa116a952a5e5f280d486a2eb51429.jpg" /></a></p><p>Главные роли в предстоящем научно-фантастическом триллере о выживании исполнили Идрис Эльба, Кейтлин Фицджеральд и Херо Файнс Тиффин. Идрис Эльба также стал сорежиссером картины. Сообщается, что зрителей ждет история трех астронавтов, которые чудом выживают в космической катастрофе, но из-за незапланированной аварийной посадки оказываются в ловушке на дне океана.</p><p><a href="https://tech.onliner.by/2026/10/21/strashno-no-krasivo-vot-kak-vyglyadit-fantastika-nad-zemlej">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Легендарную NFS: Underground 2 портировали в браузер — с рабочим онлайном</title>
+      <link>https://4pda.to/2026/10/21/462449/legendarnuyu_nfs_underground_2_portirovali_v_brauzer_s_rabochim_onlajnom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462449/legendarnuyu_nfs_underground_2_portirovali_v_brauzer_s_rabochim_onlajnom/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Некогда большие релизы прошлого теперь запускаются не только на смартфонах, но и в браузерах — именно таким способом можно вспомнить легендарную Need for Speed: Underground 2.
+Энтузиасты перенесли [...]]]></description>
+    </item>
+    <item>
+      <title>В частном доме в Могилеве нашли мертвыми хозяйку и ее сожителя</title>
+      <link>https://people.onliner.by/go/1340392</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/21/v-chastnom-dome-v-mogileve-nashli-mertvymi-xozyajku-i-ee-sozhitelya</guid>
+      <pubDate>Wed, 21 Oct 2026 09:09:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/21/v-chastnom-dome-v-mogileve-nashli-mertvymi-xozyajku-i-ee-sozhitelya"><img alt="" src="https://content.onliner.by/news/thumbnail/389cb9a3f67a30fb7ce685369f1384b7.jpg" /></a></p><p>Вечером 19 октября в Могилеве в одном из частных домов обнаружили мертвыми 60-летнюю хозяйку и ее 66-летнего сожителя. Видимых признаков насильственной смерти на телах не нашли. На месте работала следственно-оперативная группа, включая криминалистов областного управления СК и специалистов ГКСЭ, пишет <a href="https://magilev.by/news/2026/10/20/v-mogileve-sledovateli-vyyasnyayut-obstoyatelstva-gibeli-dvuh-chelovek" target="_blank">magilev.by</a>.</p><p><a href="https://people.onliner.by/2026/10/21/v-chastnom-dome-v-mogileve-nashli-mertvymi-xozyajku-i-ee-sozhitelya">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Вот это поворот! Водитель сделал то, чего от него не ожидали (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1271264</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/21/vot-eto-povorot-5</guid>
+      <pubDate>Wed, 21 Oct 2026 09:01:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/21/vot-eto-povorot-5"><img alt="" src="https://content.onliner.by/news/thumbnail/213f6f411ccd7846a1927be201447264.jpg" /></a></p><p>Улица Макаенка в Минске, две полосы движения, затем появляется третья — для поворота налево и разворота. Есть знак, разметка, светофор с допсекцией. И есть водитель, чьи действия сложно предсказать.</p><p><a href="https://auto.onliner.by/2026/10/21/vot-eto-povorot-5">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Honor Win2 получил сразу два вентилятора, экран на 185 Гц и батарею на 10 100 мАч</title>
+      <link>https://4pda.to/2026/10/21/462452/honor_win2_poluchil_srazu_dva_ventilyatora_ekran_na_185_gts_i_batareyu_na_10_100_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462452/honor_win2_poluchil_srazu_dva_ventilyatora_ekran_na_185_gts_i_batareyu_na_10_100_mach/</guid>
+      <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Honor представила новый игровой смартфон Win2. Основной акцент производитель сделал на стабильную работу под длительной нагрузкой. Аппарат получил&nbsp;флагманскую платформу Snapdragon 8 Elite шестого [...]]]></description>
+    </item>
+    <item>
+      <title>Представлена Keychron J3 SE — компактная «механика» с автономностью до 2000 ч</title>
+      <link>https://4pda.to/2026/10/21/462435/predstavlena_keychron_j3_se_kompaktnaya_mekhanika_s_avtonomnostyu_do_2000_ch/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462435/predstavlena_keychron_j3_se_kompaktnaya_mekhanika_s_avtonomnostyu_do_2000_ch/</guid>
+      <pubDate>Wed, 21 Oct 2026 08:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Keychron выпустила
+беспроводную механическую клавиатуру J3 SE с оригинальным цветовым оформлением в
+нежно-розовых и голубых тонах. Новинка получила настраиваемую RGB-подсветку, поддержку прошивки [...]]]></description>
+    </item>
+    <item>
+      <title>SpaceX и Tesla могут объединиться в компанию стоимостью в 3,6 триллиона</title>
+      <link>https://tech.onliner.by/go/798088</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/21/spacex-i-tesla-mogut-obedinitsya-v-kompaniyu-stoimostyu-v-36-trilliona</guid>
+      <pubDate>Wed, 21 Oct 2026 08:21:21 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/21/spacex-i-tesla-mogut-obedinitsya-v-kompaniyu-stoimostyu-v-36-trilliona"><img alt="" src="https://content.onliner.by/news/thumbnail/d3c60f58285eee249af98387317da8bd.jpg" /></a></p><p><p>SpaceX и Tesla сформировали специальные комитеты из независимых директоров, рассматривающие возможность объединения компаний. Об этом Илон Маск заявил во время телефонной конференции, посвященной финансовым результатам SpaceX за третий квартал 2026 года. По его словам, такие комитеты были созданы по запросу акционеров.</p><p><a href="https://tech.onliner.by/2026/10/21/spacex-i-tesla-mogut-obedinitsya-v-kompaniyu-stoimostyu-v-36-trilliona">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Cyberpunk 2077 получит большой патч с новыми квестами и стрельбой по-македонски</title>
+      <link>https://4pda.to/2026/10/21/462447/cyberpunk_2077_poluchit_bolshoj_patch_s_novymi_kvestami_i_strelboj_po_makedonski/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462447/cyberpunk_2077_poluchit_bolshoj_patch_s_novymi_kvestami_i_strelboj_po_makedonski/</guid>
+      <pubDate>Wed, 21 Oct 2026 08:15:00 +0000</pubDate>
+      <description><![CDATA[Сегодня CDPR официально представит подробности обновления 2.5 для Cyberpunk 2077, но из-за невнимательного блогера они утекли в сеть раньше времени.
+Вчера на Netflix состоялся релиз второго сезона [...]]]></description>
+    </item>
+    <item>
+      <title>За сказочную работу предлагают неплохую зарплату. Что у эльфов по деньгам?</title>
+      <link>https://money.onliner.by/go/351489</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/21/za-skazochnuyu-rabotu-predlagayut-neploxuyu-zarplatu-chto-u-elfov-po-dengam</guid>
+      <pubDate>Wed, 21 Oct 2026 08:12:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/21/za-skazochnuyu-rabotu-predlagayut-neploxuyu-zarplatu-chto-u-elfov-po-dengam"><img alt="" src="https://content.onliner.by/news/thumbnail/542dd7048e7f3059de0082d026eff1b4.jpg" /></a></p><p>На родине Санта-Клауса, в Лапландии, развернулась нешуточная конкуренция среди кандидатов на должность рождественского эльфа. Открыто около 170 вакансий, а заявки на эту сезонную работу подали больше 1,7 тысячи человек. Эльфам-гидам обещают зарплату около 10,1 евро в час (около 34 рублей), а эльфам по обслуживанию клиентов — 12,2—13,3 евро в час (41—45 рублей). В среднем за месяц работы сказочные персонажи могут заработать до €2 тысяч до вычета налогов (примерно 6,7 тысячи белорусских рублей).
+</p><p><a href="https://money.onliner.by/2026/10/21/za-skazochnuyu-rabotu-predlagayut-neploxuyu-zarplatu-chto-u-elfov-po-dengam">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>На продажу выставлен очень странный дом на колоннах</title>
+      <link>https://realt.onliner.by/go/1137834</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/21/na-kolonnax</guid>
+      <pubDate>Wed, 21 Oct 2026 08:02:41 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/21/na-kolonnax"><img alt="" src="https://content.onliner.by/news/thumbnail/13fac8bd54d1f883424b71ee187a27e1.jpg" /></a></p><p>На берегу Мексиканского залива в городе Оушен‑Спрингс вновь выставили на продажу один из самых необычных долгостроев американского Юга. Особняк площадью 410 квадратных метров, вдохновленный архитектурой Тадж‑Махала, оценивается в $2,5 миллиона, хотя его строительство началось еще в 2008 году и так и не было завершено, <a href="https://www.realtor.com/news/unique-homes/taj-mahal-estate-mississippi-ocean-springs-for-sale/" target="_blank">пишет</a> Realtor.com.</p><p><a href="https://realt.onliner.by/2026/10/21/na-kolonnax">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Google Chrome научится отличать подозрительные сайты от явно опасных</title>
+      <link>https://4pda.to/2026/10/21/462436/google_chrome_nauchitsya_otlichat_podozritelnye_sajty_ot_yavno_opasnykh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462436/google_chrome_nauchitsya_otlichat_podozritelnye_sajty_ot_yavno_opasnykh/</guid>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[В Chrome появится новый тип предупреждений для сайтов, которые выглядят подозрительно, но ещё не признаны однозначно опасными. Так пользователю будет проще понять, насколько серьёзной Chrome считает угрозу [...]]]></description>
+    </item>
+    <item>
+      <title>GALAX оснастит GeForce RTX 5080 необычной системой питания</title>
+      <link>https://4pda.to/2026/10/21/462434/galax_osnastit_geforce_rtx_5080_neobychnoj_sistemoj_pitaniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462434/galax_osnastit_geforce_rtx_5080_neobychnoj_sistemoj_pitaniya/</guid>
+      <pubDate>Wed, 21 Oct 2026 07:30:00 +0000</pubDate>
+      <description><![CDATA[Компания GALAX готовит к
+выходу нестандартную версию видеокарты GeForce RTX 5080 для энтузиастов и любителей
+экстремального разгона. Модель HOF Extreme получит не только оригинальную систему питания, но [...]]]></description>
+    </item>
+    <item>
+      <title>«6850 рублей — норм?» Клиентка каршеринга пожаловалась на ущерб от ДТП. Ей ответили</title>
+      <link>https://auto.onliner.by/go/1271317</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/21/karshering-posle-dtp</guid>
+      <pubDate>Wed, 21 Oct 2026 07:20:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/21/karshering-posle-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/66a9c86f337eb445c9de92371b506421.jpg" /></a></p><p>В Threads обсуждают случай с каршерингом Anytime. Пользовательница рассказала о том, что попала в ДТП по своей вине, и указывает на сумму штрафа, обозначенного как «Возмещение ущерба», — 6850 рублей. <em>«Как считаете — норм?»</em> — спрашивает она.</p><p><a href="https://auto.onliner.by/2026/10/21/karshering-posle-dtp">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Доллар все дальше от 3 рублей. Что с другими валютами? (обновлено)</title>
+      <link>https://money.onliner.by/go/351466</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/21/dollar-vse-dalshe-ot-3-rublej-chto-s-drugimi-valyutami</guid>
+      <pubDate>Wed, 21 Oct 2026 07:18:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/21/dollar-vse-dalshe-ot-3-rublej-chto-s-drugimi-valyutami"><img alt="" src="https://content.onliner.by/news/thumbnail/a61cd76adecc7cdfcb7f977c311875a6.jpg" /></a></p><p>Среда, 21 октября, продолжилась падением доллара. По этому же курсу следуют евро и юань. Российский рубль продолжает укрепляться. Тем временем биткоин за последние сутки подорожал, сейчас находится вблизи отметки в $83 382.
+</p><p><a href="https://money.onliner.by/2026/10/21/dollar-vse-dalshe-ot-3-rublej-chto-s-drugimi-valyutami">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Пять крупнейших вымираний на Земле поставлены под сомнения</title>
+      <link>https://tech.onliner.by/go/798058</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/21/pyat-krupnejshix-vymiranij-na-zemle-postavleny-pod-somneniya</guid>
+      <pubDate>Wed, 21 Oct 2026 07:04:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/21/pyat-krupnejshix-vymiranij-na-zemle-postavleny-pod-somneniya"><img alt="" src="https://content.onliner.by/news/thumbnail/bf090f45a17a66ed8ceaefee08020bc5.jpg" /></a></p><p>Исследователи разработали модель искусственного интеллекта, обученную на данных четырех миллионов ископаемых. Модель под названием OneStrata позволила восстановить хронологию изменений биоразнообразия Земли на протяжении сотен миллионов лет. Утверждается, что результаты работы могут изменить представления ученых о крупнейших событиях в истории жизни на планете.</p><p><a href="https://tech.onliner.by/2026/10/21/pyat-krupnejshix-vymiranij-na-zemle-postavleny-pod-somneniya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Тихий парень, жил один». Подробности ЧП на Логойском тракте и комментарий СК (обновлено)</title>
+      <link>https://people.onliner.by/go/1340363</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/21/tragediya-na-logojskom-trakte-iz-okna-vysotki-vypal-chelovek-na-trose</guid>
+      <pubDate>Wed, 21 Oct 2026 07:02:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/21/tragediya-na-logojskom-trakte-iz-okna-vysotki-vypal-chelovek-na-trose"><img alt="" src="https://content.onliner.by/news/thumbnail/f467fbdae29bf675094618589061d9d9.jpg" /></a></p><p>Очевидцы сообщили в редакцию Onlíner о трагедии, произошедшей в одной из высоток на Логойском тракте в Минске. <em>«</em><em>Мужчина в черном и с балаклавой на голове выпал из окна десятого этажа. Сейчас его пытаются снять прибывшие на место спасатели МЧС»,</em> — написал один из читателей. Позже о погибшем рассказал один из его соседей по дому. Подробности — в материале.</p><p><a href="https://people.onliner.by/2026/10/21/tragediya-na-logojskom-trakte-iz-okna-vysotki-vypal-chelovek-na-trose">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Philips выпустила недорогие изогнутые QHD-мониторы для игр и работы</title>
+      <link>https://4pda.to/2026/10/21/462433/philips_vypustila_nedorogie_izognutye_qhd_monitory_dlya_igr_i_raboty/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462433/philips_vypustila_nedorogie_izognutye_qhd_monitory_dlya_igr_i_raboty/</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <description><![CDATA[Philips расширила каталог фирменной продукции двумя недорогими изогнутыми мониторами. Модели 27E3C2500 и 32E3C2500 с разрешением QHD позиционируются как универсальные дисплеи для повседневной работы и [...]]]></description>
+    </item>
+    <item>
+      <title>Стройка вот-вот начнется. Общежитие в Лебяжьем планируют сдать всего за год</title>
+      <link>https://realt.onliner.by/go/1137809</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/21/obshhezhitie-v-lebyazhem</guid>
+      <pubDate>Wed, 21 Oct 2026 06:47:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/21/obshhezhitie-v-lebyazhem"><img alt="" src="https://content.onliner.by/news/thumbnail/2d05690495cf6e181e760baa6bd98cd9.jpg" /></a></p><p>Площадку в Лебяжьем <a href="https://realt.onliner.by/2026/09/01/ploshhadku-obnesli-zaborom" target="_blank">обнесли</a> строительным забором еще в начале сентября. А недавно появился и паспорт объекта, который раскрыл подробности будущей стройки. Общежитие рядом с известной высоткой под названием «Лазурит» планируют сдать в эксплуатацию в октябре 2027 года. То есть буквально за год на зеленом пустыре появится новое здание. Свежими фото поделился телеграм-канал <a href="https://t.me/pureminsk/11127" target="_blank">«Минск и минчанин»</a>. </p><p><a href="https://realt.onliner.by/2026/10/21/obshhezhitie-v-lebyazhem">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Не заметил? Водитель легковушки сбил пешехода при повороте. ДТП попало на видео  (видео)</title>
+      <link>https://auto.onliner.by/go/1271410</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/21/sbil-peshexoda-4</guid>
+      <pubDate>Wed, 21 Oct 2026 06:42:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/21/sbil-peshexoda-4"><img alt="" src="https://content.onliner.by/news/thumbnail/ccb033be56cb659e7d6404fa11088b1e.jpg" /></a></p><p>20 октября вечером 37-летний водитель FAW при повороте налево на пересечении улиц Матусевича и Глебки сбил 22-летнюю девушку, сообщает ГАИ Минска.
+</p><p><a href="https://auto.onliner.by/2026/10/21/sbil-peshexoda-4">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Кусочек 20-долларовой банкноты продали за $134 тысячи. За что такая сумма?</title>
+      <link>https://money.onliner.by/go/351462</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/21/20-iz-ugnannogo-v-1971-godu-samoleta-prodali-na-aukcione-za-skolko</guid>
+      <pubDate>Wed, 21 Oct 2026 06:36:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/21/20-iz-ugnannogo-v-1971-godu-samoleta-prodali-na-aukcione-za-skolko"><img alt="" src="https://content.onliner.by/news/thumbnail/bb9b0454251f253f4f3f80bb2a4c53a6.jpg" /></a></p><p>Поврежденный фрагмент 20-долларовой банкноты продали на аукционе в Далласе за $134,2 тысячи (примерно 400 тысяч белорусских рублей). Такая цена лота объясняется историей купюры — она связана со знаменитым угоном самолета DB Cooper в 1971 году.
+</p><p><a href="https://money.onliner.by/2026/10/21/20-iz-ugnannogo-v-1971-godu-samoleta-prodali-na-aukcione-za-skolko">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>«Портативка» GPD Win Max 3 со 165-герцевым экраном оказалась очень дорогой</title>
+      <link>https://4pda.to/2026/10/21/462432/portativka_gpd_win_max_3_so_165_gertsevym_ekranom_okazalas_ochen_dorogoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462432/portativka_gpd_win_max_3_so_165_gertsevym_ekranom_okazalas_ochen_dorogoj/</guid>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 +0000</pubDate>
+      <description><![CDATA[После завершения краудфандинговой
+кампании игровой портативный ПК Win Max 3 стал доступен для предварительного заказа. Новинку представили в нескольких конфигурациях, сопоставимых по цене с крупными игровыми [...]]]></description>
+    </item>
+    <item>
+      <title>Стало еще эпичнее. Оцените тизер фильма «Дюна: Часть третья»</title>
+      <link>https://tech.onliner.by/go/798029</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/21/stalo-eshhe-epichnee-ocenite-tizer-filma-dyuna-chast-tretya</guid>
+      <pubDate>Wed, 21 Oct 2026 06:11:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/21/stalo-eshhe-epichnee-ocenite-tizer-filma-dyuna-chast-tretya"><img alt="" src="https://content.onliner.by/news/thumbnail/f7c14af5ebb8ed7fc8474c30c738af88.jpg" /></a></p><p>За два месяца до премьеры в кинотеатрах Warner Bros. Discovery выпустила свежий тизер к фильму «Дюна: Часть третья» , чтобы объявить о начале продажи билетов. В нем, помимо Тимоти Шаламе в роли Пола Атрейдеса и принцессы Ирулан в исполнении Флоренс Пью, появляется Чани в исполнении Зендеи, у которой возникает конфликт с Атрейдесом.</p><p><a href="https://tech.onliner.by/2026/10/21/stalo-eshhe-epichnee-ocenite-tizer-filma-dyuna-chast-tretya">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Водитель BMW пытался увернуться от зверя на трассе и выехал на встречную. Трое пострадавших (видео)</title>
+      <link>https://auto.onliner.by/go/1271380</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/21/pytalsya-uvernutsya</guid>
+      <pubDate>Wed, 21 Oct 2026 06:05:22 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/21/pytalsya-uvernutsya"><img alt="" src="https://content.onliner.by/news/thumbnail/fae72fd7e6dbb1e48046d5e75d717829.jpg" /></a></p><p>ДТП случилось 20 октября около 20:30 на 64-м км автодороги Могилев — Бобруйск. Столкнулись встречные автомобили BMW и GMC, пострадали три человека, сообщили в ГАИ Могилевской области.</p><p><a href="https://auto.onliner.by/2026/10/21/pytalsya-uvernutsya">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Инсайд: GeForce RTX 6060 выйдет с большой задержкой и будет слабее консольных GPU</title>
+      <link>https://4pda.to/2026/10/21/462430/insajd_geforce_rtx_6060_vyjdet_s_bolshoj_zaderzhkoj_i_budet_slabee_konsolnykh_gpu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462430/insajd_geforce_rtx_6060_vyjdet_s_bolshoj_zaderzhkoj_i_budet_slabee_konsolnykh_gpu/</guid>
+      <pubDate>Wed, 21 Oct 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[NVIDIA не торопится с анонсом следующего поколения видеокарт, но в сети уже появились инсайдерские сведения об одной из будущих новинок серии GeForce. Обнадёживающими их не назвать: если верить слухам, [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi выпустила компактную стиральную машину с двумя независимыми баками</title>
+      <link>https://4pda.to/2026/10/21/462431/xiaomi_vypustila_kompaktnuyu_stiralnuyu_mashinu_s_dvumya_nezavisimymi_bakami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462431/xiaomi_vypustila_kompaktnuyu_stiralnuyu_mashinu_s_dvumya_nezavisimymi_bakami/</guid>
+      <pubDate>Wed, 21 Oct 2026 05:30:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi начала продажи стиральной машины Mijia Healthy Wash Dual Tub 1KG. Она рассчитана на небольшие отдельные загрузки — например, нижнее бельё или детские вещи — и позволяет стирать их одновременно, [...]]]></description>
+    </item>
+    <item>
+      <title>«Иногда приходится быть „огнетушителем“». У этого отца десять дочек и два сына</title>
+      <link>https://people.onliner.by/go/1340254</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/21/otets-odinochka</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/21/otets-odinochka"><img alt="" src="https://content.onliner.by/news/thumbnail/1db4c8c6a716795a8effe31eef587aea.jpg" /></a></p><p>Иван и Ольга были женаты больше 20 лет — за это время у них родилось 12 детей. Супруги получили четырехкомнатную квартиру, купили дачу под Минском и планировали прожить вместе еще долгие годы. Но потом Ольга серьезно заболела: у нее обнаружили онкологию. Женщина «сгорела» очень быстро — ее не стало в 2022 году, и на плечи Ивана легли все заботы о большой многодетной семье. Накануне Дня отца мы поговорили с мужчиной о том, каково это — быть единственным родителем для десяти дочек и двух сыновей.</p><p><a href="https://people.onliner.by/2026/10/21/otets-odinochka">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Жить или сносить: парень строит дом «в земле» и совсем не контролирует рабочих — наворотили?</title>
+      <link>https://realt.onliner.by/go/1137685</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/21/stroit-dom-v-zemle</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/21/stroit-dom-v-zemle"><img alt="" src="https://content.onliner.by/news/thumbnail/d01d3497c652b1238263512b4aa214ad.jpg" /></a></p><p>Все началось с праздника. Полтора года назад минчанин Юрий с супругой думали, где отметить ее день рождения. Классические деревенские агроусадьбы, современные коттеджи, модные A-фреймы — смотрели всё. Но оказалось, что найти добротный дом в пределах ста километров от Минска на компанию из десяти человек не так и просто. <em>«Надо строить свое»,</em> — прикинули ребята. И… не оставили эту мысль «в запасниках», как зачастую бывает. Вместо бесплотных мечтаний семья принялась перебирать участки, а потом и возводить дом. Что из этого получилось и можно ли доверять случайной бригаде — узнаем прямо сейчас вместе с независимым экспертом по строительству Андреем Туником.</p><p><a href="https://realt.onliner.by/2026/10/21/stroit-dom-v-zemle">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Россиян давно не видно, а белорусы ушли за новыми авто? Что происходит на рынке «бэушки»</title>
+      <link>https://auto.onliner.by/go/1270163</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/21/chto-proisxodit-na-rynke-beushki</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/21/chto-proisxodit-na-rynke-beushki"><img alt="" src="https://content.onliner.by/news/thumbnail/05b9ccaf05ca7f8b7ca460381fa677e6.jpg" /></a></p><p>Традиционно считается, что осенью авторынки (в том числе легендарная Малиновка) расцветают: покупатели, приехав с дач и отправив наследников в школы, возвращаются к желанию освежить машину. Обычно в это время активизировались и россияне, но из-за ужесточения правил ввоза и повышения утильсбора Беларусь в автомобильном плане почти перестала их интересовать. А еще говорят, что сами белорусы гораздо активнее берут новые машины вместо «бэушки»… Так это или не так? Вместе с <a href="https://www.wigo.by/?utm_source=media&amp;utm_medium=onlinert&amp;utm_term=st" target="_blank">WIGO</a> мы отправились на авторынок в Малиновке, а еще пообщались с представителями регионального автохауса, чтобы найти ответ на этот вопрос. А так как рынок б/у автомобилей неразрывно связан со сферой обслуживания — заглянули и на столичную СТО.</p><p><a href="https://auto.onliner.by/2026/10/21/chto-proisxodit-na-rynke-beushki">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Яхту можно купить за 3500 рублей?» Белорусские капитаны о ценах, расходах и жизни под парусом (видео)</title>
+      <link>https://money.onliner.by/go/351018</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/21/yakhting-v-belarusi</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/21/yakhting-v-belarusi"><img alt="" src="https://content.onliner.by/news/thumbnail/a6405689daf208c4517ec9c46874dbb5.jpg" /></a></p><p>В Беларуси нет моря, но есть люди, которые не представляют свою жизнь без яхт и парусов. Причем ради любимого занятия им необязательно каждый раз отправляться куда-нибудь в Средиземноморье — достаточно приехать на Минское море, где яхты можно встретить даже в середине осени. Правда, большинство владельцев уже готовят свои суда к зиме, но некоторые продолжают выходить на воду практически до первых льдов. С одними из таких энтузиастов мы и отправились под парусом. Поговорили с основателями яхт-клуба о том, сколько стоит купить собственную яхту, реально ли найти ее за €1000 и что нужно, чтобы самому стать капитаном.</p><p><a href="https://money.onliner.by/2026/10/21/yakhting-v-belarusi">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>OpenAI решила проблему перевода «древнего» софта на современный код</title>
+      <link>https://4pda.to/2026/10/21/462429/openai_reshila_problemu_perevoda_drevnego_softa_na_sovremennyj_kod/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462429/openai_reshila_problemu_perevoda_drevnego_softa_na_sovremennyj_kod/</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[Многие организации десятилетиями используют устаревшее специализированное ПО, написанное на «древних» языках программирования. До недавнего времени такой софт можно было разве что переписать с нуля — но [...]]]></description>
+    </item>
+    <item>
+      <title>Новая док-станция превращает ASUS ROG Xbox Ally в стационарную консоль</title>
+      <link>https://4pda.to/2026/10/21/462397/novaya_dok_stantsiya_prevraschaet_asus_rog_xbox_ally_v_statsionarnuyu_konsol/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462397/novaya_dok_stantsiya_prevraschaet_asus_rog_xbox_ally_v_statsionarnuyu_konsol/</guid>
+      <pubDate>Wed, 21 Oct 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[ASUS представила ROG Bulwark Dock DG310 — док-станцию для консолей ROG Xbox Ally. Аксессуар позволяет вывести изображение с «портативки» на телевизор или монитор, подключить периферию и проводной интернет, [...]]]></description>
+    </item>
+    <item>
+      <title>Апскейлер FSR 4.1 стал доступен на Radeon RX 6000 и некоторых «встройках» AMD</title>
+      <link>https://4pda.to/2026/10/21/462428/apskejler_fsr_4_1_stal_dostupen_na_radeon_rx_6000_i_nekotorykh_vstrojkakh_amd/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462428/apskejler_fsr_4_1_stal_dostupen_na_radeon_rx_6000_i_nekotorykh_vstrojkakh_amd/</guid>
+      <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[AMD объявила о расширении совместимости технологии FSR 4.1 с фирменными GPU и APU. Теперь воспользоваться фирменным апскейлером могут владельцы видеокарт серии Radeon RX 6000, а также части процессоров [...]]]></description>
+    </item>
+    <item>
+      <title>Экс-сотрудник Xiaomi анонсировал умное кольцо с акцентом на мониторинг сна</title>
+      <link>https://4pda.to/2026/10/21/462395/eks_sotrudnik_xiaomi_anonsiroval_umnoe_koltso_s_aktsentom_na_monitoring_sna/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462395/eks_sotrudnik_xiaomi_anonsiroval_umnoe_koltso_s_aktsentom_na_monitoring_sna/</guid>
+      <pubDate>Wed, 21 Oct 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[Стартап Yixiu, основанный бывшим
+топ-менеджером Xiaomi Ван Тэном, готовит к выпуску своё первое устройство —
+умное кольцо ISHO Ring. Новинка ориентирована прежде на отслеживание качества сна и базовых [...]]]></description>
+    </item>
+    <item>
+      <title>Характеристики OPPO Reno17 Pro слили в сеть до презентации</title>
+      <link>https://4pda.to/2026/10/21/462426/kharakteristiki_oppo_reno17_pro_slili_v_set_do_prezentatsii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/21/462426/kharakteristiki_oppo_reno17_pro_slili_v_set_do_prezentatsii/</guid>
+      <pubDate>Wed, 21 Oct 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[В интернете появились технические подробности о готовящемся к выпуску смартфоне OPPO Reno17 Pro. Согласно инсайду, сравнительно компактный гаджет получит аккумулятор повышенной ёмкости и «заряженный» набор [...]]]></description>
     </item>
     <item>
       <title>От планшета до игрового ПК: выбираем Acer под свои задачи</title>
@@ -63,27 +477,11 @@ HUAWEI [...]]]></description>
 О новом складном Razr заговорили [...]]]></description>
     </item>
     <item>
-      <title>В Минске Li Xiang врезался в ограждение на третьем уровне развязки (видео)</title>
-      <link>https://auto.onliner.by/go/1271346</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/20/li-xiang-vyletel-za-predely</guid>
-      <pubDate>Tue, 20 Oct 2026 16:10:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/20/li-xiang-vyletel-za-predely"><img alt="" src="https://content.onliner.by/news/thumbnail/b105ef7800e44fcf170eb7e49b7c8238.jpg" /></a></p><p>Сегодня днем в Минске произошла авария на транспортной развязке проспектов Дзержинского и Жукова. Водитель автомобиля Li Xiang врезался в разделительное ограждение.</p><p><a href="https://auto.onliner.by/2026/10/20/li-xiang-vyletel-za-predely">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Шире привычного: 6 причин присмотреться к Samsung Galaxy Z Fold8</title>
       <link>https://4pda.to/2026/10/20/462419/shire_privychnogo_6_prichin_prismotretsya_k_samsung_galaxy_z_fold8/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/20/462419/shire_privychnogo_6_prichin_prismotretsya_k_samsung_galaxy_z_fold8/</guid>
       <pubDate>Tue, 20 Oct 2026 15:30:00 +0000</pubDate>
       <description><![CDATA[Складные смартфоны уже давно перестали удивлять одной только возможностью превратиться в небольшой планшет. Но Samsung Galaxy Z Fold8 всё-таки нашёл способ выделиться среди собратьев: инженеры сделали [...]]]></description>
-    </item>
-    <item>
-      <title>«Он был там не один». На Минском море выловили двухметрового сома (видео, обновлено)</title>
-      <link>https://people.onliner.by/go/1340223</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/20/na-minskom-more-vylovili-soma-razmerom-s-podrostka</guid>
-      <pubDate>Tue, 20 Oct 2026 15:15:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/20/na-minskom-more-vylovili-soma-razmerom-s-podrostka"><img alt="" src="https://content.onliner.by/news/thumbnail/07a70e0b6bb67e7a4fc4d5324c497736.jpg" /></a></p><p>На Минском море рыбаки выловили неожиданный трофей. Компания отправилась на рыбалку за судаком, но им попался гигантский сом. Снимки с эпичной рыбалки появились в сети день назад. На фото видно, что в длину сом больше подростка. Мы узнали более точные параметры.</p><p><a href="https://people.onliner.by/2026/10/20/na-minskom-more-vylovili-soma-razmerom-s-podrostka">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Anker выпустила пауэрбанк MagGo со встроенной зарядкой для смарт-часов</title>
@@ -94,353 +492,11 @@ HUAWEI [...]]]></description>
 Ёмкость [...]]]></description>
     </item>
     <item>
-      <title>ДТП с грузовиком и микроавтобусом: двое оказались заблокированы в салоне (видео)</title>
-      <link>https://auto.onliner.by/go/1271341</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/20/dvoe-okazalis-zablokirovany</guid>
-      <pubDate>Tue, 20 Oct 2026 15:13:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/20/dvoe-okazalis-zablokirovany"><img alt="" src="https://content.onliner.by/news/thumbnail/3d07bcc8787cf7e65ac970aca85f778f.jpg" /></a></p><p>Это ДТП случилось сегодня рядом с агрогородком Уша. На трассе столкнулись микроавтобус и грузовой автомобиль. Водитель и пассажир микроавтобуса оказались зажаты в салоне, сообщает МЧС.</p><p><a href="https://auto.onliner.by/2026/10/20/dvoe-okazalis-zablokirovany">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Глава App Store рассказал о развитии игрового направления компании</title>
       <link>https://4pda.to/2026/10/20/462401/glava_app_store_rasskazal_o_razvitii_igrovogo_napravleniya_kompanii/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/20/462401/glava_app_store_rasskazal_o_razvitii_igrovogo_napravleniya_kompanii/</guid>
       <pubDate>Tue, 20 Oct 2026 15:00:00 +0000</pubDate>
       <description><![CDATA[Apple продолжает укреплять позиции на игровом рынке, делая ставку не только на подписку Arcade, но и на полноценные платные игры в App Store. В интервью Polygon новый руководитель App Store Worldwide Карсон [...]]]></description>
-    </item>
-    <item>
-      <title>В сети появились первые фото базового iPhone 18. Юзеры заподозрили обман</title>
-      <link>https://tech.onliner.by/go/798007</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/20/v-seti-poyavilis-pervye-foto-bazovogo-iphone-18-yuzery-zapodozrili-obman</guid>
-      <pubDate>Tue, 20 Oct 2026 14:53:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/20/v-seti-poyavilis-pervye-foto-bazovogo-iphone-18-yuzery-zapodozrili-obman"><img alt="" src="https://content.onliner.by/news/thumbnail/8a85b34de76a53aa5de87fac14067b2f.jpg" /></a></p><p><p dir="ltr">Apple, кажется, готовит заметные изменения во внешнем виде своего следующего базового iPhone. Появившиеся в сети изображения от <a href="https://x.com/majinbuofficia/status/2112221750226219131" target="_blank">инсайдера</a> демонстрируют новый дизайн iPhone 18. Однако пользователи усомнились в правдивости фото и заподозрили автора поста в генерации картинок с помощью искусственного интеллекта.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/20/v-seti-poyavilis-pervye-foto-bazovogo-iphone-18-yuzery-zapodozrili-obman">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Белорусы снова могут улететь к океану прямым рейсом</title>
-      <link>https://people.onliner.by/go/1340316</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/20/belorusy-snova-mogut-uletet-k-okeanu-pryamym-rejsom</guid>
-      <pubDate>Tue, 20 Oct 2026 14:38:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/20/belorusy-snova-mogut-uletet-k-okeanu-pryamym-rejsom"><img alt="" src="https://content.onliner.by/news/thumbnail/876b4ed0e6352cf718a7dfc2b1656c81.jpg" /></a></p><p>Авиакомпания «Белавиа» <a href="https://t.me/belavia_official/1658" target="_blank">возобновляет</a> полетную программу на Шри-Ланку. Прямые рейсы запланированы один раз в неделю по вторникам. Вылет из Минска в 00:50, прибытие в аэропорт Маттала — в 12:40. Всего времени в пути — около 9 с половиной часов.
-</p><p><a href="https://people.onliner.by/2026/10/20/belorusy-snova-mogut-uletet-k-okeanu-pryamym-rejsom">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Посмотрите, сколько яблоки стоят?» Читатель обратился к нам с жалобой на ценник</title>
-      <link>https://money.onliner.by/go/351370</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/20/posmotrite-skolko-yabloki-stoyat-chitatel-obratilsya-k-nam-s-zhaloboj-na-cennik</guid>
-      <pubDate>Tue, 20 Oct 2026 14:30:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/20/posmotrite-skolko-yabloki-stoyat-chitatel-obratilsya-k-nam-s-zhaloboj-na-cennik"><img alt="" src="https://content.onliner.by/news/thumbnail/60f67f657503d0995b8d415bcfb6cc21.jpg" /></a></p><p>К нам в редакцию обратился читатель с жалобой на внешний вид ценника, который попался ему на центральном рынке Витебска. Сославшись на наш недавний <a href="https://money.onliner.by/2026/09/06/zaglyanuli-na-rynok-v-vitebske" target="_blank">репортаж</a> с этого торгового объекта, читатель согласился, что рынок классный, но, по его утверждению, проблема с ценниками там носит системный характер.
-</p><p><a href="https://money.onliner.by/2026/10/20/posmotrite-skolko-yabloki-stoyat-chitatel-obratilsya-k-nam-s-zhaloboj-na-cennik">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Работник заболел из-за вредных условий труда и отсудил 14 тысяч</title>
-      <link>https://money.onliner.by/go/351387</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/20/rabotnik-zabolel-iz-za-vrednyx-uslovij-truda-i-otsudil-14-tysyach</guid>
-      <pubDate>Tue, 20 Oct 2026 14:15:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/20/rabotnik-zabolel-iz-za-vrednyx-uslovij-truda-i-otsudil-14-tysyach"><img alt="" src="https://content.onliner.by/news/thumbnail/df8ab8d50a7aa7b544bc4cc3e6ecfd39.jpg" /></a></p><p>У работника производственного цеха в Гродненской области нашли хроническое заболевание органов дыхания. Комиссия установила, что оно связано с вредными условиями труда. Из-за болезни мужчина потерял 10% профессиональной трудоспособности.
-</p><p><a href="https://money.onliner.by/2026/10/20/rabotnik-zabolel-iz-za-vrednyx-uslovij-truda-i-otsudil-14-tysyach">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В бюджетных китайских смартфонах станут использовать б/у компоненты?</title>
-      <link>https://tech.onliner.by/go/797996</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/20/v-byudzhetnyx-kitajskix-smartfonax-budut-ispolzovat-b-u-komponenty</guid>
-      <pubDate>Tue, 20 Oct 2026 14:12:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/20/v-byudzhetnyx-kitajskix-smartfonax-budut-ispolzovat-b-u-komponenty"><img alt="" src="https://content.onliner.by/news/thumbnail/01bd9a46631da9519068d63a4ab8a331.jpg" /></a></p><p><p dir="ltr">В условиях сохраняющегося дефицита памяти китайские производители смартфонов переходят к использованию бывших в употреблении компонентов, извлеченных из списанных телефонов и компьютеров, в новых продуктах, <a href="https://biz.chosun.com/en/en-it/2026/10/20/VX56FVMITNCY3IF6BUTUYS356E/" target="_blank">сообщают</a> некоторые китайские СМИ.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/20/v-byudzhetnyx-kitajskix-smartfonax-budut-ispolzovat-b-u-komponenty">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Убрали весь новодел. В Минске отреставрировали еще одно историческое здание</title>
-      <link>https://realt.onliner.by/go/1137653</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/20/kapremont-etogo-zdaniya</guid>
-      <pubDate>Tue, 20 Oct 2026 14:10:41 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/20/kapremont-etogo-zdaniya"><img alt="" src="https://content.onliner.by/news/thumbnail/af2827e761da29e6b33a6043dafa1335.jpg" /></a></p><p><p>В Минске завершился капитальный ремонт жилого дома на улице Володарского, имеющего статус историко-культурной ценности. Постройка 1904 года получила вторую жизнь, однако сам процесс обновления оказался совсем нетипичным для обычного жилого фонда — работы проводились при обязательном сопровождении научного руководителя, пишет <a href="https://t.me/minskstroybelarus/9658" target="_blank">«Минскстрой»</a>.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/10/20/kapremont-etogo-zdaniya">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Цена может дойти до рубля, если не купят раньше. Распродажа Onlíner 27 октября</title>
-      <link>https://money.onliner.by/go/351326</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/20/ceny-budut-padat-kazhdyj-chas-27</guid>
-      <pubDate>Tue, 20 Oct 2026 14:00:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/20/ceny-budut-padat-kazhdyj-chas-27"><img alt="" src="https://content.onliner.by/news/thumbnail/2692ec00e1a647ee4cc07956392019d7.jpg" /></a></p><p>27 октября в приложении «Каталог Onlíner» на этой <a href="https://onliner.go.link/4L2KI" target="_blank">странице</a> станут доступны товары на распродаже: стайлер Dyson, смартфон, проектор и еще десятки полезных и стильных девайсов с ценами, которые будут снижаться каждый час.
-</p><p><a href="https://money.onliner.by/2026/10/20/ceny-budut-padat-kazhdyj-chas-27">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>MagicOS 11 добирается до глобальных моделей Honor. Кто получит и как её установить</title>
-      <link>https://4pda.to/2026/10/20/462415/magicos_11_dobiraetsya_do_globalnykh_modelej_honor_kto_poluchit_i_kak_eyo_ustanovit/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462415/magicos_11_dobiraetsya_do_globalnykh_modelej_honor_kto_poluchit_i_kak_eyo_ustanovit/</guid>
-      <pubDate>Tue, 20 Oct 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[Honor поделилась графиком распространения оболочки MagicOS 11 за пределами Китая. До конца ноября обновление получат более 20 моделей.&nbsp;
-Первые пользователи из России уже загрузили апдейт на свои [...]]]></description>
-    </item>
-    <item>
-      <title>Выпивали вместе, а потом пьяная бесправница села за руль. Обоих наказали</title>
-      <link>https://auto.onliner.by/go/1271312</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/20/bespravnica-sela-za-rul</guid>
-      <pubDate>Tue, 20 Oct 2026 13:50:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/20/bespravnica-sela-za-rul"><img alt="" src="https://content.onliner.by/news/thumbnail/b81acf1af317e6b8d2ef97779c4ee0bf.jpg" /></a></p><p>В августе мужчина выпивал вместе со своей знакомой, а после передал ей управление автомобилем. К слову, у женщины не было водительских прав. Машину, за рулем которой находилась пьяная бесправница, остановили сотрудники ГАИ.
-</p><p><a href="https://auto.onliner.by/2026/10/20/bespravnica-sela-za-rul">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Приложение Bing Wallpaper для Windows 11 теперь напоминает вирус</title>
-      <link>https://4pda.to/2026/10/20/462418/prilozhenie_bing_wallpaper_dlya_windows_11_teper_napominaet_virus/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462418/prilozhenie_bing_wallpaper_dlya_windows_11_teper_napominaet_virus/</guid>
-      <pubDate>Tue, 20 Oct 2026 13:50:00 +0000</pubDate>
-      <description><![CDATA[Microsoft продолжает всячески продвигать собственные сервисы в Windows 11, но некоторые способы привлечения пользователей вызывают вопросы. На этот раз необычное поведение заметили в Bing Wallpaper — приложении [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi выпустила пауэрбанк на 25 000 мАч и 250 Вт</title>
-      <link>https://4pda.to/2026/10/20/462398/xiaomi_vypustila_pauerbank_na_25_000_mach_i_250_vt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462398/xiaomi_vypustila_pauerbank_na_25_000_mach_i_250_vt/</guid>
-      <pubDate>Tue, 20 Oct 2026 13:40:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi представила внешний
-аккумулятор, рассчитанный на одновременную быструю зарядку ноутбука и смартфона. Новинка получила три порта, встроенный цветной дисплей и суммарную
-выходную мощность до 250 Вт.
-Устройство [...]]]></description>
-    </item>
-    <item>
-      <title>Моддер добавил в Red Dead Redemption 2 комплексную систему мести от NPC</title>
-      <link>https://4pda.to/2026/10/20/462410/modder_dobavil_v_red_dead_redemption_2_kompleksnuyu_sistemu_mesti_ot_npc/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462410/modder_dobavil_v_red_dead_redemption_2_kompleksnuyu_sistemu_mesti_ot_npc/</guid>
-      <pubDate>Tue, 20 Oct 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[В Red Dead Redemption 2 теперь стоит дважды подумать, прежде чем затевать перестрелку. Благодаря новому моду Enrage, у Артура Моргана могут появиться враги, которые не забудут старые обиды. Идею автор [...]]]></description>
-    </item>
-    <item>
-      <title>Honor X9e — очень прочный. Хочешь убедиться в этом лично и оставить смартфон себе?</title>
-      <link>https://4pda.to/2026/10/20/462408/honor_x9e_ochen_prochnyj_khochesh_ubeditsya_v_etom_lichno_i_ostavit_smartfon_sebe/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462408/honor_x9e_ochen_prochnyj_khochesh_ubeditsya_v_etom_lichno_i_ostavit_smartfon_sebe/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:30:00 +0000</pubDate>
-      <description><![CDATA[Honor выпустила смартфон X9e — это прочное и надёжное устройство с OLED-экраном и процессором Snapdragon 6 Gen 5. Вы можете протестировать этот смартфон, после чего оставить его себе. Читайте, что для [...]]]></description>
-    </item>
-    <item>
-      <title>Белорус не смог перевести 14 тысяч рублей. Банк объяснил блокировку</title>
-      <link>https://money.onliner.by/go/351321</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/20/belorus-ne-smog-perevesti-14-tysyach-rublej-bank-obyasnil-blokirovku</guid>
-      <pubDate>Tue, 20 Oct 2026 12:24:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/20/belorus-ne-smog-perevesti-14-tysyach-rublej-bank-obyasnil-blokirovku"><img alt="" src="https://content.onliner.by/news/thumbnail/a95becd36cd1c94da3c90515d84be027.jpg" /></a></p><p>Читатель обратился в редакцию и рассказал, что ему ограничили доступ к онлайн-банкингу, а перевод на 14 тысяч рублей через ЕРИП приостановили. Всего, по его словам, ему оказались недоступны около 15 тысяч рублей.
-</p><p><a href="https://money.onliner.by/2026/10/20/belorus-ne-smog-perevesti-14-tysyach-rublej-bank-obyasnil-blokirovku">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Добрушском районе на ферме погиб рабочий во время уборки</title>
-      <link>https://people.onliner.by/go/1340255</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/20/v-dobrushskom-rajone-na-ferme-pogib-rabochij</guid>
-      <pubDate>Tue, 20 Oct 2026 12:20:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/20/v-dobrushskom-rajone-na-ferme-pogib-rabochij"><img alt="" src="https://content.onliner.by/news/thumbnail/4823761f164810675a849f993d5079f7.jpg" /></a></p><p>В Добрушском районе на производстве произошел несчастный случай. Трагедия случилась вечером 18 октября на территории молочно-товарной фермы «Гордуны». Подробностями происшествия <a href="https://t.me/skgovby/16799" target="_blank">поделились</a> в Следственном комитете.
-</p><p><a href="https://people.onliner.by/2026/10/20/v-dobrushskom-rajone-na-ferme-pogib-rabochij">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Xiaomi выпустила подушку для подогрева и поддержания поясницы</title>
-      <link>https://4pda.to/2026/10/20/462402/xiaomi_vypustila_podushku_dlya_podogreva_i_podderzhaniya_poyasnitsy/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462402/xiaomi_vypustila_podushku_dlya_podogreva_i_podderzhaniya_poyasnitsy/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:20:00 +0000</pubDate>
-      <description><![CDATA[В ассортименте товаров для дома Xiaomi появилась подушка Mijia Heated Posture Cushion, рассчитанная на тех, кто подолгу сидит за столом. Она сочетает эргономичную конструкцию, поддержку спины, подогрев [...]]]></description>
-    </item>
-    <item>
-      <title>Клайв Баркер одобряет. Создатель «Восставшего из ада» в восторге от новой игры</title>
-      <link>https://4pda.to/2026/10/20/462411/klajv_barker_odobryaet_sozdatel_vosstavshego_iz_ada_v_vostorge_ot_novoj_igry/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462411/klajv_barker_odobryaet_sozdatel_vosstavshego_iz_ada_v_vostorge_ot_novoj_igry/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:10:00 +0000</pubDate>
-      <description><![CDATA[Клайв Баркер опасался, что разработчикам Hellraiser: Revival не позволят показать все ужасы его вселенной из-за строгих возрастных рейтингов. Однако после знакомства с готовой игрой писатель изменил мнение. [...]]]></description>
-    </item>
-    <item>
-      <title>Зумеры предпочитают инвестиции в акции покупке жилья</title>
-      <link>https://realt.onliner.by/go/1137644</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/20/zumery-predpochitayut</guid>
-      <pubDate>Tue, 20 Oct 2026 12:04:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/20/zumery-predpochitayut"><img alt="" src="https://content.onliner.by/news/thumbnail/79dbf559b3c5808a5bc39e6d3ce90d66.jpg" /></a></p><p>Для многих молодых американцев финансовый успех все реже ассоциируется с покупкой собственного дома, <a href="https://nypost.com/2026/10/19/real-estate/gen-z-renters-ditch-the-homeownership-dream/" target="_blank">сообщает</a> New York Post. Согласно новому исследованию Entrata, которое анализирует издание, представители поколения Z, снимающие жилье, чаще считают важным достижением инвестиции, чем владение недвижимостью.</p><p><a href="https://realt.onliner.by/2026/10/20/zumery-predpochitayut">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Умные колонки Google скачивают сотни гигабайт данных без ведома владельцев</title>
-      <link>https://4pda.to/2026/10/20/462414/umnye_kolonki_google_skachivayut_sotni_gigabajt_dannykh_bez_vedoma_vladeltsev/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462414/umnye_kolonki_google_skachivayut_sotni_gigabajt_dannykh_bez_vedoma_vladeltsev/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:26 +0000</pubDate>
-      <description><![CDATA[Владельцы новых умных колонок Google Home столкнулись с необычной проблемой: устройства продолжают загружать огромные объёмы данных в фоновом режиме, даже когда ими не пользуются. В отдельных случаях речь [...]]]></description>
-    </item>
-    <item>
-      <title>SanDisk выпустила недорогой компактный SSD</title>
-      <link>https://4pda.to/2026/10/20/462399/sandisk_vypustila_nedorogoj_kompaktnyj_ssd/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462399/sandisk_vypustila_nedorogoj_kompaktnyj_ssd/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:50:00 +0000</pubDate>
-      <description><![CDATA[Компания SanDisk выпустила портативный SSD под названием ELE SE. Накопитель весит всего 31,7 г,
-помещается в кармане и подходит для переноса файлов между компьютерами и
-мобильными устройствами.
-Новинка [...]]]></description>
-    </item>
-    <item>
-      <title>Луна сжимается в размерах, образуя поперечные разломы. Это опасно?</title>
-      <link>https://tech.onliner.by/go/797941</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/20/luna-szhimaetsya-v-razmerax-obrazuya-poperechnye-razlomy-eto-opasno</guid>
-      <pubDate>Tue, 20 Oct 2026 11:40:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/20/luna-szhimaetsya-v-razmerax-obrazuya-poperechnye-razlomy-eto-opasno"><img alt="" src="https://content.onliner.by/news/thumbnail/5383ebe3a8fe8da0661f37b882c2d8ec.jpg" /></a></p><p><p dir="ltr">Астрономы <a href="https://www.iflscience.com/the-moon-is-shrinking-causing-more-faults-than-expected-and-threatening-future-bases-84973" target="_blank">обнаружили</a> на поверхности Луны 10 000 недавно образованных разломов, которые могут провоцировать лунотрясения. По утверждению ученых, спутник Земли сжимается — примерно на один метр по радиусу за каждые 10 миллионов лет. Однако, несмотря на незначительность этого сжатия, оно создает напряжение в лунной коре, вызывая разломы и смещение пород.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/20/luna-szhimaetsya-v-razmerax-obrazuya-poperechnye-razlomy-eto-opasno">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Фанаты портировали Driveclub на PC — игра выглядит лучше, чем на PS4 [ВИДЕО]</title>
-      <link>https://4pda.to/2026/10/20/462409/fanaty_portirovali_driveclub_na_pc_igra_vyglyadit_luchshe_chem_na_ps4_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462409/fanaty_portirovali_driveclub_na_pc_igra_vyglyadit_luchshe_chem_na_ps4_video/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:40:00 +0000</pubDate>
-      <description><![CDATA[Гонки Driveclub уже больше десяти лет остаются эксклюзивом PlayStation, хотя сама Sony давно забыла о серии. Теперь энтузиасты взялись за дело и выпустили сразу несколько неофициальных портов для PC. Причём [...]]]></description>
-    </item>
-    <item>
-      <title>Coolpad выпустила бюджетный широкий Cool X Wide</title>
-      <link>https://4pda.to/2026/10/20/462405/coolpad_vypustila_byudzhetnyj_shirokij_cool_x_wide/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462405/coolpad_vypustila_byudzhetnyj_shirokij_cool_x_wide/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Coolpad представила смартфон Cool X Wide, выделяющийся непривычно широким соотношением сторон экрана. Такой аппарат должен быть удобнее для чтения и просмотра видео в сравнении с более вытянутыми [...]]]></description>
-    </item>
-    <item>
-      <title>Это самые дорогие чипсы в Беларуси?</title>
-      <link>https://money.onliner.by/go/351300</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/20/v-magazine-prodayut-chipsy-za-90-rublej-vot-kakie</guid>
-      <pubDate>Tue, 20 Oct 2026 11:12:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/20/v-magazine-prodayut-chipsy-za-90-rublej-vot-kakie"><img alt="" src="https://content.onliner.by/news/thumbnail/589fd77ee6b0bff9d085f462eb8b2692.jpg" /></a></p><p>Найдены, возможно, самые дорогие чипсы в Беларуси. Испанские Rubio с гималайской розовой солью в жестяной банке продают за 89,99 рубля.
-</p><p><a href="https://money.onliner.by/2026/10/20/v-magazine-prodayut-chipsy-za-90-rublej-vot-kakie">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>С детьми бывает непросто, особенно если у них есть электросамокат. Видео (видео)</title>
-      <link>https://auto.onliner.by/go/1271276</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/20/elektrosamokat-4</guid>
-      <pubDate>Tue, 20 Oct 2026 11:08:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/20/elektrosamokat-4"><img alt="" src="https://content.onliner.by/news/thumbnail/e62c42a8afcedd4f11987fee49ce60df.jpg" /></a></p><p>История из ЖК «Аркадия», что на улице Богдановича в Минске. Наш читатель рассказал, что взрослые не могут найти управу на подростка, который вздумал кататься на электросамокате по двору. Да и ладно бы просто кататься. От его заездов остаются заметные следы.</p><p><a href="https://auto.onliner.by/2026/10/20/elektrosamokat-4">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Флагманская серия vivo X500 официально представлена в России. Сколько стоит?</title>
-      <link>https://4pda.to/2026/10/20/462403/flagmanskaya_seriya_vivo_x500_ofitsialno_predstavlena_v_rossii_skolko_stoit/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462403/flagmanskaya_seriya_vivo_x500_ofitsialno_predstavlena_v_rossii_skolko_stoit/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
-      <description><![CDATA[Компания vivo представила в России новую серию флагманских смартфонов, в которую вошли модели X500, X500 Pro и X500 Pro Max. Основной акцент производитель сделал на съёмке удалённых объектов и расширенных [...]]]></description>
-    </item>
-    <item>
-      <title>Первый фитнес-браслет Suunto без экрана показали «вживую» [ФОТО]</title>
-      <link>https://4pda.to/2026/10/20/462392/pervyj_fitnes_braslet_suunto_bez_ekrana_pokazali_vzhivuyu_foto/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462392/pervyj_fitnes_braslet_suunto_bez_ekrana_pokazali_vzhivuyu_foto/</guid>
-      <pubDate>Tue, 20 Oct 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Компания
-Suunto, специализирующаяся на спортивных умных часах, готовится к выпуску фитнес-трекера без дисплея. Новое устройство с индексом HR264 уже
-прошло несколько сертификаций, а опубликованные регулятором [...]]]></description>
-    </item>
-    <item>
-      <title>Видео: водитель маршрутки врезался в автобус в Минске. Пострадала женщина  (видео)</title>
-      <link>https://auto.onliner.by/go/1271293</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/20/vrezalsya-v-avtobus-2</guid>
-      <pubDate>Tue, 20 Oct 2026 10:40:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/20/vrezalsya-v-avtobus-2"><img alt="" src="https://content.onliner.by/news/thumbnail/1cbc7e36538ad591fef5364633a7caca.png" /></a></p><p>ГАИ Минска рассказала о ДТП, которое случилось сегодня утром. Участниками аварии стали автобус и маршрутное такси. 58-летний водитель маршрутного такси Mercedes ехал по улице Куйбышева, на пересечении с улицей Веры Хоружей он столкнулся с автобусом МАЗ.
-</p><p><a href="https://auto.onliner.by/2026/10/20/vrezalsya-v-avtobus-2">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Выключатель Xiaomi Smart Switch 2 Pro для умного дома получил сразу три версии</title>
-      <link>https://4pda.to/2026/10/20/462391/vyklyuchatel_xiaomi_smart_switch_2_pro_dlya_umnogo_doma_poluchil_srazu_tri_versii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462391/vyklyuchatel_xiaomi_smart_switch_2_pro_dlya_umnogo_doma_poluchil_srazu_tri_versii/</guid>
-      <pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi выпустила Smart Switch 2 Pro — настенный
-выключатель, который позволяет подключить обычное освещение к системе умного
-дома. Новинка поддерживает управление через приложение и голосовые команды, [...]]]></description>
-    </item>
-    <item>
-      <title>«Белтелеком» просит абонентов заранее пополнить баланс — вот зачем</title>
-      <link>https://tech.onliner.by/go/797907</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/20/u-abonentov-beltelekom-vremenno-perestanut-rabotat-nekotorye-funkcii</guid>
-      <pubDate>Tue, 20 Oct 2026 10:26:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/20/u-abonentov-beltelekom-vremenno-perestanut-rabotat-nekotorye-funkcii"><img alt="" src="https://content.onliner.by/news/thumbnail/53591720b97745a63f494f2ab42abc79.jpg" /></a></p><p><p dir="ltr">Компания «Белтелеком» <a href="https://t.me/bybeltelecom/12510" target="_blank">сообщила</a> в своем телеграм-канале о запланированных технологических работах, которые будут проходить 21 октября ночью с 00:00 до 06:00. В связи с этим у абонентов оператора временно пропадет доступ к ряду функций.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/20/u-abonentov-beltelekom-vremenno-perestanut-rabotat-nekotorye-funkcii">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Опрокинулся после удара: водитель Volkswagen столкнулся с двумя автомобилями  (видео)</title>
-      <link>https://auto.onliner.by/go/1271284</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/20/oprokinulsya-posle-udara</guid>
-      <pubDate>Tue, 20 Oct 2026 10:23:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/20/oprokinulsya-posle-udara"><img alt="" src="https://content.onliner.by/news/thumbnail/985d15617bba4338c5882c5d38aff260.jpg" /></a></p><p>ДТП случилось сегодня утром рядом с домом №45 по улице Денисовской. 19-летний водитель Volkswagen столкнулся с автомобилями Citroen и Lada.
-</p><p><a href="https://auto.onliner.by/2026/10/20/oprokinulsya-posle-udara">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>950 000, а участок меньше сотки? В “Зеленой гавани” предложили новые таунхаусы</title>
-      <link>https://realt.onliner.by/go/1137667</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/20/pochti-135-kvadratov-i-svoj-uchastok</guid>
-      <pubDate>Tue, 20 Oct 2026 10:05:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/20/pochti-135-kvadratov-i-svoj-uchastok"><img alt="" src="https://content.onliner.by/news/thumbnail/e03cc345b622fb824001ed57fe822db9.jpg" /></a></p><p>Собственный участок, панорамные окна, почти 135 «квадратов» и возможность самостоятельно продумать планировку: в «Зеленой гавани» появится новый таунхаус под номером 14.7. Он расположится в квартале рядом с гольф-полями. В архитектуре здания прослеживается загородная эстетика: два этажа, плоская кровля, сдержанные оттенки, фактуры под дерево и декоративные металлические ламели.
-</p><p><a href="https://realt.onliner.by/2026/10/20/pochti-135-kvadratov-i-svoj-uchastok">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Стала известная самая крупная взятка в 2026 году</title>
-      <link>https://money.onliner.by/go/351289</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/20/mozhno-li-darit-shokoladku-vrachu</guid>
-      <pubDate>Tue, 20 Oct 2026 09:30:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/20/mozhno-li-darit-shokoladku-vrachu"><img alt="" src="https://content.onliner.by/news/thumbnail/f1ee4e9aeabf4d3bc4c262420623d210.jpg" /></a></p><p>Взяткой могут считать не только деньги, но и оплаченный отдых, ремонт в доме или другие подарки и услуги. При этом даже шоколадка может стать поводом для уголовного дела — все зависит от того, за что ее передали. Об этом рассказал старший прокурор управления по борьбе с коррупцией и организованной преступностью Генеральной прокуратуры Андрей Федоровичев.
-</p><p><a href="https://money.onliner.by/2026/10/20/mozhno-li-darit-shokoladku-vrachu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Обзор vivo X500: больше чем фотокамера в кармане</title>
-      <link>https://4pda.to/2026/10/20/462072/obzor_vivo_x500_bolshe_chem_fotokamera_v_karmane/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462072/obzor_vivo_x500_bolshe_chem_fotokamera_v_karmane/</guid>
-      <pubDate>Tue, 20 Oct 2026 09:30:00 +0000</pubDate>
-      <description><![CDATA[Могучее железо и топовые камеры в относительно компактном корпусе? Таких смартфонов всегда было мало, хотя спрос на них стабильно высокий. Новый vivo X500 стал крупнее предыдущего, получив более ёмкую [...]]]></description>
-    </item>
-    <item>
-      <title>По селфи пациента теперь можно предсказать выживаемость от рака</title>
-      <link>https://tech.onliner.by/go/797895</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/20/instrument-predskazyvayushhij-vyzhivaemost-pri-rake-po-selfi-pacienta</guid>
-      <pubDate>Tue, 20 Oct 2026 09:12:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/20/instrument-predskazyvayushhij-vyzhivaemost-pri-rake-po-selfi-pacienta"><img alt="" src="https://content.onliner.by/news/thumbnail/b0f995c04a1ce22f38ed79d255b6ba50.jpg" /></a></p><p><p dir="ltr">Ученые разработали инструмент на основе ИИ, который может предсказать шансы онкологического больного на выживание лишь по фотографии его лица, <a href="https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie" target="_blank">сообщает</a> The Guardian. Отмечается, что это одна из наиболее полных на сегодняшний день демонстраций того, как анализ селфи с помощью ИИ может помочь оценить состояние здоровья пациента и потенциально направлять его медицинское лечение. Система была обучена на данных, полученных из более чем 40 миллионов фотографий лиц представителей различных этнических групп и возрастов.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/20/instrument-predskazyvayushhij-vyzhivaemost-pri-rake-po-selfi-pacienta">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>IP-камера Baseus U2 Pro направляет прожектор на нарушителя и следит за ним</title>
-      <link>https://4pda.to/2026/10/20/462390/ip_kamera_baseus_u2_pro_napravlyaet_prozhektor_na_narushitelya_i_sledit_za_nim/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462390/ip_kamera_baseus_u2_pro_napravlyaet_prozhektor_na_narushitelya_i_sledit_za_nim/</guid>
-      <pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Baseus выпустила уличную камеру PrimeSentinel U2 Pro, способную отпугивать незваных гостей. Если система замечает движение, прожектор направляет луч на цель и следует за ней по всей зоне наблюдения.
-Конструкция [...]]]></description>
-    </item>
-    <item>
-      <title>Мужчина избил свою девушку кружкой, а потом сам вызвал скорую</title>
-      <link>https://people.onliner.by/go/1340125</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/20/muzhchina-izbil-svoyu-devushku-kruzhkoj-a-potom-sam-vyzval-skoruyu</guid>
-      <pubDate>Tue, 20 Oct 2026 08:57:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/20/muzhchina-izbil-svoyu-devushku-kruzhkoj-a-potom-sam-vyzval-skoruyu"><img alt="" src="https://content.onliner.by/news/thumbnail/9f15afb7b652ea1bdb8733f349cb53d1.jpg" /></a></p><p>В одно из медицинских учреждений Минска поступила женщина с множественными телесными повреждениями. Правоохранители выяснили, что травмы минчанке нанес ее 45-летний сожитель. Подробностями поделилась <a href="https://t.me/police_minsk/40858" target="_blank">милиция</a> Минска.
-</p><p><a href="https://people.onliner.by/2026/10/20/muzhchina-izbil-svoyu-devushku-kruzhkoj-a-potom-sam-vyzval-skoruyu">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>POCO представила смартфон X8s с чипом Snapdragon 7 и защитой IP68</title>
-      <link>https://4pda.to/2026/10/20/462388/poco_predstavila_smartfon_x8s_s_chipom_snapdragon_7_i_zaschitoj_ip68/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462388/poco_predstavila_smartfon_x8s_s_chipom_snapdragon_7_i_zaschitoj_ip68/</guid>
-      <pubDate>Tue, 20 Oct 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[Компания POCO открыла предзаказы на новый смартфон X8s. Модель стала самой компактной в серии, получила OLED-экран, функцию скоростной 100-ваттной зарядки, а также надёжную защиту корпуса от пыли и воды.
-POCO [...]]]></description>
-    </item>
-    <item>
-      <title>REDMI Book 16 (2027) с чипом Intel Wildcat Lake рассекречен бенчмарком</title>
-      <link>https://4pda.to/2026/10/20/462385/redmi_book_16_2027_s_chipom_intel_wildcat_lake_rassekrechen_benchmarkom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462385/redmi_book_16_2027_s_chipom_intel_wildcat_lake_rassekrechen_benchmarkom/</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Бренд REDMI ещё не анонсировал новую модель фирменной серии ноутбуков, однако та уже отметилась в базе данных Geekbench. Результаты тестирования, как водится, раскрыли ключевые аппаратные характеристики [...]]]></description>
-    </item>
-    <item>
-      <title>PlayStation 5 взломали на самой свежей прошивке. Но радоваться рано</title>
-      <link>https://4pda.to/2026/10/20/462389/playstation_5_vzlomali_na_samoj_svezhej_proshivke_no_radovatsya_rano/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/20/462389/playstation_5_vzlomali_na_samoj_svezhej_proshivke_no_radovatsya_rano/</guid>
-      <pubDate>Tue, 20 Oct 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[Пока Sony пытается залатать дыры в прошивке после выхода джейлбрейка Relapse, новая версия системного ПО также оказалась под угрозой. Похоже, обновление 14.10 также удалось взломать.&nbsp;
-Разработчик [...]]]></description>
     </item>
     <item>
       <title>CutefishOS is Back With a Vibe-Coded Desktop That Doesn't Use Qt or GTK</title>
