@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:17:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:30:26 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -56,12 +56,11 @@
       <category>Deals</category>
     </item>
     <item>
-      <title>Linux Kernel 7.3 Release is Good News For Gamers Short on VRAM</title>
-      <link>https://feed.itsfoss.com/link/24361/17500485/linux-kernel-7-3-release</link>
-      <guid isPermaLink="false">6ac768862df9a50001a23015</guid>
-      <pubDate>Mon, 19 Oct 2026 02:56:37 +0000</pubDate>
-      <description><![CDATA[linux kernel 7.3 release banner]]></description>
-      <category>News</category>
+      <title>Интернет под угрозой: в PHP обнаружили две критические уязвимости</title>
+      <link>https://4pda.to/2026/10/22/462481/internet_pod_ugrozoj_v_php_obnaruzhili_dve_kriticheskie_uyazvimosti/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/22/462481/internet_pod_ugrozoj_v_php_obnaruzhili_dve_kriticheskie_uyazvimosti/</guid>
+      <pubDate>Thu, 22 Oct 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[В языке программировании PHP, который широко используется при создании сайтов, были обнаружены критические уязвимости, позволяющие удалённо запускать команды на сервере без авторизации. Проблема потенциально [...]]]></description>
     </item>
     <item>
       <title>Обзор Samsung Galaxy Z Fold8 Ultra: а где тут «Ультра»?</title>
@@ -492,14 +491,6 @@ Mijia Bedside [...]]]></description>
       <description><![CDATA[Компания Keychron выпустила
 беспроводную механическую клавиатуру J3 SE с оригинальным цветовым оформлением в
 нежно-розовых и голубых тонах. Новинка получила настраиваемую RGB-подсветку, поддержку прошивки [...]]]></description>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 получит большой патч с новыми квестами и стрельбой по-македонски</title>
-      <link>https://4pda.to/2026/10/21/462447/cyberpunk_2077_poluchit_bolshoj_patch_s_novymi_kvestami_i_strelboj_po_makedonski/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/21/462447/cyberpunk_2077_poluchit_bolshoj_patch_s_novymi_kvestami_i_strelboj_po_makedonski/</guid>
-      <pubDate>Wed, 21 Oct 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[Сегодня CDPR официально представит подробности обновления 2.5 для Cyberpunk 2077, но из-за невнимательного блогера они утекли в сеть раньше времени.
-Вчера на Netflix состоялся релиз второго сезона [...]]]></description>
     </item>
     <item>
       <title>CutefishOS is Back With a Vibe-Coded Desktop That Doesn't Use Qt or GTK</title>
