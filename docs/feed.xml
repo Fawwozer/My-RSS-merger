@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 23 Oct 2026 16:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 21:02:41 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>These Projects are Keeping X11 Dream Alive on Linux</title>
+      <link>https://feed.itsfoss.com/link/24361/17505238/projects-keeping-x11-alive</link>
+      <guid isPermaLink="false">6ad720be0b3133000169d4b0</guid>
+      <pubDate>Fri, 23 Oct 2026 17:14:00 +0000</pubDate>
+      <description><![CDATA[projects keeping x11 alive banner]]></description>
+      <category>List 📋</category>
+    </item>
     <item>
       <title>This Newly Proposed Linux Filesystem Can Fix Corrupted Data</title>
       <link>https://feed.itsfoss.com/link/24361/17502832/beamfs-linux-filesystem-proposal</link>
@@ -80,13 +88,52 @@
       <category>Deals</category>
     </item>
     <item>
-      <title>В Лидском районе столкнулись ВАЗ и Volkswagen. Погибли два человека</title>
-      <link>https://auto.onliner.by/go/1271788</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/23/v-lidskom-rajone-stolknulis</guid>
-      <pubDate>Fri, 23 Oct 2026 16:27:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/23/v-lidskom-rajone-stolknulis"><img alt="" src="https://content.onliner.by/news/thumbnail/c6fffce745572842043f57f471155bcf.jpg" /></a></p><p>В Лидском районе на трассе М6 (Минск — Гродно) случилось ДТП, в котором погибли два человека. По предварительной информации, 75-летний водитель ВАЗ ехал в сторону Гродно. Во время поворота мужчина не убедился в безопасности маневра и не уступил дорогу встречному Volkswagen Passat, за рулем которого находился 21-летний водитель.
-</p><p><a href="https://auto.onliner.by/2026/10/23/v-lidskom-rajone-stolknulis">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
+      <title>Инсайды #3962: телевик в iPhone Duo, vivo S70 и глобальная версия vivo X500 Ultra</title>
+      <link>https://4pda.to/2026/10/23/462560/insajdy_3962_televik_v_iphone_duo_vivo_s70_i_globalnaya_versiya_vivo_x500_ultra/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/23/462560/insajdy_3962_televik_v_iphone_duo_vivo_s70_i_globalnaya_versiya_vivo_x500_ultra/</guid>
+      <pubDate>Fri, 23 Oct 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Apple ищет способ добавить телевик в будущие iPhone Duo; vivo S70 может получить телеконвертер от флагманов; vivo X500 Ultra ждёт международный релиз.
+Apple ищет способ добавить [...]]]></description>
+    </item>
+    <item>
+      <title>Apple спрятала работающий оригинальный iPod на сайте Music</title>
+      <link>https://4pda.to/2026/10/23/462573/apple_spryatala_rabotayuschij_originalnyj_ipod_na_sajte_music/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/23/462573/apple_spryatala_rabotayuschij_originalnyj_ipod_na_sajte_music/</guid>
+      <pubDate>Fri, 23 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Apple отметила 25-летие первого iPod весьма креативным способом, добавив на сайт Apple Music полноценную виртуальную копию культового плеера. Устройством можно «воспользоваться» и послушать с его помощью [...]]]></description>
+    </item>
+    <item>
+      <title>В Беларуси нашли следы животного, которое не видели здесь больше 30 лет</title>
+      <link>https://people.onliner.by/go/1341079</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/23/v-belarusi-nashli-sledy-zhivotnogo-kotoroe-ne-videli-zdes-bolshe-30-let</guid>
+      <pubDate>Fri, 23 Oct 2026 17:08:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/23/v-belarusi-nashli-sledy-zhivotnogo-kotoroe-ne-videli-zdes-bolshe-30-let"><img alt="" src="https://content.onliner.by/news/thumbnail/a180ced8ccf39641868e89244c414767.jpg" /></a></p><p><p dir="ltr">В пойменных водоемах реки Сож в Могилевской и Гомельской областях обнаружили признаки присутствия русской выхухоли — с 1990-х годов это редкое млекопитающее считалось в Беларуси исчезнувшим. Об этом <a href="https://t.me/nasbiobel/2250">сообщили</a> в Научно-практическом центре по биоресурсам НАН Беларуси.<br /></p>
+</p><p><a href="https://people.onliner.by/2026/10/23/v-belarusi-nashli-sledy-zhivotnogo-kotoroe-ne-videli-zdes-bolshe-30-let">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Банки начнут отклонять переводы из-за вредоносного ПО на смартфоне. Как это будет работать?</title>
+      <link>https://4pda.to/2026/10/23/462576/banki_nachnut_otklonyat_perevody_iz_za_vredonosnogo_po_na_smartfone_kak_eto_budet_rabotat/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/23/462576/banki_nachnut_otklonyat_perevody_iz_za_vredonosnogo_po_na_smartfone_kak_eto_budet_rabotat/</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[С 1 марта 2027 года российские банки обяжут выявлять воздействие вредоносных программ на свои приложения и отказывать в переводах с потенциально заражённых устройств. Вокруг темы возникает множество вопросов. [...]]]></description>
+    </item>
+    <item>
+      <title>Тесты OPPO Find X10 Pro Max показали, почему в смартфоны нужно ставить кремниево-углеродные АКБ</title>
+      <link>https://4pda.to/2026/10/23/462553/testy_oppo_find_x10_pro_max_pokazali_pochemu_v_smartfony_nuzhno_stavit_kremnievo_uglerodnye_akb/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/23/462553/testy_oppo_find_x10_pro_max_pokazali_pochemu_v_smartfony_nuzhno_stavit_kremnievo_uglerodnye_akb/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Автономность гаджетов постепенно выходит на новый уровень благодаря кремниево-углеродным аккумуляторам. Портал Android Authority протестировал новый флагманский OPPO Find X10 Pro Max и сравнил его с конкурентами. [...]]]></description>
+    </item>
+    <item>
+      <title>iQOO показала возможности камеры Neo 12 [ФОТО]</title>
+      <link>https://4pda.to/2026/10/23/462548/iqoo_pokazala_vozmozhnosti_kamery_neo_12_foto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/23/462548/iqoo_pokazala_vozmozhnosti_kamery_neo_12_foto/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Компания iQOO опубликовала
+первые официальные примеры фотографий, сделанных на камеру предстоящего
+смартфона Neo 12. По ним можно оценить возможности устройства при съёмке
+портретов и архитектуры, а также [...]]]></description>
     </item>
     <item>
       <title>Samsung Galaxy Tab S12 Ultra: лучшее железо, но кое-чего не хватает</title>
@@ -499,44 +546,6 @@ HE 8K с корпусом углеволокна.
       <pubDate>Fri, 23 Oct 2026 07:30:00 +0000</pubDate>
       <description><![CDATA[Аналитики Counterpoint
 Research поделились свежими данными о мировых продажах персональных компьютеров. В третьем квартале 2026 года рынок столкнулся с резким спадом, что привело к изменению баланса сил [...]]]></description>
-    </item>
-    <item>
-      <title>Sony «похоронила» свой последний плеер 4K Blu-ray</title>
-      <link>https://4pda.to/2026/10/23/462539/sony_pokhoronila_svoj_poslednij_pleer_4k_blu_ray/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462539/sony_pokhoronila_svoj_poslednij_pleer_4k_blu_ray/</guid>
-      <pubDate>Fri, 23 Oct 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Sony прекратила поставки
-UBP-X700/K — своего&nbsp;последнего проигрывателя дисков Ultra HD Blu-ray на домашнем рынке. Модель&nbsp;продержалась на рынке около 17 месяцев — и не получила преемника.
-По [...]]]></description>
-    </item>
-    <item>
-      <title>macOS 27 запустили на ноутбуке с чипом Snapdragon. Что из этого вышло?</title>
-      <link>https://4pda.to/2026/10/23/462540/macos_27_zapustili_na_noutbuke_s_chipom_snapdragon_chto_iz_etogo_vyshlo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462540/macos_27_zapustili_na_noutbuke_s_chipom_snapdragon_chto_iz_etogo_vyshlo/</guid>
-      <pubDate>Fri, 23 Oct 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Разработчик под ником Miguel C открыл исходный код Snapintosh — экспериментального проекта, с помощью которого macOS 27 можно запускать на ноутбуке со Snapdragon. Система уже загружается с полноценным [...]]]></description>
-    </item>
-    <item>
-      <title>Insta360 представила беспроводной микрофон с дисплеем и автономностью до 13 ч</title>
-      <link>https://4pda.to/2026/10/23/462535/insta360_predstavila_besprovodnoj_mikrofon_s_displeem_i_avtonomnostyu_do_13_ch/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462535/insta360_predstavila_besprovodnoj_mikrofon_s_displeem_i_avtonomnostyu_do_13_ch/</guid>
-      <pubDate>Fri, 23 Oct 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Семейство гаджетов Insta360 пополнил микрофон с незатейливым названием Mic — упрощённая версия беспроводной системы Mic Pro. Новинка сохранила цветные экраны E-Ink и дальность связи до 400 метров, а по [...]]]></description>
-    </item>
-    <item>
-      <title>Вышла спецверсия GALAX RTX 5080 с двумя разъёмами 12V-2x6 и «кусачей» ценой</title>
-      <link>https://4pda.to/2026/10/23/462536/vyshla_spetsversiya_galax_rtx_5080_s_dvumya_razyomami_12v_2x6_i_kusachej_tsenoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462536/vyshla_spetsversiya_galax_rtx_5080_s_dvumya_razyomami_12v_2x6_i_kusachej_tsenoj/</guid>
-      <pubDate>Fri, 23 Oct 2026 05:30:00 +0000</pubDate>
-      <description><![CDATA[Компания GALAX представила новую модификацию видеокарты GeForce RTX 5080. Модель HOF Extreme получила сразу два разъёмами питания 12V-2x6 — но, как оказалось, такая конфигурация нужна вовсе не для экстремального [...]]]></description>
-    </item>
-    <item>
-      <title>Acer выпустила прочный ноутбук TravelLite TL44-53M-G2 c Wi-Fi 7 и влагозащитой</title>
-      <link>https://4pda.to/2026/10/23/462507/acer_vypustila_prochnyj_noutbuk_travellite_tl44_53m_g2_c_wi_fi_7_i_vlagozaschitoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462507/acer_vypustila_prochnyj_noutbuk_travellite_tl44_53m_g2_c_wi_fi_7_i_vlagozaschitoj/</guid>
-      <pubDate>Fri, 23 Oct 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Acer представила ноутбук TravelLite TL44-53M-G2, ориентированный на бизнес-сегмент. Модель в прочном металлическом корпусе поддерживает функции защиты данных и
-удалённого управления через Intel [...]]]></description>
     </item>
     <item>
       <title>You Can Reserve This Small-Factor, De-Googled Phone for $30</title>
