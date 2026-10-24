@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:22:09 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -41,51 +41,176 @@
       <category>Terminal Tools</category>
     </item>
     <item>
-      <title>DankMaterialShell Becomes Dux Shell as Dank Linux Rebrands to Dux Labs</title>
-      <link>https://feed.itsfoss.com/link/24361/17501957/dank-linux-dux-labs-rebrand</link>
-      <guid isPermaLink="false">6ad84a8bf48358000137107b</guid>
-      <pubDate>Wed, 21 Oct 2026 09:43:46 +0000</pubDate>
-      <description><![CDATA[dms and dank linux rebrand banner]]></description>
-      <category>News</category>
+      <title>Фанаты требуют возобновить разработку Mass Effect 5. Запущена онлайн-петиция</title>
+      <link>https://4pda.to/2026/10/24/462569/fanaty_trebuyut_vozobnovit_razrabotku_mass_effect_5_zapuschena_onlajn_petitsiya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462569/fanaty_trebuyut_vozobnovit_razrabotku_mass_effect_5_zapuschena_onlajn_petitsiya/</guid>
+      <pubDate>Sat, 24 Oct 2026 09:25:00 +0000</pubDate>
+      <description><![CDATA[Фанаты Mass Effect отказались мириться с новостями об отмене игры — и запустили онлайн-петицию, в которой потребовали возобновить разработку.&nbsp;
+Едва публике стало известно об отмене проекта, как [...]]]></description>
     </item>
     <item>
-      <title>Save Upto 40% on Kubernetes Security Certifications From the Linux Foundation</title>
-      <link>https://feed.itsfoss.com/link/24361/17501903/lf-cyber-security-26</link>
-      <guid isPermaLink="false">6ad86731f48358000137114c</guid>
-      <pubDate>Wed, 21 Oct 2026 08:42:20 +0000</pubDate>
-      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/10/linux-foundation-certification-deal.webp" /></figure>
-<p>If you have been planning to get a certification, this is the week to do it. The Linux Foundation is running its Cyber Security Month promo, and you can get up to 40% off on cyber security certifications, training courses and the THRIVE-ONE e-learning subscription.</p><p>Linux Foundation is the official organization behind Linux, Kubernetes, and many other industry-facing projects. Their certifications are well respected across countries and enterprises.</p><p>The offer ends on <strong>October 23, 2026 at 23:59 UTC</strong>. That gives you just a couple of days to make up your mind.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Foctober-2026-promo%2F&amp;platform=pl">Linux Foundation Cyber Security Offer</a></div><p>The good thing is that you have one full year to take the certification exam. So, you can purchase the cert exams today to save the money, prepare in a few weeks/couple of months and then attempt the exam.</p><p>There is also a 3 day money back guarantee with some conditions. Please <a href="https://training.linuxfoundation.org/about/money-back-guarantee/">read the policy here</a>.</p><p><em>This article contains affiliate links. Please read our </em><a href="https://itsfoss.com/affiliate-policy/"><em>affiliate policy</em></a><em>.</em></p><h2 id="your-discount-codes">Your discount codes</h2><p>Here are the codes. They are specific to It's FOSS readers, so use these and not the generic ones you see on the promo page.</p>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>Discount</th>
-<th>Applies to</th>
-<th>Code</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>40% off</td>
-<td>Cybersecurity certifications, bundles and courses (<a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Foctober-2026-promo%2F&amp;platform=pl">full list on the promo page</a>)</td>
-<td><code>OCT26CYBERFOSS</code></td>
-</tr>
-<tr>
-<td>35% off</td>
-<td>All other <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Finstructor-led-training-courses%2F&amp;platform=pl">Instructor-led Training</a>, <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification-catalog%2F&amp;platform=pl">Certifications</a> and <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Ftechnology-catalog%2F&amp;platform=pl">Courses by Technology</a></td>
-<td><code>OCT26NONCYBERFOSS</code></td>
-</tr>
-<tr>
-<td>30% off</td>
-<td>THRIVE-ONE Annual (new subscriptions only)</td>
-<td><code>OCT26THRIVEFOSS</code></td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<p>So if you are eyeing CKA, LFCS or any other Linux Foundation certification that is not in the cybersecurity list, you still get 35% off with the second code.</p><p><strong>Even if the offer ends, you can always get 30% off with our special coupon code: ITSFOSS.</strong></p><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">Apply the code on the checkout page. The discount is for new, individual purchases only and cannot be combined with other offers.</div></div><h2 id="kubernetes-security-certifications">Kubernetes Security Certifications</h2><p>The biggest savings this time are on the Kubernetes security certifications. Here are the ones worth looking at.</p><h3 id="kcsa-cks-bundle-645-387">KCSA + CKS bundle: <s>$645</s> $387</h3><figure class="kg-card kg-image-card"><a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle%2F&amp;platform=pl"><img alt="KCSA + CKS exam bundle page on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-kcsa-cks-bundle-october-2026.png" width="800" /></a></figure><p>This <a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle%2F&amp;platform=pl">bundle groups two certification exams together</a>: Kubernetes and Cloud Native Security Associate (KCSA) and Certified Kubernetes Security Specialist (CKS). <strong>You save $258 over the regular bundle price</strong>.</p><p>KCSA is the entry-level, multiple choice exam. CKS is the hands-on, professional one. Taking them in this order makes sense, as KCSA builds the foundation that CKS expects from you.</p><p><strong>Keep in mind that you must have passed the Certified Kubernetes Administrator (CKA) exam before you can take CKS</strong>. If you don't have CKA yet, you can grab it with the 35% code <code>OCT26NONCYBERFOSS</code>.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa-certified-kubernetes-security-specialist-cks-exam-bundle%2F&amp;platform=pl">Get KCSA + CKS Bundle</a></div><p>You can also choose to get either of the certification exams instead of the bundle. But if you are getting both, the bundle saves you additional money.</p><h3 id="certified-kubernetes-security-specialist-cks-445-267">Certified Kubernetes Security Specialist (CKS): <s>$445</s> $267</h3><figure class="kg-card kg-image-card"><img alt="Certified Kubernetes Security Specialist (CKS) offer on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-cks-october-2026.png" width="800" /></figure><p><a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-kubernetes-security-specialist%2F&amp;platform=pl">CKS</a> is a 2-hour, performance-based exam. You solve real tasks on a live Kubernetes cluster from the command line, so there is no guessing your way through multiple choice options.</p><p>You also get two sessions on the Killer.sh exam simulator to practice in an environment similar to the real exam. The certification is valid for 2 years. <strong>As mentioned above, an active CKA is a prerequisite.</strong></p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-kubernetes-security-specialist%2F&amp;platform=pl">Get CKS</a></div><h3 id="kubernetes-and-cloud-native-security-associate-kcsa-250-150">Kubernetes and Cloud Native Security Associate (KCSA): <s>$250</s> $150</h3><figure class="kg-card kg-image-card"><img alt="Kubernetes and Cloud Native Security Associate (KCSA) offer on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-kcsa-october-2026.png" width="800" /></figure><p>KCSA is a pre-professional certification for people starting out in cloud native security. It is a 90-minute, online proctored, multiple choice exam with no prerequisites.</p><p>At $150, this is the most affordable way to get a Linux Foundation security certification on your resume this month. You save $100.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa%2F&amp;platform=pl">Get KCSA</a></div><h3 id="thrive-one-annual-e-learning-360-252">THRIVE-ONE Annual (e-learning): <s>$360</s> $252</h3><figure class="kg-card kg-image-card"><img alt="THRIVE-ONE subscription plans on the Linux Foundation" class="kg-image" height="450" src="https://itsfoss.com/content/images/2026/10/lf-thrive-one-october-2026.png" width="800" /></figure><p><a href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fsubscriptions%2F&amp;platform=pl">THRIVE-ONE</a> is the Linux Foundation's subscription. The annual plan gives you unlimited access to the entire e-learning catalog for a year, plus all SkillCred exams.</p><p>You also get a 40% coupon for any certification or course and 50% off guaranteed-to-run instructor-led courses. <strong>Note that certification exams themselves are not included in the subscription.</strong></p><p>This works well if you want to learn several technologies over the year instead of focusing on one exam. The 30% discount applies to new subscriptions only.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fsubscriptions%2F&amp;platform=pl">Get THRIVE-ONE Annual</a></div><h2 id="why-get-certified-at-all">Why get certified at all?</h2><p>I get asked this a lot. Are Linux certifications worth it?</p><p>A certification is a way to prove to a recruiter that you have the skill. Anyone can list "Kubernetes" or "Linux administration" on a resume. A certification from an industry-recognized body like the Linux Foundation tells the hiring manager that someone has actually tested you on it.</p><p>This matters even more for performance-based exams like CKA, CKS and LFCS. You don't pick answers from a list. You fix real problems on a live system within a time limit, which is pretty much what the job looks like.</p><p>Certifications are even more helpful if you are a fresh graduate, or if you are switching to a new domain like cloud native or security. </p><p>And it is not just my opinion. In the <a href="https://www.linuxfoundation.org/hubfs/Research%20Reports/LFTraining_Tech_Talent_Report_Global_2026_webversion_052626.pdf">Linux Foundation&rsquo;s 2026 State of Tech Talent report</a>, 76% of organizations said they value certifications when assessing candidates for a technical role. That is slightly ahead of college degrees at 74%, and this is the third year in a row that certifications have ranked above degrees.</p><h2 id="you-dont-have-to-take-the-exam-this-week">You don't have to take the exam this week</h2><p>This is the part a lot of people miss. You only need to buy the certification before October 23. You don't need to take the exam right away.</p><p>Linux Foundation certifications come with 12 months of exam eligibility. You can schedule and take the exam any time within a year of purchase. So you can lock in the discounted price now and prepare at your own pace.</p><p>Most certifications also include one free retake. If your first attempt does not go well, you get a second chance without paying again. That's a big relief, in my opinion.</p><h2 id="missed-the-deal-use-our-evergreen-code">Missed the deal? Use our evergreen code</h2><p>If you are reading this after October 23, don't worry. It's FOSS readers have a code that works any time, even when no promo is running.</p><p>&#128161; <strong>Use the code ITSFOSS to get 30% off on Linux Foundation certifications, e-learning courses and bundles. Valid all year round.</strong></p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.awin1.com/cread.php?awinmid=85919&amp;awinaffid=429005&amp;ued=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification-catalog%2F&amp;platform=pl">Browse Linux Foundation Certifications</a></div><p>Let me know in the comments if you encounter any inaccuracies or if you have questions.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17501903.gif" width="1" />]]></description>
-      <category>Deals</category>
+      <title>17-летний житель Гродно создал ПО, из-за которого белорусы потеряли 150 тысяч рублей</title>
+      <link>https://tech.onliner.by/go/798610</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/24/17-letnij-zhitel-grodno-sozdal-po-iz-za-kotorogo-belorusy-poteryali-150-tysyach-rublej</guid>
+      <pubDate>Sat, 24 Oct 2026 09:18:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/24/17-letnij-zhitel-grodno-sozdal-po-iz-za-kotorogo-belorusy-poteryali-150-tysyach-rublej"><img alt="" src="https://content.onliner.by/news/thumbnail/334db95188989b316fc39c1ac6c8e970.jpg" /></a></p><p>17-летний житель Гродно, разработавший вредоносное программное обеспечение, был задержан сотрудниками управления по противодействию киберпреступности Брестчины. Как выяснили оперативники, по заказу знакомого молодой человек создал троян Mamont для работы с Android. Программу белорус распространял через Telegram в виде файлов с названиями «ты на фото» и «видео ДТП», которые провоцировали пользователей открыть вложение.</p><p><a href="https://tech.onliner.by/2026/10/24/17-letnij-zhitel-grodno-sozdal-po-iz-za-kotorogo-belorusy-poteryali-150-tysyach-rublej">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Складной iPhone Duo не выдержал испытаний на падение и сгибание</title>
+      <link>https://4pda.to/2026/10/24/462578/skladnoj_iphone_duo_ne_vyderzhal_ispytanij_na_padenie_i_sgibanie/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462578/skladnoj_iphone_duo_ne_vyderzhal_ispytanij_na_padenie_i_sgibanie/</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[В сети появились испытания на прочность первого складного смартфона Apple. Блогеры показали, как iPhone Duo справляется с падениями, контактом с острыми предметами и песком, сгибанием и другими нагрузками.
+[youtube=b9f7ZOnE8ig:640:360:::0]
+Сэм [...]]]></description>
+    </item>
+    <item>
+      <title>В Кобрине горел жилой дом. Двух человек спасли, один погиб</title>
+      <link>https://realt.onliner.by/go/1138762</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/24/v-kobrine-gorel-zhiloj-dom-dvux-chelovek-spasli-odin-pogib</guid>
+      <pubDate>Sat, 24 Oct 2026 08:12:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/24/v-kobrine-gorel-zhiloj-dom-dvux-chelovek-spasli-odin-pogib"><img alt="" src="https://content.onliner.by/news/thumbnail/1c6bec5de58122c44fe79b213c3aa293.jpg" /></a></p><p>На линию 112 поступило сообщение о загорании жилого дома на улице Тухачевского в Кобрине. Когда сотрудники МЧС прибыли на место происшествия, то застали там горящую кровлю. Пламя также распространилось внутри здания. </p><p><a href="https://realt.onliner.by/2026/10/24/v-kobrine-gorel-zhiloj-dom-dvux-chelovek-spasli-odin-pogib">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Бейсбол и герои. В сети появился свежий тизер фильма «Мстители: Доктор Дум» (видео)</title>
+      <link>https://tech.onliner.by/go/798597</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/24/bejsbol-i-dum-v-seti-poyavilsya-svezhij-tizer-filma-mstiteli-sudnyj-den</guid>
+      <pubDate>Sat, 24 Oct 2026 07:43:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/24/bejsbol-i-dum-v-seti-poyavilsya-svezhij-tizer-filma-mstiteli-sudnyj-den"><img alt="" src="https://content.onliner.by/news/thumbnail/1a2bd116cd0cdf45c33a6f67c30649c7.jpg" /></a></p><p>В новом тизере супергеройского экшена показали участников Фантастической четверки, задействованных на бейсбольном матче. Сам ролик был сделан Marvel совместно с MLB, или же Major League Baseball, — самой известной бейсбольной лигой в мире. Действие здесь разворачивается на Земле-828, на которой происходят события фильма «Фантастическая четверка: Первые шаги».</p><p><a href="https://tech.onliner.by/2026/10/24/bejsbol-i-dum-v-seti-poyavilsya-svezhij-tizer-filma-mstiteli-sudnyj-den">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Новый Ford Mustang Mach-E получил увеличенный запас хода</title>
+      <link>https://4pda.to/2026/10/24/462531/novyj_ford_mustang_mach_e_poluchil_uvelichennyj_zapas_khoda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462531/novyj_ford_mustang_mach_e_poluchil_uvelichennyj_zapas_khoda/</guid>
+      <pubDate>Sat, 24 Oct 2026 07:30:00 +0000</pubDate>
+      <description><![CDATA[Ford открыла приём заказов на обновлённый электрический кроссовер Mustang Mach-E 2027 модельного года. Теперь даже базовая версия оснащается более ёмким аккумулятором с увеличенным запасом хода, а в линейке [...]]]></description>
+    </item>
+    <item>
+      <title>Стиви Уандер пытается выселить экс-невесту, которая живет в его доме 38 лет</title>
+      <link>https://realt.onliner.by/go/1138752</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/24/stivi-uander-pytaetsya-vyselit-eks-nevestu-kotoraya-zhivet-v-ego-dome-38-let</guid>
+      <pubDate>Sat, 24 Oct 2026 07:10:47 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/24/stivi-uander-pytaetsya-vyselit-eks-nevestu-kotoraya-zhivet-v-ego-dome-38-let"><img alt="" src="https://content.onliner.by/news/thumbnail/c3f6bca6bf057b1334a1ae7a4a65f8e2.jpg" /></a></p><p>Стиви Уандер — обладатель 25 премий «Грэмми», а также автор таких хитов, как «Superstition», «I Just Called to Say I Love You» и «Happy Birthday». Сейчас артист подал в суд на Кармен Эфферсон, свою бывшую невесту: он добивается выселения женщины из принадлежавшего ему дома в Лос-Анджелесе, где она проживает бесплатно почти 40 лет.</p><p><a href="https://realt.onliner.by/2026/10/24/stivi-uander-pytaetsya-vyselit-eks-nevestu-kotoraya-zhivet-v-ego-dome-38-let">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Главное за неделю: обзор Samsung Galaxy Z Fold8 Ultra, взломали PlayStation 5, вышла HyperOS 4</title>
+      <link>https://4pda.to/2026/10/24/462574/glavnoe_za_nedelyu_obzor_samsung_galaxy_z_fold8_ultra_vzlomali_playstation_5_vyshla_hyperos_4/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462574/glavnoe_za_nedelyu_obzor_samsung_galaxy_z_fold8_ultra_vzlomali_playstation_5_vyshla_hyperos_4/</guid>
+      <pubDate>Sat, 24 Oct 2026 06:30:00 +0000</pubDate>
+      <description><![CDATA[Новостей о гаджетах и технологиях за последние семь дней накопилось немало, но мы выбрали самые важные. Это и обзор нового складного смартфона Samsung Galaxy Z Fold8 Ultra, и взлом игровой консоли PlayStation [...]]]></description>
+    </item>
+    <item>
+      <title>Новый робот Unitree H2-X показал навыки кунг-фу [ВИДЕО]</title>
+      <link>https://4pda.to/2026/10/24/462476/novyj_robot_unitree_h2_x_pokazal_navyki_kung_fu_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462476/novyj_robot_unitree_h2_x_pokazal_navyki_kung_fu_video/</guid>
+      <pubDate>Sat, 24 Oct 2026 06:15:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания Unitree показала нового человекоподобного робота H2-X. В демонстрационном ролике он выполняет сложные приёмы кунг-фу, прыгает и удерживает сложные позы.
+Разработчики называют модель [...]]]></description>
+    </item>
+    <item>
+      <title>RAID Calculator</title>
+      <link>https://feed.itsfoss.com/link/24361/17505795/raid-calculator</link>
+      <guid isPermaLink="false">6a46346146ba4400013fd338</guid>
+      <pubDate>Sat, 24 Oct 2026 06:13:58 +0000</pubDate>
+      <description><![CDATA[RAID Calculator]]></description>
+      <category>Tools</category>
+    </item>
+    <item>
+      <title>Дело Dark Messiah живёт — Fatekeeper разошлась тиражом в полмиллиона копий</title>
+      <link>https://4pda.to/2026/10/24/462572/delo_dark_messiah_zhivyot_fatekeeper_razoshlas_tirazhom_v_polmilliona_kopij/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462572/delo_dark_messiah_zhivyot_fatekeeper_razoshlas_tirazhom_v_polmilliona_kopij/</guid>
+      <pubDate>Sat, 24 Oct 2026 06:05:00 +0000</pubDate>
+      <description><![CDATA[Пока крупные издатели жалуются на растущие расходы, небольшие команды продолжают выпускать успешные игры. Очередной пример — фэнтезийная RPG Fatekeeper, которой для хороших продаж не понадобились ни сотни [...]]]></description>
+    </item>
+    <item>
+      <title>BYD выпустила новый Seagull с зарядкой за 5 минут и ценой ниже $10 000</title>
+      <link>https://4pda.to/2026/10/24/462475/byd_vypustila_novyj_seagull_s_zaryadkoj_za_5_minut_i_tsenoj_nizhe_10_000/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462475/byd_vypustila_novyj_seagull_s_zaryadkoj_za_5_minut_i_tsenoj_nizhe_10_000/</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[BYD начала продавать в Китае электрический хетчбэк Seagull второго поколения. В сравнении с предшественником модель стала просторнее, получила более мощный двигатель и новую батарею с поддержкой сверхбыстрой [...]]]></description>
+    </item>
+    <item>
+      <title>Плата за дружбу. Что такое экономика одиночества и почему в одном Китае она приносит миллиарды</title>
+      <link>https://money.onliner.by/go/351948</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/24/solo-economy</guid>
+      <pubDate>Sat, 24 Oct 2026 05:00:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/24/solo-economy"><img alt="" src="https://content.onliner.by/news/thumbnail/6b0b915e5a44f37737d5f2e328ac55d2.jpg" /></a></p><p>В Токио, Сеуле или Пекине легко пообедать, спеть в караоке и сходить в кино, ни разу ни с кем не заговорив, ведь современные мегаполисы Восточной Азии уже позволяют человеку существовать полностью автономно. Одиночество там давно вышло за рамки личных историй и превратилось в устойчивый социальный ландшафт. В Японии и Южной Корее одинокие граждане составляют уже более трети от общего числа домохозяйств, а в Китае армия сознательно выбравших уединение людей превысила 125 млн человек. По некоторым оценкам, ежегодные траты таких потребителей перевалили за $1 трлн. На этом фоне чиновники окончательно потеряли покой. В 2021 году японский премьер Ёсихидэ Суга даже учредил в правительстве должность министра по делам одиночества, отдав портфель чиновнику, параллельно отвечавшему за борьбу с падением рождаемости. Когда у меланхолии появляется куратор в министерском ранге, называть явление частным делом становится поздно. Впрочем, у массовой изоляции быстро нашлись и бенефициары. Корпорации вовремя разглядели в происходящем бездонный рынок, и эксперты теперь с тревогой наблюдают за его ростом. Кто умудряется зарабатывать на чужом затворничестве и какую цену за этот комфорт платят сами одиночки?</p><p><a href="https://money.onliner.by/2026/10/24/solo-economy">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>«Так я навсегда ушел от современных машин к старым». Айтишник на 54-летнем Cadillac Deville</title>
+      <link>https://auto.onliner.by/go/1271835</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/24/ajtishnik-na-54-letnem-cadillac-deville</guid>
+      <pubDate>Sat, 24 Oct 2026 05:00:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/24/ajtishnik-na-54-letnem-cadillac-deville"><img alt="" src="https://content.onliner.by/news/thumbnail/bdd795927514bbad3a2ce05218a60229.jpg" /></a></p><p>Минчанин Петр — айтишник, и у него целый ретроавтопарк. И хотя он мог бы спокойно купить что-то новое и дорогое из салона, мужчина предпочитает вкладываться в старое, но интересное. Отдельная его любовь — Cadillac. В коллекции Петра есть даже столетний экземпляр, однако сегодня поговорим о более «повседневном» варианте — модели Deville 1972 года выпуска. Даже если вы совсем не жалуете ретро, размер багажника и некоторые функции вас точно удивят.</p><p><a href="https://auto.onliner.by/2026/10/24/ajtishnik-na-54-letnem-cadillac-deville">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«В Беларуси есть деньги, но людям все равно чего-то не хватает». Ланкиец о «странных» нас</title>
+      <link>https://people.onliner.by/go/1338736</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/24/lankiec-v-belarusi</guid>
+      <pubDate>Sat, 24 Oct 2026 05:00:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/24/lankiec-v-belarusi"><img alt="" src="https://content.onliner.by/news/thumbnail/df71e04b889f8dd4e7dac219cbaae31c.jpg" /></a></p><p>Что мы знаем о Шри-Ланке — красивейшем острове, который прежде называли Цейлоном? Бывшая британская колония. Страна, экономика которой основана на туризме и драгоценных камнях: сапфирах с рубинами. Картинки, мелькающие в голове белоруса, наверняка подбросят плантации чая, слонов и пляжи с пальмами. Когда шеф-повар Валаваге Сумуду Приянта решил переехать в Минск из солнечного Коломбо, он знал о Беларуси еще меньше. Что из этого вышло? Читайте в новом выпуске совместного с <a href="https://pm.by/ru/pages/bonus-rule-n1w51786363773/&amp;t_group=pr&amp;utm_source=pr_onliner_by&amp;utm_campaign=ba_newbonus_1510&amp;utm_term=general_registr_freebetsuperfinal/" target="_blank">Betera</a> спецпроекта <a href="https://people.onliner.by/tag/vot-eto-vas-zaneslo-sp" target="_blank">«Вот это вас занесло!»</a>.</p><p><a href="https://people.onliner.by/2026/10/24/lankiec-v-belarusi">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Мой балкон». Не пожалел денег и сделал из лоджии оранжерею и уютный кабинет</title>
+      <link>https://realt.onliner.by/go/1138663</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/24/moj-balkon-4</guid>
+      <pubDate>Sat, 24 Oct 2026 05:00:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/24/moj-balkon-4"><img alt="" src="https://content.onliner.by/news/thumbnail/b0cce8893036ca30e535cac4614065a7.jpg" /></a></p><p>Конкурс «Мой балкон» не сбавляет обороты. Вместе с партнером — торговым центром <a href="https://lenin-grad.by/sales" target="_blank">«Ленинград»</a> — мы собираем истории о том, как люди превращают обычные застекленные лоджии и балконы в уютные пространства для жизни и работы. В этом выпуске наш читатель Александр рассказывает, как обустроил стильный домашний офис и оранжерею на лоджии со сложной изогнутой геометрией. Смотрим, что получилось. А если вы тоже хотите поучаствовать в конкурсе, присылайте свои истории с фото на почту <a href="mailto:daa@onliner.by">daa@onliner.by</a>. Все условия читайте <a href="https://realt.onliner.by/2026/09/28/moj-balkon/" target="_blank">здесь</a>.</p><p><a href="https://realt.onliner.by/2026/10/24/moj-balkon-4">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Инсайдеры: новая Gears of War стоила свыше $500 млн — и вряд ли окупится</title>
+      <link>https://4pda.to/2026/10/24/462571/insajdery_novaya_gears_of_war_stoila_svyshe_500_mln_i_vryad_li_okupitsya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462571/insajdery_novaya_gears_of_war_stoila_svyshe_500_mln_i_vryad_li_okupitsya/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[Microsoft, похоже, потратила целое состояние на возвращение Маркуса Феникса. Новая Gears of War получила отличные отзывы критиков, но с продажами дела обстоят куда хуже. Огромный бюджет шутера может обернуться [...]]]></description>
+    </item>
+    <item>
+      <title>Робота для помощи по дому Voxel можно купить за $20 000</title>
+      <link>https://4pda.to/2026/10/24/462463/robota_dlya_pomoschi_po_domu_voxel_mozhno_kupit_za_20_000/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462463/robota_dlya_pomoschi_po_domu_voxel_mozhno_kupit_za_20_000/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:15:00 +0000</pubDate>
+      <description><![CDATA[Нью-йоркская компания Tuesday Labs открыла бронирование домашнего робота Voxel Series-1. Он может полноценно использоваться для выполнения повседневных&nbsp;задач вроде уборки разбросанных вещей или поиска [...]]]></description>
+    </item>
+    <item>
+      <title>В Африке обнаружили древний ядерный реактор — ему 2 миллиарда лет. Как это возможно?</title>
+      <link>https://tech.onliner.by/go/595615</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/24/drevnij-yadernyj-reaktor</guid>
+      <pubDate>Sat, 24 Oct 2026 04:00:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/24/drevnij-yadernyj-reaktor"><img alt="" src="https://content.onliner.by/news/thumbnail/f64c2c62535cde12ecd85c6f65b01de4.jpeg" /></a></p><p>Свой первый ядерный реактор люди соорудили совсем недавно — «Чикагская поленница — 1» была построена в 1942 году в Чикагском университете с участием Энрико Ферми (не путайте с Пьером Ферма, который придумал одну «простую» теорему). Целью было продемонстрировать возможность управлять самоподдерживающейся ядерной реакцией, так как мощность на выходе получалась мизерной. Тогда, вероятно, никто не мог предположить, что человек со своим примитивным атомным реактором на самом деле не был первым.
+</p><p><a href="https://tech.onliner.by/2026/10/24/drevnij-yadernyj-reaktor">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Почему раньше в Минске и Гомеле время отличалось на 14 минут</title>
+      <link>https://people.onliner.by/go/919224</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/24/belorusskoe-vremya</guid>
+      <pubDate>Sat, 24 Oct 2026 04:00:13 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/24/belorusskoe-vremya"><img alt="" src="https://content.onliner.by/news/thumbnail/a2ff79d7cb18c2e620e7f4610ccd38f5.jpg" /></a></p><p>В ночь на воскресенье жители стран Евросоюза переведут часы на час назад и перейдут на зимнее время. В Беларуси от этой практики отказались в 2011 году, но история наших отношений с временем куда интереснее. Когда-то каждый город жил по Солнцу, поэтому в Минске и Гомеле часы расходились на 14 минут. Потом появились часовые пояса, «декретное» время и ежегодные путешествия стрелок туда-сюда. Вспоминаем, как все это было и почему Беларусь в итоге перестала переводить часы.</p><p><a href="https://people.onliner.by/2026/10/24/belorusskoe-vremya">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Как Америка споткнулась о собственное богатство — 97 лет назад началась Великая депрессия</title>
+      <link>https://money.onliner.by/go/111400</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/24/kak-fondovyj-rynok-obrushil-realnuyu-ekonomiku</guid>
+      <pubDate>Sat, 24 Oct 2026 04:00:05 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/24/kak-fondovyj-rynok-obrushil-realnuyu-ekonomiku"><img alt="" src="https://content.onliner.by/news/thumbnail/abc7fb9df8ab2cb2ff9f0c4e27d96a14.jpeg" /></a></p><p>Ровно 97 лет назад, 24 октября 1929 года, началась Великая депрессия — крупнейший экономический кризис в истории США. Этот день вошел в историю как «Черный четверг», когда фондовый рынок рухнул, запустив цепную реакцию, которая охватила весь мир. О самой Депрессии слышали, кажется, все, но ее причины до сих пор вызывают споры среди экономистов. По сути, это спор о природе капитализма и механизмах рыночной экономики. Тем не менее многие факты, закономерности и даже цифры давно известны, задокументированы и подтверждены. В одной статье невозможно охватить весь масштаб событий, поэтому мы сосредоточимся на самом труднопонимаемом для постсоветского читателя аспекте — как фондовый рынок, казалось бы, далекий от «реальной экономики», стал спусковым крючком глобального кризиса.
+</p><p><a href="https://money.onliner.by/2026/10/24/kak-fondovyj-rynok-obrushil-realnuyu-ekonomiku">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Электрический BMW iX7 заметили на гоночной трассе</title>
+      <link>https://4pda.to/2026/10/24/462467/elektricheskij_bmw_ix7_zametili_na_gonochnoj_trasse/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/24/462467/elektricheskij_bmw_ix7_zametili_na_gonochnoj_trasse/</guid>
+      <pubDate>Sat, 24 Oct 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[BMW провела испытания электрического внедорожника iX7. Автомобиль во время тестов заметили на трассе Нюрбургринг в Германии. Он должен стать первой полностью электрической версией X7 и крупнейшим электромобилем [...]]]></description>
     </item>
     <item>
       <title>Инсайды #3962: телевик в iPhone Duo, vivo S70 и глобальная версия vivo X500 Ultra</title>
@@ -168,7 +293,7 @@ Apple ищет способ добавить [...]]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Из России пытались ввезти жидкости для электронных сигарет на 1 миллион белорусских рублей</title>
+      <title>В Беларусь чуть не попали нелегальные жидкости для электронных сигарет на 1 миллион рублей</title>
       <link>https://money.onliner.by/go/352095</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/10/23/iz-rossii-pytalis-vvezti-zhidkosti-dlya-elektronnyx-sigaret-na-1-million-belorusskix-rublej</guid>
       <pubDate>Fri, 23 Oct 2026 14:47:07 +0000</pubDate>
@@ -311,38 +436,12 @@ Apple ищет способ добавить [...]]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>Покупка билетов стала проще, теперь можно обойтись без карты. Это как?</title>
-      <link>https://auto.onliner.by/go/1271750</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/23/pokupka-biletov-stala-proshhe-teper-mozhno-obojtis-bez-karty-eto-kak</guid>
-      <pubDate>Fri, 23 Oct 2026 12:18:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/23/pokupka-biletov-stala-proshhe-teper-mozhno-obojtis-bez-karty-eto-kak"><img alt="" src="https://content.onliner.by/news/thumbnail/d0e72b1e743725fd0428cc91f6d5fed4.jpg" /></a></p><p>Оплатить билеты на автобус можно двумя способами: наличными при посадке и онлайн. Тем пассажирам, кто привык оплачивать билеты в интернете, больше не нужно бежать за картой. На сервисе «Атласбас» стала доступна оплата через E-POS от ЕРИП. Рассказываем, как это работает. </p><p><a href="https://auto.onliner.by/2026/10/23/pokupka-biletov-stala-proshhe-teper-mozhno-obojtis-bez-karty-eto-kak">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Из Borderlands 4 убрали защиту Denuvo. Игру тут же взломали, а fps взлетел</title>
       <link>https://4pda.to/2026/10/23/462570/iz_borderlands_4_ubrali_zaschitu_denuvo_igru_tut_zhe_vzlomali_a_fps_vzletel/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/23/462570/iz_borderlands_4_ubrali_zaschitu_denuvo_igru_tut_zhe_vzlomali_a_fps_vzletel/</guid>
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
       <description><![CDATA[Спустя год после релиза Borderlands 4 разработчики втихую убрали из шутера защиту Denuvo — об этом официально не объявили в патчноуте, но пираты уже обо всём позаботились.
 После обновления 22 октября [...]]]></description>
-    </item>
-    <item>
-      <title>Появились поддельные сайты с подозрительно дешевыми айфонами</title>
-      <link>https://tech.onliner.by/go/798453</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/23/poyavilis-poddelnye-sajty-s-podozritelno-deshevymi-ajfonami</guid>
-      <pubDate>Fri, 23 Oct 2026 11:52:46 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/23/poyavilis-poddelnye-sajty-s-podozritelno-deshevymi-ajfonami"><img alt="" src="https://content.onliner.by/news/thumbnail/2d5298b5339d77d935cc6e0a84fd7499.jpg" /></a></p><p><p dir="ltr">Сегодня, 23 октября, <a href="https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/" target="_blank">начались</a> официальные продажи складного iPhone Duo, и в интернете сразу возникли мошеннические сайты, где предлагают приобрести новинку с приятной скидкой. Например, на одном из таких ресурсов устройство обещают продать на 25% дешевле обычной цены.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/23/poyavilis-poddelnye-sajty-s-podozritelno-deshevymi-ajfonami">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В Боровлянах продается «особняк Гэтсби». Дорого</title>
-      <link>https://realt.onliner.by/go/1138692</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/23/v-borovlyanax-osobnyak-getsbi</guid>
-      <pubDate>Fri, 23 Oct 2026 11:43:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/23/v-borovlyanax-osobnyak-getsbi"><img alt="" src="https://content.onliner.by/news/thumbnail/764e2bfdec426560663e780d8f61dcc4.jpg" /></a></p><p>Пригород Минска наполнен по-настоящему уникальными объектами. О существовании большинства из них мы даже не догадываемся: люди возводят особняки и не планируют с ними расставаться. Но иногда впечатляющие объекты попадают на рынок. Так произошло и с коттеджем, который в 2024 году был построен на улице Озерной в Боровлянах.
-</p><p><a href="https://realt.onliner.by/2026/10/23/v-borovlyanax-osobnyak-getsbi">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>MSI выпустила двухбашенный кулер MPG COREFROZR AP15 со встроенным дисплеем</title>
@@ -352,200 +451,6 @@ Apple ищет способ добавить [...]]]></description>
       <description><![CDATA[Компания MSI представила
 процессорный кулер MPG COREFROZR AP15 с двухбашенной конструкцией и встроенным
 цифровым дисплеем. Помимо контроля температуры компонентов, новинка имеет адресную подсветку и конструктивные [...]]]></description>
-    </item>
-    <item>
-      <title>Генпрокуратура попросила проверить клип Егора Крида из-за лонгслива с героем «Иди и смотри»</title>
-      <link>https://people.onliner.by/go/1340935</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/23/genprokuratura-poprosila-proverit-klip-egora-krida</guid>
-      <pubDate>Fri, 23 Oct 2026 11:26:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/23/genprokuratura-poprosila-proverit-klip-egora-krida"><img alt="" src="https://content.onliner.by/news/thumbnail/f0794caaba10b88de3bb28e110b7c13e.jpg" /></a></p><p><p dir="ltr">Генеральная прокуратура Беларуси <a href="https://t.me/prokuraturabelarus/14886" target="_blank">предложила</a> Следственному комитету проверить клип российского певца Егора Крида на наличие признаков разжигания социальной вражды или розни, реабилитации нацизма, отрицания геноцида белорусского народа и других преступлений. Поводом стала одежда с измененным изображением главного героя военной драмы «Иди и смотри».<br /></p>
-</p><p><a href="https://people.onliner.by/2026/10/23/genprokuratura-poprosila-proverit-klip-egora-krida">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Минчанин заплатил 150 рублей, но шантажисты все равно разослали его пикантные фото родственникам</title>
-      <link>https://money.onliner.by/go/352034</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/23/minchanin-zaplatil-150-rublej-no-shantazhisty-vse-ravno-razoslali-ego-pikantnye-foto-rodstvennikam</guid>
-      <pubDate>Fri, 23 Oct 2026 11:25:31 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/23/minchanin-zaplatil-150-rublej-no-shantazhisty-vse-ravno-razoslali-ego-pikantnye-foto-rodstvennikam"><img alt="" src="https://content.onliner.by/news/thumbnail/63595c65caca7f8833c3b015240c6479.jpg" /></a></p><p>Молодой минчанин надеялся на романтику, а стал жертвой вымогательства. Он заплатил шантажистам, а те все равно распространили его личные фотографии.
-</p><p><a href="https://money.onliner.by/2026/10/23/minchanin-zaplatil-150-rublej-no-shantazhisty-vse-ravno-razoslali-ego-pikantnye-foto-rodstvennikam">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>POCO X8 добрался до России: 8340 мАч, усиленная защита и съёмка под водой</title>
-      <link>https://4pda.to/2026/10/23/462551/poco_x8_dobralsya_do_rossii_8340_mach_usilennaya_zaschita_i_syomka_pod_vodoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462551/poco_x8_dobralsya_do_rossii_8340_mach_usilennaya_zaschita_i_syomka_pod_vodoj/</guid>
-      <pubDate>Fri, 23 Oct 2026 11:00:57 +0000</pubDate>
-      <description><![CDATA[В России стартовали продажи POCO X8. Одной из главных фишек смартфона стал режим подводной съёмки — для POCO это первая модель с такой возможностью. Заодно новинка может похвастаться&nbsp;серьёзным запасом [...]]]></description>
-    </item>
-    <item>
-      <title>The Legend of Zelda: Breath of the Wild портировали на ПК</title>
-      <link>https://4pda.to/2026/10/23/462561/the_legend_of_zelda_breath_of_the_wild_portirovali_na_pk/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462561/the_legend_of_zelda_breath_of_the_wild_portirovali_na_pk/</guid>
-      <pubDate>Fri, 23 Oct 2026 10:50:00 +0000</pubDate>
-      <description><![CDATA[Фанатские порты продолжают наводнять интернет — теперь энтузиасты добрались до The Legend of Zelda: Breath of the Wild. Раньше игра была доступна на ПК через эмулятор, но теперь запустится и сама по себе.
-Проект [...]]]></description>
-    </item>
-    <item>
-      <title>Ждем третью часть? Сотрудник Valve случайно проговорился о новой Half-Life</title>
-      <link>https://tech.onliner.by/go/798442</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/23/sotrudnik-valve-sluchajno-progovorilsya-o-novoj-half-life</guid>
-      <pubDate>Fri, 23 Oct 2026 10:44:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/23/sotrudnik-valve-sluchajno-progovorilsya-o-novoj-half-life"><img alt="" src="https://content.onliner.by/news/thumbnail/2cf5b7faadb421982df69e0cc4f317dc.jpg" /></a></p><p><p dir="ltr">На выступлении во время конференции, посвященной игровой музыке и звуковому дизайну, композитор Valve Майк Мораски между делом <a href="https://www.polygon.com/valve-half-life-3-hlx/" target="_blank">упомянул</a> о работе над HLX, что, как предполагают многие геймеры, является кодовым названием Half-Life 3.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/23/sotrudnik-valve-sluchajno-progovorilsya-o-novoj-half-life">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Инсайд: Honor 700 Pro получит огромную батарею и второй дисплей</title>
-      <link>https://4pda.to/2026/10/23/462544/insajd_honor_700_pro_poluchit_ogromnuyu_batareyu_i_vtoroj_displej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462544/insajd_honor_700_pro_poluchit_ogromnuyu_batareyu_i_vtoroj_displej/</guid>
-      <pubDate>Fri, 23 Oct 2026 10:40:00 +0000</pubDate>
-      <description><![CDATA[В сети появились новые подробности о готовящемуся к выпуску смартфоне Honor 700 Pro. Судя по инсайду, будущая новинка получит второй экран на задней панели, а заодно заметно «прокачается» по сравнению [...]]]></description>
-    </item>
-    <item>
-      <title>Сотрудник Valve случайно проговорился о Half-Life 3</title>
-      <link>https://4pda.to/2026/10/23/462566/sotrudnik_valve_sluchajno_progovorilsya_o_half_life_3/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462566/sotrudnik_valve_sluchajno_progovorilsya_o_half_life_3/</guid>
-      <pubDate>Fri, 23 Oct 2026 10:35:00 +0000</pubDate>
-      <description><![CDATA[Поклонники Half-Life уже много лет ищут любые намёки на продолжение приключений Гордона Фримена. И на этот раз повод для обсуждений подкинула сама Valve. Один из её сотрудников, похоже, случайно раскрыл [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI рассекретила смартфон Pura 90 Plus и три версии Enjoy 100 перед анонсом</title>
-      <link>https://4pda.to/2026/10/23/462549/huawei_rassekretila_smartfon_pura_90_plus_i_tri_versii_enjoy_100_pered_anonsom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462549/huawei_rassekretila_smartfon_pura_90_plus_i_tri_versii_enjoy_100_pered_anonsom/</guid>
-      <pubDate>Fri, 23 Oct 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[HUAWEI объявила дату презентации сразу нескольких новых смартфонов и раскрыла первые подробности об их дизайне и характеристиках. Уже скоро компания представит серию Enjoy 100, включающую три разные модели, [...]]]></description>
-    </item>
-    <item>
-      <title>«Это было очень неожиданно!» Закрыт еще один сбор почти на $2 миллиона</title>
-      <link>https://people.onliner.by/go/1340846</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/23/eto-bylo-ochen-neozhidanno-zakryt-eshhe-odin-sbor-pochti-na-2-milliona</guid>
-      <pubDate>Fri, 23 Oct 2026 10:24:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/23/eto-bylo-ochen-neozhidanno-zakryt-eshhe-odin-sbor-pochti-na-2-milliona"><img alt="" src="https://content.onliner.by/news/thumbnail/b88cd13e0137f1a152cdc9ac6e26f60f.jpg" /></a></p><p>Этим летом мы <a href="https://people.onliner.by/2026/08/14/obsledovali-mladshego-syna-i-uznali-o-bolezni-u-starshego-neprostaya-istoriya-semi-iz-novogrudka">рассказывали</a> о трехлетнем Владике Гладком из Новогрудка. У мальчика СМА 3-го типа — заболевание, которое постепенно ослабляет мышцы и затрудняет движение. Без лечения ребенок со временем может потерять способность самостоятельно ходить. Чтобы помочь сыну, его родители открыли благотворительный сбор на «Золгенсма» — препарат, который останавливает прогрессирование болезни. Его стоимость — $1815 000, и сегодня стало известно, что нужная сумма собрана.
-</p><p><a href="https://people.onliner.by/2026/10/23/eto-bylo-ochen-neozhidanno-zakryt-eshhe-odin-sbor-pochti-na-2-milliona">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Epic Games Store раздаёт два хоррора бесплатно и навсегда</title>
-      <link>https://4pda.to/2026/10/23/462555/epic_games_store_razdayot_dva_khorrora_besplatno_i_navsegda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462555/epic_games_store_razdayot_dva_khorrora_besplatno_i_navsegda/</guid>
-      <pubDate>Fri, 23 Oct 2026 10:15:00 +0000</pubDate>
-      <description><![CDATA[Под конец недели Epic Games Store запустила очередную бесплатную раздачу игр. На сей раз геймерам подарят два хоррора.
-[youtube=aLbAa0938yo:640:360:::0]
-Первой игрой раздачи стала Home — двухмерная [...]]]></description>
-    </item>
-    <item>
-      <title>До 10 000 рублей и без опыта. Собрали вакансии, куда готовы взять новичков</title>
-      <link>https://money.onliner.by/go/352010</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/23/do-10-000-rublej-i-bez-opyta-sobrali-vakansii-kuda-gotovy-vzyat-novichkov</guid>
-      <pubDate>Fri, 23 Oct 2026 10:05:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/23/do-10-000-rublej-i-bez-opyta-sobrali-vakansii-kuda-gotovy-vzyat-novichkov"><img alt="" src="https://content.onliner.by/news/thumbnail/161f155a6d0c6a2bf6c82c1033c5570a.jpg" /></a></p><p>Найти работу без опыта можно в разных сферах: от продаж автомобилей и доставки до работы на складе и стримов в TikTok. При этом некоторые работодатели уже со старта обещают неплохую зарплату — от 2330 до 10 000 рублей в месяц. Посмотрели, кого ищут и что предлагают.
-</p><p><a href="https://money.onliner.by/2026/10/23/do-10-000-rublej-i-bez-opyta-sobrali-vakansii-kuda-gotovy-vzyat-novichkov">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Браузер Arc прекращает работу. Как сохранить свои данные?</title>
-      <link>https://4pda.to/2026/10/23/462545/brauzer_arc_prekraschaet_rabotu_kak_sokhranit_svoi_dannye/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462545/brauzer_arc_prekraschaet_rabotu_kak_sokhranit_svoi_dannye/</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-      <description><![CDATA[Компания The Browser Company
-объявила о скором прекращении работы браузера Arc. Разработчики
-решили сосредоточиться на другом своём продукте под названием Dia. Ключевую роль
-в нём играет искусственный [...]]]></description>
-    </item>
-    <item>
-      <title>Этот легендарный боевик из девяностых получит сиквел с Леонардо Ди Каприо</title>
-      <link>https://tech.onliner.by/go/798426</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/23/majkl-mann-snimet-sxvatku-2-s-leonardo-di-kaprio</guid>
-      <pubDate>Fri, 23 Oct 2026 09:57:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/23/majkl-mann-snimet-sxvatku-2-s-leonardo-di-kaprio"><img alt="" src="https://content.onliner.by/news/thumbnail/5e4405299898eb35ee75206bd1810288.jpg" /></a></p><p><p dir="ltr">Американский режиссер Майкл Манн, выпустивший в 1995-м культовый фильм «Схватка», написал книгу «Схватка 2», которая вышла в 2022 году и стала одновременно продолжением и предысторией оригинальной истории. Теперь Манн адаптировал книгу в сценарий и снимет по нему фильм с Леонардо Ди Каприо и Кристианом Бэйлом. Съемки <a href="https://www.today.com/video/stephen-graham-talks-playing-serial-killer-in-nocturne-272036421547" target="_blank">начнутся</a> в январе 2027 года.<br /></p>
-</p><p><a href="https://tech.onliner.by/2026/10/23/majkl-mann-snimet-sxvatku-2-s-leonardo-di-kaprio">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Ночной тариф с сюрпризом». Стоимость зарядки считают неправильно? Или это недопонимание?</title>
-      <link>https://auto.onliner.by/go/1271715</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/23/nochnoj-tarif-s-syurprizom-stoimost-zaryadki-schitayut-nepravilno-ili-eto-nedoponimanie</guid>
-      <pubDate>Fri, 23 Oct 2026 09:42:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/23/nochnoj-tarif-s-syurprizom-stoimost-zaryadki-schitayut-nepravilno-ili-eto-nedoponimanie"><img alt="" src="https://content.onliner.by/news/thumbnail/bd02d40ad9c699b52718d5c693472f74.jpg" /></a></p><p><em>«Ночной тариф оказался с сюрпризом»,</em> — рассказал наш читатель. Несколько раз он заряжал свой электрокар в сети forEVo, а когда решил проверить чеки, то удивился. Там оказалась сумма больше, чем он рассчитывал.
-</p><p><a href="https://auto.onliner.by/2026/10/23/nochnoj-tarif-s-syurprizom-stoimost-zaryadki-schitayut-nepravilno-ili-eto-nedoponimanie">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Смертельное ДТП на трассе: столкнулись ВАЗ и Volkswagen</title>
-      <link>https://auto.onliner.by/go/1271736</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/23/smertelnoe-dtp-na-trasse-5</guid>
-      <pubDate>Fri, 23 Oct 2026 09:41:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/23/smertelnoe-dtp-na-trasse-5"><img alt="" src="https://content.onliner.by/news/thumbnail/ee5589dba46da2fe5afd02952c26d618.jpg" /></a></p><p>Сегодня утром на трассе М6 (Минск — Гродно) 75-летний водитель ВАЗ, двигаясь со стороны Лиды, при повороте налево не предоставил преимущество 21-летнему водителю Volkswagen.</p><p><a href="https://auto.onliner.by/2026/10/23/smertelnoe-dtp-na-trasse-5">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Лукашенко похвалил белорусские электробусы и покритиковал «Штадлер Минск»</title>
-      <link>https://auto.onliner.by/go/1271725</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/23/elorusskie-elektrobusy</guid>
-      <pubDate>Fri, 23 Oct 2026 09:33:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/23/elorusskie-elektrobusy"><img alt="" src="https://content.onliner.by/news/thumbnail/801680dbdd67fba27bc9a424857125ff.jpg" /></a></p><p>Александр Лукашенко заявил, что «Штадлер Минск» не добился должных результатов, а создание белорусского поезда так и не дошло до стадии производства. Об этом он сказал во время <a href="https://president.gov.by/ru/events/posesenie-holdinga-belkommunmas" target="_blank">совещания</a> по развитию отечественного пассажирского транспорта на «Белкоммунмаше». Там же президент поручил обеспечить экологически чистым транспортом национальные парки, заповедники и санатории.
-</p><p><a href="https://auto.onliner.by/2026/10/23/elorusskie-elektrobusy">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>6000 рублей за «квадрат». Это не в Минске, а в агрогородке — что вообще происходит?</title>
-      <link>https://realt.onliner.by/go/1138640</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/23/6000-rublej-v-agrogorodke-chto-voobshhe-proisxodit</guid>
-      <pubDate>Fri, 23 Oct 2026 09:30:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/23/6000-rublej-v-agrogorodke-chto-voobshhe-proisxodit"><img alt="" src="https://content.onliner.by/news/thumbnail/52953b345d8b7da1b6b5190643251b1b.jpg" /></a></p><p>Сразу в двух населенных пунктах, которые расположены довольно далеко от Минска, ведутся дорогие стройки. Вполне сопоставимые по ценам с «хотелками» столичных застройщиков. Рассказываем, что и для кого возводят УКСы.
-</p><p><a href="https://realt.onliner.by/2026/10/23/6000-rublej-v-agrogorodke-chto-voobshhe-proisxodit">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Моющий пылесос Dreame H16 FoamWash с функцией устранения запахов стал доступен в России</title>
-      <link>https://4pda.to/2026/10/23/462547/moyuschij_pylesos_dreame_h16_foamwash_s_funktsiej_ustraneniya_zapakhov_stal_dostupen_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462547/moyuschij_pylesos_dreame_h16_foamwash_s_funktsiej_ustraneniya_zapakhov_stal_dostupen_v_rossii/</guid>
-      <pubDate>Fri, 23 Oct 2026 09:30:00 +0000</pubDate>
-      <description><![CDATA[На российском рынке появились вертикальные беспроводные пылесосы Dreame H16 FoamWash и G14. Старшая из новинок получила
-функцию, которая будет полезна владельцам домашних животных — с её помощью прибор [...]]]></description>
-    </item>
-    <item>
-      <title>В сеть слили трейлер Mass Effect 5 — он был готов к показу [ВИДЕО]</title>
-      <link>https://4pda.to/2026/10/23/462563/v_set_slili_trejler_mass_effect_5_on_byl_gotov_k_pokazu_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462563/v_set_slili_trejler_mass_effect_5_on_byl_gotov_k_pokazu_video/</guid>
-      <pubDate>Fri, 23 Oct 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Поклонники Mass Effect наконец-то увидели, какой могла получиться новая часть культовой серии. Правда, радоваться уже поздно: Electronic Arts закрыла BioWare и отменила игру, которую фанаты ждали много [...]]]></description>
-    </item>
-    <item>
-      <title>Keychron представила короткую игровую «механику» HE 8K в карбоновом корпусе</title>
-      <link>https://4pda.to/2026/10/23/462542/keychron_predstavila_korotkuyu_igrovuyu_mekhaniku_he_8k_v_karbonovom_korpuse/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462542/keychron_predstavila_korotkuyu_igrovuyu_mekhaniku_he_8k_v_karbonovom_korpuse/</guid>
-      <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Серию клавиатур Keychron пополнила компактная модель Carbon 60
-HE 8K с корпусом углеволокна.
-Необычный материал также использовали для кейкапов и
-внутренней пластины, на которой установлены переключатели.
-Новинка [...]]]></description>
-    </item>
-    <item>
-      <title>Подтверждена ёмкость АКБ Samsung Galaxy S27 Pro и Ultra. Цифры не рекордные</title>
-      <link>https://4pda.to/2026/10/23/462543/podtverzhdena_yomkost_akb_samsung_galaxy_s27_pro_i_ultra_tsifry_ne_rekordnye/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462543/podtverzhdena_yomkost_akb_samsung_galaxy_s27_pro_i_ultra_tsifry_ne_rekordnye/</guid>
-      <pubDate>Fri, 23 Oct 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[Аккумуляторы ещё не анонсированных флагманских смартфонов Samsung Galaxy S27 Pro и S27 Ultra прошли сертификацию у регуляторов Safety Korea и 3C. Вскоре после этого в сети появились фотографии самих компонентов, [...]]]></description>
-    </item>
-    <item>
-      <title>Microsoft исправит раздражающую проблему с фотографиями в Windows 11</title>
-      <link>https://4pda.to/2026/10/23/462541/microsoft_ispravit_razdrazhayuschuyu_problemu_s_fotografiyami_v_windows_11/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462541/microsoft_ispravit_razdrazhayuschuyu_problemu_s_fotografiyami_v_windows_11/</guid>
-      <pubDate>Fri, 23 Oct 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Microsoft обновила приложение «Фотографии» в предварительной сборке Windows 11. Апдейт призван упростить работу с
-изображениями, избавив пользователей от лишних действий. Изменение особенно
-оценят владельцы [...]]]></description>
-    </item>
-    <item>
-      <title>Названы лидеры мирового рынка ПК по итогам 3 квартала 2026 года</title>
-      <link>https://4pda.to/2026/10/23/462538/nazvany_lidery_mirovogo_rynka_pk_po_itogam_3_kvartala_2026_goda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/23/462538/nazvany_lidery_mirovogo_rynka_pk_po_itogam_3_kvartala_2026_goda/</guid>
-      <pubDate>Fri, 23 Oct 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Аналитики Counterpoint
-Research поделились свежими данными о мировых продажах персональных компьютеров. В третьем квартале 2026 года рынок столкнулся с резким спадом, что привело к изменению баланса сил [...]]]></description>
     </item>
     <item>
       <title>You Can Reserve This Small-Factor, De-Googled Phone for $30</title>
