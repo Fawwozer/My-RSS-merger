@@ -5,24 +5,82 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 25 Oct 2026 15:37:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 20:26:03 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
       <title>Bottles Creator Mirko Brombin Wants Microsoft Office on Linux, Not Its Clones</title>
-      <link>https://feed.itsfoss.com/link/24361/17506301/mirko-brombin-raven</link>
+      <link>https://itsfoss.com/interview/mirko-brombin-raven/</link>
       <guid isPermaLink="false">6addbe8610b6160001f68a24</guid>
       <pubDate>Sun, 25 Oct 2026 10:02:06 +0000</pubDate>
-      <description><![CDATA[Mirko Brombin Interview]]></description>
+      <description><![CDATA[<img src="https://itsfoss.com/content/images/2026/10/mirko-brombin-interview.webp" /><br /><br />Mirko Brombin is working to get Microsoft Office running reliably on Linux. He also thinks the apps cloning Office and Photoshop pixel for pixel cross a line. We talked about both, plus AI agents, Vanilla OS and his new Sinty OS.]]></description>
       <category>Interview🎙️</category>
     </item>
     <item>
       <title>These Projects are Keeping X11 Dream Alive on Linux</title>
-      <link>https://feed.itsfoss.com/link/24361/17505238/projects-keeping-x11-alive</link>
+      <link>https://itsfoss.com/projects-keeping-x11-alive/</link>
       <guid isPermaLink="false">6ad720be0b3133000169d4b0</guid>
       <pubDate>Fri, 23 Oct 2026 17:14:00 +0000</pubDate>
-      <description><![CDATA[projects keeping x11 alive banner]]></description>
+      <description><![CDATA[<img src="https://itsfoss.com/content/images/2026/10/projects-keeping-x11-alive.png" /><br /><br />The list covers desktops, X servers, and a Wayland-hosted X11 layer. Basically, projects that are resisting a Waylan-only Linux future.]]></description>
       <category>List 📋</category>
+    </item>
+    <item>
+      <title>NOVUS One совмещает мощность мотоцикла и простоту скутера</title>
+      <link>https://4pda.to/2026/10/25/462420/novus_one_sovmeschaet_moschnost_mototsikla_i_prostotu_skutera/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462420/novus_one_sovmeschaet_moschnost_mototsikla_i_prostotu_skutera/</guid>
+      <pubDate>Sun, 25 Oct 2026 19:55:00 +0000</pubDate>
+      <description><![CDATA[Немецкая компания NOVUS представила необычный электрический мотоцикл One. В первую очередь он выделяется конструкцией с большим сквозным отверстием в раме. Кроме того, мотоцикл разгоняется до 50 км/ч менее [...]]]></description>
+    </item>
+    <item>
+      <title>Роборука EmArm распознаёт прикосновения с точностью до 0,085 мм</title>
+      <link>https://4pda.to/2026/10/25/462423/roboruka_emarm_raspoznayot_prikosnoveniya_s_tochnostyu_do_0_085_mm/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462423/roboruka_emarm_raspoznayot_prikosnoveniya_s_tochnostyu_do_0_085_mm/</guid>
+      <pubDate>Sun, 25 Oct 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Инженеры из Гонконгского университета науки и технологий разработали EmArm — роботизированную руку с искусственной кожей. Она с огромной точностью распознаёт прикосновения, определяет силу давления и помогает [...]]]></description>
+    </item>
+    <item>
+      <title>Вдохновлённый мозгом чип анализирует миллион измерений в секунду</title>
+      <link>https://4pda.to/2026/10/25/462421/vdokhnovlyonnyj_mozgom_chip_analiziruet_million_izmerenij_v_sekundu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462421/vdokhnovlyonnyj_mozgom_chip_analiziruet_million_izmerenij_v_sekundu/</guid>
+      <pubDate>Sun, 25 Oct 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Национальной лаборатории Брукхейвена Министерства энергетики США разработали чип, который может анализировать миллион измерений термоядерной плазмы в секунду. Он имитирует работу нейронных [...]]]></description>
+    </item>
+    <item>
+      <title>Polestar и учёные из Оксфорда измерили ощущение мощности автомобиля</title>
+      <link>https://4pda.to/2026/10/25/462427/polestar_i_uchyonye_iz_oksforda_izmerili_oschuschenie_moschnosti_avtomobilya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462427/polestar_i_uchyonye_iz_oksforda_izmerili_oschuschenie_moschnosti_avtomobilya/</guid>
+      <pubDate>Sun, 25 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Polestar совместно с Оксфордским университетом провела исследование, чтобы выяснить, как водители воспринимают динамику автомобиля. Для этого двенадцать участников испытали две версии электромобиля Polestar [...]]]></description>
+    </item>
+    <item>
+      <title>Музыка, звонки и немного тишины: HUAWEI FreeBuds Neo в ритме большого города</title>
+      <link>https://4pda.to/2026/10/25/462528/muzyka_zvonki_i_nemnogo_tishiny_huawei_freebuds_neo_v_ritme_bolshogo_goroda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462528/muzyka_zvonki_i_nemnogo_tishiny_huawei_freebuds_neo_v_ritme_bolshogo_goroda/</guid>
+      <pubDate>Sun, 25 Oct 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Утром — дорога в офис и любимый плейлист, днём — созвоны и работа за ноутбуком, вечером — прогулка или тренировка. За день наушникам приходится решать разные задачи, и одного только хорошего звука для [...]]]></description>
+    </item>
+    <item>
+      <title>Цифровая фоторамка Inkanva работает от света</title>
+      <link>https://4pda.to/2026/10/25/462425/tsifrovaya_fotoramka_inkanva_rabotaet_ot_sveta/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462425/tsifrovaya_fotoramka_inkanva_rabotaet_ot_sveta/</guid>
+      <pubDate>Sun, 25 Oct 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Компания Inkanva представила цифровую&nbsp;рамку для картин и фотографий, которой не нужен кабель питания. Устройство&nbsp;заряжается от солнечного света или обычного освещения в помещении. Его можно повесить [...]]]></description>
+    </item>
+    <item>
+      <title>Робот Figure 03 без остановки прошёл 1,2 млн шагов</title>
+      <link>https://4pda.to/2026/10/25/462416/robot_figure_03_bez_ostanovki_proshyol_1_2_mln_shagov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462416/robot_figure_03_bez_ostanovki_proshyol_1_2_mln_shagov/</guid>
+      <pubDate>Sun, 25 Oct 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Figure AI девять дней беспрерывно испытывала человекоподобного робота Figure 03. За это время он сделал 1,2 миллиона шагов и прошёл на беговой дорожке около 560 км.
+&nbsp;
+Тест задумывался [...]]]></description>
+    </item>
+    <item>
+      <title>Запущена первая в истории миссия по доставке образцов со спутника Марса</title>
+      <link>https://4pda.to/2026/10/25/462413/zapuschena_pervaya_v_istorii_missiya_po_dostavke_obraztsov_so_sputnika_marsa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/25/462413/zapuschena_pervaya_v_istorii_missiya_po_dostavke_obraztsov_so_sputnika_marsa/</guid>
+      <pubDate>Sun, 25 Oct 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Япония запустила межпланетную станцию MMX, которая должна исследовать спутники Марса и доставить на Землю образцы с Фобоса. Ракета H3 стартовала с космодрома Танэгасима 20 октября, однако на весь путь [...]]]></description>
     </item>
     <item>
       <title>Почти 10 часов в полете — и вы в Бангкоке. «Белавиа» запустила новый рейс (обновлено)</title>
@@ -93,7 +151,7 @@
       <description><![CDATA[Компания FlekTrike представила электрический трицикл, рассчитанный на перевозку грузов и поездки по пересечённой местности. Его главная особенность — механизм наклона, который позволяет водителю заваливать [...]]]></description>
     </item>
     <item>
-      <title>Двое суток в лесу. Под Витебском нашли пенсионера, который застрял в болоте</title>
+      <title>Двое суток в лесу. Нашли пенсионера, который застрял в болоте</title>
       <link>https://people.onliner.by/go/1341302</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/25/dvoe-sutok-v-lesu-po</guid>
       <pubDate>Sun, 25 Oct 2026 10:19:46 +0000</pubDate>
@@ -343,41 +401,12 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Полноценный сенсорный экран встроили в одежду</title>
-      <link>https://4pda.to/2026/10/24/462559/polnotsennyj_sensornyj_ekran_vstroili_v_odezhdu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462559/polnotsennyj_sensornyj_ekran_vstroili_v_odezhdu/</guid>
-      <pubDate>Sat, 24 Oct 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Национального университета Сингапура разработали ткань со встроенным в неё сенсорным экраном. Она способна&nbsp;показывать изображения и видео, реагирует на прикосновения и &nbsp;поддерживает [...]]]></description>
-    </item>
-    <item>
-      <title>Процессоры AMD Zen 6 оказались до 24% быстрее Zen 5 при одинаковой частоте</title>
-      <link>https://4pda.to/2026/10/24/462579/protsessory_amd_zen_6_okazalis_do_24_bystree_zen_5_pri_odinakovoj_chastote/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462579/protsessory_amd_zen_6_okazalis_do_24_bystree_zen_5_pri_odinakovoj_chastote/</guid>
-      <pubDate>Sat, 24 Oct 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[В базе бенчмарка Geekbench появились результаты тестирования серверного процессора AMD EPYC нового поколения. Они позволяют оценить прирост производительности архитектуры Zen 6 относительно Zen 5 и дают [...]]]></description>
-    </item>
-    <item>
       <title>Пьяный бесправник попытался скрыться от сотрудников ГАИ. Последним пришлось стрелять</title>
       <link>https://auto.onliner.by/go/1271949</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/10/24/pyanyj-bespravnik-popytalsya-skrytsya-ot-sotrudnikov-gai-poslednim-prishlos-strelyat-2</guid>
       <pubDate>Sat, 24 Oct 2026 10:44:30 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/24/pyanyj-bespravnik-popytalsya-skrytsya-ot-sotrudnikov-gai-poslednim-prishlos-strelyat-2"><img alt="" src="https://content.onliner.by/news/thumbnail/ddc42d8cc190723802623918e3e06b91.jpg" /></a></p><p>Инспекторы ГАИ Лидского РОВД подали сигнал об остановке водителю, находившемуся за рулем Hyundai. Автомобилист его проигнорировал, и правоохранители начали преследование. На многократные требования об остановке водитель не обращал внимания и продолжил движение, виляя по проезжей части.</p><p><a href="https://auto.onliner.by/2026/10/24/pyanyj-bespravnik-popytalsya-skrytsya-ot-sotrudnikov-gai-poslednim-prishlos-strelyat-2">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Исследование: любимая музыка помогает легче переносить медицинские процедуры</title>
-      <link>https://4pda.to/2026/10/24/462518/issledovanie_lyubimaya_muzyka_pomogaet_legche_perenosit_meditsinskie_protsedury/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462518/issledovanie_lyubimaya_muzyka_pomogaet_legche_perenosit_meditsinskie_protsedury/</guid>
-      <pubDate>Sat, 24 Oct 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Исследование Университетской клиники Цюриха показало, что любимая музыка помогает уменьшить боль после медицинских процедур. В эксперименте приняли участие 204 пациента, которым устанавливали катетер перед [...]]]></description>
-    </item>
-    <item>
-      <title>Фанаты требуют возобновить разработку Mass Effect 5. Запущена онлайн-петиция</title>
-      <link>https://4pda.to/2026/10/24/462569/fanaty_trebuyut_vozobnovit_razrabotku_mass_effect_5_zapuschena_onlajn_petitsiya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462569/fanaty_trebuyut_vozobnovit_razrabotku_mass_effect_5_zapuschena_onlajn_petitsiya/</guid>
-      <pubDate>Sat, 24 Oct 2026 09:25:00 +0000</pubDate>
-      <description><![CDATA[Фанаты Mass Effect отказались мириться с новостями об отмене игры — и запустили онлайн-петицию, в которой потребовали возобновить разработку.&nbsp;
-Едва публике стало известно об отмене проекта, как [...]]]></description>
     </item>
     <item>
       <title>17-летний житель Гродно создал ПО, из-за которого белорусы потеряли 150 тысяч рублей</title>
@@ -388,50 +417,19 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>Складной iPhone Duo не выдержал испытаний на падение и сгибание</title>
-      <link>https://4pda.to/2026/10/24/462578/skladnoj_iphone_duo_ne_vyderzhal_ispytanij_na_padenie_i_sgibanie/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462578/skladnoj_iphone_duo_ne_vyderzhal_ispytanij_na_padenie_i_sgibanie/</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[В сети появились испытания на прочность первого складного смартфона Apple. Блогеры показали, как iPhone Duo справляется с падениями, контактом с острыми предметами и песком, сгибанием и другими нагрузками.
-[youtube=b9f7ZOnE8ig:640:360:::0]
-Сэм [...]]]></description>
-    </item>
-    <item>
-      <title>В Кобрине горел жилой дом. Двух человек спасли, один погиб</title>
-      <link>https://realt.onliner.by/go/1138762</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/24/v-kobrine-gorel-zhiloj-dom-dvux-chelovek-spasli-odin-pogib</guid>
-      <pubDate>Sat, 24 Oct 2026 08:12:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/24/v-kobrine-gorel-zhiloj-dom-dvux-chelovek-spasli-odin-pogib"><img alt="" src="https://content.onliner.by/news/thumbnail/1c6bec5de58122c44fe79b213c3aa293.jpg" /></a></p><p>На линию 112 поступило сообщение о загорании жилого дома на улице Тухачевского в Кобрине. Когда сотрудники МЧС прибыли на место происшествия, то застали там горящую кровлю. Пламя также распространилось внутри здания. </p><p><a href="https://realt.onliner.by/2026/10/24/v-kobrine-gorel-zhiloj-dom-dvux-chelovek-spasli-odin-pogib">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Новый Ford Mustang Mach-E получил увеличенный запас хода</title>
-      <link>https://4pda.to/2026/10/24/462531/novyj_ford_mustang_mach_e_poluchil_uvelichennyj_zapas_khoda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462531/novyj_ford_mustang_mach_e_poluchil_uvelichennyj_zapas_khoda/</guid>
-      <pubDate>Sat, 24 Oct 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Ford открыла приём заказов на обновлённый электрический кроссовер Mustang Mach-E 2027 модельного года. Теперь даже базовая версия оснащается более ёмким аккумулятором с увеличенным запасом хода, а в линейке [...]]]></description>
-    </item>
-    <item>
-      <title>Главное за неделю: обзор Samsung Galaxy Z Fold8 Ultra, взломали PlayStation 5, вышла HyperOS 4</title>
-      <link>https://4pda.to/2026/10/24/462574/glavnoe_za_nedelyu_obzor_samsung_galaxy_z_fold8_ultra_vzlomali_playstation_5_vyshla_hyperos_4/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/24/462574/glavnoe_za_nedelyu_obzor_samsung_galaxy_z_fold8_ultra_vzlomali_playstation_5_vyshla_hyperos_4/</guid>
-      <pubDate>Sat, 24 Oct 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Новостей о гаджетах и технологиях за последние семь дней накопилось немало, но мы выбрали самые важные. Это и обзор нового складного смартфона Samsung Galaxy Z Fold8 Ultra, и взлом игровой консоли PlayStation [...]]]></description>
-    </item>
-    <item>
       <title>RAID Calculator</title>
-      <link>https://feed.itsfoss.com/link/24361/17505795/raid-calculator</link>
+      <link>https://itsfoss.com/tools/raid-calculator/</link>
       <guid isPermaLink="false">6a46346146ba4400013fd338</guid>
       <pubDate>Sat, 24 Oct 2026 06:13:58 +0000</pubDate>
-      <description><![CDATA[RAID Calculator]]></description>
+      <description><![CDATA[<img src="https://itsfoss.com/content/images/2026/10/raid-calculator-feature.png" /><br /><br />Calculate usable capacity, fault tolerance, and storage efficiency for any RAID or ZFS layout. Also see if there are any risks associated with your rebuilds.]]></description>
       <category>Tools</category>
     </item>
     <item>
-      <title>ArmSoM Sige7s Puts the RK3588S on a Raspberry Pi-Sized Board, and There's a Compute Module Too</title>
-      <link>https://feed.itsfoss.com/link/24361/17505121/armsom-sige7s</link>
+      <title>ArmSoM Sige7s Puts the RK3588S on a Raspberry Pi-Sized Board, and There&amp;#x27;s a Compute Module Too</title>
+      <link>https://itsfoss.com/news/armsom-sige7s/</link>
       <guid isPermaLink="false">6adb139810b6160001f6770b</guid>
       <pubDate>Fri, 23 Oct 2026 13:04:57 +0000</pubDate>
-      <description><![CDATA[ArmSoM Sige7s]]></description>
+      <description><![CDATA[<img src="https://itsfoss.com/content/images/2026/10/armsom-sige7s-1-.webp" /><br /><br />The small SBC brings a 6 TOPS NPU, Wi-Fi 6, a Pi-compatible 40-pin header, and up to 32GB RAM, starting at $153.]]></description>
       <category>News</category>
     </item>
   </channel>
