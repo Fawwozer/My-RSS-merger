@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 24 Oct 2026 20:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:25:30 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -39,6 +39,15 @@
       <pubDate>Thu, 22 Oct 2026 08:07:33 +0000</pubDate>
       <description><![CDATA[Terminal Text Editor]]></description>
       <category>Terminal Tools</category>
+    </item>
+    <item>
+      <title>Из Минска — в Бангкок. Первый рейс «Белавиа» в столицу Таиланда отправился сегодня ночью</title>
+      <link>https://people.onliner.by/go/1341228</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/25/pervyj-rejs-belavia-v-stolicu-tailanda</guid>
+      <pubDate>Sun, 25 Oct 2026 00:26:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/25/pervyj-rejs-belavia-v-stolicu-tailanda"><img alt="" src="https://content.onliner.by/news/thumbnail/df314e96c55439a1293ab44227a92f81.jpg" /></a></p><p><p dir="ltr">Поздно ночью 25 октября из Минска отправился новый рейс «Белавиа» — в Бангкок. Таиланд в целом — не новая точка на карте авиакомпании, но именно в столицу азиатского королевства самолет из Национального аэропорта вылетел впервые. По традиции, дебют отмечали перерезанием ленточки, подарками и угощениями.<br /></p>
+</p><p><a href="https://people.onliner.by/2026/10/25/pervyj-rejs-belavia-v-stolicu-tailanda">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
     </item>
     <item>
       <title>Самовосстанавливающееся покрытие делает солнечные панели на 30% легче</title>
@@ -91,7 +100,7 @@
       <description><![CDATA[Инженер и автор YouTube-канала Dr. Semiconductor собрал работающий солнечный элемент в домашней мастерской. Для этого он использовал кремниевую пластину и микроволновую печь. Прототип способен вырабатывать [...]]]></description>
     </item>
     <item>
-      <title>В Осовце горела квартира. Найден один погибший</title>
+      <title>В Осовце загорелась квартира. Найден один погибший</title>
       <link>https://realt.onliner.by/go/1138777</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/10/24/v-osovce-gorela-kvartira-najden-odin-pogibshij</guid>
       <pubDate>Sat, 24 Oct 2026 16:25:04 +0000</pubDate>
@@ -430,14 +439,6 @@ Apple ищет способ добавить [...]]]></description>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/23/my-chto-raznuyu-matematiku-uchili-yuzery-sporyat-iz-za-primera-v-socseti"><img alt="" src="https://content.onliner.by/news/thumbnail/d3fcc92c02ea41fd361754793887c993.jpg" /></a></p><p><p dir="ltr">В Threads не перестают развлекаться решением математических примеров, однако вирусными становятся те задачки, что заставляют юзеров соцсети спорить, недоумевать и даже ругаться. Один из таких <a href="https://www.threads.com/share/FEhhs7WbP/" target="_blank">стал</a> популярным в последние дни, собрав к этой минуте уже более двух тысяч комментариев.<br /></p>
 </p><p><a href="https://tech.onliner.by/2026/10/23/my-chto-raznuyu-matematiku-uchili-yuzery-sporyat-iz-za-primera-v-socseti">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>В Минске прошла презентация Forthing S7 Evo. Ранее были объявлены цены (обновлено)</title>
-      <link>https://auto.onliner.by/go/1267324</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/23/udivit-ne-tolko-dizajnom</guid>
-      <pubDate>Fri, 23 Oct 2026 13:35:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/23/udivit-ne-tolko-dizajnom"><img alt="" src="https://content.onliner.by/news/thumbnail/a77e53d66477cfa5ab9f4140a0510866.jpg" /></a></p><p>Большой электрический лифтбэк S7 марка Forthing (этот бренд относится к концерну Dongfeng Motor) впервые <a href="https://auto.onliner.by/?p=1121424&amp;preview=true" target="_blank">показала</a> еще на Пекинском автосалоне весной 2024 года. Спустя два с лишним года автомобиль добрался до Беларуси, попутно получив в названии слово Evo. Импортер марки в нашей стране раскрыл варианты исполнения и цены, а заодно уточнил характеристики для нашего региона. UPD: автомобили прибыли в Беларусь, в Минске прошла презентация модели. </p><p><a href="https://auto.onliner.by/2026/10/23/udivit-ne-tolko-dizajnom">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>ArmSoM Sige7s Puts the RK3588S on a Raspberry Pi-Sized Board, and There's a Compute Module Too</title>
