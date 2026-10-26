@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 25 Oct 2026 20:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:28:01 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -23,6 +23,13 @@
       <pubDate>Fri, 23 Oct 2026 17:14:00 +0000</pubDate>
       <description><![CDATA[<img src="https://itsfoss.com/content/images/2026/10/projects-keeping-x11-alive.png" /><br /><br />The list covers desktops, X servers, and a Wayland-hosted X11 layer. Basically, projects that are resisting a Waylan-only Linux future.]]></description>
       <category>List 📋</category>
+    </item>
+    <item>
+      <title>300-герцевый игровой монитор REDMI G25 (2027) оценили всего в $120</title>
+      <link>https://4pda.to/2026/10/26/462587/300_gertsevyj_igrovoj_monitor_redmi_g25_2027_otsenili_vsego_v_120/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/26/462587/300_gertsevyj_igrovoj_monitor_redmi_g25_2027_otsenili_vsego_v_120/</guid>
+      <pubDate>Mon, 26 Oct 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Бренд REDMI выпустил монитор G25 (2027) с быстрой матрицей Fast IPS, ориентированный на геймеров. Новинка получила поддержку HDR и хорошую точность цветопередачи, при этом её цена сравнима со многими офисными [...]]]></description>
     </item>
     <item>
       <title>NOVUS One совмещает мощность мотоцикла и простоту скутера</title>
