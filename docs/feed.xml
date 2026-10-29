@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 29 Oct 2026 12:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:28:35 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff</title>
+      <link>https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44</link>
+      <guid isPermaLink="false">6ae1b50a1b851a0001833d4b</guid>
+      <pubDate>Thu, 29 Oct 2026 13:53:00 +0000</pubDate>
+      <description><![CDATA[Halloween special Linux newsletter]]></description>
+      <category>Newsletter ✉️</category>
+    </item>
     <item>
       <title>Jadens JD-166 Review: Portable, Inkless Thermal Printer on Linux</title>
       <link>https://feed.itsfoss.com/link/24361/17510159/jadens-jd-166-review</link>
@@ -17,20 +25,236 @@
       <category>Reviews</category>
     </item>
     <item>
-      <title>BSD Users Can Now Enjoy Omarchy Flavor</title>
-      <link>https://feed.itsfoss.com/link/24361/17507094/daemonarchy-overview</link>
-      <guid isPermaLink="false">6adee42e8bfa1e00019392eb</guid>
-      <pubDate>Mon, 26 Oct 2026 17:35:00 +0000</pubDate>
-      <description><![CDATA[daemonarchy computer monitor banner]]></description>
-      <category>News</category>
+      <title>Умер Патрик Стюарт — профессор Ксавьер из «Людей Икс» и капитан Пикар из «Звездного пути»</title>
+      <link>https://people.onliner.by/go/1342282</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/umer-patrik-styuart</guid>
+      <pubDate>Thu, 29 Oct 2026 19:57:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/umer-patrik-styuart"><img alt="" src="https://content.onliner.by/news/thumbnail/9a504f67df605e6bd8a714108c239f1a.jpg" /></a></p><p>Умер британский актер Патрик Стюарт, которого зрители знают по фильмам «Люди Икс» и вселенной «Звездного пути». Ему было 86 лет. О смерти артиста <a href="https://deadline.com/2026/10/patrick-stewart-dead-1237208580/">сообщает</a> Deadline.</p><p><a href="https://people.onliner.by/2026/10/29/umer-patrik-styuart">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
     </item>
     <item>
-      <title>Systemd Creator’s Startup Opens Signups for Private Preview of its Linux System</title>
-      <link>https://feed.itsfoss.com/link/24361/17506987/amutable-foundations-private-preview</link>
-      <guid isPermaLink="false">6adf16a68bfa1e0001939490</guid>
-      <pubDate>Mon, 26 Oct 2026 14:23:52 +0000</pubDate>
-      <description><![CDATA[amutable round foundation slogan banner]]></description>
-      <category>News</category>
+      <title>Инсайды #3966: новый суббренд HUAWEI, Nokia 2360 Flip и GPD Win Mini Ultra</title>
+      <link>https://4pda.to/2026/10/29/462750/insajdy_3966_novyj_subbrend_huawei_nokia_2360_flip_i_gpd_win_mini_ultra/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462750/insajdy_3966_novyj_subbrend_huawei_nokia_2360_flip_i_gpd_win_mini_ultra/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: HUAWEI готовит к выпуску смартфон под новым суббрендом; Nokia выпустила первый тизер раскладушки; GPD Win Mini Ultra получит мощную начинку.
+HUAWEI готовит к выпуску&nbsp;смартфон [...]]]></description>
+    </item>
+    <item>
+      <title>Valve объяснила наплыв «нейрослоповых» игр на фестивале инди</title>
+      <link>https://4pda.to/2026/10/29/462760/valve_obyasnila_naplyv_nejroslopovykh_igr_na_festivale_indi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462760/valve_obyasnila_naplyv_nejroslopovykh_igr_na_festivale_indi/</guid>
+      <pubDate>Thu, 29 Oct 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Октябрьский фестиваль «Играм быть» запомнился не только интересными демоверсиями, но и огромным количеством низкокачественных игр, созданных с помощью нейросетей. Геймеры и разработчики остались недовольны, [...]]]></description>
+    </item>
+    <item>
+      <title>В РФ хотят ограничить зарубежный трафик. Интернет станет хуже и дороже</title>
+      <link>https://4pda.to/2026/10/29/462778/v_rf_khotyat_ogranichit_zarubezhnyj_trafik_internet_stanet_khuzhe_i_dorozhe/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462778/v_rf_khotyat_ogranichit_zarubezhnyj_trafik_internet_stanet_khuzhe_i_dorozhe/</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[По данным Forbes, Минцифры обсуждает требование пропускать весь трафик с зарубежных доменов через технические средства противодействия угрозам. Ведомство также может получить право ограничивать его потребление [...]]]></description>
+    </item>
+    <item>
+      <title>Apple могла снизить стандарты контроля качества iPhone Duo, чтобы нарастить поставки</title>
+      <link>https://tech.onliner.by/go/799406</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/apple-mogla-snizit-standarty-kontrolya-kachestva-iphone-duo-chtoby-narastit-postavki</guid>
+      <pubDate>Thu, 29 Oct 2026 16:57:14 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/apple-mogla-snizit-standarty-kontrolya-kachestva-iphone-duo-chtoby-narastit-postavki"><img alt="" src="https://content.onliner.by/news/thumbnail/930ad02ea252a2eccb739ca3c81e78be.jpg" /></a></p><p>Apple могла смягчить требования к контролю качества складного iPhone Duo, чтобы увеличить поставки перед праздничным сезоном. Утверждается, что на фоне высокого спроса компания стремится ускорить выпуск смартфонов, несмотря на проблемы с надежностью внутреннего дисплея и шарнирного механизма.</p><p><a href="https://tech.onliner.by/2026/10/29/apple-mogla-snizit-standarty-kontrolya-kachestva-iphone-duo-chtoby-narastit-postavki">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В Беларуси окончательно разрешили интернет-торговлю ювелирными украшениями</title>
+      <link>https://money.onliner.by/go/352805</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/v-belarusi-razreshili-2</guid>
+      <pubDate>Thu, 29 Oct 2026 16:31:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/v-belarusi-razreshili-2"><img alt="" src="https://content.onliner.by/news/thumbnail/daccccf77a4211927f4e00b21b945429.jpg" /></a></p><p>В Беларуси окончательно разрешили продавать ювелирные изделия через интернет. Раньше такое право предоставляли на определенный срок, теперь ограничение убрали. Соответствующий указ №393 подписал 29 октября Александр Лукашенко.</p><p><a href="https://money.onliner.by/2026/10/29/v-belarusi-razreshili-2">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Audio-Technica выпустила ATH-M50xSTS-WL StreamSet — беспроводную гарнитуру для стримеров</title>
+      <link>https://4pda.to/2026/10/29/462765/audio_technica_vypustila_ath_m50xsts_wl_streamset_besprovodnuyu_garnituru_dlya_strimerov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462765/audio_technica_vypustila_ath_m50xsts_wl_streamset_besprovodnuyu_garnituru_dlya_strimerov/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Компания Audio-Technica
+представила ATH-M50xSTS-WL StreamSet — беспроводную гарнитуру для стримеров,
+геймеров и создателей контента. Новинка объединяет технологии студийных
+наушников ATH-M50x и микрофонов [...]]]></description>
+    </item>
+    <item>
+      <title>Известный инсайдер раскрыл новые подробности об iPhone Air 2</title>
+      <link>https://4pda.to/2026/10/29/462772/izvestnyj_insajder_raskryl_novye_podrobnosti_ob_iphone_air_2/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462772/izvestnyj_insajder_raskryl_novye_podrobnosti_ob_iphone_air_2/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[В сети снова появились новые детали о втором поколении iPhone Air. По словам известного инсайдера Digital Chat Station, Apple сохранит тонкий формат модели, но обновит сразу несколько характеристик.
+По&nbsp;данным [...]]]></description>
+    </item>
+    <item>
+      <title>AOC выпустила двухрежимный 27-дюймовый игровой монитор с частотой до 400 Гц</title>
+      <link>https://4pda.to/2026/10/29/462748/aoc_vypustila_dvukhrezhimnyj_27_dyujmovyj_igrovoj_monitor_s_chastotoj_do_400_gts/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462748/aoc_vypustila_dvukhrezhimnyj_27_dyujmovyj_igrovoj_monitor_s_chastotoj_do_400_gts/</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Компания AOC представила новый
+игровой монитор — модель AG277UXA. Устройство позволяет
+выбирать между высокой частотой обновления и повышенным разрешением в
+зависимости от задачи.
+27-дюймовая матрица [...]]]></description>
+    </item>
+    <item>
+      <title>Минчанин словил в Чижовском водохранилище огромного сома</title>
+      <link>https://people.onliner.by/go/1342263</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/minchanin-slovil-v-chizhovskom-vodoxranilishhe-ogromnogo-soma</guid>
+      <pubDate>Thu, 29 Oct 2026 14:42:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/minchanin-slovil-v-chizhovskom-vodoxranilishhe-ogromnogo-soma"><img alt="" src="https://content.onliner.by/news/thumbnail/46c1fa0e65b7b56dabb77d342b06045c.jpg" /></a></p><p>В Чижовском водохранилище белорус словил огромного сома, который весит больше 30 кг. Своим уловом минчанин поделился в соцсетях. Журналисты Onlíner связывались с мужчиной, чтобы узнать подробности успешной рыбалки.
+</p><p><a href="https://people.onliner.by/2026/10/29/minchanin-slovil-v-chizhovskom-vodoxranilishhe-ogromnogo-soma">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Отдельная полоса для блатных»: читатель жалуется на «обочечников». А вы за кого?  (обновлено)</title>
+      <link>https://auto.onliner.by/go/1271633</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/otdelnaya-polosa-dlya-blatnyx-chitatel-zhaluetsya-na-obochechnikov-a-vy-za-kogo</guid>
+      <pubDate>Thu, 29 Oct 2026 14:31:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/otdelnaya-polosa-dlya-blatnyx-chitatel-zhaluetsya-na-obochechnikov-a-vy-za-kogo"><img alt="" src="https://content.onliner.by/news/thumbnail/e9de0939f85ec00d6a34fbfdba95f909.jpg" /></a></p><p>Стоишь в пробке на МКАД, опаздываешь, нервничаешь и видишь, как мимо тебя по обочине проносится более прыткий автолюбитель. И чаще всего не один, а несколько. Как это может не бесить тех, кто честно соблюдает ПДД и простаивает в заторе вместе с остальными водителями? Вот и нашего читателя сильно раздражают «обочечники».
+</p><p><a href="https://auto.onliner.by/2026/10/29/otdelnaya-polosa-dlya-blatnyx-chitatel-zhaluetsya-na-obochechnikov-a-vy-za-kogo">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Apple озвучила стоимость топовой конфигурации Mac Studio с 512 ГБ объединённой памяти</title>
+      <link>https://4pda.to/2026/10/29/462764/apple_ozvuchila_stoimost_topovoj_konfiguratsii_mac_studio_s_512_gb_obedinyonnoj_pamyati/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462764/apple_ozvuchila_stoimost_topovoj_konfiguratsii_mac_studio_s_512_gb_obedinyonnoj_pamyati/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:25:00 +0000</pubDate>
+      <description><![CDATA[Apple раскрыла цену топовой
+версии настольного компьютера Mac Studio. Речь идёт о модели с чипом M5 Ultra и
+максимально доступным в линейке объёмом объединённой памяти — 512 ГБ.
+Базовая версия компьютера
+поставляется [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung представила складной смартфон W27 с поддержкой спутниковой связи</title>
+      <link>https://4pda.to/2026/10/29/462759/samsung_predstavila_skladnoj_smartfon_w27_s_podderzhkoj_sputnikovoj_svyazi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462759/samsung_predstavila_skladnoj_smartfon_w27_s_podderzhkoj_sputnikovoj_svyazi/</guid>
+      <pubDate>Thu, 29 Oct 2026 14:15:00 +0000</pubDate>
+      <description><![CDATA[Samsung выпустила в Китае
+складной смартфон W27, ставший частью премиальной линейки Heart of the World. Модель
+получила тонкий корпус, мощную начинку и поддержку
+спутниковых звонков и сообщений там, где [...]]]></description>
+    </item>
+    <item>
+      <title>Гомельчанину продали розетку и словарь по цене телефона</title>
+      <link>https://money.onliner.by/go/352786</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/gomelchaninu-prodali-rozetku</guid>
+      <pubDate>Thu, 29 Oct 2026 14:14:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/gomelchaninu-prodali-rozetku"><img alt="" src="https://content.onliner.by/news/thumbnail/5b00733e4adf24f57c90173e5ee28b67.jpg" /></a></p><p>Житель Гомеля решил купить Samsung по объявлению на популярной барахолке, но вместо телефона получил довольно неожиданный набор: толковый словарь и электрическую розетку. Причем за посылку мужчина заплатил дважды. Подробности истории пишет «Белка».</p><p><a href="https://money.onliner.by/2026/10/29/gomelchaninu-prodali-rozetku">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>3250 рублей за «квадрат». ЖК с такой ценой строят в обычном городе Беларуси (даже не областном)</title>
+      <link>https://realt.onliner.by/go/1139841</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/3250-rublej-za-kvadrat</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/3250-rublej-za-kvadrat"><img alt="" src="https://content.onliner.by/news/thumbnail/5b1392f25d1138693c7243cb04df0d6d.jpg" /></a></p><p>В Бобруйске начали возводить симпатичный малоэтажный жилой комплекс, пишет местное издание <a href="https://komkur.info/news-company/u-bobrujsk-areny-stroitsya-uyutnyj-mnogokvartirnyj-zhiloj-dom-kupit-tam-kvartiru-mozhno-uzhe-sejchas" target="_blank">komkur.info</a>. И все бы ничего, но ценник здесь впечатляет: за метр просят 3250 рублей, или около $1100 по курсу. И это в обычном городе, где еще в августе средняя стоимость «квадрата» держалась на уровне $682 в эквиваленте. Даже в областных центрах (например, в Витебске) можно найти варианты подешевле.
+</p><p><a href="https://realt.onliner.by/2026/10/29/3250-rublej-za-kvadrat">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>В Гомеле вынесли приговор двум педофилам</title>
+      <link>https://people.onliner.by/go/1342253</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/v-gomele-vynesli-prigovor-dvum-pedofilam</guid>
+      <pubDate>Thu, 29 Oct 2026 13:52:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/v-gomele-vynesli-prigovor-dvum-pedofilam"><img alt="" src="https://content.onliner.by/news/thumbnail/f7571dfe3181d9a8a138d8541533f14a.jpg" /></a></p><p>В Гомеле удалось раскрыть два тяжких преступления прошлых лет сексуального характера в отношении малолетних девочек. По данным следствия, потерпевшие в силу возраста не могли в полной мере осознавать характер и значение происходившего. Об этом <a href="https://newsgomel.by/news/society/v-gomele-osudili-dvukh-pedofilov_231770.html">сообщает</a> «Гомельская правда».
+</p><p><a href="https://people.onliner.by/2026/10/29/v-gomele-vynesli-prigovor-dvum-pedofilam">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Яндекс» закрыл опасную уязвимость в миллионах умных колонок и телевизоров</title>
+      <link>https://4pda.to/2026/10/29/462746/yandeks_zakryl_opasnuyu_uyazvimost_v_millionakh_umnykh_kolonok_i_televizorov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462746/yandeks_zakryl_opasnuyu_uyazvimost_v_millionakh_umnykh_kolonok_i_televizorov/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:50:00 +0000</pubDate>
+      <description><![CDATA[«Яндекс» выпустил экстренное
+обновление безопасности для миллионов умных колонок и большинства телевизоров
+партнёров на YaOS. Причиной стала уязвимость, которая позволяла создавать
+поддельные сертификаты [...]]]></description>
+    </item>
+    <item>
+      <title>Пьяный слесарь на комбайне наехал на двух механизаторов. Один погиб</title>
+      <link>https://auto.onliner.by/go/1272648</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/pyanyj-slesar-na-kombajne</guid>
+      <pubDate>Thu, 29 Oct 2026 13:45:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/pyanyj-slesar-na-kombajne"><img alt="" src="https://content.onliner.by/news/thumbnail/948bc7ddcbf7e626ffaf84abaa4064d5.jpg" /></a></p><p>Сегодня днем на территории УСП «Совхоз „Великосельский“» в деревне Великое Село 58-летний слесарь мастерской был за рулем комбайна и наехал на двух механизаторов. Один из них погиб.</p><p><a href="https://auto.onliner.by/2026/10/29/pyanyj-slesar-na-kombajne">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>POCO C95 Pro с аккумулятором на 7500 мАч поступил в продажу в России</title>
+      <link>https://4pda.to/2026/10/29/462758/poco_c95_pro_s_akkumulyatorom_na_7500_mach_postupil_v_prodazhu_v_rossii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462758/poco_c95_pro_s_akkumulyatorom_na_7500_mach_postupil_v_prodazhu_v_rossii/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[POCO привезла в Россию C95 Pro — модель, в которой ставку сделали на практичность и повседневный комфорт. Смартфон получил несколько особенностей, которые особенно пригодятся тем, кто много смотрит видео, [...]]]></description>
+    </item>
+    <item>
+      <title>Resident Evil движется к финалу: Capcom готовит развязку истории</title>
+      <link>https://4pda.to/2026/10/29/462762/resident_evil_dvizhetsya_k_finalu_capcom_gotovit_razvyazku_istorii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462762/resident_evil_dvizhetsya_k_finalu_capcom_gotovit_razvyazku_istorii/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:35:17 +0000</pubDate>
+      <description><![CDATA[Resident Evil в этом году исполнилось 30 лет, но история серии ещё далека от завершения. Впрочем, у Capcom уже есть план, как закончить многолетние приключения знакомых героев. И до развязки осталось не [...]]]></description>
+    </item>
+    <item>
+      <title>Представлены OnePlus Ace 7 и Ace 7 Pro с активным охлаждением и АКБ на 9000 мАч</title>
+      <link>https://4pda.to/2026/10/29/462773/predstavleny_oneplus_ace_7_i_ace_7_pro_s_aktivnym_okhlazhdeniem_i_akb_na_9000_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462773/predstavleny_oneplus_ace_7_i_ace_7_pro_s_aktivnym_okhlazhdeniem_i_akb_na_9000_mach/</guid>
+      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[OnePlus представила Ace 7 и Ace 7 Pro — две модели с упором на игры и высокую производительность. В этом поколении серия впервые получила встроенные вентиляторы, а основные различия между смартфонами свелись [...]]]></description>
+    </item>
+    <item>
+      <title>Иллюзия, аномалия, НЛО? В Минске на небе заметили загадочное свечение</title>
+      <link>https://tech.onliner.by/go/799330</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/illyuziya-anomaliya-nlo-v-minske-na-nebe-zametili-zagadochnoe-svechenie</guid>
+      <pubDate>Thu, 29 Oct 2026 13:00:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/illyuziya-anomaliya-nlo-v-minske-na-nebe-zametili-zagadochnoe-svechenie"><img alt="" src="https://content.onliner.by/news/thumbnail/20608ca3deea66b336a30f12011cf0a9.jpg" /></a></p><p>Минчане, вышедшие на прогулку 28 октября, могли заметить в небе необычное свечение. Белорусы в разных частях города наблюдали как одиночные, так и парные столбы света. По словам очевидцев, такие источники света «то появлялись, то пропадали». В Threads бросились гадать, что же это было — аномалия, иллюзия или вообще космический корабль? Такие предположения звучат интересно, но реальность куда прозаичнее.</p><p><a href="https://tech.onliner.by/2026/10/29/illyuziya-anomaliya-nlo-v-minske-na-nebe-zametili-zagadochnoe-svechenie">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Студент сходил отдохнуть на Зыбицкую, а вернулся с уголовным делом</title>
+      <link>https://money.onliner.by/go/352731</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/student-sxodil-otdoxnut-na-zybickuyu-a-vernulsya-s-ugolovnym-delom</guid>
+      <pubDate>Thu, 29 Oct 2026 12:59:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/student-sxodil-otdoxnut-na-zybickuyu-a-vernulsya-s-ugolovnym-delom"><img alt="" src="https://content.onliner.by/news/thumbnail/930e62984ca3226eaa0a14d894d84dc1.jpg" /></a></p><p>Поход в бар на Зыбицкой закончился для 16-летнего минчанина уголовным делом. Парень заметил оставленный без присмотра кошелек и решил забрать его себе. Внутри оказалась довольно приличная сумма.</p><p><a href="https://money.onliner.by/2026/10/29/student-sxodil-otdoxnut-na-zybickuyu-a-vernulsya-s-ugolovnym-delom">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>«Поцарапал мне машину и скрылся». Девушка ищет очевидцев ДТП на МКАД</title>
+      <link>https://auto.onliner.by/go/1272636</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/dtp-na-makd</guid>
+      <pubDate>Thu, 29 Oct 2026 12:47:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/dtp-na-makd"><img alt="" src="https://content.onliner.by/news/thumbnail/b4bbe2a47337f1f4549ca5a91c00ffa5.jpg" /></a></p><p>К нам обратилась читательница и рассказала, что вчера на внутреннем кольце МКАД, в районе ТЦ «Экспобел», перед съездом на Логойский тракт попала в ДТП. Все случилось 28 октября, около семи часов вечера.</p><p><a href="https://auto.onliner.by/2026/10/29/dtp-na-makd">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Множество снарядов времен Первой мировой войны обнаружили из-за таяния ледников</title>
+      <link>https://realt.onliner.by/go/1139768</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/mnozhestvo-snaryadov</guid>
+      <pubDate>Thu, 29 Oct 2026 12:34:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/mnozhestvo-snaryadov"><img alt="" src="https://content.onliner.by/news/thumbnail/5d7704e7f94c3ee91c79ce9315fa0e53.jpg" /></a></p><p>На севере Италии военные завершили масштабную операцию по вывозу боеприпасов времен Первой мировой войны, которые начали появляться из-под стремительно отступающих ледников в Доломитах. Всего с горных склонов и туристических маршрутов было удалено около 250 снарядов и мин, <a href="https://edition.cnn.com/2026/10/28/travel/munitions-melting-ice-dolomites-scli-intl" target="_blank">сообщает</a> CNN.</p><p><a href="https://realt.onliner.by/2026/10/29/mnozhestvo-snaryadov">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>От конспекта до спортзала: три гаджета HUAWEI для продуктивной учёбы</title>
+      <link>https://4pda.to/2026/10/29/462766/ot_konspekta_do_sportzala_tri_gadzheta_huawei_dlya_produktivnoj_uchyoby/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462766/ot_konspekta_do_sportzala_tri_gadzheta_huawei_dlya_produktivnoj_uchyoby/</guid>
+      <pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate>
+      <description><![CDATA[Вопрос выбора подходящих гаджетов остается актуальным в любое время года: всегда хочется, чтобы техника была не просто современной и ярко выглядящей, но и реально помогала в учёбе, работе и повседневной [...]]]></description>
+    </item>
+    <item>
+      <title>За регистрацию «серых» и купленных за границей смартфонов будут брать деньги</title>
+      <link>https://4pda.to/2026/10/29/462769/za_registratsiyu_serykh_i_kuplennykh_za_granitsej_smartfonov_budut_brat_dengi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462769/za_registratsiyu_serykh_i_kuplennykh_za_granitsej_smartfonov_budut_brat_dengi/</guid>
+      <pubDate>Thu, 29 Oct 2026 12:29:00 +0000</pubDate>
+      <description><![CDATA[По данным РБК, владельцев «серых» или купленных за границей смартфонов хотят обязать&nbsp;регистрировать их&nbsp;IMEI через&nbsp;«Госуслуги». Минцифры предлагает выделить на процедуру две недели. При этом [...]]]></description>
+    </item>
+    <item>
+      <title>Официально: Epic Games вайбкодит движок Unreal Engine 6</title>
+      <link>https://4pda.to/2026/10/29/462761/ofitsialno_epic_games_vajbkodit_dvizhok_unreal_engine_6/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/29/462761/ofitsialno_epic_games_vajbkodit_dvizhok_unreal_engine_6/</guid>
+      <pubDate>Thu, 29 Oct 2026 12:25:00 +0000</pubDate>
+      <description><![CDATA[Нейросети всё чаще помогают создавать игры, но Epic Games решила пойти дальше. Компания доверила ИИ работу над самим Unreal Engine, на котором делают множество современных проектов. Причём речь уже не [...]]]></description>
     </item>
     <item>
       <title>Мужчина сделал приложение из клише, которые он собирал 35 лет</title>
@@ -67,6 +291,14 @@
       <category>Кошелек</category>
     </item>
     <item>
+      <title>Is Ubuntu Eyeing Immutability? Canonical Restarts Core Desktop and Eyes a Firmware Change for LTS</title>
+      <link>https://feed.itsfoss.com/link/24361/17510602/ubuntu-core-desktop-firmware-hwe</link>
+      <guid isPermaLink="false">6ae2e0fc1b851a0001834b47</guid>
+      <pubDate>Thu, 29 Oct 2026 11:01:02 +0000</pubDate>
+      <description><![CDATA[ubuntu core desktop banner]]></description>
+      <category>News</category>
+    </item>
+    <item>
       <title>Новый роутер ZTE с Wi-Fi 7 и поддержкой двух подключений оценили в $28</title>
       <link>https://4pda.to/2026/10/29/462739/novyj_router_zte_s_wi_fi_7_i_podderzhkoj_dvukh_podklyuchenij_otsenili_v_28/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/29/462739/novyj_router_zte_s_wi_fi_7_i_podderzhkoj_dvukh_podklyuchenij_otsenili_v_28/</guid>
@@ -89,7 +321,7 @@
       <link>https://realt.onliner.by/go/1139779</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene</guid>
       <pubDate>Thu, 29 Oct 2026 10:41:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene"><img alt="" src="https://content.onliner.by/news/thumbnail/bbe743f5e4f59b65167a70067d8a816c.jpg" /></a></p><p>Продолжаем мониторить базу Onlíner <a href="https://r.onliner.by/pk/">«Дома и квартиры»</a> в поисках самой дешевой квартиры в Минске. Совсем недавно этим статусом обладало жилье на улице Берута за $64 900 в эквиваленте. Но, судя по исчезнувшему объявлению, квартира уже нашла своего хозяина. Теперь самое бюджетное жилье находится на улице Кабушкина и стоит чуть дороже — $66 400 по курсу. Также напоминаем, что не рассматриваем доли в квартирах, объявления без фотографий и жилье в частных домах.
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene"><img alt="" src="https://content.onliner.by/news/thumbnail/bbe743f5e4f59b65167a70067d8a816c.jpg" /></a></p><p>Продолжаем мониторить базу Onlíner <a href="https://r.onliner.by/pk/">«Дома и квартиры»</a> в поисках самой дешевой квартиры в Минске. Совсем недавно этим статусом обладало жилье на улице Берута за 191 тысяч рублей ($64 900 в эквиваленте). Но, судя по исчезнувшему объявлению, квартира уже нашла своего хозяина. Теперь самое бюджетное жилье находится на улице Кабушкина и стоит чуть дороже — почти 186 тысяч рублей ($66 400 по курсу). Также напоминаем, что не рассматриваем доли в квартирах, объявления без фотографий и жилье в частных домах.
 </p><p><a href="https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
@@ -136,29 +368,11 @@ USB-C, который можно использовать в качестве р
       <category>Кошелек</category>
     </item>
     <item>
-      <title>В Гомеле встретились делегации России и Украины. Жителей Алешек планируют вывезти через Беларусь</title>
-      <link>https://people.onliner.by/go/1342185</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/oleshki-gomel</guid>
-      <pubDate>Thu, 29 Oct 2026 09:35:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/oleshki-gomel"><img alt="" src="https://content.onliner.by/news/thumbnail/77e192eae62394832013b9b489c1aafb.jpg" /></a></p><p>Беларусь подключилась к гуманитарной операции в Алешках Херсонской области, где из-за боевых действий остаются около двух тысяч человек. В Гомель уже прибыли российская и украинская делегации. А 31 октября сюда должны доставить жителей Алешек, которые смогут безопасно вернуться в Украину.
-</p><p><a href="https://people.onliner.by/2026/10/29/oleshki-gomel">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Глобальная ColorOS 17 вышла для OnePlus, OPPO и realme. Что вы получите?</title>
       <link>https://4pda.to/2026/10/29/462736/globalnaya_coloros_17_vyshla_dlya_oneplus_oppo_i_realme_chto_vy_poluchite/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/29/462736/globalnaya_coloros_17_vyshla_dlya_oneplus_oppo_i_realme_chto_vy_poluchite/</guid>
       <pubDate>Thu, 29 Oct 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[29 октября стартует развёртывание стабильной ColorOS 17 на базе Android 17. Релиз примечателен тем, что заменит OxygenOS на смартфонах OnePlus и realme UI на аппаратах realme. Апдейт предложит стеклянный [...]]]></description>
-    </item>
-    <item>
-      <title>«Нормально ли использовать обочину как полосу разгона?» Краснов ответил</title>
-      <link>https://auto.onliner.by/go/1272596</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/normalno-li-ispolzovat-obochinu-kak-polosu-razgona-krasnov-otvetil</guid>
-      <pubDate>Thu, 29 Oct 2026 09:25:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/normalno-li-ispolzovat-obochinu-kak-polosu-razgona-krasnov-otvetil"><img alt="" src="https://content.onliner.by/news/thumbnail/f1bcc5bd5108f68d0e2778aeac080a4d.jpg" /></a></p><p>Жители «Зеленой гавани» и те, кто часто бывает там, сразу узнают этот выезд. Дело вот в чем: если вы едете из этого ЖК в Минск, то вам в любом случае придется сворачивать на МКАД. Но на пересечении с кольцевой отсутствует полоса разгона — нужно сразу «нырять» в крайнюю правую полосу. Когда поток плотный, сделать это не так уж легко.
-</p><p><a href="https://auto.onliner.by/2026/10/29/normalno-li-ispolzovat-obochinu-kak-polosu-razgona-krasnov-otvetil">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>Защищённый Honor X8e переживёт кипяток, солевой туман и падение с 2,5 м</title>
@@ -187,14 +401,6 @@ USB-C, который можно использовать в качестве р
 В [...]]]></description>
     </item>
     <item>
-      <title>В сети продают компьютер за 59,7 миллиона. Вот что он умеет</title>
-      <link>https://tech.onliner.by/go/799255</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/v-seti-prodayut-kompyuter-za-597-milliona-vot-chto-on-umeet</guid>
-      <pubDate>Thu, 29 Oct 2026 09:01:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/v-seti-prodayut-kompyuter-za-597-milliona-vot-chto-on-umeet"><img alt="" src="https://content.onliner.by/news/thumbnail/1c57325079f1b272a181c8332e457b68.jpg" /></a></p><p>Компания Core 4 Solutions выставила на eBay бэушный вычислительный кластер для искусственного интеллекта за 59,7 миллиона долларов. Система включает 300 серверных стоек, до 9600 ускорителей NVIDIA A100 с 40 ГБ памяти каждый и 4200 процессоров AMD EPYC Rome с 64 ядрами. <a href="https://www.tomshardware.com/desktops/servers/it-vendor-lists-massive-usd60-million-ai-cluster-on-ebay-300x-racks-of-decommissioned-gpus-includes-9-600-nvidia-a100-gpus-and-4-200-amd-epyc-cpus-plus-free-shipping" target="_blank">Сообщается</a>, что весь этот набор пригодится для задач ИИ, машинного обучения и научных вычислений.</p><p><a href="https://tech.onliner.by/2026/10/29/v-seti-prodayut-kompyuter-za-597-milliona-vot-chto-on-umeet">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
       <title>Lenovo показала ноутбук с мощным чипом Intel Core Ultra и слотом для eGPU</title>
       <link>https://4pda.to/2026/10/29/462733/lenovo_pokazala_noutbuk_s_moschnym_chipom_intel_core_ultra_i_slotom_dlya_egpu/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/29/462733/lenovo_pokazala_noutbuk_s_moschnym_chipom_intel_core_ultra_i_slotom_dlya_egpu/</guid>
@@ -202,62 +408,11 @@ USB-C, который можно использовать в качестве р
       <description><![CDATA[В каталоге ноутбуков Lenovo появилась 16-дюймовая модель Lecoo Pro 16 Core Edition. Помимо производительного железа из коробки, новинка предлагает возможность апгрейда видеокарты при помощи интерфейса [...]]]></description>
     </item>
     <item>
-      <title>Люди стояли в очереди за квартирами в этом доме. Узнали, на каком этапе сейчас стройка</title>
-      <link>https://realt.onliner.by/go/1139757</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/uznali-na-kakom-etape-sejchas-strojka</guid>
-      <pubDate>Thu, 29 Oct 2026 08:58:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/uznali-na-kakom-etape-sejchas-strojka"><img alt="" src="https://content.onliner.by/news/thumbnail/03c24fc12a854212786e94ad0ce4b126.jpg" /></a></p><p>На улице Макаенка, в шаговой доступности от станции метро «Московская» и парка Челюскинцев, продолжают строить новый жилой комплекс для очередников. Проект от УКС Заводского района привлек колоссальное внимание: за квартирами в первой высотке минчане <a href="https://realt.onliner.by/2026/08/21/3800-rublej-za-kvadrat" target="_blank">выстраивались</a> в очереди. В тот момент дом находился в зачаточном состоянии. Смотрим, что там происходит прямо сейчас.
-</p><p><a href="https://realt.onliner.by/2026/10/29/uznali-na-kakom-etape-sejchas-strojka">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Автобус пытались ввезти в Беларусь по документам другого транспорта. Его изъяли (видео)</title>
-      <link>https://auto.onliner.by/go/1272589</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/avtobus-izyali</guid>
-      <pubDate>Thu, 29 Oct 2026 08:54:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/avtobus-izyali"><img alt="" src="https://content.onliner.by/news/thumbnail/f743b51fbc94be76ddc1e23b967789f2.jpg" /></a></p><p>Брестские таможенники пресекли попытку незаконно ввезти в ЕАЭС пассажирский автобус 2006 года выпуска, чтобы потом пустить его в оборот. У специалистов возникли сомнения в подлинности идентификационного номера иностранного автобуса.</p><p><a href="https://auto.onliner.by/2026/10/29/avtobus-izyali">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Вы мне понравились, оставлю вам $520 тысяч». Белорус поверил женщине из TikTok и потерял деньги</title>
-      <link>https://money.onliner.by/go/352669</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/vy-mne-ponravilis-ostavlyu</guid>
-      <pubDate>Thu, 29 Oct 2026 08:41:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/vy-mne-ponravilis-ostavlyu"><img alt="" src="https://content.onliner.by/news/thumbnail/f9693e14ac123e73c694a010944ba020.jpg" /></a></p><p>63-летний житель Бреста познакомился в TikTok с женщиной, которая пообещала оставить ему огромное наследство. Незнакомка уверяла, что смертельно больна и хочет передать мужчине более 520 тысяч долларов. Правда, сначала попросила немного заплатить.</p><p><a href="https://money.onliner.by/2026/10/29/vy-mne-ponravilis-ostavlyu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Съездили на атмосферную экскурсию по мотивам «Дзікага палявання караля Стаха». Фоторепортаж</title>
-      <link>https://people.onliner.by/go/1342083</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/dikaya-oxota-v-sule</guid>
-      <pubDate>Thu, 29 Oct 2026 08:37:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/dikaya-oxota-v-sule"><img alt="" src="https://content.onliner.by/news/thumbnail/0769f47a6e8b388d957a2a00d27bd679.jpg" /></a></p><p><em> «…Не бразгочуць мячы, не ржуць маўклівыя коні. Толькі часам аднекуль здалёк даносіцца спеў рога. Развяваюцца грывы, балотныя агні ззяюць пад нагамі коней…»</em> — так описывал Дикую охоту короля Стаха Владимир Короткевич в одноименной повести. Погрузиться в атмосферу мистического детектива, встретить героев книги и побывать на балу с самой Надеждой Яновской можно в парке средневековой истории «Великое княжество Сула». В выходные журналисты Onlíner съездили на тематическую экскурсию. О том, как это было, читайте в нашем репортаже.
-</p><p><a href="https://people.onliner.by/2026/10/29/dikaya-oxota-v-sule">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Вжух, и ты больше не магл. Изучаем realme 16 Pro 5G Harry Potter Edition</title>
       <link>https://4pda.to/2026/10/29/462462/vzhukh_i_ty_bolshe_ne_magl_izuchaem_realme_16_pro_5g_harry_potter_edition/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/29/462462/vzhukh_i_ty_bolshe_ne_magl_izuchaem_realme_16_pro_5g_harry_potter_edition/</guid>
       <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
       <description><![CDATA[В голове играет до боли знакомая мелодия, а перед глазами проносится калейдоскоп приятных воспоминаний — это realme открыла проход на платформу 9 &#190; для истинных фанатов «Гарри Поттера». Перед нами [...]]]></description>
-    </item>
-    <item>
-      <title>Школьнику дали задание — запутался даже ChatGPT</title>
-      <link>https://tech.onliner.by/go/799247</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/shkolniku-dali-zadanie-zaputalsya-dazhe-chatgpt</guid>
-      <pubDate>Thu, 29 Oct 2026 07:58:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/shkolniku-dali-zadanie-zaputalsya-dazhe-chatgpt"><img alt="" src="https://content.onliner.by/news/thumbnail/585eb72b5e451f09eeb48224f3205105.jpg" /></a></p><p>Школьные задачки продолжают удивлять. Казалось бы, что с заданиями, размещенными в учебниках, школьники (при должном уровне усердия и внимательности) должны справляться на раз-два. На деле же выходит так, что с некоторыми уравнениями, примерами и головоломками не могут справиться и взрослые, вооруженные искусственным интеллектом.</p><p><a href="https://tech.onliner.by/2026/10/29/shkolniku-dali-zadanie-zaputalsya-dazhe-chatgpt">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Семья купила себе остров и построила там уютный коттедж. Показываем, как это выглядит</title>
-      <link>https://realt.onliner.by/go/1139668</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/postroili-kottedzh-v-rybackom-stile</guid>
-      <pubDate>Thu, 29 Oct 2026 07:57:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/postroili-kottedzh-v-rybackom-stile"><img alt="" src="https://content.onliner.by/news/thumbnail/d3a5a5c084fcdea474f7772d0594e1d6.jpg" /></a></p><p><p>Супружеская пара искала место для тихого отдыха и <a href="https://www.veranda.com/decorating-ideas/house-tours/a73307626/gil-schafer-new-hampshire-island-house/" target="_blank">купила</a> крошечный остров на озере в Нью-Гэмпшире. На пятачке суши площадью всего около 6 соток они решили поставить уединенный коттедж, лодочный сарай и небольшую насосную станцию.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/10/29/postroili-kottedzh-v-rybackom-stile">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>HUAWEI представила безвентиляторный складной кулер для смартфонов</title>
@@ -285,174 +440,11 @@ Nemotron 3.5 Transcribe — модель искусственного интел
 отвечать на вопросы [...]]]></description>
     </item>
     <item>
-      <title>Валюты дружно пошли вверх. Сколько теперь стоят доллар и евро? (обновлено)</title>
-      <link>https://money.onliner.by/go/352660</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/dollar-sdelal-vid-chto-padaet-chto-s-kursami-valyut</guid>
-      <pubDate>Thu, 29 Oct 2026 07:28:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/dollar-sdelal-vid-chto-padaet-chto-s-kursami-valyut"><img alt="" src="https://content.onliner.by/news/thumbnail/bfc6821a617dbdf837d77a86c0c17947.jpg" /></a></p><p>К концу торгов 29 октября доллар передумал дешеветь и все-таки выбрался в плюс. Причем компанию ему составили остальные валюты: евро, российский рубль и юань тоже подорожали. Тем временем биткоин опустился до $79 957.
-</p><p><a href="https://money.onliner.by/2026/10/29/dollar-sdelal-vid-chto-padaet-chto-s-kursami-valyut">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Хакеры добрались до данных тысяч сотрудников американских спецслужб</title>
-      <link>https://tech.onliner.by/go/799226</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/xakery-dobralis-do-dannyx-tysyach-sotrudnikov-amerikanskix-specsluzhb</guid>
-      <pubDate>Thu, 29 Oct 2026 07:08:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/xakery-dobralis-do-dannyx-tysyach-sotrudnikov-amerikanskix-specsluzhb"><img alt="" src="https://content.onliner.by/news/thumbnail/2d18f88f75e1ec69fc215eadb9eb4f5a.jpg" /></a></p><p>Хакеры опубликовали данные более 41 тысячи сотрудников и подрядчиков Министерства внутренней безопасности США. Также были раскрыты данные работников Иммиграционной и таможенной полиции и Таможенно-пограничной службы: в сети оказались их имена, должности, номера телефонов, адреса электронной почты и места работы.</p><p><a href="https://tech.onliner.by/2026/10/29/xakery-dobralis-do-dannyx-tysyach-sotrudnikov-amerikanskix-specsluzhb">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Новые правила дактилоскопии: кто обязан сдавать отпечатки пальцев и как это будет работать</title>
-      <link>https://people.onliner.by/go/1342162</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/v-belarusi-utochnili-kto-dolzhen-sdavat-otpechatki-palcev-i-kak-eto-budet-rabotat</guid>
-      <pubDate>Thu, 29 Oct 2026 07:03:22 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/v-belarusi-utochnili-kto-dolzhen-sdavat-otpechatki-palcev-i-kak-eto-budet-rabotat"><img alt="" src="https://content.onliner.by/news/thumbnail/0ed3f6917f905137a335c17b7af1c2d9.jpg" /></a></p><p>Президент Беларуси Александр Лукашенко 28 октября подписал <a href="https://pravo.by/document/?guid=12551&amp;p0=P32600387">указ</a>, который уточняет порядок обязательной дактилоскопии для белорусов с иностранными документами и тех, кто оформил постоянное проживание за границей и состоит на консульском учете.
-</p><p><a href="https://people.onliner.by/2026/10/29/v-belarusi-utochnili-kto-dolzhen-sdavat-otpechatki-palcev-i-kak-eto-budet-rabotat">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>17-летний «бесправник» и два пассажира перевернулись на автомобиле. Подробности ДТП (обновлено)</title>
-      <link>https://auto.onliner.by/go/1272151</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/voditel-v-reanimacii</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/voditel-v-reanimacii"><img alt="" src="https://content.onliner.by/news/thumbnail/37b545f7bb444b85e70ed702d1ad47aa.jpg" /></a></p><p>26 октября ночью в Гомельской области 17-летний «бесправник» за рулем легкового автомобиля ехал на 4-м километре трассы (Наровля — Конотоп). Он не справился с управлением, вылетел в кювет и опрокинулся.</p><p><a href="https://auto.onliner.by/2026/10/29/voditel-v-reanimacii">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>На маркетплейсе продавался опасный БАД. Что с ним не так?</title>
-      <link>https://money.onliner.by/go/352652</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/na-marketplejse-prodavalsya</guid>
-      <pubDate>Thu, 29 Oct 2026 06:48:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/na-marketplejse-prodavalsya"><img alt="" src="https://content.onliner.by/news/thumbnail/c49abe721946d63155197e343ea67ed4.jpg" /></a></p><p>Белорусские специалисты обнаружили на маркетплейсе биологически активную добавку, в которой содержание витамина C превышает допустимую норму. Продукт продавался как средство для укрепления иммунитета.</p><p><a href="https://money.onliner.by/2026/10/29/na-marketplejse-prodavalsya">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Xenium L240 — кнопочный телефон с поддержкой 4G и большим аккумулятором</title>
       <link>https://4pda.to/2026/10/29/462676/xenium_l240_knopochnyj_telefon_s_podderzhkoj_4g_i_bolshim_akkumulyatorom/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/29/462676/xenium_l240_knopochnyj_telefon_s_podderzhkoj_4g_i_bolshim_akkumulyatorom/</guid>
       <pubDate>Thu, 29 Oct 2026 06:30:00 +0000</pubDate>
       <description><![CDATA[Даже в 2026 году кнопочный телефон остаётся практичным вариантом для тех, кому нужны звонки и SMS без отвлекающих уведомлений, сложных настроек и необходимости каждый день искать розетку. Xenium L240 сочетает [...]]]></description>
-    </item>
-    <item>
-      <title>Прогресс, который бесит. 6 вещей, которые раздражают в современной технике</title>
-      <link>https://tech.onliner.by/go/799147</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/progress-kotoryj-besit-6-veshhej-kotorye-razdrazhayut-v-sovremennoj-texnike</guid>
-      <pubDate>Thu, 29 Oct 2026 06:29:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/progress-kotoryj-besit-6-veshhej-kotorye-razdrazhayut-v-sovremennoj-texnike"><img alt="" src="https://content.onliner.by/news/thumbnail/de1b36edb5d10ba6b0a4c9d1526f3d50.png" /></a></p><p>Мы привыкли считать новые возможности признаком прогресса и ждать, что вместе с ними техника станет удобнее. Но порой очередное улучшение заставляет скучать по тому, как все работало раньше. Почему, придумывая новое, производители забывают о простых требованиях к технике — и нам снова приходится объяснять, что именно было удобно?</p><p><a href="https://tech.onliner.by/2026/10/29/progress-kotoryj-besit-6-veshhej-kotorye-razdrazhayut-v-sovremennoj-texnike">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Территория увеличится в пять раз. Известный минский парк ждут изменения</title>
-      <link>https://realt.onliner.by/go/1139659</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/territoriya-uvelichitsya-v-pyat-raz</guid>
-      <pubDate>Thu, 29 Oct 2026 06:17:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/territoriya-uvelichitsya-v-pyat-raz"><img alt="" src="https://content.onliner.by/news/thumbnail/b004f0bc8be956b5d9d9161377e214ab.jpg" /></a></p><p><p>Застройщик «Северного берега» объявил о расширении Лэйксайд парка вдоль берега Цнянского водохранилища. В перспективе зона отдыха вырастет с нынешних 7 до 36 гектаров, при этом осваивать территорию планируют поэтапно.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/10/29/territoriya-uvelichitsya-v-pyat-raz">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>realme начала глобальный переход на ColorOS 17. Что изменится для пользователей?</title>
-      <link>https://4pda.to/2026/10/29/462730/realme_nachala_globalnyj_perekhod_na_coloros_17_chto_izmenitsya_dlya_polzovatelej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462730/realme_nachala_globalnyj_perekhod_na_coloros_17_chto_izmenitsya_dlya_polzovatelej/</guid>
-      <pubDate>Thu, 29 Oct 2026 06:01:00 +0000</pubDate>
-      <description><![CDATA[В глобальных версиях некоторых смартфонов realme вместо привычной realme UI постепенно появляется ColorOS 17 на базе Android 17. Обновление меняет дизайн оболочки, а также её подход к работе с ИИ-функциями, [...]]]></description>
-    </item>
-    <item>
-      <title>iQOO выпустила игровой планшет Pad Pro с экраном 165 Гц и активным охлаждением</title>
-      <link>https://4pda.to/2026/10/29/462729/iqoo_vypustila_igrovoj_planshet_pad_pro_s_ekranom_165_gts_i_aktivnym_okhlazhdeniem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462729/iqoo_vypustila_igrovoj_planshet_pad_pro_s_ekranom_165_gts_i_aktivnym_okhlazhdeniem/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:45:00 +0000</pubDate>
-      <description><![CDATA[Компания iQOO представила компактный игровой планшет Pad Pro. Новинка получила мощный процессор с активной системой охлаждения, дисплей с высокой яркостью и ёмкую АКБ с быстрой зарядкой. Заодно компания [...]]]></description>
-    </item>
-    <item>
-      <title>Клавиатура Razer Reclusa Mini 65% получила магнитные переключатели и частоту опроса 8000 Гц</title>
-      <link>https://4pda.to/2026/10/29/462728/klaviatura_razer_reclusa_mini_65_poluchila_magnitnye_pereklyuchateli_i_chastotu_oprosa_8000_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462728/klaviatura_razer_reclusa_mini_65_poluchila_magnitnye_pereklyuchateli_i_chastotu_oprosa_8000_gts/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Razer анонсировала компактную игровую механическую клавиатуру Reclusa Mini 65%, ориентированную на ценителей «мягкого» звука при нажатии клавиш. Новинка получила поддержку
-трёх режимов подключения [...]]]></description>
-    </item>
-    <item>
-      <title>Lenovo анонсировала «заряженный» офисный монитор с USB-C, веб-камерой и Ethernet</title>
-      <link>https://4pda.to/2026/10/29/462727/lenovo_anonsirovala_zaryazhennyj_ofisnyj_monitor_s_usb_c_veb_kameroj_i_ethernet/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462727/lenovo_anonsirovala_zaryazhennyj_ofisnyj_monitor_s_usb_c_veb_kameroj_i_ethernet/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:15:00 +0000</pubDate>
-      <description><![CDATA[Компания Lenovo объявила о выпуске изогнутого монитора ThinkVision T34WD-4v на международном рынке. Новинка получила широкоформатный экран и широкий набор
-разъёмов, включая порт USB-C с поддержкой нескольких [...]]]></description>
-    </item>
-    <item>
-      <title>Обзор SPARKX i7 Color Combo: недорогой и удобный способ зайти в многоцветную 3D-печать</title>
-      <link>https://4pda.to/2026/10/29/460619/obzor_sparkx_i7_color_combo_nedorogoj_i_udobnyj_sposob_zajti_v_mnogotsvetnuyu_3d_pechat/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/460619/obzor_sparkx_i7_color_combo_nedorogoj_i_udobnyj_sposob_zajti_v_mnogotsvetnuyu_3d_pechat/</guid>
-      <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Многоцветная 3D-печать давно перестала быть экзотикой, но простой и дешёвой её всё ещё не назовёшь. SPARKX i7 Color Combo пытается решить две проблемы сразу: менее чем за 40 тысяч рублей в комплекте идёт [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi Smart 4G Camera 3 работает без Wi-Fi и снимает в 3K</title>
-      <link>https://4pda.to/2026/10/29/462710/xiaomi_smart_4g_camera_3_rabotaet_bez_wi_fi_i_snimaet_v_3k/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462710/xiaomi_smart_4g_camera_3_rabotaet_bez_wi_fi_i_snimaet_v_3k/</guid>
-      <pubDate>Thu, 29 Oct 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi представила в Китае новую&nbsp;камеру видеонаблюдения, которой для удалённого доступа не нужен Wi-Fi. Благодаря поддержке мобильных сетей она подойдёт для установки в помещениях без роутера и Ethernet-кабеля.
-Xiaomi [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI представила недорогие смартфоны Enjoy 100 и Enjoy 100 Pro на чипах Kirin</title>
-      <link>https://4pda.to/2026/10/29/462719/huawei_predstavila_nedorogie_smartfony_enjoy_100_i_enjoy_100_pro_na_chipakh_kirin/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462719/huawei_predstavila_nedorogie_smartfony_enjoy_100_i_enjoy_100_pro_na_chipakh_kirin/</guid>
-      <pubDate>Thu, 29 Oct 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Вместе с HUAWEI Enjoy 100 Pro Max компания презентовала два более доступных гаджета — базовый&nbsp;Enjoy 100 и его Pro-версию. Внешне устройства очень похожи, но по части характеристик общий у них только [...]]]></description>
-    </item>
-    <item>
-      <title>Google выпустила нейросеть Gemini 4 Carbon для анализа сложного кода и киберзащиты</title>
-      <link>https://4pda.to/2026/10/29/462726/google_vypustila_nejroset_gemini_4_carbon_dlya_analiza_slozhnogo_koda_i_kiberzaschity/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462726/google_vypustila_nejroset_gemini_4_carbon_dlya_analiza_slozhnogo_koda_i_kiberzaschity/</guid>
-      <pubDate>Thu, 29 Oct 2026 03:45:00 +0000</pubDate>
-      <description><![CDATA[Google объявила о релизе новой ИИ-модели Gemini 4 Carbon. Она ориентирована на задачи, с которыми ИИ приходится работать часами или даже днями — от поиска сложных ошибок в коде до анализа уязвимостей.
-Carbon [...]]]></description>
-    </item>
-    <item>
-      <title>iQOO Neo 12 получил чип Snapdragon 8 Elite Gen 5 с кулером и 185-герцевый дисплей</title>
-      <link>https://4pda.to/2026/10/29/462725/iqoo_neo_12_poluchil_chip_snapdragon_8_elite_gen_5_s_kulerom_i_185_gertsevyj_displej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462725/iqoo_neo_12_poluchil_chip_snapdragon_8_elite_gen_5_s_kulerom_i_185_gertsevyj_displej/</guid>
-      <pubDate>Thu, 29 Oct 2026 03:30:00 +0000</pubDate>
-      <description><![CDATA[Бренд iQOO выпустил смартфон Neo 12, ориентированный на мобильных геймеров. Смартфон оснастили мощным процессором, «киберспортивным» дисплеем и ёмким аккумулятором, а также корпусом с защитой IP68, несмотря [...]]]></description>
-    </item>
-    <item>
-      <title>Новая рисоварка Xiaomi готовит крупы под двойным давлением</title>
-      <link>https://4pda.to/2026/10/29/462695/novaya_risovarka_xiaomi_gotovit_krupy_pod_dvojnym_davleniem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462695/novaya_risovarka_xiaomi_gotovit_krupy_pod_dvojnym_davleniem/</guid>
-      <pubDate>Thu, 29 Oct 2026 03:15:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi расширила линейку Mijia новой трёхлитровой рисоваркой, в которой сделала упор на более точное приготовление разных круп. Модель получила несколько конструкционных особенностей, которые отличают [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен HUAWEI Enjoy 100 Pro Max: яркий экран, ёмкая АКБ и спутниковая связь за $300</title>
-      <link>https://4pda.to/2026/10/29/462704/predstavlen_huawei_enjoy_100_pro_max_yarkij_ekran_yomkaya_akb_i_sputnikovaya_svyaz_za_300/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462704/predstavlen_huawei_enjoy_100_pro_max_yarkij_ekran_yomkaya_akb_i_sputnikovaya_svyaz_za_300/</guid>
-      <pubDate>Thu, 29 Oct 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Компания HUAWEI презентовала новый среднебюджетный смартфон
-Enjoy 100 Pro Max. Отличительными чертами устройства стали хорошая автономность, прошивка с набором полезных ИИ-функций и расширенный набор беспроводных [...]]]></description>
-    </item>
-    <item>
-      <title>Apple показала первый в истории MacBook с сенсорным экраном</title>
-      <link>https://4pda.to/2026/10/28/462724/apple_pokazala_pervyj_v_istorii_macbook_s_sensornym_ekranom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/28/462724/apple_pokazala_pervyj_v_istorii_macbook_s_sensornym_ekranom/</guid>
-      <pubDate>Wed, 28 Oct 2026 18:05:00 +0000</pubDate>
-      <description><![CDATA[Apple представила самое масштабное обновление MacBook Pro за долгие годы — впервые в ноутбуках Mac появился сенсорный экран. Более того, устройство&nbsp;получило&nbsp;Dynamic Island, знакомый по iPhone. [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайды #3965: Honor 700, iQOO Pad Pro и Infinix Note 70 Pro на новом SoC</title>
-      <link>https://4pda.to/2026/10/28/462706/insajdy_3965_honor_700_iqoo_pad_pro_i_infinix_note_70_pro_na_novom_soc/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/28/462706/insajdy_3965_honor_700_iqoo_pad_pro_i_infinix_note_70_pro_na_novom_soc/</guid>
-      <pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[В этом выпуске Инсайдов: линейка Honor 700 начала проходить сертификацию; iQOO Pad Pro засветился в Geekbench перед презентацией; новый Infinix Note 70 Pro оснастили неизвестным процессором от Qualcomm.
-Линейка [...]]]></description>
-    </item>
-    <item>
-      <title>Энтузиасты сделали лончер неофициальных PC-портов — их более 200</title>
-      <link>https://4pda.to/2026/10/28/462717/entuziasty_sdelali_loncher_neofitsialnykh_pc_portov_ikh_bolee_200/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/28/462717/entuziasty_sdelali_loncher_neofitsialnykh_pc_portov_ikh_bolee_200/</guid>
-      <pubDate>Wed, 28 Oct 2026 16:45:00 +0000</pubDate>
-      <description><![CDATA[Пока издатели решают, какие старые эксклюзивы стоит перенести на компьютеры, энтузиасты продолжают делать это самостоятельно. Фанатских портов накопилось уже столько, что для них решили создать отдельную [...]]]></description>
     </item>
     <item>
       <title>Ghostty 1.4 Is Faster and Uses Less RAM, but Drops Ubuntu 24.04 LTS Support</title>
