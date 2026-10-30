@@ -5,9 +5,25 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Fri, 30 Oct 2026 04:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:13:03 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>Опасность на 9,8 из 10: нейросеть Claude взломала ядро Linux через незамеченную уязвимость</title>
+      <link>https://4pda.to/2026/10/30/462809/opasnost_na_9_8_iz_10_nejroset_claude_vzlomala_yadro_linux_cherez_nezamechennuyu_uyazvimost/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462809/opasnost_na_9_8_iz_10_nejroset_claude_vzlomala_yadro_linux_cherez_nezamechennuyu_uyazvimost/</guid>
+      <pubDate>Fri, 30 Oct 2026 11:40:00 +0000</pubDate>
+      <description><![CDATA[Компания Anthropic опубликовала данные о серьёзной уязвимости ядра Linux, обнаруженной при помощи Claude. Нейросеть не только нашла «дыру» в коде, но и успешно «внедрилась» в удалённый сервер, используя [...]]]></description>
+    </item>
+    <item>
+      <title>На PS5 установили полноценный Linux с поддержкой игр из Steam</title>
+      <link>https://4pda.to/2026/10/30/462795/na_ps5_ustanovili_polnotsennyj_linux_s_podderzhkoj_igr_iz_steam/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462795/na_ps5_ustanovili_polnotsennyj_linux_s_podderzhkoj_igr_iz_steam/</guid>
+      <pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Энтузиасты адаптировали
+Linux-дистрибутив Bazzite для PlayStation 5, превратив консоль в альтернативу Steam
+Machine. После модификации пользователям становятся доступны игры из Steam, GOG и Epic Games, [...]]]></description>
+    </item>
     <item>
       <title>FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff</title>
       <link>https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44</link>
@@ -25,31 +41,384 @@
       <category>Reviews</category>
     </item>
     <item>
-      <title>10 самых популярных роутеров — и что о них пишут владельцы</title>
-      <link>https://tech.onliner.by/go/799399</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/30/top-wi-fi-routerov</guid>
-      <pubDate>Fri, 30 Oct 2026 04:00:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/30/top-wi-fi-routerov"><img alt="" src="https://content.onliner.by/news/thumbnail/c9a7092ef2b5624e3506f3b3d41dcc63.jpg" /></a></p><p>Роутер от провайдера стоит в прихожей, а видео в дальней комнате все равно тормозит? Знакомая ситуация, но выбрать замену непросто: рядом в Каталоге стоят модели с Wi-Fi 5, 6 и 7, с USB, Mesh и даже слотом для SIM-карты. Посмотрели, какие роутеры покупают чаще всего и как их оценивают после покупки.
-</p><p><a href="https://tech.onliner.by/2026/10/30/top-wi-fi-routerov">Читать далее…</a></p>]]></description>
+      <title>«Успела откатить коляску с ребенком в сторону»: минчанка рассказала о нападении алабая</title>
+      <link>https://people.onliner.by/go/1342387</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/30/uspela-otkatit-kolyasku-s-rebenkom-v-storonu-minchanka-rasskazala-o-napadenii-alabaya</guid>
+      <pubDate>Fri, 30 Oct 2026 11:53:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/30/uspela-otkatit-kolyasku-s-rebenkom-v-storonu-minchanka-rasskazala-o-napadenii-alabaya"><img alt="" src="https://content.onliner.by/news/thumbnail/45edb921444d4d124c3891b9b9d42c9e.jpg" /></a></p><p>Минчанка Юлия рассказала в Threads о недавнем нападении на нее собаки бойцовской породы. По словам девушки, все случилось в понедельник во время прогулки с полугодовалым ребенком. Алабай, уверяет автор поста, сбил ее с ног и укусил, а также напал на ее питомца. Пострадавшая обратилась с заявлением в милицию и уверяет: случай с этой собакой стал уже третьим для ее семьи.
+</p><p><a href="https://people.onliner.by/2026/10/30/uspela-otkatit-kolyasku-s-rebenkom-v-storonu-minchanka-rasskazala-o-napadenii-alabaya">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Топ-менеджер Apple объяснил, почему в новом iPad Mini не оказалось 120 Гц</title>
+      <link>https://tech.onliner.by/go/799570</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/30/top-menedzher-apple-obyasnil-pochemu-v-novom-ipad-mini-ne-okazalos-120-gc</guid>
+      <pubDate>Fri, 30 Oct 2026 11:47:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/30/top-menedzher-apple-obyasnil-pochemu-v-novom-ipad-mini-ne-okazalos-120-gc"><img alt="" src="https://content.onliner.by/news/thumbnail/a3dd11b20fdcb45a05f01af810f6f742.jpg" /></a></p><p><p dir="ltr">Обновленный iPad mini, <a href="https://tech.onliner.by/2026/10/26/apple-predstavila-obnovlennyj-ipad-mini-chto-izmenilos" target="_blank">выпущенный</a> на этой неделе, оснастили OLED-дисплеем, но устройство не поддерживает технологию ProMotion, а это значит, что частота обновления дисплея ограничена 60 Гц вместо 120 Гц. На вопрос, почему на рубеже 2026 и 2027 годов «яблочная» компания все еще выпускает девайсы с такой частотой обновления экрана, попытался ответить один из руководителей Apple.<br /></p>
+</p><p><a href="https://tech.onliner.by/2026/10/30/top-menedzher-apple-obyasnil-pochemu-v-novom-ipad-mini-ne-okazalos-120-gc">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
-      <title>«Гарантия 10 дней — это нормально?» Простая инструкция по возврату обуви</title>
-      <link>https://money.onliner.by/go/54610</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/30/ponyatnaya-instrukciya-po-vozvratu-obuvi</guid>
-      <pubDate>Fri, 30 Oct 2026 04:00:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/30/ponyatnaya-instrukciya-po-vozvratu-obuvi"><img alt="" src="https://content.onliner.by/news/thumbnail/cc9486834b90646c7353b7e2a815f9da.jpeg" /></a></p><p>Купили босоножки со стразами, а вечером поняли, что бес попутал? Или отжалели ползарплаты на сапоги, у которых потом отклеилась подошва, а продавец говорит: <em>«А уже все, надо было раньше»?</em> Это поправимо, если знать свои права. Onlíner вместе с Региональным обществом защиты прав потребителей переводит законодательство на понятный каждому язык. Сохраняйте, чтобы не потерять.
-</p><p><a href="https://money.onliner.by/2026/10/30/ponyatnaya-instrukciya-po-vozvratu-obuvi">Читать далее…</a></p>]]></description>
+      <title>Как будто ничего и не было. Двадцать лет на этом месте стояла грандиозная заброшка</title>
+      <link>https://realt.onliner.by/go/1140123</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/kak-budto-nichego-i-ne-bylo-2</guid>
+      <pubDate>Fri, 30 Oct 2026 11:38:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/kak-budto-nichego-i-ne-bylo-2"><img alt="" src="https://content.onliner.by/news/thumbnail/03a30d5be0e7edc11f66a11d8f36492a.jpg" /></a></p><p>Всего в 600 метрах от проспекта Независимости несколько десятилетий подряд стояла впечатляющая заброшка. За многочисленными корпусами 1-й городской клинической больницы ее не было видно. И только тот, кто добирался до «дебрей», мог лицезреть некогда белоснежные стены бывшей детской больницы по П. Бровки, 5. Корпуса учреждения опустели в 2004 году. «Больничка» (как прозвали объект в народе) переехала в Боровляны, оставив после себя лишь архитектурный след.
+</p><p><a href="https://realt.onliner.by/2026/10/30/kak-budto-nichego-i-ne-bylo-2">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>MSI представила два игровых QHD-монитора с частотой обновления до 425 Гц</title>
+      <link>https://4pda.to/2026/10/30/462807/msi_predstavila_dva_igrovykh_qhd_monitora_s_chastotoj_obnovleniya_do_425_gts/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462807/msi_predstavila_dva_igrovykh_qhd_monitora_s_chastotoj_obnovleniya_do_425_gts/</guid>
+      <pubDate>Fri, 30 Oct 2026 11:35:17 +0000</pubDate>
+      <description><![CDATA[MSI расширила линейку игровых
+мониторов MAG двумя моделями — 276QE34 и 276QR42. Обе новинки ориентированы на
+любителей динамичных игр и отличаются высокой частотой обновления экрана.
+[caption width="480" [...]]]></description>
+    </item>
+    <item>
+      <title>«Интересно, кто был бы виноват?» Водитель не ожидал подвоха, а как бы действовали вы? (видео)</title>
+      <link>https://auto.onliner.by/go/1272805</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/kto-byl-by-vinovat</guid>
+      <pubDate>Fri, 30 Oct 2026 11:32:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/kto-byl-by-vinovat"><img alt="" src="https://content.onliner.by/news/thumbnail/22f01843faf7eb33ef15047322e69e02.jpg" /></a></p><p>Развязка улиц Маяковского и Денисовской в Минске. Водитель готовится выехать, как вдруг резко тормозит: сбоку по разметке проезжает Lada. Запросто могло бы произойти столкновение, но кто был бы в нем виноват — таким вопросом задается автор видео.</p><p><a href="https://auto.onliner.by/2026/10/30/kto-byl-by-vinovat">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Это вообще законно?» Такой ценник удивил даже юриста</title>
+      <link>https://money.onliner.by/go/352867</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/30/vybiraesh-sama-plati-bolshe-neobychnyj-cennik-na-minskoj-yarmarke</guid>
+      <pubDate>Fri, 30 Oct 2026 11:09:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/30/vybiraesh-sama-plati-bolshe-neobychnyj-cennik-na-minskoj-yarmarke"><img alt="" src="https://content.onliner.by/news/thumbnail/20314f2bb82f7b3f835de26f982989d8.jpg" /></a></p><p>На овощной ярмарке в Минске покупателям предлагают два варианта: взять перец по 2,90 рубля за килограмм или выбрать его самостоятельно, но уже за 5 рублей. Ценником поделилась наша читательница.
+</p><p><a href="https://money.onliner.by/2026/10/30/vybiraesh-sama-plati-bolshe-neobychnyj-cennik-na-minskoj-yarmarke">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Монстры или шедевры? Топ-10 лучших советских зданий Минска эпохи модернизма</title>
-      <link>https://realt.onliner.by/go/450644</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/top-18</guid>
-      <pubDate>Fri, 30 Oct 2026 04:00:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/top-18"><img alt="" src="https://content.onliner.by/news/thumbnail/779fb107e2469932513aa061fe956616.jpg" /></a></p><p>«Бетонные коробки», «чудовища», «здания, которые давят на психику» — так до сих пор отзываются о советском модернизме. И правда, полюбить его с первого взгляда непросто. Тут нет лепнины сталинских высоток и уюта дореволюционных особняков, зато зато есть павильон в форме ромашки, гостиница с силуэтом трилистника, дом-корабль и высотки, похожие на початки кукурузы. В 1960—1980-е архитекторы экспериментировали с формами, конструкциями и материалами. Некоторые результаты этих экспериментов сегодня стали символами Минска. Выбрали 10 зданий советского модернизма, мимо которых трудно пройти равнодушно.
-</p><p><a href="https://realt.onliner.by/2026/10/30/top-18">Читать далее…</a></p>]]></description>
+      <title>Пьяная женщина совершила массовое ДТП в Минске: подбила три машины и сама перевернулась (обновлено)</title>
+      <link>https://auto.onliner.by/go/1272718</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/avtomobil-na-kryshe</guid>
+      <pubDate>Fri, 30 Oct 2026 10:53:36 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/avtomobil-na-kryshe"><img alt="" src="https://content.onliner.by/news/thumbnail/d07cfe1ba024367f7021986c9d64d535.jpg" /></a></p><p>Наш читатель прислал Onlíner фотографию из столичного микрорайона Сухарево. По предварительной информации, на улице Академика Федорова в результате ДТП перевернулся автомобиль.</p><p><a href="https://auto.onliner.by/2026/10/30/avtomobil-na-kryshe">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>«Любимый мой человек». Подробности трагедии в Бресте, где убили 35-летнюю женщину и ее мать</title>
+      <link>https://people.onliner.by/go/1342360</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/30/lyubimyj-moj-chelovek-podrobnosti-tragedii-v-breste-gde-ubili-35-letnyuyu-zhenshhinu-i-ee-mat</guid>
+      <pubDate>Fri, 30 Oct 2026 10:53:28 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/30/lyubimyj-moj-chelovek-podrobnosti-tragedii-v-breste-gde-ubili-35-letnyuyu-zhenshhinu-i-ee-mat"><img alt="" src="https://content.onliner.by/news/thumbnail/c202959184a9f1ba92744a9296b314d3.jpg" /></a></p><p>Утром в среду, 28 октября, в Бресте произошла <a href="https://people.onliner.by/2026/10/28/tragediya-v-breste-v-kvartire-najdeny-ubitymi-mat-i-doch" target="_blank">трагедия</a>: в квартире многоэтажки нашли тела 35-летней женщины и ее матери. По подозрению в убийстве задержан муж первой жертвы. Несколько источников рассказали Onlíner подробности о том, что происходило в семье перед трагедией.
+</p><p><a href="https://people.onliner.by/2026/10/30/lyubimyj-moj-chelovek-podrobnosti-tragedii-v-breste-gde-ubili-35-letnyuyu-zhenshhinu-i-ee-mat">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Геймеры рассказали, что их пугает в хоррорах больше всего</title>
+      <link>https://4pda.to/2026/10/30/462813/gejmery_rasskazali_chto_ikh_pugaet_v_khorrorakh_bolshe_vsego/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462813/gejmery_rasskazali_chto_ikh_pugaet_v_khorrorakh_bolshe_vsego/</guid>
+      <pubDate>Fri, 30 Oct 2026 10:50:00 +0000</pubDate>
+      <description><![CDATA[Близится Хэллоуин — и пускай это далёкий для россиян праздник, но повод пощекотать нервы хороший. Astrum Entertainment и сервис «КИОН Строки» выяснили, что сильнее всего пугает игроков в хоррорах.
+Игроки [...]]]></description>
+    </item>
+    <item>
+      <title>Ученые выяснили, что холод может продлевать жизнь</title>
+      <link>https://tech.onliner.by/go/799561</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/30/xolod-polezen</guid>
+      <pubDate>Fri, 30 Oct 2026 10:48:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/30/xolod-polezen"><img alt="" src="https://content.onliner.by/news/thumbnail/938975c1b538f1d6c58e5e514eb69939.jpg" /></a></p><p><p dir="ltr">Исследователи выявили связь между низкими температурами, увеличением продолжительности жизни и биологическим процессом, контролирующим качество белков внутри клеток. Ключевую роль в этой связи играет органическое соединение BH2, или дигидробиоптерин, которое <a href="https://www.independent.co.uk/news/science/cold-temperature-lifepan-extension-ageing-b3076129.html" target="_blank">запускает</a> скрытый молекулярный механизм, способствующий долголетию, пишут в новом исследовании ученые.<br /></p>
+</p><p><a href="https://tech.onliner.by/2026/10/30/xolod-polezen">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Платить ли утильсбор за авто, ввезенные в Беларусь из других стран ЕАЭС? В таможне ответили</title>
+      <link>https://auto.onliner.by/go/1272778</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/utilsbor-10</guid>
+      <pubDate>Fri, 30 Oct 2026 10:40:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/utilsbor-10"><img alt="" src="https://content.onliner.by/news/thumbnail/c22dcb978b301f34b0853d84384e9ea3.jpg" /></a></p><p>Таможенные органы Беларуси подробно <a href="https://www.customs.gov.by/news/o-vvoze-transportnykh-sredstv-s-territorii-gosudarstv-chlenov-eaes30102026/" target="_blank">разъяснили</a> порядок ввоза в Беларусь транспортных средств из государств ЕАЭС. В частности, нужно ли платить за них утилизационный сбор?</p><p><a href="https://auto.onliner.by/2026/10/30/utilsbor-10">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Pulsar анонсировала мышь с двумя сенсорами для точного трекинга</title>
+      <link>https://4pda.to/2026/10/30/462790/pulsar_anonsirovala_mysh_s_dvumya_sensorami_dlya_tochnogo_trekinga/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462790/pulsar_anonsirovala_mysh_s_dvumya_sensorami_dlya_tochnogo_trekinga/</guid>
+      <pubDate>Fri, 30 Oct 2026 10:40:00 +0000</pubDate>
+      <description><![CDATA[Обычно производители игровых мышей «разгоняют» dpi и частоту опроса в новых моделях, но Pulsar подошла к вопросу апгрейда с другой стороны. Компания экспериментирует с системой из двух сенсоров, которая [...]]]></description>
+    </item>
+    <item>
+      <title>При покупке авто с техосмотром проходить его заново не нужно. Что изменится с 16 ноября</title>
+      <link>https://auto.onliner.by/go/1272780</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/avto-s-texosmotrom</guid>
+      <pubDate>Fri, 30 Oct 2026 10:31:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/avto-s-texosmotrom"><img alt="" src="https://content.onliner.by/news/thumbnail/ce2859a1bc432dfe5ddf2832498ee0f1.jpg" /></a></p><p>С 16 ноября вступает в силу <a href="https://pravo.by/document/?guid=12551&amp;p0=C22600244" target="_blank">обновленное</a> Положение о порядке проведения государственного технического осмотра, утвержденное постановлением Совета Министров Республики Беларусь от 13.05.2026 №244. Изменения коснутся не только диагностических станций, но и водителей.
+</p><p><a href="https://auto.onliner.by/2026/10/30/avto-s-texosmotrom">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Парень уговорил 16-летнюю девушку вместе продавать наркотики. Оба получили серьезное наказание</title>
+      <link>https://people.onliner.by/go/1342345</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/30/paren-ugovoril-16-letnyuyu-devushku-vmeste-prodavat-narkotiki-oba-poluchili-sereznoe-nakazanie</guid>
+      <pubDate>Fri, 30 Oct 2026 10:05:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/30/paren-ugovoril-16-letnyuyu-devushku-vmeste-prodavat-narkotiki-oba-poluchili-sereznoe-nakazanie"><img alt="" src="https://content.onliner.by/news/thumbnail/db70ff9d9937a7cb60be4728f60c1e97.jpg" /></a></p><p>В Минске перед судом предстали парень и 16-летняя девушка. Оба планировали заработать на продаже опасного психотропа. Причем девушке обещали: на сделанное ей ничего не будет. Но закончилась история возбуждением уголовных дел.
+</p><p><a href="https://people.onliner.by/2026/10/30/paren-ugovoril-16-letnyuyu-devushku-vmeste-prodavat-narkotiki-oba-poluchili-sereznoe-nakazanie">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>На продажу выставлен дом с собственной пещерой</title>
+      <link>https://realt.onliner.by/go/1140096</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/na-prodazhu-vystavlen-19</guid>
+      <pubDate>Fri, 30 Oct 2026 10:05:36 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/na-prodazhu-vystavlen-19"><img alt="" src="https://content.onliner.by/news/thumbnail/38c00ba2362815edba2e08b792f2ceeb.jpg" /></a></p><p>На рынке недвижимости в английском Ноттингеме появился необычный объект: особняк с четырьмя спальнями, под которым находится настоящая пещера. Дом выставлен на продажу за $1,03 миллиона и расположен в престижном закрытом районе Park Estate, примерно в 1,9 км от центра города, <a href="https://www.dailymail.com/travel/article-16244995/UK-home-Nottinghamshire-cave-underground.html" target="_blank">пишет</a> Daily Mail.</p><p><a href="https://realt.onliner.by/2026/10/30/na-prodazhu-vystavlen-19">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Вот когда и на каких смартфонах будет доступен Android 17</title>
+      <link>https://tech.onliner.by/go/799536</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/30/android-17-2</guid>
+      <pubDate>Fri, 30 Oct 2026 09:58:25 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/30/android-17-2"><img alt="" src="https://content.onliner.by/news/thumbnail/f1b29964b41d6d0b16fc0af10b76bcf7.jpg" /></a></p><p><p dir="ltr">Google выпустила обновление операционной системы Android 17 для всех совместимых устройств Pixel еще летом, а сейчас настала очередь остальных производителей андроид-смартфонов и планшетов. Большинство брендов уже объявили график развертывания — посмотрите, когда ваше устройство получит доступ к новейшей версии ОС.<br /></p>
+</p><p><a href="https://tech.onliner.by/2026/10/30/android-17-2">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Ростелеком» автоматизировал подбор персонала: доля успешных дозвонов достигла 78%</title>
+      <link>https://4pda.to/2026/10/30/462781/rostelekom_avtomatiziroval_podbor_personala_dolya_uspeshnykh_dozvonov_dostigla_78/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462781/rostelekom_avtomatiziroval_podbor_personala_dolya_uspeshnykh_dozvonov_dostigla_78/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
+      <description><![CDATA[«Ростелеком» внедрил систему автоматизации подбора персонала на базе решений MANGO OFFICE. Она объединила телефонные звонки, автоматический обзвон кандидатов и анализ разговоров. После внедрения доля успешных [...]]]></description>
+    </item>
+    <item>
+      <title>Иследователи: под видом эмулятора PlayStation 5 распространяют вредоносное ПО</title>
+      <link>https://4pda.to/2026/10/30/462811/isledovateli_pod_vidom_emulyatora_playstation_5_rasprostranyayut_vredonosnoe_po/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462811/isledovateli_pod_vidom_emulyatora_playstation_5_rasprostranyayut_vredonosnoe_po/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:29:00 +0000</pubDate>
+      <description><![CDATA[Никогда такого не было, и вот опять: злоумышленники пользуются популярной темой, чтобы установить на компьютеры жертв вирусные программы.
+Как сообщили исследователи,&nbsp;на GitHub обнаружились поддельные [...]]]></description>
+    </item>
+    <item>
+      <title>В Беларуси хотят перенести сроки подачи деклараций и уплаты налогов</title>
+      <link>https://money.onliner.by/go/352883</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/30/deklaracii-pozzhe-akcizy-vyshe-nalogovyj-kodeks-prinyali-v-pervom-chtenii</guid>
+      <pubDate>Fri, 30 Oct 2026 09:26:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/30/deklaracii-pozzhe-akcizy-vyshe-nalogovyj-kodeks-prinyali-v-pervom-chtenii"><img alt="" src="https://content.onliner.by/news/thumbnail/2ef845f073aaad97a08cd9c182b22f35.jpg" /></a></p><p>Депутаты приняли в первом чтении проект закона об изменении Налогового кодекса в 2027 году. Среди предложений — перенести сроки подачи налоговых деклараций и уплаты подоходного налога, расширить список доходов, которые облагаются по повышенным ставкам, и увеличить акцизы на некоторые товары.
+</p><p><a href="https://money.onliner.by/2026/10/30/deklaracii-pozzhe-akcizy-vyshe-nalogovyj-kodeks-prinyali-v-pervom-chtenii">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Keychron выпустила «стимпанковскую» магнитную клавиатуру Q19 HE 8K</title>
+      <link>https://4pda.to/2026/10/30/462789/keychron_vypustila_stimpankovskuyu_magnitnuyu_klaviaturu_q19_he_8k/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462789/keychron_vypustila_stimpankovskuyu_magnitnuyu_klaviaturu_q19_he_8k/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:25:00 +0000</pubDate>
+      <description><![CDATA[Keychron представила новую игровую клавиатуру, в которой современные магнитные переключатели сочетаются с оформлением под состаренный металл. Q19 HE 8K выделяется не только дизайном: чувствительность каждой [...]]]></description>
+    </item>
+    <item>
+      <title>Acer представила компактный игровой 5G-планшет со 165-герцевым экраном</title>
+      <link>https://4pda.to/2026/10/30/462793/acer_predstavila_kompaktnyj_igrovoj_5g_planshet_so_165_gertsevym_ekranom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462793/acer_predstavila_kompaktnyj_igrovoj_5g_planshet_so_165_gertsevym_ekranom/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:20:00 +0000</pubDate>
+      <description><![CDATA[В каталоге электроники Acer появился компактный Android-планшет Shadow Knight G710. Модель получила 8,8-дюймовый экран с высокой частотой обновления, поддержку сетей 5G и производительное железо, «упакованное» [...]]]></description>
+    </item>
+    <item>
+      <title>Saints Row: The Third Remastered вышла на iOS и Android</title>
+      <link>https://4pda.to/2026/10/30/462808/saints_row_the_third_remastered_vyshla_na_ios_i_android/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462808/saints_row_the_third_remastered_vyshla_na_ios_i_android/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Большие игры с прошлых поколений сейчас запускаются на мобильных устройствах — конечно, в специальном адаптированном варианте. Теперь на смартфонах можно запустить и пройти Saints Row: The Third.
+[youtube=m--0Z8_HoJ8:640:360:::0]
+Feral [...]]]></description>
+    </item>
+    <item>
+      <title>В Gemini появились интерактивные уроки с визуальным исследованием материала</title>
+      <link>https://4pda.to/2026/10/30/462792/v_gemini_poyavilis_interaktivnye_uroki_s_vizualnym_issledovaniem_materiala/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462792/v_gemini_poyavilis_interaktivnye_uroki_s_vizualnym_issledovaniem_materiala/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:10:00 +0000</pubDate>
+      <description><![CDATA[Google расширила возможности
+своего ИИ-помощника Gemini, представив библиотеку интерактивных образовательных
+материалов Immersive Explorations. С её помощью можно наглядно изучить самые
+разные темы — от [...]]]></description>
+    </item>
+    <item>
+      <title>В «Белавиа» рассказали об убытках из-за закрытия аэропортов в России</title>
+      <link>https://people.onliner.by/go/1342329</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/30/v-belavia-rasskazali-ob-ubytkax-iz-za-zakrytiya-aeroportov-v-rossii</guid>
+      <pubDate>Fri, 30 Oct 2026 09:02:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/30/v-belavia-rasskazali-ob-ubytkax-iz-za-zakrytiya-aeroportov-v-rossii"><img alt="" src="https://content.onliner.by/news/thumbnail/62e96c639708bf10e5503ac6263cef2a.jpg" /></a></p><p>Представители авиакомпании «Белавиа» <a href="https://www.youtube.com/watch?v=HUYrY_zSG3M" target="_blank">провели</a> пресс-конференцию, приуроченную ко Дню работников гражданской авиации. Спикеры рассказали о загруженности рейсов, проработке новых направлений, а также ответили на вопросы.
+</p><p><a href="https://people.onliner.by/2026/10/30/v-belavia-rasskazali-ob-ubytkax-iz-za-zakrytiya-aeroportov-v-rossii">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>В 2027-м пойдем на экскурсию? Как дела на стройке «Газпром центра»</title>
+      <link>https://realt.onliner.by/go/1140019</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/kak-dela-na-strojke-gazprom-centra</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/kak-dela-na-strojke-gazprom-centra"><img alt="" src="https://content.onliner.by/news/thumbnail/1b730301f91f2f29f8301b519ebf2512.jpg" /></a></p><p>Комплекс зданий «Газпром центра» знаком каждому минчанину. Диво ли — стройка ведется с далекого 2015-го. Впрочем, за последние годы объект заметно подтянулся: небоскреб вырос до положенной ему высоты, здания поменьше также обрели запланированную форму (и даже начали частично одеваться в цветное стекло), на площадку то и дело заезжает специализированная техника. О состоянии дел на эффектной стройке в своем телеграм-канале <a href="https://t.me/pervminsk/48635" target="_blank">рассказывает</a> администрация Первомайского района.
+</p><p><a href="https://realt.onliner.by/2026/10/30/kak-dela-na-strojke-gazprom-centra">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Вышло крупнейшее обновление Microsoft DirectX Raytracing. Что улучшили?</title>
+      <link>https://4pda.to/2026/10/30/462794/vyshlo_krupnejshee_obnovlenie_microsoft_directx_raytracing_chto_uluchshili/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462794/vyshlo_krupnejshee_obnovlenie_microsoft_directx_raytracing_chto_uluchshili/</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Microsoft выпустила новые
+версии набора инструментов DirectX 12 Agility SDK, которые призваны повысить
+эффективность трассировки лучей на видеокартах NVIDIA, Intel и&nbsp;AMD. Компания
+называет изменения [...]]]></description>
+    </item>
+    <item>
+      <title>Стало известно, как могут вырасти пенсии в 2027 году</title>
+      <link>https://money.onliner.by/go/352871</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/30/kak-mogut-vyrasti-pensii-v-2027-godu</guid>
+      <pubDate>Fri, 30 Oct 2026 08:53:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/30/kak-mogut-vyrasti-pensii-v-2027-godu"><img alt="" src="https://content.onliner.by/news/thumbnail/a37b183a20c0f9a81d605985a1bb0c81.jpg" /></a></p><p>Средний размер пенсии в Беларуси в 2027 году может увеличиться примерно на 10% — такой рост заложили в проект бюджета Фонда социальной защиты населения на следующий год. Об этом сообщил министр труда и социальной защиты Андрей Лобович, представляя проект закона депутатам.
+</p><p><a href="https://money.onliner.by/2026/10/30/kak-mogut-vyrasti-pensii-v-2027-godu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Еще чуть-чуть — и столкнулись бы! Неловкость водителя могла дорого ему обойтись (видео)</title>
+      <link>https://auto.onliner.by/go/1272748</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/nelovkost-voditelya</guid>
+      <pubDate>Fri, 30 Oct 2026 08:18:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/nelovkost-voditelya"><img alt="" src="https://content.onliner.by/news/thumbnail/600e60206a4c4ea2f0ee902142142368.jpg" /></a></p><p>Наш читатель поделился с Onlíner видео с проспекта Независимости. Неловкость одного водителя могла дорого стоить как минимум двоим.</p><p><a href="https://auto.onliner.by/2026/10/30/nelovkost-voditelya">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>По мотивам игры PUBG снимут сериал</title>
+      <link>https://tech.onliner.by/go/799522</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/10/30/po-motivam-igry-pubg-snimut-serial</guid>
+      <pubDate>Fri, 30 Oct 2026 08:15:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/30/po-motivam-igry-pubg-snimut-serial"><img alt="" src="https://content.onliner.by/news/thumbnail/f0273a75089e96eb033d8ff3841da8f2.jpg" /></a></p><p><p dir="ltr">Стриминговый сервис Netflix <a href="https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/" target="_blank">запустил</a> в разработку лайв-экшен-сериал по популярной многопользовательской онлайн-игре PUBG. Режиссером, сценаристом, исполнителем главной роли и исполнительным продюсером станет Дональд Гловер, известный по сериалам «Атланта» и «Мистер и миссис Смит».<br /></p>
+</p><p><a href="https://tech.onliner.by/2026/10/30/po-motivam-igry-pubg-snimut-serial">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Приклеил пачку денег к спине». На границе остановили двух белорусов</title>
+      <link>https://money.onliner.by/go/352860</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/30/prikleil-pachku-deneg-k-spine-na-granice-ostanovili-dvux-belorusov</guid>
+      <pubDate>Fri, 30 Oct 2026 08:08:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/30/prikleil-pachku-deneg-k-spine-na-granice-ostanovili-dvux-belorusov"><img alt="" src="https://content.onliner.by/news/thumbnail/00170c79f620bdacdab57d35db35509f.jpg" /></a></p><p>Литовские таможенники остановили на границе с Беларусью Toyota Avensis, в которой ехали двое белорусов. При проверке выяснилось, что мужчины пытались вывезти из Литвы 14 тысяч евро.
+</p><p><a href="https://money.onliner.by/2026/10/30/prikleil-pachku-deneg-k-spine-na-granice-ostanovili-dvux-belorusov">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Лучшие смартфоны октября: камерофон HUAWEI, OnePlus 16, игровые Honor, iQOO и RedMagic</title>
+      <link>https://4pda.to/2026/10/30/462763/luchshie_smartfony_oktyabrya_kamerofon_huawei_oneplus_16_igrovye_honor_iqoo_i_redmagic/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462763/luchshie_smartfony_oktyabrya_kamerofon_huawei_oneplus_16_igrovye_honor_iqoo_i_redmagic/</guid>
+      <pubDate>Fri, 30 Oct 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[После невероятно насыщенного сентября у производителей ещё остались в запасе интересные модели. HUAWEI обновила флагманскую серию Mate, а OnePlus выпустила наследника народного любимца. Honor, iQOO и RedMagic [...]]]></description>
+    </item>
+    <item>
+      <title>На носу школьные каникулы. На границе растет очередь</title>
+      <link>https://auto.onliner.by/go/1272734</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/na-granice-rastet-ochered</guid>
+      <pubDate>Fri, 30 Oct 2026 07:54:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/na-granice-rastet-ochered"><img alt="" src="https://content.onliner.by/news/thumbnail/d99552abfd11f2668c631dff069b1cc7.jpg" /></a></p><p>По состоянию на утро пятницы, 30 октября, в очередях перед пунктами пропуска на границе со странами Евросоюза находятся уже более 2200 транспортных средств. Это существенно больше, чем в прежние дни. И напрашивается предположение: все из-за наступающих школьных каникул.</p><p><a href="https://auto.onliner.by/2026/10/30/na-granice-rastet-ochered">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Минске открыли новую инфекционную больницу. Как она выглядит внутри?</title>
+      <link>https://realt.onliner.by/go/1139973</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/novaya-bolnica-minsk</guid>
+      <pubDate>Fri, 30 Oct 2026 07:51:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/novaya-bolnica-minsk"><img alt="" src="https://content.onliner.by/news/thumbnail/0f379dc088d8f629eaf9531388ad2fcb.jpg" /></a></p><p>В Минске открыли новую инфекционную больницу. Больничный городок расположен в Центральном районе, возле Долгиновского тракта. Он рассчитан на 260 койко-мест и состоит из семи основных корпусов. Выступая на открытии, президент Александр Лукашенко <a href="https://president.gov.by/ru/events/ucastie-v-ceremonii-otkrytia-minskoj-gorodskoj-kliniceskoj-infekcionnoj-bol-nicy" target="_blank">отметил</a>, что лечить здесь будут пациентов со всей страны.
+</p><p><a href="https://realt.onliner.by/2026/10/30/novaya-bolnica-minsk">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Windows 11 теперь можно восстановить даже без флешки</title>
+      <link>https://4pda.to/2026/10/30/462787/windows_11_teper_mozhno_vosstanovit_dazhe_bez_fleshki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462787/windows_11_teper_mozhno_vosstanovit_dazhe_bez_fleshki/</guid>
+      <pubDate>Fri, 30 Oct 2026 07:30:00 +0000</pubDate>
+      <description><![CDATA[Microsoft добавила в Windows
+11 новый инструмент под названием Cloud Rebuild. Он позволяет восстановить
+операционную систему даже в том случае, если компьютер не может запуститься, а под рукой нет загрузочного [...]]]></description>
+    </item>
+    <item>
+      <title>Доллар пытался вырасти, но не получилось (обновлено)</title>
+      <link>https://money.onliner.by/go/352839</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/10/30/dollar-bodro-rastet-2</guid>
+      <pubDate>Fri, 30 Oct 2026 07:22:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/30/dollar-bodro-rastet-2"><img alt="" src="https://content.onliner.by/news/thumbnail/1d3e2e1712f5efbf908ff7173c8966a2.jpg" /></a></p><p>В пятницу, 30 октября, доллар немного подешевел, а евро вырос. Тем временем биткоин за последние сутки подешевел, сейчас находится вблизи отметки в $77 413.
+</p><p><a href="https://money.onliner.by/2026/10/30/dollar-bodro-rastet-2">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Куда пропали все панельки? Странности на столичном рынке жилья</title>
+      <link>https://realt.onliner.by/go/1139964</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/chto-proisxodit-na-rynke-zhilya-3</guid>
+      <pubDate>Fri, 30 Oct 2026 07:11:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/chto-proisxodit-na-rynke-zhilya-3"><img alt="" src="https://content.onliner.by/news/thumbnail/18cc8d5e1c1f3fe0544de0c2f2231f2f.jpg" /></a></p><p>Пока мы живем свою обычную жизнь, рынок недвижимости не спит. Даже несмотря на то, что цены на жилье заметно выросли, сделки как совершались, так и совершаются. Говорить можно разве что о небольшом замедлении процессов. Госкомимущество <a href="https://t.me/gki_bel/1628" target="_blank">подвело</a> итоги третьего квартала и делится интересными данными по Минску.
+</p><p><a href="https://realt.onliner.by/2026/10/30/chto-proisxodit-na-rynke-zhilya-3">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Компания приехала на речку и помешала женщине рыбачить. Обернулось дракой, а затем судом</title>
+      <link>https://people.onliner.by/go/1342308</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/30/kompaniya-priexala-na-rechku-i-pomeshala-zhenshhine-rybachit-obernulos-drakoj-a-zatem-sudom</guid>
+      <pubDate>Fri, 30 Oct 2026 07:10:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/30/kompaniya-priexala-na-rechku-i-pomeshala-zhenshhine-rybachit-obernulos-drakoj-a-zatem-sudom"><img alt="" src="https://content.onliner.by/news/thumbnail/07b62aff4a516a8e8ffc70b3066fe9ba.jpg" /></a></p><p>Гродненка приехала с компанией на берег реки под Скиделем. Но отдых неожиданно обернулся конфликтом — оказалось, что отдыхающие помешали рыбалке. В итоге между двумя женщинами возник конфликт, который перерос в драку. А закончилась история судом.
+</p><p><a href="https://people.onliner.by/2026/10/30/kompaniya-priexala-na-rechku-i-pomeshala-zhenshhine-rybachit-obernulos-drakoj-a-zatem-sudom">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>«Облако Mail» забирает у пользователей подаренный терабайт спустя почти 13 лет</title>
+      <link>https://4pda.to/2026/10/30/462786/oblako_mail_zabiraet_u_polzovatelej_podarennyj_terabajt_spustya_pochti_13_let/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462786/oblako_mail_zabiraet_u_polzovatelej_podarennyj_terabajt_spustya_pochti_13_let/</guid>
+      <pubDate>Fri, 30 Oct 2026 07:00:00 +0000</pubDate>
+      <description><![CDATA[Пользователей «Облака Mail» начали лишать бесплатного терабайта, который компания раздавала ещё в 2013 году и обещала сохранить «навсегда». Спустя почти 13 лет одно из самых щедрых предложений раннего [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung рассказала, чем Galaxy S27 будет лучше предшественника</title>
+      <link>https://4pda.to/2026/10/30/462785/samsung_rasskazala_chem_galaxy_s27_budet_luchshe_predshestvennika/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462785/samsung_rasskazala_chem_galaxy_s27_budet_luchshe_predshestvennika/</guid>
+      <pubDate>Fri, 30 Oct 2026 06:30:00 +0000</pubDate>
+      <description><![CDATA[Samsung поделилась своими планами по
+развитию следующего поколения флагманских смартфонов —
+серии Galaxy S27. Компания намерена сделать устройства более «индивидуальными», а
+также улучшить несколько важных [...]]]></description>
+    </item>
+    <item>
+      <title>Крупнейший взлом в истории: криптобиржу Binance обокрали на $6,3 млрд</title>
+      <link>https://4pda.to/2026/10/30/462788/krupnejshij_vzlom_v_istorii_kriptobirzhu_binance_obokrali_na_6_3_mlrd/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462788/krupnejshij_vzlom_v_istorii_kriptobirzhu_binance_obokrali_na_6_3_mlrd/</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[Крупнейшая криптовалютная
+биржа Binance заявила о хакерской атаке, нанёсшей ущерб в размере нескольких миллиардов долларов. Инцидент затронул пять блокчейнов, а площадка уже подтвердил факт взлома — но [...]]]></description>
+    </item>
+    <item>
+      <title>Представлена кнопочная раскладушка Nokia 2360 Flip, которой можно управлять удалённо</title>
+      <link>https://4pda.to/2026/10/30/462783/predstavlena_knopochnaya_raskladushka_nokia_2360_flip_kotoroj_mozhno_upravlyat_udalyonno/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462783/predstavlena_knopochnaya_raskladushka_nokia_2360_flip_kotoroj_mozhno_upravlyat_udalyonno/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:45:00 +0000</pubDate>
+      <description><![CDATA[Вскоре после анонса HMD представила раскладушку Nokia 2360 Flip. Несмотря на классическую внешность и базовый набор функций, гаджет можно удалённо настраивать со смартфона, а для пожилых пользователей [...]]]></description>
+    </item>
+    <item>
+      <title>Госдума одобрила повышенный НДС 22% для онлайн-товаров из-за рубежа</title>
+      <link>https://4pda.to/2026/10/30/462784/gosduma_odobrila_povyshennyj_nds_22_dlya_onlajn_tovarov_iz_za_rubezha/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462784/gosduma_odobrila_povyshennyj_nds_22_dlya_onlajn_tovarov_iz_za_rubezha/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:30:00 +0000</pubDate>
+      <description><![CDATA[Госдума приняла в первом
+чтении законопроект, изменяющий ставку НДС для разных категорий товаров. Одним из главных пунктов нового документа стало введение налога на добавочную стоимость в размере 22% для [...]]]></description>
+    </item>
+    <item>
+      <title>Commodore вернула на рынок классический компьютер из 1986 года</title>
+      <link>https://4pda.to/2026/10/30/462780/commodore_vernula_na_rynok_klassicheskij_kompyuter_iz_1986_goda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462780/commodore_vernula_na_rynok_klassicheskij_kompyuter_iz_1986_goda/</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[40 лет назад Commodore представила компьютер 64C, который до сих пор вызывает чувство ностальгии у некоторых бывших владельцев. На днях устройство вернулось на рынок: его железо стало новее, но корпус [...]]]></description>
+    </item>
+    <item>
+      <title>В прошивках UEFI нашли уязвимость с рейтингом опасности 9,5 из 10</title>
+      <link>https://4pda.to/2026/10/30/462779/v_proshivkakh_uefi_nashli_uyazvimost_s_rejtingom_opasnosti_9_5_iz_10/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462779/v_proshivkakh_uefi_nashli_uyazvimost_s_rejtingom_opasnosti_9_5_iz_10/</guid>
+      <pubDate>Fri, 30 Oct 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[В популярной кодовой базе для UEFI-прошивок была обнаружена критическая уязвимость. По словам IT-экспертов, с её помощью злоумышленники могут добиться запуска вредоносного кода ещё до старта операционной [...]]]></description>
+    </item>
+    <item>
+      <title>AR-очки Rokid Color получили дисплеи Micro-LED и управляются умным кольцом</title>
+      <link>https://4pda.to/2026/10/30/462740/ar_ochki_rokid_color_poluchili_displei_micro_led_i_upravlyayutsya_umnym_koltsom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/30/462740/ar_ochki_rokid_color_poluchili_displei_micro_led_i_upravlyayutsya_umnym_koltsom/</guid>
+      <pubDate>Fri, 30 Oct 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[Компания Rokid представила
+умные очки Color с полноцветными Micro-LED-дисплеями. Новинка весом всего 55 г позволяет взаимодействовать с различным контентом, не теряя из вида окружающий мир и минимально [...]]]></description>
     </item>
     <item>
       <title>Microsoft разрешила пользователям настраивать контекстное меню Windows 11</title>
@@ -64,14 +433,6 @@
       <guid isPermaLink="false">https://4pda.to/2026/10/30/462745/lenovo_vypustila_noutbuk_ideapad_vibe_na_snapdragon_s_avtonomnostyu_do_30_chasov/</guid>
       <pubDate>Fri, 30 Oct 2026 03:00:00 +0000</pubDate>
       <description><![CDATA[Серию ноутбуков Lenovo IdeaPad Vibe пополнила 15,3-дюймовая модель 15Q8X12 с ARM-процессором Qualcomm. По сравнению с модификацией на чипе AMD новинка имеет значительно более высокое время автономной работы [...]]]></description>
-    </item>
-    <item>
-      <title>Умер Патрик Стюарт — профессор Ксавьер из «Людей Икс» и капитан Пикар из «Звездного пути»</title>
-      <link>https://people.onliner.by/go/1342282</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/umer-patrik-styuart</guid>
-      <pubDate>Thu, 29 Oct 2026 19:57:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/umer-patrik-styuart"><img alt="" src="https://content.onliner.by/news/thumbnail/9a504f67df605e6bd8a714108c239f1a.jpg" /></a></p><p>Умер британский актер Патрик Стюарт, которого зрители знают по фильмам «Люди Икс» и вселенной «Звездного пути». Ему было 86 лет. О смерти артиста <a href="https://deadline.com/2026/10/patrick-stewart-dead-1237208580/">сообщает</a> Deadline.</p><p><a href="https://people.onliner.by/2026/10/29/umer-patrik-styuart">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Инсайды #3966: новый суббренд HUAWEI, Nokia 2360 Flip и GPD Win Mini Ultra</title>
@@ -96,22 +457,6 @@ HUAWEI готовит к выпуску&nbsp;смартфон [...]]]></descript
       <description><![CDATA[По данным Forbes, Минцифры обсуждает требование пропускать весь трафик с зарубежных доменов через технические средства противодействия угрозам. Ведомство также может получить право ограничивать его потребление [...]]]></description>
     </item>
     <item>
-      <title>Apple могла снизить стандарты контроля качества iPhone Duo, чтобы нарастить поставки</title>
-      <link>https://tech.onliner.by/go/799406</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/apple-mogla-snizit-standarty-kontrolya-kachestva-iphone-duo-chtoby-narastit-postavki</guid>
-      <pubDate>Thu, 29 Oct 2026 16:57:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/apple-mogla-snizit-standarty-kontrolya-kachestva-iphone-duo-chtoby-narastit-postavki"><img alt="" src="https://content.onliner.by/news/thumbnail/930ad02ea252a2eccb739ca3c81e78be.jpg" /></a></p><p>Apple могла смягчить требования к контролю качества складного iPhone Duo, чтобы увеличить поставки перед праздничным сезоном. Утверждается, что на фоне высокого спроса компания стремится ускорить выпуск смартфонов, несмотря на проблемы с надежностью внутреннего дисплея и шарнирного механизма.</p><p><a href="https://tech.onliner.by/2026/10/29/apple-mogla-snizit-standarty-kontrolya-kachestva-iphone-duo-chtoby-narastit-postavki">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>В Беларуси окончательно разрешили интернет-торговлю ювелирными украшениями</title>
-      <link>https://money.onliner.by/go/352805</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/v-belarusi-razreshili-2</guid>
-      <pubDate>Thu, 29 Oct 2026 16:31:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/v-belarusi-razreshili-2"><img alt="" src="https://content.onliner.by/news/thumbnail/daccccf77a4211927f4e00b21b945429.jpg" /></a></p><p>В Беларуси окончательно разрешили продавать ювелирные изделия через интернет. Раньше такое право предоставляли на определенный срок, теперь ограничение убрали. Соответствующий указ №393 подписал 29 октября Александр Лукашенко.</p><p><a href="https://money.onliner.by/2026/10/29/v-belarusi-razreshili-2">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Audio-Technica выпустила ATH-M50xSTS-WL StreamSet — беспроводную гарнитуру для стримеров</title>
       <link>https://4pda.to/2026/10/29/462765/audio_technica_vypustila_ath_m50xsts_wl_streamset_besprovodnuyu_garnituru_dlya_strimerov/</link>
       <guid isPermaLink="false">https://4pda.to/2026/10/29/462765/audio_technica_vypustila_ath_m50xsts_wl_streamset_besprovodnuyu_garnituru_dlya_strimerov/</guid>
@@ -130,208 +475,6 @@ HUAWEI готовит к выпуску&nbsp;смартфон [...]]]></descript
 По&nbsp;данным [...]]]></description>
     </item>
     <item>
-      <title>AOC выпустила двухрежимный 27-дюймовый игровой монитор с частотой до 400 Гц</title>
-      <link>https://4pda.to/2026/10/29/462748/aoc_vypustila_dvukhrezhimnyj_27_dyujmovyj_igrovoj_monitor_s_chastotoj_do_400_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462748/aoc_vypustila_dvukhrezhimnyj_27_dyujmovyj_igrovoj_monitor_s_chastotoj_do_400_gts/</guid>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Компания AOC представила новый
-игровой монитор — модель AG277UXA. Устройство позволяет
-выбирать между высокой частотой обновления и повышенным разрешением в
-зависимости от задачи.
-27-дюймовая матрица [...]]]></description>
-    </item>
-    <item>
-      <title>Минчанин словил в Чижовском водохранилище огромного сома</title>
-      <link>https://people.onliner.by/go/1342263</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/minchanin-slovil-v-chizhovskom-vodoxranilishhe-ogromnogo-soma</guid>
-      <pubDate>Thu, 29 Oct 2026 14:42:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/minchanin-slovil-v-chizhovskom-vodoxranilishhe-ogromnogo-soma"><img alt="" src="https://content.onliner.by/news/thumbnail/46c1fa0e65b7b56dabb77d342b06045c.jpg" /></a></p><p>В Чижовском водохранилище белорус словил огромного сома, который весит больше 30 кг. Своим уловом минчанин поделился в соцсетях. Журналисты Onlíner связывались с мужчиной, чтобы узнать подробности успешной рыбалки.
-</p><p><a href="https://people.onliner.by/2026/10/29/minchanin-slovil-v-chizhovskom-vodoxranilishhe-ogromnogo-soma">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Отдельная полоса для блатных»: читатель жалуется на «обочечников». А вы за кого?  (обновлено)</title>
-      <link>https://auto.onliner.by/go/1271633</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/otdelnaya-polosa-dlya-blatnyx-chitatel-zhaluetsya-na-obochechnikov-a-vy-za-kogo</guid>
-      <pubDate>Thu, 29 Oct 2026 14:31:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/otdelnaya-polosa-dlya-blatnyx-chitatel-zhaluetsya-na-obochechnikov-a-vy-za-kogo"><img alt="" src="https://content.onliner.by/news/thumbnail/e9de0939f85ec00d6a34fbfdba95f909.jpg" /></a></p><p>Стоишь в пробке на МКАД, опаздываешь, нервничаешь и видишь, как мимо тебя по обочине проносится более прыткий автолюбитель. И чаще всего не один, а несколько. Как это может не бесить тех, кто честно соблюдает ПДД и простаивает в заторе вместе с остальными водителями? Вот и нашего читателя сильно раздражают «обочечники».
-</p><p><a href="https://auto.onliner.by/2026/10/29/otdelnaya-polosa-dlya-blatnyx-chitatel-zhaluetsya-na-obochechnikov-a-vy-za-kogo">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Apple озвучила стоимость топовой конфигурации Mac Studio с 512 ГБ объединённой памяти</title>
-      <link>https://4pda.to/2026/10/29/462764/apple_ozvuchila_stoimost_topovoj_konfiguratsii_mac_studio_s_512_gb_obedinyonnoj_pamyati/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462764/apple_ozvuchila_stoimost_topovoj_konfiguratsii_mac_studio_s_512_gb_obedinyonnoj_pamyati/</guid>
-      <pubDate>Thu, 29 Oct 2026 14:25:00 +0000</pubDate>
-      <description><![CDATA[Apple раскрыла цену топовой
-версии настольного компьютера Mac Studio. Речь идёт о модели с чипом M5 Ultra и
-максимально доступным в линейке объёмом объединённой памяти — 512 ГБ.
-Базовая версия компьютера
-поставляется [...]]]></description>
-    </item>
-    <item>
-      <title>Samsung представила складной смартфон W27 с поддержкой спутниковой связи</title>
-      <link>https://4pda.to/2026/10/29/462759/samsung_predstavila_skladnoj_smartfon_w27_s_podderzhkoj_sputnikovoj_svyazi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462759/samsung_predstavila_skladnoj_smartfon_w27_s_podderzhkoj_sputnikovoj_svyazi/</guid>
-      <pubDate>Thu, 29 Oct 2026 14:15:00 +0000</pubDate>
-      <description><![CDATA[Samsung выпустила в Китае
-складной смартфон W27, ставший частью премиальной линейки Heart of the World. Модель
-получила тонкий корпус, мощную начинку и поддержку
-спутниковых звонков и сообщений там, где [...]]]></description>
-    </item>
-    <item>
-      <title>Гомельчанину продали розетку и словарь по цене телефона</title>
-      <link>https://money.onliner.by/go/352786</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/gomelchaninu-prodali-rozetku</guid>
-      <pubDate>Thu, 29 Oct 2026 14:14:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/gomelchaninu-prodali-rozetku"><img alt="" src="https://content.onliner.by/news/thumbnail/5b00733e4adf24f57c90173e5ee28b67.jpg" /></a></p><p>Житель Гомеля решил купить Samsung по объявлению на популярной барахолке, но вместо телефона получил довольно неожиданный набор: толковый словарь и электрическую розетку. Причем за посылку мужчина заплатил дважды. Подробности истории пишет «Белка».</p><p><a href="https://money.onliner.by/2026/10/29/gomelchaninu-prodali-rozetku">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>3250 рублей за «квадрат». ЖК с такой ценой строят в обычном городе Беларуси (даже не областном)</title>
-      <link>https://realt.onliner.by/go/1139841</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/3250-rublej-za-kvadrat</guid>
-      <pubDate>Thu, 29 Oct 2026 14:00:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/3250-rublej-za-kvadrat"><img alt="" src="https://content.onliner.by/news/thumbnail/5b1392f25d1138693c7243cb04df0d6d.jpg" /></a></p><p>В Бобруйске начали возводить симпатичный малоэтажный жилой комплекс, пишет местное издание <a href="https://komkur.info/news-company/u-bobrujsk-areny-stroitsya-uyutnyj-mnogokvartirnyj-zhiloj-dom-kupit-tam-kvartiru-mozhno-uzhe-sejchas" target="_blank">komkur.info</a>. И все бы ничего, но ценник здесь впечатляет: за метр просят 3250 рублей, или около $1100 по курсу. И это в обычном городе, где еще в августе средняя стоимость «квадрата» держалась на уровне $682 в эквиваленте. Даже в областных центрах (например, в Витебске) можно найти варианты подешевле.
-</p><p><a href="https://realt.onliner.by/2026/10/29/3250-rublej-za-kvadrat">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>В Гомеле вынесли приговор двум педофилам</title>
-      <link>https://people.onliner.by/go/1342253</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/v-gomele-vynesli-prigovor-dvum-pedofilam</guid>
-      <pubDate>Thu, 29 Oct 2026 13:52:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/v-gomele-vynesli-prigovor-dvum-pedofilam"><img alt="" src="https://content.onliner.by/news/thumbnail/f7571dfe3181d9a8a138d8541533f14a.jpg" /></a></p><p>В Гомеле удалось раскрыть два тяжких преступления прошлых лет сексуального характера в отношении малолетних девочек. По данным следствия, потерпевшие в силу возраста не могли в полной мере осознавать характер и значение происходившего. Об этом <a href="https://newsgomel.by/news/society/v-gomele-osudili-dvukh-pedofilov_231770.html">сообщает</a> «Гомельская правда».
-</p><p><a href="https://people.onliner.by/2026/10/29/v-gomele-vynesli-prigovor-dvum-pedofilam">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Яндекс» закрыл опасную уязвимость в миллионах умных колонок и телевизоров</title>
-      <link>https://4pda.to/2026/10/29/462746/yandeks_zakryl_opasnuyu_uyazvimost_v_millionakh_umnykh_kolonok_i_televizorov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462746/yandeks_zakryl_opasnuyu_uyazvimost_v_millionakh_umnykh_kolonok_i_televizorov/</guid>
-      <pubDate>Thu, 29 Oct 2026 13:50:00 +0000</pubDate>
-      <description><![CDATA[«Яндекс» выпустил экстренное
-обновление безопасности для миллионов умных колонок и большинства телевизоров
-партнёров на YaOS. Причиной стала уязвимость, которая позволяла создавать
-поддельные сертификаты [...]]]></description>
-    </item>
-    <item>
-      <title>Пьяный слесарь на комбайне наехал на двух механизаторов. Один погиб</title>
-      <link>https://auto.onliner.by/go/1272648</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/pyanyj-slesar-na-kombajne</guid>
-      <pubDate>Thu, 29 Oct 2026 13:45:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/pyanyj-slesar-na-kombajne"><img alt="" src="https://content.onliner.by/news/thumbnail/948bc7ddcbf7e626ffaf84abaa4064d5.jpg" /></a></p><p>Сегодня днем на территории УСП «Совхоз „Великосельский“» в деревне Великое Село 58-летний слесарь мастерской был за рулем комбайна и наехал на двух механизаторов. Один из них погиб.</p><p><a href="https://auto.onliner.by/2026/10/29/pyanyj-slesar-na-kombajne">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>POCO C95 Pro с аккумулятором на 7500 мАч поступил в продажу в России</title>
-      <link>https://4pda.to/2026/10/29/462758/poco_c95_pro_s_akkumulyatorom_na_7500_mach_postupil_v_prodazhu_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462758/poco_c95_pro_s_akkumulyatorom_na_7500_mach_postupil_v_prodazhu_v_rossii/</guid>
-      <pubDate>Thu, 29 Oct 2026 13:45:00 +0000</pubDate>
-      <description><![CDATA[POCO привезла в Россию C95 Pro — модель, в которой ставку сделали на практичность и повседневный комфорт. Смартфон получил несколько особенностей, которые особенно пригодятся тем, кто много смотрит видео, [...]]]></description>
-    </item>
-    <item>
-      <title>Resident Evil движется к финалу: Capcom готовит развязку истории</title>
-      <link>https://4pda.to/2026/10/29/462762/resident_evil_dvizhetsya_k_finalu_capcom_gotovit_razvyazku_istorii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462762/resident_evil_dvizhetsya_k_finalu_capcom_gotovit_razvyazku_istorii/</guid>
-      <pubDate>Thu, 29 Oct 2026 13:35:17 +0000</pubDate>
-      <description><![CDATA[Resident Evil в этом году исполнилось 30 лет, но история серии ещё далека от завершения. Впрочем, у Capcom уже есть план, как закончить многолетние приключения знакомых героев. И до развязки осталось не [...]]]></description>
-    </item>
-    <item>
-      <title>Представлены OnePlus Ace 7 и Ace 7 Pro с активным охлаждением и АКБ на 9000 мАч</title>
-      <link>https://4pda.to/2026/10/29/462773/predstavleny_oneplus_ace_7_i_ace_7_pro_s_aktivnym_okhlazhdeniem_i_akb_na_9000_mach/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462773/predstavleny_oneplus_ace_7_i_ace_7_pro_s_aktivnym_okhlazhdeniem_i_akb_na_9000_mach/</guid>
-      <pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[OnePlus представила Ace 7 и Ace 7 Pro — две модели с упором на игры и высокую производительность. В этом поколении серия впервые получила встроенные вентиляторы, а основные различия между смартфонами свелись [...]]]></description>
-    </item>
-    <item>
-      <title>Иллюзия, аномалия, НЛО? В Минске на небе заметили загадочное свечение</title>
-      <link>https://tech.onliner.by/go/799330</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/illyuziya-anomaliya-nlo-v-minske-na-nebe-zametili-zagadochnoe-svechenie</guid>
-      <pubDate>Thu, 29 Oct 2026 13:00:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/illyuziya-anomaliya-nlo-v-minske-na-nebe-zametili-zagadochnoe-svechenie"><img alt="" src="https://content.onliner.by/news/thumbnail/20608ca3deea66b336a30f12011cf0a9.jpg" /></a></p><p>Минчане, вышедшие на прогулку 28 октября, могли заметить в небе необычное свечение. Белорусы в разных частях города наблюдали как одиночные, так и парные столбы света. По словам очевидцев, такие источники света «то появлялись, то пропадали». В Threads бросились гадать, что же это было — аномалия, иллюзия или вообще космический корабль? Такие предположения звучат интересно, но реальность куда прозаичнее.</p><p><a href="https://tech.onliner.by/2026/10/29/illyuziya-anomaliya-nlo-v-minske-na-nebe-zametili-zagadochnoe-svechenie">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Студент сходил отдохнуть на Зыбицкую, а вернулся с уголовным делом</title>
-      <link>https://money.onliner.by/go/352731</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/student-sxodil-otdoxnut-na-zybickuyu-a-vernulsya-s-ugolovnym-delom</guid>
-      <pubDate>Thu, 29 Oct 2026 12:59:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/student-sxodil-otdoxnut-na-zybickuyu-a-vernulsya-s-ugolovnym-delom"><img alt="" src="https://content.onliner.by/news/thumbnail/930e62984ca3226eaa0a14d894d84dc1.jpg" /></a></p><p>Поход в бар на Зыбицкой закончился для 16-летнего минчанина уголовным делом. Парень заметил оставленный без присмотра кошелек и решил забрать его себе. Внутри оказалась довольно приличная сумма.</p><p><a href="https://money.onliner.by/2026/10/29/student-sxodil-otdoxnut-na-zybickuyu-a-vernulsya-s-ugolovnym-delom">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Поцарапал мне машину и скрылся». Девушка ищет очевидцев ДТП на МКАД</title>
-      <link>https://auto.onliner.by/go/1272636</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/dtp-na-makd</guid>
-      <pubDate>Thu, 29 Oct 2026 12:47:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/dtp-na-makd"><img alt="" src="https://content.onliner.by/news/thumbnail/b4bbe2a47337f1f4549ca5a91c00ffa5.jpg" /></a></p><p>К нам обратилась читательница и рассказала, что вчера на внутреннем кольце МКАД, в районе ТЦ «Экспобел», перед съездом на Логойский тракт попала в ДТП. Все случилось 28 октября, около семи часов вечера.</p><p><a href="https://auto.onliner.by/2026/10/29/dtp-na-makd">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Множество снарядов времен Первой мировой войны обнаружили из-за таяния ледников</title>
-      <link>https://realt.onliner.by/go/1139768</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/mnozhestvo-snaryadov</guid>
-      <pubDate>Thu, 29 Oct 2026 12:34:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/mnozhestvo-snaryadov"><img alt="" src="https://content.onliner.by/news/thumbnail/5d7704e7f94c3ee91c79ce9315fa0e53.jpg" /></a></p><p>На севере Италии военные завершили масштабную операцию по вывозу боеприпасов времен Первой мировой войны, которые начали появляться из-под стремительно отступающих ледников в Доломитах. Всего с горных склонов и туристических маршрутов было удалено около 250 снарядов и мин, <a href="https://edition.cnn.com/2026/10/28/travel/munitions-melting-ice-dolomites-scli-intl" target="_blank">сообщает</a> CNN.</p><p><a href="https://realt.onliner.by/2026/10/29/mnozhestvo-snaryadov">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>От конспекта до спортзала: три гаджета HUAWEI для продуктивной учёбы</title>
-      <link>https://4pda.to/2026/10/29/462766/ot_konspekta_do_sportzala_tri_gadzheta_huawei_dlya_produktivnoj_uchyoby/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462766/ot_konspekta_do_sportzala_tri_gadzheta_huawei_dlya_produktivnoj_uchyoby/</guid>
-      <pubDate>Thu, 29 Oct 2026 12:30:00 +0000</pubDate>
-      <description><![CDATA[Вопрос выбора подходящих гаджетов остается актуальным в любое время года: всегда хочется, чтобы техника была не просто современной и ярко выглядящей, но и реально помогала в учёбе, работе и повседневной [...]]]></description>
-    </item>
-    <item>
-      <title>За регистрацию «серых» и купленных за границей смартфонов будут брать деньги</title>
-      <link>https://4pda.to/2026/10/29/462769/za_registratsiyu_serykh_i_kuplennykh_za_granitsej_smartfonov_budut_brat_dengi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462769/za_registratsiyu_serykh_i_kuplennykh_za_granitsej_smartfonov_budut_brat_dengi/</guid>
-      <pubDate>Thu, 29 Oct 2026 12:29:00 +0000</pubDate>
-      <description><![CDATA[По данным РБК, владельцев «серых» или купленных за границей смартфонов хотят обязать&nbsp;регистрировать их&nbsp;IMEI через&nbsp;«Госуслуги». Минцифры предлагает выделить на процедуру две недели. При этом [...]]]></description>
-    </item>
-    <item>
-      <title>Официально: Epic Games вайбкодит движок Unreal Engine 6</title>
-      <link>https://4pda.to/2026/10/29/462761/ofitsialno_epic_games_vajbkodit_dvizhok_unreal_engine_6/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462761/ofitsialno_epic_games_vajbkodit_dvizhok_unreal_engine_6/</guid>
-      <pubDate>Thu, 29 Oct 2026 12:25:00 +0000</pubDate>
-      <description><![CDATA[Нейросети всё чаще помогают создавать игры, но Epic Games решила пойти дальше. Компания доверила ИИ работу над самим Unreal Engine, на котором делают множество современных проектов. Причём речь уже не [...]]]></description>
-    </item>
-    <item>
-      <title>Мужчина сделал приложение из клише, которые он собирал 35 лет</title>
-      <link>https://tech.onliner.by/go/799286</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/muzhchina-sdelal-prilozhenie-iz-klishe-kotorye-on-sobiral-35-let</guid>
-      <pubDate>Thu, 29 Oct 2026 11:50:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/muzhchina-sdelal-prilozhenie-iz-klishe-kotorye-on-sobiral-35-let"><img alt="" src="https://content.onliner.by/news/thumbnail/e8cc6ce580eb1f1cdeb2d7a6dd64911b.jpg" /></a></p><p>За свою карьеру американец Дэйв Доти посетил более 10 тысяч совещаний, и на каждом из них он записывал услышанные речевые штампы. На их сбор он потратил 35 лет, коллекционируя клише и бессмысленные выражения. И в итоге превратил все это дело в приложение, которое автоматически собирает корпоративный жаргон в предложения, которые вполне могли бы прозвучать на презентации для руководства.</p><p><a href="https://tech.onliner.by/2026/10/29/muzhchina-sdelal-prilozhenie-iz-klishe-kotorye-on-sobiral-35-let">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Умный ксеноморф и боязнь открытых пространств. Новые детали Alien: Isolation 2 [ВИДЕО]</title>
-      <link>https://4pda.to/2026/10/29/462754/umnyj_ksenomorf_i_boyazn_otkrytykh_prostranstv_novye_detali_alien_isolation_2_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462754/umnyj_ksenomorf_i_boyazn_otkrytykh_prostranstv_novye_detali_alien_isolation_2_video/</guid>
-      <pubDate>Thu, 29 Oct 2026 11:45:07 +0000</pubDate>
-      <description><![CDATA[Creative Assembly потихоньку запускает промокампанию Alien: Isolation 2. В последнем ролике команда поделилась новыми деталями проекта.
-[youtube=qk3WHXemQ-I:640:360:::0]
-Главное отличие Alien: Isolation [...]]]></description>
-    </item>
-    <item>
-      <title>Дистрибьютор Deepal объявил о старте продаж обновленного кроссовера S05. Цена</title>
-      <link>https://auto.onliner.by/go/1272616</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/29/distribyutor-deepal-obyavil-o-starte-prodazh-obnovlennogo-krossovera-s05-cena</guid>
-      <pubDate>Thu, 29 Oct 2026 11:38:24 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/29/distribyutor-deepal-obyavil-o-starte-prodazh-obnovlennogo-krossovera-s05-cena"><img alt="" src="https://content.onliner.by/news/thumbnail/42812304d40a69b1dbe091260ba75a9c.jpg" /></a></p><p>В автоцентрах Changan начались продажи нового электрического кроссовера Deepal S05 2027 модельного года. Беларусь стала первым экспортным рынком для модели. Автомобиль получил ряд обновлений и доступен по цене 77 900 рублей. Предлагается кредитная программа в белорусских рублях сроком до 10 лет со ставкой от 0,9% в льготный период.
-</p><p><a href="https://auto.onliner.by/2026/10/29/distribyutor-deepal-obyavil-o-starte-prodazh-obnovlennogo-krossovera-s05-cena">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Бесконечный» круиз внезапно закончился из-за подорожания топлива. Пассажиры застряли в Камбодже</title>
-      <link>https://money.onliner.by/go/352677</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/29/beskonechnyj-kruiz</guid>
-      <pubDate>Thu, 29 Oct 2026 11:24:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/29/beskonechnyj-kruiz"><img alt="" src="https://content.onliner.by/news/thumbnail/290a5362e415507660e750219ed37f4e.jpg" /></a></p><p>Около 200 пассажиров лайнера MV Odyssey, круиз на котором рекламировался как многолетнее кругосветное путешествие с возможностью постоянного проживания на борту, оказались в сложной ситуации после того, как судно неожиданно прекратило движение, а пассажиров высадили в порту Сиануквиль в Камбодже, сообщает New York Post.</p><p><a href="https://money.onliner.by/2026/10/29/beskonechnyj-kruiz">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Is Ubuntu Eyeing Immutability? Canonical Restarts Core Desktop and Eyes a Firmware Change for LTS</title>
       <link>https://feed.itsfoss.com/link/24361/17510602/ubuntu-core-desktop-firmware-hwe</link>
       <guid isPermaLink="false">6ae2e0fc1b851a0001834b47</guid>
@@ -340,284 +483,12 @@ HUAWEI готовит к выпуску&nbsp;смартфон [...]]]></descript
       <category>News</category>
     </item>
     <item>
-      <title>Новый роутер ZTE с Wi-Fi 7 и поддержкой двух подключений оценили в $28</title>
-      <link>https://4pda.to/2026/10/29/462739/novyj_router_zte_s_wi_fi_7_i_podderzhkoj_dvukh_podklyuchenij_otsenili_v_28/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462739/novyj_router_zte_s_wi_fi_7_i_podderzhkoj_dvukh_podklyuchenij_otsenili_v_28/</guid>
-      <pubDate>Thu, 29 Oct 2026 10:50:00 +0000</pubDate>
-      <description><![CDATA[Компания ZTE выпустила
-роутер Xuntian BE3600 Qingyun Edition с поддержкой Wi-Fi 7, ориентированный на домашнее использование. Новинка
-получила своеобразный дизайн корпуса с волнистой текстурой, три гигабитных [...]]]></description>
-    </item>
-    <item>
-      <title>«Это не отпугиватель, а капкан»: в соцсетях возмущаются из-за ловушек для птиц в ТЦ Минска</title>
-      <link>https://people.onliner.by/go/1342223</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/10/29/eto-ne-otpugivatel-a-kapkan-v-socsetyax-vozmushhayutsya-iz-za-lovushek-dlya-ptic-v-tc-minska</guid>
-      <pubDate>Thu, 29 Oct 2026 10:47:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/29/eto-ne-otpugivatel-a-kapkan-v-socsetyax-vozmushhayutsya-iz-za-lovushek-dlya-ptic-v-tc-minska"><img alt="" src="https://content.onliner.by/news/thumbnail/d4f1d76b9c6050b1151c0624e4d69c83.jpg" /></a></p><p>В Threads появился пост о том, что в минском ТЦ «Яркий» установили сети для отлова птиц. Автор публикации утверждает, что птицы запутываются в них и погибают. Журналисты Onlíner связались с администрацией ТЦ «Яркий», компанией, которая устанавливала сети, и орнитологом, чтобы разобраться в ситуации.
-</p><p><a href="https://people.onliner.by/2026/10/29/eto-ne-otpugivatel-a-kapkan-v-socsetyax-vozmushhayutsya-iz-za-lovushek-dlya-ptic-v-tc-minska">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Скоро дойдем до 210 000 рублей за однушку? Даже дешевое жилье в Минске прибавляет в цене</title>
-      <link>https://realt.onliner.by/go/1139779</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene</guid>
-      <pubDate>Thu, 29 Oct 2026 10:41:16 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene"><img alt="" src="https://content.onliner.by/news/thumbnail/bbe743f5e4f59b65167a70067d8a816c.jpg" /></a></p><p>Продолжаем мониторить базу Onlíner <a href="https://r.onliner.by/pk/">«Дома и квартиры»</a> в поисках самой дешевой квартиры в Минске. Совсем недавно этим статусом обладало жилье на улице Берута за 191 тысяч рублей ($64 900 в эквиваленте). Но, судя по исчезнувшему объявлению, квартира уже нашла своего хозяина. Теперь самое бюджетное жилье находится на улице Кабушкина и стоит чуть дороже — почти 186 тысяч рублей ($66 400 по курсу). Также напоминаем, что не рассматриваем доли в квартирах, объявления без фотографий и жилье в частных домах.
-</p><p><a href="https://realt.onliner.by/2026/10/29/pribavlyaet-v-cene">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>No Man&amp;#039;s Sky получила внезапное крупное обновление и вышла на iOS</title>
-      <link>https://4pda.to/2026/10/29/462744/no_man_039_s_sky_poluchila_vnezapnoe_krupnoe_obnovlenie_i_vyshla_na_ios/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462744/no_man_039_s_sky_poluchila_vnezapnoe_krupnoe_obnovlenie_i_vyshla_na_ios/</guid>
-      <pubDate>Thu, 29 Oct 2026 10:40:00 +0000</pubDate>
-      <description><![CDATA[Шон Мюррей продолжает радовать фанатов No Man’s Sky — игра получила неожиданно крупное&nbsp;хэллоуинское обновление Forsaken и вышла на iPhone и iPad.
-[youtube=Kv2FxK2msCc:640:360:::0]
-Студия Hello [...]]]></description>
-    </item>
-    <item>
-      <title>iQOO выпустила недорогие пауэрбанки с 19 уровнями защиты и мощностью до 66 Вт</title>
-      <link>https://4pda.to/2026/10/29/462737/iqoo_vypustila_nedorogie_pauerbanki_s_19_urovnyami_zaschity_i_moschnostyu_do_66_vt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462737/iqoo_vypustila_nedorogie_pauerbanki_s_19_urovnyami_zaschity_i_moschnostyu_do_66_vt/</guid>
-      <pubDate>Thu, 29 Oct 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Компания iQOO представила два портативных аккумулятора ёмкостью 20 000 мАч. Обе модели получили встроенный кабель
-USB-C, который можно использовать в качестве ручки для переноски и небольшой
-цветной дисплей, [...]]]></description>
-    </item>
-    <item>
-      <title>Сисадмин «послал» хакеров — и подставил под удар целый завод</title>
-      <link>https://tech.onliner.by/go/799277</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/10/29/sisadmin-poslal-xakerov-i-podstavil-pod-udar-celyj-zavod</guid>
-      <pubDate>Thu, 29 Oct 2026 10:17:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/10/29/sisadmin-poslal-xakerov-i-podstavil-pod-udar-celyj-zavod"><img alt="" src="https://content.onliner.by/news/thumbnail/1a21d2698b9f959b9de62aecf16ecf1a.jpg" /></a></p><p>Системный администратор одного завода придумал необычный способ «послать» хакеров — и сделал это прямо в пароле учетной записи с правами администратора. Однако эксперт по тестированию Дэвид Шлосс <a href="https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139" target="_blank">выяснил</a>, что оскорбительная комбинация символов оказалась не шуткой, а настоящими учетными данными, которые открыли доступ ко всей корпоративной сети.</p><p><a href="https://tech.onliner.by/2026/10/29/sisadmin-poslal-xakerov-i-podstavil-pod-udar-celyj-zavod">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Глобальная ColorOS 17 вышла для OnePlus, OPPO и realme. Что вы получите?</title>
-      <link>https://4pda.to/2026/10/29/462736/globalnaya_coloros_17_vyshla_dlya_oneplus_oppo_i_realme_chto_vy_poluchite/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462736/globalnaya_coloros_17_vyshla_dlya_oneplus_oppo_i_realme_chto_vy_poluchite/</guid>
-      <pubDate>Thu, 29 Oct 2026 09:30:00 +0000</pubDate>
-      <description><![CDATA[29 октября стартует развёртывание стабильной ColorOS 17 на базе Android 17. Релиз примечателен тем, что заменит OxygenOS на смартфонах OnePlus и realme UI на аппаратах realme. Апдейт предложит стеклянный [...]]]></description>
-    </item>
-    <item>
-      <title>Защищённый Honor X8e переживёт кипяток, солевой туман и падение с 2,5 м</title>
-      <link>https://4pda.to/2026/10/29/462734/zaschischyonnyj_honor_x8e_perezhivyot_kipyatok_solevoj_tuman_i_padenie_s_2_5_m/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462734/zaschischyonnyj_honor_x8e_perezhivyot_kipyatok_solevoj_tuman_i_padenie_s_2_5_m/</guid>
-      <pubDate>Thu, 29 Oct 2026 09:20:00 +0000</pubDate>
-      <description><![CDATA[Без лишнего медийного шума на сайте Honor появился смартфон X8e. Это среднебюджетная модель с акцентом на автономности и живучести: гаджет способен пережить падения и другие неблагоприятные условия работы, [...]]]></description>
-    </item>
-    <item>
-      <title>Умные очки XREAL AURA на Android XR получили 120-герцевые дисплеи и поддержку Google Play</title>
-      <link>https://4pda.to/2026/10/29/462735/umnye_ochki_xreal_aura_na_android_xr_poluchili_120_gertsevye_displei_i_podderzhku_google_play/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462735/umnye_ochki_xreal_aura_na_android_xr_poluchili_120_gertsevye_displei_i_podderzhku_google_play/</guid>
-      <pubDate>Thu, 29 Oct 2026 09:10:00 +0000</pubDate>
-      <description><![CDATA[Компания XREAL выпустила AURA
-— лёгкие очки дополненной реальности, работающие под управлением платформы Android XR.
-Устройство позволяет запускать игры и&nbsp;приложения, смотреть видео на большом
-виртуальном [...]]]></description>
-    </item>
-    <item>
-      <title>Геймеры в восторге от Phantom Blade Zero. Китайский хит пробил 400 тысяч онлайна в Steam</title>
-      <link>https://4pda.to/2026/10/29/462742/gejmery_v_vostorge_ot_phantom_blade_zero_kitajskij_khit_probil_400_tysyach_onlajna_v_steam/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462742/gejmery_v_vostorge_ot_phantom_blade_zero_kitajskij_khit_probil_400_tysyach_onlajna_v_steam/</guid>
-      <pubDate>Thu, 29 Oct 2026 09:05:00 +0000</pubDate>
-      <description><![CDATA[Состоялся релиз китайского мегахита Phantom Blade Zero. Он мгновенно пробил планку в 400 тысяч одновременных игроков и собирает отличные отзывы — даже несмотря на технические проблемы.
-[youtube=qgJBFa952mY:640:360:::0]
-В [...]]]></description>
-    </item>
-    <item>
-      <title>Lenovo показала ноутбук с мощным чипом Intel Core Ultra и слотом для eGPU</title>
-      <link>https://4pda.to/2026/10/29/462733/lenovo_pokazala_noutbuk_s_moschnym_chipom_intel_core_ultra_i_slotom_dlya_egpu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462733/lenovo_pokazala_noutbuk_s_moschnym_chipom_intel_core_ultra_i_slotom_dlya_egpu/</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[В каталоге ноутбуков Lenovo появилась 16-дюймовая модель Lecoo Pro 16 Core Edition. Помимо производительного железа из коробки, новинка предлагает возможность апгрейда видеокарты при помощи интерфейса [...]]]></description>
-    </item>
-    <item>
-      <title>Вжух, и ты больше не магл. Изучаем realme 16 Pro 5G Harry Potter Edition</title>
-      <link>https://4pda.to/2026/10/29/462462/vzhukh_i_ty_bolshe_ne_magl_izuchaem_realme_16_pro_5g_harry_potter_edition/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462462/vzhukh_i_ty_bolshe_ne_magl_izuchaem_realme_16_pro_5g_harry_potter_edition/</guid>
-      <pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[В голове играет до боли знакомая мелодия, а перед глазами проносится калейдоскоп приятных воспоминаний — это realme открыла проход на платформу 9 &#190; для истинных фанатов «Гарри Поттера». Перед нами [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI представила безвентиляторный складной кулер для смартфонов</title>
-      <link>https://4pda.to/2026/10/29/462731/huawei_predstavila_bezventilyatornyj_skladnoj_kuler_dlya_smartfonov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462731/huawei_predstavila_bezventilyatornyj_skladnoj_kuler_dlya_smartfonov/</guid>
-      <pubDate>Thu, 29 Oct 2026 07:50:00 +0000</pubDate>
-      <description><![CDATA[HUAWEI предложила оригинальную альтернативу массивным кулерам для мобильных устройств. Аксессуар Wind Chaser весит менее 30&nbsp;граммов, имеет компактную складную конструкцию и обходится без привычного [...]]]></description>
-    </item>
-    <item>
-      <title>Российскую RPG за $100 млн перезапустили. DISTORTION начнут создавать заново</title>
-      <link>https://4pda.to/2026/10/29/462738/rossijskuyu_rpg_za_100_mln_perezapustili_distortion_nachnut_sozdavat_zanovo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/29/462738/rossijskuyu_rpg_za_100_mln_perezapustili_distortion_nachnut_sozdavat_zanovo/</guid>
-      <pubDate>Thu, 29 Oct 2026 07:40:00 +0000</pubDate>
-      <description><![CDATA[Несколько лет назад российская студия Game Art Pioneers анонсировала ролевую игру DISTORTION — и рассказала, что планируемый бюджет составит порядка $100 млн. Теперь авторы перезапускают проект.
-Как [...]]]></description>
-    </item>
-    <item>
       <title>Ghostty 1.4 Is Faster and Uses Less RAM, but Drops Ubuntu 24.04 LTS Support</title>
       <link>https://feed.itsfoss.com/link/24361/17508486/ghostty-1-4-release</link>
       <guid isPermaLink="false">6ae188df1b851a0001833bb3</guid>
       <pubDate>Wed, 28 Oct 2026 10:09:27 +0000</pubDate>
       <description><![CDATA[release banner for ghostty 1.4]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>In a Setback to VMWare, Tesco is Looking to Migrate to Proxmox</title>
-      <link>https://feed.itsfoss.com/link/24361/17507469/tesco-vmware-exit</link>
-      <guid isPermaLink="false">6ae0328b8bfa1e0001939983</guid>
-      <pubDate>Tue, 27 Oct 2026 09:48:41 +0000</pubDate>
-      <description><![CDATA[tesco and vmware exit-themed banner]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>22 Things to Do After Installing Ubuntu 26.10 Stonking Stingray</title>
-      <link>https://feed.itsfoss.com/link/24361/17507385/things-to-do-after-installing-ubuntu-26-10</link>
-      <guid isPermaLink="false">6ad08c89965d0e00015a00d9</guid>
-      <pubDate>Tue, 27 Oct 2026 05:52:06 +0000</pubDate>
-      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/10/things-to-do-after-installing-ubuntu-26-10.webp" /></figure>
-<p>Ubuntu works reasonably well out of the box, but a fresh installation still leaves plenty of room for improvement. A few tweaks, some essential software, and a handful of lesser-known settings can help you get a more comfortable, productive, and personalized desktop experience from day one.</p><p>In this guide, let's look at some of the first things worth doing after installing <a href="https://itsfoss.com/news/ubuntu-26-10-features/" rel="noreferrer">Ubuntu 26.10</a>.</p><h2 id="perform-a-system-update">Perform a System Update</h2><p>Before installing new applications or customizing the desktop, it is a good idea to <a href="https://itsfoss.com/update-ubuntu/" rel="noreferrer">check for any available system updates</a>. Ubuntu installation images are not updated daily, so there may already be security patches, bug fixes, and package updates waiting to be installed.</p><p>The easiest way is to launch Software Updater from the Activities Overview and let it handle the process.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Open Software Updater from Ubuntu Activities Overview" class="kg-image" height="275" src="https://itsfoss.com/content/images/2026/10/open-software-updater-from-activities-overview.png" width="748" /><figcaption><span style="white-space: pre-wrap;">Open Software Updater</span></figcaption></figure><p>If you prefer the terminal, you can <a href="https://itsfoss.com/apt-command-guide/" rel="noreferrer">use the apt command</a>.</p><pre><code>sudo apt update &amp;&amp; sudo apt upgrade -y
-</code></pre><p>This command refreshes the <a href="https://itsfoss.com/ubuntu-repository-mechanism/" rel="noreferrer">package repository</a> information and installs the latest available updates. Taking care of updates first helps ensure a stable and secure foundation before moving on to other post-installation tasks.</p><h2 id="install-media-codecs">Install Media Codecs</h2><p>Due to licensing and copyright restrictions in certain countries, Ubuntu does not include support for some popular media formats such as MP3, MPEG-4, and AVI out of the box.</p><p>Fortunately, installing support for these formats is straightforward. <a href="https://itsfoss.com/install-media-codecs-ubuntu/" rel="noreferrer">The <code>ubuntu-restricted-extras</code> package</a> bundles media codecs, Microsoft TrueType fonts, and a few additional components that improve compatibility with common audio, video, and office documents.</p><pre><code>sudo apt install ubuntu-restricted-extras
-</code></pre><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">If you are using an Ubuntu flavor such as Kubuntu, install the corresponding package instead. For example, Kubuntu users should install <code style="white-space: pre-wrap;">kubuntu-restricted-extras</code>.</div></div><p>If you see the EULA or the license screen, remember to use the tab key to select between the options and then hit enter to confirm your choice.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Accept the EULA for Microsoft Software while installing the Ubuntu Restricted Extras package." class="kg-image" height="1258" src="https://itsfoss.com/content/images/2026/10/ubuntu-media-codecs.webp" width="1732" /><figcaption><span style="white-space: pre-wrap;">Accept Microsoft EULA</span></figcaption></figure><h2 id="try-the-ai-voice-input">Try the AI Voice Input</h2><p>Typing isn't always the fastest way to get text into a computer. Whether you're taking notes, drafting an email, or quickly capturing an idea, speaking can sometimes feel more natural. Ubuntu 26.10 introduces Myna, an optional speech-to-text feature that brings local voice dictation directly to the desktop.</p><figure class="kg-card kg-gallery-card kg-width-wide kg-card-hascaption"><div class="kg-gallery-container"><div class="kg-gallery-row"><div class="kg-gallery-image"><img alt="" height="763" src="https://itsfoss.com/content/images/2026/10/ubuntu-26-10-myna-1.webp" width="914" /></div><div class="kg-gallery-image"><img alt="" height="763" src="https://itsfoss.com/content/images/2026/10/ubuntu-26-10-myna-2.webp" width="914" /></div><div class="kg-gallery-image"><img alt="" height="763" src="https://itsfoss.com/content/images/2026/10/ubuntu-26-10-myna-3.webp" width="914" /></div></div></div><figcaption><p><span style="white-space: pre-wrap;">Myna AI Voice Input</span></p></figcaption></figure><p>What makes Myna particularly interesting is its privacy-focused approach. Speech recognition runs entirely on your machine, and once the required model is downloaded, no internet connection is needed for transcription. Simply place the cursor in a text field, press the configured shortcut, and start speaking. Do keep in mind that Myna is currently offered as a technology preview, so you should expect some rough edges while the feature continues to mature.</p><h2 id="change-wallpaper-and-accent-colors">Change Wallpaper and Accent Colors</h2><p>A different wallpaper and accent color can completely change the look of the desktop without installing any additional software.</p><p>To get started, right-click on an empty area of the desktop and select <strong>Change Background</strong>. From there, you can choose one of the included wallpapers or use the <strong>Add Picture</strong> button to select an image from your collection.</p><figure class="kg-card kg-embed-card kg-card-hascaption"><figcaption><p><span style="white-space: pre-wrap;">Change Wallpaper in Ubuntu</span></p></figcaption></figure><div class="kg-card kg-callout-card kg-callout-card-green"><div class="kg-callout-emoji">&#128161;</div><div class="kg-callout-text">It's possible to set a wallpaper directly from the file manager by right-clicking an image and selecting the wallpaper option. However, this is not always the best approach, as the image may later be moved or deleted from its original location, resulting in a missing background.</div></div><p>While you're there, consider exploring the available accent colors as well. Choosing an accent color that complements the wallpaper can give the desktop a more cohesive and polished appearance. &#127912;</p><h2 id="enable-flatpak-support">Enable Flatpak support</h2><p>Ubuntu promotes Snap as its primary universal packaging format, and you'll find plenty of applications available through it. However, not every developer distributes their software as a Snap package. In the Linux desktop world, you'll frequently come across applications that are available only through Flatpak.</p><p>For that reason, it makes sense to <a href="https://itsfoss.com/flatpak-guide/" rel="noreferrer">enable Flatpak support</a> early on. Start by installing the required package:</p><pre><code>sudo apt install flatpak
-</code></pre><p>Once installed, add the Flathub repository, which serves as the primary source for most Flatpak applications:</p><pre><code>flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-</code></pre><p>After adding Flathub, restart the system to ensure everything is integrated properly. You'll then be able to install and manage Flatpak applications from the command line.</p><p>We have a dedicated article explaining <a href="https://itsfoss.com/flatpak-guide/" rel="noreferrer">Flatpak support in Ubuntu</a>. Give it a read, if you want more Flatpak setup requirements.</p><h2 id="familiarize-installing-new-applications">Familiarize Installing New Applications</h2><p>At some point, you'll want to go beyond the default applications that come with Ubuntu. The good news is that Ubuntu has one of the largest software ecosystems in the Linux world, making it easy to find and install both open-source and proprietary software.</p><p><a href="https://itsfoss.com/remove-install-software-ubuntu/" rel="noreferrer">Applications can be installed in several ways</a>. Packages available in Ubuntu's official repositories can be installed directly from the terminal:</p><pre><code>sudo apt install &lt;package-name&gt;
-</code></pre><p>For those who prefer a graphical approach, open the <strong>App Center</strong>, search for the application you need, and click Install. Ubuntu's App Center supports both DEB and Snap packages, though it generally prioritizes Snap applications when both formats are available.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Install application via Ubuntu App Center. This screenshot shows the Brave Browser Snap applicaton installation page in the App Center." class="kg-image" height="904" src="https://itsfoss.com/content/images/2026/10/install-snap-app-center.webp" width="1384" /><figcaption><span style="white-space: pre-wrap;">Install Application via App Center</span></figcaption></figure><p>Many software vendors also provide Ubuntu packages directly on their websites as <code>.deb</code> files. After downloading one, right-click the file and select <strong>Open With &rarr; App Center</strong>. From there, simply click Install to add the application to your system.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="On File manager, right-click on a deb file and then select Open With App Center option." class="kg-image" height="561" src="https://itsfoss.com/content/images/2026/10/select-open-with-app-center.png" width="1002" /><figcaption><span style="white-space: pre-wrap;">Open Deb file with App Center</span></figcaption></figure><h2 id="install-extension-manager">Install Extension Manager</h2><p>One of GNOME's biggest strengths is its extension ecosystem. Many of the desktop tweaks that Ubuntu users enjoy, including custom docks, app indicators, and advanced tiling features, are powered by GNOME extensions behind the scenes.</p><p>While extensions can be installed manually, managing them quickly becomes inconvenient once you start experimenting with a few. <a href="https://itsfoss.com/extension-manager/" rel="noreferrer">The Extension Manager application</a> provides a much cleaner way to browse, install, update, enable, and disable extensions from a single place.</p><pre><code>sudo apt install gnome-shell-extension-manager
-</code></pre><h2 id="add-your-favorite-apps-to-the-dock">Add Your Favorite Apps to the Dock</h2><p>The Dock in Ubuntu provides quick access to running applications and can also serve as a launcher for the programs you use every day.</p><p>Adding applications to the dock is simple. Open the application grid using the Show Apps button or press the Super key, then right-click the desired application and select <strong>Pin to Dock</strong>. Once added, applications can be rearranged by dragging and dropping them to your preferred position.</p><figure class="kg-card kg-video-card kg-width-regular kg-card-hascaption">
-            <div class="kg-video-container">
-                <video height="1080" loop="" poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" preload="metadata" src="https://itsfoss.com/content/media/2026/10/pin-apps-to-dock.mp4" width="1920"></video>
-                <div class="kg-video-overlay">
-                    <button class="kg-video-large-play-icon">
-                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
-                        </svg>
-                    </button>
-                </div>
-                <div class="kg-video-player-container kg-video-hide">
-                    <div class="kg-video-player">
-                        <button class="kg-video-play-icon">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
-                            </svg>
-                        </button>
-                        <button class="kg-video-pause-icon kg-video-hide">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <rect height="22" rx="1.5" ry="1.5" width="7" x="3" y="1"></rect>
-                                <rect height="22" rx="1.5" ry="1.5" width="7" x="14" y="1"></rect>
-                            </svg>
-                        </button>
-                        <span class="kg-video-current-time">0:00</span>
-                        <div class="kg-video-time">
-                            /<span class="kg-video-duration">0:14</span>
-                        </div>
-                        <input class="kg-video-seek-slider" max="100" type="range" value="0" />
-                        <button class="kg-video-playback-rate">1&times;</button>
-                        <button class="kg-video-unmute-icon">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M15.189 2.021a9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h1.794a.249.249 0 0 1 .221.133 9.73 9.73 0 0 0 7.924 4.85h.06a1 1 0 0 0 1-1V3.02a1 1 0 0 0-1.06-.998Z"></path>
-                            </svg>
-                        </button>
-                        <button class="kg-video-mute-icon kg-video-hide">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M16.177 4.3a.248.248 0 0 0 .073-.176v-1.1a1 1 0 0 0-1.061-1 9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h.114a.251.251 0 0 0 .177-.073ZM23.707 1.706A1 1 0 0 0 22.293.292l-22 22a1 1 0 0 0 0 1.414l.009.009a1 1 0 0 0 1.405-.009l6.63-6.631A.251.251 0 0 1 8.515 17a.245.245 0 0 1 .177.075 10.081 10.081 0 0 0 6.5 2.92 1 1 0 0 0 1.061-1V9.266a.247.247 0 0 1 .073-.176Z"></path>
-                            </svg>
-                        </button>
-                        <input class="kg-video-volume-slider" max="100" type="range" value="100" />
-                    </div>
-                </div>
-            </div>
-            <figcaption><p><span style="white-space: pre-wrap;">Pin application to Dock in Ubuntu</span></p></figcaption>
-        </figure><p>The dock itself is also highly customizable. You can change its position, adjust icon sizes, enable auto-hide, and tweak other behavior from the system settings to better suit your workflow.</p><h2 id="customize-the-dock">Customize the Dock</h2><p>Ubuntu provides you a Dock that host the pinned and opened application on the left edge of your screen. Since it is based on a customized version of GNOME's <a href="https://itsfoss.com/dash-to-dock-tips/" rel="noreferrer">Dash to Dock extension</a>, there is plenty of room for customization.</p><p>For basic adjustments, head to <strong>Settings &rarr; Ubuntu Desktop &rarr; Dock</strong>. Here, you can change the dock's position, enable auto-hide, adjust icon sizes, and control how the dock behaves on your desktop.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Ubuntu Dock Settings in the Default System Settings Application" class="kg-image" height="484" src="https://itsfoss.com/content/images/2026/10/dock-settings-in-settings.png" width="954" /><figcaption><span style="white-space: pre-wrap;">Dock Settings</span></figcaption></figure><p>If you want more advanced options, open Extension Manager, select Ubuntu Dock, and access its settings. This exposes additional tweaks that are not available in the regular system settings, giving you greater control over the dock's appearance and behavior.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Ubuntu Dock extensive settings available via GNOME Extension settings." class="kg-image" height="852" src="https://itsfoss.com/content/images/2026/10/dock-separate-extension-settings.png" width="1352" /><figcaption><span style="white-space: pre-wrap;">Extensive Ubuntu Dock Settings</span></figcaption></figure><h3 id="click-to-minimize">Click to Minimize</h3><p>Open Extension Manager, click the settings button next to Ubuntu Dock, and switch to the Behavior tab. Here, locate the Click Action option and change it to Minimize. Once enabled, clicking the icon of an open application will minimize its window.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Set the dock click action to minimize using the extension settings." class="kg-image" height="604" src="https://itsfoss.com/content/images/2026/10/dock-set-click-action-minimize.png" width="984" /><figcaption><span style="white-space: pre-wrap;">Click to Minimize Settings</span></figcaption></figure><p>At this point, when you click on the icon of an opened app in the Dock, it will be minimized to the taskbar.</p><p>Or, you can set what I do on my system. Set the Click action to <strong>Focus, minimize or show previews</strong>.</p><p>This setting combines the best of both worlds. If an application has a single window open, clicking its dock icon minimizes it. If multiple windows are open, Ubuntu displays window previews instead, making it easier to switch between them.</p><h2 id="install-extensions">Install Extensions</h2><p>Extensions can add new features, improve existing workflows, or completely change how the desktop looks and behaves.</p><p>With Extension Manager installed, discovering new extensions becomes straightforward. Open the application, switch to the Browse tab, search for an extension, and click Install.</p><p>We have compiled a dedicated lists of <a href="https://itsfoss.com/gnome-extensions-for-productivity/" rel="noreferrer">productivity-focused</a> and <a href="https://itsfoss.com/gnome-extensions-customization/" rel="noreferrer">appearance-focused GNOME extensions</a>, so that you get a good start.</p><div class="kg-card kg-callout-card kg-callout-card-red"><div class="kg-callout-emoji">&#9995;</div><div class="kg-callout-text">It's usually better to install a few extensions that genuinely improve your workflow and ignore the rest.</div></div><h2 id="get-familiar-with-tiling">Get Familiar with Tiling</h2><p>Recent Ubuntu releases have significantly <a href="https://itsfoss.com/ubuntu-tiling-windows/" rel="noreferrer">improved the tiling experience</a>. Simply drag a window by its title bar to the top of the screen to reveal available tiling zones. Dropping the window into one of these zones automatically snaps it into place.</p><p>What makes the experience particularly useful is the tiling assistant. After placing a window, Ubuntu can suggest other open applications to fill the remaining screen space, making it easy to create an organized workspace without manually arranging every window.</p><figure class="kg-card kg-embed-card kg-card-hascaption"><figcaption><p><span style="white-space: pre-wrap;">Ubuntu Tiling</span></p></figcaption></figure><p>If you prefer keyboard shortcuts, the traditional tiling keybindings are also available. And because Ubuntu's tiling functionality is powered by the Ubuntu Tiling Assistant extension, many aspects of its behavior can be customized through Extension Manager to better match your workflow.</p><h2 id="take-care-of-your-wellbeing">Take Care of Your Wellbeing</h2><p>Many of us spend hours in front of a computer without realizing how much time has passed. Whether it's work, studying, gaming, or binge-watching, it's easy to skip breaks and stay glued to the screen longer than intended.</p><p>The Wellbeing feature is designed to help with that. Similar in concept to digital wellbeing tools on mobile devices, it allows you to track screen usage and configure reminders that encourage healthier computer habits.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Wellbeing Settings in System Settings" class="kg-image" height="1046" src="https://itsfoss.com/content/images/2026/10/wellbeing-settings.png" width="1335" /><figcaption><span style="white-space: pre-wrap;">Wellbeing Settings</span></figcaption></figure><p>To get started, open Settings and navigate to the <strong>Wellbeing </strong>section. From here, you can set daily screen time limits, enable eyesight reminders, configure movement breaks, and even choose whether the display switches to grayscale once a screen time limit has been reached.</p><h2 id="use-your-monitors-hdr-capabilities">Use Your Monitor's HDR Capabilities</h2><p>If you own a monitor with <a href="https://en.wikipedia.org/wiki/High-dynamic-range_television?ref=itsfoss.com">HDR</a> functionality, then you can take advantage of the HDR support that works with displays of the <a href="https://en.wikipedia.org/wiki/Rec._2100?ref=itsfoss.com">BT.2100</a> standard. With this, <strong>you get perks like improved brightness, deeper contrast, and a wider color gamut</strong> for more vibrant visuals.</p><p>To enable this, you will first need to connect a compatible monitor. Then, go to <strong>Settings -&gt; Displays</strong> page. If everything went well, then you will be shown the <strong>HDR</strong> and <strong>HDR Brightness</strong> options.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="HDR Settings in System Settings" class="kg-image" height="655" src="https://itsfoss.com/content/images/2026/10/ubuntu-hdr.png" width="960" /><figcaption><span style="white-space: pre-wrap;">HDR Settings</span></figcaption></figure><h2 id="show-battery-stats-in-panel">Show Battery Stats in Panel</h2><p>If you are a laptop user who is always on the go and cannot risk your device's battery dying out, then <strong>enabling the on-screen display for battery percentage is a must-have</strong> for quick battery charge level checks.</p><p>To enable this, go to <strong>Settings -&gt; Power</strong>, then go to the <strong>General</strong> page and enable the <strong>Show Battery Percentage</strong> option.</p><p>That is not the only way you can spice up the top panel. There are some <a href="https://itsfoss.com/customize-gnome-top-panel/">nice customizations</a> that you can add.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Show battery percentage in the top panel and its related settings." class="kg-image" height="983" src="https://itsfoss.com/content/images/2026/10/ubuntu-show-battery-percentage.png" width="1443" /><figcaption><span style="white-space: pre-wrap;">Show Battery Percentage</span></figcaption></figure><h2 id="disable-automatic-screen-blank">Disable Automatic Screen Blank</h2><p>Ubuntu enables automatic screen blanking by default to save power when the system is idle. While that makes sense for many users, it may not be ideal if you frequently step away from your desk, follow long-running tasks, or keep information visible on the screen for extended periods.</p><p>Similar to the previous suggestion, go into the <em>Power</em> settings, but instead of <em>General</em>, go into "<em>Power Saving</em>" and uncheck the "<em>Automatic Screen Blank</em>" option. You can also tweak the delay time before the screen goes dark if you prefer this behavior.</p><div class="kg-card kg-callout-card kg-callout-card-red"><div class="kg-callout-emoji">&#9995;</div><div class="kg-callout-text">This is not a good idea for shared spaces like offices, caf&eacute;s, or a family home with nosy people around.</div></div><h2 id="hide-the-home-folder">Hide the Home Folder</h2><p>Ubuntu places a Home folder icon on the desktop by default. While some users appreciate the quick access, others prefer a cleaner desktop with an unobstructed view of their wallpaper.</p><figure class="kg-card kg-video-card kg-width-regular kg-card-hascaption">
-            <div class="kg-video-container">
-                <video height="1080" loop="" poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" preload="metadata" src="https://itsfoss.com/content/media/2026/10/hide-home-folder.mp4" width="1920"></video>
-                <div class="kg-video-overlay">
-                    <button class="kg-video-large-play-icon">
-                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
-                        </svg>
-                    </button>
-                </div>
-                <div class="kg-video-player-container kg-video-hide">
-                    <div class="kg-video-player">
-                        <button class="kg-video-play-icon">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
-                            </svg>
-                        </button>
-                        <button class="kg-video-pause-icon kg-video-hide">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <rect height="22" rx="1.5" ry="1.5" width="7" x="3" y="1"></rect>
-                                <rect height="22" rx="1.5" ry="1.5" width="7" x="14" y="1"></rect>
-                            </svg>
-                        </button>
-                        <span class="kg-video-current-time">0:00</span>
-                        <div class="kg-video-time">
-                            /<span class="kg-video-duration">0:09</span>
-                        </div>
-                        <input class="kg-video-seek-slider" max="100" type="range" value="0" />
-                        <button class="kg-video-playback-rate">1&times;</button>
-                        <button class="kg-video-unmute-icon">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M15.189 2.021a9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h1.794a.249.249 0 0 1 .221.133 9.73 9.73 0 0 0 7.924 4.85h.06a1 1 0 0 0 1-1V3.02a1 1 0 0 0-1.06-.998Z"></path>
-                            </svg>
-                        </button>
-                        <button class="kg-video-mute-icon kg-video-hide">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M16.177 4.3a.248.248 0 0 0 .073-.176v-1.1a1 1 0 0 0-1.061-1 9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h.114a.251.251 0 0 0 .177-.073ZM23.707 1.706A1 1 0 0 0 22.293.292l-22 22a1 1 0 0 0 0 1.414l.009.009a1 1 0 0 0 1.405-.009l6.63-6.631A.251.251 0 0 1 8.515 17a.245.245 0 0 1 .177.075 10.081 10.081 0 0 0 6.5 2.92 1 1 0 0 0 1.061-1V9.266a.247.247 0 0 1 .073-.176Z"></path>
-                            </svg>
-                        </button>
-                        <input class="kg-video-volume-slider" max="100" type="range" value="100" />
-                    </div>
-                </div>
-            </div>
-            <figcaption><p><span style="white-space: pre-wrap;">Hide Home Folder from Desktop</span></p></figcaption>
-        </figure><p>If you'd rather keep the desktop free of extra icons, right-click on an empty area of the desktop and select Desktop Icons Settings. From there, disable the Show Home Folder option.</p><h2 id="set-what-shows-in-the-search">Set What Shows in the Search</h2><p>When you perform a search <a href="https://itsfoss.com/gnome-search/">using GNOME Search</a>, it include more than just applications and files. Categories such as characters, emojis, settings, and other providers may also appear, which can make the results feel a bit cluttered depending on how you use your system.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Showing various search results in overview" class="kg-image" height="887" src="https://itsfoss.com/content/images/2026/10/various-search-providers.png" width="1304" /><figcaption><span style="white-space: pre-wrap;">Search Results</span></figcaption></figure><p>To customize this behavior, open <strong>Settings &rarr; Search</strong>. From here, you can disable search providers you don't use and reorder the remaining ones based on priority. For example, if you never search for emojis through GNOME Search, you can disable the Characters provider entirely.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Disable Search entries and rearrange search items" class="kg-image" height="848" src="https://itsfoss.com/content/images/2026/10/disable-rearrange-search.png" width="1253" /><figcaption><span style="white-space: pre-wrap;">Search Settings</span></figcaption></figure><h2 id="install-curl-and-git">Install Curl and Git</h2><p>Ubuntu does not come with curl or git installed by default. A bit curious, because curl is commonly used to download files, interact with web APIs, and fetch installation scripts directly from the terminal. Git, on the other hand, is the most widely used version control system and is often required when working with source code, cloning repositories, or following developer-focused guides.</p><p>You can install both packages with a single command:</p><pre><code>sudo apt install curl git
-</code></pre><p>Even if you don't need them immediately, having these tools available can save time later. Many open-source projects assume that curl and git are already installed and use them throughout their installation and setup instructions.</p><h2 id="learn-keyboard-shortcuts">Learn Keyboard Shortcuts</h2><p>Keyboard shortcuts are one of the easiest ways to become more productive on Ubuntu. While almost everything can be done with a mouse, knowing a handful of shortcuts can make launching applications, managing windows, and navigating the desktop significantly faster.</p><p>The good news is that GNOME makes discovering shortcuts easy. In most modern GNOME and GTK applications, pressing <code>Ctrl + ?</code> opens a dedicated shortcuts window that neatly organizes all available keyboard shortcuts. Spending a few minutes exploring these can reveal useful actions that might otherwise go unnoticed.</p><figure class="kg-card kg-video-card kg-width-regular kg-card-hascaption">
-            <div class="kg-video-container">
-                <video height="625" loop="" poster="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" preload="metadata" src="https://itsfoss.com/content/media/2026/10/get-shortcuts.mp4" width="1107"></video>
-                <div class="kg-video-overlay">
-                    <button class="kg-video-large-play-icon">
-                        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
-                        </svg>
-                    </button>
-                </div>
-                <div class="kg-video-player-container kg-video-hide">
-                    <div class="kg-video-player">
-                        <button class="kg-video-play-icon">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M23.14 10.608 2.253.164A1.559 1.559 0 0 0 0 1.557v20.887a1.558 1.558 0 0 0 2.253 1.392L23.14 13.393a1.557 1.557 0 0 0 0-2.785Z"></path>
-                            </svg>
-                        </button>
-                        <button class="kg-video-pause-icon kg-video-hide">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <rect height="22" rx="1.5" ry="1.5" width="7" x="3" y="1"></rect>
-                                <rect height="22" rx="1.5" ry="1.5" width="7" x="14" y="1"></rect>
-                            </svg>
-                        </button>
-                        <span class="kg-video-current-time">0:00</span>
-                        <div class="kg-video-time">
-                            /<span class="kg-video-duration">0:18</span>
-                        </div>
-                        <input class="kg-video-seek-slider" max="100" type="range" value="0" />
-                        <button class="kg-video-playback-rate">1&times;</button>
-                        <button class="kg-video-unmute-icon">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M15.189 2.021a9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h1.794a.249.249 0 0 1 .221.133 9.73 9.73 0 0 0 7.924 4.85h.06a1 1 0 0 0 1-1V3.02a1 1 0 0 0-1.06-.998Z"></path>
-                            </svg>
-                        </button>
-                        <button class="kg-video-mute-icon kg-video-hide">
-                            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M16.177 4.3a.248.248 0 0 0 .073-.176v-1.1a1 1 0 0 0-1.061-1 9.728 9.728 0 0 0-7.924 4.85.249.249 0 0 1-.221.133H5.25a3 3 0 0 0-3 3v2a3 3 0 0 0 3 3h.114a.251.251 0 0 0 .177-.073ZM23.707 1.706A1 1 0 0 0 22.293.292l-22 22a1 1 0 0 0 0 1.414l.009.009a1 1 0 0 0 1.405-.009l6.63-6.631A.251.251 0 0 1 8.515 17a.245.245 0 0 1 .177.075 10.081 10.081 0 0 0 6.5 2.92 1 1 0 0 0 1.061-1V9.266a.247.247 0 0 1 .073-.176Z"></path>
-                            </svg>
-                        </button>
-                        <input class="kg-video-volume-slider" max="100" type="range" value="100" />
-                    </div>
-                </div>
-            </div>
-            <figcaption><p><span style="white-space: pre-wrap;">Get Keyboard Shortcuts</span></p></figcaption>
-        </figure><p>If you're new to Ubuntu, it's also worth checking out dedicated lists of <a href="https://itsfoss.com/ubuntu-shortcuts/" rel="noreferrer">Ubuntu desktop shortcuts</a> and <a href="https://itsfoss.com/linux-terminal-shortcuts/" rel="noreferrer">terminal shortcuts</a>.</p><h2 id="some-cool-accessibility-settings">Some Cool Accessibility Settings</h2><p>Accessibility settings are often associated with specific needs, but several of them can be genuinely useful for everyone. Ubuntu includes a number of small quality-of-life features that can make interacting with the desktop more comfortable and efficient.</p><h3 id="locate-the-cursor">Locate the Cursor</h3><p>If you work with multiple monitors or frequently have several windows open, there will eventually be a moment when the mouse pointer seems to disappear into the clutter. Instead of wasting time hunting for it, GNOME includes a built-in feature that highlights the pointer on demand.</p><p>Open <strong>Settings &rarr; Accessibility &rarr; Pointing and Clicking</strong> and enable <strong>Locate Pointer</strong>. Once enabled, pressing the left Ctrl key triggers a ripple animation around the mouse cursor, making it instantly visible on the screen.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Settings to enable location pointer in Ubuntu" class="kg-image" height="681" src="https://itsfoss.com/content/images/2026/10/locate-pointer.png" width="1049" /><figcaption><span style="white-space: pre-wrap;">Location Pointer Settings</span></figcaption></figure><h3 id="reduce-motion-animations">Reduce Motion Animations</h3><p>GNOME's animations generally look polished on modern hardware, but they are not essential to the desktop experience. If you prefer a more immediate feel or use older hardware, reducing animations can make the interface feel slightly more responsive.</p><p>To enable this setting, head to <strong>Settings &rarr; Accessibility &rarr; Seeing</strong> and turn on <strong>Reduced Motion</strong>. GNOME will minimize many of its transition and animation effects throughout the desktop.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Settings to enable reduced motion animation in Ubuntu" class="kg-image" height="640" src="https://itsfoss.com/content/images/2026/10/reduced-motion.png" width="1006" /><figcaption><span style="white-space: pre-wrap;">Reduced Motion Settings</span></figcaption></figure><p>Don't expect dramatic performance improvements, especially on newer systems. However, on less powerful hardware, or if you simply prefer a snappier and less animated interface, this small tweak can make the desktop feel a bit more streamlined.</p><h3 id="get-overamplification">Get Overamplification</h3><p>Ubuntu offers an accessibility feature that can boost audio output beyond the normal limit.</p><p>To enable it, open <strong>Settings &rarr; Accessibility &rarr; Hearing</strong> and turn on <strong>Overamplification</strong>. Once enabled, the system volume can be increased above 100% when needed.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="Settings to enable Overamplification" class="kg-image" height="640" src="https://itsfoss.com/content/images/2026/10/overamplification.png" width="1006" /><figcaption><span style="white-space: pre-wrap;">Overamplification Settings</span></figcaption></figure><p>Keep in mind that this is achieved through software amplification, so pushing the volume too high may introduce distortion or reduce audio quality. Still, it can be a useful option when dealing with particularly quiet recordings, low-volume speakers, or headphones that need a little extra boost.</p><h2 id="wrapping-up">Wrapping Up</h2><p>One of the things I appreciate about Ubuntu is that it works well with its default settings while still offering plenty of ways to tailor the experience. You don't need to apply every tweak mentioned here. Pick the ones that match your workflow and ignore the rest.</p><p>If you're new to Ubuntu, start with the essentials and explore gradually. Over time, you'll discover which settings, extensions, and tools genuinely improve your day-to-day experience, helping you build a desktop that feels truly your own.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17507385.gif" width="1" />]]></description>
-      <category>Ubuntu</category>
     </item>
   </channel>
 </rss>
