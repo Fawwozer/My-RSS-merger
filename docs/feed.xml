@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 31 Oct 2026 11:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:52:56 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,12 +17,44 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
-      <title>Jadens JD-166 Review: Portable, Inkless Thermal Printer on Linux</title>
-      <link>https://feed.itsfoss.com/link/24361/17510159/jadens-jd-166-review</link>
-      <guid isPermaLink="false">6adcc0cf10b6160001f68550</guid>
-      <pubDate>Wed, 28 Oct 2026 16:47:00 +0000</pubDate>
-      <description><![CDATA[Jadens JD-166 Printer with Linux]]></description>
-      <category>Reviews</category>
+      <title>Опрос: какой новый смартфон октября вам понравился больше всего?</title>
+      <link>https://4pda.to/2026/10/31/462828/opros_kakoj_novyj_smartfon_oktyabrya_vam_ponravilsya_bolshe_vsego/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/31/462828/opros_kakoj_novyj_smartfon_oktyabrya_vam_ponravilsya_bolshe_vsego/</guid>
+      <pubDate>Sat, 31 Oct 2026 15:30:00 +0000</pubDate>
+      <description><![CDATA[Пришло время подвести итоги октября. За этот месяц вышло несколько заслуживающих внимания смартфонов. Honor, iQOO, OnePlus, RedMagic и REDMI выпустили модели для любителей мобильных игр, а HUAWEI показала [...]]]></description>
+    </item>
+    <item>
+      <title>Новая технология сжатия вдвое ускорила запуск видео в «VK Видео»</title>
+      <link>https://4pda.to/2026/10/31/462800/novaya_tekhnologiya_szhatiya_vdvoe_uskorila_zapusk_video_v_vk_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/31/462800/novaya_tekhnologiya_szhatiya_vdvoe_uskorila_zapusk_video_v_vk_video/</guid>
+      <pubDate>Sat, 31 Oct 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Пользователи «VK Видео» теперь могут быстрее начинать просмотр роликов. Платформа изменила систему подготовки загружаемых файлов, благодаря чему видео стали занимать меньше места, а время ожидания перед [...]]]></description>
+    </item>
+    <item>
+      <title>Теперь официально: США разрешили Boeing работать с «Белавиа»</title>
+      <link>https://people.onliner.by/go/1342629</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia</guid>
+      <pubDate>Sat, 31 Oct 2026 13:00:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia"><img alt="" src="https://content.onliner.by/news/thumbnail/ea5a28adf291002c968d1c1722441db0.jpg" /></a></p><p><p>Соединенные Штаты Америки сняли ограничения на взаимодействие корпорации Boeing с белорусской национальной авиакомпанией «Белавиа». Об этом сообщил <a href="https://belta.by/society/view/belavia-poluchila-vozmozhnost-naprjamuju-pokupat-lajnery-i-komponenty-boeing-cherginets-808705-2026/" target="_blank">БЕЛТА</a> генеральный директор авиаперевозчика Игорь Чергинец.<br /></p>
+</p><p><a href="https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Белорусы заметили в лесу капканы. В один попалась лиса — ее спасли, а браконьера задержали</title>
+      <link>https://people.onliner.by/go/1342615</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/10/31/belorusy-zametili-v-lesu-kapkany</guid>
+      <pubDate>Sat, 31 Oct 2026 12:29:22 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/belorusy-zametili-v-lesu-kapkany"><img alt="" src="https://content.onliner.by/news/thumbnail/e1f4e8a56f965b85376dcc3fb5da026b.jpg" /></a></p><p><p>В Гомельскую инспекцию охраны животного и растительного мира <a href="https://t.me/c/1939968939/864" target="_blank">обратились</a> неравнодушные белорусы: в запретной для охоты зоне кто-то расставил капканы, и в один из них уже угодила лиса. Инспекторы вместе с егерем сразу же выехали на место. Животное освободили из плена и выпустили на волю, а на месте преступления решили устроить засаду.<br /></p>
+</p><p><a href="https://people.onliner.by/2026/10/31/belorusy-zametili-v-lesu-kapkany">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be</title>
+      <link>https://feed.itsfoss.com/link/24361/17512053/denmark-collabora-pilot-update</link>
+      <guid isPermaLink="false">6ae43b2f1b851a000184078f</guid>
+      <pubDate>Sat, 31 Oct 2026 12:03:47 +0000</pubDate>
+      <description><![CDATA[denmark and collbora office-themed banner]]></description>
+      <category>News</category>
     </item>
     <item>
       <title>Эта площадка простояла без движения пять лет. А теперь здесь открылся строительный гипермаркет</title>
@@ -32,6 +64,13 @@
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/31/otkrylsya-stroitelnyj-gipermarket"><img alt="" src="https://content.onliner.by/news/thumbnail/0b4de211dc828a8bae3968cb9fd05de0.jpg" /></a></p><p>Сегодня в Ждановичах официально открылся новый гипермаркет «Материк». Масштабы у объекта серьезные: гигант на 20 000 квадратных метров и 728 машино-мест рассчитаны на поток покупателей со всего города. Журналисты Onlíner посмотрели, что происходит в магазине в первый день работы.
 </p><p><a href="https://realt.onliner.by/2026/10/31/otkrylsya-stroitelnyj-gipermarket">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Во что поиграть в ноябре? GTA VI и ещё 9 релизов месяца</title>
+      <link>https://4pda.to/2026/10/31/462832/vo_chto_poigrat_v_noyabre_gta_vi_i_eschyo_9_relizov_mesyatsa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/10/31/462832/vo_chto_poigrat_v_noyabre_gta_vi_i_eschyo_9_relizov_mesyatsa/</guid>
+      <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
+      <description><![CDATA[Игровой ноябрь 2026-го войдёт в историю — мы наконец-то дождёмся Grand Theft Auto VI. Есть и плохие новости: конкуренты разбежались кто куда, и сойтись в неравной схватке с Rockstar вызвались только авторы [...]]]></description>
     </item>
     <item>
       <title>RugOne представила в России защищённые смартфоны со сменной АКБ и экшен-камерой [ФОТО]</title>
@@ -48,11 +87,12 @@
       <description><![CDATA[Samsung Foundry&nbsp;расширила возможности своего 8-нм техпроцесса, добавив новое поколение под названием 8LPU+. Его использование позволит улучшить характеристики различных схем&nbsp;автомобилей, промышленных [...]]]></description>
     </item>
     <item>
-      <title>Беларусь приняла эвакуированных из Алешек. Людей накормили и отправили к границе</title>
+      <title>Через Беларусь в Украину. Как проходила эвакуация жителей Алешек (обновлено)</title>
       <link>https://people.onliner.by/go/1342535</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/31/oleshki-gomel-2</guid>
       <pubDate>Sat, 31 Oct 2026 09:33:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/oleshki-gomel-2"><img alt="" src="https://content.onliner.by/news/thumbnail/e56349f53be795f3a50bd79a65c9b2c2.jpg" /></a></p><p>В аэропорту Гомеля приземлились три самолета с жителями города Алешки Херсонской области, которых эвакуировали из прифронтовой зоны. После долгой дороги людям дали возможность передохнуть, накормили и оказали необходимую медицинскую помощь. Теперь они снова в пути: эвакуированных посадили в автобусы и повезли к пункту пропуска «Новая Гута», откуда они смогут попасть в Украину.</p><p><a href="https://people.onliner.by/2026/10/31/oleshki-gomel-2">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/oleshki-gomel-2"><img alt="" src="https://content.onliner.by/news/thumbnail/e56349f53be795f3a50bd79a65c9b2c2.jpg" /></a></p><p>В аэропорту Гомеля приземлились четыре самолета с жителями города Алешки Херсонской области, которых эвакуировали из прифронтовой зоны. После долгой дороги людям дали возможность передохнуть, накормили и оказали необходимую медицинскую помощь. Затем их посадили в автобусы и повезли к пункту пропуска «Новая Гута», откуда они смогли попасть в Украину.
+</p><p><a href="https://people.onliner.by/2026/10/31/oleshki-gomel-2">Читать далее…</a></p>]]></description>
       <category>Люди</category>
     </item>
     <item>
@@ -410,29 +450,6 @@ OLED-дисплеем впервые прошёл тестирование в Ge
       <category>Авто</category>
     </item>
     <item>
-      <title>iOS 27.2 блокирует важную функцию в РФ: стоит ли обновляться?</title>
-      <link>https://4pda.to/2026/10/30/462823/ios_27_2_blokiruet_vazhnuyu_funktsiyu_v_rf_stoit_li_obnovlyatsya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/30/462823/ios_27_2_blokiruet_vazhnuyu_funktsiyu_v_rf_stoit_li_obnovlyatsya/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[Apple выпустила iOS 27.2. Апдейт исправляет баги и уязвимости, но закрывает одну полезную лазейку: активировать 5G и звонки по VoWiFi на iPhone в России больше не получится. Вот всё, о чём стоит знать [...]]]></description>
-    </item>
-    <item>
-      <title>Российский балетный слэшер «Царевна» получил геймплейный трейлер [ВИДЕО]</title>
-      <link>https://4pda.to/2026/10/30/462826/rossijskij_baletnyj_slesher_tsarevna_poluchil_gejmplejnyj_trejler_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/30/462826/rossijskij_baletnyj_slesher_tsarevna_poluchil_gejmplejnyj_trejler_video/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:55:00 +0000</pubDate>
-      <description><![CDATA[В русских сказках царевны обычно ждут отважного богатыря, но героиня нового экшена от Watt Studio предпочитает разбираться с врагами самостоятельно. Причём делает она это с балетной грацией.
-[youtube=d6eqyoKkf0o:640:360:::0]
-Российская [...]]]></description>
-    </item>
-    <item>
-      <title>Realbotix представила человекоподобных роботов Echo с разными характерами</title>
-      <link>https://4pda.to/2026/10/30/462796/realbotix_predstavila_chelovekopodobnykh_robotov_echo_s_raznymi_kharakterami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/30/462796/realbotix_predstavila_chelovekopodobnykh_robotov_echo_s_raznymi_kharakterami/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:50:00 +0000</pubDate>
-      <description><![CDATA[Realbotix создала новых человекоподобных ИИ-собеседников. У роботов Echo можно выбрать лицо, голос и характер, а при желании — ещё и полноразмерный корпус ростом почти два метра. Первые экземпляры компания [...]]]></description>
-    </item>
-    <item>
       <title>На днях может выпасть снег. Как жить? (видео)</title>
       <link>https://people.onliner.by/go/1342330</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/30/pervyj-sneg-3</guid>
@@ -442,42 +459,12 @@ OLED-дисплеем впервые прошёл тестирование в Ge
       <category>Люди</category>
     </item>
     <item>
-      <title>Выпущен REDMI Projector 3C: картинка до 100 дюймов и цена всего $120</title>
-      <link>https://4pda.to/2026/10/30/462806/vypuschen_redmi_projector_3c_kartinka_do_100_dyujmov_i_tsena_vsego_120/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/30/462806/vypuschen_redmi_projector_3c_kartinka_do_100_dyujmov_i_tsena_vsego_120/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:35:00 +0000</pubDate>
-      <description><![CDATA[REDMI представила компактный Projector 3C для домашнего кинотеатра. Он умеет сам настраивать изображение, выводит картинку диагональю до 100 дюймов и может работать в связке с другими устройствами умного [...]]]></description>
-    </item>
-    <item>
-      <title>EGS отдаёт атмосферный хоррор бесплатно и навсегда</title>
-      <link>https://4pda.to/2026/10/30/462827/egs_otdayot_atmosfernyj_khorror_besplatno_i_navsegda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/30/462827/egs_otdayot_atmosfernyj_khorror_besplatno_i_navsegda/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Epic Games Store продолжает радовать любителей бесплатных игр. На этот раз магазин приготовил подарок к Хэллоуину — необычный хоррор, в котором придётся иметь дело с демонами, проклятиями и потусторонними [...]]]></description>
-    </item>
-    <item>
       <title>Возле метро «Слуцкий гостинец» началась большая стройка. Возводят крутое общежитие на 1000 мест</title>
       <link>https://realt.onliner.by/go/1140158</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/10/30/krutoe-obshhezhitie</guid>
       <pubDate>Fri, 30 Oct 2026 13:27:31 +0000</pubDate>
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/30/krutoe-obshhezhitie"><img alt="" src="https://content.onliner.by/news/thumbnail/8845231bd1460e1add73e5958dd98152.jpg" /></a></p><p>В последние годы для студентов вузов было построено сразу несколько шикарных общежитий (наши родители, а уж тем более бабушки и дедушки даже мечтать о таком уровне не могли). В конце 2026 года подошла очередь <a href="https://realt.onliner.by/2025/10/02/obshhezhitie-na-1000-mest" target="_blank">радоваться</a> учащимся ссузов. В Октябрьском районе, в районе ул. Лейтенанта Кижеватова и Корженевского, начали возводить общежитие на 1029 мест именно для них.</p><p><a href="https://realt.onliner.by/2026/10/30/krutoe-obshhezhitie">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Еще чуть-чуть — и столкнулись бы! Неловкость водителя могла дорого ему обойтись (видео, обновлено)</title>
-      <link>https://auto.onliner.by/go/1272748</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/nelovkost-voditelya</guid>
-      <pubDate>Fri, 30 Oct 2026 13:18:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/nelovkost-voditelya"><img alt="" src="https://content.onliner.by/news/thumbnail/600e60206a4c4ea2f0ee902142142368.jpg" /></a></p><p>Наш читатель поделился с Onlíner видео с проспекта Независимости. Неловкость одного водителя могла дорого стоить как минимум двоим.</p><p><a href="https://auto.onliner.by/2026/10/30/nelovkost-voditelya">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>На ЭЗС теперь можно заряжаться до любого процента</title>
-      <link>https://auto.onliner.by/go/1272821</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/30/do-lyubogo-procenta</guid>
-      <pubDate>Fri, 30 Oct 2026 13:07:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/30/do-lyubogo-procenta"><img alt="" src="https://content.onliner.by/news/thumbnail/43059743e37848171883c92116802fc8.jpg" /></a></p><p>На станциях BatteryFly появилась возможность автоматически заряжать электромобиль до нужного процента. Выбрать нужный уровень позволяет опция в обновленном приложении платформы.</p><p><a href="https://auto.onliner.by/2026/10/30/do-lyubogo-procenta">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
     </item>
     <item>
       <title>Is Ubuntu Eyeing Immutability? Canonical Restarts Core Desktop and Eyes a Firmware Change for LTS</title>
