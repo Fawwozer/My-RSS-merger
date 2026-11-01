@@ -5,16 +5,176 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 01 Nov 2026 12:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:44:20 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
-      <title>FOSS Weekly #26.44: Ginux, Dead Distros, Resurrected Projects, Dangerous Commands and More (Scary) Linux Stuff</title>
-      <link>https://feed.itsfoss.com/link/24361/17510669/foss-weekly-26-44</link>
-      <guid isPermaLink="false">6ae1b50a1b851a0001833d4b</guid>
-      <pubDate>Thu, 29 Oct 2026 13:53:00 +0000</pubDate>
-      <description><![CDATA[Halloween special Linux newsletter]]></description>
-      <category>Newsletter ✉️</category>
+      <title>System76 выпустила 11-литровый Thelio Prime на Linux с поддержкой Ryzen 9000 и RTX 5070</title>
+      <link>https://4pda.to/2026/11/01/462752/system76_vypustila_11_litrovyj_thelio_prime_na_linux_s_podderzhkoj_ryzen_9000_i_rtx_5070/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/01/462752/system76_vypustila_11_litrovyj_thelio_prime_na_linux_s_podderzhkoj_ryzen_9000_i_rtx_5070/</guid>
+      <pubDate>Sun, 01 Nov 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[System76 представила Thelio Prime — очень компактный, но в то же время мощный настольный компьютер на Linux. При объёме корпуса всего 11 литров в него можно установить&nbsp;процессоры AMD серии Ryzen 9000 [...]]]></description>
+    </item>
+    <item>
+      <title>Here's How You Can Use VPNs for FREE on Linux</title>
+      <link>https://feed.itsfoss.com/link/24361/17512838/free-vpn-linux</link>
+      <guid isPermaLink="false">6ae733733a20a700010dfb06</guid>
+      <pubDate>Sun, 01 Nov 2026 15:07:36 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/11/vpn-linux.webp" /></figure>
+<p><em>"If you are not paying for the product, you are the product."</em></p><p>That's often true, and it's doubly true for VPNs. A VPN service could see all your traffic, so a shady free VPN is worse than no VPN at all.</p><p>But you may still find yourself in a situation where you need one. And let's be honest, if it's casual use, paying for a VPN doesn't make a lot of sense, because VPN prices are only reasonable on yearly or longer plans. You don't want to pay for two years upfront just to open one blocked website.</p><p>The good news is that a few well-known privacy companies offer usable free plans. They make money from their paid users, not from your data (most of them have independent audits) and the free plan is often a way to generate lead. </p><p>You can take advantage of that and use it for your occasional VPN requirements.</p><p>In this article, I'll list free VPNs that you can use on Linux. I have split them into two groups: VPNs built into web browsers, and VPN services with a proper Linux client that protects your entire system. </p><p>I have stuck to reputable services only, and I'm not including random "free VPN" browser extensions, because most of them are spammy at best.</p><h2 id="when-and-why-do-you-need-a-free-vpn">When and why do you need a free VPN?</h2><p>The most common reason is geo-restriction. Some website owners block visitors from certain countries, and a VPN lets you appear to be somewhere else. This is perhaps the most common such screen I have seen with sites that geo-block its visitors. </p><figure class="kg-card kg-image-card"><img alt="Access Restricted" class="kg-image" height="499" src="https://itsfoss.com/content/images/2026/11/access-restricted.png" width="1304" /></figure><p>Sometimes it's not the website but your government that blocks a site, or even a specific X/Twitter account.</p><p>In more "restrictive regions", a VPN may be the only way to get around censorship and reach parts of the open web. It's also handy when you're traveling and need a work or university portal that only works from your home region.</p><p>Then there's the case of public Wi-Fi. At a hotel, airport or caf&eacute;, a VPN adds an extra layer of protection between you and whoever else is on that network. At least it gives me peace of mind.</p><p>If you need a VPN every day, or for streaming, you should instead go for a <a href="https://itsfoss.com/best-vpn-linux/" rel="noreferrer">reliable but paid VPN service</a>.</p><h2 id="what-to-look-for-in-a-free-vpn">What to look for in a free VPN</h2><p>Free VPNs come with limitations. That's expected. What matters is whether those limitations matter to you.</p><p>First, check whether you need an account. Most free VPNs ask for one, some only want an email, and a few need nothing at all.</p><p>Next, check whether it's browser-only or system-wide. A browser VPN only protects traffic from that browser, while a system-wide VPN covers every application on your Linux system. For system-wide VPNs, also check whether there's a native Linux client and whether it has a GUI or is CLI only.</p><p>Then look at the limits. Some (rare) free plans have unlimited data, others give you anywhere from 2 GB to 50 GB a month. Free plans also restrict you to a handful of server locations, and some don't even let you pick one.</p><p>If you care about encryption, look for <a href="https://www.wireguard.com/">WireGuard</a> or OpenVPN support. If your goal is watching content from another country, check streaming support first, because most free plans don't offer it.</p><p>Finally, check the no-logs policy. Every VPN claims one, at least on paper. A no-logs claim backed by an independent audit is better than one without.</p><p>With that out of the way, let's see the options of free VPNs for Linux users.</p><h2 id="browser-based-free-vpns">Browser-based free VPNs</h2><p>These are VPNs built right into the web browser. You don't install anything extra. Click a button and your browsing goes through the VPN.</p><p>They are good enough for opening geo-blocked websites or browsing on public Wi-Fi. Just remember that they only cover the browser. Your terminal, package manager, torrent client (if you use it) and every other app still use your normal connection.</p><p>Strictly speaking, some of these work more like an encrypted proxy than a full VPN. For casual browsing, the difference won't matter much.</p><h3 id="vivaldi-with-proton-vpn">Vivaldi (with Proton VPN)</h3><figure class="kg-card kg-image-card"><img alt="Vivaldi offers free Proton VPN" class="kg-image" height="998" src="https://itsfoss.com/content/images/2026/11/vivalid-free-vpn.webp" width="2000" /></figure><p><a href="https://itsfoss.com/news/vivaldi-proton-vpn-collab/" rel="noreferrer">Vivaldi partnered with Proton in 2025</a> and integrated the free tier of Proton VPN directly into its web browser. It's available on Linux, Windows and macOS.</p><p>What makes it stand out is that it's free with no data limits. You get the same thing Proton gives its free users: no ads, a strict no-logs policy and medium speeds. Your server options are limited to Proton's free locations.</p><p>You need to sign in with a Vivaldi account or a Proton account. Vivaldi says the account requirement is there to prevent abuse of the free service.</p><p>If you are already a Vivaldi user, this is the easiest option on the list. If you are not, it's a decent reason to give Vivaldi a try.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://vivaldi.com/">Vivaldi Browser</a></div><h3 id="firefox-built-in-vpn">Firefox built-in VPN</h3><figure class="kg-card kg-image-card"><img alt="Firefox offers free VPN in many countries" class="kg-image" height="751" src="https://itsfoss.com/content/images/2026/11/firefox-free-vpn.png" width="1809" /></figure><p>Mozilla has had a paid VPN for years. With Firefox 149, it added a free built-in VPN to the browser itself.</p><p>You get 50 GB of VPN browsing per month, which is generous for a browser VPN. Once you hit the limit, the VPN pauses until the next month. You can also pick the location you want to browse from, and you need a Mozilla account to use it.</p><p>The problem is availability. As of Mozilla's July 2026 update, it covers 29 countries, including Canada, Japan, Mexico, Australia and much of Europe. If you don't see the VPN button in Firefox, it hasn't reached your region yet.</p><p>If you want Mozilla's protection for your entire system, there's the paid Mozilla VPN. It costs $9.99 per month, or $4.99 per month on the yearly plan, and covers up to 5 devices with 500 servers in 30+ countries. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.firefox.com/en-US/">Firefox</a></div><h3 id="opera">Opera</h3><p><a href="https://www.opera.com/">Opera</a> was the first major browser to bake in a free VPN, way back in 2016. It's still there in the desktop version, Linux included.</p><p>It is unlimited and doesn't need an account. Just enable it in the settings and you're done. That's the lowest-friction option on this list.</p><p>The limitation is location choice. You can't pick a country, only a region: Americas, Europe or Asia (or let Opera pick the "optimal" location). That's fine for public Wi-Fi but hit or miss for geo-blocked websites, and technically it's a browser proxy rather than a full VPN.</p><p>Also, many people would be weary of the fact that Opera was sold to a Chinese consortium earlier. Personally, I prefer privacy services from Europe. That's not a guarantee but just a perception that European companies have better privacy laws.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.opera.com/">Opera</a></div><h2 id="system-wide-vpns-with-linux-clients">System-wide VPNs with Linux clients</h2><p>These are proper VPN services with native Linux apps. Once connected, everything on your system goes through the VPN: browsers, terminal, apps, updates all of it.</p><h3 id="proton-vpn">Proton VPN</h3><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="638" src="https://itsfoss.com/content/images/2026/11/proton-vpn-linux-gui.webp" width="1024" /><figcaption><span style="white-space: pre-wrap;">Proton VPN free Linux</span></figcaption></figure><p><a href="http://proton.go2cloud.org/aff_c?offer_id=10&amp;aff_id=1173" rel="noreferrer"><strong>Proton VPN</strong></a> comes from Proton, the Swiss company behind Proton Mail. Its free plan is the best one I know of, and it's my default recommendation for anyone who asks.</p><p>The free plan has no data limit and no ads. Its no-logs policy has been independently audited, and <a href="https://github.com/ProtonVPN" rel="noreferrer">Proton's apps are open source</a> too.</p><p>You can use it on 1 device at a time, with <a href="https://protonvpn.com/support/proton-vpn-plans">servers in up to 10 countries</a>: the Netherlands, Japan, Romania, Poland, Norway, Switzerland, Singapore, Mexico, Canada and the US. Speeds are medium, since paid users get priority.</p><p>The free tier limitation is that you can't pick a country. Proton <a href="https://www.tomsguide.com/computing/vpns/proton-vpn-free-adds-norway-server-boosting-its-location-count-to-8">assigns you a free server</a>, and you can reconnect to get a different one. Streaming and P2P/torrenting are not supported on the free plan either.</p><p>On Linux, Proton has both official CLI and GUI app, which is rare among VPN providers. </p><p>The <a href="http://proton.go2cloud.org/aff_c?offer_id=10&amp;aff_id=1173">paid VPN Plus</a> plan unlocks 20,000+ servers in 140+ countries, up to 10 devices, faster speeds, streaming support, P2P with port forwarding, the NetShield ad-blocker and Secure Core multi-hop servers. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://protonvpn.com/">Proton VPN</a></div><h3 id="windscribe">Windscribe</h3><figure class="kg-card kg-image-card"><img alt="Windscribe" class="kg-image" height="880" src="https://itsfoss.com/content/images/2026/11/windscribe-free-vpn.webp" width="2000" /></figure><p><a href="https://windscribe.com/"><strong>Windscribe</strong></a> is a Canadian VPN company with one of the more generous capped free plans.</p><p>You get <a href="https://windscribe.com/support/article/44/how-much-does-it-cost-to-use-windscribe">10 GB of data per month</a> if you confirm your email address. Without an email, you get 2 GB, which is good enough for emergency use. Free users get servers in 10 countries, and unlike Proton, you choose the location yourself.</p><p>There's also no limit on the number of devices, even on the free plan. Windscribe's desktop apps are open source, and on Linux you get both a GUI app and a CLI.</p><p>Most features, including the firewall (their name for the kill switch) and split tunneling, are available to free users too. Its no-logs claim <a href="https://www.tomsguide.com/reviews/windscribe-vpn-review">has been audited, and has also held up in court</a>.</p><p>If 10 GB isn't enough but you don't want a full subscription, Windscribe has an interesting "Build-A-Plan" option. You <a href="https://windscribe.com/support/article/44/how-much-does-it-cost-to-use-windscribe">pay $1 per month per location</a> you need (minimum $3), and each location adds 10 GB to your monthly allowance. Unlimited data is a $1 add-on, while the full Pro plan costs $9 per month or $69 per year.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://windscribe.com/">Windscribe</a></div><h3 id="hideme">hide.me</h3><figure class="kg-card kg-image-card"><img alt="Hide.me offers free VPN tier for Linux" class="kg-image" height="314" src="https://itsfoss.com/content/images/2026/11/hide-me-linux.jpeg" width="635" /></figure><p><a href="https://hide.me/"><strong>hide.me</strong></a> is a Malaysia-based VPN with a free plan that doesn't require a sign-up or payment details.</p><p>The free plan used to cap you at 10 GB a month. Now there's no data limit at all, but speeds are throttled. <a href="https://www.tomsguide.com/computing/vpns/hide-me-free-review">Tom's Guide measured free speeds</a> at around 1 Mbps, which is enough for reading but painful for anything else.</p><p>You get 1 simultaneous connection, and hide.me advertises 8 free locations, mostly in Europe plus the US. Streaming isn't supported on the free plan.</p><p>For Linux, hide.me has an <a href="https://github.com/eventure/hide.client.linux">official command-line client</a>. It's built on WireGuard, written in Go and open source under GPLv2, and it works with the free plan. You can also set it up manually through NetworkManager.</p><p>The paid plan unlocks 91 locations, 10 simultaneous connections, full speed, a fixed IP address option, dynamic port forwarding and streaming support.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://hide.me/">hide.me</a></div><h3 id="adguard-vpn">AdGuard VPN</h3><figure class="kg-card kg-image-card"><img alt="Adguard free VPN for Linux users" class="kg-image" height="630" src="https://itsfoss.com/content/images/2026/11/adguard-free-vpn.webp" width="1200" /></figure><p>You probably know <a href="https://adguard.com/en/adguard-linux/overview.html?aid=135612">AdGuard</a> for its ad blocker and AdGuard DNS. The company has been building privacy tools for well over a decade, and <a href="https://adguard-vpn.com?aid=135612" rel="noreferrer"><strong>AdGuard VPN</strong></a> is part of that family.</p><p>On Linux, AdGuard VPN comes as an <a href="https://adguard-vpn.com/en/linux/overview.html">official command-line client</a> for Debian, Ubuntu, Linux Mint and RPM-based distributions. There's no GUI here.</p><p>You need an AdGuard account, which you can create from the terminal itself. The <a href="https://adguard-vpn.com/en/support/vpn_for_linux/subscription/paid_and_free.html">free plan</a> gives you 3 GB of traffic per month at speeds capped to 20 Mbps, and 2 devices at a time.</p><p>The paid plan removes the data cap and the speed limit, opens up 75+ locations and lets you connect up to 10 devices at the same time. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://adguard-vpn.com?aid=135612">AdGuard VPN</a></div><h3 id="riseupvpn">RiseupVPN</h3><p><a href="https://riseup.net/"><strong>Riseup</strong></a> is a volunteer-run collective that has been providing secure communication tools to activists and privacy-minded people <a href="https://en.wikipedia.org/wiki/Riseup">since 1999</a>. Its email, chat and other services are built around anonymity and resisting surveillance, and <a href="https://riseup.net/vpn">RiseupVPN</a> is one of those services.</p><p>RiseupVPN is different from everything else on this list because there is no paid plan. Everything is free. There's no account to create, no configuration, and Riseup says it doesn't log your IP address.</p><p>The whole thing runs on donations. Riseup <a href="https://riseup.net/vpn">estimates the VPN costs</a> about $60 per person per year to run and asks regular users to donate at least that much if they can.</p><p>On Linux, it's available as a snap and as a package for Debian and Ubuntu. Arch users can find it in the AUR.</p><p>Note that this is a donation-funded service with a handful of gateways in North America and Europe. Riseup doesn't publish a list, but <a href="https://discuss.privacyguides.net/t/riseup-as-a-free-vpn/15677">users report locations</a> like Seattle, Montreal, New York, Paris and Amsterdam. </p><p>Don't expect commercial VPN speeds, because it's built for privacy and getting around censorship, not for unblocking streaming catalogs.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://riseup.net/">RiseupVPN</a></div><h3 id="lantern">Lantern</h3><figure class="kg-card kg-image-card"><img alt="Lantern VPN" class="kg-image" height="439" src="https://itsfoss.com/content/images/2026/11/lantern-vpn.svg" width="650" /></figure><p><a href="https://lantern.io/"><strong>Lantern</strong></a> started as a censorship circumvention tool, and that's still its focus. It's developed by Brave New Software, a US nonprofit with no relation to Brave Browser. The code is open source, and it has been around since 2013.</p><p>The free version doesn't need an account or payment details. Just download and connect. The limit is data, of course. Free users get about 250 MB per day, resetting every 24 hours. Which is fine for reading blocked news sites or checking a social media account, but not much else.</p><p>Lantern doesn't disconnect you when you hit the cap. Instead, downloads slow to about 128 Kbps until the next reset, which is mostly useless these days. Free users in Iran, Russia and Belarus get unlimited data, which tells you who the service is really built for.</p><p>If you want more, Lantern Pro gives you unlimited data, up to 5 devices, server location selection, premium servers, built-in ad blocking and the option to host your own private Lantern server. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://lantern.io/">Lantern</a></div><h2 id="want-streaming-get-a-paid-plan">Want streaming? Get a paid plan</h2><p>If you want a VPN to watch Netflix or Prime Video from another country, or to watch your home country's catalog or live sport event while living abroad, a free plan won't work well. Most free plans either don't support streaming or have data caps that run out after a few hours of HD video.</p><p>A paid plan is better for this. Even then, streaming services are smart. They actively block VPN IP addresses, so expect things to break from time to time. <a href="http://proton.go2cloud.org/aff_c?offer_id=10&amp;aff_id=1173">Proton is a reliable VPN</a> or you can go for Unlocator Smart DNS.</p><h2 id="comparing-the-free-vpn-options">Comparing the free VPN options</h2>
+<!--kg-card-begin: html-->
+<table>
+<thead>
+<tr>
+<th>VPN</th>
+<th>Type</th>
+<th>Account needed</th>
+<th>Free data</th>
+<th>Location choice</th>
+<th>Linux support</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vivaldi + Proton</td>
+<td>Browser</td>
+<td>Yes</td>
+<td>Unlimited</td>
+<td>Limited to Proton free servers</td>
+<td>Yes (built into browser)</td>
+</tr>
+<tr>
+<td>Firefox built-in VPN</td>
+<td>Browser</td>
+<td>Yes (Mozilla)</td>
+<td>50 GB/month</td>
+<td>Yes</td>
+<td>Yes (built into browser)</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>Browser</td>
+<td>No</td>
+<td>Unlimited</td>
+<td>Regions only</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Proton VPN</td>
+<td>System-wide</td>
+<td>Yes</td>
+<td>Unlimited</td>
+<td>No (auto-assigned)</td>
+<td>GUI + CLI</td>
+</tr>
+<tr>
+<td>Windscribe</td>
+<td>System-wide</td>
+<td>Optional (2 GB without email, 10 GB with)</td>
+<td>2 to 10 GB/month</td>
+<td>Yes, 10 countries</td>
+<td>GUI + CLI</td>
+</tr>
+<tr>
+<td>hide.me</td>
+<td>System-wide</td>
+<td>No</td>
+<td>Unlimited (throttled)</td>
+<td>Yes, 8 locations</td>
+<td>CLI</td>
+</tr>
+<tr>
+<td>AdGuard VPN</td>
+<td>System-wide</td>
+<td>Yes</td>
+<td>3 GB/month</td>
+<td>Yes, limited locations</td>
+<td>CLI</td>
+</tr>
+<tr>
+<td>RiseupVPN</td>
+<td>System-wide</td>
+<td>No</td>
+<td>Unlimited (donation-funded)</td>
+<td>Yes, a few gateways</td>
+<td>GUI (tray app)</td>
+</tr>
+<tr>
+<td>Lantern</td>
+<td>System-wide</td>
+<td>No</td>
+<td>About 244 MB/day</td>
+<td>No (Pro only)</td>
+<td>DEB/RPM </td>
+</tr>
+</tbody>
+</table>
+<!--kg-card-end: html-->
+<h2 id="which-one-should-you-use">Which one should you use?</h2><p>If you just want to open a blocked website or feel safer on hotel Wi-Fi, a browser VPN is enough. </p><p>If you want the whole system protected, Proton VPN's free plan is the one I'd start with, and Windscribe is a good backup when you need to pick a specific country. </p><p>If you're dealing with real censorship, keep RiseupVPN or Lantern installed as a fallback. Although I would suggest going for a more robust, paid VPN like Mullvad.</p><p>And if all you care about is encrypting traffic on public Wi-Fi, there's also <a href="https://one.one.one.one/">Cloudflare WARP</a>. It's free with no data cap, needs no account, and has an official Linux client (<code>warp-cli</code>). But you can't choose a location, so it won't help with geo-restrictions at all.</p><p>I hope this list helps you select a free VPN service. If you have questions or suggestions, please leave a comment.</p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17512838.gif" width="1" />]]></description>
+      <category>List 📋</category>
+    </item>
+    <item>
+      <title>Hisense UR9S: домашний центр развлечений с RGB MiniLED и звуком 4.1.2</title>
+      <link>https://4pda.to/2026/11/01/462618/hisense_ur9s_domashnij_tsentr_razvlechenij_s_rgb_miniled_i_zvukom_4_1_2/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/01/462618/hisense_ur9s_domashnij_tsentr_razvlechenij_s_rgb_miniled_i_zvukom_4_1_2/</guid>
+      <pubDate>Sun, 01 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Современный телевизор должен уметь показывать любой контент с точной цветопередачей и вместе с тем оставаться удобным центром домашних развлечений. Модели серии Hisense UR9S рассчитаны как раз на такие [...]]]></description>
+    </item>
+    <item>
+      <title>Formula V Line показала панорамный корпус Crystal Z3 с нижним воздухозаборником для GPU</title>
+      <link>https://4pda.to/2026/11/01/462755/formula_v_line_pokazala_panoramnyj_korpus_crystal_z3_s_nizhnim_vozdukhozabornikom_dlya_gpu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/01/462755/formula_v_line_pokazala_panoramnyj_korpus_crystal_z3_s_nizhnim_vozdukhozabornikom_dlya_gpu/</guid>
+      <pubDate>Sun, 01 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Formula V Line выпустила линейку корпусов Crystal Z3 с панорамным дизайном. Главная особенность кроется в поворотном креплении для видеокарты, которое позволяет установить её как горизонтально, так и&nbsp;вертикально. [...]]]></description>
+    </item>
+    <item>
+      <title>Купилась на дешевую рыбу и фальшивые отзывы. Минчанка заказала морепродукты и осталась ни с чем</title>
+      <link>https://money.onliner.by/go/353053</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/01/kupilas-na-deshevuyu-rybu</guid>
+      <pubDate>Sun, 01 Nov 2026 15:38:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/01/kupilas-na-deshevuyu-rybu"><img alt="" src="https://content.onliner.by/news/thumbnail/9cd056e7dbf7c5189f6250b0aa6c2684.jpg" /></a></p><p><p>Минчанка решила заказать в интернете морепродукты и в итоге осталась без денег и деликатесов. Подробности <a href="https://t.me/police_minsk/41096" target="_blank">рассказали</a> в столичной милиции.<br /></p>
+</p><p><a href="https://money.onliner.by/2026/11/01/kupilas-na-deshevuyu-rybu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Китайская CXMT готовится к массовому выпуску памяти HBM3E с высокой пропускной способностью</title>
+      <link>https://4pda.to/2026/11/01/462722/kitajskaya_cxmt_gotovitsya_k_massovomu_vypusku_pamyati_hbm3e_s_vysokoj_propusknoj_sposobnostyu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/01/462722/kitajskaya_cxmt_gotovitsya_k_massovomu_vypusku_pamyati_hbm3e_s_vysokoj_propusknoj_sposobnostyu/</guid>
+      <pubDate>Sun, 01 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Китайский производитель памяти CXMT готовится начать массовый выпуск HBM3E-памяти для мощных ускорителей искусственного интеллекта. По данным Reuters, первые небольшие партии могут появиться в ближайшие [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске скорая помощь столкнулась с трамваем. Пострадали три человека</title>
+      <link>https://auto.onliner.by/go/1272993</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/01/skoraya-pomoshh-stolknulas-2</guid>
+      <pubDate>Sun, 01 Nov 2026 14:21:48 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/01/skoraya-pomoshh-stolknulas-2"><img alt="" src="https://content.onliner.by/news/thumbnail/c24d1912f2226e493f4fe6cfb23f86be.jpg" /></a></p><p><p>Серьезная авария произошла сегодня днем в Минске. На пересечении проспекта Рокоссовского и улицы Плеханова столкнулись автомобиль скорой медицинской помощи и трамвай, <a href="https://t.me/c/1952773701/35873" target="_blank">рассказали</a> в столичной ГАИ.<br /></p>
+</p><p><a href="https://auto.onliner.by/2026/11/01/skoraya-pomoshh-stolknulas-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>NASA отправит имена всех желающих на спутник Сатурна Титан</title>
+      <link>https://4pda.to/2026/11/01/462799/nasa_otpravit_imena_vsekh_zhelayuschikh_na_sputnik_saturna_titan/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/01/462799/nasa_otpravit_imena_vsekh_zhelayuschikh_na_sputnik_saturna_titan/</guid>
+      <pubDate>Sun, 01 Nov 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[NASA предложило всем желающим принять участие в миссии Dragonfly, которая отправится к крупнейшему спутнику Сатурна — Титану. Имена участников запишут на микрочип, установят на борту аппарата, и каждый [...]]]></description>
+    </item>
+    <item>
+      <title>«Кромешный кошмар». Кто-то оставил кота в пограничной зоне между Польшей и Беларусью</title>
+      <link>https://people.onliner.by/go/1342801</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/01/kto-to-ostavil-kota</guid>
+      <pubDate>Sun, 01 Nov 2026 13:07:39 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/01/kto-to-ostavil-kota"><img alt="" src="https://content.onliner.by/news/thumbnail/241773e0e8c76016871d1d7166dbeb91.jpg" /></a></p><p>Настоящая драма разыгралась накануне на пункте пропуска «Варшавский мост» и взбудоражила белорусский Threads. Один из пользователей <a href="https://www.threads.com/share/D8ccFA91K/" target="_blank">поделился</a>: неизвестный бросил прямо на границе кота в переноске с запиской: «Помогите». Судя по фотографиям, животное было сильно напугано.
+</p><p><a href="https://people.onliner.by/2026/11/01/kto-to-ostavil-kota">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Независимые тесты подтвердили повышенную безопасность DeepSeek. Но есть нюанс</title>
+      <link>https://4pda.to/2026/11/01/462723/nezavisimye_testy_podtverdili_povyshennuyu_bezopasnost_deepseek_no_est_nyuans/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/01/462723/nezavisimye_testy_podtverdili_povyshennuyu_bezopasnost_deepseek_no_est_nyuans/</guid>
+      <pubDate>Sun, 01 Nov 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Независимое исследование пекинской команды по безопасности Fangcun AI показало, что обновлённая модель DeepSeek V4.1 Flash-1017 лучше справляется с рядом проверок, чем предыдущие версии, но всё ещё допускает [...]]]></description>
     </item>
     <item>
       <title>В Минской области нетрезвого бесправника пришлось останавливать стрельбой по колесам авто (видео)</title>
@@ -35,7 +195,7 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>На трассах в Беларуси устанавливают новый вид ограждений. Они должны снижать последствия ДТП</title>
+      <title>На белорусских трассах начали устанавливать отбойники нового типа</title>
       <link>https://auto.onliner.by/go/1272946</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/01/ustanavlivayut-novyj-vid-ograzhdenij</guid>
       <pubDate>Sun, 01 Nov 2026 11:06:41 +0000</pubDate>
@@ -108,7 +268,7 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>«Надеялась отыграться и все вернуть». Сотрудница ломбарда спустила деньги компании на ставках</title>
+      <title>Сотрудница спустила деньги компании в онлайн-казино. Теперь ее ждет суд</title>
       <link>https://money.onliner.by/go/353039</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/11/01/nadeyalas-otygratsya-i-vse-vernut</guid>
       <pubDate>Sun, 01 Nov 2026 06:26:43 +0000</pubDate>
@@ -262,7 +422,7 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <link>https://people.onliner.by/go/1342629</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia</guid>
       <pubDate>Sat, 31 Oct 2026 13:00:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia"><img alt="" src="https://content.onliner.by/news/thumbnail/ea5a28adf291002c968d1c1722441db0.jpg" /></a></p><p><p>Соединенные Штаты Америки сняли ограничения на взаимодействие корпорации Boeing с белорусской национальной авиакомпанией «Белавиа». Об этом сообщил <a href="https://belta.by/society/view/belavia-poluchila-vozmozhnost-naprjamuju-pokupat-lajnery-i-komponenty-boeing-cherginets-808705-2026/" target="_blank">БЕЛТА</a> генеральный директор авиаперевозчика Игорь Чергинец.<br /></p>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia"><img alt="" src="https://content.onliner.by/news/thumbnail/e5c3d03a9adb186fc64f747d9429b2cc.jpg" /></a></p><p><p>Соединенные Штаты Америки сняли ограничения на взаимодействие корпорации Boeing с белорусской национальной авиакомпанией «Белавиа». Об этом сообщил <a href="https://belta.by/society/view/belavia-poluchila-vozmozhnost-naprjamuju-pokupat-lajnery-i-komponenty-boeing-cherginets-808705-2026/" target="_blank">БЕЛТА</a> генеральный директор авиаперевозчика Игорь Чергинец.<br /></p>
 </p><p><a href="https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia">Читать далее…</a></p>]]></description>
       <category>Люди</category>
     </item>
@@ -284,7 +444,7 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <category>News</category>
     </item>
     <item>
-      <title>Эта площадка простояла без движения пять лет. А теперь здесь открылся строительный гипермаркет</title>
+      <title>В Минске открылся еще один «Материк». Где его искать?</title>
       <link>https://realt.onliner.by/go/1140200</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/10/31/otkrylsya-stroitelnyj-gipermarket</guid>
       <pubDate>Sat, 31 Oct 2026 11:21:29 +0000</pubDate>
@@ -298,20 +458,6 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <guid isPermaLink="false">https://4pda.to/2026/10/31/462832/vo_chto_poigrat_v_noyabre_gta_vi_i_eschyo_9_relizov_mesyatsa/</guid>
       <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
       <description><![CDATA[Игровой ноябрь 2026-го войдёт в историю — мы наконец-то дождёмся Grand Theft Auto VI. Есть и плохие новости: конкуренты разбежались кто куда, и сойтись в неравной схватке с Rockstar вызвались только авторы [...]]]></description>
-    </item>
-    <item>
-      <title>RugOne представила в России защищённые смартфоны со сменной АКБ и экшен-камерой [ФОТО]</title>
-      <link>https://4pda.to/2026/10/31/462775/rugone_predstavila_v_rossii_zaschischyonnye_smartfony_so_smennoj_akb_i_ekshen_kameroj_foto/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462775/rugone_predstavila_v_rossii_zaschischyonnye_smartfony_so_smennoj_akb_i_ekshen_kameroj_foto/</guid>
-      <pubDate>Sat, 31 Oct 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Компания RugOne выпустила на российском рынке&nbsp;две новые модели защищённых смартфонов. Xever 8 поддерживает замену аккумулятора без выключения гаджета, а Xsnap 7 Pro комплектуется съёмной магнитной [...]]]></description>
-    </item>
-    <item>
-      <title>Samsung улучшила свой фирменный 8-нм техпроцесс</title>
-      <link>https://4pda.to/2026/10/31/462669/samsung_uluchshila_svoj_firmennyj_8_nm_tekhprotsess/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462669/samsung_uluchshila_svoj_firmennyj_8_nm_tekhprotsess/</guid>
-      <pubDate>Sat, 31 Oct 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Samsung Foundry&nbsp;расширила возможности своего 8-нм техпроцесса, добавив новое поколение под названием 8LPU+. Его использование позволит улучшить характеристики различных схем&nbsp;автомобилей, промышленных [...]]]></description>
     </item>
     <item>
       <title>Через Беларусь в Украину. Как проходила эвакуация жителей Алешек (обновлено)</title>
@@ -332,97 +478,12 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Платить, слушать музыку и считать калории: что умеют HUAWEI WATCH 6 в России</title>
-      <link>https://4pda.to/2026/10/31/462819/platit_slushat_muzyku_i_schitat_kalorii_chto_umeyut_huawei_watch_6_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462819/platit_slushat_muzyku_i_schitat_kalorii_chto_umeyut_huawei_watch_6_v_rossii/</guid>
-      <pubDate>Sat, 31 Oct 2026 09:30:00 +0000</pubDate>
-      <description><![CDATA[С тех пор как на часы HUAWEI разрешили устанавливать приложения, они всё больше превращаются в альтернативу смартфону. Теперь с запястья можно выполнять около десятка дел, ради которых раньше приходилось [...]]]></description>
-    </item>
-    <item>
-      <title>В Minecraft воссоздали всю Швейцарию, но пока в раннем доступе</title>
-      <link>https://4pda.to/2026/10/31/462770/v_minecraft_vossozdali_vsyu_shvejtsariyu_no_poka_v_rannem_dostupe/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462770/v_minecraft_vossozdali_vsyu_shvejtsariyu_no_poka_v_rannem_dostupe/</guid>
-      <pubDate>Sat, 31 Oct 2026 09:25:00 +0000</pubDate>
-      <description><![CDATA[Игроки Minecraft давно строят в кубическом мире настоящие города и знаменитые достопримечательности. Но одному энтузиасту этого оказалось мало: он решил перенести в игру целую страну. Причём все горы, [...]]]></description>
-    </item>
-    <item>
-      <title>MSI анонсировала трёхрежимный изогнутый монитор с частотой обновления до 500 Гц</title>
-      <link>https://4pda.to/2026/10/31/462833/msi_anonsirovala_tryokhrezhimnyj_izognutyj_monitor_s_chastotoj_obnovleniya_do_500_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462833/msi_anonsirovala_tryokhrezhimnyj_izognutyj_monitor_s_chastotoj_obnovleniya_do_500_gts/</guid>
-      <pubDate>Sat, 31 Oct 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[На сайте MSI появился новый монитор MAG 325CQPD27, который позиционируется как универсальная модель для игр и работы. Он может переключаться сразу между тремя пресетами с разным разрешением и частотой [...]]]></description>
-    </item>
-    <item>
       <title>«Перерасчет за отопление». Мошенники придумали новую схему — на этот раз взялись за жировки</title>
       <link>https://realt.onliner.by/go/1140194</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/10/31/pereraschet-za-otoplenie</guid>
       <pubDate>Sat, 31 Oct 2026 08:21:53 +0000</pubDate>
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/31/pereraschet-za-otoplenie"><img alt="" src="https://content.onliner.by/news/thumbnail/71c20350b25728432b3f4838a03b6b0b.jpg" /></a></p><p><p>Мошенники не оставляют попыток придумать новые способы отнять у белорусов деньги. Теперь они пытаются обмануть, используя тему коммунальных платежей. Людям начали приходить сообщения о том, что якобы на государственном уровне принято решение сделать перерасчет платы за коммунальные услуги за весь прошлый отопительный сезон. К тексту прилагается ссылка, перейдя по которой человек попадает на сайт, внешне неотличимый от официального ресурса ЖКХ, где у него настойчиво просят ввести паспортные данные, сообщает <a href="https://t.me/uvd_vitebsk/52064" target="_blank">телеграм-канал</a> «Милиция Витебщины».<br /></p>
 </p><p><a href="https://realt.onliner.by/2026/10/31/pereraschet-za-otoplenie">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Acer Predator X34 F1 получил Penta Tandem OLED-экран с частотой 360 Гц и яркостью до 1300 нит</title>
-      <link>https://4pda.to/2026/10/31/462776/acer_predator_x34_f1_poluchil_penta_tandem_oled_ekran_s_chastotoj_360_gts_i_yarkostyu_do_1300_nit/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462776/acer_predator_x34_f1_poluchil_penta_tandem_oled_ekran_s_chastotoj_360_gts_i_yarkostyu_do_1300_nit/</guid>
-      <pubDate>Sat, 31 Oct 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[На полках российских магазинов появился игровой монитор Predator X34 F1. Новинка получила изогнутый 34-дюймовый OLED-экран с разрешением 3440x1440 пикселей и частотой обновления 360 Гц.
-Монитор имеет [...]]]></description>
-    </item>
-    <item>
-      <title>Sony представила 6-дюймовый 3D-дисплей ELF-MN1, для которого не нужны специальные очки [ФОТО]</title>
-      <link>https://4pda.to/2026/10/31/462705/sony_predstavila_6_dyujmovyj_3d_displej_elf_mn1_dlya_kotorogo_ne_nuzhny_spetsialnye_ochki_foto/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462705/sony_predstavila_6_dyujmovyj_3d_displej_elf_mn1_dlya_kotorogo_ne_nuzhny_spetsialnye_ochki_foto/</guid>
-      <pubDate>Sat, 31 Oct 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Sony представила ELF-MN1 — компактный 6-дюймовый дисплей, показывающий 3D-контент без использования специальных очков.&nbsp;
-ЖК-панель с разрешением 3840x2160 пикселей поддерживает частоту обновления [...]]]></description>
-    </item>
-    <item>
-      <title>«Очень компактные, удобные». В Минске нашли участки для строительства 200 коттеджей</title>
-      <link>https://realt.onliner.by/go/1140188</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/31/ochen-kompaktnye-udobnye</guid>
-      <pubDate>Sat, 31 Oct 2026 06:47:32 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/31/ochen-kompaktnye-udobnye"><img alt="" src="https://content.onliner.by/news/thumbnail/c7aa20b044f9eb63a4cc9c9444307663.jpg" /></a></p><p><p>В Минске хотят расширить строительство зданий из легких стальных тонкостенных конструкций (ЛСТК). Повод вспомнить про технологию появился на открытии нового корпуса инфекционной больницы — его собрали именно из стального каркаса, что заметно урезало и бюджет, и сроки. Подробнее о планах рассказал председатель Мингорисполкома Владимир Кухарев, пишет агентство <a href="https://minsknews.by/v-minske-postroyat-200-domov-s-primeneniem-legkih-stalnyh-tonkostennyh-konstrukczij/" target="_blank">«Минск-Новости»</a>.<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/10/31/ochen-kompaktnye-udobnye">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Главное за неделю: iPhone Duo трескаются, прекращает работу браузер Arc, показан MacBook с сенсорным дисплеем</title>
-      <link>https://4pda.to/2026/10/31/462818/glavnoe_za_nedelyu_iphone_duo_treskayutsya_prekraschaet_rabotu_brauzer_arc_pokazan_macbook_s_sensornym_displeem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462818/glavnoe_za_nedelyu_iphone_duo_treskayutsya_prekraschaet_rabotu_brauzer_arc_pokazan_macbook_s_sensornym_displeem/</guid>
-      <pubDate>Sat, 31 Oct 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[По понятным причинам основной поставщик новостей на этой неделе — компания Apple. Она представила первый в истории ноутбук бренда с сенсорным дисплеем, но при этом появились сведения, что не все складные [...]]]></description>
-    </item>
-    <item>
-      <title>110 роботов AgiBot установили новый рекорд Гиннесса [ВИДЕО]</title>
-      <link>https://4pda.to/2026/10/31/462673/110_robotov_agibot_ustanovili_novyj_rekord_ginnessa_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462673/110_robotov_agibot_ustanovili_novyj_rekord_ginnessa_video/</guid>
-      <pubDate>Sat, 31 Oct 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[Власти Китая&nbsp;ускоряют внедрение гуманоидных роботов с&nbsp;искусственным интеллектом во многие сферы жизни.&nbsp;В китайском городе Цзинань 110 человекоподобных роботов установили новый рекорд Гиннесса [...]]]></description>
-    </item>
-    <item>
-      <title>Не уступил дорогу при повороте. На проспекте Независимости столкнулись Audi и Skoda</title>
-      <link>https://auto.onliner.by/go/1272912</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/31/ne-ustupil-dorogu-pri-povorote</guid>
-      <pubDate>Sat, 31 Oct 2026 06:07:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/31/ne-ustupil-dorogu-pri-povorote"><img alt="" src="https://content.onliner.by/news/thumbnail/810dbd49a8c85a099752bf7ca12a737a.jpg" /></a></p><p><p>Днем на пересечении проспекта Независимости и улицы Волгоградской случилось ДТП из-за банальной невнимательности на дороге. 20-летний водитель автомобиля Audi ехал по улице Волгоградской и решил повернуть налево. По <a href="https://t.me/gaiminsk/57887" target="_blank">информации</a> столичной ГАИ, молодой человек не предоставил преимущество встречной машине Skoda и буквально протаранил ее.<br /></p>
-</p><p><a href="https://auto.onliner.by/2026/10/31/ne-ustupil-dorogu-pri-povorote">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Не надо меня провоцировать!» Известный гонщик прокатил Краснова на раллийной Subaru WRX STI (видео)</title>
-      <link>https://auto.onliner.by/go/1271958</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/10/31/otkuda-prava-shymakouski</guid>
-      <pubDate>Sat, 31 Oct 2026 05:00:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/10/31/otkuda-prava-shymakouski"><img alt="" src="https://content.onliner.by/news/thumbnail/2ab373cbb15550e0b87f000e3d507308.jpg" /></a></p><p>Он гонщик. Раллийный пилот, сын легендарного спортсмена, продолжатель династии. Он тренер, воспитывающий чемпионов. Он «фантик», ездящий на очень непростом автомобиле, который с годами лишь прибавляет в цене. Наконец, он бизнесмен в очень неожиданной сфере, учитывая все сказанное выше. Знакомьтесь — Анатолий Шимаковский. Сегодня он в гостях у Onlíner и Юрия Краснова, преподавателя и инструктора по вождению, и это новый выпуск нашего совместного с <a href="https://pm.by/ru/pages/bonus-rule-n1w51786363773/&amp;t_group=pr&amp;utm_source=pr_onliner_by&amp;utm_campaign=ba_newbonus_1510&amp;utm_term=general_registr_freebetsuperfinal/" target="_blank">Betera</a> проекта, где спортсмены, блогеры, селебрити рассказывают об автомобильных предпочтениях и своем опыте за рулем, а мы — оцениваем их навыки.</p><p><a href="https://auto.onliner.by/2026/10/31/otkuda-prava-shymakouski">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Мой балкон». Не могла заходить на балкон семь лет — теперь наслаждается видами каждый день</title>
-      <link>https://realt.onliner.by/go/1139931</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/31/moj-balkon-5</guid>
-      <pubDate>Sat, 31 Oct 2026 05:00:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/31/moj-balkon-5"><img alt="" src="https://content.onliner.by/news/thumbnail/994438bfbc6866e02eda6795de99433b.jpg" /></a></p><p>Заканчиваем публиковать истории в рамках конкурса «Мой балкон». Вместе с партнером — торговым центром <a href="https://lenin-grad.by/sales" target="_blank">«Ленинград»</a> — мы месяц отбирали самые интересные рассказы о том, как читатели превратили обычные застекленные лоджии и балконы в уютные пространства для жизни и отдыха. Сегодня минчанка Валентина расскажет, как буквально за пару дней и 2000 рублей избавилась от накопившегося за семь лет хлама и превратила обычный балкон в настоящий лаунж.</p><p><a href="https://realt.onliner.by/2026/10/31/moj-balkon-5">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
   </channel>
