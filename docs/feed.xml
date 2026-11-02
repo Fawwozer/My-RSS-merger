@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 01 Nov 2026 21:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:41:20 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>This Tool Lets You Install Linux Without a USB Key, Straight From Windows</title>
+      <link>https://feed.itsfoss.com/link/24361/17513222/libertix</link>
+      <guid isPermaLink="false">6ae7f6db3a20a700010dff64</guid>
+      <pubDate>Mon, 02 Nov 2026 03:38:15 +0000</pubDate>
+      <description><![CDATA[Libertix]]></description>
+      <category>App of the Week</category>
+    </item>
     <item>
       <title>System76 выпустила 11-литровый Thelio Prime на Linux с поддержкой Ryzen 9000 и RTX 5070</title>
       <link>https://4pda.to/2026/11/01/462752/system76_vypustila_11_litrovyj_thelio_prime_na_linux_s_podderzhkoj_ryzen_9000_i_rtx_5070/</link>
@@ -113,6 +121,46 @@
 <h2 id="which-one-should-you-use">Which one should you use?</h2><p>If you just want to open a blocked website or feel safer on hotel Wi-Fi, a browser VPN is enough. </p><p>If you want the whole system protected, Proton VPN's free plan is the one I'd start with, and Windscribe is a good backup when you need to pick a specific country. </p><p>If you're dealing with real censorship, keep RiseupVPN or Lantern installed as a fallback. Although I would suggest going for a more robust, paid VPN like Mullvad.</p><p>And if all you care about is encrypting traffic on public Wi-Fi, there's also <a href="https://one.one.one.one/">Cloudflare WARP</a>. It's free with no data cap, needs no account, and has an official Linux client (<code>warp-cli</code>). But you can't choose a location, so it won't help with geo-restrictions at all.</p><p>I hope this list helps you select a free VPN service. If you have questions or suggestions, please leave a comment.</p>
 <img height="1" src="https://feed.itsfoss.com/link/24361/17512838.gif" width="1" />]]></description>
       <category>List 📋</category>
+    </item>
+    <item>
+      <title>Десять сложных головоломок на внимательность, над которыми придется хорошо подумать. Сможете решить?</title>
+      <link>https://tech.onliner.by/go/570324</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/02/golovolomki-dudolf</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/02/golovolomki-dudolf"><img alt="" src="https://content.onliner.by/news/thumbnail/7e739e075cb7f76f34d4df1f59c9b33b.jpg" /></a></p><p>Венгерский художник Гергели Дудас, больше известный как Dudolf, уже давно прославился в интернете благодаря своим визуальным головоломкам. Его иллюстрации — это настоящее испытание для внимательности: среди десятков похожих персонажей нужно найти крошечный хитро замаскированный элемент. Обычно такие картинки приурочены к праздникам — будь то Новый год или Пасха — и требуют от зрителя не только зоркости, но и терпения. Несколько лет назад картинки Дудаса активно вирусились в соцсетях. Мы решили вспомнить лучшие из них и добавили свежие. Так что разминаем глаза и погружаемся в мир визуальных загадок.
+</p><p><a href="https://tech.onliner.by/2026/11/02/golovolomki-dudolf">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Адзін з самых страшнаватых звычаяў беларусаў: памерлых клікалі дадому на вячэру</title>
+      <link>https://people.onliner.by/go/1342786</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/02/dzyady-belarus</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/02/dzyady-belarus"><img alt="" src="https://content.onliner.by/news/thumbnail/936ad024144f3f857f52d87cc415885a.jpg" /></a></p><p>У гэты вечар жывыя чакалі мёртвых. У хаце адчынялі дзверы, запальвалі свечку, накрывалі стол і пакідалі для памерлых месца. Да іх звярталіся з запрашэннем прыйсці на вячэру. Лічылася, што продкі сапраўды вяртаюцца ў дамы, дзе калісьці жылі: для іх загадзя тапілі лазню, пакідалі ваду і венік, а пасля застолля не прыбіралі са стала да раніцы. Гэта не сюжэт фільма жахаў, а старадаўні беларускі звычай. Распавядаем, што стаіць за гэтай традыцыяй, чаму яна атрымала назву Дзяды і якія абрады захаваліся да нашых дзён?
+</p><p><a href="https://people.onliner.by/2026/11/02/dzyady-belarus">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Умный дверной звонок Xiaomi с двумя ночными камерами оценён в $75</title>
+      <link>https://4pda.to/2026/11/02/462836/umnyj_dvernoj_zvonok_xiaomi_s_dvumya_nochnymi_kamerami_otsenyon_v_75/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462836/umnyj_dvernoj_zvonok_xiaomi_s_dvumya_nochnymi_kamerami_otsenyon_v_75/</guid>
+      <pubDate>Mon, 02 Nov 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi выпустила обновлённую версию умного дверного звонка Smart Doorbell 4 Pro. Он следит сразу за двумя зонами у входа, умеет распознавать людей, животных и посылки, а заряжать его придётся всего пару [...]]]></description>
+    </item>
+    <item>
+      <title>OnePlus Turbo 6Vs получил батарею на 9000 мАч и 144-герцевый экран</title>
+      <link>https://4pda.to/2026/11/02/462834/oneplus_turbo_6vs_poluchil_batareyu_na_9000_mach_i_144_gertsevyj_ekran/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462834/oneplus_turbo_6vs_poluchil_batareyu_na_9000_mach_i_144_gertsevyj_ekran/</guid>
+      <pubDate>Mon, 02 Nov 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[В каталоге смартфонов OnePlus без громких презентаций появилась новая модель Turbo 6Vs. Гаджет оснастили ёмким аккумулятором, быстрым AMOLED-экраном и корпусом с высоким классом защиты от пыли и воды.
+OnePlus [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi представила новую серию QLED-телевизоров с объёмным звуком и HDR</title>
+      <link>https://4pda.to/2026/11/02/462835/xiaomi_predstavila_novuyu_seriyu_qled_televizorov_s_obyomnym_zvukom_i_hdr/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462835/xiaomi_predstavila_novuyu_seriyu_qled_televizorov_s_obyomnym_zvukom_i_hdr/</guid>
+      <pubDate>Mon, 02 Nov 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[На сайте Xiaomi появилась новая линейка телевизоров TV A Pro e. Она включает девять устройств с диагональю экрана от 32 до 85 дюймов и разными аппаратными характеристиками — от крупных 4K-моделей с игровым [...]]]></description>
     </item>
     <item>
       <title>Hisense UR9S: домашний центр развлечений с RGB MiniLED и звуком 4.1.2</title>
@@ -411,13 +459,6 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <description><![CDATA[Пришло время подвести итоги октября. За этот месяц вышло несколько заслуживающих внимания смартфонов. Honor, iQOO, OnePlus, RedMagic и REDMI выпустили модели для любителей мобильных игр, а HUAWEI показала [...]]]></description>
     </item>
     <item>
-      <title>Новая технология сжатия вдвое ускорила запуск видео в «VK Видео»</title>
-      <link>https://4pda.to/2026/10/31/462800/novaya_tekhnologiya_szhatiya_vdvoe_uskorila_zapusk_video_v_vk_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462800/novaya_tekhnologiya_szhatiya_vdvoe_uskorila_zapusk_video_v_vk_video/</guid>
-      <pubDate>Sat, 31 Oct 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Пользователи «VK Видео» теперь могут быстрее начинать просмотр роликов. Платформа изменила систему подготовки загружаемых файлов, благодаря чему видео стали занимать меньше места, а время ожидания перед [...]]]></description>
-    </item>
-    <item>
       <title>Теперь официально: США разрешили Boeing работать с «Белавиа»</title>
       <link>https://people.onliner.by/go/1342629</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/31/polnocennoe-sotrudnichestvo-s-belavia</guid>
@@ -453,13 +494,6 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Во что поиграть в ноябре? GTA VI и ещё 9 релизов месяца</title>
-      <link>https://4pda.to/2026/10/31/462832/vo_chto_poigrat_v_noyabre_gta_vi_i_eschyo_9_relizov_mesyatsa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/10/31/462832/vo_chto_poigrat_v_noyabre_gta_vi_i_eschyo_9_relizov_mesyatsa/</guid>
-      <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
-      <description><![CDATA[Игровой ноябрь 2026-го войдёт в историю — мы наконец-то дождёмся Grand Theft Auto VI. Есть и плохие новости: конкуренты разбежались кто куда, и сойтись в неравной схватке с Rockstar вызвались только авторы [...]]]></description>
-    </item>
-    <item>
       <title>Через Беларусь в Украину. Как проходила эвакуация жителей Алешек (обновлено)</title>
       <link>https://people.onliner.by/go/1342535</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/10/31/oleshki-gomel-2</guid>
@@ -467,24 +501,6 @@ Smart Go обеспечивает сертифицированную [...]]]></d
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/10/31/oleshki-gomel-2"><img alt="" src="https://content.onliner.by/news/thumbnail/e56349f53be795f3a50bd79a65c9b2c2.jpg" /></a></p><p>В аэропорту Гомеля приземлились четыре самолета с жителями города Алешки Херсонской области, которых эвакуировали из прифронтовой зоны. После долгой дороги людям дали возможность передохнуть, накормили и оказали необходимую медицинскую помощь. Затем их посадили в автобусы и повезли к пункту пропуска «Новая Гута», откуда они смогли попасть в Украину.
 </p><p><a href="https://people.onliner.by/2026/10/31/oleshki-gomel-2">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>«Белпочта» перестает отправлять посылки с товарами в Европу. Что случилось?</title>
-      <link>https://money.onliner.by/go/353026</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/10/31/perestaet-otpravlyat-posylki</guid>
-      <pubDate>Sat, 31 Oct 2026 09:30:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/10/31/perestaet-otpravlyat-posylki"><img alt="" src="https://content.onliner.by/news/thumbnail/d2fa44bbf127fd5563ecd87e52e83565.jpg" /></a></p><p><p>С 1 ноября «Белпочта»<a href="https://blog.belpost.by/Novosti/VAZNO-Izmeneniia-v-prieme" target="_blank"> приостанавливает</a> прием почтовых отправлений с товарами, направляющихся в страны Евросоюза. Причина — новые таможенные правила ЕС для сферы интернет-торговли, к которым белорусская почтовая система пока технически не готова.<br /></p>
-</p><p><a href="https://money.onliner.by/2026/10/31/perestaet-otpravlyat-posylki">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Перерасчет за отопление». Мошенники придумали новую схему — на этот раз взялись за жировки</title>
-      <link>https://realt.onliner.by/go/1140194</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/10/31/pereraschet-za-otoplenie</guid>
-      <pubDate>Sat, 31 Oct 2026 08:21:53 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/10/31/pereraschet-za-otoplenie"><img alt="" src="https://content.onliner.by/news/thumbnail/71c20350b25728432b3f4838a03b6b0b.jpg" /></a></p><p><p>Мошенники не оставляют попыток придумать новые способы отнять у белорусов деньги. Теперь они пытаются обмануть, используя тему коммунальных платежей. Людям начали приходить сообщения о том, что якобы на государственном уровне принято решение сделать перерасчет платы за коммунальные услуги за весь прошлый отопительный сезон. К тексту прилагается ссылка, перейдя по которой человек попадает на сайт, внешне неотличимый от официального ресурса ЖКХ, где у него настойчиво просят ввести паспортные данные, сообщает <a href="https://t.me/uvd_vitebsk/52064" target="_blank">телеграм-канал</a> «Милиция Витебщины».<br /></p>
-</p><p><a href="https://realt.onliner.by/2026/10/31/pereraschet-za-otoplenie">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
   </channel>
 </rss>
