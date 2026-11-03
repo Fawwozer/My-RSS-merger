@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 02 Nov 2026 14:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:35:25 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>I Came for This New Linux Distro’s Aesthetic Looks and Stayed for its Window Tiling</title>
+      <link>https://feed.itsfoss.com/link/24361/17513978/pond-early-preview</link>
+      <guid isPermaLink="false">6ae816c93a20a700010e0046</guid>
+      <pubDate>Mon, 02 Nov 2026 17:52:00 +0000</pubDate>
+      <description><![CDATA[pond arch-based linux distro monitor-themed banner]]></description>
+      <category>First Look</category>
+    </item>
     <item>
       <title>Killed by Ubuntu, Linux Mint is Bringing This Classic Feature Back</title>
       <link>https://feed.itsfoss.com/link/24361/17513761/linux-mint-new-sleep-modes</link>
@@ -124,6 +132,83 @@
       <category>List 📋</category>
     </item>
     <item>
+      <title>Всё станет на 22% дороже? Что изменит новый закон об НДС для маркетплейсов</title>
+      <link>https://4pda.to/2026/11/02/462877/vsyo_stanet_na_22_dorozhe_chto_izmenit_novyj_zakon_ob_nds_dlya_marketplejsov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462877/vsyo_stanet_na_22_dorozhe_chto_izmenit_novyj_zakon_ob_nds_dlya_marketplejsov/</guid>
+      <pubDate>Mon, 02 Nov 2026 20:00:00 +0000</pubDate>
+      <description><![CDATA[Госдума приняла в первом чтении законопроект о введении НДС на товары, которые россияне заказывают из-за рубежа через маркетплейсы. Новые правила призваны уравнять иностранных продавцов с отечественными, [...]]]></description>
+    </item>
+    <item>
+      <title>Опрос: нужен ли сенсорный экран в ноутбуке?</title>
+      <link>https://4pda.to/2026/11/02/462860/opros_nuzhen_li_sensornyj_ekran_v_noutbuke/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462860/opros_nuzhen_li_sensornyj_ekran_v_noutbuke/</guid>
+      <pubDate>Mon, 02 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Ноутбуки с сенсорными экранами существуют уже более 30 лет, а с выходом Windows 8 в 2012-м производители начали массово выпускать такие модели. Впрочем, революции не случилось: тачпады и мыши всё ещё остаются [...]]]></description>
+    </item>
+    <item>
+      <title>Обзор ILIFE A30 Pro: дёшево, эффективно, полезно</title>
+      <link>https://4pda.to/2026/11/02/462868/obzor_ilife_a30_pro_dyoshevo_effektivno_polezno/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462868/obzor_ilife_a30_pro_dyoshevo_effektivno_polezno/</guid>
+      <pubDate>Mon, 02 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[На рынке роботов-пылесосов бренд ILIFE прославился бюджетными, но неплохими моделями. Его продукцию часто берут те, кто хочет автоматизировать уборку, но пока не готов выкладывать за это две месячные зарплаты. [...]]]></description>
+    </item>
+    <item>
+      <title>Инсайды #3968: Sony MDR-3R Walkman, компактные смартфоны OnePlus и складной планшет Samsung</title>
+      <link>https://4pda.to/2026/11/02/462859/insajdy_3968_sony_mdr_3r_walkman_kompaktnye_smartfony_oneplus_i_skladnoj_planshet_samsung/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462859/insajdy_3968_sony_mdr_3r_walkman_kompaktnye_smartfony_oneplus_i_skladnoj_planshet_samsung/</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Samsung готовит к выпуску 17-дюймовый складной планшет; Sony возвращается к эстетике первого Walkman; OnePlus может поставить выпуск компактных смартфонов на паузу.
+Sony возвращается [...]]]></description>
+    </item>
+    <item>
+      <title>Рейтинг самых мощных Android-планшетов возглавила уникальная модель</title>
+      <link>https://4pda.to/2026/11/02/462875/rejting_samykh_moschnykh_android_planshetov_vozglavila_unikalnaya_model/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462875/rejting_samykh_moschnykh_android_planshetov_vozglavila_unikalnaya_model/</guid>
+      <pubDate>Mon, 02 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Команда AnTuTu представила октябрьский рейтинг самых производительных планшетов под управлением&nbsp;Android. Удивительно, но лидером стал аппарат с чипом не от Qualcomm или MediaTek.
+Первое место [...]]]></description>
+    </item>
+    <item>
+      <title>Облачные хранилища урезают бесплатные лимиты. Что делать с файлами?</title>
+      <link>https://4pda.to/2026/11/02/462876/oblachnye_khranilischa_urezayut_besplatnye_limity_chto_delat_s_fajlami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462876/oblachnye_khranilischa_urezayut_besplatnye_limity_chto_delat_s_fajlami/</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+      <description><![CDATA[В конце октября пользователи «Облака Mail» стали получать предупреждения об отзыве бесплатного терабайтного пространства: тем, кто больше 10 лет назад получил целый 1 ТБ в подарок, оставят всего 8 ГБ.
+И [...]]]></description>
+    </item>
+    <item>
+      <title>Во Флориде бизнес-джет упал прямо на улицу с жилыми домами (видео)</title>
+      <link>https://people.onliner.by/go/1343038</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/02/vo-floride-biznes-dzhet-upal-pryamo-na-ulicu-s-zhilymi-domami</guid>
+      <pubDate>Mon, 02 Nov 2026 15:20:52 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/02/vo-floride-biznes-dzhet-upal-pryamo-na-ulicu-s-zhilymi-domami"><img alt="" src="https://content.onliner.by/news/thumbnail/37776b1544c46b3f411e422d0a7c2eb4.jpg" /></a></p><p>В штате Флорида 1 ноября разбился частный бизнес-джет Learjet 60. Воздушное судно упало на дорогу рядом с жилой застройкой и загорелось. Все девять человек, находившиеся на борту, погибли. Об этом сообщает Reuters.
+</p><p><a href="https://people.onliner.by/2026/11/02/vo-floride-biznes-dzhet-upal-pryamo-na-ulicu-s-zhilymi-domami">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Фирменная камера Xiaomi Leica Camera стала доступна на множестве смартфонов</title>
+      <link>https://4pda.to/2026/11/02/462861/firmennaya_kamera_xiaomi_leica_camera_stala_dostupna_na_mnozhestve_smartfonov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462861/firmennaya_kamera_xiaomi_leica_camera_stala_dostupna_na_mnozhestve_smartfonov/</guid>
+      <pubDate>Mon, 02 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Энтузиаст под ником TechHome100 портировал фирменное приложение&nbsp;Leica Camera App, разработанное для фотофлагмана Xiaomi 17 Ultra.&nbsp;Теперь опробовать его возможности могут владельцы не только
+смартфонов [...]]]></description>
+    </item>
+    <item>
+      <title>«Сильный хлопок и взрыв»: на трассе М6 загорелась фура</title>
+      <link>https://auto.onliner.by/go/1273176</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/02/zagorelas-fura</guid>
+      <pubDate>Mon, 02 Nov 2026 15:09:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/02/zagorelas-fura"><img alt="" src="https://content.onliner.by/news/thumbnail/df5a6a203179347a2faeed4968b1c419.jpg" /></a></p><p>Читатели сообщают о том, что на трассе М6, рядом с агрогородком Хатежино в сторону Минска, на проезжей части дороги загорелась фура.</p><p><a href="https://auto.onliner.by/2026/11/02/zagorelas-fura">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Смартфоны на MediaTek захватили рейтинг мощнейших Android-середняков</title>
+      <link>https://4pda.to/2026/11/02/462874/smartfony_na_mediatek_zakhvatili_rejting_moschnejshikh_android_serednyakov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/02/462874/smartfony_na_mediatek_zakhvatili_rejting_moschnejshikh_android_serednyakov/</guid>
+      <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Вместе с рейтингом флагманов авторы бенчмарка AnTuTu опубликовали список самых производительных Android-смартфонов среднего класса по итогам октября 2026 года. В отличие от топового сегмента, здесь безоговорочно [...]]]></description>
+    </item>
+    <item>
       <title>Минчанин нашел в своей бане мумию человека</title>
       <link>https://people.onliner.by/go/1343021</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/11/02/minchanin-nashel-v-svoej-bane-mumiyu-cheloveka</guid>
@@ -199,7 +284,7 @@
       <description><![CDATA[Разработчики бенчмарка AnTuTu опубликовали свежий рейтинг производительности Android-флагманов. В октябрьском списке произошла смена лидера, а 80% устройств в списке работают на новом&nbsp;поколении процессоров [...]]]></description>
     </item>
     <item>
-      <title>ДТП на Филимонова: грузовик врезался в столб. Образовался серьезный затор (видео)</title>
+      <title>ДТП на Филимонова: грузовик врезался в столб. Образовался серьезный затор (видео, обновлено)</title>
       <link>https://auto.onliner.by/go/1273155</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/02/dtp-na-filimonova</guid>
       <pubDate>Mon, 02 Nov 2026 13:23:51 +0000</pubDate>
@@ -445,15 +530,6 @@ Nagoshi [...]]]></description>
       <category>Авто</category>
     </item>
     <item>
-      <title>Могут ли вас заставить работать в выходные и праздники? Ответили в Минтруда</title>
-      <link>https://money.onliner.by/go/353100</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/02/mogut-li-vas-zastavit-rabotat-v-vyxodnye-i-prazdniki-otvetili-v-mintruda</guid>
-      <pubDate>Mon, 02 Nov 2026 09:35:13 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/02/mogut-li-vas-zastavit-rabotat-v-vyxodnye-i-prazdniki-otvetili-v-mintruda"><img alt="" src="https://content.onliner.by/news/thumbnail/abc90e1835a89409d515c26d9ae3a569.jpg" /></a></p><p>Можно ли привлечь к работе в выходной или праздничный день, как компенсируют, сколько раз в год могут вызвать работника в выходной и что делать, если перенесенный рабочий день выпал на отпуск?
-</p><p><a href="https://money.onliner.by/2026/11/02/mogut-li-vas-zastavit-rabotat-v-vyxodnye-i-prazdniki-otvetili-v-mintruda">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Опубликован свежий рейтинг популярности версий Android на мобильном рынке</title>
       <link>https://4pda.to/2026/11/02/462846/opublikovan_svezhij_rejting_populyarnosti_versij_android_na_mobilnom_rynke/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/02/462846/opublikovan_svezhij_rejting_populyarnosti_versij_android_na_mobilnom_rynke/</guid>
@@ -468,33 +544,6 @@ Nagoshi [...]]]></description>
       <pubDate>Mon, 02 Nov 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[Valve продолжает свою хорошую традицию публикации статистики пользовательского оборудования Steam. В сентябре обновилась самая популярная видеокарта — и это знакомая многим&nbsp;бюджетная модель.
 В [...]]]></description>
-    </item>
-    <item>
-      <title>Под Могилевом зацвело целое поле васильков. Да, в ноябре (обновлено)</title>
-      <link>https://people.onliner.by/go/1342961</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/02/pod-mogilevom-zacvelo-celoe-pole-vasilkov-da-v-noyabre</guid>
-      <pubDate>Mon, 02 Nov 2026 09:02:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/02/pod-mogilevom-zacvelo-celoe-pole-vasilkov-da-v-noyabre"><img alt="" src="https://content.onliner.by/news/thumbnail/6ede78607db261a8d46d9a98b15891d5.jpg" /></a></p><p>Во второй половине осени белорусы заметили необычный пейзаж: на фоне ярко-желтых деревьев расцвели насыщенно-синие васильки. Все из-за аномально теплой осени. Октябрь выдался одним из самых теплых за всю историю метеонаблюдений.
-</p><p><a href="https://people.onliner.by/2026/11/02/pod-mogilevom-zacvelo-celoe-pole-vasilkov-da-v-noyabre">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>23-летний бобруйчанин заложил чужие парашюты и занял денег, чтобы закрыть свои долги</title>
-      <link>https://money.onliner.by/go/353093</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/02/23-letnij-bobrujchanin-zalozhil-chuzhie-parashyuty-i-zanyal-dengi-chtoby-zakryt-svoi-dolgi</guid>
-      <pubDate>Mon, 02 Nov 2026 09:01:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/02/23-letnij-bobrujchanin-zalozhil-chuzhie-parashyuty-i-zanyal-dengi-chtoby-zakryt-svoi-dolgi"><img alt="" src="https://content.onliner.by/news/thumbnail/47efbcab47e096414098e23f0d18b0d0.jpg" /></a></p><p>23-летний житель Бобруйска, переехавший в Минск пару лет назад, увлекся авиаспортом. В аэроклубе он обзавелся знакомствами, а потом решил использовать их в собственных корыстных целях. Молодой человек брал деньги под предлогом выгодной сделки с электромобилем и заложил чужие парашюты, чтобы расплатиться по долгам.
-</p><p><a href="https://money.onliner.by/2026/11/02/23-letnij-bobrujchanin-zalozhil-chuzhie-parashyuty-i-zanyal-dengi-chtoby-zakryt-svoi-dolgi">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Строят в СТ дворцы и не платят налоги. Зачем понадобилось «пересчитывать» дачников?</title>
-      <link>https://realt.onliner.by/go/1140461</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/02/zachem-ponadobilos-pereschityvat-dachnikov</guid>
-      <pubDate>Mon, 02 Nov 2026 09:00:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/02/zachem-ponadobilos-pereschityvat-dachnikov"><img alt="" src="https://content.onliner.by/news/thumbnail/af6d8a337cfa00ede6bb04cc1abb3521.jpg" /></a></p><p>На прошлой неделе белорусов <a href="https://realt.onliner.by/2026/10/27/dachnikov-pereschitayut" target="_blank">удивили</a> новостью: всех дачников-гаражников «пересчитают», и не для галочки, а вполне себе четко и официально. Для чего понадобилось нововведение, оставалось только догадываться. Но большинство тут же смекнуло: чтобы прикрыть лазейку с незарегистрированной (а значит, «избегающей» налогов) недвижимостью. Издание <a href="https://mlyn.by/01112026/dachnikov-vozmut-na-uchet-zachem-sadovym-tovarishhestvam-ponadobyatsya-dannye-o-domah-i-vladelczah/" target="_blank">mlyn.by</a> решило разобраться в вопросе, который взволновал владельцев имущества.
-</p><p><a href="https://realt.onliner.by/2026/11/02/zachem-ponadobilos-pereschityvat-dachnikov">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>Xiaomi Smart Band 11 в металле и керамике представлен в России. Сколько стоит?</title>
@@ -525,69 +574,6 @@ Sony [...]]]></description>
       <pubDate>Mon, 02 Nov 2026 07:50:42 +0000</pubDate>
       <description><![CDATA[French Internet Tax]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>Apple объяснила отличия китайской и американской версий iPhone Duo</title>
-      <link>https://4pda.to/2026/11/02/462850/apple_obyasnila_otlichiya_kitajskoj_i_amerikanskoj_versij_iphone_duo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462850/apple_obyasnila_otlichiya_kitajskoj_i_amerikanskoj_versij_iphone_duo/</guid>
-      <pubDate>Mon, 02 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[С недавних пор по сети начали распространяться слухи об «урезанной» конфигурации iPhone Duo для китайского рынка. Далеко не все из них оказалась правдивы: ясность в этот вопрос внесли как профильные СМИ, [...]]]></description>
-    </item>
-    <item>
-      <title>Новая уязвимость Android позволяет атаковать смартфоны через SMS</title>
-      <link>https://4pda.to/2026/11/02/462842/novaya_uyazvimost_android_pozvolyaet_atakovat_smartfony_cherez_sms/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462842/novaya_uyazvimost_android_pozvolyaet_atakovat_smartfony_cherez_sms/</guid>
-      <pubDate>Mon, 02 Nov 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[Исследователь безопасности Марк
-Блашчик обнаружил в некоторых версиях Android опасную «дыру», с помощью которой злоумышленники
-могут нарушать работу смартфонов, отправляя им специально сформированные
-текстовые [...]]]></description>
-    </item>
-    <item>
-      <title>Интерфейс и часть характеристик Samsung Galaxy Fit 4 слили в сеть</title>
-      <link>https://4pda.to/2026/11/02/462841/interfejs_i_chast_kharakteristik_samsung_galaxy_fit_4_slili_v_set/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462841/interfejs_i_chast_kharakteristik_samsung_galaxy_fit_4_slili_v_set/</guid>
-      <pubDate>Mon, 02 Nov 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Samsung пока не представила Galaxy Fit4, но свежий код приложения-компаньона уже раскрыл часть подробностей о готовящемся к выпуску фитнес-трекере. Судя по «добыче» инсайдеров, дизайн новинки останется [...]]]></description>
-    </item>
-    <item>
-      <title>Razer выпустила новую коллекцию периферии в стиле аниме Evangelion</title>
-      <link>https://4pda.to/2026/11/02/462840/razer_vypustila_novuyu_kollektsiyu_periferii_v_stile_anime_evangelion/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462840/razer_vypustila_novuyu_kollektsiyu_periferii_v_stile_anime_evangelion/</guid>
-      <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[В ассортименте Razer появился набор периферии для ценителей знаменитой аниме-франшизы. Серия EVA-01&nbsp;переносит узнаваемое сочетание фиолетового и зелёного сразу на пять предметов для игрового сетапа.
-В [...]]]></description>
-    </item>
-    <item>
-      <title>NVIDIA сняла с продаж видеокарту GeForce RTX 5080</title>
-      <link>https://4pda.to/2026/11/02/462839/nvidia_snyala_s_prodazh_videokartu_geforce_rtx_5080/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462839/nvidia_snyala_s_prodazh_videokartu_geforce_rtx_5080/</guid>
-      <pubDate>Mon, 02 Nov 2026 05:30:00 +0000</pubDate>
-      <description><![CDATA[Вслед за комментарием к слухам о «смерти» флагманской RTX 5090
-компания NVIDIA удалила из фирменного онлайн-магазина ещё одну модель видеокарты. На этот раз «под нож» пошла GeForce RTX 5080, а цены на [...]]]></description>
-    </item>
-    <item>
-      <title>Представлен REDMI M100 Pro: чип Dimensity 7300 Ultra и 1,5K-экран за $375</title>
-      <link>https://4pda.to/2026/11/02/462838/predstavlen_redmi_m100_pro_chip_dimensity_7300_ultra_i_1_5k_ekran_za_375/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462838/predstavlen_redmi_m100_pro_chip_dimensity_7300_ultra_i_1_5k_ekran_za_375/</guid>
-      <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[В линейке REDMI появилась новая модель под названием M100 Pro. Среднебюджетный смартфон с ярким&nbsp;OLED-дисплеем оснастили защитой IP68, камерой с OIS и аккумулятором с быстрой зарядкой, а также чипом&nbsp;NFC [...]]]></description>
-    </item>
-    <item>
-      <title>Japannext выпустила сенсорный монитор с зумом и свайпами для Windows</title>
-      <link>https://4pda.to/2026/11/02/462837/japannext_vypustila_sensornyj_monitor_s_zumom_i_svajpami_dlya_windows/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462837/japannext_vypustila_sensornyj_monitor_s_zumom_i_svajpami_dlya_windows/</guid>
-      <pubDate>Mon, 02 Nov 2026 04:35:00 +0000</pubDate>
-      <description><![CDATA[Компания Japannext представила&nbsp;монитор JN-IPST215F-HSPC6-W, который позиционирует как модель для работы. Новинка оснащена регулируемой подставкой и экраном
-с поддержкой сенсорного управления.
-Основой [...]]]></description>
-    </item>
-    <item>
-      <title>Умный дверной звонок Xiaomi с двумя ночными камерами оценён в $75</title>
-      <link>https://4pda.to/2026/11/02/462836/umnyj_dvernoj_zvonok_xiaomi_s_dvumya_nochnymi_kamerami_otsenyon_v_75/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/02/462836/umnyj_dvernoj_zvonok_xiaomi_s_dvumya_nochnymi_kamerami_otsenyon_v_75/</guid>
-      <pubDate>Mon, 02 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi выпустила обновлённую версию умного дверного звонка Smart Doorbell 4 Pro. Он следит сразу за двумя зонами у входа, умеет распознавать людей, животных и посылки, а заряжать его придётся всего пару [...]]]></description>
     </item>
     <item>
       <title>Denmark’s Collabora Pilot Was Never The Microsoft Replacement it Was Made Out to Be</title>
