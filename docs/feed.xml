@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 04 Nov 2026 13:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:15:55 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -51,103 +51,149 @@
       <category>App of the Week</category>
     </item>
     <item>
-      <title>Here's How You Can Use VPNs for FREE on Linux</title>
-      <link>https://feed.itsfoss.com/link/24361/17512838/free-vpn-linux</link>
-      <guid isPermaLink="false">6ae733733a20a700010dfb06</guid>
-      <pubDate>Sun, 01 Nov 2026 15:07:36 +0000</pubDate>
-      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/11/vpn-linux.webp" /></figure>
-<p><em>"If you are not paying for the product, you are the product."</em></p><p>That's often true, and it's doubly true for VPNs. A VPN service could see all your traffic, so a shady free VPN is worse than no VPN at all.</p><p>But you may still find yourself in a situation where you need one. And let's be honest, if it's casual use, paying for a VPN doesn't make a lot of sense, because VPN prices are only reasonable on yearly or longer plans. You don't want to pay for two years upfront just to open one blocked website.</p><p>The good news is that a few well-known privacy companies offer usable free plans. They make money from their paid users, not from your data (most of them have independent audits) and the free plan is often a way to generate lead. </p><p>You can take advantage of that and use it for your occasional VPN requirements.</p><p>In this article, I'll list free VPNs that you can use on Linux. I have split them into two groups: VPNs built into web browsers, and VPN services with a proper Linux client that protects your entire system. </p><p>I have stuck to reputable services only, and I'm not including random "free VPN" browser extensions, because most of them are spammy at best.</p><h2 id="when-and-why-do-you-need-a-free-vpn">When and why do you need a free VPN?</h2><p>The most common reason is geo-restriction. Some website owners block visitors from certain countries, and a VPN lets you appear to be somewhere else. This is perhaps the most common such screen I have seen with sites that geo-block its visitors. </p><figure class="kg-card kg-image-card"><img alt="Access Restricted" class="kg-image" height="499" src="https://itsfoss.com/content/images/2026/11/access-restricted.png" width="1304" /></figure><p>Sometimes it's not the website but your government that blocks a site, or even a specific X/Twitter account.</p><p>In more "restrictive regions", a VPN may be the only way to get around censorship and reach parts of the open web. It's also handy when you're traveling and need a work or university portal that only works from your home region.</p><p>Then there's the case of public Wi-Fi. At a hotel, airport or caf&eacute;, a VPN adds an extra layer of protection between you and whoever else is on that network. At least it gives me peace of mind.</p><p>If you need a VPN every day, or for streaming, you should instead go for a <a href="https://itsfoss.com/best-vpn-linux/" rel="noreferrer">reliable but paid VPN service</a>.</p><h2 id="what-to-look-for-in-a-free-vpn">What to look for in a free VPN</h2><p>Free VPNs come with limitations. That's expected. What matters is whether those limitations matter to you.</p><p>First, check whether you need an account. Most free VPNs ask for one, some only want an email, and a few need nothing at all.</p><p>Next, check whether it's browser-only or system-wide. A browser VPN only protects traffic from that browser, while a system-wide VPN covers every application on your Linux system. For system-wide VPNs, also check whether there's a native Linux client and whether it has a GUI or is CLI only.</p><p>Then look at the limits. Some (rare) free plans have unlimited data, others give you anywhere from 2 GB to 50 GB a month. Free plans also restrict you to a handful of server locations, and some don't even let you pick one.</p><p>If you care about encryption, look for <a href="https://www.wireguard.com/">WireGuard</a> or OpenVPN support. If your goal is watching content from another country, check streaming support first, because most free plans don't offer it.</p><p>Finally, check the no-logs policy. Every VPN claims one, at least on paper. A no-logs claim backed by an independent audit is better than one without.</p><p>With that out of the way, let's see the options of free VPNs for Linux users.</p><h2 id="browser-based-free-vpns">Browser-based free VPNs</h2><p>These are VPNs built right into the web browser. You don't install anything extra. Click a button and your browsing goes through the VPN.</p><p>They are good enough for opening geo-blocked websites or browsing on public Wi-Fi. Just remember that they only cover the browser. Your terminal, package manager, torrent client (if you use it) and every other app still use your normal connection.</p><p>Strictly speaking, some of these work more like an encrypted proxy than a full VPN. For casual browsing, the difference won't matter much.</p><h3 id="vivaldi-with-proton-vpn">Vivaldi (with Proton VPN)</h3><figure class="kg-card kg-image-card"><img alt="Vivaldi offers free Proton VPN" class="kg-image" height="998" src="https://itsfoss.com/content/images/2026/11/vivalid-free-vpn.webp" width="2000" /></figure><p><a href="https://itsfoss.com/news/vivaldi-proton-vpn-collab/" rel="noreferrer">Vivaldi partnered with Proton in 2025</a> and integrated the free tier of Proton VPN directly into its web browser. It's available on Linux, Windows and macOS.</p><p>What makes it stand out is that it's free with no data limits. You get the same thing Proton gives its free users: no ads, a strict no-logs policy and medium speeds. Your server options are limited to Proton's free locations.</p><p>You need to sign in with a Vivaldi account or a Proton account. Vivaldi says the account requirement is there to prevent abuse of the free service.</p><p>If you are already a Vivaldi user, this is the easiest option on the list. If you are not, it's a decent reason to give Vivaldi a try.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://vivaldi.com/">Vivaldi Browser</a></div><h3 id="firefox-built-in-vpn">Firefox built-in VPN</h3><figure class="kg-card kg-image-card"><img alt="Firefox offers free VPN in many countries" class="kg-image" height="751" src="https://itsfoss.com/content/images/2026/11/firefox-free-vpn.png" width="1809" /></figure><p>Mozilla has had a paid VPN for years. With Firefox 149, it added a free built-in VPN to the browser itself.</p><p>You get 50 GB of VPN browsing per month, which is generous for a browser VPN. Once you hit the limit, the VPN pauses until the next month. You can also pick the location you want to browse from, and you need a Mozilla account to use it.</p><p>The problem is availability. As of Mozilla's July 2026 update, it covers 29 countries, including Canada, Japan, Mexico, Australia and much of Europe. If you don't see the VPN button in Firefox, it hasn't reached your region yet.</p><p>If you want Mozilla's protection for your entire system, there's the paid Mozilla VPN. It costs $9.99 per month, or $4.99 per month on the yearly plan, and covers up to 5 devices with 500 servers in 30+ countries. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.firefox.com/en-US/">Firefox</a></div><h3 id="opera">Opera</h3><p><a href="https://www.opera.com/">Opera</a> was the first major browser to bake in a free VPN, way back in 2016. It's still there in the desktop version, Linux included.</p><p>It is unlimited and doesn't need an account. Just enable it in the settings and you're done. That's the lowest-friction option on this list.</p><p>The limitation is location choice. You can't pick a country, only a region: Americas, Europe or Asia (or let Opera pick the "optimal" location). That's fine for public Wi-Fi but hit or miss for geo-blocked websites, and technically it's a browser proxy rather than a full VPN.</p><p>Also, many people would be weary of the fact that Opera was sold to a Chinese consortium earlier. Personally, I prefer privacy services from Europe. That's not a guarantee but just a perception that European companies have better privacy laws.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://www.opera.com/">Opera</a></div><h2 id="system-wide-vpns-with-linux-clients">System-wide VPNs with Linux clients</h2><p>These are proper VPN services with native Linux apps. Once connected, everything on your system goes through the VPN: browsers, terminal, apps, updates all of it.</p><h3 id="proton-vpn">Proton VPN</h3><figure class="kg-card kg-image-card kg-card-hascaption"><img alt="" class="kg-image" height="638" src="https://itsfoss.com/content/images/2026/11/proton-vpn-linux-gui.webp" width="1024" /><figcaption><span style="white-space: pre-wrap;">Proton VPN free Linux</span></figcaption></figure><p><a href="http://proton.go2cloud.org/aff_c?offer_id=10&amp;aff_id=1173" rel="noreferrer"><strong>Proton VPN</strong></a> comes from Proton, the Swiss company behind Proton Mail. Its free plan is the best one I know of, and it's my default recommendation for anyone who asks.</p><p>The free plan has no data limit and no ads. Its no-logs policy has been independently audited, and <a href="https://github.com/ProtonVPN" rel="noreferrer">Proton's apps are open source</a> too.</p><p>You can use it on 1 device at a time, with <a href="https://protonvpn.com/support/proton-vpn-plans">servers in up to 10 countries</a>: the Netherlands, Japan, Romania, Poland, Norway, Switzerland, Singapore, Mexico, Canada and the US. Speeds are medium, since paid users get priority.</p><p>The free tier limitation is that you can't pick a country. Proton <a href="https://www.tomsguide.com/computing/vpns/proton-vpn-free-adds-norway-server-boosting-its-location-count-to-8">assigns you a free server</a>, and you can reconnect to get a different one. Streaming and P2P/torrenting are not supported on the free plan either.</p><p>On Linux, Proton has both official CLI and GUI app, which is rare among VPN providers. </p><p>The <a href="http://proton.go2cloud.org/aff_c?offer_id=10&amp;aff_id=1173">paid VPN Plus</a> plan unlocks 20,000+ servers in 140+ countries, up to 10 devices, faster speeds, streaming support, P2P with port forwarding, the NetShield ad-blocker and Secure Core multi-hop servers. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://protonvpn.com/">Proton VPN</a></div><h3 id="windscribe">Windscribe</h3><figure class="kg-card kg-image-card"><img alt="Windscribe" class="kg-image" height="880" src="https://itsfoss.com/content/images/2026/11/windscribe-free-vpn.webp" width="2000" /></figure><p><a href="https://windscribe.com/"><strong>Windscribe</strong></a> is a Canadian VPN company with one of the more generous capped free plans.</p><p>You get <a href="https://windscribe.com/support/article/44/how-much-does-it-cost-to-use-windscribe">10 GB of data per month</a> if you confirm your email address. Without an email, you get 2 GB, which is good enough for emergency use. Free users get servers in 10 countries, and unlike Proton, you choose the location yourself.</p><p>There's also no limit on the number of devices, even on the free plan. Windscribe's desktop apps are open source, and on Linux you get both a GUI app and a CLI.</p><p>Most features, including the firewall (their name for the kill switch) and split tunneling, are available to free users too. Its no-logs claim <a href="https://www.tomsguide.com/reviews/windscribe-vpn-review">has been audited, and has also held up in court</a>.</p><p>If 10 GB isn't enough but you don't want a full subscription, Windscribe has an interesting "Build-A-Plan" option. You <a href="https://windscribe.com/support/article/44/how-much-does-it-cost-to-use-windscribe">pay $1 per month per location</a> you need (minimum $3), and each location adds 10 GB to your monthly allowance. Unlimited data is a $1 add-on, while the full Pro plan costs $9 per month or $69 per year.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://windscribe.com/">Windscribe</a></div><h3 id="hideme">hide.me</h3><figure class="kg-card kg-image-card"><img alt="Hide.me offers free VPN tier for Linux" class="kg-image" height="314" src="https://itsfoss.com/content/images/2026/11/hide-me-linux.jpeg" width="635" /></figure><p><a href="https://hide.me/"><strong>hide.me</strong></a> is a Malaysia-based VPN with a free plan that doesn't require a sign-up or payment details.</p><p>The free plan used to cap you at 10 GB a month. Now there's no data limit at all, but speeds are throttled. <a href="https://www.tomsguide.com/computing/vpns/hide-me-free-review">Tom's Guide measured free speeds</a> at around 1 Mbps, which is enough for reading but painful for anything else.</p><p>You get 1 simultaneous connection, and hide.me advertises 8 free locations, mostly in Europe plus the US. Streaming isn't supported on the free plan.</p><p>For Linux, hide.me has an <a href="https://github.com/eventure/hide.client.linux">official command-line client</a>. It's built on WireGuard, written in Go and open source under GPLv2, and it works with the free plan. You can also set it up manually through NetworkManager.</p><p>The paid plan unlocks 91 locations, 10 simultaneous connections, full speed, a fixed IP address option, dynamic port forwarding and streaming support.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://hide.me/">hide.me</a></div><h3 id="adguard-vpn">AdGuard VPN</h3><figure class="kg-card kg-image-card"><img alt="Adguard free VPN for Linux users" class="kg-image" height="630" src="https://itsfoss.com/content/images/2026/11/adguard-free-vpn.webp" width="1200" /></figure><p>You probably know <a href="https://adguard.com/en/adguard-linux/overview.html?aid=135612">AdGuard</a> for its ad blocker and AdGuard DNS. The company has been building privacy tools for well over a decade, and <a href="https://adguard-vpn.com?aid=135612" rel="noreferrer"><strong>AdGuard VPN</strong></a> is part of that family.</p><p>On Linux, AdGuard VPN comes as an <a href="https://adguard-vpn.com/en/linux/overview.html">official command-line client</a> for Debian, Ubuntu, Linux Mint and RPM-based distributions. There's no GUI here.</p><p>You need an AdGuard account, which you can create from the terminal itself. The <a href="https://adguard-vpn.com/en/support/vpn_for_linux/subscription/paid_and_free.html">free plan</a> gives you 3 GB of traffic per month at speeds capped to 20 Mbps, and 2 devices at a time.</p><p>The paid plan removes the data cap and the speed limit, opens up 75+ locations and lets you connect up to 10 devices at the same time. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://adguard-vpn.com?aid=135612">AdGuard VPN</a></div><h3 id="riseupvpn">RiseupVPN</h3><p><a href="https://riseup.net/"><strong>Riseup</strong></a> is a volunteer-run collective that has been providing secure communication tools to activists and privacy-minded people <a href="https://en.wikipedia.org/wiki/Riseup">since 1999</a>. Its email, chat and other services are built around anonymity and resisting surveillance, and <a href="https://riseup.net/vpn">RiseupVPN</a> is one of those services.</p><p>RiseupVPN is different from everything else on this list because there is no paid plan. Everything is free. There's no account to create, no configuration, and Riseup says it doesn't log your IP address.</p><p>The whole thing runs on donations. Riseup <a href="https://riseup.net/vpn">estimates the VPN costs</a> about $60 per person per year to run and asks regular users to donate at least that much if they can.</p><p>On Linux, it's available as a snap and as a package for Debian and Ubuntu. Arch users can find it in the AUR.</p><p>Note that this is a donation-funded service with a handful of gateways in North America and Europe. Riseup doesn't publish a list, but <a href="https://discuss.privacyguides.net/t/riseup-as-a-free-vpn/15677">users report locations</a> like Seattle, Montreal, New York, Paris and Amsterdam. </p><p>Don't expect commercial VPN speeds, because it's built for privacy and getting around censorship, not for unblocking streaming catalogs.</p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://riseup.net/">RiseupVPN</a></div><h3 id="lantern">Lantern</h3><figure class="kg-card kg-image-card"><img alt="Lantern VPN" class="kg-image" height="439" src="https://itsfoss.com/content/images/2026/11/lantern-vpn.svg" width="650" /></figure><p><a href="https://lantern.io/"><strong>Lantern</strong></a> started as a censorship circumvention tool, and that's still its focus. It's developed by Brave New Software, a US nonprofit with no relation to Brave Browser. The code is open source, and it has been around since 2013.</p><p>The free version doesn't need an account or payment details. Just download and connect. The limit is data, of course. Free users get about 250 MB per day, resetting every 24 hours. Which is fine for reading blocked news sites or checking a social media account, but not much else.</p><p>Lantern doesn't disconnect you when you hit the cap. Instead, downloads slow to about 128 Kbps until the next reset, which is mostly useless these days. Free users in Iran, Russia and Belarus get unlimited data, which tells you who the service is really built for.</p><p>If you want more, Lantern Pro gives you unlimited data, up to 5 devices, server location selection, premium servers, built-in ad blocking and the option to host your own private Lantern server. </p><div class="kg-card kg-button-card kg-align-center"><a class="kg-btn kg-btn-accent" href="https://lantern.io/">Lantern</a></div><h2 id="want-streaming-get-a-paid-plan">Want streaming? Get a paid plan</h2><p>If you want a VPN to watch Netflix or Prime Video from another country, or to watch your home country's catalog or live sport event while living abroad, a free plan won't work well. Most free plans either don't support streaming or have data caps that run out after a few hours of HD video.</p><p>A paid plan is better for this. Even then, streaming services are smart. They actively block VPN IP addresses, so expect things to break from time to time. <a href="http://proton.go2cloud.org/aff_c?offer_id=10&amp;aff_id=1173">Proton is a reliable VPN</a> or you can go for Unlocator Smart DNS.</p><h2 id="comparing-the-free-vpn-options">Comparing the free VPN options</h2>
-<!--kg-card-begin: html-->
-<table>
-<thead>
-<tr>
-<th>VPN</th>
-<th>Type</th>
-<th>Account needed</th>
-<th>Free data</th>
-<th>Location choice</th>
-<th>Linux support</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Vivaldi + Proton</td>
-<td>Browser</td>
-<td>Yes</td>
-<td>Unlimited</td>
-<td>Limited to Proton free servers</td>
-<td>Yes (built into browser)</td>
-</tr>
-<tr>
-<td>Firefox built-in VPN</td>
-<td>Browser</td>
-<td>Yes (Mozilla)</td>
-<td>50 GB/month</td>
-<td>Yes</td>
-<td>Yes (built into browser)</td>
-</tr>
-<tr>
-<td>Opera</td>
-<td>Browser</td>
-<td>No</td>
-<td>Unlimited</td>
-<td>Regions only</td>
-<td>Yes</td>
-</tr>
-<tr>
-<td>Proton VPN</td>
-<td>System-wide</td>
-<td>Yes</td>
-<td>Unlimited</td>
-<td>No (auto-assigned)</td>
-<td>GUI + CLI</td>
-</tr>
-<tr>
-<td>Windscribe</td>
-<td>System-wide</td>
-<td>Optional (2 GB without email, 10 GB with)</td>
-<td>2 to 10 GB/month</td>
-<td>Yes, 10 countries</td>
-<td>GUI + CLI</td>
-</tr>
-<tr>
-<td>hide.me</td>
-<td>System-wide</td>
-<td>No</td>
-<td>Unlimited (throttled)</td>
-<td>Yes, 8 locations</td>
-<td>CLI</td>
-</tr>
-<tr>
-<td>AdGuard VPN</td>
-<td>System-wide</td>
-<td>Yes</td>
-<td>3 GB/month</td>
-<td>Yes, limited locations</td>
-<td>CLI</td>
-</tr>
-<tr>
-<td>RiseupVPN</td>
-<td>System-wide</td>
-<td>No</td>
-<td>Unlimited (donation-funded)</td>
-<td>Yes, a few gateways</td>
-<td>GUI (tray app)</td>
-</tr>
-<tr>
-<td>Lantern</td>
-<td>System-wide</td>
-<td>No</td>
-<td>About 244 MB/day</td>
-<td>No (Pro only)</td>
-<td>DEB/RPM </td>
-</tr>
-</tbody>
-</table>
-<!--kg-card-end: html-->
-<h2 id="which-one-should-you-use">Which one should you use?</h2><p>If you just want to open a blocked website or feel safer on hotel Wi-Fi, a browser VPN is enough. </p><p>If you want the whole system protected, Proton VPN's free plan is the one I'd start with, and Windscribe is a good backup when you need to pick a specific country. </p><p>If you're dealing with real censorship, keep RiseupVPN or Lantern installed as a fallback. Although I would suggest going for a more robust, paid VPN like Mullvad.</p><p>And if all you care about is encrypting traffic on public Wi-Fi, there's also <a href="https://one.one.one.one/">Cloudflare WARP</a>. It's free with no data cap, needs no account, and has an official Linux client (<code>warp-cli</code>). But you can't choose a location, so it won't help with geo-restrictions at all.</p><p>I hope this list helps you select a free VPN service. If you have questions or suggestions, please leave a comment.</p>
-<img height="1" src="https://feed.itsfoss.com/link/24361/17512838.gif" width="1" />]]></description>
-      <category>List 📋</category>
+      <title>Инсайды #3970: смартфон Honor с недельной автономностью, REDMI Turbo 6 Max и робот Apple</title>
+      <link>https://4pda.to/2026/11/04/462953/insajdy_3970_smartfon_honor_s_nedelnoj_avtonomnostyu_redmi_turbo_6_max_i_robot_apple/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462953/insajdy_3970_smartfon_honor_s_nedelnoj_avtonomnostyu_redmi_turbo_6_max_i_robot_apple/</guid>
+      <pubDate>Wed, 04 Nov 2026 19:00:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Honor выпустит смартфон с рекордной ёмкостью аккумулятора; REDMI увеличивает экран Turbo 6 Max почти до 7 дюймов; Apple разрабатывает домашнего робота за $1000.
+Honor выпустит [...]]]></description>
+    </item>
+    <item>
+      <title>Razer представила коллекционный геймпад для PS5 с корпусом из магния</title>
+      <link>https://4pda.to/2026/11/04/462955/razer_predstavila_kollektsionnyj_gejmpad_dlya_ps5_s_korpusom_iz_magniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462955/razer_predstavila_kollektsionnyj_gejmpad_dlya_ps5_s_korpusom_iz_magniya/</guid>
+      <pubDate>Wed, 04 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Razer превратила свой игровой геймпад Raiju V3 Pro в коллекционное устройство. Специальная версия для PlayStation 5 получила необычную конструкцию, но её главное отличие от базовой модели не связано с [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi выпустила зубную щётку Mijia Electric Toothbrush 2 Pro с автономностью 190 дней и датчиками давления</title>
+      <link>https://4pda.to/2026/11/04/462956/xiaomi_vypustila_zubnuyu_schyotku_mijia_electric_toothbrush_2_pro_s_avtonomnostyu_190_dnej_i_datchikami_davleniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462956/xiaomi_vypustila_zubnuyu_schyotku_mijia_electric_toothbrush_2_pro_s_avtonomnostyu_190_dnej_i_datchikami_davleniya/</guid>
+      <pubDate>Wed, 04 Nov 2026 17:30:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi представила в Китае
+новую электрическую зубную щётку Mijia Electric Toothbrush 2 Pro. Она получила
+встроенный экран, длительную автономность и несколько интеллектуальных функций,
+которые помогают [...]]]></description>
+    </item>
+    <item>
+      <title>Единственная и уникальная: Microsoft встроила Xbox Series X в аллигатора</title>
+      <link>https://4pda.to/2026/11/04/462954/edinstvennaya_i_unikalnaya_microsoft_vstroila_xbox_series_x_v_alligatora/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462954/edinstvennaya_i_unikalnaya_microsoft_vstroila_xbox_series_x_v_alligatora/</guid>
+      <pubDate>Wed, 04 Nov 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Microsoft представила
+необычную версию Xbox Series X под названием X-BITE. Консоль поместили внутрь
+реалистичной фигуры аллигатора длиной более полутора метров.
+[youtube=YJptn7J1xeI:640:360:::0]
+Внутри [...]]]></description>
+    </item>
+    <item>
+      <title>Слух: базовый iPhone 18 станет дороже, но получит увеличенную АКБ и мощный чип</title>
+      <link>https://4pda.to/2026/11/04/462952/slukh_bazovyj_iphone_18_stanet_dorozhe_no_poluchit_uvelichennuyu_akb_i_moschnyj_chip/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462952/slukh_bazovyj_iphone_18_stanet_dorozhe_no_poluchit_uvelichennuyu_akb_i_moschnyj_chip/</guid>
+      <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
+      <description><![CDATA[Apple готовит очередное
+обновление базовой модели своего смартфона. По данным известного инсайдера, iPhone 18
+может
+вырасти в цене, но также получит несколько заметных улучшений технических характеристик.
+Как [...]]]></description>
+    </item>
+    <item>
+      <title>Спасла только реакция машиниста: школьный автобус с 14 детьми выехал на переезд перед поездом (видео)</title>
+      <link>https://auto.onliner.by/go/1273430</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/04/spasla-reakciya-mashinista</guid>
+      <pubDate>Wed, 04 Nov 2026 15:07:04 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/04/spasla-reakciya-mashinista"><img alt="" src="https://content.onliner.by/news/thumbnail/8271abd53eacd81f5d7c10583103f453.jpg" /></a></p><p>В Ляховичском районе в сентябре водитель школьного автобуса, проезжая железнодорожный переезд, проигнорировал световую и звуковую сигнализацию, а также сигналы большой громкости, поданные машинистом грузового поезда. Он без остановки выехал на переезд перед приближавшимся железнодорожным составом. В автобусе было 14 детей.</p><p><a href="https://auto.onliner.by/2026/11/04/spasla-reakciya-mashinista">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Google упростит работу с множеством открытых вкладок в Chrome</title>
+      <link>https://4pda.to/2026/11/04/462951/google_uprostit_rabotu_s_mnozhestvom_otkrytykh_vkladok_v_chrome/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462951/google_uprostit_rabotu_s_mnozhestvom_otkrytykh_vkladok_v_chrome/</guid>
+      <pubDate>Wed, 04 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Google работает над новой
+функцией Chrome, которая сделает управление большим количеством открытых
+вкладок более удобным. Для этого компания переработает интерфейс панели&nbsp;браузера, добавив в него [...]]]></description>
+    </item>
+    <item>
+      <title>Мужчина три года откладывал монеты, чтобы купить скутер. В салоне считали деньги больше 2 часов</title>
+      <link>https://money.onliner.by/go/353548</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/04/pereschityvali-meloch-neskolko-chasov-muzhchina-godami-kopil-na-skuter</guid>
+      <pubDate>Wed, 04 Nov 2026 14:56:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/04/pereschityvali-meloch-neskolko-chasov-muzhchina-godami-kopil-na-skuter"><img alt="" src="https://content.onliner.by/news/thumbnail/740dc0b8b3dc5459bbcc02531f704641.jpg" /></a></p><p>В Индии мужчина по имени Джозеф чуть больше трех лет откладывал деньги на покупку нового скутера. Он покупал продукты, а сдачу — <span dir="auto">десятирупиевые монеты — собирал. С октября 2023 года удалось накопить <span dir="auto">в общей сложности 12,3 тысячи монет. Правда, когда мужчина отправился за долгожданной покупкой, </span><span dir="auto">перед ним встала еще одна задача — пересчитать все деньги.</span></span>
+</p><p><a href="https://money.onliner.by/2026/11/04/pereschityvali-meloch-neskolko-chasov-muzhchina-godami-kopil-na-skuter">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Минская школьница поверила неизвестным и осталась с заблокированным айфоном</title>
+      <link>https://tech.onliner.by/go/800310</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/04/minskaya-shkolnica-poverila-neizvestnym-i-ostalas-s-zablokirovannym-ajfonom</guid>
+      <pubDate>Wed, 04 Nov 2026 14:50:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/04/minskaya-shkolnica-poverila-neizvestnym-i-ostalas-s-zablokirovannym-ajfonom"><img alt="" src="https://content.onliner.by/news/thumbnail/5f5c33bcae4072205bf903c081577124.jpg" /></a></p><p>Минская 13-летняя школьница хотела бесплатно скачать игру на iPhone, но в итоге ее смартфон заблокировали — за разблокировку требовали деньги. Подробнее об инциденте <a href="https://t.me/police_minsk/41166" target="_blank">говорится</a> в сообщении телеграм-канала минской милиции.
+</p><p><a href="https://tech.onliner.by/2026/11/04/minskaya-shkolnica-poverila-neizvestnym-i-ostalas-s-zablokirovannym-ajfonom">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Мощнейший чип Snapdragon может получить лишь один из грядущих Samsung Galaxy S27</title>
+      <link>https://tech.onliner.by/go/800305</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/04/moshhnejshij-chip-snapdragon-mozhet-poluchit-lish-odin-iz-gryadushhix-samsung-galaxy-s27</guid>
+      <pubDate>Wed, 04 Nov 2026 14:37:09 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/04/moshhnejshij-chip-snapdragon-mozhet-poluchit-lish-odin-iz-gryadushhix-samsung-galaxy-s27"><img alt="" src="https://content.onliner.by/news/thumbnail/5da487b55c0ee35596ac6c838ef5d08c.jpg" /></a></p><p>Релиз флагманской линейки смартфонов Galaxy S27 от Samsung, скорее всего, состоится в начале следующего года. В модельный ряд, как ожидается, войдут четыре устройства — S27, S27+, S27 Pro и S27 Ultra. И мощнейший чип Snapdragon от Qualcomm при этом получит только один девайс — во всяком случае так со ссылкой на источник <a href="https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php" target="_blank">пишут</a> в GSMArena.
+</p><p><a href="https://tech.onliner.by/2026/11/04/moshhnejshij-chip-snapdragon-mozhet-poluchit-lish-odin-iz-gryadushhix-samsung-galaxy-s27">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Кондитер облизывала мешок с кремом». Минское кафе проверили после жалобы посетительницы</title>
+      <link>https://people.onliner.by/go/1343527</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/04/oblizyvala-meshok-s-kremom</guid>
+      <pubDate>Wed, 04 Nov 2026 14:31:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/04/oblizyvala-meshok-s-kremom"><img alt="" src="https://content.onliner.by/news/thumbnail/94c0acd22c4b2fb95bf931fea1f4b3bd.jpg" /></a></p><p><p dir="ltr">В минском кафе Paul на улице Интернациональной проверили соблюдение санитарных норм после жалобы одной из посетительниц, <a href="https://minsknews.by/oblizyvala-konditerskij-meshok-i-prodolzhala-nachinyat-izdeliya-na-zhalobu-v-seti-otreagirovala-sansluzhba/" target="_blank">сообщает</a> агентство «Минск-Новости». Женщина рассказала в соцсетях, что увидела, как сотрудница кухни облизывала кондитерский мешок во время приготовления десертов, а затем продолжала работать с продукцией.<br /></p>
+</p><p><a href="https://people.onliner.by/2026/11/04/oblizyvala-meshok-s-kremom">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Под Витебском собираются построить новый мусорный полигон. Горожан зовут высказать свое мнение</title>
+      <link>https://realt.onliner.by/go/1141178</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/04/novyj-musornyj-poligon</guid>
+      <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/04/novyj-musornyj-poligon"><img alt="" src="https://content.onliner.by/news/thumbnail/2876f86ee6463f8c43002c23fbba8a12.jpg" /></a></p><p>Тема строительства новых мусорных полигонов или прудов-накопителей всегда вызывает массу тревог у тех, кому придется соседствовать со специфическими объектами. Запахи, непрекращающиеся потоки тяжелого транспорта, потенциальное расширение площадок — причин для беспокойств и правда хватает. Эстафету (вероятно) активных общественных обсуждений прямо сейчас подхватывает Витебский район. Примерно в трех километрах от областного центра (если ехать по трассе Р112), в районе деревень<em> </em>Сеньково, Гатушки и Ананино, собираются построить «полигон твердо-бытовых отходов». Всех желающих приглашают <a href="https://vitebsk.vitebsk-region.gov.by/ru/obshchestvennye-obsuzhdeniya-i-izuchenie-mneniya-grazhdan" target="_blank">высказаться</a>.
+</p><p><a href="https://realt.onliner.by/2026/11/04/novyj-musornyj-poligon">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Водитель FIAT двигался задним ходом по тротуару и наехал на пешехода (видео)</title>
+      <link>https://auto.onliner.by/go/1273418</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/04/naexal-na-peshexoda</guid>
+      <pubDate>Wed, 04 Nov 2026 14:03:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/04/naexal-na-peshexoda"><img alt="" src="https://content.onliner.by/news/thumbnail/80c3e7ac6e00e1e4341a3c624157c9ea.jpg" /></a></p><p>ГАИ Минска рассказала о ДТП, которое случилось сегодня днем вблизи дома №12 по улице Острожских. 22-летний водитель грузовика FIAT, двигаясь задним ходом по тротуару, сбил пешехода. </p><p><a href="https://auto.onliner.by/2026/11/04/naexal-na-peshexoda">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Нацбанке объяснили, почему вряд ли снизят ставки по кредитам и вкладам</title>
+      <link>https://money.onliner.by/go/353544</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/04/zhdat-li-snizheniya-procentnyx-stavok-v-sleduyushhem-godu-rasskazali-v-nacbanke</guid>
+      <pubDate>Wed, 04 Nov 2026 14:00:42 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/04/zhdat-li-snizheniya-procentnyx-stavok-v-sleduyushhem-godu-rasskazali-v-nacbanke"><img alt="" src="https://content.onliner.by/news/thumbnail/6e09cf0cad8115271f6386467f3223df.jpg" /></a></p><p>Немножко хороших новостей для тех, кто подумывал открыть банковский вклад, — и не очень хороших для тех, кто собирается брать кредит. Скорее всего, процентные ставки в следующем году снижать не будут.
+</p><p><a href="https://money.onliner.by/2026/11/04/zhdat-li-snizheniya-procentnyx-stavok-v-sleduyushhem-godu-rasskazali-v-nacbanke">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Ключевые характеристики OPPO Find X10 Ultra раскрыты известным инсайдером</title>
+      <link>https://4pda.to/2026/11/04/462950/klyuchevye_kharakteristiki_oppo_find_x10_ultra_raskryty_izvestnym_insajderom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462950/klyuchevye_kharakteristiki_oppo_find_x10_ultra_raskryty_izvestnym_insajderom/</guid>
+      <pubDate>Wed, 04 Nov 2026 14:00:00 +0000</pubDate>
+      <description><![CDATA[OPPO, судя по свежей утечке,
+готовит серьёзное обновление характеристик своего следующего флагмана. Модель
+Find X10 Ultra должна получить перископическую камеру в составе основного модуля
+и перейти на [...]]]></description>
+    </item>
+    <item>
+      <title>Иностранец распространял вредоносное ПО, которое имитировало «VK Видео»</title>
+      <link>https://tech.onliner.by/go/800298</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/04/inostranec-rasprostranyal-vredonosnoe-po-kotoroe-imitirovalo-vk-video</guid>
+      <pubDate>Wed, 04 Nov 2026 13:50:50 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/04/inostranec-rasprostranyal-vredonosnoe-po-kotoroe-imitirovalo-vk-video"><img alt="" src="https://content.onliner.by/news/thumbnail/55ade1f0aa76a255c0109bfe0ed217b3.jpg" /></a></p><p>21-летний иностранный гражданин в течение месяца использовал и распространял вредоносные компьютерные программы, которые позволяли «обходить защиту устройств, автоматически собирать, обрабатывать и копировать информацию без согласия владельцев». Сообщение с подробностями <a href="https://sk.gov.by/ru/news-usk-mogilev-ru/view/mogilevskie-sledovateli-zavershili-rassledovanie-ugolovnogo-dela-o-vredonosnyx-programmax-zarazivshix-487-16502/" target="_blank">размещено</a> на сайте Следственного комитета.
+</p><p><a href="https://tech.onliner.by/2026/11/04/inostranec-rasprostranyal-vredonosnoe-po-kotoroe-imitirovalo-vk-video">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
     </item>
     <item>
       <title>На репетиционном тестировании аннулировали результаты из-за телефонов и утечки заданий</title>
@@ -167,6 +213,13 @@
       <category>Технологии</category>
     </item>
     <item>
+      <title>Binance рассказала, как хакерам удалось украсть больше 6 миллиардов долларов</title>
+      <link>https://4pda.to/2026/11/04/462957/binance_rasskazala_kak_khakeram_udalos_ukrast_bolshe_6_milliardov_dollarov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/04/462957/binance_rasskazala_kak_khakeram_udalos_ukrast_bolshe_6_milliardov_dollarov/</guid>
+      <pubDate>Wed, 04 Nov 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Binance опубликовала предварительный отчёт о крупнейшей краже криптовалюты в истории. Биржа восстановила цепочку событий и рассказала, как злоумышленники сначала проникли во внутреннюю инфраструктуру, [...]]]></description>
+    </item>
+    <item>
       <title>Мозг раскладывает эмоции по шестиугольникам? Вот что выяснили ученые</title>
       <link>https://tech.onliner.by/go/800263</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/11/04/mozg-raskladyvaet-emocii-po-shestiugolnikam-vot-chto-vyyasnili-uchenye</guid>
@@ -183,7 +236,7 @@
       <description><![CDATA[OpenAI рассказала о превращении ChatGPT в альтернативу привычным поисковым системам. По словам руководителя потребительского направления сервиса Адама Фрая, за последние два месяца аудитория сервиса выросла [...]]]></description>
     </item>
     <item>
-      <title>Эти грибы продали за €18 тысяч. Что за деликатес такой?</title>
+      <title>Эти грибы побили все рекорды. Почем нынче белый трюфель?</title>
       <link>https://money.onliner.by/go/353533</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/11/04/eti-griby-prodali-za-e18-tysyach-chto-za-delikates-takoj</guid>
       <pubDate>Wed, 04 Nov 2026 12:43:09 +0000</pubDate>
@@ -215,7 +268,7 @@
       <description><![CDATA[В сети появились первые фотографии ещё не анонсированного realme 17T 5G. Внешне он не слишком далеко ушёл от предшественника, но одна деталь неожиданно роднит его с гораздо более дорогим складным смартфоном [...]]]></description>
     </item>
     <item>
-      <title>В Беларуси начнут собирать X5. Но не BMW</title>
+      <title>В Беларуси начнут собирать X5. Но не BMW  (обновлено)</title>
       <link>https://auto.onliner.by/go/1273381</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/04/v-belarusi-nachnut-sobirat-x5-no-ne-bmw</guid>
       <pubDate>Wed, 04 Nov 2026 11:48:25 +0000</pubDate>
@@ -300,7 +353,7 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>Школьнику пригрозили «военными дронами» и тюрьмой. Он отдал мошенникам 15 тысяч рублей</title>
+      <title>Школьник отдал мошенникам 15 тысяч рублей. Курьером была 9-классница</title>
       <link>https://money.onliner.by/go/353489</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/11/04/shkolniku-prigrozili-voennymi-dronami-i-tyurmoj-on-otdal-moshennikam-15-tysyach-rublej</guid>
       <pubDate>Wed, 04 Nov 2026 09:38:30 +0000</pubDate>
@@ -309,56 +362,12 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Вот когда начнется предзагрузка GTA VI — известно, сколько игра займет на диске</title>
-      <link>https://tech.onliner.by/go/800238</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/04/vot-kogda-nachnetsya-predzagruzka-gta-vi-izvestno-skolko-igra-zajmet-na-diske</guid>
-      <pubDate>Wed, 04 Nov 2026 09:38:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/04/vot-kogda-nachnetsya-predzagruzka-gta-vi-izvestno-skolko-igra-zajmet-na-diske"><img alt="" src="https://content.onliner.by/news/thumbnail/e9fed99ac6bb0f7ed0f0d6ebddc95995.jpg" /></a></p><p>В Rockstar <a href="https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10" target="_blank">заявили</a>: предзагрузка GTA VI начнется за девять дней до релиза. Кроме того, в компании озвучили размер, который игра займет в хранилище.
-</p><p><a href="https://tech.onliner.by/2026/11/04/vot-kogda-nachnetsya-predzagruzka-gta-vi-izvestno-skolko-igra-zajmet-na-diske">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Не анафилактический шок? Что известно о трагической смерти белоруски после лечения у стоматолога</title>
-      <link>https://people.onliner.by/go/1343318</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/04/ne-anafilakticheskij-shok-chto-izvestno-o-tragicheskoj-smerti-beloruski-posle-lecheniya-u-stomatologa</guid>
-      <pubDate>Wed, 04 Nov 2026 09:30:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/04/ne-anafilakticheskij-shok-chto-izvestno-o-tragicheskoj-smerti-beloruski-posle-lecheniya-u-stomatologa"><img alt="" src="https://content.onliner.by/news/thumbnail/49f06b0bf8618a236db8c1d5fa1f8407.jpg" /></a></p><p><p>На прошлой неделе белорусов потрясла новость о смерти 30-летней девушки, которая обратилась в клинику для удаления зуба мудрости под наркозом. Накануне в Threads Валерия искала специалистов, которые могли бы помочь с ее сложным случаем, поскольку «корень пророс в костную ткань». Позже на странице появилась информация о прощании — оно состоялось 27 октября. Близкие не комментировали обстоятельства трагедии, но история получила резонанс. Помимо соболезнований, многие делились своими опасениями по поводу лечения зубов, особенно под наркозом. Сейчас комиссия Минздрава проводит проверку по этому случаю. Рассказываем, что нам удалось выяснить.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/11/04/ne-anafilakticheskij-shok-chto-izvestno-o-tragicheskoj-smerti-beloruski-posle-lecheniya-u-stomatologa">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>Инсайд: ZTE готовится к продаже своего мобильного бизнеса</title>
       <link>https://4pda.to/2026/11/04/462947/insajd_zte_gotovitsya_k_prodazhe_svoego_mobilnogo_biznesa/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/04/462947/insajd_zte_gotovitsya_k_prodazhe_svoego_mobilnogo_biznesa/</guid>
       <pubDate>Wed, 04 Nov 2026 09:15:00 +0000</pubDate>
       <description><![CDATA[По данным СМИ, компания ZTE рассматривает крупную
 реорганизацию своего мобильного подразделения. Вендор ведёт переговоры с инвесторами о создании совместного предприятия, которому может отойти&nbsp;направление [...]]]></description>
-    </item>
-    <item>
-      <title>«Хотел выдать за самоубийство». Расследование убийства Яны Русиновой в Израиле завершено</title>
-      <link>https://people.onliner.by/go/1343362</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/04/xotel-vydat-za-samoubijstvo-rassledovanie-ubijstva-yany-rusinovoj-v-izraile-zaversheno</guid>
-      <pubDate>Wed, 04 Nov 2026 09:13:14 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/04/xotel-vydat-za-samoubijstvo-rassledovanie-ubijstva-yany-rusinovoj-v-izraile-zaversheno"><img alt="" src="https://content.onliner.by/news/thumbnail/306d8f6250ab4ca7911d860a1465662f.jpg" /></a></p><p>Полиция Хайфы завершила расследование убийства <a href="https://people.onliner.by/2026/10/02/zhizn-yany-prevratilas-v-ad-v-izraile-ubita-beloruska-v-prestuplenii-podozrevayut-ee-muzha" target="_blank">белоруски Янины Русиновой</a> и передала материалы дела в прокуратуру. Подозреваемым остается ее 28-летний муж Али Масвада. По версии следствия, женщина хотела расстаться с ним и уехать с новорожденным сыном к матери в Беларусь. Израильская активистка Лили Бен-Ами <a href="https://www.facebook.com/share/p/1995zbamqe/" target="_blank">рассказала</a> в Facebook о судьбе ребенка. Кроме того, стали известны новые подробности расследования. Собрали все, что известно на данный момент.
-</p><p><a href="https://people.onliner.by/2026/11/04/xotel-vydat-za-samoubijstvo-rassledovanie-ubijstva-yany-rusinovoj-v-izraile-zaversheno">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>«Импорт электромобилей снизился на 21%». Что происходит с рынком новых авто?</title>
-      <link>https://auto.onliner.by/go/1273369</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/04/po-sravneniyu-s-proshlym-godom-obem-prodazh-uvelichilsya-na-49-kak-sejchas-prodayutsya-novye-avto</guid>
-      <pubDate>Wed, 04 Nov 2026 09:11:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/04/po-sravneniyu-s-proshlym-godom-obem-prodazh-uvelichilsya-na-49-kak-sejchas-prodayutsya-novye-avto"><img alt="" src="https://content.onliner.by/news/thumbnail/be5e9b6a83687ad14003dc1285280f28.jpg" /></a></p><p>Рынок новых легковых автомобилей Беларуси стабилизировался в октябре, об этом сообщают в автомобильной ассоциации. По итогам октября было реализовано почти 10 тыс. машин, что на 2% больше, чем в сентябре.
-</p><p><a href="https://auto.onliner.by/2026/11/04/po-sravneniyu-s-proshlym-godom-obem-prodazh-uvelichilsya-na-49-kak-sejchas-prodayutsya-novye-avto">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Бургер с мясом и арахисовой пастой? В Минске открывается обновленный гастробар Middle Ground</title>
-      <link>https://realt.onliner.by/go/1140909</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/04/gastrobar-middle-ground</guid>
-      <pubDate>Wed, 04 Nov 2026 09:10:17 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/04/gastrobar-middle-ground"><img alt="" src="https://content.onliner.by/news/thumbnail/61a8ee82115b4174ad84e6b5e92bf233.jpg" /></a></p><p>Завтра в Минске открывается гастробар Middle Ground. Если название кажется вам знакомым, то вы не ошиблись: около 7 лет подряд это заведение <a href="https://realt.onliner.by/2019/07/04/bar-middle-ground" target="_blank">работало</a> на улице Октябрьской, однако в начале года закрылось. Все это время команда работала над реализацией нового формата в новом месте, но с прежним названием. Теперь Middle Ground — это не просто бар, а гастробар, не скромный по площади, а просторный. Что еще изменилось? </p><p><a href="https://realt.onliner.by/2026/11/04/gastrobar-middle-ground">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>280-герцевый игровой монитор Lenovo LOQ 25-10 оценили всего в $90</title>
@@ -370,55 +379,11 @@
 призванных сделать игровой процесс [...]]]></description>
     </item>
     <item>
-      <title>Ученые создали виртуальную Землю, на которой никогда не было жизни</title>
-      <link>https://tech.onliner.by/go/800229</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/04/zemlya-na-kotoroj-nikto-ne-zhivet-zachem-uchenye-sozdali-ee-virtualnuyu-kopiyu</guid>
-      <pubDate>Wed, 04 Nov 2026 08:48:28 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/04/zemlya-na-kotoroj-nikto-ne-zhivet-zachem-uchenye-sozdali-ee-virtualnuyu-kopiyu"><img alt="" src="https://content.onliner.by/news/thumbnail/e917830ed15fb84f6ec9af74e8472bde.jpg" /></a></p><p>Исследователи из Вашингтонского университета (США) разработали сложную виртуальную модель безжизненной Земли, а затем адаптировали ее для изучения других миров. Зачем? Так ученые, как ни парадоксально на первый взгляд, стремятся отыскать паттерны, которые помогут в поисках жизни на других планетах. Подробнее об этом со ссылкой на работу <a href="https://phys.org/news/2026-11-scientists-earth-simulation-life-planets.html" target="_blank">пишут</a> в Phys.
-</p><p><a href="https://tech.onliner.by/2026/11/04/zemlya-na-kotoroj-nikto-ne-zhivet-zachem-uchenye-sozdali-ee-virtualnuyu-kopiyu">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>На этот раз без отделки. В Depo стартуют продажи в новом доме (про цены вы и сами все знаете)</title>
-      <link>https://realt.onliner.by/go/1140972</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/04/ni-v-depo-prodazhi-v-novom-dome</guid>
-      <pubDate>Wed, 04 Nov 2026 08:31:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/04/ni-v-depo-prodazhi-v-novom-dome"><img alt="" src="https://content.onliner.by/news/thumbnail/48bc0d75f41a3a9772193dfecc7c95f9.jpg" /></a></p><p>К концу 2026 года жилой комплекс Depo превратился в уже вполне оформившийся квартал с собственной светящейся в темноте неоновой вывеской на кровле. Что сказать: проект продолжает развиваться и предлагать всем желающим (и имеющим такую возможность) квартиры. На этой неделе застройщик открывает продажи в первой секции дома Rotax 2.
-</p><p><a href="https://realt.onliner.by/2026/11/04/ni-v-depo-prodazhi-v-novom-dome">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Золотовалютные резервы Беларуси продолжают снижаться. Сколько там в хранилищах?</title>
-      <link>https://money.onliner.by/go/353464</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/04/zolotovalyutnye-rezervy-belarusi-prodolzhayut-snizhatsya-skolko-tam-v-xranilishhax</guid>
-      <pubDate>Wed, 04 Nov 2026 08:06:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/04/zolotovalyutnye-rezervy-belarusi-prodolzhayut-snizhatsya-skolko-tam-v-xranilishhax"><img alt="" src="https://content.onliner.by/news/thumbnail/3f110c685ff29c3a0791cc249e2fb69e.jpg" /></a></p><p>За октябрь золотовалютные резервы Беларуси уменьшились на $376,5 млн и на 1 ноября составили $14,257 млрд. Это и монетарное золото, и специальные права заимствования, и резервные активы в иностранной валюте, и другие активы.
-</p><p><a href="https://money.onliner.by/2026/11/04/zolotovalyutnye-rezervy-belarusi-prodolzhayut-snizhatsya-skolko-tam-v-xranilishhax">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Лось выбежал на дорогу — маршрутка выехала на встречную, задела грузовик и перевернулась</title>
-      <link>https://auto.onliner.by/go/1273360</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/04/los-vybezhal-na-dorogu</guid>
-      <pubDate>Wed, 04 Nov 2026 08:02:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/04/los-vybezhal-na-dorogu"><img alt="" src="https://content.onliner.by/news/thumbnail/ca8c862aacc3267cf905cb66a2f90163.jpg" /></a></p><p>Вчера вечером на трассе Орша — Дубровно, рядом с деревней Луговцы, 33-летний водитель маршрутного такси, чтобы не столкнуться с лосем, который внезапно выбежал на проезжую часть, выехал на полосу встречного движения.</p><p><a href="https://auto.onliner.by/2026/11/04/los-vybezhal-na-dorogu">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>Разумный выбор геймера: iQOO Neo12 глазами зарубежных СМИ</title>
       <link>https://4pda.to/2026/11/04/462929/razumnyj_vybor_gejmera_iqoo_neo12_glazami_zarubezhnykh_smi/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/04/462929/razumnyj_vybor_gejmera_iqoo_neo12_glazami_zarubezhnykh_smi/</guid>
       <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
       <description><![CDATA[Сегодня производители смартфонов уделяют больше внимания любителям мобильных игр, а флагманские решения внедряют в доступные модели. Вот и iQOO Neo12 создан как альтернатива iQOO 16. Выясняем на основе [...]]]></description>
-    </item>
-    <item>
-      <title>Гомельчанка делала уборку в квартире и нашла боевой револьвер 1926 года</title>
-      <link>https://people.onliner.by/go/1343337</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/04/nashla-boevoj-revolver</guid>
-      <pubDate>Wed, 04 Nov 2026 07:30:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/04/nashla-boevoj-revolver"><img alt="" src="https://content.onliner.by/news/thumbnail/de042e70626106a7339314cea04de051.jpg" /></a></p><p><p dir="ltr">Жительница Гомеля во время уборки квартиры обнаружила на антресоли в коридоре револьвер. Оружие нашлось среди старых вещей, принадлежавших ее покойному супругу.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/11/04/nashla-boevoj-revolver">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Xiaomi выпустила бюджетный дверной замок с защитой от разрядки</title>
@@ -541,65 +506,12 @@ AUO разрабатывает [...]]]></description>
       <description><![CDATA[Специалисты iFixit разобрали новый Surface Laptop Ultra на базе платформы NVIDIA RTX Spark, чтобы оценить заявления Microsoft о&nbsp;ремонтопригодности устройства. Сама компания опубликовала подробную [...]]]></description>
     </item>
     <item>
-      <title>Каждый год рекорд: Apple отчиталась о продажах новых iPhone</title>
-      <link>https://4pda.to/2026/11/03/462919/kazhdyj_god_rekord_apple_otchitalas_o_prodazhakh_novykh_iphone/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462919/kazhdyj_god_rekord_apple_otchitalas_o_prodazhakh_novykh_iphone/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:05:00 +0000</pubDate>
-      <description><![CDATA[Apple отчиталась о результатах четвёртого квартала 2026 финансового года. Несмотря на повышение цен, отсутствие базовой модели и ограниченную доступность складного iPhone Duo, компания установила новый [...]]]></description>
-    </item>
-    <item>
-      <title>Для Frostpunk 2 анонсировали новое дополнение The Surge</title>
-      <link>https://4pda.to/2026/11/03/462925/dlya_frostpunk_2_anonsirovali_novoe_dopolnenie_the_surge/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462925/dlya_frostpunk_2_anonsirovali_novoe_dopolnenie_the_surge/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:40:00 +0000</pubDate>
-      <description><![CDATA[Жителям Frostpunk 2 и без того приходилось несладко, но скоро у них появится возможность обратить суровую погоду себе на пользу. Разработчики анонсировали новое сюжетное дополнение, в котором борьба за [...]]]></description>
-    </item>
-    <item>
-      <title>TECNO объявила победителей международного конкурса Shot On CAMON 2026</title>
-      <link>https://4pda.to/2026/11/03/462917/tecno_obyavila_pobeditelej_mezhdunarodnogo_konkursa_shot_on_camon_2026/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462917/tecno_obyavila_pobeditelej_mezhdunarodnogo_konkursa_shot_on_camon_2026/</guid>
-      <pubDate>Tue, 03 Nov 2026 13:15:52 +0000</pubDate>
-      <description><![CDATA[TECNO подвела итоги третьего
-международного фотоконкурса Shot On CAMON. В этом году на него прислали свыше
-13 000 работ из более 40 стран, а общий призовой фонд составил $38&nbsp;000.
-Конкурс проходил [...]]]></description>
-    </item>
-    <item>
-      <title>Видеокарты NVIDIA RTX снова подорожают</title>
-      <link>https://4pda.to/2026/11/03/462921/videokarty_nvidia_rtx_snova_podorozhayut/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462921/videokarty_nvidia_rtx_snova_podorozhayut/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:40:00 +0000</pubDate>
-      <description><![CDATA[В ноябре производители видеокарт NVIDIA GeForce RTX 50 начнут очередное повышение цен. По данным китайских источников, изменения затронут всю линейку, а сильнее всего подорожают старшие модели. Причины [...]]]></description>
-    </item>
-    <item>
       <title>One Open-Source Repo to Replace Adobe, Microsoft, and Salesforce</title>
       <link>https://feed.itsfoss.com/link/24361/17514438/puter-everything</link>
       <guid isPermaLink="false">6ae5f1b31b851a000184153d</guid>
       <pubDate>Tue, 03 Nov 2026 12:31:49 +0000</pubDate>
       <description><![CDATA[Everything from Puter]]></description>
       <category>First Look</category>
-    </item>
-    <item>
-      <title>Шашлыки, рыбалка и разбитые дороги. Российский симулятор «Заря» нашёл издателя</title>
-      <link>https://4pda.to/2026/11/03/462923/shashlyki_rybalka_i_razbitye_dorogi_rossijskij_simulyator_zarya_nashyol_izdatelya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462923/shashlyki_rybalka_i_razbitye_dorogi_rossijskij_simulyator_zarya_nashyol_izdatelya/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:10:24 +0000</pubDate>
-      <description><![CDATA[Пока одни разработчики отправляют игроков покорять далёкие планеты, другие предлагают вернуться в родную деревню. Создатели необычного симулятора «Заря» готовят целое приключение с поездками по сельским [...]]]></description>
-    </item>
-    <item>
-      <title>Минтранс готовит серьёзные ограничения для самокатчиков и курьеров-велосипедистов</title>
-      <link>https://4pda.to/2026/11/03/462916/mintrans_gotovit_seryoznye_ogranicheniya_dlya_samokatchikov_i_kurerov_velosipedistov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462916/mintrans_gotovit_seryoznye_ogranicheniya_dlya_samokatchikov_i_kurerov_velosipedistov/</guid>
-      <pubDate>Tue, 03 Nov 2026 11:55:00 +0000</pubDate>
-      <description><![CDATA[Минтранс России подготовил масштабные поправки к ПДД, которые затронут владельцев электросамокатов, электровелосипедов и другого транспорта. Проект в ближайшее время планируют вынести на общественное обсуждение. [...]]]></description>
-    </item>
-    <item>
-      <title>Honor X5e s с экраном на задней панели появился в российских магазинах</title>
-      <link>https://4pda.to/2026/11/03/462912/honor_x5e_s_s_ekranom_na_zadnej_paneli_poyavilsya_v_rossijskikh_magazinakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/03/462912/honor_x5e_s_s_ekranom_na_zadnej_paneli_poyavilsya_v_rossijskikh_magazinakh/</guid>
-      <pubDate>Tue, 03 Nov 2026 11:35:06 +0000</pubDate>
-      <description><![CDATA[На полках российских магазинов появился Honor X5e s — новый смартфон с отдельным экраном на задней панели, большим основным дисплеем и аккумулятором на 6000 мАч.
-По словам компании, дополнительный 2-дюймовый [...]]]></description>
     </item>
     <item>
       <title>Schools in Six German States Can Now Opt For a Nextcloud-Based Open Source Cloud Solution</title>
