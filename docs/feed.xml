@@ -5,9 +5,16 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Thu, 05 Nov 2026 23:18:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:22:24 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>Нейросеть OpenAI обнаружила почти тысячу опасных уязвимостей в ядре Linux</title>
+      <link>https://4pda.to/2026/11/06/462994/nejroset_openai_obnaruzhila_pochti_tysyachu_opasnykh_uyazvimostej_v_yadre_linux/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/06/462994/nejroset_openai_obnaruzhila_pochti_tysyachu_opasnykh_uyazvimostej_v_yadre_linux/</guid>
+      <pubDate>Fri, 06 Nov 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[OpenAI поручила своей новейшей экспериментальной ИИ-модели Cyber провести аудит безопасности ядра Linux. Результаты оказались впечатляющими: нейросеть смогла не только обнаружить сотни опасных ошибок, [...]]]></description>
+    </item>
     <item>
       <title>FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff</title>
       <link>https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45</link>
@@ -31,6 +38,78 @@
       <pubDate>Tue, 03 Nov 2026 14:06:00 +0000</pubDate>
       <description><![CDATA[linux distros for apple macs]]></description>
       <category>List 📋</category>
+    </item>
+    <item>
+      <title>«Это нужно показывать в автошколах». В такие ДТП попадают аккуратные, но наивные (видео)</title>
+      <link>https://auto.onliner.by/go/1273495</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/06/eto-nuzhno-pokazyvat</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/06/eto-nuzhno-pokazyvat"><img alt="" src="https://content.onliner.by/news/thumbnail/4b0cee83661894d2062a1404ae20569f.jpg" /></a></p><p>Наша читательница Антонина в сентябре попала в ДТП в Светлогорске. Она поворачивала налево и столкнулась с автомобилем, который ехал в прямом встречном направлении и которому по ПДД должна была уступить. Типичная ситуация из учебника, которая, впрочем, скрывает столько нюансов, что заслуживает подробного разбора с Юрием Красновым, преподавателем и инструктором по вождению.
+</p><p><a href="https://auto.onliner.by/2026/11/06/eto-nuzhno-pokazyvat">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Девять человек погибли, самолет исчез в воронке. Что произошло во Флориде с Learjet 60? (видео)</title>
+      <link>https://tech.onliner.by/go/800387</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/06/katastrofa-learjet-60</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/06/katastrofa-learjet-60"><img alt="" src="https://content.onliner.by/news/thumbnail/366f728414692ec945eba312c6c44424.jpg" /></a></p><p>В США в штате Флорида неподалеку от резиденции Дональда Трампа Мар-а-Лаго 1 ноября 2026 года произошла авиакатастрофа: разбился бизнес-джет Learjet 60, погибли все девять человек на борту самолета. Инцидент быстро разлетелся по СМИ в том числе благодаря видеозаписи самого крушения, а также последствий на земле. Они вызвали уйму вопросов, а «диванные авиаэксперты», как их называют эксперты реальные, бросились сочинять разные теории заговора. Но что могло произойти на самом деле?
+</p><p><a href="https://tech.onliner.by/2026/11/06/katastrofa-learjet-60">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Под мостом завтра я жить не буду». Героиня реалити за месяц нашла проект на 6 тысяч рублей (видео)</title>
+      <link>https://money.onliner.by/go/353237</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/06/realiti-est-reshenie-final</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/06/realiti-est-reshenie-final"><img alt="" src="https://content.onliner.by/news/thumbnail/1710727242f544cfcd14c0e0b75cbcff.jpg" /></a></p><p><em>«Хорошо, но мало»,</em> — так наше реалити <a href="https://money.onliner.by/tag/realiti-est-reshenie" target="_blank">«Есть решение»</a> оценили эксперты и все участники. Ну, почти все: один герой до финальной встречи все-таки не дошел — тот самый Антон, который со свежим дипломом логиста уже пять месяцев ищет работу. Ни одного собеседования так и не вышло. Вторая героиня, Алеся, убеждена, что «IT — все» , но при этом умудрилась найти в этой сфере проект на 6 тыс. рублей. Третья участница, Алена, продала несуществующее зеркало за 1,5 тыс. рублей. Почему бесплатная помощь может оказаться неэффективной и что эксперты считают провалом — в финале проекта Onlíner.</p><p><a href="https://money.onliner.by/2026/11/06/realiti-est-reshenie-final">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Вторичка на первичке. Обзор готовых квартир в новых жилых комплексах Минска</title>
+      <link>https://realt.onliner.by/go/1140994</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/06/vtorichka-na-pervichke</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:12 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/06/vtorichka-na-pervichke"><img alt="" src="https://content.onliner.by/news/thumbnail/a6e49c4628513a5d1257ef78c228efa6.png" /></a></p><p>Сейчас в тренде новостройки. Молодые семьи стараются избегать уставшей вторички, ведь куда приятнее заселиться в "нулевое" жилье с современной инфраструктурой и амбициозными соседями. Именно поэтому новые жилые комплексы всегда на слуху, а за метры в них порой нужно "биться" в очередях. И это несмотря на баснословную стоимость метра. Но у новостроек есть важный минус — в них нужно делать ремонт, порой долгий и изматывающий нервы. Onlíner поискал так называемую вторичку на первичке, которая избавляет покупателя от ремонтной суеты. Спойлер: дизайны интерьеров в новых домах порой поражают воображение — настолько они выверенные и эстетичные. Во сколько же оценены квартиры формата «заезжай и живи»?</p><p><a href="https://realt.onliner.by/2026/11/06/vtorichka-na-pervichke">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Мужчина умер после падения с высоты на работе — его сестра выясняет, что произошло на самом деле</title>
+      <link>https://people.onliner.by/go/1343588</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/06/padenie-s-vysoty</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/06/padenie-s-vysoty"><img alt="" src="https://content.onliner.by/news/thumbnail/f691a82d3126e4d01496fa0fd1322c84.jpg" /></a></p><p>На днях белоруска по имени Наталья рассказала в соцсетях историю смерти своего брата. Она утверждает, что мужчина получил травму на работе, после чего его привезли на вокзал и оставили там на несколько часов одного. Уже оттуда Наталья с мужем забрали его и отвезли в больницу. Однако спасти мужчину не удалось. Сейчас сестра пытается восстановить картину того трагического дня и ждет итогов проверки от СК. В компании, где работал ее брат, говорят, что о «ситуации знают и она находится на контроле».</p><p><a href="https://people.onliner.by/2026/11/06/padenie-s-vysoty">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Razer выпустила геймерские вакуумные наушники с RGB-подсветкой и ANC</title>
+      <link>https://4pda.to/2026/11/06/463019/razer_vypustila_gejmerskie_vakuumnye_naushniki_s_rgb_podsvetkoj_i_anc/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/06/463019/razer_vypustila_gejmerskie_vakuumnye_naushniki_s_rgb_podsvetkoj_i_anc/</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 +0000</pubDate>
+      <description><![CDATA[Razer представила Hammerhead V3 Chroma — проводные игровые наушники с активным шумоподавлением и RGB-подсветкой. В этой модели компания сделала ставку на минимальную задержку звука и полное погружение [...]]]></description>
+    </item>
+    <item>
+      <title>Энтузиаст запустил игры для Nintendo Switch на Apple TV без эмулятора</title>
+      <link>https://4pda.to/2026/11/06/463018/entuziast_zapustil_igry_dlya_nintendo_switch_na_apple_tv_bez_emulyatora/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/06/463018/entuziast_zapustil_igry_dlya_nintendo_switch_na_apple_tv_bez_emulyatora/</guid>
+      <pubDate>Fri, 06 Nov 2026 04:30:00 +0000</pubDate>
+      <description><![CDATA[Apple TV обычно покупают для просмотра фильмов и сериалов, но один из владельцев приставки нашёл ей другое применение. С помощью нейросети Claude Opus 5.5&nbsp;он запустил на устройстве игры для Nintendo [...]]]></description>
+    </item>
+    <item>
+      <title>Топ флагманских смартфонов 2026 года, которые точно не разочаруют</title>
+      <link>https://tech.onliner.by/go/800479</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/06/flagmanskie-smartfony</guid>
+      <pubDate>Fri, 06 Nov 2026 04:00:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/06/flagmanskie-smartfony"><img alt="" src="https://content.onliner.by/news/thumbnail/fa644bc4f8ecee2edca86edc3225e410.jpg" /></a></p><p>Флагманские смартфоны дают максимум от того, что может предложить производитель. Ниже — подборка топовых моделей 2026-го, на которые, на наш взгляд, можно обратить внимание. Впрочем, стоит учитывать: нынешний год для индустрии, <a href="https://tech.onliner.by/2026/10/30/mirovye-prodazhi-smartfonov-na-samom-nizkom-urovne-s-2013-goda">судя</a> по отзывам аналитиков, выдается не самым простым. Как минимум из-за дорожающей памяти, вследствие чего поднимаются и финальные цены аппаратов для юзеров.
+</p><p><a href="https://tech.onliner.by/2026/11/06/flagmanskie-smartfony">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Представлены Motorola выпустила часы, считающие расход жиров и углеводов</title>
+      <link>https://4pda.to/2026/11/06/463016/predstavleny_motorola_vypustila_chasy_schitayuschie_raskhod_zhirov_i_uglevodov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/06/463016/predstavleny_motorola_vypustila_chasy_schitayuschie_raskhod_zhirov_i_uglevodov/</guid>
+      <pubDate>Fri, 06 Nov 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[Бренд Motorola выпустил новые смарт-часы Watch 2 Fit с расширенным набором функций отслеживания показателей здоровья. Благодаря технологиям Polar они умеют не только записывать тренировки, но и оценивать [...]]]></description>
     </item>
     <item>
       <title>Инсайды #3971: широкий смартфон Xiaomi, Moto One и REDMI Pad 3</title>
@@ -337,43 +416,11 @@ Xiaomi [...]]]></description>
 и получило усовершенствованную [...]]]></description>
     </item>
     <item>
-      <title>Тарелки, свечи и пледы. В Минске открылся магазин товаров для дома от известного бренда одежды</title>
-      <link>https://realt.onliner.by/go/1141389</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/05/gloria-living</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:26 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/05/gloria-living"><img alt="" src="https://content.onliner.by/news/thumbnail/519e413148fbf1011407afc92084706e.jpg" /></a></p><p>Минчане любят магазинчики с уютными товарами для дома, где можно потеряться и получить дозу дофамина. Для них появилась новая точка притяжения. В торговом центре Prizma на Партизанском проспекте, 79, заработал магазин Gloria Living. В пространстве уже представлена первая лимитированная коллекция, посвященная новогодней тематике и домашнему уюту. В нее вошли посуда, текстиль и предметы декора.</p><p><a href="https://realt.onliner.by/2026/11/05/gloria-living">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>Наушники Samsung Galaxy Buds получили функцию слухового аппарата</title>
       <link>https://4pda.to/2026/11/05/462997/naushniki_samsung_galaxy_buds_poluchili_funktsiyu_slukhovogo_apparata/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/05/462997/naushniki_samsung_galaxy_buds_poluchili_funktsiyu_slukhovogo_apparata/</guid>
       <pubDate>Thu, 05 Nov 2026 11:45:07 +0000</pubDate>
       <description><![CDATA[Samsung получила разрешение южнокорейского регулятора на использование беспроводных наушников Galaxy Buds для помощи людям с нарушениями слуха. Они смогут служить как для проверки слуха, так и выступать [...]]]></description>
-    </item>
-    <item>
-      <title>Нынешняя вспышка Эболы может стать самой масштабной за всю историю</title>
-      <link>https://tech.onliner.by/go/800469</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/05/nyneshnyaya-vspyshka-eboly-mozhet-stat-samoj-masshtabnoj-za-vsyu-istoriyu</guid>
-      <pubDate>Thu, 05 Nov 2026 11:44:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/05/nyneshnyaya-vspyshka-eboly-mozhet-stat-samoj-masshtabnoj-za-vsyu-istoriyu"><img alt="" src="https://content.onliner.by/news/thumbnail/3dd008e3f91f7b5dcc892ef1a3cc278c.jpg" /></a></p><p>Вспышка лихорадки Эбола в Демократической Республике Конго может стать самой смертоносной в истории. По данным на начало ноября, в стране зарегистрировали более 10,5 тысячи подтвержденных случаев заражения и свыше 5,1 тысячи смертей. Эпидемия уже превзошла предыдущую крупную вспышку в Конго в 2018—2020 годах, унесшую 2287 жизней. Теперь по числу погибших она уступает только эпидемии в Западной Африке в 2014—2016 годах, когда умерли более 11 тысяч человек.</p><p><a href="https://tech.onliner.by/2026/11/05/nyneshnyaya-vspyshka-eboly-mozhet-stat-samoj-masshtabnoj-za-vsyu-istoriyu">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Видео: на МКАД столкнулись три автомобиля. В больницу попали два человека  (видео)</title>
-      <link>https://auto.onliner.by/go/1273498</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/05/stolknulis-tri-avtomobilya-3</guid>
-      <pubDate>Thu, 05 Nov 2026 11:36:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/05/stolknulis-tri-avtomobilya-3"><img alt="" src="https://content.onliner.by/news/thumbnail/86e55d2d647f0aa216c430d37467681e.png" /></a></p><p>Сегодня днем в районе 53-го километра внутреннего кольца МКАД произошло столкновение трех автомобилей: Audi, Mercedes и Peugeot. Причины и обстоятельства произошедшего устанавливаются.</p><p><a href="https://auto.onliner.by/2026/11/05/stolknulis-tri-avtomobilya-3">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Нацбанк разрешил еще одному белорусскому банку проводить операции с драгметаллами</title>
-      <link>https://money.onliner.by/go/353720</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/05/nacbank-razreshil-eshhe</guid>
-      <pubDate>Thu, 05 Nov 2026 11:15:54 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/05/nacbank-razreshil-eshhe"><img alt="" src="https://content.onliner.by/news/thumbnail/5864d762bebec1d4abd275eb9bfc5a0c.jpg" /></a></p><p>В Беларуси расширили возможности «Нео Банка Азия». Теперь его клиенты смогут открывать счета в драгоценных металлах и размещать драгметаллы во вклады. Соответствующее решение принял Национальный банк.</p><p><a href="https://money.onliner.by/2026/11/05/nacbank-razreshil-eshhe">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>Дорисовались: Windows 11 можно удалённо взломать через уязвимость в Paint</title>
@@ -400,14 +447,6 @@ Xiaomi [...]]]></description>
 Новинка сохранила большую часть характеристик китайской
 версии, за исключением одной, а её цена, как водится, изменилась.
 «Глобалка» [...]]]></description>
-    </item>
-    <item>
-      <title>На Птичи перевернулась лодка с рыбаком и его 15-летним сыном</title>
-      <link>https://people.onliner.by/go/1343576</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/05/na-ptichi-perevernulas-lodka-s-rybakom-i-ego-15-letnim-synom</guid>
-      <pubDate>Thu, 05 Nov 2026 10:38:42 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/05/na-ptichi-perevernulas-lodka-s-rybakom-i-ego-15-letnim-synom"><img alt="" src="https://content.onliner.by/news/thumbnail/1257eb62dfe50dd0febd572dd909cfef.jpg" /></a></p><p>В среду, 4 ноября, в деревне Русаковичи на реке Птичь (Пуховичский район) местные жители спасли мужчину и его 15-летнего сына, которые оказались в воде. Оба получили общее переохлаждение и были госпитализированы, <a href="https://t.me/osvodrs/10308" target="_blank">сообщает</a> ОСВОД.</p><p><a href="https://people.onliner.by/2026/11/05/na-ptichi-perevernulas-lodka-s-rybakom-i-ego-15-letnim-synom">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
     </item>
     <item>
       <title>Анонсирован компактный Enough Phone с 5,3-дюймовым экраном и съёмной АКБ</title>
@@ -437,48 +476,6 @@ Xiaomi [...]]]></description>
       <guid isPermaLink="false">https://4pda.to/2026/11/05/462976/xiaomi_obnovila_umnuyu_massazhnuyu_podushku_dlya_spiny_smart_waist_massager/</guid>
       <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
       <description><![CDATA[Xiaomi представила обновлённую версию массажёр Mijia Smart Waist Massager. Модель второго поколения рассчитана на тех, кто много времени проводит сидя: она охватывает больше мышц, предлагает несколько [...]]]></description>
-    </item>
-    <item>
-      <title>MSI представила игровой QHD-монитор MAG 256QR36 с частотой 360 Гц</title>
-      <link>https://4pda.to/2026/11/05/462980/msi_predstavila_igrovoj_qhd_monitor_mag_256qr36_s_chastotoj_360_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/05/462980/msi_predstavila_igrovoj_qhd_monitor_mag_256qr36_s_chastotoj_360_gts/</guid>
-      <pubDate>Thu, 05 Nov 2026 09:30:00 +0000</pubDate>
-      <description><![CDATA[Компания MSI расширила линейку фирменных игровых мониторов моделью MAG 256QR36. Новинка ориентирована на
-киберспортсменов и любителей динамичных игр, которым важна высокая частота обновления в сочетании [...]]]></description>
-    </item>
-    <item>
-      <title>Триумф Nintendo? Оценка ремейка The Legend of Zelda: Ocarina of Time — 96 баллов из 100</title>
-      <link>https://4pda.to/2026/11/05/462987/triumf_nintendo_otsenka_remejka_the_legend_of_zelda_ocarina_of_time_96_ballov_iz_100/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/05/462987/triumf_nintendo_otsenka_remejka_the_legend_of_zelda_ocarina_of_time_96_ballov_iz_100/</guid>
-      <pubDate>Thu, 05 Nov 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Пресса опубликовала рецензии ремейка The Legend of Zelda: Ocarina of Time. Если верить журналистам, перед нами новый эталон переизданий.
-[youtube=wuFfiTEr2yc:640:360:::0]
-На основании 87 рецензий игра [...]]]></description>
-    </item>
-    <item>
-      <title>Новый генератор картинок в ChatGPT стал ещё быстрее и научился создавать GIF</title>
-      <link>https://4pda.to/2026/11/05/462978/novyj_generator_kartinok_v_chatgpt_stal_eschyo_bystree_i_nauchilsya_sozdavat_gif/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/05/462978/novyj_generator_kartinok_v_chatgpt_stal_eschyo_bystree_i_nauchilsya_sozdavat_gif/</guid>
-      <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[OpenAI обновила генератор изображений в ChatGPT до версии Images 2.6. Теперь с его помощью можно не только создавать картинки, но и «оживлять» их. Заодно компания ускорила работу нейросети и улучшила инструменты [...]]]></description>
-    </item>
-    <item>
-      <title>«Сонная» Bluetooth-колонка Sleep SK1 передаёт звук прямо через подушку</title>
-      <link>https://4pda.to/2026/11/05/462977/sonnaya_bluetooth_kolonka_sleep_sk1_peredayot_zvuk_pryamo_cherez_podushku/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/05/462977/sonnaya_bluetooth_kolonka_sleep_sk1_peredayot_zvuk_pryamo_cherez_podushku/</guid>
-      <pubDate>Thu, 05 Nov 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[Baseus представила необычную
-беспроводную колонку Sleep SK1, предназначенную для использования во время сна.
-Устройство можно положить под подушку, чтобы слушать музыку, звуки природы или сигнал будильника [...]]]></description>
-    </item>
-    <item>
-      <title>Появились 14 минут геймплея Fragmentary Order — нового шутера от автора Escape from Tarkov [ВИДЕО]</title>
-      <link>https://4pda.to/2026/11/05/462986/poyavilis_14_minut_gejmpleya_fragmentary_order_novogo_shutera_ot_avtora_escape_from_tarkov_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/05/462986/poyavilis_14_minut_gejmpleya_fragmentary_order_novogo_shutera_ot_avtora_escape_from_tarkov_video/</guid>
-      <pubDate>Thu, 05 Nov 2026 08:15:00 +0000</pubDate>
-      <description><![CDATA[Никита Буянов не стал тянуть с показом геймплея своего нового шутера Fragmentary Order. Впрочем, проект будто бы недалеко ушёл от Tarkov.
-[youtube=uh5HEaBfz2w:640:360:::0]
-Хоть окружение заменилось [...]]]></description>
     </item>
     <item>
       <title>I Got Tired of Remembering Ports for 30 Docker Apps in My Homelab. Here's How I Fixed it</title>
