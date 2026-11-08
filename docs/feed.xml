@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 08 Nov 2026 12:50:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:43:49 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,12 +17,93 @@
       <category>News</category>
     </item>
     <item>
-      <title>FOSS Weekly #26.45: Fedora 45, Immutable Ubuntu, Mint New Feature, Dual Boot Without USB and More Linux Stuff</title>
-      <link>https://feed.itsfoss.com/link/24361/17515970/foss-weekly-26-45</link>
-      <guid isPermaLink="false">6aeb0b755f3ba700015103ac</guid>
-      <pubDate>Thu, 05 Nov 2026 13:38:00 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Студент сделал клавиатуру-конструктор с настраиваемым числом клавиш</title>
+      <link>https://4pda.to/2026/11/08/462881/student_sdelal_klaviaturu_konstruktor_s_nastraivaemym_chislom_klavish/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462881/student_sdelal_klaviaturu_konstruktor_s_nastraivaemym_chislom_klavish/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:55:00 +0000</pubDate>
+      <description><![CDATA[Студент Массачусетского технологического института Натан Алспо разработал Keybytes — открытую аппаратную платформу, из которой можно собирать клавиатуры с произвольной раскладкой. Отдельные клавиши соединяются [...]]]></description>
+    </item>
+    <item>
+      <title>Микрокар Eli ZERO MX разгоняется до 80 км/ч и проезжает до 200 км на одном заряде</title>
+      <link>https://4pda.to/2026/11/08/462883/mikrokar_eli_zero_mx_razgonyaetsya_do_80_km_ch_i_proezzhaet_do_200_km_na_odnom_zaryade/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462883/mikrokar_eli_zero_mx_razgonyaetsya_do_80_km_ch_i_proezzhaet_do_200_km_na_odnom_zaryade/</guid>
+      <pubDate>Sun, 08 Nov 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Компания Eli Electric Vehicles представила на выставке EICMA 2026 в Милане обновлённую версию компактного электромобиля ZERO. Новинка получила более мощный двигатель и увеличенную максимальную скорость. [...]]]></description>
+    </item>
+    <item>
+      <title>Умное окно способно затемняться и отражать солнечное тепло</title>
+      <link>https://4pda.to/2026/11/08/462896/umnoe_okno_sposobno_zatemnyatsya_i_otrazhat_solnechnoe_teplo/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462896/umnoe_okno_sposobno_zatemnyatsya_i_otrazhat_solnechnoe_teplo/</guid>
+      <pubDate>Sun, 08 Nov 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Китая разработали стекло, способное защищать помещения от солнечного нагрева. Оно меняет прозрачность под действием электричества, отражает тепловое излучение и отводит накопившееся тепло наружу.
+Внутри [...]]]></description>
+    </item>
+    <item>
+      <title>Робота научили выращивать на себе сенсоры с помощью искусственной крови</title>
+      <link>https://4pda.to/2026/11/08/462886/robota_nauchili_vyraschivat_na_sebe_sensory_s_pomoschyu_iskusstvennoj_krovi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462886/robota_nauchili_vyraschivat_na_sebe_sensory_s_pomoschyu_iskusstvennoj_krovi/</guid>
+      <pubDate>Sun, 08 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Эстонского университета Тарту и Итальянского технологического института создали робота в форме мотылька, способного выращивать новые сенсоры. Для этого он использует искусственную кровь — жидкость, [...]]]></description>
+    </item>
+    <item>
+      <title>В Калинковичском районе машина съехала в кювет и перевернулась. Погибла женщина</title>
+      <link>https://auto.onliner.by/go/1273906</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/08/v-kalinkovichskom-rajone-mashina-sexala-v-kyuvet-i-perevernulas-pogibla-zhenshhina</guid>
+      <pubDate>Sun, 08 Nov 2026 17:05:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/08/v-kalinkovichskom-rajone-mashina-sexala-v-kyuvet-i-perevernulas-pogibla-zhenshhina"><img alt="" src="https://content.onliner.by/news/thumbnail/45d3b974435e4411aa7bd40eb0f4f058.jpg" /></a></p><p>Сегодня днем в Калинковичском районе произошла смертельная авария. Автомобиль съехал в кювет и перевернулся. В результате погибла 33-летняя пассажирка, а женщину, которая находилась за рулем, доставили в больницу.
+</p><p><a href="https://auto.onliner.by/2026/11/08/v-kalinkovichskom-rajone-mashina-sexala-v-kyuvet-i-perevernulas-pogibla-zhenshhina">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Bandit9 показала футуристичный мотоцикл (RED) 800</title>
+      <link>https://4pda.to/2026/11/08/462887/bandit9_pokazala_futuristichnyj_mototsikl_red_800/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462887/bandit9_pokazala_futuristichnyj_mototsikl_red_800/</guid>
+      <pubDate>Sun, 08 Nov 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Вьетнамская мастерская Bandit9 представила (RED) 800 — уникальный мотоцикл с двигателем Ducati и корпусом ручной работы. Вместо привычного спортивного дизайна с многочисленными обтекателями и аэродинамическими [...]]]></description>
+    </item>
+    <item>
+      <title>Aura6 имитирует съёмку с винтажных видеокамер в 4K-формате</title>
+      <link>https://4pda.to/2026/11/08/462885/aura6_imitiruet_syomku_s_vintazhnykh_videokamer_v_4k_formate/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462885/aura6_imitiruet_syomku_s_vintazhnykh_videokamer_v_4k_formate/</guid>
+      <pubDate>Sun, 08 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Португальский стартап Aura6 представил одноимённую цифровую видеокамеру, вдохновлённую популярным форматом киноплёнки Super 8. Новинка записывает видео в разрешении 4K со стилизацией под старые домашние [...]]]></description>
+    </item>
+    <item>
+      <title>Роботы-гуманоиды помогали регулировать движение на марафоне в Китае</title>
+      <link>https://4pda.to/2026/11/08/462894/roboty_gumanoidy_pomogali_regulirovat_dvizhenie_na_marafone_v_kitae/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462894/roboty_gumanoidy_pomogali_regulirovat_dvizhenie_na_marafone_v_kitae/</guid>
+      <pubDate>Sun, 08 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Во время марафона в китайском Ханчжоу работали необычные помощники полиции — гуманоидные роботы Hangxing No.2. Разработку представили местная компания DEEP Robotics и городские дорожные службы.
+Робот [...]]]></description>
+    </item>
+    <item>
+      <title>Aegis Rider выпустила AR-шлем для мотоциклистов</title>
+      <link>https://4pda.to/2026/11/08/462938/aegis_rider_vypustila_ar_shlem_dlya_mototsiklistov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462938/aegis_rider_vypustila_ar_shlem_dlya_mototsiklistov/</guid>
+      <pubDate>Sun, 08 Nov 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Швейцарская компания Aegis Rider представила мотоциклетный шлем Vision с системой дополненной реальности. Она выводит навигационные подсказки перед глазами водителя, чтобы ему не приходилось смотреть на [...]]]></description>
+    </item>
+    <item>
+      <title>Новая технология Microsoft способна менять речь и мимику людей в прямом эфире</title>
+      <link>https://4pda.to/2026/11/08/462884/novaya_tekhnologiya_microsoft_sposobna_menyat_rech_i_mimiku_lyudej_v_pryamom_efire/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462884/novaya_tekhnologiya_microsoft_sposobna_menyat_rech_i_mimiku_lyudej_v_pryamom_efire/</guid>
+      <pubDate>Sun, 08 Nov 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Microsoft подала патент на систему искусственного интеллекта, способную изменять речь и изображение человека прямо во время видеотрансляций. Технология сможет не только заменять отдельные слова, но и корректировать [...]]]></description>
+    </item>
+    <item>
+      <title>В Египте перевернулись четыре вагона поезда. Около 150 человек пострадали</title>
+      <link>https://people.onliner.by/go/1344087</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/08/v-egipte-perevernulis</guid>
+      <pubDate>Sun, 08 Nov 2026 13:15:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/08/v-egipte-perevernulis"><img alt="" src="https://content.onliner.by/news/thumbnail/dd659fa67348bfca4dd1cd2f2178cb0c.jpg" /></a></p><p>В Египте произошла крупная железнодорожная авария. В провинции Гиза четыре вагона пассажирского поезда сошли с рельсов и опрокинулись. По предварительным данным, пострадали около 150 человек, 4 человека погибли, <a href="https://www.masrawy.com/news/news_cases/details/2026/11/8/3075562/%D9%85%D8%B5%D8%AF%D8%B1-%D9%85%D8%B3%D8%A4%D9%88%D9%84-150-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D9%81%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D8%B7-%D9%88%D8%B1%D9%81%D8%B9-%D8%AD%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%AA%D8%A3%D9%87%D8%A8-%D8%A8%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA">сообщает</a> местное издание Masrawy.</p><p><a href="https://people.onliner.by/2026/11/08/v-egipte-perevernulis">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>На синтезаторе Casio CT-FS1 невозможно сыграть мимо нот</title>
+      <link>https://4pda.to/2026/11/08/462936/na_sintezatore_casio_ct_fs1_nevozmozhno_sygrat_mimo_not/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/08/462936/na_sintezatore_casio_ct_fs1_nevozmozhno_sygrat_mimo_not/</guid>
+      <pubDate>Sun, 08 Nov 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Компания Casio представила синтезатор CT-FS1 с технологией Feel Sync, призванной помочь начинающим музыкантам освоить игру на инструменте. Она анализирует загруженную песню и подстраивает доступные ноты [...]]]></description>
     </item>
     <item>
       <title>Крупный пожар в Лиде: огонь уничтожил 14 павильонов на мини-рынке</title>
@@ -94,7 +175,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>«В жизни не была на концерте хуже». Белорусы обсуждают выступление «Три дня дождя» в Минске (видео)</title>
+      <title>«Что это было?» Белорусы возмущены концертом «Три дня дождя» (видео)</title>
       <link>https://people.onliner.by/go/1344058</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/11/08/v-zhizni-ne-byla-na-koncerte</guid>
       <pubDate>Sun, 08 Nov 2026 08:46:51 +0000</pubDate>
@@ -150,7 +231,7 @@
       <category>Технологии</category>
     </item>
     <item>
-      <title>«Это не фотошоп». В этом городе построили коттеджный поселок из 1572 одинаковых вилл</title>
+      <title>Ctrl+C, Ctrl+V посреди пустыни. Каково это — жить в самом безумном пригороде Дубая</title>
       <link>https://realt.onliner.by/go/1141643</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/11/08/copypaste</guid>
       <pubDate>Sun, 08 Nov 2026 05:00:24 +0000</pubDate>
@@ -301,28 +382,6 @@
       <description><![CDATA[Segway представила на выставке EICMA новый&nbsp;электрический мотоцикл X Cruiser. Компания постаралась сделать двухколёсный транспорт безопаснее. В зависимости от версии байк может оснащаться защитным [...]]]></description>
     </item>
     <item>
-      <title>Главное за неделю: обзор iQOO Neo12, трейлер The Elder Scrolls VI, НДС на товары из-за рубежа</title>
-      <link>https://4pda.to/2026/11/07/463064/glavnoe_za_nedelyu_obzor_iqoo_neo12_trejler_the_elder_scrolls_vi_nds_na_tovary_iz_za_rubezha/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463064/glavnoe_za_nedelyu_obzor_iqoo_neo12_trejler_the_elder_scrolls_vi_nds_na_tovary_iz_za_rubezha/</guid>
-      <pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-      <description><![CDATA[Уходящая семидневка порадовала и добрыми новостями, и не очень. Из достойного внимания — обзор игрового смартфона iQOO Neo12 на основе публикаций зарубежных СМИ, тизер долгожданной шестой части The Elder [...]]]></description>
-    </item>
-    <item>
-      <title>Подводные экзоскелеты помогут дайверам тратить меньше сил и воздуха</title>
-      <link>https://4pda.to/2026/11/07/463015/podvodnye_ekzoskelety_pomogut_dajveram_tratit_menshe_sil_i_vozdukha/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463015/podvodnye_ekzoskelety_pomogut_dajveram_tratit_menshe_sil_i_vozdukha/</guid>
-      <pubDate>Sat, 07 Nov 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Китайские исследователи из Шэньчжэньского института передовых технологий Академии наук КНР создали носимые подводные экзоскелеты. Они помогают дайверам тратить меньше сил и дольше оставаться под водой.
-Дайверам [...]]]></description>
-    </item>
-    <item>
-      <title>Камера Lutra HOA A1 позволяет делать фото, не отводя взгляда от объекта съёмки</title>
-      <link>https://4pda.to/2026/11/07/463065/kamera_lutra_hoa_a1_pozvolyaet_delat_foto_ne_otvodya_vzglyada_ot_obekta_syomki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463065/kamera_lutra_hoa_a1_pozvolyaet_delat_foto_ne_otvodya_vzglyada_ot_obekta_syomki/</guid>
-      <pubDate>Sat, 07 Nov 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Южнокорейский стартап Lutra представил бренд&nbsp;Humans of Authenticity и его первую камеру HOA A1. Вместо привычного экрана у неё большая открытая рамка с объективом по центру. Благодаря такой конструкции [...]]]></description>
-    </item>
-    <item>
       <title>Пьяный водитель вез троих детей. Теперь заплатит 9000 рублей и останется без прав</title>
       <link>https://auto.onliner.by/go/1273834</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/07/pyanyj-voditel-vez-troix-detej</guid>
@@ -339,27 +398,6 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>В Австралии Sony отправили в «галерею позора» за политику PlayStation</title>
-      <link>https://4pda.to/2026/11/07/463056/v_avstralii_sony_otpravili_v_galereyu_pozora_za_politiku_playstation/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463056/v_avstralii_sony_otpravili_v_galereyu_pozora_za_politiku_playstation/</guid>
-      <pubDate>Sat, 07 Nov 2026 09:25:00 +0000</pubDate>
-      <description><![CDATA[Sony уверенно ведёт PlayStation в цифровое будущее, только вот покупатели от такого прогресса не в восторге. Австралийские защитники прав потребителей и вовсе решили наградить компанию за её старания. [...]]]></description>
-    </item>
-    <item>
-      <title>Квантовый компьютер сможет взломать банковскую защиту всего за три дня</title>
-      <link>https://4pda.to/2026/11/07/463017/kvantovyj_kompyuter_smozhet_vzlomat_bankovskuyu_zaschitu_vsego_za_tri_dnya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463017/kvantovyj_kompyuter_smozhet_vzlomat_bankovskuyu_zaschitu_vsego_za_tri_dnya/</guid>
-      <pubDate>Sat, 07 Nov 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Алгоритм шифрования RSA-2048, который защищает банковские операции, сайты и пользовательские данные, может оказаться уязвимым для квантовых компьютеров гораздо раньше, чем ожидалось. Французская компания [...]]]></description>
-    </item>
-    <item>
-      <title>Apple заработала 50% с продаж всех смартфонов в мире</title>
-      <link>https://4pda.to/2026/11/07/463066/apple_zarabotala_50_s_prodazh_vsekh_smartfonov_v_mire/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463066/apple_zarabotala_50_s_prodazh_vsekh_smartfonov_v_mire/</guid>
-      <pubDate>Sat, 07 Nov 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Мировой рынок смартфонов в третьем квартале 2026 года показал необычную динамику: поставки резко сократились, но общая выручка производителей продолжила расти. Аналитики Counterpoint Research подсчитали [...]]]></description>
-    </item>
-    <item>
       <title>Парни из Ольшан катались на Lada с открытыми дверями. Теперь у них проблемы</title>
       <link>https://auto.onliner.by/go/1273829</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/07/parni-iz-olshan-katalis-na-lada-s-otkrytymi-dveryami-teper-u-nix-problemy</guid>
@@ -374,60 +412,6 @@
       <pubDate>Sat, 07 Nov 2026 08:47:34 +0000</pubDate>
       <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/07/shuby-sumki-brendy-na-granice-proverili-mercedes-i-udivilis-soderzhimomu"><img alt="" src="https://content.onliner.by/news/thumbnail/42afa72b0d9aff2182f85f92fbbcf2e1.jpg" /></a></p><p>На границе с Литвой таможенники обнаружили в автомобиле гражданина Латвии партию новой брендовой женской одежды, обуви и сумок стоимостью более 132 тысяч рублей. Мужчина не указал эти товары в декларации, сообщает Гродненская региональная таможня.</p><p><a href="https://money.onliner.by/2026/11/07/shuby-sumki-brendy-na-granice-proverili-mercedes-i-udivilis-soderzhimomu">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
-    </item>
-    <item>
-      <title>В Могилеве 30-летний водитель такси погиб в аварии с BMW</title>
-      <link>https://auto.onliner.by/go/1273823</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/07/v-mogileve-30-letnij-voditel</guid>
-      <pubDate>Sat, 07 Nov 2026 08:32:25 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/07/v-mogileve-30-letnij-voditel"><img alt="" src="https://content.onliner.by/news/thumbnail/b3bad242d21ad513dddbe09777e4b724.jpg" /></a></p><p>В Могилеве произошла смертельная авария с участием BMW и автомобиля такси. В результате столкновения погиб 30-летний водитель такси.</p><p><a href="https://auto.onliner.by/2026/11/07/v-mogileve-30-letnij-voditel">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>«Минсктранс» не согласовал новые рейсы в Польшу и Литву. Вмешался МАРТ</title>
-      <link>https://auto.onliner.by/go/1273818</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/07/minsktrans-ne-soglasoval</guid>
-      <pubDate>Sat, 07 Nov 2026 08:29:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/07/minsktrans-ne-soglasoval"><img alt="" src="https://content.onliner.by/news/thumbnail/b6ee701e23e640608c927d94110809c7.jpg" /></a></p><p>Министерство антимонопольного регулирования и торговли (МАРТ) вынесло предупреждения «Минсктрансу» после жалоб двух частных перевозчиков. Компании хотели запустить новые автобусные рейсы из Минска в Польшу и Литву, но не смогли согласовать расписание.</p><p><a href="https://auto.onliner.by/2026/11/07/minsktrans-ne-soglasoval">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Курьер мошенников забрал себе $13 тысяч. Аферисты обиделись и сдали его милиции</title>
-      <link>https://money.onliner.by/go/354054</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/07/kurer-moshennikov-zabra</guid>
-      <pubDate>Sat, 07 Nov 2026 08:27:45 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/07/kurer-moshennikov-zabra"><img alt="" src="https://content.onliner.by/news/thumbnail/59f9d037169d5120398ce33c9e9c6d3c.jpg" /></a></p><p>В Минске вынесли приговор 20-летнему иностранцу, который работал курьером телефонных мошенников, но решил оставить полученные деньги себе. Когда его кураторы поняли, что он собирается исчезнуть с наличными, то сами сдали его милиции. Подробности истории <a href="https://minsknews.by/kurer-telefonnyh-aferistov-zabral-sebe-dengi-a-te-v-otmestku-sdali-ego-miliczii/">рассказали</a> «Минск-Новости».</p><p><a href="https://money.onliner.by/2026/11/07/kurer-moshennikov-zabra">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>RedMagic 12 Pro: возвращение короля глазами зарубежных СМИ</title>
-      <link>https://4pda.to/2026/11/07/463054/redmagic_12_pro_vozvraschenie_korolya_glazami_zarubezhnykh_smi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463054/redmagic_12_pro_vozvraschenie_korolya_glazami_zarubezhnykh_smi/</guid>
-      <pubDate>Sat, 07 Nov 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Игровые смартфоны в большинстве своём универсальны. Но RedMagic не пытается усидеть на двух стульях и прекрасно понимает потребности геймеров. Выясним, каким получился новый RedMagic 12 Pro — глобальная [...]]]></description>
-    </item>
-    <item>
-      <title>Режиссёр нового Resident Evil рассказал об использовании iPhone на съёмках</title>
-      <link>https://4pda.to/2026/11/07/463014/rezhissyor_novogo_resident_evil_rasskazal_ob_ispolzovanii_iphone_na_syomkakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463014/rezhissyor_novogo_resident_evil_rasskazal_ob_ispolzovanii_iphone_na_syomkakh/</guid>
-      <pubDate>Sat, 07 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Режиссёр новой экранизации Resident Evil Зак Креггер рассказал, как использует iPhone при&nbsp;производстве фильмов. И нет, он не использует смартфон  непосредственно для&nbsp;съёмки сцен, как можно было [...]]]></description>
-    </item>
-    <item>
-      <title>AgiBot испытала гуманоидных роботов в круглосуточном магазине</title>
-      <link>https://4pda.to/2026/11/07/462940/agibot_ispytala_gumanoidnykh_robotov_v_kruglosutochnom_magazine/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/462940/agibot_ispytala_gumanoidnykh_robotov_v_kruglosutochnom_magazine/</guid>
-      <pubDate>Sat, 07 Nov 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания AgiBot провела необычный эксперимент. Шесть гуманоидных роботов G2 отработали целый день в круглосуточном магазине вместе с персоналом. За их действиями даже можно было наблюдать в прямом [...]]]></description>
-    </item>
-    <item>
-      <title>Выбираем лучшую историю преображения балкона. Ее автор получит 1000 рублей</title>
-      <link>https://realt.onliner.by/go/1140361</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/07/vybiraem-luchshuyu-istoriyu</guid>
-      <pubDate>Sat, 07 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/07/vybiraem-luchshuyu-istoriyu"><img alt="" src="https://content.onliner.by/news/thumbnail/04fe17b165b30da0877ee3e63dff39d9.jpg" /></a></p><p>Конкурс «Мой балкон» подошел к концу. А это значит, пора выбрать автора лучшей истории о преображении лоджии или балкона. Именно он и получит приз от нашего партнера — торгового центра <a href="https://lenin-grad.by/sales" target="_blank">«Ленинград»</a>. Но прежде чем перейти к голосованию, давайте вспомним всех участников.
-</p><p><a href="https://realt.onliner.by/2026/11/07/vybiraem-luchshuyu-istoriyu">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>Kitty 0.50 Picks Up Where You Left Off After a System Restart</title>
