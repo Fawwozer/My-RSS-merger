@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 08 Nov 2026 21:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:52:37 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -15,6 +15,36 @@
       <pubDate>Sun, 08 Nov 2026 04:26:51 +0000</pubDate>
       <description><![CDATA[domicile desktop banner with a construction worker penguin]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>«Это придумал какой-то гений». Рейтинг еды, которую надо вернуть в магазины (обновлено)</title>
+      <link>https://money.onliner.by/go/295650</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/09/ischeznuvshaya-eda</guid>
+      <pubDate>Mon, 09 Nov 2026 04:00:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/09/ischeznuvshaya-eda"><img alt="" src="https://content.onliner.by/news/thumbnail/604b3971cb9150ade5ab6f456505aec6.jpg" /></a></p><p><p>Сегодня ностальгируем по продуктам из детства, которые когда-то исчезли с полок. Мы собрали самые частые ответы наших читателей — теперь выбирайте, что из этого стоит вернуть в первую очередь. А заодно пишите в комментариях идеи производителям — вдруг они увидят и прислушаются?<br /></p>
+</p><p><a href="https://money.onliner.by/2026/11/09/ischeznuvshaya-eda">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Mechrevo выпустила игровой ноутбук без дискретной видеокарты</title>
+      <link>https://4pda.to/2026/11/09/463072/mechrevo_vypustila_igrovoj_noutbuk_bez_diskretnoj_videokarty/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/09/463072/mechrevo_vypustila_igrovoj_noutbuk_bez_diskretnoj_videokarty/</guid>
+      <pubDate>Mon, 09 Nov 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[Mechrevo представила новый лэптоп Unbounded 15X Blizzard Gaming Edition. Модель с 240-герцевым экраном и процессором AMD Ryzen AI 9 365 позиционируется как геймерская — даже несмотря на отсутствие дискретной [...]]]></description>
+    </item>
+    <item>
+      <title>Microsoft обновила редактор реестра Windows впервые за 30 лет</title>
+      <link>https://4pda.to/2026/11/09/463070/microsoft_obnovila_redaktor_reestra_windows_vpervye_za_30_let/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/09/463070/microsoft_obnovila_redaktor_reestra_windows_vpervye_za_30_let/</guid>
+      <pubDate>Mon, 09 Nov 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[Редактор реестра Windows почти не менялся со времён Windows 95 — но Microsoft, наконец, представила его современную версию с переработанным интерфейсом. Журналисты уже опробовали новинку и выяснили, что [...]]]></description>
+    </item>
+    <item>
+      <title>В экранной клавиатуре iPhone нашли встроенную цензуру</title>
+      <link>https://4pda.to/2026/11/09/463071/v_ekrannoj_klaviature_iphone_nashli_vstroennuyu_tsenzuru/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/09/463071/v_ekrannoj_klaviature_iphone_nashli_vstroennuyu_tsenzuru/</guid>
+      <pubDate>Mon, 09 Nov 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[В iOS обнаружили скрытый список из тысяч выражений, которые система намеренно не предлагает пользователям при подсказках во время набора текста. Среди них оказались как вполне ожидаемые политические выражения, [...]]]></description>
     </item>
     <item>
       <title>Студент сделал клавиатуру-конструктор с настраиваемым числом клавиш</title>
@@ -353,33 +383,12 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Новая цинк-ионная батарея выдерживает 10 000 циклов зарядки почти без потерь</title>
-      <link>https://4pda.to/2026/11/07/463007/novaya_tsink_ionnaya_batareya_vyderzhivaet_10_000_tsiklov_zaryadki_pochti_bez_poter/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463007/novaya_tsink_ionnaya_batareya_vyderzhivaet_10_000_tsiklov_zaryadki_pochti_bez_poter/</guid>
-      <pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Китайские инженеры разработали новый тип цинк-ионной батареи, которая почти не теряет ёмкость даже после 10 000 циклов зарядки и разрядки. В лабораторных испытаниях такой аккумулятор сохранил около&nbsp;90% [...]]]></description>
-    </item>
-    <item>
-      <title>Робот Hopcopter способен прыжками перемещаться по песку, льду и камням</title>
-      <link>https://4pda.to/2026/11/07/463012/robot_hopcopter_sposoben_pryzhkami_peremeschatsya_po_pesku_ldu_i_kamnyam/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463012/robot_hopcopter_sposoben_pryzhkami_peremeschatsya_po_pesku_ldu_i_kamnyam/</guid>
-      <pubDate>Sat, 07 Nov 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Инженеры доработали Hopcopter — небольшого робота, который умеет не только летать, но и передвигаться прыжками. Новая конструкция помогает ему приземляться на сложные поверхности, такие как песок, лёд [...]]]></description>
-    </item>
-    <item>
       <title>Что случилось с чат-ботом Life? Читатели сообщают о рассылке откровенных изображений (обновлено)</title>
       <link>https://tech.onliner.by/go/800718</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/11/07/chto-sluchilos-s-chat-botom</guid>
       <pubDate>Sat, 07 Nov 2026 13:28:52 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/07/chto-sluchilos-s-chat-botom"><img alt="" src="https://content.onliner.by/news/thumbnail/c94e1053bf06aa8dc2807f91c5652c08.jpg" /></a></p><p>Некоторые пользователи чат-бота мобильного оператора Life в Telegram столкнулись с неожиданной рассылкой. Вместо привычных сообщений от оператора им пришел контент неприемлемого характера со ссылкой на сторонний телеграм-канал.</p><p><a href="https://tech.onliner.by/2026/11/07/chto-sluchilos-s-chat-botom">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>Segway показала электробайк X Cruiser с повышенной безопасностью</title>
-      <link>https://4pda.to/2026/11/07/463048/segway_pokazala_elektrobajk_x_cruiser_s_povyshennoj_bezopasnostyu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/07/463048/segway_pokazala_elektrobajk_x_cruiser_s_povyshennoj_bezopasnostyu/</guid>
-      <pubDate>Sat, 07 Nov 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Segway представила на выставке EICMA новый&nbsp;электрический мотоцикл X Cruiser. Компания постаралась сделать двухколёсный транспорт безопаснее. В зависимости от версии байк может оснащаться защитным [...]]]></description>
     </item>
     <item>
       <title>Пьяный водитель вез троих детей. Теперь заплатит 9000 рублей и останется без прав</title>
@@ -404,14 +413,6 @@
       <pubDate>Sat, 07 Nov 2026 08:48:16 +0000</pubDate>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/07/parni-iz-olshan-katalis-na-lada-s-otkrytymi-dveryami-teper-u-nix-problemy"><img alt="" src="https://content.onliner.by/news/thumbnail/d595b3cca62d0f519c13dddb79974ae4.jpg" /></a></p><p>Двое молодых жителей Столинского района решили похвастаться громкой музыкой в своих Lada, но в итоге привлекли внимание милиции. Парни ездили с открытыми дверями, демонстрируя возможности автомобильной акустики. Видео с их поездками появилось в интернете.</p><p><a href="https://auto.onliner.by/2026/11/07/parni-iz-olshan-katalis-na-lada-s-otkrytymi-dveryami-teper-u-nix-problemy">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Шубы, сумки, бренды. На границе проверили Mercedes и удивились содержимому</title>
-      <link>https://money.onliner.by/go/354061</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/07/shuby-sumki-brendy-na-granice-proverili-mercedes-i-udivilis-soderzhimomu</guid>
-      <pubDate>Sat, 07 Nov 2026 08:47:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/07/shuby-sumki-brendy-na-granice-proverili-mercedes-i-udivilis-soderzhimomu"><img alt="" src="https://content.onliner.by/news/thumbnail/42afa72b0d9aff2182f85f92fbbcf2e1.jpg" /></a></p><p>На границе с Литвой таможенники обнаружили в автомобиле гражданина Латвии партию новой брендовой женской одежды, обуви и сумок стоимостью более 132 тысяч рублей. Мужчина не указал эти товары в декларации, сообщает Гродненская региональная таможня.</p><p><a href="https://money.onliner.by/2026/11/07/shuby-sumki-brendy-na-granice-proverili-mercedes-i-udivilis-soderzhimomu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>Kitty 0.50 Picks Up Where You Left Off After a System Restart</title>
