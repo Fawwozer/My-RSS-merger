@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Tue, 10 Nov 2026 22:53:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:54:38 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,12 +17,46 @@
       <category>News</category>
     </item>
     <item>
-      <title>Hate Chromium? Well, There’s a Linux Desktop Based on it Now</title>
-      <link>https://feed.itsfoss.com/link/24361/17517784/domicile-desktop-overview</link>
-      <guid isPermaLink="false">6aec6ce1d42c060001890eeb</guid>
-      <pubDate>Sun, 08 Nov 2026 04:26:51 +0000</pubDate>
-      <description><![CDATA[domicile desktop banner with a construction worker penguin]]></description>
-      <category>News</category>
+      <title>Lavazza не на первом месте. Какой кофе оказался популярнее у белорусов?</title>
+      <link>https://people.onliner.by/go/1192643</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/11/rejting-kofe</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:28 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/11/rejting-kofe"><img alt="" src="https://content.onliner.by/news/thumbnail/95e0c92d3dfc95cb48417fb2cb821014.jpg" /></a></p><p>Пачка привычного кофе закончилась. Может, в этот раз взять что-нибудь другое? Мы посмотрели, какой кофе чаще всего заказывают в Каталоге Onlíner, и составили три рейтинга по пять позиций в каждом. Отдельно для тех, кто мелет зерна сам, заваривает готовый молотый кофе или пользуется капсульной кофеваркой.
+</p><p><a href="https://people.onliner.by/2026/11/11/rejting-kofe">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Новый внешний накопитель Seagate объединяет скорость SSD и объём HDD</title>
+      <link>https://4pda.to/2026/11/11/463174/novyj_vneshnij_nakopitel_seagate_obedinyaet_skorost_ssd_i_obyom_hdd/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/11/463174/novyj_vneshnij_nakopitel_seagate_obedinyaet_skorost_ssd_i_obyom_hdd/</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:00 +0000</pubDate>
+      <description><![CDATA[Обычно при одновременном использовании HDD и SSD приходится постоянно выбирать, куда именно сохранять игры, видео и другие файлы. Seagate придумала способ обойтись без этого: новый внешний накопитель FireCuda [...]]]></description>
+    </item>
+    <item>
+      <title>Макет iPhone Air 2 раскрыл ожидаемый дизайн смартфона</title>
+      <link>https://4pda.to/2026/11/11/463145/maket_iphone_air_2_raskryl_ozhidaemyj_dizajn_smartfona/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/11/463145/maket_iphone_air_2_raskryl_ozhidaemyj_dizajn_smartfona/</guid>
+      <pubDate>Wed, 11 Nov 2026 03:30:00 +0000</pubDate>
+      <description><![CDATA[В сети появилась фотография муляжа iPhone Air 2, предположительно используемого в роли образца для производителей чехлов. Судя по снимку, Apple
+готовит заметное обновление основной камеры смартфона, при [...]]]></description>
+    </item>
+    <item>
+      <title>FSP выпустила корпус M581 с RGB-«термометром» для железа</title>
+      <link>https://4pda.to/2026/11/11/463147/fsp_vypustila_korpus_m581_s_rgb_termometrom_dlya_zheleza/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/11/463147/fsp_vypustila_korpus_m581_s_rgb_termometrom_dlya_zheleza/</guid>
+      <pubDate>Wed, 11 Nov 2026 03:00:00 +0000</pubDate>
+      <description><![CDATA[Компания FSP представила
+компьютерный корпус M581 с панорамным дизайном и двухкамерной конструкцией.
+Новинка получила необычную систему подсветки, способную не только
+синхронизироваться с ARGB-компонентами, [...]]]></description>
+    </item>
+    <item>
+      <title>Инсайды #3974: «глобалка» Xiaomi Watch S5, OnePlus 17 и OLED-экраны Samsung</title>
+      <link>https://4pda.to/2026/11/11/463146/insajdy_3974_globalka_xiaomi_watch_s5_oneplus_17_i_oled_ekrany_samsung/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/11/463146/insajdy_3974_globalka_xiaomi_watch_s5_oneplus_17_i_oled_ekrany_samsung/</guid>
+      <pubDate>Wed, 11 Nov 2026 02:30:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Xiaomi готовит к выпуску глобальную версию Watch S5; OnePlus 17 получит необычно широкий экран; Samsung переведёт на AMOLED даже самые дешёвые смартфоны.
+Xiaomi готовит к выпуску [...]]]></description>
     </item>
     <item>
       <title>Похожие, но разные: как выбрать между OPPO Find X10 Pro Max и Find X10?</title>
@@ -360,14 +394,6 @@ Penta Tandem производства Samsung Display. Производител�
 привычную конфигурацию камер своих будущих флагманов. Новый инсайд раскрыл ожидаемые характеристики тыльных модулей сразу четырёх устройств: Galaxy S27, S27+, S27 Pro [...]]]></description>
     </item>
     <item>
-      <title>Возможно, это — главная проблема МКАД. В чем ошибаются водители? (видео)</title>
-      <link>https://auto.onliner.by/go/1274128</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/10/glavnaya-problema</guid>
-      <pubDate>Tue, 10 Nov 2026 10:11:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/10/glavnaya-problema"><img alt="" src="https://content.onliner.by/news/thumbnail/442a1be67a5c2d67d4b2076182e5e8f4.jpg" /></a></p><p>Самые сложные участки на МКАД, по мнению многих водителей, это развязки, где съезд и выезд по сути происходят через одну полосу. И там все зависит от координации водителей, от того, насколько они могут взаимодействовать друг с другом. Если могут — все едут спокойно, но если не получается — все быстро скатывается в хаос.</p><p><a href="https://auto.onliner.by/2026/11/10/glavnaya-problema">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
       <title>На часах HUAWEI появилась оплата покупок с помощью «Яндекс Пэй»</title>
       <link>https://4pda.to/2026/11/10/463151/na_chasakh_huawei_poyavilas_oplata_pokupok_s_pomoschyu_yandeks_pej/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/10/463151/na_chasakh_huawei_poyavilas_oplata_pokupok_s_pomoschyu_yandeks_pej/</guid>
@@ -418,28 +444,6 @@ Penta Tandem производства Samsung Display. Производител�
       <pubDate>Tue, 10 Nov 2026 07:40:00 +0000</pubDate>
       <description><![CDATA[Lenovo расширила линейку
 офисных мониторов, выпустив модель ThinkVision TIO24 Gen 6. Помимо неплохих базовых характеристик для работы, новинка получила возможность быстрого превращения в моноблок: для [...]]]></description>
-    </item>
-    <item>
-      <title>Флагманские Xiaomi 18 Pro и 18 Pro Max готовятся к мировому дебюту</title>
-      <link>https://4pda.to/2026/11/10/463136/flagmanskie_xiaomi_18_pro_i_18_pro_max_gotovyatsya_k_mirovomu_debyutu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/10/463136/flagmanskie_xiaomi_18_pro_i_18_pro_max_gotovyatsya_k_mirovomu_debyutu/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi объявила дату международной презентации флагманских смартфонов 18 Pro и 18 Pro Max. Компания уже показала доступные расцветки и подтвердила одну из главных особенностей серии — дополнительный экран [...]]]></description>
-    </item>
-    <item>
-      <title>Пензенский завод даст работникам выходной в день релиза GTA VI</title>
-      <link>https://4pda.to/2026/11/10/463115/penzenskij_zavod_dast_rabotnikam_vykhodnoj_v_den_reliza_gta_vi/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/10/463115/penzenskij_zavod_dast_rabotnikam_vykhodnoj_v_den_reliza_gta_vi/</guid>
-      <pubDate>Tue, 10 Nov 2026 07:15:00 +0000</pubDate>
-      <description><![CDATA[Пока одни геймеры берут отпуск ради GTA VI, другим повезло с работодателем. Пензенский завод Benza решил устроить сотрудникам выходной в день релиза игры. Правда, просто сказать начальнику, что очень хочется [...]]]></description>
-    </item>
-    <item>
-      <title>Разработчик «оживил» оригинальную версию iOS в браузере</title>
-      <link>https://4pda.to/2026/11/10/463133/razrabotchik_ozhivil_originalnuyu_versiyu_ios_v_brauzere/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/10/463133/razrabotchik_ozhivil_originalnuyu_versiyu_ios_v_brauzere/</guid>
-      <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Пользователи iOS получили шанс ненадолго вернуть себе 2007-й, а все остальные — ознакомиться с началом истории смартфонов Apple. Для этого не
-понадобится искать старый iPhone или устанавливать специальное [...]]]></description>
     </item>
     <item>
       <title>SuperPoD OS and Agentic Infra Take Center Stage at openEuler Summit 2026</title>
