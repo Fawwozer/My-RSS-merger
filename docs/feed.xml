@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 15 Nov 2026 05:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:29:28 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -25,23 +25,166 @@
       <category>Newsletter ✉️</category>
     </item>
     <item>
-      <title>Learn Linux and Cybersecurity Skills With Hands-on Interactive Labs</title>
-      <link>https://feed.itsfoss.com/link/24361/17522776/labex-review</link>
-      <guid isPermaLink="false">6ae713ce3a20a700010dfa73</guid>
-      <pubDate>Thu, 12 Nov 2026 12:33:34 +0000</pubDate>
-      <description><![CDATA[LabEx for learning Linux and Cybersecurity Skills With Hands-on Interactive Labs]]></description>
-      <category>Review</category>
+      <title>На МКАД столкнулись самосвал и легковушка</title>
+      <link>https://auto.onliner.by/go/1274960</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/na-mkad-stolknulis-samosval-i-legkovushka</guid>
+      <pubDate>Sun, 15 Nov 2026 12:59:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/na-mkad-stolknulis-samosval-i-legkovushka"><img alt="" src="https://content.onliner.by/news/thumbnail/b6db35282ae88672cef22c11dd8d4914.jpg" /></a></p><p>Сегодня днем на внутреннем кольце МКАД произошла авария с участием грузовика Shacman и легкового Volkswagen. По предварительной информации ГАИ, на 38-м километре кольцевой 24-летний водитель самосвала не соблюдал безопасную дистанцию и столкнулся с Volkswagen, за рулем которого находился 27-летний мужчина.</p><p><a href="https://auto.onliner.by/2026/11/15/na-mkad-stolknulis-samosval-i-legkovushka">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
     </item>
     <item>
-      <title>Agent Name Service is Now Part of The Linux Foundation</title>
-      <link>https://feed.itsfoss.com/link/24361/17522777/ans-joins-linux-foundation</link>
-      <guid isPermaLink="false">6af54565b0bf2e0001dbf08d</guid>
-      <pubDate>Thu, 12 Nov 2026 12:15:54 +0000</pubDate>
-      <description><![CDATA[the linux foundation and agent name service robot-themed banner]]></description>
-      <category>News</category>
+      <title>Умный горшок Fyto показывает «настроение» растения с помощью эмодзи</title>
+      <link>https://4pda.to/2026/11/15/463164/umnyj_gorshok_fyto_pokazyvaet_nastroenie_rasteniya_s_pomoschyu_emodzi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463164/umnyj_gorshok_fyto_pokazyvaet_nastroenie_rasteniya_s_pomoschyu_emodzi/</guid>
+      <pubDate>Sun, 15 Nov 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Пользователь&nbsp;Reddit под ником ShebinJoseJacob создал умный горшок Fyt&#243;, который показывает состояние растения в нём с помощью эмодзи. Небольшой экран на корпусе реагирует на данные встроенных&nbsp;датчиков [...]]]></description>
     </item>
     <item>
-      <title>Вы — не «человек с лишним весом», а мешок отборной «бульбы»! Посмотрели, как меняется Комаровка</title>
+      <title>Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually</title>
+      <link>https://feed.itsfoss.com/link/24361/17524990/ziggity-git-client</link>
+      <guid isPermaLink="false">6a95144a2f93c60001400671</guid>
+      <pubDate>Sun, 15 Nov 2026 11:31:08 +0000</pubDate>
+      <description><![CDATA[Ziggity git client]]></description>
+      <category>Terminal Tools</category>
+    </item>
+    <item>
+      <title>Под Минском пьяный водитель устроил ДТП. Оказалось, с 2,52 промилле он ехал на работу</title>
+      <link>https://auto.onliner.by/go/1274923</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/pod-minskom-pyanyj-voditel-ustroil-dtp-okazalos-s-252-promille-on-exal-na-rabotu</guid>
+      <pubDate>Sun, 15 Nov 2026 10:59:44 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/pod-minskom-pyanyj-voditel-ustroil-dtp-okazalos-s-252-promille-on-exal-na-rabotu"><img alt="" src="https://content.onliner.by/news/thumbnail/aab781a738ae9f5aedf07b6ffe1f89df.jpg" /></a></p><p>В деревне Каменная Горка Минского района, недалеко от МКАД, столкнулись Toyota и Iveco. Как выяснилось, один из водителей был сильно пьян, но это не помешало ему отправиться на работу за рулем.</p><p><a href="https://auto.onliner.by/2026/11/15/pod-minskom-pyanyj-voditel-ustroil-dtp-okazalos-s-252-promille-on-exal-na-rabotu">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Впервые в истории робот самостоятельно построил конструкцию в космосе</title>
+      <link>https://4pda.to/2026/11/15/463131/vpervye_v_istorii_robot_samostoyatelno_postroil_konstruktsiyu_v_kosmose/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463131/vpervye_v_istorii_robot_samostoyatelno_postroil_konstruktsiyu_v_kosmose/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Калифорнийского технологического института впервые показали автономное строительство конструкции в космосе. Их робот без участия космонавтов собрал часть будущей антенны на орбите. В будущем [...]]]></description>
+    </item>
+    <item>
+      <title>Электрический скутер Vespa получил новый мотор и съёмный аккумулятор</title>
+      <link>https://4pda.to/2026/11/15/463167/elektricheskij_skuter_vespa_poluchil_novyj_motor_i_syomnyj_akkumulyator/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463167/elektricheskij_skuter_vespa_poluchil_novyj_motor_i_syomnyj_akkumulyator/</guid>
+      <pubDate>Sun, 15 Nov 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Vespa представила обновлённую линейку электрических скутеров на выставке EICMA 2026 в Милане. В неё вошли Primavera Elettrica, Sprint S Elettrica и более мощная Primavera Tech Elettrica. Внешне модели [...]]]></description>
+    </item>
+    <item>
+      <title>В Китае хотят превзойти «Сферу» из Лас-Вегаса</title>
+      <link>https://4pda.to/2026/11/15/463166/v_kitae_khotyat_prevzojti_sferu_iz_las_vegasa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463166/v_kitae_khotyat_prevzojti_sferu_iz_las_vegasa/</guid>
+      <pubDate>Sun, 15 Nov 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[В китайском городе Ханчжоу представили проект гигантской LED-сферы Eye of the World. По размерам она должна превзойти знаменитую «Сферу»&nbsp;в Лас-Вегасе и стать новой площадкой для проведения концертов, [...]]]></description>
+    </item>
+    <item>
+      <title>На трассе Минск — Витебск сегодня перекроют движение в сторону столицы</title>
+      <link>https://auto.onliner.by/go/1274916</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/na-trasse-minsk-vitebsk</guid>
+      <pubDate>Sun, 15 Nov 2026 09:07:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/na-trasse-minsk-vitebsk"><img alt="" src="https://content.onliner.by/news/thumbnail/c3001d48d07058c883a961eebb0d45ed.jpg" /></a></p><p>Сегодня, 15 ноября, водителям стоит учитывать временные ограничения на трассе М3 «Минск — Витебск». На одном из участков дороги полностью перекроют движение в направлении Минска.</p><p><a href="https://auto.onliner.by/2026/11/15/na-trasse-minsk-vitebsk">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Новые роботизированные ноги максимально приближены к человеческим</title>
+      <link>https://4pda.to/2026/11/15/463134/novye_robotizirovannye_nogi_maksimalno_priblizheny_k_chelovecheskim/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463134/novye_robotizirovannye_nogi_maksimalno_priblizheny_k_chelovecheskim/</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Токийского университета разработали роботизированные ноги, в которых мышцы, сухожилия и связки заменены гибкими пластиковыми структурами. Все элементы напечатаны из одного материала, но благодаря [...]]]></description>
+    </item>
+    <item>
+      <title>3,1 промилле и семь протоколов. Мопедист получил штраф почти на 10 тысяч рублей (видео)</title>
+      <link>https://auto.onliner.by/go/1274905</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/pyanyj-mopedist-pytalsya</guid>
+      <pubDate>Sun, 15 Nov 2026 08:30:29 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/pyanyj-mopedist-pytalsya"><img alt="" src="https://content.onliner.by/news/thumbnail/214360045006c5f20559ee858b3349c9.jpg" /></a></p><p>В агрогородке Знаменка Брестского района сотрудники ГАИ задержали 49-летнего мужчину, который управлял мопедом с 3,1 промилле алкоголя в крови. Поездка закончилась семью административными протоколами и внушительным штрафом.</p><p><a href="https://auto.onliner.by/2026/11/15/pyanyj-mopedist-pytalsya">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Биткоин резко обвалился и опустился ниже $63 тысяч</title>
+      <link>https://tech.onliner.by/go/801736</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/15/bitkoin-rezko-obvalilsya-i-opustilsya-nizhe-63-tysyach</guid>
+      <pubDate>Sun, 15 Nov 2026 08:16:17 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/15/bitkoin-rezko-obvalilsya-i-opustilsya-nizhe-63-tysyach"><img alt="" src="https://content.onliner.by/news/thumbnail/28498afd32526d8cd6739d050d191d27.jpg" /></a></p><p>Ночь на 15 ноября выдалась непростой для владельцев криптовалют. Биткоин резко подешевел, в какой-то момент опустившись до $62 100. Это минимальная цена за последние три месяца.</p><p><a href="https://tech.onliner.by/2026/11/15/bitkoin-rezko-obvalilsya-i-opustilsya-nizhe-63-tysyach">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В Минске столкнулись Alfa Romeo и Belgee. Четырех человек доставили в больницу</title>
+      <link>https://auto.onliner.by/go/1274899</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/v-minske-stolknulis-alfa-romeo</guid>
+      <pubDate>Sun, 15 Nov 2026 08:13:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/v-minske-stolknulis-alfa-romeo"><img alt="" src="https://content.onliner.by/news/thumbnail/14c12e942d25d69387c18c774681c62a.jpg" /></a></p><p>Вчера, 14 ноября, вечером на улице Ангарской в Минске произошла авария, после которой четырем людям понадобилась помощь медиков.</p><p><a href="https://auto.onliner.by/2026/11/15/v-minske-stolknulis-alfa-romeo">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>SpaceX впервые поймала мегаракету Starship механической «рукой» Mechazilla</title>
+      <link>https://4pda.to/2026/11/15/463318/spacex_vpervye_pojmala_megaraketu_starship_mekhanicheskoj_rukoj_mechazilla/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463318/spacex_vpervye_pojmala_megaraketu_starship_mekhanicheskoj_rukoj_mechazilla/</guid>
+      <pubDate>Sun, 15 Nov 2026 07:53:54 +0000</pubDate>
+      <description><![CDATA[SpaceX провела 15-й испытательный полёт Starship, в ходе которого впервые удалось выполнить один из самых сложных элементов программы возвращения корабля на Землю. Вторая ступень ракеты после почти суток [...]]]></description>
+    </item>
+    <item>
+      <title>Автономность Mercedes EQS 450+ оказалась лучше заявленной</title>
+      <link>https://4pda.to/2026/11/15/463168/avtonomnost_mercedes_eqs_450_okazalas_luchshe_zayavlennoj/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463168/avtonomnost_mercedes_eqs_450_okazalas_luchshe_zayavlennoj/</guid>
+      <pubDate>Sun, 15 Nov 2026 07:45:00 +0000</pubDate>
+      <description><![CDATA[Электрокары постепенно избавляются от одного из главных недостатков — ограниченного запаса хода. Обновлённый Mercedes-Benz EQS 450+ подтвердил это в испытании издания Edmunds, где смог проехать без остановки [...]]]></description>
+    </item>
+    <item>
+      <title>Исследование: из-за каких игр геймеры ломают технику чаще всего?</title>
+      <link>https://4pda.to/2026/11/15/463310/issledovanie_iz_za_kakikh_igr_gejmery_lomayut_tekhniku_chasche_vsego/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463310/issledovanie_iz_za_kakikh_igr_gejmery_lomayut_tekhniku_chasche_vsego/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:25:00 +0000</pubDate>
+      <description><![CDATA[Проиграть матч неприятно, но ещё обиднее после этого покупать новый телевизор или геймпад: некоторые игроки настолько бурно переживают неудачи, что страдает всё вокруг. Австралийская компания Compare the [...]]]></description>
+    </item>
+    <item>
+      <title>Starship впервые успешно поймали гигантскими манипуляторами после полета в космос (видео)</title>
+      <link>https://tech.onliner.by/go/801726</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/15/starship-vpervye-uspeshno</guid>
+      <pubDate>Sun, 15 Nov 2026 06:17:54 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/15/starship-vpervye-uspeshno"><img alt="" src="https://content.onliner.by/news/thumbnail/486f6243de1c5b7e6c7f03766dc3b061.jpg" /></a></p><p>Компания SpaceX впервые смогла вернуть космический корабль Starship на стартовую площадку с помощью гигантских манипуляторов башни обслуживания. Корабль успешно захватили после 22-часового испытательного полета.</p><p><a href="https://tech.onliner.by/2026/11/15/starship-vpervye-uspeshno">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Disney разработала роботизированных парковщиков в стиле «Тачек»</title>
+      <link>https://4pda.to/2026/11/15/463170/disney_razrabotala_robotizirovannykh_parkovschikov_v_stile_tachek/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463170/disney_razrabotala_robotizirovannykh_parkovschikov_v_stile_tachek/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:15:00 +0000</pubDate>
+      <description><![CDATA[Disney тестирует роботов, которые помогают водителям ориентироваться на парковках тематических парков. Четырёхколёсные машины напоминают персонажей мультфильма «Тачки» и самостоятельно объезжают автомобили [...]]]></description>
+    </item>
+    <item>
+      <title>Найден способ в сотни раз ускорить производство систем охлаждения</title>
+      <link>https://4pda.to/2026/11/15/463157/najden_sposob_v_sotni_raz_uskorit_proizvodstvo_sistem_okhlazhdeniya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463157/najden_sposob_v_sotni_raz_uskorit_proizvodstvo_sistem_okhlazhdeniya/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Гонконгского университета науки и технологий разработали новую структуру для систем охлаждения, вдохновлённую пчелиными сотами. Она может выдержать более 100 миллионов рабочих циклов и способна&nbsp;прослужить [...]]]></description>
+    </item>
+    <item>
+      <title>Подземный город табачного короля. Под Ливерпулем нашли забытую систему тоннелей</title>
+      <link>https://realt.onliner.by/go/1143010</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/15/podzemnyj-gorod-2</guid>
+      <pubDate>Sun, 15 Nov 2026 05:00:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/15/podzemnyj-gorod-2"><img alt="" src="https://content.onliner.by/news/thumbnail/b8295af2aa3c97e37f05f9efbc347e71.jpg" /></a></p><p>Образ Ливерпуля во внешнем мире обычно связан с горячими футбольными страстями и ностальгией по The Beatles, но главный локальный секрет этого английского порта находится под землей. Под неприметным жилым кварталом Эдж-Хилл с его внешне скучными кирпичными фасадами, автобусными остановками и припаркованными подержанными хетчбэками прячется многоуровневый секретный лабиринт. На глубине до восемнадцати метров обыденность заканчивается и уступает место гулкому эху, сводчатым залам и каменным лестницам, уходящим в темноту нижних ярусов. Всю эту подземную систему, которую историки называют крупнейшей архитектурной причудой Британии, больше тридцати лет строили по инициативе одного человека, эксцентричного табачного магната Джозефа Уильямсона. Он нанял сотни рабочих, но не оставил ни единого чертежа комплекса и унес тайну проекта с собой в могилу. После его смерти катакомбы засыпали тоннами городского мусора, превратив инженерный феномен в байку для туристов в строительных касках.</p><p><a href="https://realt.onliner.by/2026/11/15/podzemnyj-gorod-2">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>«Шарф намотался на колесо и переломал шею». Обстоятельства страшных ДТП со знаменитостями</title>
+      <link>https://auto.onliner.by/go/1274823</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/avarii-so-znamenitostyami</guid>
+      <pubDate>Sun, 15 Nov 2026 05:00:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/avarii-so-znamenitostyami"><img alt="" src="https://content.onliner.by/news/thumbnail/7203099b1902734b49469f8cf9258b72.jpg" /></a></p><p>Всемирный день памяти ДТП отмечается ежегодно в третье воскресенье ноября. В 2026-м эта дата выпала на сегодня, 15-е число. Вспоминаем знаменитостей, погибших в громких авариях, и обстоятельства таких происшествий. Зачастую, даже когда дело в банальном человеческом факторе, вокруг смерти известных людей строят теории заговоров, конспирологические версии и легенды. Что правда, а что нет? В некоторых случаях это так и не стало известно.
+</p><p><a href="https://auto.onliner.by/2026/11/15/avarii-so-znamenitostyami">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Третий сезон ничего не исправил? Вот в чем проблема «Колец власти» (видео)</title>
+      <link>https://tech.onliner.by/go/801618</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/15/recenziya-na-serial-kolca-vlasti</guid>
+      <pubDate>Sun, 15 Nov 2026 05:00:19 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/15/recenziya-na-serial-kolca-vlasti"><img alt="" src="https://content.onliner.by/news/thumbnail/edca63760464ea0fde379d811890b5b7.jpg" /></a></p><p>«Кольца власти» от Amazon Studios можно спокойно назвать как самым спорным, так и самым дорогим шоу этого десятилетия: производство лишь первого сезона обошлось в 465 миллионов долларов. И в этом случае бюджет не гарантирует качество, и сериал по творчеству Толкина не забросал тапками только ленивый. Сейчас вышли первые четыре серии третьего сезона: мы их посмотрели и рассказываем, как создавался этот проект, за что его невзлюбили и какой получается третья глава.</p><p><a href="https://tech.onliner.by/2026/11/15/recenziya-na-serial-kolca-vlasti">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>«Раньше ходишь, было, с пакетами, а приткнуться некуда». Посмотрели, как меняется Комаровка</title>
       <link>https://money.onliner.by/go/353304</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/11/15/kak-menyaetsya-komarovka</guid>
       <pubDate>Sun, 15 Nov 2026 05:00:08 +0000</pubDate>
@@ -59,7 +202,21 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>Представительские автомобили из 2010-х. Вспоминаем самые популярные модели</title>
+      <title>Apple научила гуманоидного робота ориентироваться в незнакомых помещениях</title>
+      <link>https://4pda.to/2026/11/15/463132/apple_nauchila_gumanoidnogo_robota_orientirovatsya_v_neznakomykh_pomescheniyakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463132/apple_nauchila_gumanoidnogo_robota_orientirovatsya_v_neznakomykh_pomescheniyakh/</guid>
+      <pubDate>Sun, 15 Nov 2026 04:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи Apple представили систему управления гуманоидным роботом, которая позволяет ему самостоятельно ориентироваться в помещениях, где он раньше не бывал. В демонстрации машина получает обычные [...]]]></description>
+    </item>
+    <item>
+      <title>GTA VI сравнили с реальным Майами — разницу заметили не все [ВИДЕО]</title>
+      <link>https://4pda.to/2026/11/15/463308/gta_vi_sravnili_s_realnym_majami_raznitsu_zametili_ne_vse_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463308/gta_vi_sravnili_s_realnym_majami_raznitsu_zametili_ne_vse_video/</guid>
+      <pubDate>Sun, 15 Nov 2026 04:15:00 +0000</pubDate>
+      <description><![CDATA[До выхода GTA VI осталась всего неделя, а Rockstar уже вовсю рекламирует игру. Причём не только в интернете: на улицах Майами появились автомобили из новой GTA, которые специально подготовили для рекламной [...]]]></description>
+    </item>
+    <item>
+      <title>Когда-то стоили целое состояние. Теперь — как новый китайский кроссовер</title>
       <link>https://auto.onliner.by/go/855445</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/vybiraem-10-letnij-sedan-predstavitelskogo-klassa</guid>
       <pubDate>Sun, 15 Nov 2026 04:00:54 +0000</pubDate>
@@ -240,7 +397,7 @@
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Три человека погибли в ДТП с микроавтобусом и фурой под Минском (обновлено)</title>
+      <title>Три человека погибли в ДТП с микроавтобусом и фурой (обновлено)</title>
       <link>https://auto.onliner.by/go/1274789</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/14/v-minskoj-oblasti-stolknulis</guid>
       <pubDate>Sat, 14 Nov 2026 06:56:33 +0000</pubDate>
@@ -278,7 +435,7 @@
       <description><![CDATA[BMW провела впечатляющий тест нового электрического седана i3 50 xDrive. Автомобиль проехал маршрут Paneuropeana, который начинался на мысе Нордкап в Норвегии и заканчивался Тарифой в Испании. Это 5887 [...]]]></description>
     </item>
     <item>
-      <title>В США почти на пять часов остановили вылеты всех самолетов. Что произошло</title>
+      <title>В США почти на пять часов остановили вылеты всех самолетов. Что произошло (обновлено)</title>
       <link>https://people.onliner.by/go/1345495</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/11/14/v-ssha-pochti-na-pyat-chasov-ostanovili-vylety-vsex-samoletov-chto-proizoshlo</guid>
       <pubDate>Sat, 14 Nov 2026 06:18:10 +0000</pubDate>
@@ -292,164 +449,6 @@
       <guid isPermaLink="false">https://4pda.to/2026/11/14/463221/na_atomnom_ledokole_ural_ispytali_rossijskuyu_sputnikovuyu_svyaz/</guid>
       <pubDate>Sat, 14 Nov 2026 06:15:00 +0000</pubDate>
       <description><![CDATA[Компания «БЮРО 1440» испытала спутниковую связь нового поколения на Северном морском пути. Для проверки оборудования использовали атомный ледокол «Урал», на борту которого установили серийный терминал [...]]]></description>
-    </item>
-    <item>
-      <title>Известный сайт с дешёвыми играми переделали вайбкодингом, и это катастрофа</title>
-      <link>https://4pda.to/2026/11/14/463309/izvestnyj_sajt_s_deshyovymi_igrami_peredelali_vajbkodingom_i_eto_katastrofa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463309/izvestnyj_sajt_s_deshyovymi_igrami_peredelali_vajbkodingom_i_eto_katastrofa/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:05:00 +0000</pubDate>
-      <description><![CDATA[Humble Bundle, известный своими дешёвыми наборами игр и благотворительными распродажами, решил обновить сайт. Но вместо удобного магазина пользователи получили кучу проблем, в том числе с безопасностью [...]]]></description>
-    </item>
-    <item>
-      <title>Тонкая, круглая или почти механическая? Проверили ножничные клавиатуры Keychron</title>
-      <link>https://tech.onliner.by/go/801576</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/14/obzor-nozhichnih-keychron</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/14/obzor-nozhichnih-keychron"><img alt="" src="https://content.onliner.by/news/thumbnail/815b4b7f264ee8a2ac9e4e8f4076f728.jpg" /></a></p><p>Тонкий корпус, короткий ход клавиш и беспроводное подключение — за это ножничные клавиатуры и любят выбирать для работы. Особенно если привыкли печатать на ноутбуке и хочется похожих ощущений за отдельной клавиатурой. У Keychron нашлось сразу пять моделей стоимостью до 150 рублей, причем некоторые из них выглядят и ощущаются скорее как механические. Мы попробовали все пять: сравнили удобство набора, послушали, как звучат клавиши, и выбрали фаворита.
-</p><p><a href="https://tech.onliner.by/2026/11/14/obzor-nozhichnih-keychron">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Ford рассказала, как автомобильные аккумуляторы деградируют со временем</title>
-      <link>https://4pda.to/2026/11/14/463165/ford_rasskazala_kak_avtomobilnye_akkumulyatory_degradiruyut_so_vremenem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463165/ford_rasskazala_kak_avtomobilnye_akkumulyatory_degradiruyut_so_vremenem/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Ford опубликовала результаты исследования состояния аккумуляторов электрокроссоверов Mustang Mach-E 2021 года. Компания изучила данные более чем 36 000 автомобилей, которые за пять лет суммарно проехали [...]]]></description>
-    </item>
-    <item>
-      <title>Историческая усадьба превратилась в уксусный завод. Место, в которое вас случайно не занесет</title>
-      <link>https://realt.onliner.by/go/1143079</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/14/istoricheskaya-usadba</guid>
-      <pubDate>Sat, 14 Nov 2026 05:00:34 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/14/istoricheskaya-usadba"><img alt="" src="https://content.onliner.by/news/thumbnail/e7069fc61182db10a05150f41a1fb31f.jpg" /></a></p><p>Любители исторических усадеб, общий сбор. Сегодня мы заглянем на… задворки сельхозпредприятия. По-другому к имению Черноцких, увы, не подобраться: какие-то склады, огромная деревянная зерносушилка (сама по себе солидный экспонат), многочисленные кирпичные постройки, и только где-то там, вдалеке, проглядывают белоснежный фасад и ярко-синий фронтон усадьбы, в которой еще сто лет назад богато жили, сытно ели и сладко спали.</p><p><a href="https://realt.onliner.by/2026/11/14/istoricheskaya-usadba">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>С гостя 360 рублей. Сходили на специальный ужин в ресторан, где готовят по рецептам Полесья</title>
-      <link>https://people.onliner.by/go/1345339</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/14/schedryj-osenniy-vecher</guid>
-      <pubDate>Sat, 14 Nov 2026 05:00:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/14/schedryj-osenniy-vecher"><img alt="" src="https://content.onliner.by/news/thumbnail/b0c68c4b5ab09612a935e7294d9fcbb2.jpg" /></a></p><p>Этим летом в Раковском дворике <a href="https://people.onliner.by/2026/06/16/belaruskaya-kuxnya-geta-ne-tolki-draniki-v-minske-otkrylos-kafe-s-receptami-iz-polesya/" target="_blank">открылся</a> ресторан «Палюшки», в котором предлагают блюда по рецептам «палескай гаспадыні» Алены Брониславовны, а также авторское прочтение белорусской кухни от шеф-повара. Оценить концепцию уже успели многие: на старте работы заведения места бронировали со скоростью света. А на этой неделе любой желающий мог попасть на «Щедрый вечер» — ужин, состоящий из специального меню с пятью курсами блюд и комментариями авторов меню, и все это за не демократичные 360 рублей с гостя. Что получилось: белорусская кухня с приставкой «премиум» или база за эксклюзивные рецепты? Сейчас расскажем.</p><p><a href="https://people.onliner.by/2026/11/14/schedryj-osenniy-vecher">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>$250 миллиардов за 36 дней. Как студенческая шутка стала коммерческим феноменом</title>
-      <link>https://money.onliner.by/go/355047</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/14/singles-day-11-11</guid>
-      <pubDate>Sat, 14 Nov 2026 05:00:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/14/singles-day-11-11"><img alt="" src="https://content.onliner.by/news/thumbnail/11f5adb90291cd228ef93d8dce6bbdd9.jpg" /></a></p><p>Каждую осень в Китае и десятках других стран проходит фестиваль распродаж 11.11, известный как День холостяков. По масштабам он давно затмил американскую «Черную пятницу»: в 2025 году оборот торговых платформ за 36 дней акции составил около $250 млрд. Правда, прежний ажиотаж постепенно утихает: маркетплейсы отказываются от агрессивного маркетинга, а покупатели все чаще считают деньги. Но у этой гигантской распродажи неожиданное происхождение: она выросла из студенческой шутки в общежитии Нанкинского университета.</p><p><a href="https://money.onliner.by/2026/11/14/singles-day-11-11">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>По «воздушному» оптоволокну передали данные со скоростью 64 Тбит/с</title>
-      <link>https://4pda.to/2026/11/14/463218/po_vozdushnomu_optovoloknu_peredali_dannye_so_skorostyu_64_tbit_s/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463218/po_vozdushnomu_optovoloknu_peredali_dannye_so_skorostyu_64_tbit_s/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Китайские исследователи испытали новый тип оптоволокна, способный заметно сократить задержку при передаче данных на большие расстояния. Вместо привычного стеклянного сердечника в нём используется микроскопический [...]]]></description>
-    </item>
-    <item>
-      <title>GTA 2 получила неофициальный ремастер с трассировкой лучей</title>
-      <link>https://4pda.to/2026/11/14/463267/gta_2_poluchila_neofitsialnyj_remaster_s_trassirovkoj_luchej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463267/gta_2_poluchila_neofitsialnyj_remaster_s_trassirovkoj_luchej/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:25:00 +0000</pubDate>
-      <description><![CDATA[GTA 2 вышла ещё в 1999 году, но даже спустя 27 лет находятся поклонники, готовые возиться со старой игрой. Один умелец&nbsp;решил основательно обновить графику, хотя сам почти ничего не понимает в программировании. [...]]]></description>
-    </item>
-    <item>
-      <title>Honda показала футуристичный концепт электробайка с полным приводом</title>
-      <link>https://4pda.to/2026/11/14/463171/honda_pokazala_futuristichnyj_kontsept_elektrobajka_s_polnym_privodom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463171/honda_pokazala_futuristichnyj_kontsept_elektrobajka_s_polnym_privodom/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:15:00 +0000</pubDate>
-      <description><![CDATA[Honda представила на выставке EICMA в Милане концептуальный электромотоцикл EV Outlier. Он демонстрирует, как японский производитель представляет развитие электрического мототранспорта после 2030 года.
-Главная [...]]]></description>
-    </item>
-    <item>
-      <title>Одни улетают в Африку, другие прилетают из Сибири. Каких птиц можно встретить в Беларуси зимой</title>
-      <link>https://people.onliner.by/go/1274021</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/14/v-morozy-pticam-nuzhna-nasha-podderzhka-rasskazyvaem-kak-ix-pravilno-kormit</guid>
-      <pubDate>Sat, 14 Nov 2026 04:00:58 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/14/v-morozy-pticam-nuzhna-nasha-podderzhka-rasskazyvaem-kak-ix-pravilno-kormit"><img alt="" src="https://content.onliner.by/news/thumbnail/0477ebf8663621b201b1583e3fa6f980.jpg" /></a></p><p>С приближением зимы в городах можно встретить птиц, которых в теплое время года мы часто не замечаем. В парках и у водоемов появляются снегири и свиристели, иногда удается увидеть сов, а порой — и совсем неожиданных гостей. Вместе с орнитологами разбираемся, кто из пернатых остается зимовать в Беларуси, а кто прилетает к нам из других мест и стоит ли помогать им с едой.</p><p><a href="https://people.onliner.by/2026/11/14/v-morozy-pticam-nuzhna-nasha-podderzhka-rasskazyvaem-kak-ix-pravilno-kormit">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Полчаса — и салон как новый? Как правильно почистить автомобиль изнутри</title>
-      <link>https://auto.onliner.by/go/1274689</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/14/kak-pochistit-salon-avto</guid>
-      <pubDate>Sat, 14 Nov 2026 04:00:05 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/14/kak-pochistit-salon-avto"><img alt="" src="https://content.onliner.by/news/thumbnail/75cc3b4f3d8afc4c541f590b49a1817c.jpg" /></a></p><p>Чтобы поддерживать чистоту в салоне, совсем необязательно постоянно обращаться к услугам детейлинга. Последний можно использовать при запущенных случаях или «катастрофах» вроде разлитой краски в салоне. Если же не доводить до чрезвычайщины, достаточно с определенной регулярностью пылесосить и проводить влажную уборку салона, что занимает около получаса. По мере необходимости придется действовать по расширенной программе, которая включает дополнительный уход за обивкой, пластиковыми панелями и мойку стекол.</p><p><a href="https://auto.onliner.by/2026/11/14/kak-pochistit-salon-avto">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>10 лайфхаков для Android-смартфона, которые могут вам понадобиться</title>
-      <link>https://tech.onliner.by/go/801052</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/14/android-lajfxaki</guid>
-      <pubDate>Sat, 14 Nov 2026 04:00:02 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/14/android-lajfxaki"><img alt="" src="https://content.onliner.by/news/thumbnail/da9543ef37b2306015393336c4300f6e.jpg" /></a></p><p>Хардкорные пользователи Android-смартфонов наверняка знают множество удобных функций операционной системы и фирменных оболочек разных производителей. Однако не все юзеры знакомы с подобными лайфхаками. Мы собрали по возможности наиболее универсальные, которые могут понадобиться в повседневной жизни и доступны в разных программных оболочках. В комментариях можете делиться своими советами.</p><p><a href="https://tech.onliner.by/2026/11/14/android-lajfxaki">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Boston Dynamics испытала Atlas на колёсах от электросамоката [ВИДЕО]</title>
-      <link>https://4pda.to/2026/11/14/463169/boston_dynamics_ispytala_atlas_na_kolyosakh_ot_elektrosamokata_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463169/boston_dynamics_ispytala_atlas_na_kolyosakh_ot_elektrosamokata_video/</guid>
-      <pubDate>Sat, 14 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Boston Dynamics установила на человекоподобного робота Atlas колёса от электросамоката вместо обычных ступней. Необычная конфигурация помогла инженерам проверить возможности приводов и обучить робота&nbsp;новым [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайды #3977: сразу шесть смартфонов Nothing, широкие OPPO и vivo, а также новый Galaxy XCover</title>
-      <link>https://4pda.to/2026/11/13/463284/insajdy_3977_srazu_shest_smartfonov_nothing_shirokie_oppo_i_vivo_a_takzhe_novyj_galaxy_xcover/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/13/463284/insajdy_3977_srazu_shest_smartfonov_nothing_shirokie_oppo_i_vivo_a_takzhe_novyj_galaxy_xcover/</guid>
-      <pubDate>Fri, 13 Nov 2026 19:30:00 +0000</pubDate>
-      <description><![CDATA[В этом выпуске Инсайдов: Nothing планирует выпускать&nbsp;около шести смартфонов за год; OPPO и vivo экспериментируют с компактным широкоформатным смартфоном; Samsung готовит к выпуску новый защищённый [...]]]></description>
-    </item>
-    <item>
-      <title>Создатели DOOM взялись за новую игру после масштабных сокращений</title>
-      <link>https://4pda.to/2026/11/13/463300/sozdateli_doom_vzyalis_za_novuyu_igru_posle_masshtabnykh_sokraschenij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/13/463300/sozdateli_doom_vzyalis_za_novuyu_igru_posle_masshtabnykh_sokraschenij/</guid>
-      <pubDate>Fri, 13 Nov 2026 18:15:00 +0000</pubDate>
-      <description><![CDATA[После DOOM: The Dark Ages студия id Software не собирается сидеть без дела. Разработчики подтвердили, что уже трудятся над следующей игрой. Причём руководить проектом вновь будет человек, отвечавший за [...]]]></description>
-    </item>
-    <item>
-      <title>Приложение Phota превращает повседневные фото в профессиональные снимки</title>
-      <link>https://4pda.to/2026/11/13/463287/prilozhenie_phota_prevraschaet_povsednevnye_foto_v_professionalnye_snimki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/13/463287/prilozhenie_phota_prevraschaet_povsednevnye_foto_v_professionalnye_snimki/</guid>
-      <pubDate>Fri, 13 Nov 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Phota Labs, выпустила одноимённое приложение, призванное избавить пользователей от необходимости вручную обрабатывать фотографии. Вместо привычных фильтров и ручной настройки пользователь получает [...]]]></description>
-    </item>
-    <item>
-      <title>Сумма впечатляет. Житель Бреста отдал мошенникам почти миллион рублей</title>
-      <link>https://money.onliner.by/go/355273</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/13/brestchanin-celyj-god</guid>
-      <pubDate>Fri, 13 Nov 2026 17:53:18 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/13/brestchanin-celyj-god"><img alt="" src="https://content.onliner.by/news/thumbnail/8a6e697e79acd82b4a1cc1fbf9464ede.jpg" /></a></p><p>66-летний житель Бреста почти год находился под влиянием мошенников и за это время лишился более 960 тысяч рублей. Причем обман раскрылся только после того, как мужчина сам обратился в Национальный банк с просьбой вернуть деньги.</p><p><a href="https://money.onliner.by/2026/11/13/brestchanin-celyj-god">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>На трассе Минск — Молодечно столкнулись три автомобиля. Один водитель погиб</title>
-      <link>https://auto.onliner.by/go/1274760</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/13/na-trasse-minsk-molodechno</guid>
-      <pubDate>Fri, 13 Nov 2026 17:08:08 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/13/na-trasse-minsk-molodechno"><img alt="" src="https://content.onliner.by/news/thumbnail/a742819cc6eca14b404262c8a3579fc7.jpg" /></a></p><p>Вечером 13 ноября в Минском районе произошло смертельное ДТП с участием двух легковых автомобилей и лесовоза. Один человек погиб.</p><p><a href="https://auto.onliner.by/2026/11/13/na-trasse-minsk-molodechno">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Форумчане 4PDA снова придумали, как включить 5G на iPhone. Вот инструкция</title>
-      <link>https://4pda.to/2026/11/13/463313/forumchane_4pda_snova_pridumali_kak_vklyuchit_5g_na_iphone_vot_instruktsiya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/13/463313/forumchane_4pda_snova_pridumali_kak_vklyuchit_5g_na_iphone_vot_instruktsiya/</guid>
-      <pubDate>Fri, 13 Nov 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[Прежний способ активации 5G на iPhone в России через скрипт CarrierSIM перестал работать: Apple закрыла уязвимость AirLift начиная с iOS 27.2 Beta 3. Однако участники форума 4PDA нашли новый метод. Программа [...]]]></description>
-    </item>
-    <item>
-      <title>MONTECH представила корпус KING 95 3D со стеклянной крышей и магнитными вентиляторами</title>
-      <link>https://4pda.to/2026/11/13/463289/montech_predstavila_korpus_king_95_3d_so_steklyannoj_kryshej_i_magnitnymi_ventilyatorami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/13/463289/montech_predstavila_korpus_king_95_3d_so_steklyannoj_kryshej_i_magnitnymi_ventilyatorami/</guid>
-      <pubDate>Fri, 13 Nov 2026 16:50:00 +0000</pubDate>
-      <description><![CDATA[К своему десятилетию MONTECH выпустила корпуса KING 95 3D и KING 95 3D PRO сразу с тремя стеклянными панелями. Старшая версия  получила сразу&nbsp;семь вентиляторов, которые соединяются между собой с помощью [...]]]></description>
-    </item>
-    <item>
-      <title>Хакинтош жив! macOS 27 можно установить на компьютеры с чипами AMD и Intel</title>
-      <link>https://4pda.to/2026/11/13/463307/khakintosh_zhiv_macos_27_mozhno_ustanovit_na_kompyutery_s_chipami_amd_i_intel/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/13/463307/khakintosh_zhiv_macos_27_mozhno_ustanovit_na_kompyutery_s_chipami_amd_i_intel/</guid>
-      <pubDate>Fri, 13 Nov 2026 16:40:00 +0000</pubDate>
-      <description><![CDATA[Эпоха Хакинтоша, когда macOS можно было запускать практически на любых компьютерах, возвращается. Разработчик Тайлер Смит представил проект Stela, который позволяет запускать ARM-версию операционной системы [...]]]></description>
     </item>
     <item>
       <title>Developer's $300 Embroidery Machine Required a Subscription, So She Built This Open Source Tool</title>
