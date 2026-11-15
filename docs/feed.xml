@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 15 Nov 2026 13:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:30:56 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -17,12 +17,87 @@
       <category>News</category>
     </item>
     <item>
-      <title>FOSS Weekly #26.46: Mint 27 Features, Kora OS, de-Googled Life, Passbolt, Package Manager and More Linux Stuff</title>
-      <link>https://feed.itsfoss.com/link/24361/17522825/foss-weekly-26-46</link>
-      <guid isPermaLink="false">6af3fa6d2aaca80001a4389e</guid>
-      <pubDate>Thu, 12 Nov 2026 13:52:53 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly #26.46]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Mercedes-Benz хочет превратить окна автомобилей в экраны</title>
+      <link>https://4pda.to/2026/11/15/463117/mercedes_benz_khochet_prevratit_okna_avtomobilej_v_ekrany/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463117/mercedes_benz_khochet_prevratit_okna_avtomobilej_v_ekrany/</guid>
+      <pubDate>Sun, 15 Nov 2026 19:55:00 +0000</pubDate>
+      <description><![CDATA[Mercedes-Benz разрабатывает технологии, которые в будущем могут превратить автомобильные окна в полноценные экраны. Компания показала сразу несколько потенциальных концептов и способов применения этой [...]]]></description>
+    </item>
+    <item>
+      <title>Новое покрытие для крыш защитит здания от перегрева</title>
+      <link>https://4pda.to/2026/11/15/463118/novoe_pokrytie_dlya_krysh_zaschitit_zdaniya_ot_peregreva/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463118/novoe_pokrytie_dlya_krysh_zaschitit_zdaniya_ot_peregreva/</guid>
+      <pubDate>Sun, 15 Nov 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Университета Южной Флориды разработали покрытие, способное охлаждать поверхности даже в жаркую погоду. Во время испытаний на открытом воздухе оно на протяжении 28 дней поддерживало температуру [...]]]></description>
+    </item>
+    <item>
+      <title>Учёные нашли способ перепрограммировать иммунные клетки прямо в организме</title>
+      <link>https://4pda.to/2026/11/15/463116/uchyonye_nashli_sposob_pereprogrammirovat_immunnye_kletki_pryamo_v_organizme/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463116/uchyonye_nashli_sposob_pereprogrammirovat_immunnye_kletki_pryamo_v_organizme/</guid>
+      <pubDate>Sun, 15 Nov 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Массачусетского технологического института разработали способ превращения иммунных клеток в борцов с раком прямо внутри организма. Пока метод успешно испытали только на мышах, но в будущем он [...]]]></description>
+    </item>
+    <item>
+      <title>BYD представила собственный аналог Rolls-Royce</title>
+      <link>https://4pda.to/2026/11/15/463119/byd_predstavila_sobstvennyj_analog_rolls_royce/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463119/byd_predstavila_sobstvennyj_analog_rolls_royce/</guid>
+      <pubDate>Sun, 15 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[BYD представила роскошный электрический лимузин Altior под брендом Yangwang. Новинка длиной около 5,6 метра будет конкурировать с Rolls-Royce Ghost и Mercedes-Maybach S-Class.&nbsp;
+[youtube=lmuRATXeiA8:640:360:::0]
+Altior [...]]]></description>
+    </item>
+    <item>
+      <title>Создан необычный леденец для медицинской диагностики</title>
+      <link>https://4pda.to/2026/11/15/463122/sozdan_neobychnyj_ledenets_dlya_meditsinskoj_diagnostiki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463122/sozdan_neobychnyj_ledenets_dlya_meditsinskoj_diagnostiki/</guid>
+      <pubDate>Sun, 15 Nov 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Университета Южной Калифорнии разработали Lollylab — прибор для медицинских анализов в форме леденца. Он собирает слюну и проверяет её состав. Разработка прежде всего нацелена на детей.
+Внутри [...]]]></description>
+    </item>
+    <item>
+      <title>С новыми батареями электромобили смогут проезжать до 2000 км</title>
+      <link>https://4pda.to/2026/11/15/463123/s_novymi_batareyami_elektromobili_smogut_proezzhat_do_2000_km/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463123/s_novymi_batareyami_elektromobili_smogut_proezzhat_do_2000_km/</guid>
+      <pubDate>Sun, 15 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания CATL исследует перспективную технологию аккумуляторов, которая в будущем может заметно увеличить дальность поездок на электромобилях. Речь идёт о литий-воздушных батареях, теоретическая [...]]]></description>
+    </item>
+    <item>
+      <title>Новый мост между Каменной Горкой и Лебяжьим почти готов. Когда по нему поедут машины?</title>
+      <link>https://auto.onliner.by/go/1274979</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/novyj-most-mezhdu-kamennoj</guid>
+      <pubDate>Sun, 15 Nov 2026 16:00:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/novyj-most-mezhdu-kamennoj"><img alt="" src="https://content.onliner.by/news/thumbnail/bc1b3a42d5f8e6fec3f65be0ca591f97.jpg" /></a></p><p>До конца года в Минске планируют открыть новый путепровод, который соединит Фрунзенский и Центральный районы. Он позволит напрямую добираться из Каменной Горки в Лебяжий, не делая больших крюков через другие улицы. Сейчас объект готов примерно на 95%, <a href="https://minsknews.by/iz-frunzenskogo-v-czentralnyj-za-neskolko-minut-dvizhenie-po-novomu-mostu-zapustyat-do-koncza-goda/">сообщают</a> «Минск-Новости».</p><p><a href="https://auto.onliner.by/2026/11/15/novyj-most-mezhdu-kamennoj">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Ему был 21 год, ей — 19. Молодая пара погибла под Старыми Дорогами (обновлено)</title>
+      <link>https://auto.onliner.by/go/1274789</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/15/v-minskoj-oblasti-stolknulis</guid>
+      <pubDate>Sun, 15 Nov 2026 15:15:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/15/v-minskoj-oblasti-stolknulis"><img alt="" src="https://content.onliner.by/news/thumbnail/09d38ea1a42adc956a39158e3a2cb0b4.jpg" /></a></p><p><p>Утром 14 ноября в Стародорожском районе произошла страшная авария: лоб в лоб столкнулись микроавтобус и грузовик Mercedes. Погибли три человека — оба водителя и 19-летняя пассажирка микроавтобуса. Позже выяснилось, что девушка и 21-летний водитель были парой, жили в Бобруйске и собирались пожениться.<br /></p>
+</p><p><a href="https://auto.onliner.by/2026/11/15/v-minskoj-oblasti-stolknulis">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Инженеры MIT разработали строительные блоки, способные менять форму</title>
+      <link>https://4pda.to/2026/11/15/463120/inzhenery_mit_razrabotali_stroitelnye_bloki_sposobnye_menyat_formu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463120/inzhenery_mit_razrabotali_stroitelnye_bloki_sposobnye_menyat_formu/</guid>
+      <pubDate>Sun, 15 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Сотрудники Массачусетского технологического института разработали необычные модульные блоки, которые можно соединять друг с другом, сгибать и менять их форму. При этом детали сохраняют электрическую связь [...]]]></description>
+    </item>
+    <item>
+      <title>Роботов научили двигаться благодаря фотосинтезу</title>
+      <link>https://4pda.to/2026/11/15/463124/robotov_nauchili_dvigatsya_blagodarya_fotosintezu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463124/robotov_nauchili_dvigatsya_blagodarya_fotosintezu/</guid>
+      <pubDate>Sun, 15 Nov 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Делфтского технического университета в Нидерландах создали мягких роботов, которые двигаются благодаря живым водорослям. Микроорганизмы покрывают поверхность гибких конструкций и используют свет [...]]]></description>
+    </item>
+    <item>
+      <title>Polestar показала концепт спорткара Formula 2030 [ФОТО]</title>
+      <link>https://4pda.to/2026/11/15/463172/polestar_pokazala_kontsept_sportkara_formula_2030_foto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/15/463172/polestar_pokazala_kontsept_sportkara_formula_2030_foto/</guid>
+      <pubDate>Sun, 15 Nov 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Polestar показала Formula 2030 — концепт четырёхдверного электрокара, призванного показать направление дизайна будущих моделей марки. На его основе разрабатываются грядущий Polestar 2 и компактный кроссовер [...]]]></description>
     </item>
     <item>
       <title>На МКАД столкнулись самосвал и легковушка</title>
@@ -238,7 +313,7 @@
       <link>https://realt.onliner.by/go/719160</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/11/15/gibel-burana</guid>
       <pubDate>Sun, 15 Nov 2026 04:00:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/15/gibel-burana"><img alt="" src="https://content.onliner.by/news/thumbnail/6e573379a636612822aa343b2ac0c9b9.jpeg" /></a></p><p>Программу «Энергия — Буран» принято считать вершиной и одновременно лебединой песней советской космонавтики, на тридцатилетнем пути которой к тому времени было немало триумфальных побед. Многоразовая транспортная система из мощнейшей в истории страны ракеты-носителя «Энергия» и орбитального корабля «Буран», способного самостоятельно вернуться на Землю, выглядела не просто вынужденным ответом на американский «Спейс Шаттл», а следующим логичным шагом в развитии отрасли. Однако первый полет «Бурана» ровно 38 лет назад, в ноябре 1988-го, оказался и последним. А спустя 13 с лишним лет корабль погиб под обрушившейся кровлей на Байконуре — так и не успев побывать в космосе еще хотя бы один раз. В этой статье вспоминаем, как взлетал «Буран» и почему его история закончилась так рано.
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/15/gibel-burana"><img alt="" src="https://content.onliner.by/news/thumbnail/6e573379a636612822aa343b2ac0c9b9.jpeg" /></a></p><p>Программу «Энергия — Буран» принято считать вершиной и одновременно лебединой песней советской космонавтики, на тридцатилетнем пути которой к тому времени было немало триумфальных побед. Многоразовая транспортная система из мощнейшей в истории страны ракеты-носителя «Энергия» и орбитального корабля «Буран», способного самостоятельно вернуться на Землю, выглядела не просто вынужденным ответом на американский «Спейс Шаттл», а следующим логичным шагом в развитии отрасли. Однако первый полет «Бурана» в ноябре 1988-го оказался и последним. А спустя 13 с лишним лет корабль погиб под обрушившейся кровлей на Байконуре — так и не успев побывать в космосе еще хотя бы один раз. В этой статье вспоминаем, как взлетал «Буран» и почему его история закончилась так рано.
 </p><p><a href="https://realt.onliner.by/2026/11/15/gibel-burana">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
     </item>
@@ -322,13 +397,6 @@
       <description><![CDATA[TCL CSOT продемонстрировала одну из самых быстрых OLED-панелей для ноутбуков. Её установили в прототип игрового Lenovo Legion, представленный на выставке DTC 2026. Экран рассчитан на соревновательные игры, [...]]]></description>
     </item>
     <item>
-      <title>Mitsubishi создала антенну для беспроводной связи из водопроводной воды</title>
-      <link>https://4pda.to/2026/11/14/463247/mitsubishi_sozdala_antennu_dlya_besprovodnoj_svyazi_iz_vodoprovodnoj_vody/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463247/mitsubishi_sozdala_antennu_dlya_besprovodnoj_svyazi_iz_vodoprovodnoj_vody/</guid>
-      <pubDate>Sat, 14 Nov 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Mitsubishi Electric разработала необычную антенну для беспроводной связи, в которой вместо металлических элементов используется обычная водопроводная вода. Прототип&nbsp;под названием Liqutenna уже прошёл [...]]]></description>
-    </item>
-    <item>
       <title>Показали почти готовую дорогу Колядичи — Гатово. Когда открытие? (видео)</title>
       <link>https://auto.onliner.by/go/1274812</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/14/pokazali-pochti-gotovuyu</guid>
@@ -343,27 +411,6 @@
       <pubDate>Sat, 14 Nov 2026 12:02:11 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/14/chat-perenositsya-v"><img alt="" src="https://content.onliner.by/news/thumbnail/7442240796a066cecc8804604d9fd89d.jpg" /></a></p><p>В групповых чатах Telegram начали появляться подозрительные сообщения с предложением перейти в новую группу. Пользователей призывают не нажимать на неизвестные ссылки и кнопки, чтобы не подвергать свои аккаунты риску.</p><p><a href="https://tech.onliner.by/2026/11/14/chat-perenositsya-v">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>Новое гибкое покрытие поможет предотвратить инфицирование ран</title>
-      <link>https://4pda.to/2026/11/14/463260/novoe_gibkoe_pokrytie_pomozhet_predotvratit_infitsirovanie_ran/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463260/novoe_gibkoe_pokrytie_pomozhet_predotvratit_infitsirovanie_ran/</guid>
-      <pubDate>Sat, 14 Nov 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Сотрудники Университета Флиндерса разработали гибкое антибактериальное покрытие, которое активируется небольшим электрическим зарядом. Одной 9-вольтовой батарейки оказалось достаточно, чтобы уничтожить [...]]]></description>
-    </item>
-    <item>
-      <title>Opera One для iPhone научился экономить до 80% мобильного трафика</title>
-      <link>https://4pda.to/2026/11/14/463315/opera_one_dlya_iphone_nauchilsya_ekonomit_do_80_mobilnogo_trafika/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463315/opera_one_dlya_iphone_nauchilsya_ekonomit_do_80_mobilnogo_trafika/</guid>
-      <pubDate>Sat, 14 Nov 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[В браузер Opera One для iOS добавили функцию Data Saver, которая сжимает содержимое веб-страниц перед отправкой на устройство. Она пригодится тем, кто пользуется ограниченным мобильным тарифом, часто путешествует [...]]]></description>
-    </item>
-    <item>
-      <title>Твоя игровая подружка: Tencent показала виртуального компаньона Eciyuan</title>
-      <link>https://4pda.to/2026/11/14/463266/tvoya_igrovaya_podruzhka_tencent_pokazala_virtualnogo_kompanona_eciyuan/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463266/tvoya_igrovaya_podruzhka_tencent_pokazala_virtualnogo_kompanona_eciyuan/</guid>
-      <pubDate>Sat, 14 Nov 2026 09:25:00 +0000</pubDate>
-      <description><![CDATA[Играть одному скучно? Tencent решила, что одиноким геймерам нужен верный ИИ-товарищ. Компания начала тестировать приложение с ИИ-персонажами, которые могут следить за матчами, подсказывать во время игры [...]]]></description>
     </item>
     <item>
       <title>В Солигорске крысы облюбовали мусоропровод многоэтажки</title>
@@ -382,73 +429,12 @@
       <category>Люди</category>
     </item>
     <item>
-      <title>48-этажный небоскрёб превратили в гигантскую электростанцию</title>
-      <link>https://4pda.to/2026/11/14/463286/48_etazhnyj_neboskryob_prevratili_v_gigantskuyu_elektrostantsiyu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463286/48_etazhnyj_neboskryob_prevratili_v_gigantskuyu_elektrostantsiyu/</guid>
-      <pubDate>Sat, 14 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[В австралийском Мельбурне завершили установку солнечных панелей на 48-этажном офисном небоскрёбе. Всего здание получило 1391 панель, интегрированную в фасад, крышу и верхнюю часть башни. Такая система [...]]]></description>
-    </item>
-    <item>
       <title>В Минске планируют отремонтировать еще 12 мостов и путепроводов. А какие построят?</title>
       <link>https://realt.onliner.by/go/1143189</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/11/14/v-minske-planiruyut</guid>
       <pubDate>Sat, 14 Nov 2026 07:00:39 +0000</pubDate>
       <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/14/v-minske-planiruyut"><img alt="" src="https://content.onliner.by/news/thumbnail/81fecbca923a44b85045bf3a7aecf556.jpg" /></a></p><p>В ближайшие годы в Минске собираются привести в порядок 12 мостов и путепроводов. Кроме того, в городе планируют построить несколько новых транспортных связок. О планах рассказали на совещании в Мингорисполкоме, <a href="https://minsknews.by/v-blizhajshie-gody-v-minske-planiruetsya-otremontirovat-12%C2%A0mostov-i-puteprovodov/">сообщает</a> агентство «Минск-Новости».</p><p><a href="https://realt.onliner.by/2026/11/14/v-minske-planiruyut">Читать далее…</a></p>]]></description>
       <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Три человека погибли в ДТП с микроавтобусом и фурой (обновлено)</title>
-      <link>https://auto.onliner.by/go/1274789</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/14/v-minskoj-oblasti-stolknulis</guid>
-      <pubDate>Sat, 14 Nov 2026 06:56:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/14/v-minskoj-oblasti-stolknulis"><img alt="" src="https://content.onliner.by/news/thumbnail/89a7fb83ae9d58c77dfc16ef45fcdc23.jpg" /></a></p><p>Утром 14 ноября в Стародорожском районе случилось смертельное ДТП. На трассе столкнулись два Mercedes — микроавтобус и грузовик. Погибли три человека, сообщили в ГАИ Минской области.</p><p><a href="https://auto.onliner.by/2026/11/14/v-minskoj-oblasti-stolknulis">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Лерчек освободили от наказания и сняли с нее судимость</title>
-      <link>https://money.onliner.by/go/355289</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/14/osuzhdennuyu-populyarnuyu</guid>
-      <pubDate>Sat, 14 Nov 2026 06:43:30 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/14/osuzhdennuyu-populyarnuyu"><img alt="" src="https://content.onliner.by/news/thumbnail/4fc2dbd61fbe05f62c42ae229c513a9a.jpg" /></a></p><p>В России помиловали известную блогершу Валерию Чекалину, более известную как Лерчек. С нее сняли судимость и освободили от назначенного судом наказания. Соответствующий указ подписал Владимир Путин, <a href="https://ria.ru/20261114/lerchek-2131506649.html">сообщает</a> «РИА Новости».</p><p><a href="https://money.onliner.by/2026/11/14/osuzhdennuyu-populyarnuyu">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Аврил Лавин впервые стала мамой в 42 года</title>
-      <link>https://people.onliner.by/go/1345500</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/14/avril-lavin-vpervye-stala-mamoj-v-42-goda</guid>
-      <pubDate>Sat, 14 Nov 2026 06:31:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/14/avril-lavin-vpervye-stala-mamoj-v-42-goda"><img alt="" src="https://content.onliner.by/news/thumbnail/e647a753a305c1cf8a4df3a2ef131c01.jpg" /></a></p><p>Канадская певица Аврил Лавин, известная по хитам Complicated, Sk8er Boi и Girlfriend, поделилась радостной новостью: в 42 года она впервые стала мамой. У артистки родилась дочь. О пополнении в семье Лавин <a href="https://www.instagram.com/p/Dfr-VopG76L/?rpxt=cnNiMm5pbWNlYjFw">рассказала</a> в соцсетях, опубликовав несколько фотографий новорожденной.</p><p><a href="https://people.onliner.by/2026/11/14/avril-lavin-vpervye-stala-mamoj-v-42-goda">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Главное за неделю: релиз глобальной HyperOS 4, сравнение OPPO Find X10 и Find X10 Pro Max, опрос о самокатчиках</title>
-      <link>https://4pda.to/2026/11/14/463312/glavnoe_za_nedelyu_reliz_globalnoj_hyperos_4_sravnenie_oppo_find_x10_i_find_x10_pro_max_opros_o_samokatchikakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463312/glavnoe_za_nedelyu_reliz_globalnoj_hyperos_4_sravnenie_oppo_find_x10_i_find_x10_pro_max_opros_o_samokatchikakh/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Эта неделя принесла с собой разноплановые новости. Нельзя обойти стороной и выход глобальной версии HyperOS 4 на основе Android 17, и появление в серии Find X10 сразу двух интересных смартфонов, и проект [...]]]></description>
-    </item>
-    <item>
-      <title>BMW i3 проехал через восемь стран и потратил на зарядку меньше трёх часов</title>
-      <link>https://4pda.to/2026/11/14/463217/bmw_i3_proekhal_cherez_vosem_stran_i_potratil_na_zaryadku_menshe_tryokh_chasov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463217/bmw_i3_proekhal_cherez_vosem_stran_i_potratil_na_zaryadku_menshe_tryokh_chasov/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[BMW провела впечатляющий тест нового электрического седана i3 50 xDrive. Автомобиль проехал маршрут Paneuropeana, который начинался на мысе Нордкап в Норвегии и заканчивался Тарифой в Испании. Это 5887 [...]]]></description>
-    </item>
-    <item>
-      <title>В США почти на пять часов остановили вылеты всех самолетов. Что произошло (обновлено)</title>
-      <link>https://people.onliner.by/go/1345495</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/14/v-ssha-pochti-na-pyat-chasov-ostanovili-vylety-vsex-samoletov-chto-proizoshlo</guid>
-      <pubDate>Sat, 14 Nov 2026 06:18:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/14/v-ssha-pochti-na-pyat-chasov-ostanovili-vylety-vsex-samoletov-chto-proizoshlo"><img alt="" src="https://content.onliner.by/news/thumbnail/9f2f7b5e526e33aa7b1419641b78ecf6.jpg" /></a></p><p>В США произошел масштабный сбой в системе управления воздушным движением. Из-за технических проблем власти почти на пять часов приостановили вылеты самолетов по всей стране. В результате тысячи пассажиров застряли в аэропортах, а авиакомпании столкнулись с массовыми задержками и отменами рейсов, <a href="https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/">сообщает</a> Reuters.
-</p><p><a href="https://people.onliner.by/2026/11/14/v-ssha-pochti-na-pyat-chasov-ostanovili-vylety-vsex-samoletov-chto-proizoshlo">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>На атомном ледоколе «Урал» испытали российскую спутниковую связь</title>
-      <link>https://4pda.to/2026/11/14/463221/na_atomnom_ledokole_ural_ispytali_rossijskuyu_sputnikovuyu_svyaz/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/14/463221/na_atomnom_ledokole_ural_ispytali_rossijskuyu_sputnikovuyu_svyaz/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Компания «БЮРО 1440» испытала спутниковую связь нового поколения на Северном морском пути. Для проверки оборудования использовали атомный ледокол «Урал», на борту которого установили серийный терминал [...]]]></description>
     </item>
     <item>
       <title>Developer's $300 Embroidery Machine Required a Subscription, So She Built This Open Source Tool</title>
