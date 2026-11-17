@@ -5,9 +5,16 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 16 Nov 2026 14:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:38:00 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>В смартфонах на Snapdragon появился терминал Linux. Что это даёт?</title>
+      <link>https://4pda.to/2026/11/16/463360/v_smartfonakh_na_snapdragon_poyavilsya_terminal_linux_chto_eto_dayot/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463360/v_smartfonakh_na_snapdragon_poyavilsya_terminal_linux_chto_eto_dayot/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:00:00 +0000</pubDate>
+      <description><![CDATA[Журналист 9to5Google подтвердил наличие штатного терминала Linux на смартфоне с чипом Qualcomm — RedMagic 12 Pro. До недавнего времени виртуальная машина Debian в Android 16 работала только на процессорах [...]]]></description>
+    </item>
     <item>
       <title>Best Black Friday Deals for Linux Users in 2026</title>
       <link>https://feed.itsfoss.com/link/24361/17525532/black-friday-linux-2026</link>
@@ -17,13 +24,119 @@
       <category>Deals</category>
     </item>
     <item>
-      <title>Purism анонсировала новый Linux-смартфон со съёмной АКБ и акцентом на приватность</title>
-      <link>https://4pda.to/2026/11/16/463328/purism_anonsirovala_novyj_linux_smartfon_so_syomnoj_akb_i_aktsentom_na_privatnost/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463328/purism_anonsirovala_novyj_linux_smartfon_so_syomnoj_akb_i_aktsentom_na_privatnost/</guid>
-      <pubDate>Mon, 16 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Purism,
-специализирующаяся на разработке программного обеспечения с открытым исходным кодом, анонсировала смартфон Librem 5 v2. Устройство работает под
-управлением Linux и имеет несколько необычных [...]]]></description>
+      <title>Опрос: планируете ли вы играть в GTA VI?</title>
+      <link>https://4pda.to/2026/11/16/463345/opros_planiruete_li_vy_igrat_v_gta_vi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463345/opros_planiruete_li_vy_igrat_v_gta_vi/</guid>
+      <pubDate>Mon, 16 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[До одного из самых громких событий в истории видеоигр остаются считаные дни. Даже совершенно далёкие от игр и поп-культуры люди не остаются в стороне релиза шестой части Grand Theft Auto. Кто-то заблаговременно [...]]]></description>
+    </item>
+    <item>
+      <title>Инсайды #3978: HMD 2320 Flip, Galaxy Claw и умные очки Apple</title>
+      <link>https://4pda.to/2026/11/16/463352/insajdy_3978_hmd_2320_flip_galaxy_claw_i_umnye_ochki_apple/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463352/insajdy_3978_hmd_2320_flip_galaxy_claw_i_umnye_ochki_apple/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: ретрораскладушка HMD 2320 Flip получит GPS и 4G; умные очки Apple обойдутся без&nbsp;AR-экрана; Samsung учит Galaxy AI самостоятельно выполнять задачи.
+Ретрораскладушка HMD [...]]]></description>
+    </item>
+    <item>
+      <title>«Алиса» умеет сама звонить и записываться на приём. Мы проверили, как это работает</title>
+      <link>https://4pda.to/2026/11/16/463359/alisa_umeet_sama_zvonit_i_zapisyvatsya_na_priyom_my_proverili_kak_eto_rabotaet/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463359/alisa_umeet_sama_zvonit_i_zapisyvatsya_na_priyom_my_proverili_kak_eto_rabotaet/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Компания «Яндекс» запустила ограниченное тестирование режима «Действуй!» для «Алисы AI». Это персональный ИИ-агент в духе ChatGPT Work, который не просто отвечает на вопросы пользователя, но и выполняет [...]]]></description>
+    </item>
+    <item>
+      <title>Смартфоны Samsung научатся вычислять калорийность еды по фото</title>
+      <link>https://4pda.to/2026/11/16/463355/smartfony_samsung_nauchatsya_vychislyat_kalorijnost_edy_po_foto/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463355/smartfony_samsung_nauchatsya_vychislyat_kalorijnost_edy_po_foto/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:55:00 +0000</pubDate>
+      <description><![CDATA[Samsung готовит для своего приложения Samsung Health новый инструмент, который упростит ведение пищевого дневника. Вместо ручного поиска продуктов и ввода порций пользователям предложат просто сфотографировать [...]]]></description>
+    </item>
+    <item>
+      <title>Серьезное ДТП случилось на трассе М5 в Гомельском районе (видео)</title>
+      <link>https://auto.onliner.by/go/1275125</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/16/sereznoe-dtp-proizoshlo</guid>
+      <pubDate>Mon, 16 Nov 2026 16:52:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/16/sereznoe-dtp-proizoshlo"><img alt="" src="https://content.onliner.by/news/thumbnail/a13773fd27e8aff70aa88389a81b3f0a.png" /></a></p><p>Сегодня вечером, 16 ноября, на трассе М5 в Гомельском районе произошла серьезная авария. На место прибыли сотрудники ГАИ, спасатели МЧС и несколько машин скорой помощи. Из-за ДТП движение на этом участке дороги затруднено.</p><p><a href="https://auto.onliner.by/2026/11/16/sereznoe-dtp-proizoshlo">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>ASUS выпустила компактную мышь ROG Harpe II Ace Mini с поддержкой 65 000 dpi</title>
+      <link>https://4pda.to/2026/11/16/463357/asus_vypustila_kompaktnuyu_mysh_rog_harpe_ii_ace_mini_s_podderzhkoj_65_000_dpi/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463357/asus_vypustila_kompaktnuyu_mysh_rog_harpe_ii_ace_mini_s_podderzhkoj_65_000_dpi/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:35:00 +0000</pubDate>
+      <description><![CDATA[ASUS представила новую компактную беспроводную мышь ROG Harpe II Ace Mini, созданную при участии профессиональных киберспортсменов. Одним из главных участников разработки стал Максимилиан «Demon1» Мазанов [...]]]></description>
+    </item>
+    <item>
+      <title>Исследование: в какой стране играют больше всего?</title>
+      <link>https://4pda.to/2026/11/16/463351/issledovanie_v_kakoj_strane_igrayut_bolshe_vsego/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463351/issledovanie_v_kakoj_strane_igrayut_bolshe_vsego/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Не секрет, что геймерские привычки в разных странах могут оказаться совершенно иными. Компания GWI провела исследование, чтобы выяснить, сколько принято играть в различных регионах планеты.
+Выдержку [...]]]></description>
+    </item>
+    <item>
+      <title>Microsoft’s Outage Shows the Cost of One Vendor Running Everything</title>
+      <link>https://feed.itsfoss.com/link/24361/17525729/microsofts-outage-reaction</link>
+      <guid isPermaLink="false">6afb09dbb0bf2e0001dcc418</guid>
+      <pubDate>Mon, 16 Nov 2026 16:22:00 +0000</pubDate>
+      <description><![CDATA[Microsoft outage industry reaction]]></description>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Представлен OPPO Reno17 с четырьмя камерами по 50 Мп и аккумулятором на 8000 мАч</title>
+      <link>https://4pda.to/2026/11/16/463358/predstavlen_oppo_reno17_s_chetyrmya_kamerami_po_50_mp_i_akkumulyatorom_na_8000_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463358/predstavlen_oppo_reno17_s_chetyrmya_kamerami_po_50_mp_i_akkumulyatorom_na_8000_mach/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:29:00 +0000</pubDate>
+      <description><![CDATA[OPPO представила в Китае новую серию смартфонов Reno17. Модели получили незначительные изменения, а по некоторым параметрам и вовсе стали проще в сравнении с предшественниками. Кроме того, теперь Pro-версия [...]]]></description>
+    </item>
+    <item>
+      <title>«Как будто автоподстава». Peugeot на МКАД передумал перестраиваться — чуть не случилось ДТП (видео)</title>
+      <link>https://auto.onliner.by/go/1275082</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/16/kak-budto-avtopodstava-peugeot-na-mkad-peredumal-perestraivatsya-chut-ne-sluchilos-dtp</guid>
+      <pubDate>Mon, 16 Nov 2026 15:21:34 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/16/kak-budto-avtopodstava-peugeot-na-mkad-peredumal-perestraivatsya-chut-ne-sluchilos-dtp"><img alt="" src="https://content.onliner.by/news/thumbnail/0d5a96ee659fd7b6f9c178667a7d4c05.jpg" /></a></p><p>МКАД, 07:40, поток уже начинает «плотнеть». Наш читатель едет в крайней левой полосе. Перед ним две машины — Citroen и Peugeot. Они перестраиваются в средний ряд: уступают или просто готовятся к съезду с кольцевой — неизвестно. Белый Citroen все же свой маневр заканчивает. А вот Peugeot резко передумывает — и довольно неожиданно (для автора ролика, по крайней мере, точно) возвращается снова в левую полосу.
+</p><p><a href="https://auto.onliner.by/2026/11/16/kak-budto-avtopodstava-peugeot-na-mkad-peredumal-perestraivatsya-chut-ne-sluchilos-dtp">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Роберт Паттинсон стал новым Джеймсом Бондом. Он сменит Дэниела Крейга</title>
+      <link>https://tech.onliner.by/go/801882</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/16/robert-pattinson-stal-novym</guid>
+      <pubDate>Mon, 16 Nov 2026 15:15:25 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/16/robert-pattinson-stal-novym"><img alt="" src="https://content.onliner.by/news/thumbnail/e575713c312933bf130553346d417d19.jpg" /></a></p><p>40-летний британский актер Роберт Паттинсон официально получил роль Джеймса Бонда. Он станет седьмым исполнителем роли агента 007 в знаменитой кинофраншизе, сменив Дэниела Крейга.</p><p><a href="https://tech.onliner.by/2026/11/16/robert-pattinson-stal-novym">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>JVCKenwood выпустила «деревянную» аудиосистему Victor EX-D60 с CD-плеером и Bluetooth</title>
+      <link>https://4pda.to/2026/11/16/463354/jvckenwood_vypustila_derevyannuyu_audiosistemu_victor_ex_d60_s_cd_pleerom_i_bluetooth/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463354/jvckenwood_vypustila_derevyannuyu_audiosistemu_victor_ex_d60_s_cd_pleerom_i_bluetooth/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Японская компания JVCKenwood представила новую аудиосистему Victor EX-D60. Это компактный музыкальный центр в деревянном корпусе, рассчитанный на тех, кто не хочет отказываться от классических CD-дисков [...]]]></description>
+    </item>
+    <item>
+      <title>Едешь по МКАД-2 в левом ряду, а в лоб — «Газель» и бетономешалка по встречке. Реакция ГАИ (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1270242</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/16/gazel-na-vstrechke-mkad</guid>
+      <pubDate>Mon, 16 Nov 2026 15:03:45 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/16/gazel-na-vstrechke-mkad"><img alt="" src="https://content.onliner.by/news/thumbnail/71473d1a1a759d17592a12f104098018.jpg" /></a></p><p>Представьте: вы двигаетесь со скоростью 120 км/ч по крайней левой полосе на МКАД-2, и тут прямо в лоб едут «Газель» и бетономешалка, которые каким-то образом оказались на встречке. А нашему читателю и представлять не пришлось — есть видео.</p><p><a href="https://auto.onliner.by/2026/11/16/gazel-na-vstrechke-mkad">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>КГК возбудил 17 уголовных дел из-за махинаций с лифтами</title>
+      <link>https://money.onliner.by/go/355478</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/16/za-lifty-brali-vzyatki-dengami-i-alkogolem-kgk-zavel-17-ugolovnyx-del</guid>
+      <pubDate>Mon, 16 Nov 2026 15:01:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/16/za-lifty-brali-vzyatki-dengami-i-alkogolem-kgk-zavel-17-ugolovnyx-del"><img alt="" src="https://content.onliner.by/news/thumbnail/27ec82c7987d0f2323397c5b86b76dd1.jpg" /></a></p><p>Комитет госконтроля выявил махинации при продаже и установке лифтов. В Гомеле чиновники получали взятки за выгодные контракты и закрывали глаза на качество оборудования, в Минске за приемку лифтов платили деньгами и элитным алкоголем. По этим фактам возбудили 17 уголовных дел.
+</p><p><a href="https://money.onliner.by/2026/11/16/za-lifty-brali-vzyatki-dengami-i-alkogolem-kgk-zavel-17-ugolovnyx-del">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Psychonauts 2 получила русскую озвучку от студии Mechanics VoiceOver [ВИДЕО]</title>
+      <link>https://4pda.to/2026/11/16/463346/psychonauts_2_poluchila_russkuyu_ozvuchku_ot_studii_mechanics_voiceover_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/16/463346/psychonauts_2_poluchila_russkuyu_ozvuchku_ot_studii_mechanics_voiceover_video/</guid>
+      <pubDate>Mon, 16 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Psychonauts 2 вышла ещё в 2021 году, но полноценной русской озвучки, как памятный оригинал в своё время,&nbsp;так и не получила. Исправить это решили энтузиасты — спустя несколько лет работы они наконец [...]]]></description>
     </item>
     <item>
       <title>С 27 ноября запускаются новые рейсы в Польшу: Гомель — Варшава и Гродно — Белосток</title>
@@ -138,7 +251,7 @@
       <description><![CDATA[Всемирный день шопинга уже прошёл, но впереди ещё Чёрная пятница. В честь этого POCO запускает&nbsp;большую распродажу до начала декабря. Со скидкой сейчас доступны многие популярные модели бренда, включая [...]]]></description>
     </item>
     <item>
-      <title>В магазинах появился необычный фрукт из Вьетнама. Вот сколько стоит</title>
+      <title>В магазинах начали продавать новый экзотический фрукт</title>
       <link>https://money.onliner.by/go/355435</link>
       <guid isPermaLink="false">https://money.onliner.by/2026/11/16/neobychnyj-frukt-iz-vetnama</guid>
       <pubDate>Mon, 16 Nov 2026 12:29:19 +0000</pubDate>
@@ -292,15 +405,6 @@ RGBX. Производитель обещает улучшенную цвето�
 профессиональную работу с контентом, а её главной особенностью станет 6K-дисплей [...]]]></description>
     </item>
     <item>
-      <title>В знаменитом фонтане Рима недосчитались 174 тысяч евро</title>
-      <link>https://money.onliner.by/go/355392</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/16/v-znamenitom-fontane-rima-nedoschitalis-174-tysyach-evro</guid>
-      <pubDate>Mon, 16 Nov 2026 09:53:51 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/16/v-znamenitom-fontane-rima-nedoschitalis-174-tysyach-evro"><img alt="" src="https://content.onliner.by/news/thumbnail/a93c4d3a7b4d7a487ede665d4b9837d5.jpg" /></a></p><p>В знаменитом римском фонтане Треви стало меньше денег, которые туда бросают туристы. За первые девять месяцев 2026 года туристы оставили там около 1,24 миллиона евро. Это на 174 тысячи евро меньше, чем за тот же период прошлого года.
-</p><p><a href="https://money.onliner.by/2026/11/16/v-znamenitom-fontane-rima-nedoschitalis-174-tysyach-evro">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
       <title>Новые детали Xbox Helix: запуск ПК-игр и нейронный рендеринг</title>
       <link>https://4pda.to/2026/11/16/463342/novye_detali_xbox_helix_zapusk_pk_igr_i_nejronnyj_rendering/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/16/463342/novye_detali_xbox_helix_zapusk_pk_igr_i_nejronnyj_rendering/</guid>
@@ -313,32 +417,6 @@ RGBX. Производитель обещает улучшенную цвето�
       <guid isPermaLink="false">https://4pda.to/2026/11/16/463331/shirokij_smartfon_huawei_v_dukhe_pura_x_view_pokazali_vzhivuyu_foto/</guid>
       <pubDate>Mon, 16 Nov 2026 09:30:00 +0000</pubDate>
       <description><![CDATA[HUAWEI продолжает экспериментировать с формой смартфонов. В сети появилась фотография OSTA O1 Pro — будущей новинки с широким экраном. Внешне гаджет напоминает Pura X View, но получил несколько иную конструкцию. [...]]]></description>
-    </item>
-    <item>
-      <title>Житель Бобруйска переделал сигнальные пистолеты в боевые. На него завели уголовное дело</title>
-      <link>https://people.onliner.by/go/1345597</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/16/zhitel-bobrujska-peredelal-signalnye-pistolety</guid>
-      <pubDate>Mon, 16 Nov 2026 09:21:19 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/16/zhitel-bobrujska-peredelal-signalnye-pistolety"><img alt="" src="https://content.onliner.by/news/thumbnail/c10293cceed15db18e4cf7c286b51eff.jpg" /></a></p><p><p dir="ltr">В Бобруйске задержали 53-летнего иностранца, у которого дома и в гараже обнаружили несколько единиц оружия и боеприпасы. Об этом <a href="https://t.me/pressmvd/25632" target="_blank">сообщили</a> в милиции.<br /></p>
-</p><p><a href="https://people.onliner.by/2026/11/16/zhitel-bobrujska-peredelal-signalnye-pistolety">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Грипп может стать смертельным: люди с астмой рискуют в семь раз сильнее</title>
-      <link>https://tech.onliner.by/go/801804</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/16/astma-uvelichivaet-risk-smerti-ot-grippa-v-sem-raz-uchenye-predupredili-ob-opasnosti</guid>
-      <pubDate>Mon, 16 Nov 2026 09:11:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/16/astma-uvelichivaet-risk-smerti-ot-grippa-v-sem-raz-uchenye-predupredili-ob-opasnosti"><img alt="" src="https://content.onliner.by/news/thumbnail/60dcac626401742bdf3071ecfa89e28a.jpg" /></a></p><p>Почти 12 миллионов жителей Великобритании живут с астмой или другими хроническими заболеваниями легких. Для них грипп представляет особую опасность: риск смерти после заражения более чем в семь раз выше, чем у людей вне группы риска. Инфекция <a href="https://www.thesun.co.uk/health/41014599/asthma-lung-conditions-flu-death-risk-skip-vaccine/" target="_blank">может</a> усилить кашель и одышку, спровоцировать опасный приступ астмы или обострение ХОБЛ. Среди возможных осложнений также пневмония и бронхит, которые в тяжёлых случаях приводят к госпитализации и смерти.</p><p><a href="https://tech.onliner.by/2026/11/16/astma-uvelichivaet-risk-smerti-ot-grippa-v-sem-raz-uchenye-predupredili-ob-opasnosti">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Кто платит? Кто смотрит? Сколько живут записи? На многоэтажках стали появляться новые камеры</title>
-      <link>https://realt.onliner.by/go/1143409</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/16/kto-platit-kto-smotrit-s</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/16/kto-platit-kto-smotrit-s"><img alt="" src="https://content.onliner.by/news/thumbnail/738b224b86df082cd1d05daa2175e990.jpg" /></a></p><p>Еще год назад стало известно, что в Минске собираются <a href="https://realt.onliner.by/2025/12/05/bolee-20-tysyach-kamer-ustanovyat-na-domax-za-schet-byudzheta" target="_blank">реализовать</a> масштабный проект по установке на домах камер видеонаблюдения. По задумке, порядка 20 000 «глаз» должны помогать коммунальщикам содержать все и вся в порядке. К сегодняшнему дню на фасадах многоэтажек установлено уже больше 1000 камер. В некоторых случаях видеонаблюдение «задвоилось»: рядом с техникой, которую устанавливали за счет жильцов (как допуслугу), появилась новая. Тут же возникли вопросы: кто платит, кто смотрит, сколько живут записи? Объясняем.
-</p><p><a href="https://realt.onliner.by/2026/11/16/kto-platit-kto-smotrit-s">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
     </item>
     <item>
       <title>ASUS выпустила упрощённую версию лэптопа ExpertBook A7 с OLED-экраном</title>
@@ -358,106 +436,12 @@ A7, представив новую конфигурацию модели с 14-
 О закрытии [...]]]></description>
     </item>
     <item>
-      <title>На складном iPhone Duo запустили полноценную Windows 11</title>
-      <link>https://4pda.to/2026/11/16/463329/na_skladnom_iphone_duo_zapustili_polnotsennuyu_windows_11/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463329/na_skladnom_iphone_duo_zapustili_polnotsennuyu_windows_11/</guid>
-      <pubDate>Mon, 16 Nov 2026 08:30:00 +0000</pubDate>
-      <description><![CDATA[Складной iPhone Duo превратили в карманный компьютер с Windows 11 — причём система работает прямо на смартфоне, а не транслируется с другого устройства. Результаты необычного эксперимента опубликовал сотрудник [...]]]></description>
-    </item>
-    <item>
-      <title>Умное кольцо Сбер научилось оценивать восстановление организма и предупреждать о перегрузках</title>
-      <link>https://4pda.to/2026/11/16/463339/umnoe_koltso_sber_nauchilos_otsenivat_vosstanovlenie_organizma_i_preduprezhdat_o_peregruzkakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463339/umnoe_koltso_sber_nauchilos_otsenivat_vosstanovlenie_organizma_i_preduprezhdat_o_peregruzkakh/</guid>
-      <pubDate>Mon, 16 Nov 2026 08:01:00 +0000</pubDate>
-      <description><![CDATA[SberDevices выпустила
-обновление для умного кольца Сбер, расширив возможности отслеживания состояния
-организма. Теперь устройство сравнивает показатели владельца с его
-индивидуальными нормами, помогая [...]]]></description>
-    </item>
-    <item>
       <title>Manjaro Developers Just Took the Distro Away From the Company That Owns It</title>
       <link>https://feed.itsfoss.com/link/24361/17525382/manjaro-nonprofit-registered</link>
       <guid isPermaLink="false">6afa8f05b0bf2e0001dcc12b</guid>
       <pubDate>Mon, 16 Nov 2026 07:34:20 +0000</pubDate>
       <description><![CDATA[manjaro project e.v. banner]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>HUAWEI выпустила стабильную HarmonyOS 7 для десятков гаджетов</title>
-      <link>https://4pda.to/2026/11/16/463326/huawei_vypustila_stabilnuyu_harmonyos_7_dlya_desyatkov_gadzhetov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463326/huawei_vypustila_stabilnuyu_harmonyos_7_dlya_desyatkov_gadzhetov/</guid>
-      <pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
-      <description><![CDATA[HUAWEI расширила список гаджетов, для которых стала доступна стабильная версия HarmonyOS 7. Опробовать свежую версию ОС могут владельцы ряда смартфонов, планшетов, умных часов и других умных устройств.
-Согласно [...]]]></description>
-    </item>
-    <item>
-      <title>Инсайдер показал «финальный» дизайн камер Samsung Galaxy S27 Ultra и S27 Pro</title>
-      <link>https://4pda.to/2026/11/16/463325/insajder_pokazal_finalnyj_dizajn_kamer_samsung_galaxy_s27_ultra_i_s27_pro/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463325/insajder_pokazal_finalnyj_dizajn_kamer_samsung_galaxy_s27_ultra_i_s27_pro/</guid>
-      <pubDate>Mon, 16 Nov 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Samsung, похоже, готовит серьёзные перемены в дизайне своих флагманов. Инсайдер Ice Universe опубликовал эскиз, который, по его словам, показывает окончательный вариант расположения камер Galaxy S27 Ultra [...]]]></description>
-    </item>
-    <item>
-      <title>Мобильный роутер Meizu MIFI N1 с Wi-Fi 6 раздаёт интернет на 16 устройств</title>
-      <link>https://4pda.to/2026/11/16/463327/mobilnyj_router_meizu_mifi_n1_s_wi_fi_6_razdayot_internet_na_16_ustrojstv/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463327/mobilnyj_router_meizu_mifi_n1_s_wi_fi_6_razdayot_internet_na_16_ustrojstv/</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[В каталоге гаджетов Meizu появился роутер MIFI N1, предназначенный для раздачи
-интернета за пределами домашней сети. Устройство поддерживает стандарт Wi-Fi 6,
-оснащается встроенным АКБ и позволяет одновременно [...]]]></description>
-    </item>
-    <item>
-      <title>Philips выпустила 100-дюймовый телевизор The One с подсветкой Ambilight</title>
-      <link>https://4pda.to/2026/11/16/463324/philips_vypustila_100_dyujmovyj_televizor_the_one_s_podsvetkoj_ambilight/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463324/philips_vypustila_100_dyujmovyj_televizor_the_one_s_podsvetkoj_ambilight/</guid>
-      <pubDate>Mon, 16 Nov 2026 05:30:00 +0000</pubDate>
-      <description><![CDATA[Philips выпустила телевизор
-The One 100PQS9001 — свою первую модель с подсветкой Ambilight, получившую экран
-диагональю 100 дюймов. Новинка также стала самым крупным телевизором в истории бренда.
-Телевизор [...]]]></description>
-    </item>
-    <item>
-      <title>Аналитики: продажи потребительских процессоров пошли на спад по всему миру</title>
-      <link>https://4pda.to/2026/11/16/463323/analitiki_prodazhi_potrebitelskikh_protsessorov_poshli_na_spad_po_vsemu_miru/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463323/analitiki_prodazhi_potrebitelskikh_protsessorov_poshli_na_spad_po_vsemu_miru/</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Вслед за оперативной памятью «под раздачу» на розничном рынке начали попадать и другие комплектующие для ПК. Свежая статистика продемонстрировала снижение объёмов продаж процессоров — как десктопных, так [...]]]></description>
-    </item>
-    <item>
-      <title>Razer представила игровые кресла, позволяющие почувствовать взрывы в игре</title>
-      <link>https://4pda.to/2026/11/16/463322/razer_predstavila_igrovye_kresla_pozvolyayuschie_pochuvstvovat_vzryvy_v_igre/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463322/razer_predstavila_igrovye_kresla_pozvolyayuschie_pochuvstvovat_vzryvy_v_igre/</guid>
-      <pubDate>Mon, 16 Nov 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Razer презентовала геймерские кресла Soma Pro и Soma Sensa HD Haptics, которые интерактивно реагируют на происходящее в играх и фильмах. При этом старшая модель задействует для погружения владельца [...]]]></description>
-    </item>
-    <item>
-      <title>Telegram тестирует новый режим работы для защиты от кибератак</title>
-      <link>https://4pda.to/2026/11/16/463321/telegram_testiruet_novyj_rezhim_raboty_dlya_zaschity_ot_kiberatak/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463321/telegram_testiruet_novyj_rezhim_raboty_dlya_zaschity_ot_kiberatak/</guid>
-      <pubDate>Mon, 16 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Похоже, Telegram готовит к релизу новый режим работы мессенджера с усиленными мерами кибербезопасности. Новую функцию обнаружили в бета-версии приложения вскоре после появления в сети сообщений об уязвимостях [...]]]></description>
-    </item>
-    <item>
-      <title>HUAWEI раскрыла дизайн складного Mate X8 до презентации</title>
-      <link>https://4pda.to/2026/11/16/463320/huawei_raskryla_dizajn_skladnogo_mate_x8_do_prezentatsii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463320/huawei_raskryla_dizajn_skladnogo_mate_x8_do_prezentatsii/</guid>
-      <pubDate>Mon, 16 Nov 2026 03:30:00 +0000</pubDate>
-      <description><![CDATA[HUAWEI показала готовящийся к релизу складной смартфон Mate X8 на официальных изображениях. Они позволяют рассмотреть будущую новинку со всех сторон, не дожидаясь её презентации.
-Судя по промоматериалам, [...]]]></description>
-    </item>
-    <item>
-      <title>AOC выпустила недорогой игровой QHD-монитор Q25G5ZE8 с частотой 275 Гц</title>
-      <link>https://4pda.to/2026/11/16/463319/aoc_vypustila_nedorogoj_igrovoj_qhd_monitor_q25g5ze8_s_chastotoj_275_gts/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/16/463319/aoc_vypustila_nedorogoj_igrovoj_qhd_monitor_q25g5ze8_s_chastotoj_275_gts/</guid>
-      <pubDate>Mon, 16 Nov 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Новинка AOC ориентирована на любителей динамичных игр, которым нужна плавная картинка без потери чёткости. Помимо «заряженного» дисплея с быстрым откликом и хорошей точностью цветопередачи, модель примечательна [...]]]></description>
-    </item>
-    <item>
-      <title>Mercedes-Benz хочет превратить окна автомобилей в экраны</title>
-      <link>https://4pda.to/2026/11/15/463117/mercedes_benz_khochet_prevratit_okna_avtomobilej_v_ekrany/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/15/463117/mercedes_benz_khochet_prevratit_okna_avtomobilej_v_ekrany/</guid>
-      <pubDate>Sun, 15 Nov 2026 19:55:00 +0000</pubDate>
-      <description><![CDATA[Mercedes-Benz разрабатывает технологии, которые в будущем могут превратить автомобильные окна в полноценные экраны. Компания показала сразу несколько потенциальных концептов и способов применения этой [...]]]></description>
     </item>
     <item>
       <title>Ziggity is a Helpful Tool for Power Users Who Still Use Git Manually</title>
