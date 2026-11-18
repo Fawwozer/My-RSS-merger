@@ -5,16 +5,9 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:55:42 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
-    <item>
-      <title>Анонсирован Flipper One: новый «хакерский мультитул» на Linux</title>
-      <link>https://4pda.to/2026/11/18/463422/anonsirovan_flipper_one_novyj_khakerskij_multitul_na_linux/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463422/anonsirovan_flipper_one_novyj_khakerskij_multitul_na_linux/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:15:00 +0000</pubDate>
-      <description><![CDATA[Разработчики Flipper Zero&nbsp;представили новое устройство с расширенным набором возможностей.&nbsp;Модель Flipper One сможет проверять компьютерные сети, подключаться к телевизору и даже работать как [...]]]></description>
-    </item>
     <item>
       <title>The Much Awaited Linux Multi-Tool Flipper One is Now Available for Pre-order</title>
       <link>https://feed.itsfoss.com/link/24361/17526425/flipper-one-crowdfunding</link>
@@ -32,12 +25,103 @@
       <category>Deals</category>
     </item>
     <item>
+      <title>Фанаты создают ремастер оригинальной Fallout [ВИДЕО]</title>
+      <link>https://4pda.to/2026/11/18/463454/fanaty_sozdayut_remaster_originalnoj_fallout_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463454/fanaty_sozdayut_remaster_originalnoj_fallout_video/</guid>
+      <pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Первой Fallout скоро исполнится 30 лет, но никакого ремастера игра до сих пор не получила. Поэтому за дело взялся один из поклонников: энтузиаст готовит собственный ремастер и уже показал, как изменится [...]]]></description>
+    </item>
+    <item>
+      <title>Работники месяца: что умеют планшеты TCL Note A1 NXTPAPER и TAB A1 Plus NXTPAPER?</title>
+      <link>https://4pda.to/2026/11/18/463450/rabotniki_mesyatsa_chto_umeyut_planshety_tcl_note_a1_nxtpaper_i_tab_a1_plus_nxtpaper/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463450/rabotniki_mesyatsa_chto_umeyut_planshety_tcl_note_a1_nxtpaper_i_tab_a1_plus_nxtpaper/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Хороший планшет для работы должен чётко отображать текст, поддерживать стилус и быть безопасным для зрения. TCL Note A1 NXTPAPER и TCL TAB A1 Plus NXTPAPER с матовыми «бумажными» дисплеями сочетают все [...]]]></description>
+    </item>
+    <item>
+      <title>Инсайды #3980: безрамочный Galaxy, REDMI Turbo 6 и Galaxy A38</title>
+      <link>https://4pda.to/2026/11/18/463438/insajdy_3980_bezramochnyj_galaxy_redmi_turbo_6_i_galaxy_a38/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463438/insajdy_3980_bezramochnyj_galaxy_redmi_turbo_6_i_galaxy_a38/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:15:00 +0000</pubDate>
+      <description><![CDATA[В этом выпуске Инсайдов: Samsung готовит безрамочный смартфон серии Galaxy; REDMI Turbo 6 Max вырастет до 7 дюймов и 11 000 мАч; появились характеристики недорогого Galaxy A38 с увеличенной батареей.
+Samsung [...]]]></description>
+    </item>
+    <item>
+      <title>Новая клавиатура Framework получила тачпад, автономность до месяца и открытую прошивку</title>
+      <link>https://4pda.to/2026/11/18/463435/novaya_klaviatura_framework_poluchila_tachpad_avtonomnost_do_mesyatsa_i_otkrytuyu_proshivku/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463435/novaya_klaviatura_framework_poluchila_tachpad_avtonomnost_do_mesyatsa_i_otkrytuyu_proshivku/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Компания Framework представила
+компактную беспроводную клавиатуру Wireless Touchpad Keyboard. Новинка получила
+встроенный тачпад, сменный аккумулятор и прошивку с открытым исходным кодом. Также
+производитель [...]]]></description>
+    </item>
+    <item>
+      <title>Google научила часы на Wear OS экономить заряд за счёт смартфона</title>
+      <link>https://4pda.to/2026/11/18/463436/google_nauchila_chasy_na_wear_os_ekonomit_zaryad_za_schyot_smartfona/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463436/google_nauchila_chasy_na_wear_os_ekonomit_zaryad_za_schyot_smartfona/</guid>
+      <pubDate>Wed, 18 Nov 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Google начала распространять
+обновление, которое позволит умным часам на Wear OS использовать навигационный
+модуль подключённого смартфона для отслеживания уличных тренировок.
+Для работы функции потребуется
+версия [...]]]></description>
+    </item>
+    <item>
+      <title>Pulsar выпустила X2 CrazyLight 2 — беспроводную мышь с 42 000 dpi и весом 43 грамма</title>
+      <link>https://4pda.to/2026/11/18/463437/pulsar_vypustila_x2_crazylight_2_besprovodnuyu_mysh_s_42_000_dpi_i_vesom_43_gramma/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463437/pulsar_vypustila_x2_crazylight_2_besprovodnuyu_mysh_s_42_000_dpi_i_vesom_43_gramma/</guid>
+      <pubDate>Wed, 18 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Pulsar представила новое
+поколение беспроводных игровых мышей CrazyLight — X2 CrazyLight 2. Устройства оснащены
+обновлённой начинкой и доступны в двух размерах, рассчитанных на разные размеры
+рук.
+Линейка [...]]]></description>
+    </item>
+    <item>
+      <title>Золото резко подешевело. Таких цен не было с сентября 2025 года</title>
+      <link>https://money.onliner.by/go/356051</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/18/zoloto-poteryalo-25</guid>
+      <pubDate>Wed, 18 Nov 2026 15:47:07 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/18/zoloto-poteryalo-25"><img alt="" src="https://content.onliner.by/news/thumbnail/5f89f1aa248aec43de6a3bf2f19336f2.jpg" /></a></p><p>Золото заметно подешевело и впервые за 14 месяцев опустилось ниже $3800 за тройскую унцию. Сейчас драгоценный металл торгуется по цене около $3763. Последний раз такие цены наблюдались в сентябре 2025 года.</p><p><a href="https://money.onliner.by/2026/11/18/zoloto-poteryalo-25">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Microsoft превращает Copilot в полноценную операционную систему</title>
+      <link>https://4pda.to/2026/11/18/463460/microsoft_prevraschaet_copilot_v_polnotsennuyu_operatsionnuyu_sistemu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463460/microsoft_prevraschaet_copilot_v_polnotsennuyu_operatsionnuyu_sistemu/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:20:00 +0000</pubDate>
+      <description><![CDATA[На конференции Ignite 2026 компания Microsoft объявила о полноценной интеграции Word, Excel и PowerPoint с Copilot. Теперь пользователи смогут создавать документы, таблицы и презентации через ИИ-помощника, [...]]]></description>
+    </item>
+    <item>
+      <title>«Яндекс» создал «Компас» для навигации автомобиля при сбоях GPS</title>
+      <link>https://4pda.to/2026/11/18/463462/yandeks_sozdal_kompas_dlya_navigatsii_avtomobilya_pri_sboyakh_gps/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463462/yandeks_sozdal_kompas_dlya_navigatsii_avtomobilya_pri_sboyakh_gps/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:10:00 +0000</pubDate>
+      <description><![CDATA[«Яндекс» разработал компактный автомобильный модуль, который помогает определять местоположение машины, когда обычная геолокация работает с перебоями или вовсе недоступна. Устройство уже тестируют в 10 [...]]]></description>
+    </item>
+    <item>
+      <title>Технические эксперты о графике GTA VI: «Недостижимый уровень качества» [ВИДЕО]</title>
+      <link>https://4pda.to/2026/11/18/463463/tekhnicheskie_eksperty_o_grafike_gta_vi_nedostizhimyj_uroven_kachestva_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463463/tekhnicheskie_eksperty_o_grafike_gta_vi_nedostizhimyj_uroven_kachestva_video/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:01:00 +0000</pubDate>
+      <description><![CDATA[Пресса выразила своё мнение по поводу GTA VI — это лучшая игра поколения и всей истории видеоигр. Теперь высказались технические эксперты Digital Foundry.
+[youtube=qsBU0bcpONA:640:360:::0]
+Команда [...]]]></description>
+    </item>
+    <item>
+      <title>Arctic выпустила термопластилин PX-1 для охлаждения видеокарт и других компонентов</title>
+      <link>https://4pda.to/2026/11/18/463458/arctic_vypustila_termoplastilin_px_1_dlya_okhlazhdeniya_videokart_i_drugikh_komponentov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/18/463458/arctic_vypustila_termoplastilin_px_1_dlya_okhlazhdeniya_videokart_i_drugikh_komponentov/</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[Arctic выпустила серию термоинтерфейсов PX-1, которые призваны заменить обычные термопрокладки, когда компоненты имеют разную высоту или неровную поверхность. Вместо твёрдого листа компания использовала [...]]]></description>
+    </item>
+    <item>
       <title>В Telegram можно будет вызвать скрытые чаты по секретной фразе</title>
       <link>https://tech.onliner.by/go/802172</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/11/18/v-telegram-mozhno-budet-vyzvat-skrytye-chaty-po-sekretnoj-fraze</guid>
       <pubDate>Wed, 18 Nov 2026 14:45:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/18/v-telegram-mozhno-budet-vyzvat-skrytye-chaty-po-sekretnoj-fraze"><img alt="" src="https://content.onliner.by/news/thumbnail/3b621137f58f40782660c89a234059c2.jpg" /></a></p><p>В Telegram для macOS <a href="https://t.me/telelakel/1280" target="_blank">тестируют</a> функцию, которая позволяет прятать переписки и открывать их только с помощью специального пароля. Нововведение обнаружили в бета-версии приложения 13.2.0. Настроить его можно в разделе конфиденциальности: потребуется дважды указать секретную комбинацию из минимум восьми символов. Пока поддерживается только латиница. После настройки достаточно ввести пароль в поисковую строку мессенджера — появится отдельное пространство с выбранными чатами и каналами. Для разных подборок можно создавать собственные пароли. Вызовы из таких переписок автоматически отклоняются без звука, а доступ закрывается при блокировке экрана, переходе Mac в спящий режим или после пяти минут простоя. Предусмотрено и ручное закрытие.
-</p><p><a href="https://tech.onliner.by/2026/11/18/v-telegram-mozhno-budet-vyzvat-skrytye-chaty-po-sekretnoj-fraze">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/18/v-telegram-mozhno-budet-vyzvat-skrytye-chaty-po-sekretnoj-fraze"><img alt="" src="https://content.onliner.by/news/thumbnail/3b621137f58f40782660c89a234059c2.jpg" /></a></p><p>В Telegram для macOS <a href="https://t.me/telelakel/1280" target="_blank">тестируют</a> функцию, которая позволяет прятать переписки и открывать их только с помощью специального пароля. Нововведение обнаружили в бета-версии приложения 13.2.0. Настроить его можно в разделе конфиденциальности: потребуется дважды указать секретную комбинацию из минимум восьми символов. Пока поддерживается только латиница.</p><p><a href="https://tech.onliner.by/2026/11/18/v-telegram-mozhno-budet-vyzvat-skrytye-chaty-po-sekretnoj-fraze">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
     </item>
     <item>
@@ -132,7 +216,7 @@ Samsung [...]]]></description>
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Египетский самолет дважды за ночь садился в Минске по пути в Москву</title>
+      <title>Египетский самолет дважды за ночь садился в Минске по пути в Москву (обновлено)</title>
       <link>https://people.onliner.by/go/1346058</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/11/18/egipetskij-samolet</guid>
       <pubDate>Wed, 18 Nov 2026 12:45:55 +0000</pubDate>
@@ -254,7 +338,7 @@ Nitro двумя изогнутыми 34-дюймовыми мониторами
       <description><![CDATA[Распространение эмуляторов и портов, связанное с появлением мощных инструментов вайбкодинга, только началось. Новые возможности появляются почти каждый день: например, теперь можно автоматически создавать [...]]]></description>
     </item>
     <item>
-      <title>«Разбитые окна, мусор». Это про усадьбу в Прилуках после того, как она стала популярной</title>
+      <title>Приехали, все уничтожили? В сети жалуются на состояние усадьбы Чапских, резко ставшей популярной</title>
       <link>https://realt.onliner.by/go/1143731</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/11/18/razbitye-okna-musor</guid>
       <pubDate>Wed, 18 Nov 2026 10:30:32 +0000</pubDate>
@@ -336,14 +420,6 @@ Remote [...]]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>18 тысяч европейских гостиниц подали в суд на Booking.com и требуют многомиллиардную компенсацию</title>
-      <link>https://realt.onliner.by/go/1143724</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/18/18-tysyach</guid>
-      <pubDate>Wed, 18 Nov 2026 09:18:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/18/18-tysyach"><img alt="" src="https://content.onliner.by/news/thumbnail/1fa2ba6e2c4b8cb998066850eac7294f.jpg" /></a></p><p>Крупнейший конфликт в истории европейского гостиничного бизнеса выходит на финальную стадию. Более 18 тысяч отелей из разных стран Европы объединились в коллективный иск против платформы Booking.com, обвиняя ее в многолетнем ограничении конкуренции и требуя компенсацию ущерба, который может исчисляться миллиардами евро, <a href="https://www.bild.de/leben-wissen/reisen/18-000-hotels-in-europa-verklagen-booking-com-6afacac6629e93479f6dc747" target="_blank">пишет</a> немецкое издание Bild.</p><p><a href="https://realt.onliner.by/2026/11/18/18-tysyach">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
       <title>GTA VI — игра года? Объявлены номинанты на главную игровую премию</title>
       <link>https://4pda.to/2026/11/18/463444/gta_vi_igra_goda_obyavleny_nominanty_na_glavnuyu_igrovuyu_premiyu/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/18/463444/gta_vi_igra_goda_obyavleny_nominanty_na_glavnuyu_igrovuyu_premiyu/</guid>
@@ -373,66 +449,6 @@ Remote [...]]]></description>
       <pubDate>Wed, 18 Nov 2026 07:49:08 +0000</pubDate>
       <description><![CDATA[Soverin Suite]]></description>
       <category>News</category>
-    </item>
-    <item>
-      <title>ASUS «прокачала» игровой ноутбук TUF Gaming 16 (2026) новой видеокартой GeForce</title>
-      <link>https://4pda.to/2026/11/18/463426/asus_prokachala_igrovoj_noutbuk_tuf_gaming_16_2026_novoj_videokartoj_geforce/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463426/asus_prokachala_igrovoj_noutbuk_tuf_gaming_16_2026_novoj_videokartoj_geforce/</guid>
-      <pubDate>Wed, 18 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Компания ASUS выпустила новую версию лэптопа TUF Gaming 16 (2026). Её козырем стала производительная видеокарта NVIDIA GeForce RTX 5070 в сочетании с быстрым дисплеем и возможностью увеличения объёма
-оперативной [...]]]></description>
-    </item>
-    <item>
-      <title>Gorenje представила на российском рынке посудомойку GV16E3 с умным режимом «Авто»</title>
-      <link>https://4pda.to/2026/11/18/463427/gorenje_predstavila_na_rossijskom_rynke_posudomojku_gv16e3_s_umnym_rezhimom_avto/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463427/gorenje_predstavila_na_rossijskom_rynke_posudomojku_gv16e3_s_umnym_rezhimom_avto/</guid>
-      <pubDate>Wed, 18 Nov 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Компания Gorenje представила в России встраиваемую посудомоечную машину GV16E3. Она умеет самостоятельно подбирать параметры мойки, чтобы пользователю не приходилось настраивать всё вручную. Новинка также [...]]]></description>
-    </item>
-    <item>
-      <title>NordPass обновила рейтинг самых популярных паролей в мире</title>
-      <link>https://4pda.to/2026/11/18/463424/nordpass_obnovila_rejting_samykh_populyarnykh_parolej_v_mire/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463424/nordpass_obnovila_rejting_samykh_populyarnykh_parolej_v_mire/</guid>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[NordPass опубликовала свежий ежегодный рейтинг самых популярных паролей в мире, составленный на основе
-данных из 44 стран. Исследование показало, что пользователи по-прежнему часто
-выбирают простые комбинации [...]]]></description>
-    </item>
-    <item>
-      <title>Саундбар Edifier с дисплеем и функциями умной колонки оценили в $104</title>
-      <link>https://4pda.to/2026/11/18/463423/saundbar_edifier_s_displeem_i_funktsiyami_umnoj_kolonki_otsenili_v_104/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463423/saundbar_edifier_s_displeem_i_funktsiyami_umnoj_kolonki_otsenili_v_104/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:30:00 +0000</pubDate>
-      <description><![CDATA[Edifier выпустила ПК-саундбар Huazai Halo PixelBar AI с расширенным набором функций. Помимо воспроизведения звука, новинка умеет показывать уведомления с компьютера и выполнять различные голосовые команды.
-Саундбар [...]]]></description>
-    </item>
-    <item>
-      <title>Apple начала продавать запчасти для iPhone Duo. Ремонт будет недешёвым</title>
-      <link>https://4pda.to/2026/11/18/463421/apple_nachala_prodavat_zapchasti_dlya_iphone_duo_remont_budet_nedeshyovym/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463421/apple_nachala_prodavat_zapchasti_dlya_iphone_duo_remont_budet_nedeshyovym/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Apple решила расширить возможности владельцев iPhone Duo: теперь они смогут самостоятельно заменить некоторые компоненты или обратиться в стороннюю мастерскую. Правда, стоимость запчастей может неприятно [...]]]></description>
-    </item>
-    <item>
-      <title>Thermaltake встроила в корпусной вентилятор 4-дюймовый экран</title>
-      <link>https://4pda.to/2026/11/18/463420/thermaltake_vstroila_v_korpusnoj_ventilyator_4_dyujmovyj_ekran/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463420/thermaltake_vstroila_v_korpusnoj_ventilyator_4_dyujmovyj_ekran/</guid>
-      <pubDate>Wed, 18 Nov 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[В каталоге продукции Thermaltake представила корпусной вентилятор SWAFAN ULTRA 120 EX RGB, который интересен не только встроенной подсветкой. Он также оборудован собственным дисплеем для вывода информации [...]]]></description>
-    </item>
-    <item>
-      <title>Kensington выпустила огромный трекбол с кольцом прокрутки и двумя боковыми колёсами</title>
-      <link>https://4pda.to/2026/11/18/463419/kensington_vypustila_ogromnyj_trekbol_s_koltsom_prokrutki_i_dvumya_bokovymi_kolyosami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463419/kensington_vypustila_ogromnyj_trekbol_s_koltsom_prokrutki_i_dvumya_bokovymi_kolyosami/</guid>
-      <pubDate>Wed, 18 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Kensington презентовала Expert Mouse Pro TB900 EQ — трекбол для инженеров, дизайнеров и специалистов по монтажу. Устройство получило систему из двух оптических датчиков, дополнительные элементы [...]]]></description>
-    </item>
-    <item>
-      <title>Минцифры готовится усложнить подключение eSIM в России</title>
-      <link>https://4pda.to/2026/11/18/463392/mintsifry_gotovitsya_uslozhnit_podklyuchenie_esim_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/18/463392/mintsifry_gotovitsya_uslozhnit_podklyuchenie_esim_v_rossii/</guid>
-      <pubDate>Wed, 18 Nov 2026 03:30:00 +0000</pubDate>
-      <description><![CDATA[Оформление eSIM — сравнительно простая процедура, но скоро она может стать заметно сложнее. Минцифры намерено ужесточить проверку личности абонентов, причём изменения затронут не только новые подключения: [...]]]></description>
     </item>
     <item>
       <title>Two Independent Projects Want to Bring MATE to Wayland, Each in its Own Way</title>
