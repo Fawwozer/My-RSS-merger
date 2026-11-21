@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sat, 21 Nov 2026 14:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:48:28 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>Owl OS is a New Kali Linux Competitor</title>
+      <link>https://feed.itsfoss.com/link/24361/17536916/owl-os-launch</link>
+      <guid isPermaLink="false">6afae340b0bf2e0001dcc2fa</guid>
+      <pubDate>Sat, 21 Nov 2026 17:01:00 +0000</pubDate>
+      <description><![CDATA[owl os banner]]></description>
+      <category>First Look</category>
+    </item>
     <item>
       <title>Windows 11 и Linux сравнили по времени автономной работы ноутбуков</title>
       <link>https://4pda.to/2026/11/21/463570/windows_11_i_linux_sravnili_po_vremeni_avtonomnoj_raboty_noutbukov/</link>
@@ -40,12 +48,63 @@
       <category>First Look</category>
     </item>
     <item>
+      <title>Подведены итоги конкурса Black &amp;amp; White Photo Awards 2026</title>
+      <link>https://4pda.to/2026/11/21/463389/podvedeny_itogi_konkursa_black_amp_white_photo_awards_2026/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/463389/podvedeny_itogi_konkursa_black_amp_white_photo_awards_2026/</guid>
+      <pubDate>Sat, 21 Nov 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Организаторы конкурса Black &amp; White Photo Awards 2026 выбрали лучшие чёрно-белые фотографии года. В пятом сезоне участвовали работы в шести категориях, а жюри отдельно отметило снимок, который стал [...]]]></description>
+    </item>
+    <item>
+      <title>Внедорожник BYD без двух колёс протащил 180-тонный Boeing 747</title>
+      <link>https://4pda.to/2026/11/21/463469/vnedorozhnik_byd_bez_dvukh_kolyos_protaschil_180_tonnyj_boeing_747/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/463469/vnedorozhnik_byd_bez_dvukh_kolyos_protaschil_180_tonnyj_boeing_747/</guid>
+      <pubDate>Sat, 21 Nov 2026 19:30:00 +0000</pubDate>
+      <description><![CDATA[Компания BYD устроила необычное испытание своего премиального внедорожника Denza Bao 5. Автомобиль протащил пассажирский Boeing 747 массой около 180 тонн, при этом в одном из заездов опирался всего на [...]]]></description>
+    </item>
+    <item>
+      <title>Hisense UR9S: домашний центр развлечений с RGB MiniLED и звуком 4.1.2</title>
+      <link>https://4pda.to/2026/11/21/462618/hisense_ur9s_domashnij_tsentr_razvlechenij_s_rgb_miniled_i_zvukom_4_1_2/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/462618/hisense_ur9s_domashnij_tsentr_razvlechenij_s_rgb_miniled_i_zvukom_4_1_2/</guid>
+      <pubDate>Sat, 21 Nov 2026 18:30:00 +0000</pubDate>
+      <description><![CDATA[Современный телевизор должен уметь показывать любой контент с точной цветопередачей и вместе с тем оставаться удобным центром домашних развлечений. Модели серии Hisense UR9S рассчитаны как раз на такие [...]]]></description>
+    </item>
+    <item>
+      <title>Лунный грунт превратили в детали, похожие на LEGO</title>
+      <link>https://4pda.to/2026/11/21/463447/lunnyj_grunt_prevratili_v_detali_pokhozhie_na_lego/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/463447/lunnyj_grunt_prevratili_v_detali_pokhozhie_na_lego/</guid>
+      <pubDate>Sat, 21 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Университета Арканзаса научились печатать строительные блоки из материала, имитирующего лунный грунт. В будущем эту технологию можно будет использовать при создании постоянных поселений [...]]]></description>
+    </item>
+    <item>
+      <title>Новая батарея выдерживает тысячу сгибаний без ухудшения характеристик</title>
+      <link>https://4pda.to/2026/11/21/463470/novaya_batareya_vyderzhivaet_tysyachu_sgibanij_bez_ukhudsheniya_kharakteristik/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/463470/novaya_batareya_vyderzhivaet_tysyachu_sgibanij_bez_ukhudsheniya_kharakteristik/</guid>
+      <pubDate>Sat, 21 Nov 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Корейского передового института науки и технологий (KAIST) разработали гибкий электрод для литий-серных аккумуляторов. В перспективе технология позволит превратить элементы конструкции [...]]]></description>
+    </item>
+    <item>
+      <title>FRP представила электробайк, способный самостоятельно выполнять трюки</title>
+      <link>https://4pda.to/2026/11/21/463509/frp_predstavila_elektrobajk_sposobnyj_samostoyatelno_vypolnyat_tryuki/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/463509/frp_predstavila_elektrobajk_sposobnyj_samostoyatelno_vypolnyat_tryuki/</guid>
+      <pubDate>Sat, 21 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Компания FRP представила электрический мини-мотоцикл M3, который помогает водителю выполнять вилли — ехать на заднем колесе. Электроника самостоятельно поддерживает равновесие и регулирует мощность двигателя.&nbsp;
+Благодаря [...]]]></description>
+    </item>
+    <item>
       <title>Пьяный 19-летний водитель показал ГАИ чужие права (видео)</title>
       <link>https://auto.onliner.by/go/1275943</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/21/pyanyy-s-chuzhimi-dokumentami</guid>
       <pubDate>Sat, 21 Nov 2026 13:53:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/pyanyy-s-chuzhimi-dokumentami"><img alt="" src="https://content.onliner.by/news/thumbnail/bf1daf1a9552356b5f06804648e90d6d.png" /></a></p><p>На улице Тимирязева в Орше сотрудники ГАИ попытались остановить Nissan, но водитель проигнорировал требование и поехал дальше. Через некоторое время машину все же остановили.</p><p><a href="https://auto.onliner.by/2026/11/21/pyanyy-s-chuzhimi-dokumentami">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/pyanyy-s-chuzhimi-dokumentami"><img alt="" src="https://content.onliner.by/news/thumbnail/ca806b12f3f4e602bb0fcbcea9ad0d79.jpg" /></a></p><p>На улице Тимирязева в Орше сотрудники ГАИ попытались остановить Nissan, но водитель проигнорировал требование и поехал дальше. Через некоторое время машину все же остановили.</p><p><a href="https://auto.onliner.by/2026/11/21/pyanyy-s-chuzhimi-dokumentami">Читать далее…</a></p>]]></description>
       <category>Авто</category>
+    </item>
+    <item>
+      <title>Лыжи E-Outdoor Snomo сами везут владельца</title>
+      <link>https://4pda.to/2026/11/21/463510/lyzhi_e_outdoor_snomo_sami_vezut_vladeltsa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/21/463510/lyzhi_e_outdoor_snomo_sami_vezut_vladeltsa/</guid>
+      <pubDate>Sat, 21 Nov 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[Швейцарская компания E-Outdoor представила Snomo — электрические лыжи, которые позволяют исследовать заснеженные территории без опыта катания и лишних усилий.
+Модель рассчитана прежде всего на любителей [...]]]></description>
     </item>
     <item>
       <title>В Минске появится новый парк. Вот где его обустроят</title>
@@ -158,7 +217,7 @@
       <link>https://auto.onliner.by/go/1275929</link>
       <guid isPermaLink="false">https://auto.onliner.by/2026/11/21/ploho-za-rulem</guid>
       <pubDate>Sat, 21 Nov 2026 06:41:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/ploho-za-rulem"><img alt="" src="https://content.onliner.by/news/thumbnail/27e25e0e43bc0a6bfe402b79e604a315.jpg" /></a></p><p>Вчера вечером на улице Железнодорожной Renault врезался в дерево. Это произошло возле дома №110. За рулем был 47-летний мужчина. По предварительной информации, во время движения у него начались судороги.</p><p><a href="https://auto.onliner.by/2026/11/21/ploho-za-rulem">Читать далее…</a></p>]]></description>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/ploho-za-rulem"><img alt="" src="https://content.onliner.by/news/thumbnail/252a56f00ca4e0e6620f533434445ab0.jpg" /></a></p><p>Вчера вечером на улице Железнодорожной Renault врезался в дерево. Это произошло возле дома №110. За рулем был 47-летний мужчина. По предварительной информации, во время движения у него начались судороги.</p><p><a href="https://auto.onliner.by/2026/11/21/ploho-za-rulem">Читать далее…</a></p>]]></description>
       <category>Авто</category>
     </item>
     <item>
@@ -314,58 +373,12 @@
       <description><![CDATA[В семействе домашних проекторов Wanbo ещё одно пополнение: популярная модель Mozart 1 получила апгрейд до версии 1S. Почему этот проектор лучше предыдущих и как за счёт двух динамиков получить звук Dolby [...]]]></description>
     </item>
     <item>
-      <title>Вышла «бета» One UI 9.5. Как поставить, что интересного и какие модели Samsung получат?</title>
-      <link>https://4pda.to/2026/11/20/463567/vyshla_beta_one_ui_9_5_kak_postavit_chto_interesnogo_i_kakie_modeli_samsung_poluchat/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463567/vyshla_beta_one_ui_9_5_kak_postavit_chto_interesnogo_i_kakie_modeli_samsung_poluchat/</guid>
-      <pubDate>Fri, 20 Nov 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[Samsung открыла бета-тестирование оболочки One UI 9.5 на базе Android 17. Первыми сборку могут опробовать владельцы смартфонов серии Galaxy S26 в шести странах. Апдейт принесёт улучшения для камеры, режима [...]]]></description>
-    </item>
-    <item>
       <title>Белорусов зовут встретить Новый год «под стук колес»</title>
       <link>https://people.onliner.by/go/1346586</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/11/20/novyy-god-pod-stuk-koles</guid>
       <pubDate>Fri, 20 Nov 2026 15:31:37 +0000</pubDate>
       <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/20/novyy-god-pod-stuk-koles"><img alt="" src="https://content.onliner.by/news/thumbnail/370d973ac8f4f3dcf9fbffb683ef5d42.jpg" /></a></p><p>Уже придумали, как будете встречать Новый год? В Threads предложили необычный вариант: отметить праздник прямо в поезде, в компании незнакомцев. Пост собрал более 80 тыс. просмотров, а в комментариях делятся своими новогодними историями из поездов, вспоминают похожие приключения и обсуждают, чем заняться в Витебске ранним утром.</p><p><a href="https://people.onliner.by/2026/11/20/novyy-god-pod-stuk-koles">Читать далее…</a></p>]]></description>
       <category>Люди</category>
-    </item>
-    <item>
-      <title>Cubot выпустила планшет MeGaPad с огромным экраном и мощной аудиосистемой</title>
-      <link>https://4pda.to/2026/11/20/463521/cubot_vypustila_planshet_megapad_s_ogromnym_ekranom_i_moschnoj_audiosistemoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463521/cubot_vypustila_planshet_megapad_s_ogromnym_ekranom_i_moschnoj_audiosistemoj/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:30:00 +0000</pubDate>
-      <description><![CDATA[Cubot представила MeGaPad — планшет с упором на мультимедийные возможности. Устройство получило крупный экран, сразу шесть динамиков и световую RGB-полосу. Он создан для просмотра видео и прослушивания [...]]]></description>
-    </item>
-    <item>
-      <title>Новые 3D-смайлики Google оказались невероятно требовательными к железу и занимают 10 ГБ</title>
-      <link>https://4pda.to/2026/11/20/463547/novye_3d_smajliki_google_okazalis_neveroyatno_trebovatelnymi_k_zhelezu_i_zanimayut_10_gb/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463547/novye_3d_smajliki_google_okazalis_neveroyatno_trebovatelnymi_k_zhelezu_i_zanimayut_10_gb/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:20:00 +0000</pubDate>
-      <description><![CDATA[Google раскрыла системные требования для новых трёхмерных эмодзи Noto 3D, которые постепенно появляются на Android. Оказывается, что для доступа к новым смайликам подойдёт далеко не каждый смартфон, поскольку [...]]]></description>
-    </item>
-    <item>
-      <title>Xiaomi выпустила умную зубную щётку и компактную электробритву</title>
-      <link>https://4pda.to/2026/11/20/463565/xiaomi_vypustila_umnuyu_zubnuyu_schyotku_i_kompaktnuyu_elektrobritvu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463565/xiaomi_vypustila_umnuyu_zubnuyu_schyotku_i_kompaktnuyu_elektrobritvu/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:10:00 +0000</pubDate>
-      <description><![CDATA[Xiaomi пополнила линейку бытовых устройств двумя новинками для персонального ухода — электрической зубной щёткой и портативной электробритвой. Первая следит за качеством чистки прямо во время использования, [...]]]></description>
-    </item>
-    <item>
-      <title>Мучения продолжаются: Netflix перенесла финал «Ведьмака»</title>
-      <link>https://4pda.to/2026/11/20/463556/mucheniya_prodolzhayutsya_netflix_perenesla_final_vedmaka/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463556/mucheniya_prodolzhayutsya_netflix_perenesla_final_vedmaka/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:05:00 +0000</pubDate>
-      <description><![CDATA[Съёмки последнего сезона «Ведьмака» завершились больше года назад, и&nbsp;актёры давно распрощались со своими персонажами. А вот зрителям предстоит ещё немного подождать развязку&nbsp;истории.
-Netflix [...]]]></description>
-    </item>
-    <item>
-      <title>XPG представила игровой корпус INVADER X MINI Chroma в четырёх ярких цветах</title>
-      <link>https://4pda.to/2026/11/20/463539/xpg_predstavila_igrovoj_korpus_invader_x_mini_chroma_v_chetyryokh_yarkikh_tsvetakh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463539/xpg_predstavila_igrovoj_korpus_invader_x_mini_chroma_v_chetyryokh_yarkikh_tsvetakh/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:00:00 +0000</pubDate>
-      <description><![CDATA[Компания XPG, игровое
-подразделение ADATA, представила серию корпусов INVADER X MINI Chroma. Новинки
-стали первой официально выпущенной линейкой цветных корпусов бренда и получили
-четыре варианта оформления: [...]]]></description>
     </item>
     <item>
       <title>Geely бросила с обрыва свою новейшую модель ради рекламы. Но что не так?</title>
@@ -411,13 +424,6 @@ Netflix [...]]]></description>
       <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/20/nalichnye-postoplata"><img alt="" src="https://content.onliner.by/news/thumbnail/16187232a5a77d0cc479b2d46731f6c0.jpg" /></a></p><p>Несколько месяцев назад оператор сети зарядных станций forEVo запустил собственное приложение. Теперь же компания объявила о расширении способов оплаты и развитии экосистемы.
 </p><p><a href="https://auto.onliner.by/2026/11/20/nalichnye-postoplata">Читать далее…</a></p>]]></description>
       <category>Авто</category>
-    </item>
-    <item>
-      <title>Компактный и мощный фен Laifen Air Pro временно подешевел к Чёрной пятнице</title>
-      <link>https://4pda.to/2026/11/20/463520/kompaktnyj_i_moschnyj_fen_laifen_air_pro_vremenno_podeshevel_k_chyornoj_pyatnitse/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463520/kompaktnyj_i_moschnyj_fen_laifen_air_pro_vremenno_podeshevel_k_chyornoj_pyatnitse/</guid>
-      <pubDate>Fri, 20 Nov 2026 14:00:00 +0000</pubDate>
-      <description><![CDATA[Порой бывает, что обновление бытовой техники может принести больше эмоций, чем новый смартфон. Например, если вашему фену уже с десяток лет или того больше, современные модели могут действительно удивить. [...]]]></description>
     </item>
     <item>
       <title>«Белую крепость» в «Аркадии» снесли. Что появится на ее месте?</title>
