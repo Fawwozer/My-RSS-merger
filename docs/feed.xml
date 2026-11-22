@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 22 Nov 2026 14:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:16:48 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>Your Linux Laptop Won't Suspend? Here's What You Can Do</title>
+      <link>https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock</link>
+      <guid isPermaLink="false">6b027b73070f240001243456</guid>
+      <pubDate>Sun, 22 Nov 2026 13:44:00 +0000</pubDate>
+      <description><![CDATA[Linux laptop suspend issue]]></description>
+      <category>Troubleshoot 🔬</category>
+    </item>
     <item>
       <title>Owl OS is a New Kali Linux Competitor</title>
       <link>https://feed.itsfoss.com/link/24361/17536916/owl-os-launch</link>
@@ -17,19 +25,71 @@
       <category>First Look</category>
     </item>
     <item>
-      <title>Windows 11 и Linux сравнили по времени автономной работы ноутбуков</title>
-      <link>https://4pda.to/2026/11/21/463570/windows_11_i_linux_sravnili_po_vremeni_avtonomnoj_raboty_noutbukov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463570/windows_11_i_linux_sravnili_po_vremeni_avtonomnoj_raboty_noutbukov/</guid>
-      <pubDate>Sat, 21 Nov 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Считается, что Linux менее требовательна к ресурсам компьютера, чем Windows, а значит, должна экономнее расходовать заряд аккумулятора. Портал PhoneBuff решил проверить это утверждение на практике и сравнил [...]]]></description>
-    </item>
-    <item>
       <title>Purism Is Crowdfunding the Librem 5 v2, a $1,599 RISC-V Linux Phone With Kill Switches</title>
       <link>https://feed.itsfoss.com/link/24361/17536714/purism-5-v2-crowdfunding</link>
       <guid isPermaLink="false">6b013bcd070f24000124308c</guid>
       <pubDate>Sat, 21 Nov 2026 08:26:17 +0000</pubDate>
       <description><![CDATA[Librem 5 v2]]></description>
       <category>News</category>
+    </item>
+    <item>
+      <title>Блогер сделал ховерборд из «Назад в будущее» [ВИДЕО]</title>
+      <link>https://4pda.to/2026/11/22/463363/bloger_sdelal_khoverbord_iz_nazad_v_buduschee_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463363/bloger_sdelal_khoverbord_iz_nazad_v_buduschee_video/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:55:00 +0000</pubDate>
+      <description><![CDATA[Блогер Джейк Роджерс собрал миниатюрный ховерборд, вдохновлённый культовым фильмом «Назад в будущее 2». Прототип&nbsp;работает без проводов и уже может парить в воздухе, но пока не подходит для катания.&nbsp;
+Внутри [...]]]></description>
+    </item>
+    <item>
+      <title>Роботы научились реалистично двигать глазами и пальцами</title>
+      <link>https://4pda.to/2026/11/22/463373/roboty_nauchilis_realistichno_dvigat_glazami_i_paltsami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463373/roboty_nauchilis_realistichno_dvigat_glazami_i_paltsami/</guid>
+      <pubDate>Sun, 22 Nov 2026 19:45:00 +0000</pubDate>
+      <description><![CDATA[Исследователи из Пенсильванского университета разработали искусственные мышцы CoilLCE, позволяющие роботам выполнять точные движения. В ходе демонстрации роботизированная рука сыграла несколько нот на [...]]]></description>
+    </item>
+    <item>
+      <title>Benelli показала мотоцикл с активными аэродинамическими крыльями</title>
+      <link>https://4pda.to/2026/11/22/463365/benelli_pokazala_mototsikl_s_aktivnymi_aerodinamicheskimi_krylyami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463365/benelli_pokazala_mototsikl_s_aktivnymi_aerodinamicheskimi_krylyami/</guid>
+      <pubDate>Sun, 22 Nov 2026 18:00:00 +0000</pubDate>
+      <description><![CDATA[На выставке EICMA 2026 компания Benelli представила концепт мотоцикла Tornado Naked Tre 903. Главная особенность модели кроется в подвижных аэродинамических крыльях, которые меняют положение прямо во время [...]]]></description>
+    </item>
+    <item>
+      <title>Заслуженный MicroProfessor: компьютер, который появился в 1981-м, производился 40 лет и дожил до наших дней</title>
+      <link>https://4pda.to/2026/11/22/463568/zasluzhennyj_microprofessor_kompyuter_kotoryj_poyavilsya_v_1981_m_proizvodilsya_40_let_i_dozhil_do_nashikh_dnej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463568/zasluzhennyj_microprofessor_kompyuter_kotoryj_poyavilsya_v_1981_m_proizvodilsya_40_let_i_dozhil_do_nashikh_dnej/</guid>
+      <pubDate>Sun, 22 Nov 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[В 1981 году появился необычный компьютер: размером с книгу, с светящимися цифрами вместо экрана и всего двумя килобайтами оперативной памяти. При этом он работал на процессоре Zilog Z80 — таком же, какой [...]]]></description>
+    </item>
+    <item>
+      <title>ASUS собрала гуманоидного робота Gallop для заводов</title>
+      <link>https://4pda.to/2026/11/22/463393/asus_sobrala_gumanoidnogo_robota_gallop_dlya_zavodov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463393/asus_sobrala_gumanoidnogo_robota_gallop_dlya_zavodov/</guid>
+      <pubDate>Sun, 22 Nov 2026 16:45:00 +0000</pubDate>
+      <description><![CDATA[ASUS разрабатывает гуманоидного робота Gallop, который должен выполнять повторяющиеся операции на заводах. Его уже успешно испытывают на предприятии компании, где он учится упаковывать комплекты аксессуаров [...]]]></description>
+    </item>
+    <item>
+      <title>Моноколесо KingSong F16 Aven получило мотор на 10 000 Вт</title>
+      <link>https://4pda.to/2026/11/22/463367/monokoleso_kingsong_f16_aven_poluchilo_motor_na_10_000_vt/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463367/monokoleso_kingsong_f16_aven_poluchilo_motor_na_10_000_vt/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[Компания KingSong представила новое электрическое моноколесо F16 Aven для городских поездок и бездорожья. Модель рассчитана на опытных райдеров, а её пиковая мощность двигателя достигает 10 000 Вт.
+Крутящий [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске прохожий обокрал женщину, которая подарила ему варежки</title>
+      <link>https://money.onliner.by/go/356528</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/krazha-vyazanyh-veschey</guid>
+      <pubDate>Sun, 22 Nov 2026 14:30:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/krazha-vyazanyh-veschey"><img alt="" src="https://content.onliner.by/news/thumbnail/897403f1e2381bde8d0722cbe2dd84d5.jpg" /></a></p><p>В милицию обратилась 59-летняя минчанка: у нее пропали вязаные игрушки, шапки и варежки на сумму более 3 тыс. рублей.</p><p><a href="https://money.onliner.by/2026/11/22/krazha-vyazanyh-veschey">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Энтузиаст воскресил старый концепт компьютера Apple</title>
+      <link>https://4pda.to/2026/11/22/463387/entuziast_voskresil_staryj_kontsept_kompyutera_apple/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463387/entuziast_voskresil_staryj_kontsept_kompyutera_apple/</guid>
+      <pubDate>Sun, 22 Nov 2026 13:45:00 +0000</pubDate>
+      <description><![CDATA[Энтузиаст c Reddit воссоздал концепт компьютера Apple, разработанный студией Frog Design в начале 1980-х. Оригинальное устройство так и не стало серийным, поэтому автор решил сделать собственную версию [...]]]></description>
     </item>
     <item>
       <title>Просто сдавать комнаты в агроусадьбе не получится? Подробности новых правил</title>
@@ -312,14 +372,6 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Лыжи E-Outdoor Snomo сами везут владельца</title>
-      <link>https://4pda.to/2026/11/21/463510/lyzhi_e_outdoor_snomo_sami_vezut_vladeltsa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463510/lyzhi_e_outdoor_snomo_sami_vezut_vladeltsa/</guid>
-      <pubDate>Sat, 21 Nov 2026 13:30:00 +0000</pubDate>
-      <description><![CDATA[Швейцарская компания E-Outdoor представила Snomo — электрические лыжи, которые позволяют исследовать заснеженные территории без опыта катания и лишних усилий.
-Модель рассчитана прежде всего на любителей [...]]]></description>
-    </item>
-    <item>
       <title>В Минске появится новый парк. Вот где его обустроят</title>
       <link>https://realt.onliner.by/go/1144348</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/11/21/novyy-park-zelenyy-kampus</guid>
@@ -328,33 +380,12 @@
       <category>Недвижимость</category>
     </item>
     <item>
-      <title>Конвекторы AURUS PF: премиальный подход к домашнему микроклимату</title>
-      <link>https://4pda.to/2026/11/21/463234/konvektory_aurus_pf_premialnyj_podkhod_k_domashnemu_mikroklimatu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463234/konvektory_aurus_pf_premialnyj_podkhod_k_domashnemu_mikroklimatu/</guid>
-      <pubDate>Sat, 21 Nov 2026 12:30:00 +0000</pubDate>
-      <description><![CDATA[Система отопления — один из краеугольных камней частного дома. Обычно это и внушительная статья расходов, и сопутствующие сложности при монтаже. Снизить затраты и сэкономить время на установку можно с [...]]]></description>
-    </item>
-    <item>
-      <title>Пациент с Neuralink сыграл в GTA VI силой мысли</title>
-      <link>https://4pda.to/2026/11/21/463569/patsient_s_neuralink_sygral_v_gta_vi_siloj_mysli/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463569/patsient_s_neuralink_sygral_v_gta_vi_siloj_mysli/</guid>
-      <pubDate>Sat, 21 Nov 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Компания Илона Маска провела очередную демонстрацию мозгового импланта Neuralink. На этот раз участник испытаний сумел поиграть в новую Grand Theft Auto VI без помощи рук, используя одни только сигналы [...]]]></description>
-    </item>
-    <item>
       <title>GTA VI — везде и всюду. Вот какими мемами и шутками реагирует интернет на хайп года (обновлено)</title>
       <link>https://tech.onliner.by/go/802394</link>
       <guid isPermaLink="false">https://tech.onliner.by/2026/11/21/gta-6-memy</guid>
       <pubDate>Sat, 21 Nov 2026 11:03:53 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/21/gta-6-memy"><img alt="" src="https://content.onliner.by/news/thumbnail/a0c93d0ce8c6ed1f8c69fa9c694b1e23.jpg" /></a></p><p>Выход GTA VI, которую ждали 13 лет, стал настолько громким событием, что от него невозможно спрятаться. Игра <a href="https://tech.onliner.by/2026/11/18/99-iz-100-gta-vi-tolko-vyshla-a-kritiki-uzhe-v-vostorge/" target="_blank">получила</a> почти идеальные оценки, <a href="https://tech.onliner.by/2026/11/19/gta-vi-uzhe-pobila-neskolko-rekordov-striminga-igr/" target="_blank">бьет</a> рекорды стримингов, а разработчики из Rockstar уже успели <a href="https://tech.onliner.by/2026/11/20/analitiki-gta-vi-uzhe-zarabotala-236-milliarda/" target="_blank">заработать</a> на своем творении $2,36 млрд. Кажется, все только об этом и говорят, а еще, конечно же, обшучивают хайп в интернете. Собрали несколько забавных примеров на просторах сети.</p><p><a href="https://tech.onliner.by/2026/11/21/gta-6-memy">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>Новая система освещения меняет цвет предметов без покраски</title>
-      <link>https://4pda.to/2026/11/21/463511/novaya_sistema_osvescheniya_menyaet_tsvet_predmetov_bez_pokraski/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463511/novaya_sistema_osvescheniya_menyaet_tsvet_predmetov_bez_pokraski/</guid>
-      <pubDate>Sat, 21 Nov 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Южнокорейские учёные разработали систему освещения, позволяющую менять воспринимаемый цвет предметов без покраски и изменения их поверхности. Технология может найти применение в музеях, на выставках, в [...]]]></description>
     </item>
     <item>
       <title>Спит в Tesla, моется в спортзале. Айтишник рассказал о жизни без квартиры</title>
@@ -371,50 +402,6 @@
       <pubDate>Sat, 21 Nov 2026 10:04:18 +0000</pubDate>
       <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/21/anthropic-gipoteza-rimana"><img alt="" src="https://content.onliner.by/news/thumbnail/7d482ec0be41db8b678dcf441c26b8ce.jpg" /></a></p><p>Математик Левент Альпеге, работающий в компании Anthropic, утверждает, что вместе с ИИ-ассистентом Claude нашел доказательство гипотезы Римана. Это одна из самых известных нерешенных задач математики, ее сформулировали еще в 1859 году.</p><p><a href="https://tech.onliner.by/2026/11/21/anthropic-gipoteza-rimana">Читать далее…</a></p>]]></description>
       <category>Технологии</category>
-    </item>
-    <item>
-      <title>В сети нашли новый спин-офф Fallout. Это игра про котиков</title>
-      <link>https://4pda.to/2026/11/21/463557/v_seti_nashli_novyj_spin_off_fallout_eto_igra_pro_kotikov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463557/v_seti_nashli_novyj_spin_off_fallout_eto_igra_pro_kotikov/</guid>
-      <pubDate>Sat, 21 Nov 2026 09:25:00 +0000</pubDate>
-      <description><![CDATA[Пока поклонники Fallout ждут хотя бы каких-нибудь новостей о пятой части серии, Bethesda нашла для Пустоши новых героев. На сей раз спасать мир предстоит не выходцу из Убежища в синем комбинезоне, а обычному [...]]]></description>
-    </item>
-    <item>
-      <title>Porsche выпустит электрическую копию легендарного спорткара 550 Spyder</title>
-      <link>https://4pda.to/2026/11/21/463522/porsche_vypustit_elektricheskuyu_kopiyu_legendarnogo_sportkara_550_spyder/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463522/porsche_vypustit_elektricheskuyu_kopiyu_legendarnogo_sportkara_550_spyder/</guid>
-      <pubDate>Sat, 21 Nov 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Porsche внезапно представила новый электромобиль 550 J — уменьшенную копию легендарного гоночного 550 Spyder. Машину создали вместе с британской компанией Hedley Studios. Публичная премьера пройдёт 21–22 [...]]]></description>
-    </item>
-    <item>
-      <title>Журнал National Geographic выбрал лучшие фото 2026 года</title>
-      <link>https://4pda.to/2026/11/21/463512/zhurnal_national_geographic_vybral_luchshie_foto_2026_goda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463512/zhurnal_national_geographic_vybral_luchshie_foto_2026_goda/</guid>
-      <pubDate>Sat, 21 Nov 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[National Geographic представил Pictures of the Year 2026 — подборку снимков, сделанных фотографами издания за последние 12 месяцев. В неё вошли кадры со всего мира, демонстрирующие редкие&nbsp;природные&nbsp;явления, [...]]]></description>
-    </item>
-    <item>
-      <title>Xenium L728: практичный телефон с LTE, Bluetooth и зарядной базой</title>
-      <link>https://4pda.to/2026/11/21/463459/xenium_l728_praktichnyj_telefon_s_lte_bluetooth_i_zaryadnoj_bazoj/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463459/xenium_l728_praktichnyj_telefon_s_lte_bluetooth_i_zaryadnoj_bazoj/</guid>
-      <pubDate>Sat, 21 Nov 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Для звонков и повседневных дел часто хватает обычного телефона с понятным меню и физическими кнопками. Но стоит ли ограничиваться минималистичной «звонилкой» с куцым набором функций? Xenium L728 получил [...]]]></description>
-    </item>
-    <item>
-      <title>Забивают унитазы подгузниками и влажными салфетками. Коммунальщики рассказали о проблеме</title>
-      <link>https://realt.onliner.by/go/1144335</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/21/chto-zhilcy-vybrasyvayut-v-unitaz</guid>
-      <pubDate>Sat, 21 Nov 2026 07:52:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/21/chto-zhilcy-vybrasyvayut-v-unitaz"><img alt="" src="https://content.onliner.by/news/thumbnail/04d86eb6b9dfc55d3aac3998f3316315.jpg" /></a></p><p>Пищевые отходы, влажные салфетки, подгузники и даже тряпки — все это коммунальщики находят в канализационных трубах. Только за последний месяц коммунальщики Ленинского района более десяти раз выезжали на устранение засоров.</p><p><a href="https://realt.onliner.by/2026/11/21/chto-zhilcy-vybrasyvayut-v-unitaz">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Соцсети снова сходят с ума по белорусскому адвент-календарю. Почему его распаковывают в России? (обновлено)</title>
-      <link>https://money.onliner.by/go/356162</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/21/ofiget-vy-chto-tvorite-advent-kalendar-zavirusilsya-v-socsetyax-i-vyzval-spory</guid>
-      <pubDate>Sat, 21 Nov 2026 07:35:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/21/ofiget-vy-chto-tvorite-advent-kalendar-zavirusilsya-v-socsetyax-i-vyzval-spory"><img alt="" src="https://content.onliner.by/news/thumbnail/bcc0b12c61e202450ddaf48860ae8863.jpg" /></a></p><p>Производитель косметики Luxvisage показал новый адвент-календарь в виде паровозика и отправил его блогерам — те уже публикуют распаковки и показывают продукты. Многие в соцсетях восхищаются роскошной упаковкой, но вместе с этим задаются вопросом: почему такой календарь нельзя купить обычным людям?</p><p><a href="https://money.onliner.by/2026/11/21/ofiget-vy-chto-tvorite-advent-kalendar-zavirusilsya-v-socsetyax-i-vyzval-spory">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
     </item>
     <item>
       <title>GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives</title>
