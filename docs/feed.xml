@@ -5,7 +5,7 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Sun, 22 Nov 2026 05:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:07:55 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
     <item>
@@ -32,20 +32,163 @@
       <category>News</category>
     </item>
     <item>
-      <title>FOSS Weekly #26.47: Slax is Back, Ubuntu Offers Surge Protection, New Office Suite,  Black Friday Deals for Linux Users and More</title>
-      <link>https://feed.itsfoss.com/link/24361/17529217/foss-weekly-26-47</link>
-      <guid isPermaLink="false">6afd86e2070f240001236852</guid>
-      <pubDate>Thu, 19 Nov 2026 13:49:49 +0000</pubDate>
-      <description><![CDATA[FOSS Weekly]]></description>
-      <category>Newsletter ✉️</category>
+      <title>Просто сдавать комнаты в агроусадьбе не получится? Подробности новых правил</title>
+      <link>https://realt.onliner.by/go/1144376</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/pravila-dlya-agrousadeb</guid>
+      <pubDate>Sun, 22 Nov 2026 13:33:40 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/pravila-dlya-agrousadeb"><img alt="" src="https://content.onliner.by/news/thumbnail/b6ed76a59a31d161c25d01613001e10b.jpg" /></a></p><p>Для владельцев агроусадеб в Беларуси с 20 ноября поменялись правила, а теперь появились подробности: чтобы уплачивать специальный сбор с агроусадеб, хозяевам придется не просто принимать гостей, но и оказывать дополнительные услуги.</p><p><a href="https://realt.onliner.by/2026/11/22/pravila-dlya-agrousadeb">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
     </item>
     <item>
-      <title>Mysterium VPN on Linux is Strictly for Terminal Junkies</title>
-      <link>https://feed.itsfoss.com/link/24361/17529073/mysterium-vpn</link>
-      <guid isPermaLink="false">6af2e24c6c9d5b0001ba9ce6</guid>
-      <pubDate>Thu, 19 Nov 2026 08:17:00 +0000</pubDate>
-      <description><![CDATA[mysterium vpn penguin-themed banner]]></description>
-      <category>First Look</category>
+      <title>В Китае впервые подняли в небо 19-местный электросамолёт с экипажем</title>
+      <link>https://4pda.to/2026/11/22/463362/v_kitae_vpervye_podnyali_v_nebo_19_mestnyj_elektrosamolyot_s_ekipazhem/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463362/v_kitae_vpervye_podnyali_v_nebo_19_mestnyj_elektrosamolyot_s_ekipazhem/</guid>
+      <pubDate>Sun, 22 Nov 2026 12:15:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания COMAC провела лётные испытания пассажирского электросамолёта CE-25A, рассчитанного на региональные перевозки. На очередном этапе аппарат впервые совершил полёт с людьми на борту: в кабине [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске мужчина умер во время приема в частном медцентре</title>
+      <link>https://people.onliner.by/go/1346656</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/22/umer-v-chastnom-medtsentre</guid>
+      <pubDate>Sun, 22 Nov 2026 12:04:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/22/umer-v-chastnom-medtsentre"><img alt="" src="https://content.onliner.by/news/thumbnail/9c468ccb0b2557769dd3e5162efb89df.jpg" /></a></p><p>В Минске 58-летний мужчина умер во время приема в частном медицинском центре. Несмотря на попытки врачей его реанимировать, спасти пациента не удалось.</p><p><a href="https://people.onliner.by/2026/11/22/umer-v-chastnom-medtsentre">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Пользователи обрушили рейтинг GTA VI. Что произошло?</title>
+      <link>https://tech.onliner.by/go/802597</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/22/rejting-gta-vi</guid>
+      <pubDate>Sun, 22 Nov 2026 11:21:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/22/rejting-gta-vi"><img alt="" src="https://content.onliner.by/news/thumbnail/fc86d3019360ff9d21734a6e0b75b771.jpg" /></a></p><p>На одном из главных агрегаторов рецензий Metacritic GTA VI получила 99 баллов из 100 на основе обзоров медиа. Однако, когда спустя два дня после релиза игры открылся рейтинг пользователей, он <a href="https://www.metacritic.com/game/grand-theft-auto-vi/" target="_blank">оказался</a> гораздо ниже — всего 5,6 балла из 10 на момент публикации. Неужели критики настолько переоценили игру? На самом деле, все немного сложнее.</p><p><a href="https://tech.onliner.by/2026/11/22/rejting-gta-vi">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Ультразвуковой пластырь ускоряет наступление фазы быстрого сна</title>
+      <link>https://4pda.to/2026/11/22/463371/ultrazvukovoj_plastyr_uskoryaet_nastuplenie_fazy_bystrogo_sna/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463371/ultrazvukovoj_plastyr_uskoryaet_nastuplenie_fazy_bystrogo_sna/</guid>
+      <pubDate>Sun, 22 Nov 2026 10:45:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Техасского университета в Остине разработали пластырь NEUSLeeP, который с помощью ультразвука воздействует на глубокие отделы мозга. В небольшом исследовании прототип помог&nbsp;участникам быстрее [...]]]></description>
+    </item>
+    <item>
+      <title>Время тестирования аккумуляторов удалось сократить с 10 часов до 3 минут</title>
+      <link>https://4pda.to/2026/11/22/463374/vremya_testirovaniya_akkumulyatorov_udalos_sokratit_s_10_chasov_do_3_minut/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463374/vremya_testirovaniya_akkumulyatorov_udalos_sokratit_s_10_chasov_do_3_minut/</guid>
+      <pubDate>Sun, 22 Nov 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Учёные из Сиднейского университета Нового Южного Уэльса разработали способ проверять использованные аккумуляторы электромобилей менее чем за три минуты. Сейчас такая диагностика занимает около 10 часов [...]]]></description>
+    </item>
+    <item>
+      <title>Женщина десятилетиями хранила в шкафу картину. На аукционе за нее дали почти $5 миллионов</title>
+      <link>https://money.onliner.by/go/356515</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/kartina-lobo-pik-za-5m</guid>
+      <pubDate>Sun, 22 Nov 2026 10:09:01 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/kartina-lobo-pik-za-5m"><img alt="" src="https://content.onliner.by/news/thumbnail/e7f2ed6ba4fe3d42d60f47f234135fc7.jpg" /></a></p><p>В Нью-Йорке продали картину американской художницы Джорджии О’Киф, которая несколько десятилетий пролежала в шкафу обычной квартиры. За работу 1930 года на аукционе Christie’s заплатили $4,878 млн.</p><p><a href="https://money.onliner.by/2026/11/22/kartina-lobo-pik-za-5m">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Цифровая фоторамка TRMNL Frame за $1300 имитирует картину</title>
+      <link>https://4pda.to/2026/11/22/463397/tsifrovaya_fotoramka_trmnl_frame_za_1300_imitiruet_kartinu/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463397/tsifrovaya_fotoramka_trmnl_frame_za_1300_imitiruet_kartinu/</guid>
+      <pubDate>Sun, 22 Nov 2026 09:15:00 +0000</pubDate>
+      <description><![CDATA[Компания TRMNL представила Frame — большой цветной дисплей на электронных чернилах, который выглядит как картина в деревянной раме. Устройство предназначено для показа фотографий, иллюстраций, карт и других [...]]]></description>
+    </item>
+    <item>
+      <title>Музей Fallout в Лас-Вегасе превратился в аттракцион для фанатов серии</title>
+      <link>https://4pda.to/2026/11/22/463561/muzej_fallout_v_las_vegase_prevratilsya_v_attraktsion_dlya_fanatov_serii/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463561/muzej_fallout_v_las_vegase_prevratilsya_v_attraktsion_dlya_fanatov_serii/</guid>
+      <pubDate>Sun, 22 Nov 2026 09:05:00 +0000</pubDate>
+      <description><![CDATA[Поклонникам Fallout, оказавшимся в Лас-Вегасе, теперь есть где скоротать время между посещениями казино. В местном музее можно почувствовать себя обитателем Убежища — и даже попробовать взломать терминал.
+[gallery=1]
+Национальный [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске директор фирмы вынесла из ТЦ гору одежды, чтобы снять стресс</title>
+      <link>https://money.onliner.by/go/356510</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/snyala-stress</guid>
+      <pubDate>Sun, 22 Nov 2026 09:03:33 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/snyala-stress"><img alt="" src="https://content.onliner.by/news/thumbnail/a870b4e9ee9ddb72fdeedbdad5a8730c.jpg" /></a></p><p>В Минске 45-летняя директор частной компании решила снять стресс необычным способом: отправилась в бутик брендовой одежды, набрала вещей и пошла срезать с них бирки. В итоге женщина вынесла из магазина одежды на сумму более 1 тыс. рублей.</p><p><a href="https://money.onliner.by/2026/11/22/snyala-stress">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Робот ACE Robotics ускоряет обслуживание номеров в отелях почти в 100 раз</title>
+      <link>https://4pda.to/2026/11/22/463418/robot_ace_robotics_uskoryaet_obsluzhivanie_nomerov_v_otelyakh_pochti_v_100_raz/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463418/robot_ace_robotics_uskoryaet_obsluzhivanie_nomerov_v_otelyakh_pochti_v_100_raz/</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Китайская компания ACE Robotics показала робота, который может самостоятельно собирать грязное бельё в номерах отеля, отвозить его в прачечную, а затем загружать стиральные и сушильные машины. После этого [...]]]></description>
+    </item>
+    <item>
+      <title>После взрыва газа в Тбилиси 28 семей остались без жилья. Один из бизнесменов купит им квартиры (видео)</title>
+      <link>https://realt.onliner.by/go/1144364</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/vzryv-gaza-v-tbilisi</guid>
+      <pubDate>Sun, 22 Nov 2026 08:58:57 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/vzryv-gaza-v-tbilisi"><img alt="" src="https://content.onliner.by/news/thumbnail/4b6ff78129046dd1181d6b37041ea18a.jpg" /></a></p><p>В Тбилиси после взрыва газа в жилом доме 28 семей остались без жилья. Сегодня, 22 ноября, в Грузии объявлен день траура по погибшим в этой трагедии.</p><p><a href="https://realt.onliner.by/2026/11/22/vzryv-gaza-v-tbilisi">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Маколей Калкин снимется в новой части «Один дома»</title>
+      <link>https://people.onliner.by/go/1346652</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/22/prodolzhenie-odin-doma</guid>
+      <pubDate>Sun, 22 Nov 2026 08:06:03 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/22/prodolzhenie-odin-doma"><img alt="" src="https://content.onliner.by/news/thumbnail/d9d4807a2f4582552e1f3164130fe121.jpg" /></a></p><p>Disney начала раннюю разработку продолжения фильма «Один дома». К работе над сценарием подключились актер Маколей Калкин, сыгравший Кевина в оригинальной картине, а также Сет Роген и Эван Голдберг.</p><p><a href="https://people.onliner.by/2026/11/22/prodolzhenie-odin-doma">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Серия REDMI Note 17 — смартфоны, которым не нужно искать розетку</title>
+      <link>https://4pda.to/2026/11/22/462674/seriya_redmi_note_17_smartfony_kotorym_ne_nuzhno_iskat_rozetku/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/462674/seriya_redmi_note_17_smartfony_kotorym_ne_nuzhno_iskat_rozetku/</guid>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[Что делать, если нужен новый смартфон, а флагманы в 2026 году шокируют своими ценами? Стоит присмотреться к серии REDMI Note 17. Это классические рабочие лошадки с акцентом на автономность и долговечность. [...]]]></description>
+    </item>
+    <item>
+      <title>Sanrivatti показала гиперкар с мотоциклетной посадкой водителя</title>
+      <link>https://4pda.to/2026/11/22/463443/sanrivatti_pokazala_giperkar_s_mototsikletnoj_posadkoj_voditelya/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463443/sanrivatti_pokazala_giperkar_s_mototsikletnoj_posadkoj_voditelya/</guid>
+      <pubDate>Sun, 22 Nov 2026 07:45:00 +0000</pubDate>
+      <description><![CDATA[Нидерландская компания Sanrivatti анонсировала гиперкар One. Среди конкурентов он выделяется посадкой для водителя. Вместо привычного кресла с откинутой спинкой здесь предлагают расположить человека по [...]]]></description>
+    </item>
+    <item>
+      <title>В Щучинском районе перевернулся Volkswagen, водитель погиб</title>
+      <link>https://auto.onliner.by/go/1275974</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/22/pogib-v-shhuchinskom-rajone</guid>
+      <pubDate>Sun, 22 Nov 2026 07:30:55 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/22/pogib-v-shhuchinskom-rajone"><img alt="" src="https://content.onliner.by/news/thumbnail/96b20bd8739590d16357605fc5d1f4ed.jpg" /></a></p><p>Вчера днем в Щучинском районе погиб 64-летний водитель Volkswagen. Мужчина ехал по дороге Желудок — Орля — Мальковичи в сторону агрогородка Орля, но не справился с управлением.</p><p><a href="https://auto.onliner.by/2026/11/22/pogib-v-shhuchinskom-rajone">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>На МКАД столкнулись четыре автомобиля. Видео с места ДТП (видео)</title>
+      <link>https://auto.onliner.by/go/1275965</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/22/chetyre-avto-na-mkad</guid>
+      <pubDate>Sun, 22 Nov 2026 07:24:59 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/22/chetyre-avto-na-mkad"><img alt="" src="https://content.onliner.by/news/thumbnail/572ef1dc5414e7d2d65b58d0894bc54f.jpg" /></a></p><p>Вчера вечером на МКАД столкнулись сразу четыре автомобиля: Geely, Opel, Ford и Volkswagen. Авария произошла в районе 32-го километра внутреннего кольца.</p><p><a href="https://auto.onliner.by/2026/11/22/chetyre-avto-na-mkad">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>15 тысяч ставок за 44 минуты. В Гомеле сдали в аренду 4 «квадрата» в поликлинике</title>
+      <link>https://realt.onliner.by/go/1144360</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/kvadraty-v-poliklinike</guid>
+      <pubDate>Sun, 22 Nov 2026 07:19:27 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/kvadraty-v-poliklinike"><img alt="" src="https://content.onliner.by/news/thumbnail/3707ecebdf5209e1c07d4bfa4c303b92.jpg" /></a></p><p>Когда говорят о борьбе за квадратные метры, обычно речь идет о квартирах. Но в Гомеле настоящую битву за «квадраты» устроили совсем в другом месте — в поликлинике. Четыре квадратных метра у выхода из здания сдали в аренду за 30 тыс. рублей.</p><p><a href="https://realt.onliner.by/2026/11/22/kvadraty-v-poliklinike">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>SEGA Dreamcast научили запускать игры Nintendo 64 без эмуляторов</title>
+      <link>https://4pda.to/2026/11/22/463514/sega_dreamcast_nauchili_zapuskat_igry_nintendo_64_bez_emulyatorov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463514/sega_dreamcast_nauchili_zapuskat_igry_nintendo_64_bez_emulyatorov/</guid>
+      <pubDate>Sun, 22 Nov 2026 06:25:00 +0000</pubDate>
+      <description><![CDATA[В конце 90-х сложно было представить, что в игры про Марио однажды можно будет поиграть на приставке SEGA. Но спустя четверть века после ухода компании с рынка домашних консолей энтузиасты решили эту невозможную [...]]]></description>
+    </item>
+    <item>
+      <title>Смартфон удалось запитать от 256 стеблей лотоса</title>
+      <link>https://4pda.to/2026/11/22/463415/smartfon_udalos_zapitat_ot_256_steblej_lotosa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463415/smartfon_udalos_zapitat_ot_256_steblej_lotosa/</guid>
+      <pubDate>Sun, 22 Nov 2026 06:15:00 +0000</pubDate>
+      <description><![CDATA[Китайские учёные создали необычный генератор, который получает электричество из испарения воды. В основу для разработки прототипа легли стебли лотоса и специальные бактерии. Несколько сотен таких генераторов [...]]]></description>
+    </item>
+    <item>
+      <title>Исследователи изучили, как экраны влияют на мозг и учёбу школьников</title>
+      <link>https://4pda.to/2026/11/22/463416/issledovateli_izuchili_kak_ekrany_vliyayut_na_mozg_i_uchyobu_shkolnikov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/22/463416/issledovateli_izuchili_kak_ekrany_vliyayut_na_mozg_i_uchyobu_shkolnikov/</guid>
+      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[Оказывается,&nbsp;влияние смартфонов на детей зависит от того, как и где они используют гаджеты. Запреты на телефоны во время уроков могут улучшать успеваемость, но осмысленное время перед экраном связано [...]]]></description>
     </item>
     <item>
       <title>С чего срисовали эту машину? Обзор автомобильного мира GTA VI</title>
@@ -56,7 +199,7 @@
       <category>Авто</category>
     </item>
     <item>
-      <title>Суровые снаружи, ранимые внутри: какими мы запомним главных красавцев 2010-х</title>
+      <title>Герои ушедшей эпохи: 10 главных мужских секс-символов 2010-х</title>
       <link>https://people.onliner.by/go/1345567</link>
       <guid isPermaLink="false">https://people.onliner.by/2026/11/22/muzhchiny-seks-simvoly-2010-x</guid>
       <pubDate>Sun, 22 Nov 2026 05:00:49 +0000</pubDate>
@@ -80,7 +223,7 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Прорабы с лавочки. Пенсионеры от скуки придумали себе очень странное хобби</title>
+      <title>Руки за спину, взгляд в траншею. Зачем итальянские старики часами гипнотизируют стройки</title>
       <link>https://realt.onliner.by/go/1144287</link>
       <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/umarell</guid>
       <pubDate>Sun, 22 Nov 2026 05:00:29 +0000</pubDate>
@@ -222,6 +365,14 @@
       <category>Недвижимость</category>
     </item>
     <item>
+      <title>Сотрудник Anthropic заявил о решении загадки, которую математики не могли разгадать 167 лет</title>
+      <link>https://tech.onliner.by/go/802569</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/21/anthropic-gipoteza-rimana</guid>
+      <pubDate>Sat, 21 Nov 2026 10:04:18 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/21/anthropic-gipoteza-rimana"><img alt="" src="https://content.onliner.by/news/thumbnail/7d482ec0be41db8b678dcf441c26b8ce.jpg" /></a></p><p>Математик Левент Альпеге, работающий в компании Anthropic, утверждает, что вместе с ИИ-ассистентом Claude нашел доказательство гипотезы Римана. Это одна из самых известных нерешенных задач математики, ее сформулировали еще в 1859 году.</p><p><a href="https://tech.onliner.by/2026/11/21/anthropic-gipoteza-rimana">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
       <title>В сети нашли новый спин-офф Fallout. Это игра про котиков</title>
       <link>https://4pda.to/2026/11/21/463557/v_seti_nashli_novyj_spin_off_fallout_eto_igra_pro_kotikov/</link>
       <guid isPermaLink="false">https://4pda.to/2026/11/21/463557/v_seti_nashli_novyj_spin_off_fallout_eto_igra_pro_kotikov/</guid>
@@ -266,177 +417,6 @@
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Китайский робот-пожарный выдержал полчаса в печи при температуре 1000 °C</title>
-      <link>https://4pda.to/2026/11/21/463528/kitajskij_robot_pozharnyj_vyderzhal_polchasa_v_pechi_pri_temperature_1000_c/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463528/kitajskij_robot_pozharnyj_vyderzhal_polchasa_v_pechi_pri_temperature_1000_c/</guid>
-      <pubDate>Sat, 21 Nov 2026 07:30:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания Beijing Lesentech испытала робота-пожарного RXR-M80D-AX2. Прототип провёл 30 минут в печи при температуре 1000 °C и после этого сохранил работоспособность.
-[youtube=yKfpXEJhLKE:640:360:::0]
-Робот [...]]]></description>
-    </item>
-    <item>
-      <title>Пострадавшему в ДТП присудили 12 000 рублей. Платить будет не водитель, а организация</title>
-      <link>https://auto.onliner.by/go/1275934</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/21/voditelnitsa-sbila-velosipedista</guid>
-      <pubDate>Sat, 21 Nov 2026 07:24:07 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/voditelnitsa-sbila-velosipedista"><img alt="" src="https://content.onliner.by/news/thumbnail/0c32cdc8420fff50edba012e3975c96d.jpg" /></a></p><p>В Речицком районе суд обязал организацию выплатить 12 000 рублей мужчине, который пострадал в ДТП с участием ее автомобиля. За рулем была сотрудница этой организации.</p><p><a href="https://auto.onliner.by/2026/11/21/voditelnitsa-sbila-velosipedista">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>В Минске у водителя начались судороги за рулем — машина врезалась в дерево. Видео (видео)</title>
-      <link>https://auto.onliner.by/go/1275929</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/21/ploho-za-rulem</guid>
-      <pubDate>Sat, 21 Nov 2026 06:41:23 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/ploho-za-rulem"><img alt="" src="https://content.onliner.by/news/thumbnail/252a56f00ca4e0e6620f533434445ab0.jpg" /></a></p><p>Вчера вечером на улице Железнодорожной Renault врезался в дерево. Это произошло возле дома №110. За рулем был 47-летний мужчина. По предварительной информации, во время движения у него начались судороги.</p><p><a href="https://auto.onliner.by/2026/11/21/ploho-za-rulem">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Главное за неделю: релиз GTA VI, обзоры Motorola Signature 27, Xiaomi 18 Pro и 18 Pro Max уже в России</title>
-      <link>https://4pda.to/2026/11/21/463566/glavnoe_za_nedelyu_reliz_gta_vi_obzory_motorola_signature_27_xiaomi_18_pro_i_18_pro_max_uzhe_v_rossii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463566/glavnoe_za_nedelyu_reliz_gta_vi_obzory_motorola_signature_27_xiaomi_18_pro_i_18_pro_max_uzhe_v_rossii/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:30:00 +0000</pubDate>
-      <description><![CDATA[Эта неделя отметилась интересными событиями, включая появление в РФ смартфонов Xiaomi 18 Pro и 18 Pro Max, а также выход первых зарубежных обзоров Motorola Signature 27. Но о каких других новостях вообще [...]]]></description>
-    </item>
-    <item>
-      <title>Tesla Model 3 превратили в классический Chevrolet Bel Air 1955 года</title>
-      <link>https://4pda.to/2026/11/21/463508/tesla_model_3_prevratili_v_klassicheskij_chevrolet_bel_air_1955_goda/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463508/tesla_model_3_prevratili_v_klassicheskij_chevrolet_bel_air_1955_goda/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[Американское тюнинг-ателье West Coast Customs, знакомое некоторым по культовому шоу «Тачка на прокачку» завершило необычный проект Project B-Zero. Мастера решили превратить Tesla Model 3 в Chevrolet Bel [...]]]></description>
-    </item>
-    <item>
-      <title>В Китае роботы установили мировой рекорд по синхронному танцу</title>
-      <link>https://4pda.to/2026/11/21/463523/v_kitae_roboty_ustanovili_mirovoj_rekord_po_sinkhronnomu_tantsu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463523/v_kitae_roboty_ustanovili_mirovoj_rekord_po_sinkhronnomu_tantsu/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[В китайском Шэньчжэне состоялось необычное представление с участием целой группы человекоподобных роботов. Оно прошло накануне саммита АТЭС и завершилось новым мировым рекордом.
-В общей сложности [...]]]></description>
-    </item>
-    <item>
-      <title>Steam Machine обошла PlayStation 6 и новую Xbox по интересу разработчиков</title>
-      <link>https://4pda.to/2026/11/21/463457/steam_machine_oboshla_playstation_6_i_novuyu_xbox_po_interesu_razrabotchikov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463457/steam_machine_oboshla_playstation_6_i_novuyu_xbox_po_interesu_razrabotchikov/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:05:00 +0000</pubDate>
-      <description><![CDATA[Новая Steam Machine от Valve неожиданно оказалась популярнее будущих консолей Sony и Microsoft среди разработчиков игр. Причём разница получилась довольно заметной. Об этом говорят результаты свежего опроса [...]]]></description>
-    </item>
-    <item>
-      <title>BYD выпустила серийный автомобиль со складывающимся рулём</title>
-      <link>https://4pda.to/2026/11/21/463549/byd_vypustila_serijnyj_avtomobil_so_skladyvayuschimsya_rulyom/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463549/byd_vypustila_serijnyj_avtomobil_so_skladyvayuschimsya_rulyom/</guid>
-      <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[BYD представила внедорожник Fang Cheng Bao Tai 9 со складывающимся рулём. Он поворачивается на 180 градусов и убирается в отсек передней панели примерно за 10 секунд, а на его месте появляется небольшой [...]]]></description>
-    </item>
-    <item>
-      <title>В райцентре появился ресторан, ради которого туда едут из других городов</title>
-      <link>https://people.onliner.by/go/1346471</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/21/restoran-poezd</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/21/restoran-poezd"><img alt="" src="https://content.onliner.by/news/thumbnail/8856a69bd2b735448173893e6bb07693.png" /></a></p><p>Пару недель назад соцсети словно с цепи сорвались: блогеры один за другим начали публиковать фото и видео из Лунинца, где ресторан обустроили прямо в настоящем железнодорожном вагоне. Заведение уже называют новой фишкой райцентра и заманивают посетителей блюдами белорусской кухни. Мы тоже не смогли устоять и отправились на юг Беларуси, чтобы протестировать одно из самых необычных заведений страны. Узнали, откуда взялся ресторан на рельсах, что предлагают в меню и сколько стоит поужинать в купе вагона, который никуда не едет.</p><p><a href="https://people.onliner.by/2026/11/21/restoran-poezd">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Почему все сошли с ума от этого фильма? Рецензия на документалку «Увидеть все» (видео)</title>
-      <link>https://tech.onliner.by/go/802114</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/21/uvidet-vse</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/21/uvidet-vse"><img alt="" src="https://content.onliner.by/news/thumbnail/3fcc7b90023a8080c6fa480b4520961b.jpg" /></a></p><p>В белорусский кинопрокат вышел один из самых громких фильмов года — «Увидеть все». Это документалка об Элизабет Холмс, которая оказалась в центре крупнейшего скандала в Кремниевой долине, обманув инвесторов на сотни миллионов долларов. Ее история сама по себе очень интересна, но авторы картины о провалившейся бизнесвумен, как <a href="https://www.rogerebert.com/reviews/you-can-see-everything-nathan-fielder-elizabeth-holmes-a24-film-review-2026" target="_blank">говорится</a> в некоторых рецензиях, нашли «новый кинематографический язык в массовом документальном кино». А оценки фильма стремятся пробить потолок практически на всех профильных порталах. Причем в восторге как критики, так и зрители. Рассказываем подробнее, почему эта лента так взбудоражила многих.</p><p><a href="https://tech.onliner.by/2026/11/21/uvidet-vse">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Чем заняться мотоциклисту зимой? Десять идей</title>
-      <link>https://auto.onliner.by/go/1275790</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/21/chem-zanyatsya-motociklistu-zimoj</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:44 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/21/chem-zanyatsya-motociklistu-zimoj"><img alt="" src="https://content.onliner.by/news/thumbnail/1f96795f13bafd1c1637e798c5147b65.jpg" /></a></p><p>Только поставили мотоцикл на зимнее хранение, а уже скучаете по нему и под грустную мелодию «В камине в шесть утра…» пересматриваете свои фотографии на байке? Да, с белорусской погодой рассчитывать на раннее начало сезона в следующем году не приходится… Так что давайте вместе придумаем, чем заняться в ожидании теплой и сухой весны.</p><p><a href="https://auto.onliner.by/2026/11/21/chem-zanyatsya-motociklistu-zimoj">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Разморозили! На Филимонова наконец начинают строить второй дом</title>
-      <link>https://realt.onliner.by/go/1144241</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/21/na-filimonova-nachinayut-stroit-vtoroj-dom</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:15 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/21/na-filimonova-nachinayut-stroit-vtoroj-dom"><img alt="" src="https://content.onliner.by/news/thumbnail/4e0f5215bfab4ce827189aba4c8e75a4.jpg" /></a></p><p>Квартал двухэтажек, зажатых между улицами Филимонова, Столетова и Слепянской водной системой, — место некогда одного из самых обсуждаемых сносов. Еще в 2022 году здесь приговорили 67 домов. Такие объемы казались нереальными — ну как можно отселить сразу столько народа? Дело и правда продвигалось не быстро. Сносили, грубо говоря, по четыре объекта в год, что очень триггерило оставшихся в своих квартирах минчан — как жить, на что рассчитывать и будет ли вообще обещанное «великое переселение»?</p><p><a href="https://realt.onliner.by/2026/11/21/na-filimonova-nachinayut-stroit-vtoroj-dom">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Пять тысяч долларов в сутки. Как детсадовская песенка принесла миллионы на пустом месте (видео)</title>
-      <link>https://money.onliner.by/go/356352</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/21/happy-birthday</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/21/happy-birthday"><img alt="" src="https://content.onliner.by/news/thumbnail/955a5b473f82fce27cfc76bdd42656e4.jpg" /></a></p><p>Happy Birthday знают, пожалуй, все. Книга рекордов Гиннесса признала ее самой узнаваемой песней на английском языке, и закономерно, что сама мелодия давно разошлась по другим странам, обзаведясь локальными текстами разной степени удачности. Бесплатной, как ни странно, композиция при этом не была: правами на нее владело издательство Warner/Chappell, рассчитывавшее собирать роялти за ее использование в США вплоть до 2030 года. До середины 2010-х за каждое коммерческое появление песенки в кино, сериалах, рекламе и даже ресторанах приходилось платить, причем чек нередко доходил до десятков тысяч долларов. За семейным столом со свечами петь самое известное поздравление в мире правообладатель милостиво разрешал даром, удовлетворившись «скромными» заработками в $2 млн в год. Окончательно освободить народную композицию от эксплуатации жадными дельцами удалось лишь летом 2016-го, и бывшему владельцу это стоило недешево.</p><p><a href="https://money.onliner.by/2026/11/21/happy-birthday">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>NASA преодолело звуковой барьер при испытаниях марсианского вертолёта</title>
-      <link>https://4pda.to/2026/11/21/463467/nasa_preodolelo_zvukovoj_barer_pri_ispytaniyakh_marsianskogo_vertolyota/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463467/nasa_preodolelo_zvukovoj_barer_pri_ispytaniyakh_marsianskogo_vertolyota/</guid>
-      <pubDate>Sat, 21 Nov 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[NASA испытало новые лопасти для марсианских дронов&nbsp;на сверхзвуковых скоростях. Они выдержали разгон до 1,08 маха,&nbsp;а потенциальная подъёмная сила будущих аппаратов выросла на 30%.&nbsp;
-На [...]]]></description>
-    </item>
-    <item>
-      <title>DOOM запустили на флешке. Управление — через копирование файлов [ВИДЕО]</title>
-      <link>https://4pda.to/2026/11/21/463456/doom_zapustili_na_fleshke_upravlenie_cherez_kopirovanie_fajlov_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463456/doom_zapustili_na_fleshke_upravlenie_cherez_kopirovanie_fajlov_video/</guid>
-      <pubDate>Sat, 21 Nov 2026 04:25:00 +0000</pubDate>
-      <description><![CDATA[Легендарный шутер успели перенести на самые разные гаджеты, а теперь очередь дошла и до обычной флешки. Причём на ней можно не просто посмотреть на игру, но и пострелять по демонам. Правда, с управлением [...]]]></description>
-    </item>
-    <item>
-      <title>Китай контролирует 80% патентов на подводные центры обработки данных</title>
-      <link>https://4pda.to/2026/11/21/463468/kitaj_kontroliruet_80_patentov_na_podvodnye_tsentry_obrabotki_dannykh/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463468/kitaj_kontroliruet_80_patentov_na_podvodnye_tsentry_obrabotki_dannykh/</guid>
-      <pubDate>Sat, 21 Nov 2026 04:15:00 +0000</pubDate>
-      <description><![CDATA[Китай стал лидером по числу патентов, связанных с подводными дата-центрами. На страну приходится около 80% всех заявок в этой области за последние 20 лет. Исследование показывает, что интерес к технологии [...]]]></description>
-    </item>
-    <item>
-      <title>Миллиарды за минуты. Самые выгодные быстрые сделки в истории</title>
-      <link>https://money.onliner.by/go/116386</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/21/milliardy-za-minuty</guid>
-      <pubDate>Sat, 21 Nov 2026 04:00:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/21/milliardy-za-minuty"><img alt="" src="https://content.onliner.by/news/thumbnail/0ed76fb1bf0d8980f2342d6531fcb8f9.jpg" /></a></p><p>Когда биржи трясло от кризисов и паники, кто-то терял все, а кто-то внезапно становился миллиардером. Они угадывали момент, ставили против большинства — и выигрывали. Среди них Джордж Сорос, Пол Тюдор Джонс, Дэвид Теппер и другие, чьи сделки вошли в учебники по финансовой интуиции. В этой статье — несколько историй мгновенного обогащения, в которых чутье и холодная голова стоили дороже любых ресурсов.
-</p><p><a href="https://money.onliner.by/2026/11/21/milliardy-za-minuty">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Избавьтесь от безумца!» Как человек пытался показать миру первый телевизор</title>
-      <link>https://tech.onliner.by/go/563856</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/21/pervye-televizory</guid>
-      <pubDate>Sat, 21 Nov 2026 04:00:12 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/21/pervye-televizory"><img alt="" src="https://content.onliner.by/news/thumbnail/44e78d9104f2456482022a656db57a04.jpg" /></a></p><p>Сегодня довольно часто можно услышать фразу: <em>«Я не смотрю телевизор!»</em> Но телевизионные программы продолжают находить аудиторию — пускай и в другой форме вроде публикаций в сети после вещания в эфире. Да и сами телевизоры претерпели немало изменений: от громоздких ящиков весом в несколько десятков килограммов с проводными пультами и малюсенькими экранами, требующими лупу, — до тончайших панелей толщиной менее сантиметра. Рассказываем, кто, каким образом и когда создавал телевидение в том виде, в котором мы его знаем.
-</p><p><a href="https://tech.onliner.by/2026/11/21/pervye-televizory">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Вояджер-1» удалился от Земли на расстояние одного светового дня</title>
-      <link>https://4pda.to/2026/11/21/463466/voyadzher_1_udalilsya_ot_zemli_na_rasstoyanie_odnogo_svetovogo_dnya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463466/voyadzher_1_udalilsya_ot_zemli_na_rasstoyanie_odnogo_svetovogo_dnya/</guid>
-      <pubDate>Sat, 21 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Космический зонд «Вояджер-1» удалился от Земли на расстояние одного светового дня. Теперь радиосигналу, движущемуся со скоростью света, требуется 24 часа, чтобы достичь аппарата. Это официально самый отдалённый [...]]]></description>
-    </item>
-    <item>
-      <title>Чёрная пятница с Roborock: пылесосы для ручной и автоматической уборки со скидками</title>
-      <link>https://4pda.to/2026/11/20/463560/chyornaya_pyatnitsa_s_roborock_pylesosy_dlya_ruchnoj_i_avtomaticheskoj_uborki_so_skidkami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/20/463560/chyornaya_pyatnitsa_s_roborock_pylesosy_dlya_ruchnoj_i_avtomaticheskoj_uborki_so_skidkami/</guid>
-      <pubDate>Fri, 20 Nov 2026 20:00:00 +0000</pubDate>
-      <description><![CDATA[Чёрная пятница — хороший повод наконец купить технику, которую давно хотели, или присмотреться к устройству, о котором раньше даже не задумывались. Например, к пылесосу, способному не только собирать мусор, [...]]]></description>
-    </item>
-    <item>
-      <title>«Белтелеком» повысит некоторые тарифы с 29 ноября (обновлено)</title>
-      <link>https://tech.onliner.by/go/797699</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/20/beltelekom-povyshaet-tarify-s-1-noyabrya</guid>
-      <pubDate>Fri, 20 Nov 2026 19:47:06 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/20/beltelekom-povyshaet-tarify-s-1-noyabrya"><img alt="" src="https://content.onliner.by/news/thumbnail/534bacb2a20e3bb34b2c216b3dc36c6d.jpg" /></a></p><p>Ранее компания «Белтелеком» анонсировала повышение ряда тарифов как для физических, так и для юридических лиц с 1 ноября. Об этом <a href="https://beltelecom.by/news/main/beltelekom-informiruet-ob-izmenenii-tarifov-5" target="_blank">говорилось</a> в сообщении на официальном сайте компании. 30 октября компания <a href="https://beltelecom.by/news/main/beltelekom-informiruet" target="_blank">сообщила</a>, что 1 ноября повышение тарифов не состоится. Как следует из датированной 18 ноября <a href="https://beltelecom.by/news/main/beltelekom-informiruet-ob-izmenenii-tarifov-6" target="_blank">публикации</a>, с 29 ноября оператор повысит ряд тарифов.</p><p><a href="https://tech.onliner.by/2026/11/20/beltelekom-povyshaet-tarify-s-1-noyabrya">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Белорусов зовут встретить Новый год «под стук колес»</title>
-      <link>https://people.onliner.by/go/1346586</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/20/novyy-god-pod-stuk-koles</guid>
-      <pubDate>Fri, 20 Nov 2026 15:31:37 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/20/novyy-god-pod-stuk-koles"><img alt="" src="https://content.onliner.by/news/thumbnail/370d973ac8f4f3dcf9fbffb683ef5d42.jpg" /></a></p><p>Уже придумали, как будете встречать Новый год? В Threads предложили необычный вариант: отметить праздник прямо в поезде, в компании незнакомцев. Пост собрал более 80 тыс. просмотров, а в комментариях делятся своими новогодними историями из поездов, вспоминают похожие приключения и обсуждают, чем заняться в Витебске ранним утром.</p><p><a href="https://people.onliner.by/2026/11/20/novyy-god-pod-stuk-koles">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
       <title>GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives</title>
       <link>https://feed.itsfoss.com/link/24361/17536085/grapheneos-google-oem-pressure</link>
       <guid isPermaLink="false">6affd8ba070f240001242646</guid>
@@ -450,14 +430,6 @@
       <guid isPermaLink="false">6affe703070f2400012426e5</guid>
       <pubDate>Fri, 20 Nov 2026 09:09:25 +0000</pubDate>
       <description><![CDATA[Ubuntu Certfication Exams]]></description>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Now Nginx Has Critical Vulnerabilities</title>
-      <link>https://feed.itsfoss.com/link/24361/17529152/nginx-code-execution-flaws</link>
-      <guid isPermaLink="false">6afeb33e070f240001237454</guid>
-      <pubDate>Thu, 19 Nov 2026 12:44:29 +0000</pubDate>
-      <description><![CDATA[nginx bug and laptop-themed banner]]></description>
       <category>News</category>
     </item>
   </channel>
