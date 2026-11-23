@@ -5,9 +5,17 @@
     <title>Merged RSS Feed</title>
     <link>https://github.com</link>
     <description>Combined RSS feed</description>
-    <lastBuildDate>Mon, 23 Nov 2026 05:58:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:55:09 +0000</lastBuildDate>
     <atom:link href="https://github.com" rel="self" type="application/rss+xml"/>
     <generator>RSS Merger / GitHub Actions</generator>
+    <item>
+      <title>CachyOS Just Made One of Linux’s Biggest Gaming Problems Way Easier</title>
+      <link>https://feed.itsfoss.com/link/24361/17538226/cachyos-november-release</link>
+      <guid isPermaLink="false">6b03c3b8070f240001243778</guid>
+      <pubDate>Mon, 23 Nov 2026 12:02:00 +0000</pubDate>
+      <description><![CDATA[cachyos screenshot being shown inside a monitor]]></description>
+      <category>News</category>
+    </item>
     <item>
       <title>Your Linux Laptop Won't Suspend? Here's What You Can Do</title>
       <link>https://feed.itsfoss.com/link/24361/17537621/linux-laptop-suspend-inhibitor-lock</link>
@@ -33,414 +41,448 @@
       <category>News</category>
     </item>
     <item>
-      <title>УКСы могут все что угодно. Топ-10 строек Минска в крутых локациях</title>
-      <link>https://realt.onliner.by/go/1144381</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/23/uksy-mogut-vse-chto-ugodno</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:36 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/23/uksy-mogut-vse-chto-ugodno"><img alt="" src="https://content.onliner.by/news/thumbnail/ee932cd92639d4f5105f27d6d95e1bce.jpg" /></a></p><p>Еще с десяток лет назад любой минчанин, планирующий вписаться в долевое строительство, мог буквально «жонглировать» коммерческими девелоперами, отбрасывая одно предложение за другим. К 2026-му все изменилось — основная строительная «власть» теперь сосредоточена в руках УКСов, которые торопятся наверстать упущенное. Чуть ли не каждую неделю появляются новости о том, как силами госзастройщиков расчищаются территории под новые проекты, а «жилые» старты объявляются один за одним. Смотрим на свежие объекты, которым достались площадки на зависть.</p><p><a href="https://realt.onliner.by/2026/11/23/uksy-mogut-vse-chto-ugodno">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
+      <title>Что делать, если СБП и «Мир» выдают ошибку в популярных браузерах</title>
+      <link>https://4pda.to/2026/11/23/463598/chto_delat_esli_sbp_i_mir_vydayut_oshibku_v_populyarnykh_brauzerakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463598/chto_delat_esli_sbp_i_mir_vydayut_oshibku_v_populyarnykh_brauzerakh/</guid>
+      <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
+      <description><![CDATA[Россияне начали сталкиваться с проблемами при оплате покупок через Систему быстрых платежей (СБП). Google Chrome, Safari, Firefox и другие браузеры могут предупреждать о небезопасном соединении и препятствовать [...]]]></description>
     </item>
     <item>
-      <title>В декабре изменятся правила для дачников, водителей и покупателей. Что надо знать</title>
-      <link>https://money.onliner.by/go/356384</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/izmeneniya-v-dekabre</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:11 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/izmeneniya-v-dekabre"><img alt="" src="https://content.onliner.by/news/thumbnail/aa19749704f26c83c21c284af23d5508.jpg" /></a></p><p>В декабре белорусов ждут новые правила для автомобилистов и владельцев загородной недвижимости, изменения в расчете бюджета прожиточного минимума и другие нововведения. Рассказываем, к чему стоит подготовиться и что важно не пропустить.</p><p><a href="https://money.onliner.by/2026/11/23/izmeneniya-v-dekabre">Читать далее…</a></p>]]></description>
+      <title>Опрос: пользуетесь ли вы смайликами в переписках?</title>
+      <link>https://4pda.to/2026/11/23/463608/opros_polzuetes_li_vy_smajlikami_v_perepiskakh/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463608/opros_polzuetes_li_vy_smajlikami_v_perepiskakh/</guid>
+      <pubDate>Mon, 23 Nov 2026 16:50:00 +0000</pubDate>
+      <description><![CDATA[Недавно выяснилось, что новые трёхмерные смайлики&nbsp;Google очень требовательны к характеристикам устройства и занимают целых 10 ГБ свободного места. Учитывая рост цен на память, это кажется не самым [...]]]></description>
+    </item>
+    <item>
+      <title>BlackBerry выпустила защищённый браузер для Windows</title>
+      <link>https://4pda.to/2026/11/23/463609/blackberry_vypustila_zaschischyonnyj_brauzer_dlya_windows/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463609/blackberry_vypustila_zaschischyonnyj_brauzer_dlya_windows/</guid>
+      <pubDate>Mon, 23 Nov 2026 16:40:00 +0000</pubDate>
+      <description><![CDATA[Компания BlackBerry, известная в прошлом фирменными смартфонами, представила Access Secure Browser для Windows — браузер на базе Chromium, предназначенный для безопасной работы с корпоративными данными [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi выпустила устройство, превращающее обычные рулонные шторы в умные</title>
+      <link>https://4pda.to/2026/11/23/463596/xiaomi_vypustila_ustrojstvo_prevraschayuschee_obychnye_rulonnye_shtory_v_umnye/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463596/xiaomi_vypustila_ustrojstvo_prevraschayuschee_obychnye_rulonnye_shtory_v_umnye/</guid>
+      <pubDate>Mon, 23 Nov 2026 16:30:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi представила устройство под
+названием Home Curtain Companion Roller Blind Edition. С его помощью можно автоматизировать
+работу обычных рулонных штор без необходимости полной замены карниза или
+установки [...]]]></description>
+    </item>
+    <item>
+      <title>В Беларуси с 1 января вырастет минимальная зарплата. Сколько она составит?</title>
+      <link>https://money.onliner.by/go/356720</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/v-belarusi-s-1-yanvarya-vyrastet-minimalnaya-zarplata-skolko-ona-sostavit</guid>
+      <pubDate>Mon, 23 Nov 2026 15:52:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/v-belarusi-s-1-yanvarya-vyrastet-minimalnaya-zarplata-skolko-ona-sostavit"><img alt="" src="https://content.onliner.by/news/thumbnail/1dafaf2076af092a68059196f08f9c0d.jpg" /></a></p><p>С 1 января 2027 года в Беларуси увеличатся минимальная заработная плата и базовая ставка, от которой зависят зарплаты работников бюджетной сферы. Соответствующее постановление подписал премьер-министр.</p><p><a href="https://money.onliner.by/2026/11/23/v-belarusi-s-1-yanvarya-vyrastet-minimalnaya-zarplata-skolko-ona-sostavit">Читать далее…</a></p>]]></description>
       <category>Кошелек</category>
     </item>
     <item>
-      <title>Не берите авто первого года выпуска и забудьте про «нулевку»: советы мастера с 30-летним опытом</title>
-      <link>https://auto.onliner.by/go/1275963</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/30-let-opyta-vag</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:10 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/30-let-opyta-vag"><img alt="" src="https://content.onliner.by/news/thumbnail/5642d3499f391d6038f2551ae06891d6.jpg" /></a></p><p>Максиму недавно исполнилось 50 лет. И 30 из них он посвятил работе с автомобилями концерна VAG. Начинал в 1990-е учеником на первом официальном сервисе Volkswagen в Минске — «Атлант-М», затем открыл собственную СТО, а позже — небольшую частную мастерскую. Поговорим с Максимом о том, как изменились машины за три десятка лет, в чем секрет их правильного обслуживания и запчастям каких брендов сегодня можно доверять.</p><p><a href="https://auto.onliner.by/2026/11/23/30-let-opyta-vag">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
+      <title>Обзор Tronsmart Bang 2 Ultra: 500 Вт, которые действительно слышно</title>
+      <link>https://4pda.to/2026/11/23/463409/obzor_tronsmart_bang_2_ultra_500_vt_kotorye_dejstvitelno_slyshno/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463409/obzor_tronsmart_bang_2_ultra_500_vt_kotorye_dejstvitelno_slyshno/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:30:00 +0000</pubDate>
+      <description><![CDATA[Если обычную Bang 2 впору брать с собой в гости или на природу, то версия Ultra предлагает больше. В Tronsmart решили не мелочиться и представили самое мощное устройство серии — на 500 Вт, с вуфером 6x9 [...]]]></description>
     </item>
     <item>
-      <title>Вышли замуж, родили, но все равно играют. Поговорили с геймершами из Беларуси</title>
-      <link>https://tech.onliner.by/go/802354</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/igry-ne-zhenskoe-delo-beloruski-rasskazyvayut-pochemu-eto-ne-tak</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:09 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/igry-ne-zhenskoe-delo-beloruski-rasskazyvayut-pochemu-eto-ne-tak"><img alt="" src="https://content.onliner.by/news/thumbnail/1ef6029f2bf74d6ce8c6edfc0852029d.jpg" /></a></p><p>В сети до сих пор обитает косматый, замшелый, но все-таки живой стереотип, что видеоигры — не женское занятие. Частично это подтверждает киберспорт: например, в этом международном <a href="https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1850349/full?utm_source">исследовании</a> лишь 59 киберспортсменов из 413 были женщинами. Но что сами девушки-геймеры думают насчет такого штампа? Мы решили узнать у них напрямую: расспросили белорусок об их любимых играх и о том, как часто они сталкиваются с критикой со стороны мужчин.
-</p><p><a href="https://tech.onliner.by/2026/11/23/igry-ne-zhenskoe-delo-beloruski-rasskazyvayut-pochemu-eto-ne-tak">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Один день в туристическом Бангкоке: от золотых Будд до шумного Чайнатауна</title>
-      <link>https://people.onliner.by/go/1346660</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/23/staryj-bangkok</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/23/staryj-bangkok"><img alt="" src="https://content.onliner.by/news/thumbnail/f4294342bc2dd4d5815ce402fa3b7fac.jpg" /></a></p><p><em>«Вот и он. Бангкок. Город веселья. Ворота в Юго-Восточную Азию, где доллары и дойчмарки превращаются в поддельные часы и настоящие шрамы»,</em> — так описал столицу Таиланда герой Леонардо ДиКаприо в фильме «Пляж» и, судя по всему, на долгие годы закрепил за ней репутацию крайне специфического места, из которого хочется поскорее сбежать, собственно, на самый дальний пляж. Ну а мы продолжаем доказывать обратное после того, как слетали в Бангкок новым <a href="https://people.onliner.by/2026/10/25/pervyj-rejs-belavia-v-stolicu-tailanda/" target="_blank">прямым рейсом</a> и провели там пару насыщенных дней. Про то, чем живет современная часть города, что напоминает «Бегущего по лезвию», мы уже рассказывали в <a href="https://people.onliner.by/2026/11/11/bangkok/" target="_blank">предыдущем материале</a> таиландского цикла. Теперь перебираемся в старый Бангкок, ради которого многие вообще покупают билеты в Таиланд, — с золотыми храмами, огромными статуями Будды, лодками на узких каналах, рынками с тысячами странных вещиц и уличной едой под неоновыми вывесками.</p><p><a href="https://people.onliner.by/2026/11/23/staryj-bangkok">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>ChatGPT запустили на 35-летней игровой консоли Nintendo</title>
-      <link>https://4pda.to/2026/11/23/463577/chatgpt_zapustili_na_35_letnej_igrovoj_konsoli_nintendo/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/23/463577/chatgpt_zapustili_na_35_letnej_igrovoj_konsoli_nintendo/</guid>
-      <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
-      <description><![CDATA[Игровая консоль Nintendo SNES,
-вышедшая в 1990 году, получила возможность общаться с пользователем при помощи ИИ. Энтузиаст
-Бендж Эдвардс адаптировал ChatGPT к работе на винтажном железе — хоть и ценой [...]]]></description>
-    </item>
-    <item>
-      <title>Энтузиаст выпустил бесплатную утилиту для мониторинга питания видеокарт RTX 5090</title>
-      <link>https://4pda.to/2026/11/23/463576/entuziast_vypustil_besplatnuyu_utilitu_dlya_monitoringa_pitaniya_videokart_rtx_5090/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/23/463576/entuziast_vypustil_besplatnuyu_utilitu_dlya_monitoringa_pitaniya_videokart_rtx_5090/</guid>
-      <pubDate>Mon, 23 Nov 2026 04:30:00 +0000</pubDate>
-      <description><![CDATA[Независимый разработчик под ником
-Codehack_GR представил RTX Lens — бесплатную программу с открытым исходным
-кодом для контроля питания видеокарт и обнаружения потенциальных проблем с
-разъёмами 12V-2x6.&nbsp;Она [...]]]></description>
-    </item>
-    <item>
-      <title>«Спасибо, до свидания». Что делать, когда начальник-абьюзер лезет куда не надо</title>
-      <link>https://money.onliner.by/go/298070</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/abyuz-na-rabote</guid>
-      <pubDate>Mon, 23 Nov 2026 04:00:52 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/abyuz-na-rabote"><img alt="" src="https://content.onliner.by/news/thumbnail/2b0f3a611958bdeed7caab9b6fa30708.jpg" /></a></p><p>Если при поиске вакансий вы замечаете формулировки вроде «Мы дружная семья», «У нас креативно» или «Нужна стрессоустойчивость», стоит насторожиться. А если работодатель еще и не указывает зарплату, вопросов становится больше. Какие фразы и поступки начальника должны стать тревожным сигналом? Как распознать токсичного работодателя и не попасть в коллектив, где буллинг и абьюз считаются нормой? Об этом Onlíner рассказал экзистенциальный и гештальттерапевт Иван Петушок. Вместе со специалистом мы разобрали реальные ситуации и выяснили, с чем на работе мириться не стоит.
-</p><p><a href="https://money.onliner.by/2026/11/23/abyuz-na-rabote">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>«Почему белорусы упорно держатся за этот миф?» Врач — о наших ошибках при лечении антибиотиками</title>
-      <link>https://people.onliner.by/go/1346349</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/23/antibiotiki-2</guid>
-      <pubDate>Mon, 23 Nov 2026 04:00:50 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/23/antibiotiki-2"><img alt="" src="https://content.onliner.by/news/thumbnail/07a84cdd98559dc447993e14560ba8a8.jpg" /></a></p><p>Если ваши ручки тянутся к упаковке антибиотиков в любой непонятной ситуации — этот текст для вас. Какие-то заблуждения об антибиотиках кажутся довольно забавными: например, привычка белорусов делить их на «сильные» и «слабые», словно гладиаторов на арене. Другие ошибки могут стоить дороже. Что будет, если пить антибиотики без повода? А если бросить прием на полпути? Почему лучше не запивать лекарства молоком? И правда ли мы все умрем из-за бесконтрольного приема антибиотиков? Об этом и не только Onlíner поговорил с доктором Юлией Дрозд в совместном спецпроекте с <a href="https://tabletka.by/search/?request=%D0%BB%D0%B8%D0%BD%D0%B5%D0%BA%D1%81%C2%A0%D1%84%D0%BE%D1%80%D1%82%D0%B5&amp;utm_source=onliner&amp;utm_medium=text&amp;utm_campaign=spec&amp;utm_content=linex_feat" target="_blank">Sandoz</a>.
-</p><p><a href="https://people.onliner.by/2026/11/23/antibiotiki-2">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Продали или потеряли Android? Ваши данные в опасности — вот как их защитить за пару шагов</title>
-      <link>https://tech.onliner.by/go/743686</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/kak-podgotovit-android-smartfon-k-prodazhe</guid>
-      <pubDate>Mon, 23 Nov 2026 04:00:47 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/kak-podgotovit-android-smartfon-k-prodazhe"><img alt="" src="https://content.onliner.by/news/thumbnail/927f8b111da6eb5615d78d451d9eaa87.jpg" /></a></p><p>Подготовили гайд, который может понадобиться в случае, если вы планируете продать Android-смартфон, потеряли его или просто намерены отдать кому-то. При этом делиться личными данными желания у вас нет, да и кто знает, что там хранится в глубинах памяти мобильника. Разделим материал на два основных блока: что делать перед продажей Android-смартфона и что делать, если вы потеряли смартфон или он тотально сломался. Бонусом — какие могут быть последствия, если этих действий не предпринять.
-</p><p><a href="https://tech.onliner.by/2026/11/23/kak-podgotovit-android-smartfon-k-prodazhe">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Tesla обновила свой «автопилот»: дизайн как в GTA и много новых функций</title>
-      <link>https://4pda.to/2026/11/23/463574/tesla_obnovila_svoj_avtopilot_dizajn_kak_v_gta_i_mnogo_novykh_funktsij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/23/463574/tesla_obnovila_svoj_avtopilot_dizajn_kak_v_gta_i_mnogo_novykh_funktsij/</guid>
-      <pubDate>Mon, 23 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Tesla начала распространять крупное обновление функции помощи в вождении для своих автомобилей. Самым заметным изменением в версии FSD v15 стала новая визуализация дороги в духе популярной видеоигры. Заодно [...]]]></description>
-    </item>
-    <item>
-      <title>HMD выпустит новый камерофон в духе серии PureView — но уже без Nokia</title>
-      <link>https://4pda.to/2026/11/23/463573/hmd_vypustit_novyj_kamerofon_v_dukhe_serii_pureview_no_uzhe_bez_nokia/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/23/463573/hmd_vypustit_novyj_kamerofon_v_dukhe_serii_pureview_no_uzhe_bez_nokia/</guid>
-      <pubDate>Mon, 23 Nov 2026 03:30:00 +0000</pubDate>
-      <description><![CDATA[Компания HMD показала новый смартфон с четырьмя камерами и надписью Schneider-Kreuznach на корпусе. А следом раскрыла первые характеристики устройства, включая однодюймовый сенсор и флагманский процессор [...]]]></description>
-    </item>
-    <item>
-      <title>Phison представила серию SSD для космических дата-центров</title>
-      <link>https://4pda.to/2026/11/23/463572/phison_predstavila_seriyu_ssd_dlya_kosmicheskikh_data_tsentrov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/23/463572/phison_predstavila_seriyu_ssd_dlya_kosmicheskikh_data_tsentrov/</guid>
-      <pubDate>Mon, 23 Nov 2026 03:00:00 +0000</pubDate>
-      <description><![CDATA[Компания Phison презентовала линейку твердотельных накопителей Pascari Space, созданных специально для космических аппаратов. Новинки рассчитаны на эксплуатацию в экстремальных условия, в которых обычная [...]]]></description>
-    </item>
-    <item>
-      <title>Блогер сделал ховерборд из «Назад в будущее» [ВИДЕО]</title>
-      <link>https://4pda.to/2026/11/22/463363/bloger_sdelal_khoverbord_iz_nazad_v_buduschee_video/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463363/bloger_sdelal_khoverbord_iz_nazad_v_buduschee_video/</guid>
-      <pubDate>Sun, 22 Nov 2026 19:55:00 +0000</pubDate>
-      <description><![CDATA[Блогер Джейк Роджерс собрал миниатюрный ховерборд, вдохновлённый культовым фильмом «Назад в будущее 2». Прототип&nbsp;работает без проводов и уже может парить в воздухе, но пока не подходит для катания.&nbsp;
-Внутри [...]]]></description>
-    </item>
-    <item>
-      <title>Роботы научились реалистично двигать глазами и пальцами</title>
-      <link>https://4pda.to/2026/11/22/463373/roboty_nauchilis_realistichno_dvigat_glazami_i_paltsami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463373/roboty_nauchilis_realistichno_dvigat_glazami_i_paltsami/</guid>
-      <pubDate>Sun, 22 Nov 2026 19:45:00 +0000</pubDate>
-      <description><![CDATA[Исследователи из Пенсильванского университета разработали искусственные мышцы CoilLCE, позволяющие роботам выполнять точные движения. В ходе демонстрации роботизированная рука сыграла несколько нот на [...]]]></description>
-    </item>
-    <item>
-      <title>Benelli показала мотоцикл с активными аэродинамическими крыльями</title>
-      <link>https://4pda.to/2026/11/22/463365/benelli_pokazala_mototsikl_s_aktivnymi_aerodinamicheskimi_krylyami/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463365/benelli_pokazala_mototsikl_s_aktivnymi_aerodinamicheskimi_krylyami/</guid>
-      <pubDate>Sun, 22 Nov 2026 18:00:00 +0000</pubDate>
-      <description><![CDATA[На выставке EICMA 2026 компания Benelli представила концепт мотоцикла Tornado Naked Tre 903. Главная особенность модели кроется в подвижных аэродинамических крыльях, которые меняют положение прямо во время [...]]]></description>
-    </item>
-    <item>
-      <title>Заслуженный MicroProfessor: компьютер, который появился в 1981-м, производился 40 лет и дожил до наших дней</title>
-      <link>https://4pda.to/2026/11/22/463568/zasluzhennyj_microprofessor_kompyuter_kotoryj_poyavilsya_v_1981_m_proizvodilsya_40_let_i_dozhil_do_nashikh_dnej/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463568/zasluzhennyj_microprofessor_kompyuter_kotoryj_poyavilsya_v_1981_m_proizvodilsya_40_let_i_dozhil_do_nashikh_dnej/</guid>
-      <pubDate>Sun, 22 Nov 2026 17:00:00 +0000</pubDate>
-      <description><![CDATA[В 1981 году появился необычный компьютер: размером с книгу, с светящимися цифрами вместо экрана и всего двумя килобайтами оперативной памяти. При этом он работал на процессоре Zilog Z80 — таком же, какой [...]]]></description>
-    </item>
-    <item>
-      <title>ASUS собрала гуманоидного робота Gallop для заводов</title>
-      <link>https://4pda.to/2026/11/22/463393/asus_sobrala_gumanoidnogo_robota_gallop_dlya_zavodov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463393/asus_sobrala_gumanoidnogo_robota_gallop_dlya_zavodov/</guid>
-      <pubDate>Sun, 22 Nov 2026 16:45:00 +0000</pubDate>
-      <description><![CDATA[ASUS разрабатывает гуманоидного робота Gallop, который должен выполнять повторяющиеся операции на заводах. Его уже успешно испытывают на предприятии компании, где он учится упаковывать комплекты аксессуаров [...]]]></description>
-    </item>
-    <item>
-      <title>Моноколесо KingSong F16 Aven получило мотор на 10 000 Вт</title>
-      <link>https://4pda.to/2026/11/22/463367/monokoleso_kingsong_f16_aven_poluchilo_motor_na_10_000_vt/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463367/monokoleso_kingsong_f16_aven_poluchilo_motor_na_10_000_vt/</guid>
-      <pubDate>Sun, 22 Nov 2026 15:15:00 +0000</pubDate>
-      <description><![CDATA[Компания KingSong представила новое электрическое моноколесо F16 Aven для городских поездок и бездорожья. Модель рассчитана на опытных райдеров, а её пиковая мощность двигателя достигает 10 000 Вт.
-Крутящий [...]]]></description>
-    </item>
-    <item>
-      <title>В Минске прохожий обокрал женщину, которая подарила ему варежки</title>
-      <link>https://money.onliner.by/go/356528</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/krazha-vyazanyh-veschey</guid>
-      <pubDate>Sun, 22 Nov 2026 14:30:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/krazha-vyazanyh-veschey"><img alt="" src="https://content.onliner.by/news/thumbnail/897403f1e2381bde8d0722cbe2dd84d5.jpg" /></a></p><p>В милицию обратилась 59-летняя минчанка: у нее пропали вязаные игрушки, шапки и варежки на сумму более 3 тыс. рублей.</p><p><a href="https://money.onliner.by/2026/11/22/krazha-vyazanyh-veschey">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Энтузиаст воскресил старый концепт компьютера Apple</title>
-      <link>https://4pda.to/2026/11/22/463387/entuziast_voskresil_staryj_kontsept_kompyutera_apple/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463387/entuziast_voskresil_staryj_kontsept_kompyutera_apple/</guid>
-      <pubDate>Sun, 22 Nov 2026 13:45:00 +0000</pubDate>
-      <description><![CDATA[Энтузиаст c Reddit воссоздал концепт компьютера Apple, разработанный студией Frog Design в начале 1980-х. Оригинальное устройство так и не стало серийным, поэтому автор решил сделать собственную версию [...]]]></description>
-    </item>
-    <item>
-      <title>Просто сдавать комнаты в агроусадьбе не получится? Подробности новых правил</title>
-      <link>https://realt.onliner.by/go/1144376</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/pravila-dlya-agrousadeb</guid>
-      <pubDate>Sun, 22 Nov 2026 13:33:40 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/pravila-dlya-agrousadeb"><img alt="" src="https://content.onliner.by/news/thumbnail/b6ed76a59a31d161c25d01613001e10b.jpg" /></a></p><p>Для владельцев агроусадеб в Беларуси с 20 ноября поменялись правила, а теперь появились подробности: чтобы уплачивать специальный сбор с агроусадеб, хозяевам придется не просто принимать гостей, но и оказывать дополнительные услуги.</p><p><a href="https://realt.onliner.by/2026/11/22/pravila-dlya-agrousadeb">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>В Китае впервые подняли в небо 19-местный электросамолёт с экипажем</title>
-      <link>https://4pda.to/2026/11/22/463362/v_kitae_vpervye_podnyali_v_nebo_19_mestnyj_elektrosamolyot_s_ekipazhem/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463362/v_kitae_vpervye_podnyali_v_nebo_19_mestnyj_elektrosamolyot_s_ekipazhem/</guid>
-      <pubDate>Sun, 22 Nov 2026 12:15:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания COMAC провела лётные испытания пассажирского электросамолёта CE-25A, рассчитанного на региональные перевозки. На очередном этапе аппарат впервые совершил полёт с людьми на борту: в кабине [...]]]></description>
-    </item>
-    <item>
-      <title>В Минске мужчина умер во время приема в частном медцентре</title>
-      <link>https://people.onliner.by/go/1346656</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/22/umer-v-chastnom-medtsentre</guid>
-      <pubDate>Sun, 22 Nov 2026 12:04:35 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/22/umer-v-chastnom-medtsentre"><img alt="" src="https://content.onliner.by/news/thumbnail/9c468ccb0b2557769dd3e5162efb89df.jpg" /></a></p><p>В Минске 58-летний мужчина умер во время приема в частном медицинском центре. Несмотря на попытки врачей его реанимировать, спасти пациента не удалось.</p><p><a href="https://people.onliner.by/2026/11/22/umer-v-chastnom-medtsentre">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Пользователи обрушили рейтинг GTA VI. Что произошло?</title>
-      <link>https://tech.onliner.by/go/802597</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/22/rejting-gta-vi</guid>
-      <pubDate>Sun, 22 Nov 2026 11:21:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/22/rejting-gta-vi"><img alt="" src="https://content.onliner.by/news/thumbnail/fc86d3019360ff9d21734a6e0b75b771.jpg" /></a></p><p>На одном из главных агрегаторов рецензий Metacritic GTA VI получила 99 баллов из 100 на основе обзоров медиа. Однако, когда спустя два дня после релиза игры открылся рейтинг пользователей, он <a href="https://www.metacritic.com/game/grand-theft-auto-vi/" target="_blank">оказался</a> гораздо ниже — всего 5,6 балла из 10 на момент публикации. Неужели критики настолько переоценили игру? На самом деле, все немного сложнее.</p><p><a href="https://tech.onliner.by/2026/11/22/rejting-gta-vi">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>Ультразвуковой пластырь ускоряет наступление фазы быстрого сна</title>
-      <link>https://4pda.to/2026/11/22/463371/ultrazvukovoj_plastyr_uskoryaet_nastuplenie_fazy_bystrogo_sna/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463371/ultrazvukovoj_plastyr_uskoryaet_nastuplenie_fazy_bystrogo_sna/</guid>
-      <pubDate>Sun, 22 Nov 2026 10:45:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Техасского университета в Остине разработали пластырь NEUSLeeP, который с помощью ультразвука воздействует на глубокие отделы мозга. В небольшом исследовании прототип помог&nbsp;участникам быстрее [...]]]></description>
-    </item>
-    <item>
-      <title>Время тестирования аккумуляторов удалось сократить с 10 часов до 3 минут</title>
-      <link>https://4pda.to/2026/11/22/463374/vremya_testirovaniya_akkumulyatorov_udalos_sokratit_s_10_chasov_do_3_minut/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463374/vremya_testirovaniya_akkumulyatorov_udalos_sokratit_s_10_chasov_do_3_minut/</guid>
-      <pubDate>Sun, 22 Nov 2026 10:30:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Сиднейского университета Нового Южного Уэльса разработали способ проверять использованные аккумуляторы электромобилей менее чем за три минуты. Сейчас такая диагностика занимает около 10 часов [...]]]></description>
-    </item>
-    <item>
-      <title>Женщина десятилетиями хранила в шкафу картину. На аукционе за нее дали почти $5 миллионов</title>
-      <link>https://money.onliner.by/go/356515</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/kartina-lobo-pik-za-5m</guid>
-      <pubDate>Sun, 22 Nov 2026 10:09:01 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/kartina-lobo-pik-za-5m"><img alt="" src="https://content.onliner.by/news/thumbnail/e7f2ed6ba4fe3d42d60f47f234135fc7.jpg" /></a></p><p>В Нью-Йорке продали картину американской художницы Джорджии О’Киф, которая несколько десятилетий пролежала в шкафу обычной квартиры. За работу 1930 года на аукционе Christie’s заплатили $4,878 млн.</p><p><a href="https://money.onliner.by/2026/11/22/kartina-lobo-pik-za-5m">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Цифровая фоторамка TRMNL Frame за $1300 имитирует картину</title>
-      <link>https://4pda.to/2026/11/22/463397/tsifrovaya_fotoramka_trmnl_frame_za_1300_imitiruet_kartinu/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463397/tsifrovaya_fotoramka_trmnl_frame_za_1300_imitiruet_kartinu/</guid>
-      <pubDate>Sun, 22 Nov 2026 09:15:00 +0000</pubDate>
-      <description><![CDATA[Компания TRMNL представила Frame — большой цветной дисплей на электронных чернилах, который выглядит как картина в деревянной раме. Устройство предназначено для показа фотографий, иллюстраций, карт и других [...]]]></description>
-    </item>
-    <item>
-      <title>Музей Fallout в Лас-Вегасе превратился в аттракцион для фанатов серии</title>
-      <link>https://4pda.to/2026/11/22/463561/muzej_fallout_v_las_vegase_prevratilsya_v_attraktsion_dlya_fanatov_serii/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463561/muzej_fallout_v_las_vegase_prevratilsya_v_attraktsion_dlya_fanatov_serii/</guid>
-      <pubDate>Sun, 22 Nov 2026 09:05:00 +0000</pubDate>
-      <description><![CDATA[Поклонникам Fallout, оказавшимся в Лас-Вегасе, теперь есть где скоротать время между посещениями казино. В местном музее можно почувствовать себя обитателем Убежища — и даже попробовать взломать терминал.
-[gallery=1]
-Национальный [...]]]></description>
-    </item>
-    <item>
-      <title>В Минске директор фирмы вынесла из ТЦ гору одежды, чтобы снять стресс</title>
-      <link>https://money.onliner.by/go/356510</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/snyala-stress</guid>
-      <pubDate>Sun, 22 Nov 2026 09:03:33 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/snyala-stress"><img alt="" src="https://content.onliner.by/news/thumbnail/a870b4e9ee9ddb72fdeedbdad5a8730c.jpg" /></a></p><p>В Минске 45-летняя директор частной компании решила снять стресс необычным способом: отправилась в бутик брендовой одежды, набрала вещей и пошла срезать с них бирки. В итоге женщина вынесла из магазина одежды на сумму более 1 тыс. рублей.</p><p><a href="https://money.onliner.by/2026/11/22/snyala-stress">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Робот ACE Robotics ускоряет обслуживание номеров в отелях почти в 100 раз</title>
-      <link>https://4pda.to/2026/11/22/463418/robot_ace_robotics_uskoryaet_obsluzhivanie_nomerov_v_otelyakh_pochti_v_100_raz/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463418/robot_ace_robotics_uskoryaet_obsluzhivanie_nomerov_v_otelyakh_pochti_v_100_raz/</guid>
-      <pubDate>Sun, 22 Nov 2026 09:00:00 +0000</pubDate>
-      <description><![CDATA[Китайская компания ACE Robotics показала робота, который может самостоятельно собирать грязное бельё в номерах отеля, отвозить его в прачечную, а затем загружать стиральные и сушильные машины. После этого [...]]]></description>
-    </item>
-    <item>
-      <title>После взрыва газа в Тбилиси 28 семей остались без жилья. Один из бизнесменов купит им квартиры (видео)</title>
-      <link>https://realt.onliner.by/go/1144364</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/vzryv-gaza-v-tbilisi</guid>
-      <pubDate>Sun, 22 Nov 2026 08:58:57 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/vzryv-gaza-v-tbilisi"><img alt="" src="https://content.onliner.by/news/thumbnail/4b6ff78129046dd1181d6b37041ea18a.jpg" /></a></p><p>В Тбилиси после взрыва газа в жилом доме 28 семей остались без жилья. Сегодня, 22 ноября, в Грузии объявлен день траура по погибшим в этой трагедии.</p><p><a href="https://realt.onliner.by/2026/11/22/vzryv-gaza-v-tbilisi">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Маколей Калкин снимется в новой части «Один дома»</title>
-      <link>https://people.onliner.by/go/1346652</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/22/prodolzhenie-odin-doma</guid>
-      <pubDate>Sun, 22 Nov 2026 08:06:03 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/22/prodolzhenie-odin-doma"><img alt="" src="https://content.onliner.by/news/thumbnail/d9d4807a2f4582552e1f3164130fe121.jpg" /></a></p><p>Disney начала раннюю разработку продолжения фильма «Один дома». К работе над сценарием подключились актер Маколей Калкин, сыгравший Кевина в оригинальной картине, а также Сет Роген и Эван Голдберг.</p><p><a href="https://people.onliner.by/2026/11/22/prodolzhenie-odin-doma">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Серия REDMI Note 17 — смартфоны, которым не нужно искать розетку</title>
-      <link>https://4pda.to/2026/11/22/462674/seriya_redmi_note_17_smartfony_kotorym_ne_nuzhno_iskat_rozetku/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/462674/seriya_redmi_note_17_smartfony_kotorym_ne_nuzhno_iskat_rozetku/</guid>
-      <pubDate>Sun, 22 Nov 2026 08:00:00 +0000</pubDate>
-      <description><![CDATA[Что делать, если нужен новый смартфон, а флагманы в 2026 году шокируют своими ценами? Стоит присмотреться к серии REDMI Note 17. Это классические рабочие лошадки с акцентом на автономность и долговечность. [...]]]></description>
-    </item>
-    <item>
-      <title>Sanrivatti показала гиперкар с мотоциклетной посадкой водителя</title>
-      <link>https://4pda.to/2026/11/22/463443/sanrivatti_pokazala_giperkar_s_mototsikletnoj_posadkoj_voditelya/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463443/sanrivatti_pokazala_giperkar_s_mototsikletnoj_posadkoj_voditelya/</guid>
-      <pubDate>Sun, 22 Nov 2026 07:45:00 +0000</pubDate>
-      <description><![CDATA[Нидерландская компания Sanrivatti анонсировала гиперкар One. Среди конкурентов он выделяется посадкой для водителя. Вместо привычного кресла с откинутой спинкой здесь предлагают расположить человека по [...]]]></description>
-    </item>
-    <item>
-      <title>В Щучинском районе перевернулся Volkswagen, водитель погиб</title>
-      <link>https://auto.onliner.by/go/1275974</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/22/pogib-v-shhuchinskom-rajone</guid>
-      <pubDate>Sun, 22 Nov 2026 07:30:55 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/22/pogib-v-shhuchinskom-rajone"><img alt="" src="https://content.onliner.by/news/thumbnail/96b20bd8739590d16357605fc5d1f4ed.jpg" /></a></p><p>Вчера днем в Щучинском районе погиб 64-летний водитель Volkswagen. Мужчина ехал по дороге Желудок — Орля — Мальковичи в сторону агрогородка Орля, но не справился с управлением.</p><p><a href="https://auto.onliner.by/2026/11/22/pogib-v-shhuchinskom-rajone">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>На МКАД столкнулись четыре автомобиля. Видео с места ДТП (видео)</title>
-      <link>https://auto.onliner.by/go/1275965</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/22/chetyre-avto-na-mkad</guid>
-      <pubDate>Sun, 22 Nov 2026 07:24:59 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/22/chetyre-avto-na-mkad"><img alt="" src="https://content.onliner.by/news/thumbnail/572ef1dc5414e7d2d65b58d0894bc54f.jpg" /></a></p><p>Вчера вечером на МКАД столкнулись сразу четыре автомобиля: Geely, Opel, Ford и Volkswagen. Авария произошла в районе 32-го километра внутреннего кольца.</p><p><a href="https://auto.onliner.by/2026/11/22/chetyre-avto-na-mkad">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>15 тысяч ставок за 44 минуты. В Гомеле сдали в аренду 4 «квадрата» в поликлинике</title>
-      <link>https://realt.onliner.by/go/1144360</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/kvadraty-v-poliklinike</guid>
-      <pubDate>Sun, 22 Nov 2026 07:19:27 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/kvadraty-v-poliklinike"><img alt="" src="https://content.onliner.by/news/thumbnail/3707ecebdf5209e1c07d4bfa4c303b92.jpg" /></a></p><p>Когда говорят о борьбе за квадратные метры, обычно речь идет о квартирах. Но в Гомеле настоящую битву за «квадраты» устроили совсем в другом месте — в поликлинике. Четыре квадратных метра у выхода из здания сдали в аренду за 30 тыс. рублей.</p><p><a href="https://realt.onliner.by/2026/11/22/kvadraty-v-poliklinike">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>SEGA Dreamcast научили запускать игры Nintendo 64 без эмуляторов</title>
-      <link>https://4pda.to/2026/11/22/463514/sega_dreamcast_nauchili_zapuskat_igry_nintendo_64_bez_emulyatorov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463514/sega_dreamcast_nauchili_zapuskat_igry_nintendo_64_bez_emulyatorov/</guid>
-      <pubDate>Sun, 22 Nov 2026 06:25:00 +0000</pubDate>
-      <description><![CDATA[В конце 90-х сложно было представить, что в игры про Марио однажды можно будет поиграть на приставке SEGA. Но спустя четверть века после ухода компании с рынка домашних консолей энтузиасты решили эту невозможную [...]]]></description>
-    </item>
-    <item>
-      <title>Смартфон удалось запитать от 256 стеблей лотоса</title>
-      <link>https://4pda.to/2026/11/22/463415/smartfon_udalos_zapitat_ot_256_steblej_lotosa/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463415/smartfon_udalos_zapitat_ot_256_steblej_lotosa/</guid>
-      <pubDate>Sun, 22 Nov 2026 06:15:00 +0000</pubDate>
-      <description><![CDATA[Китайские учёные создали необычный генератор, который получает электричество из испарения воды. В основу для разработки прототипа легли стебли лотоса и специальные бактерии. Несколько сотен таких генераторов [...]]]></description>
-    </item>
-    <item>
-      <title>Исследователи изучили, как экраны влияют на мозг и учёбу школьников</title>
-      <link>https://4pda.to/2026/11/22/463416/issledovateli_izuchili_kak_ekrany_vliyayut_na_mozg_i_uchyobu_shkolnikov/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463416/issledovateli_izuchili_kak_ekrany_vliyayut_na_mozg_i_uchyobu_shkolnikov/</guid>
-      <pubDate>Sun, 22 Nov 2026 06:00:00 +0000</pubDate>
-      <description><![CDATA[Оказывается,&nbsp;влияние смартфонов на детей зависит от того, как и где они используют гаджеты. Запреты на телефоны во время уроков могут улучшать успеваемость, но осмысленное время перед экраном связано [...]]]></description>
-    </item>
-    <item>
-      <title>С чего срисовали эту машину? Обзор автомобильного мира GTA VI</title>
-      <link>https://auto.onliner.by/go/1275836</link>
-      <guid isPermaLink="false">https://auto.onliner.by/2026/11/22/avtomir-gta-vi</guid>
-      <pubDate>Sun, 22 Nov 2026 05:00:56 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/22/avtomir-gta-vi"><img alt="" src="https://content.onliner.by/news/thumbnail/2f2e587d6247ba47ba01acc51185edc1.jpg" /></a></p><p>GTA VI — одна из самых популярных тем в социальных сетях на этой неделе. Все бурно обсуждают, что Джейсону приходится носить Лусии пакеты из магазина и выполнять домашние обязательства типа ремонта крыши или покраски стен. Но давайте не забывать, что обозначает третья буква в аббревиатуре GTA. Мы несколько дней не выпускали из рук геймпад, чтобы понять, что изменилось в GTA VI в плане автомобилей. А там произошла настоящая революция по сравнению с предыдущими частями! Новая GTA, без сомнений, обладает самой проработанной дорожной инфраструктурой в истории всех видеоигр, притом что в игре, как и прежде, нет ни одной реально существующей машины.</p><p><a href="https://auto.onliner.by/2026/11/22/avtomir-gta-vi">Читать далее…</a></p>]]></description>
-      <category>Авто</category>
-    </item>
-    <item>
-      <title>Герои ушедшей эпохи: 10 главных мужских секс-символов 2010-х</title>
-      <link>https://people.onliner.by/go/1345567</link>
-      <guid isPermaLink="false">https://people.onliner.by/2026/11/22/muzhchiny-seks-simvoly-2010-x</guid>
-      <pubDate>Sun, 22 Nov 2026 05:00:49 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/22/muzhchiny-seks-simvoly-2010-x"><img alt="" src="https://content.onliner.by/news/thumbnail/936907a4dd8c30cde7f5d897428af663.png" /></a></p><p>Едва мир оправился от мирового финансового кризиса, как новое десятилетие обрушилось на него очередной волной потрясений. В 2010-х годах друг за другом последовал ряд политических кризисов и войн, итогом которых стал миграционный бум. Соцсети перекочевали на стремительно дешевеющие смартфоны, люди получили доступ к бесконечной ленте новостей, которую сами же и формировали, а в космос полетели первые частные корабли. Общество лихорадило, и это отражалось на всем, включая каноны мужской привлекательности. В первой половине 2010-х ответом на внешние угрозы стал культ подчеркнутой силы: новыми героями объявили ламберсексуалов с их густыми бородами и тату. Правда, поддержание образа сурового защитника, готового к выживанию в любых условиях, требовало регулярных походов в барбершопы, которые как раз в это время начали расти как грибы после дождя. Во второй половине десятилетия маятник народной любви качнулся обратно. Из-за громких скандалов и движения #MeToo началась борьба с агрессивной маскулинностью, а расцвет корейской K-pop-культуры легализовал совершенно другие стандарты: мягкость, утонченность и андрогинность. Вспоминаем главные мужские лица ушедшей эпохи противоречий.</p><p><a href="https://people.onliner.by/2026/11/22/muzhchiny-seks-simvoly-2010-x">Читать далее…</a></p>]]></description>
-      <category>Люди</category>
-    </item>
-    <item>
-      <title>Рейтинг лучших способов заменить интернет</title>
-      <link>https://tech.onliner.by/go/802400</link>
-      <guid isPermaLink="false">https://tech.onliner.by/2026/11/22/chem-zamenit-internet</guid>
-      <pubDate>Sun, 22 Nov 2026 05:00:39 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/22/chem-zamenit-internet"><img alt="" src="https://content.onliner.by/news/thumbnail/c6b0adb118094a662a33f29023620032.jpg" /></a></p><p>В античные времена люди пользовались, вероятно, сплошь беспроводным интернетом, ведь никаких проводов при раскопках не нашли. На самом деле, держать связь как-то надо было, и за многие века способов накопилось немало. Мы отобрали некоторые менее известные и раскрученные, но добавили и более популярные, а вам предлагаем выбрать лучшие из них — те, которые вы считаете наиболее эффективными, удобными в случае апокалипсиса (мало ли ударит супервулкан или случится мегавспышка на Солнце) на замену интернету.</p><p><a href="https://tech.onliner.by/2026/11/22/chem-zamenit-internet">Читать далее…</a></p>]]></description>
-      <category>Технологии</category>
-    </item>
-    <item>
-      <title>«Боюсь потерять такую зарплату». Как живет белорус, который получает 14 500 рублей</title>
-      <link>https://money.onliner.by/go/356110</link>
-      <guid isPermaLink="false">https://money.onliner.by/2026/11/22/zarplata-14500-byudzhet</guid>
-      <pubDate>Sun, 22 Nov 2026 05:00:38 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/22/zarplata-14500-byudzhet"><img alt="" src="https://content.onliner.by/news/thumbnail/1ba2cc04a37c9a007fc3c5ed411eb2e7.jpg" /></a></p><p>За десять лет в IT Илья прошел путь от зарплаты в $300 до $5000, объехал около 40 стран и даже отправился с женой в Аргентину, чтобы там родился их ребенок. Казалось бы, теперь можно расслабиться и наслаждаться жизнью. Но у 33-летнего разработчика другие заботы: каждый месяц он откладывает по 5000 рублей на погашение кредита, еще 3000 отдает за машину и всерьез переживает, что однажды может потерять нынешний доход. В новом выпуске проекта «Мой бюджет» вместе с <a href="https://pm.by/ru/popup/registration?promocode=9jkf1784547142&amp;t_group=pr&amp;utm_source=pr_onliner_by&amp;utm_campaign=ba_promo_marafon&amp;utm_term=general_registr_freebonus1000freespins1000" target="_blank">Betera</a> выяснили, как выглядит жизнь с таким доходом.</p><p><a href="https://money.onliner.by/2026/11/22/zarplata-14500-byudzhet">Читать далее…</a></p>]]></description>
-      <category>Кошелек</category>
-    </item>
-    <item>
-      <title>Руки за спину, взгляд в траншею. Зачем итальянские старики часами гипнотизируют стройки</title>
-      <link>https://realt.onliner.by/go/1144287</link>
-      <guid isPermaLink="false">https://realt.onliner.by/2026/11/22/umarell</guid>
-      <pubDate>Sun, 22 Nov 2026 05:00:29 +0000</pubDate>
-      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/22/umarell"><img alt="" src="https://content.onliner.by/news/thumbnail/1349ac90e9be72729e16a1bdaefad21d.jpg" /></a></p><p>Утро в болонском переулке. Асфальт вскрыт, в траншее ворочается экскаватор, а у сетки забора застыли трое пожилых мужчин, заложив руки за спину. Рабочими их не назовешь, случайными прохожими — тоже. Эти солидные итальянские господа пришли трудиться взглядом. Смотрят внимательно, словно зрители на премьере, знающие сюжет лучше актеров. Один качает головой, другой что-то подсказывает машинисту, третий особенно многозначительно молчит. Экскаватор советам не поддается: рабочие давно научились игнорировать реплики со стороны. Никто этих ревизоров не звал, но к началу смены они на посту. Кто-то из них действительно разбирается в стройках, кому-то просто нравится, когда вокруг кипит жизнь. Это странное хобби оказалось настолько массовым, что итальянцы придумали для него отдельное слово — «умарелл». Оно попало в словари, рекламу, муниципальные программы и даже доехало до Швеции. Попробуем понять, зачем взрослые люди часами гипнотизируют котлованы и почему к ним вдруг начали прислушиваться.</p><p><a href="https://realt.onliner.by/2026/11/22/umarell">Читать далее…</a></p>]]></description>
-      <category>Недвижимость</category>
-    </item>
-    <item>
-      <title>Гибкие генераторы смогут питать носимую электронику за счёт вибраций</title>
-      <link>https://4pda.to/2026/11/22/463440/gibkie_generatory_smogut_pitat_nosimuyu_elektroniku_za_schyot_vibratsij/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463440/gibkie_generatory_smogut_pitat_nosimuyu_elektroniku_za_schyot_vibratsij/</guid>
-      <pubDate>Sun, 22 Nov 2026 04:45:00 +0000</pubDate>
-      <description><![CDATA[Сотрудники Университета Суррея разработали модель, которая поможет создавать более эффективные генераторы, вырабатывающие электричество от вибраций. Такие компоненты могут пригодиться для носимой электроники [...]]]></description>
-    </item>
-    <item>
-      <title>Исследование: в каких игровых вселенных хотят жить российские геймеры?</title>
-      <link>https://4pda.to/2026/11/22/463500/issledovanie_v_kakikh_igrovykh_vselennykh_khotyat_zhit_rossijskie_gejmery/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463500/issledovanie_v_kakikh_igrovykh_vselennykh_khotyat_zhit_rossijskie_gejmery/</guid>
-      <pubDate>Sun, 22 Nov 2026 04:15:00 +0000</pubDate>
-      <description><![CDATA[Если бы россиянам предложили ненадолго переселиться в мир видеоигры, чаще всего выбор падал бы на GTA. Вселенная Rockstar обошла даже «Ведьмака» и Cyberpunk 2077. А некоторые и вовсе готовы остаться по [...]]]></description>
-    </item>
-    <item>
-      <title>Цинк-йодная батарея сохранила почти 100% ёмкости после 1000 циклов зарядки</title>
-      <link>https://4pda.to/2026/11/22/463417/tsink_jodnaya_batareya_sokhranila_pochti_100_yomkosti_posle_1000_tsiklov_zaryadki/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/22/463417/tsink_jodnaya_batareya_sokhranila_pochti_100_yomkosti_posle_1000_tsiklov_zaryadki/</guid>
-      <pubDate>Sun, 22 Nov 2026 04:00:00 +0000</pubDate>
-      <description><![CDATA[Учёные из Университетского колледжа Лондона разработали водную цинк-йодную батарею, которая сохраняет почти всю первоначальную ёмкость после тысячи циклов перезарядки. Технология может стать альтернативой [...]]]></description>
-    </item>
-    <item>
-      <title>Подведены итоги конкурса Black &amp;amp; White Photo Awards 2026</title>
-      <link>https://4pda.to/2026/11/21/463389/podvedeny_itogi_konkursa_black_amp_white_photo_awards_2026/</link>
-      <guid isPermaLink="false">https://4pda.to/2026/11/21/463389/podvedeny_itogi_konkursa_black_amp_white_photo_awards_2026/</guid>
-      <pubDate>Sat, 21 Nov 2026 19:45:00 +0000</pubDate>
-      <description><![CDATA[Организаторы конкурса Black &amp; White Photo Awards 2026 выбрали лучшие чёрно-белые фотографии года. В пятом сезоне участвовали работы в шести категориях, а жюри отдельно отметило снимок, который стал [...]]]></description>
-    </item>
-    <item>
-      <title>GrapheneOS Accuses Google of Kneecapping Android Partners With Pixel Exclusives</title>
-      <link>https://feed.itsfoss.com/link/24361/17536085/grapheneos-google-oem-pressure</link>
-      <guid isPermaLink="false">6affd8ba070f240001242646</guid>
-      <pubDate>Fri, 20 Nov 2026 10:41:26 +0000</pubDate>
-      <description><![CDATA[google and grapheneos banner]]></description>
+      <title>No One is Using Real Firefox Browser on iPhones (Blame it on Apple)</title>
+      <link>https://feed.itsfoss.com/link/24361/17538371/firefox-apple-dispute</link>
+      <guid isPermaLink="false">6b043c4e070f24000124397e</guid>
+      <pubDate>Mon, 23 Nov 2026 15:24:42 +0000</pubDate>
+      <description><![CDATA[<figure><img alt="" src="https://itsfoss.com/content/images/2026/11/firefox-ios-issue.png" /></figure>
+<p>If you use Firefox on an iPhone, you have never used the "real Firefox". </p><p>I know that sounds overly dramatic, but it's technically true. The Firefox you get on iPhone or iPad, doesn't use the Gecko engine that is the core of the Firefox browser.</p><p>Here's whay that happens.</p><h2 id="mozilla-accuses-apple-of-playing-dirty">Mozilla accuses Apple of playing dirty</h2><p>The <a href="https://digital-markets-act.ec.europa.eu/index_en">EU Digital Markets Act (DMA)</a>, the law that forces big platforms to open up, started requiring Apple to let people <a href="https://www.apple.com/in/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/">choose their default browser in 2024</a>. It also required Apple to allow alternative browser engines on iOS. </p><p>Apple published its own set of conditions for anyone wanting to bring a different engine, and at the time Mozilla warned those rules made it "as painful as possible" for Gecko.</p><p>Basically, Apple complied with the rules on paper, then wrote its own set of fine print so that complying in practice is nearly impossible.</p><p><a href="https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/">Mozilla says that to bring its own engine</a>, Gecko (the engine that powers real Firefox on every other platform), it cannot simply update the Firefox app people already use. </p><p><a href="https://developer.apple.com/support/alternative-browser-engines">Apple's conditions</a> would force Mozilla to build a second, completely separate Firefox app. Then every existing user would have to download that new app, move their bookmarks, passwords and history across, and manually switch over. No user is going to take that much trouble just for updating a browser.</p><p>So Firefox cannot use its own Gecko browser engine, the core software that actually renders web pages. And it's not just Firefox. Nearly three years since Apple introduced these conditions in the EU, not one developer has been able to launch a non-WebKit browser on iOS. </p><blockquote>the open door feels more like a "trap door."</blockquote><p>Apple's mischief is not a surprise. This is the same company that <a href="https://news.itsfoss.com/apple-approves-utm-se">rejected the Epic Games Store app twice in Europe</a> before approving it, and that only happens when regulators are watching.</p><h2 id="it-matters-more-than-you-think">It matters more than you think</h2><p>When you install Firefox, Brave or even Chrome on an iPhone, you're getting the same WebKit engine Safari uses at its core. iPhones and iPads are the only major platforms where this happens. Even Apple's own macOS lets you run real, Gecko-powered Firefox.</p><p>Mozilla says it has been working behind the scenes since the DMA took effect to test and improve Apple's conditions so it can bring the Gecko browser engine and thus the real Firefix to iOS users. Those efforts have, in Mozilla's words, so far largely failed.</p><p>Meanwhile, Firefox on iPhone keeps growing. Mozilla says millions of people have picked Firefox from the EU's choice screen since 2024, and daily use on iOS has doubled. </p><p>It is an indication that people want to choose their browser and not rely on Apple's Safari.</p><h2 id="what-happens-next">What happens next?</h2><p>Mozilla says it will keep pushing for the real change because Apple's conditions remain unworkable and that compliance on paper is just a way to circumvent the regulations.</p><p>The next move likely belongs to EU regulators, who have <a href="https://digital-strategy.ec.europa.eu/en/news/commission-closes-investigation-apples-user-choice-obligations-and-issues-preliminary-findings">already investigated Apple's browser choice screen design</a> and taken preliminary issue with the conditions Apple attaches to its EU concessions. </p><p>Until then, the "real Firefox" stays off the iOS devices. </p>
+<img height="1" src="https://feed.itsfoss.com/link/24361/17538371.gif" width="1" />]]></description>
       <category>News</category>
     </item>
     <item>
-      <title>Taking On Red Hat? Ubuntu Now Has an Official SysAdmin Certification</title>
-      <link>https://feed.itsfoss.com/link/24361/17536064/ubuntu-academy-certification-program</link>
-      <guid isPermaLink="false">6affe703070f2400012426e5</guid>
-      <pubDate>Fri, 20 Nov 2026 09:09:25 +0000</pubDate>
-      <description><![CDATA[Ubuntu Certfication Exams]]></description>
-      <category>News</category>
+      <title>TCL показала прототип экрана с адаптивной частотой 120 Гц и потреблением всего 1 Вт</title>
+      <link>https://4pda.to/2026/11/23/463590/tcl_pokazala_prototip_ekrana_s_adaptivnoj_chastotoj_120_gts_i_potrebleniem_vsego_1_vt/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463590/tcl_pokazala_prototip_ekrana_s_adaptivnoj_chastotoj_120_gts_i_potrebleniem_vsego_1_vt/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:15:00 +0000</pubDate>
+      <description><![CDATA[На выставке DTC 2026 компания
+TCL CSOT продемонстрировала необычный дисплей для ноутбуков, установленный в
+прототип Lenovo Yoga Pro. Его главная особенность — крайне низкое энергопотребление,
+которое должно [...]]]></description>
+    </item>
+    <item>
+      <title>Посмотрите финальный трейлер «Мстители. Доктор Дум»</title>
+      <link>https://tech.onliner.by/go/802791</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/802791</guid>
+      <pubDate>Mon, 23 Nov 2026 15:03:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/802791"><img alt="" src="https://content.onliner.by/news/thumbnail/6a68205f854a8fcf9b4646f31da3c1be.jpg" /></a></p><p>Marvel выпустила финальный трейлер фильма «Мстители: Доктор Дум», выдав сразу несколько важных сюжетных подробностей. Одним из главных сюрпризов стало возвращение Стива Роджерса в исполнении Криса Эванса. В трейлере показывают, что Капитан Америка и Пегги Картер успели создать семью: у пары есть сын-подросток. Ранее Marvel лишь намекала на эту часть жизни героя, не раскрывая подробностей.</p><p><a href="https://tech.onliner.by/2026/11/23/802791">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Пьяный мужчина угнал служебный грузовик и попал в ДТП. Возбуждено уголовное дело</title>
+      <link>https://auto.onliner.by/go/1276182</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/ugnal-sluzhebnyj-gruzovik</guid>
+      <pubDate>Mon, 23 Nov 2026 15:02:20 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/ugnal-sluzhebnyj-gruzovik"><img alt="" src="https://content.onliner.by/news/thumbnail/a10f87f9873a9e455d0970e3e48f8c72.jpg" /></a></p><p>26‑летний пьяный безработный мужчина сначала совершил кражу. Потом дважды незаконно завладел служебными машинами предприятия — и оба раза попал в ДТП.</p><p><a href="https://auto.onliner.by/2026/11/23/ugnal-sluzhebnyj-gruzovik">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Авторы The Witcher 4: «Цири будет более жёсткой, чем Геральт»</title>
+      <link>https://4pda.to/2026/11/23/463610/avtory_the_witcher_4_tsiri_budet_bolee_zhyostkoj_chem_geralt/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463610/avtory_the_witcher_4_tsiri_budet_bolee_zhyostkoj_chem_geralt/</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 +0000</pubDate>
+      <description><![CDATA[До выхода The Witcher 4 ещё далеко, а новых материалов об игре по-прежнему нет. Авторам остаётся лишь делиться новыми фактами в интервью.
+Как рассказали Филипп Вебер и Марчин Блаха в интервью InvenGlobal, [...]]]></description>
+    </item>
+    <item>
+      <title>Надоело стоять у кассы самообслуживания и сканировать покупки? Появилась альтернатива</title>
+      <link>https://money.onliner.by/go/356690</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/skaniruesh-u-polki-platish</guid>
+      <pubDate>Mon, 23 Nov 2026 14:53:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/skaniruesh-u-polki-platish"><img alt="" src="https://content.onliner.by/news/thumbnail/eb0bffaeb2130cfb85739a344bcc0873.jpg" /></a></p><p>В магазинах «Гиппо» появится возможность сканировать товары прямо у полок с помощью смартфона, не выкладывая затем каждую покупку на кассе самообслуживания для повторного считывания штрихкода. Новый сервис Scan&amp;Go пока тестируют в торговом центре «Галерея», а в дальнейшем планируют запустить и в других магазинах сети.</p><p><a href="https://money.onliner.by/2026/11/23/skaniruesh-u-polki-platish">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Белорус предложил отметить Новый год в поезде в компании незнакомцев. Что думаете?  (обновлено)</title>
+      <link>https://people.onliner.by/go/1346586</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/23/novyy-god-pod-stuk-koles</guid>
+      <pubDate>Mon, 23 Nov 2026 14:51:37 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/23/novyy-god-pod-stuk-koles"><img alt="" src="https://content.onliner.by/news/thumbnail/370d973ac8f4f3dcf9fbffb683ef5d42.jpg" /></a></p><p>Недавно в Threads завирусился пост с необычным предложением. Один из пользователей предложил отметить Новый год в поезде, да еще в компании незнакомцев. Ветка уже собрала больше 80 тыс. просмотров, а в комментариях многие поделились историями своих праздничных путешествий. Узнали у автора, как пришла идея и можно ли успеть присоединиться.
+</p><p><a href="https://people.onliner.by/2026/11/23/novyy-god-pod-stuk-koles">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Минчанин уволился из-за зарплаты и потребовал у бывшего работодателя миллион рублей</title>
+      <link>https://money.onliner.by/go/356685</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/minchanin-potreboval</guid>
+      <pubDate>Mon, 23 Nov 2026 14:39:08 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/minchanin-potreboval"><img alt="" src="https://content.onliner.by/news/thumbnail/99995a77c3d7d9616eb1936be1568216.jpg" /></a></p><p>В Минске будут судить 37-летнего мужчину, который, по версии следствия, требовал у бывшего работодателя миллион рублей за молчание о возможных нарушениях в компании. Передачу денег он предложил оформить как покупку набора посуды и альбома с коллекционными монетами.</p><p><a href="https://money.onliner.by/2026/11/23/minchanin-potreboval">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Это что вообще было? Такое смещение грузовика любого бы испугало. ГАИ отреагировала  (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1275255</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/eto-chto-voobshhe-bylo</guid>
+      <pubDate>Mon, 23 Nov 2026 14:31:38 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/eto-chto-voobshhe-bylo"><img alt="" src="https://content.onliner.by/news/thumbnail/626ac64970b51bcb6a359acb8d3d3f75.jpg" /></a></p><p>Местный проезд возле МКАД рядом с улицей Ваупшасова в Минске. По одной полосе движения в каждую сторону. И вдруг встречный грузовик начинает опасно смещаться на встречную.</p><p><a href="https://auto.onliner.by/2026/11/23/eto-chto-voobshhe-bylo">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Самозанятым хотят разрешить поздравлять с праздниками за деньги. Что может измениться для ИП?</title>
+      <link>https://money.onliner.by/go/356664</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/samozanyatym-xotyat</guid>
+      <pubDate>Mon, 23 Nov 2026 14:20:51 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/samozanyatym-xotyat"><img alt="" src="https://content.onliner.by/news/thumbnail/9df4d869d7795d6399a559572a8a3449.jpg" /></a></p><p>Зарабатывать на поздравлениях с днем рождения, создавать контент для интернета и продавать выращенные дома растения. В Беларуси собираются пересмотреть список видов деятельности, доступных самозанятым и индивидуальным предпринимателям. Некоторые возможности хотят добавить, а некоторые, наоборот, убрать. Проект постановления правительства <a href="https://forumpravo.by/upload/iblock/f04/swrn7yf4o0tuqrxsrx0x0ec6jabre3ez.pdf">вынесли</a> на общественное обсуждение 23 ноября.</p><p><a href="https://money.onliner.by/2026/11/23/samozanyatym-xotyat">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Дженсена Хуанга вернули на позицию главы NVIDIA</title>
+      <link>https://tech.onliner.by/go/802752</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/dzhensena-xuanga-vernuli-na-poziciyu-glavy-nvidia</guid>
+      <pubDate>Mon, 23 Nov 2026 14:17:31 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/dzhensena-xuanga-vernuli-na-poziciyu-glavy-nvidia"><img alt="" src="https://content.onliner.by/news/thumbnail/97db2b4d9e6c2a83384ea8bd7cfc58cf.jpg" /></a></p><p><p>Совет директоров NVIDIA вернул Дженсена Хуанга на пост генерального директора. Решение приняли единогласно 23 ноября, спустя менее двух недель после его увольнения из компании. В руководстве <a href="https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated" target="_blank">заявили</a>, что провели серию встреч с Хуангом и «убедились в его откровенности и способности вновь возглавить бизнес». По мнению совета, его возвращение отвечает интересам акционеров, сотрудников и партнеров NVIDIA.</p><p><a href="https://tech.onliner.by/2026/11/23/dzhensena-xuanga-vernuli-na-poziciyu-glavy-nvidia">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Дженсен Хуанг снова возглавил NVIDIA</title>
+      <link>https://4pda.to/2026/11/23/463618/dzhensen_khuang_snova_vozglavil_nvidia/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463618/dzhensen_khuang_snova_vozglavil_nvidia/</guid>
+      <pubDate>Mon, 23 Nov 2026 14:17:00 +0000</pubDate>
+      <description><![CDATA[Совет директоров NVIDIA единогласно проголосовал за возвращение Дженсена Хуанга на пост президента и генерального директора компании. Он также вновь вошёл в состав совета директоров. Решение вступило в [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске скорая столкнулась с каршеринговым авто. Двое пострадавших (видео)</title>
+      <link>https://auto.onliner.by/go/1276161</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/dvoe-postradavshix-2</guid>
+      <pubDate>Mon, 23 Nov 2026 14:05:53 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/dvoe-postradavshix-2"><img alt="" src="https://content.onliner.by/news/thumbnail/b60abcc0d96a14fcd6cce942d4e49ccc.jpg" /></a></p><p>Сегодня днем на пересечении проспекта Рокоссовского и улицы Ванеева случилось ДТП с участием автомобиля скорой и каршеринговым Volkswagen. Причины и обстоятельства произошедшего устанавливаются.</p><p><a href="https://auto.onliner.by/2026/11/23/dvoe-postradavshix-2">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Житель Фаниполя истязал 13-летнего сына с инвалидностью. Суд вынес приговор (обновлено)</title>
+      <link>https://people.onliner.by/go/1324285</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/23/otec-istyazal-syna-s-invalidnostyu-muzhchine-grozit-sereznoe-nakazanie</guid>
+      <pubDate>Mon, 23 Nov 2026 14:05:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/23/otec-istyazal-syna-s-invalidnostyu-muzhchine-grozit-sereznoe-nakazanie"><img alt="" src="https://content.onliner.by/news/thumbnail/c956bcf3c7b53405208eba7bd47396b7.jpg" /></a></p><p>В течение нескольких месяцев житель Фаниполя истязал несовершеннолетнего сына. Пострадавший — 13-летний мальчик с инвалидностью по слуху и речи. Как позже пояснил отец, причиной таких действий с его стороны стало поведение ребенка. В результате было возбуждено уголовное дело за истязание, а сегодня стал известен приговор суда. </p><p><a href="https://people.onliner.by/2026/11/23/otec-istyazal-syna-s-invalidnostyu-muzhchine-grozit-sereznoe-nakazanie">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Лейкоз может десятилетиями скрываться в организме — и вот почему</title>
+      <link>https://tech.onliner.by/go/802729</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/rak-krovi-mozhet-poyavitsya-za-50-let-do-diagnoza-tak-govoryat-uchenye</guid>
+      <pubDate>Mon, 23 Nov 2026 14:04:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/rak-krovi-mozhet-poyavitsya-za-50-let-do-diagnoza-tak-govoryat-uchenye"><img alt="" src="https://content.onliner.by/news/thumbnail/c31d3a2775da447cc9cec9985038c4e5.jpg" /></a></p><p>Ученые выяснили, что острый миелоидный лейкоз — агрессивная форма рака крови — может начать развиваться за 50 лет до постановки диагноза. Исследование Кембриджского университета и Университетского колледжа Лондона <a href="https://www.sciencedaily.com/releases/2026/11/261121221122.htm" target="_blank">показало</a>: примерно в двух третях изученных случаев первая мутация, способствующая развитию болезни, возникала еще до 20-летия тех, у кого был обнаружен лейкоз. При этом измененные клетки могли оставаться незаметными на протяжении десятилетий.</p><p><a href="https://tech.onliner.by/2026/11/23/rak-krovi-mozhet-poyavitsya-za-50-let-do-diagnoza-tak-govoryat-uchenye">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Белоруска купила горбушу и обнаружила внутри приятный сюрприз</title>
+      <link>https://money.onliner.by/go/356643</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/beloruska-kupila-gorbushu</guid>
+      <pubDate>Mon, 23 Nov 2026 13:41:24 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/beloruska-kupila-gorbushu"><img alt="" src="https://content.onliner.by/news/thumbnail/07e061c2fb2d19f76f32f862c139c8e6.jpg" /></a></p><p>Пока одни покупатели находят в продуктах неожиданных обитателей, другим везет куда больше. Например, белоруска купила в магазине горбушу, а вместе с рыбой получила еще и приличную порцию красной икры. Причем удача улыбнулась ей сразу четыре раза.</p><p><a href="https://money.onliner.by/2026/11/23/beloruska-kupila-gorbushu">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Появились первые сведения о топовом Xiaomi 18 Max</title>
+      <link>https://4pda.to/2026/11/23/463594/poyavilis_pervye_svedeniya_o_topovom_xiaomi_18_max/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463594/poyavilis_pervye_svedeniya_o_topovom_xiaomi_18_max/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:40:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi готовит к выпуску ещё
+одну модель линейки Xiaomi 18 — смартфон с приставкой Max, который получит
+увеличенный экран и ёмкий аккумулятор. Первые подробности опубликовал
+китайский инсайдер, известный [...]]]></description>
+    </item>
+    <item>
+      <title>Строительство путепровода на Колесникова — Ратомской: что там происходит? (видео, обновлено)</title>
+      <link>https://auto.onliner.by/go/1237367</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/stroitelstvo-puteprovoda</guid>
+      <pubDate>Mon, 23 Nov 2026 13:37:35 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/stroitelstvo-puteprovoda"><img alt="" src="https://content.onliner.by/news/thumbnail/e6c16be38b182e4ed5b404c1c0a8a9fd.jpg" /></a></p><p>Продолжаем рассказывать о <a href="https://auto.onliner.by/2025/07/22/v-minske-poyavitsya-puteprovod" target="_blank">строительстве</a> путепровода между улицами Колесникова и Ратомской в Минске. 381-метровый объект свяжет Фрунзенский и Центральный районы, он призван облегчить транспортное сообщение в этой части города. Что происходит на месте будущего строительства сейчас?
+</p><p><a href="https://auto.onliner.by/2026/11/23/stroitelstvo-puteprovoda">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Восемь лет полета — и успех. До Меркурия добрались два космических зонда</title>
+      <link>https://tech.onliner.by/go/802689</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/vosem-let-poleta-i-uspex-do-merkuriya-dobralis-dva-kosmicheskix-zonda</guid>
+      <pubDate>Mon, 23 Nov 2026 13:23:30 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/vosem-let-poleta-i-uspex-do-merkuriya-dobralis-dva-kosmicheskix-zonda"><img alt="" src="https://content.onliner.by/news/thumbnail/308dbcd02c1733723366434a4c0cc140.jpg" /></a></p><p>До самой маленькой планеты Солнечной системы после восьми лет пути добрались два автоматических аппарата совместной миссии Европейского космического агентства и Японского агентства аэрокосмических исследований. Стоимость проекта <a href="https://abcnews.com/Technology/wireStory/mercury-gets-visitor-years-pair-spacecraft-loop-orbit-138351997" target="_blank">составила</a> около двух миллиардов долларов, и за это время зонды миссии BepiColombo преодолели более 10 миллиардов километров. </p><p><a href="https://tech.onliner.by/2026/11/23/vosem-let-poleta-i-uspex-do-merkuriya-dobralis-dva-kosmicheskix-zonda">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>Ноутбуки Apple MacBook научили воспроизводить звуки через вибрацию трекпада</title>
+      <link>https://4pda.to/2026/11/23/463600/noutbuki_apple_macbook_nauchili_vosproizvodit_zvuki_cherez_vibratsiyu_trekpada/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463600/noutbuki_apple_macbook_nauchili_vosproizvodit_zvuki_cherez_vibratsiyu_trekpada/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:20:00 +0000</pubDate>
+      <description><![CDATA[Оказывается, трекпад MacBook умеет не только распознавать жесты и имитировать нажатия. Его вибромотор Taptic Engine способен вибрировать с такой частотой, что стеклянная поверхность начинает издавать звуки. [...]]]></description>
+    </item>
+    <item>
+      <title>«Оступился и сорвался вниз с высоты». ЧП на одной из строек Минска</title>
+      <link>https://realt.onliner.by/go/1144552</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/23/ostupilsya-i-sorvalsya-vniz</guid>
+      <pubDate>Mon, 23 Nov 2026 13:05:49 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/23/ostupilsya-i-sorvalsya-vniz"><img alt="" src="https://content.onliner.by/news/thumbnail/ae2d0c8e95a90b26b63981c1f6896d79.jpg" /></a></p><p><p dir="ltr">Сегодня утром на одной из строек в центре Минска серьезно пострадал 53-летний электрик. По предварительной информации <a href="https://t.me/skgovby/17034" target="_blank">Следственного комитета</a>, во время работ мужчина шел по плите перекрытия строящегося многоэтажного дома, но в какой-то момент оступился и сорвался вниз с высоты около 9 метров.<br /></p>
+</p><p><a href="https://realt.onliner.by/2026/11/23/ostupilsya-i-sorvalsya-vniz">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Valve не хватило памяти для топовой Steam Machine</title>
+      <link>https://4pda.to/2026/11/23/463602/valve_ne_khvatilo_pamyati_dlya_topovoj_steam_machine/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463602/valve_ne_khvatilo_pamyati_dlya_topovoj_steam_machine/</guid>
+      <pubDate>Mon, 23 Nov 2026 13:00:00 +0000</pubDate>
+      <description><![CDATA[Valve продолжает выпускать Steam Machine, но с поставками всё ещё проблемы. Хорошая новость есть для тех, кому хватит версии на 512 ГБ: теперь её можно купить без ожидания. А вот желающим получить модель [...]]]></description>
+    </item>
+    <item>
+      <title>Слишком похож на Defender. Суд запретил продавать внедорожник BYD в ЕС</title>
+      <link>https://auto.onliner.by/go/1276115</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/poxozh-na-defender</guid>
+      <pubDate>Mon, 23 Nov 2026 12:53:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/poxozh-na-defender"><img alt="" src="https://content.onliner.by/news/thumbnail/3d78b3c3f5f6312c24daad3690f7e61b.jpg" /></a></p><p>Голландский суд постановил запретить китайской компании BYD импортировать, производить и продавать внедорожник Ti7 на территории Евросоюза. Как сообщается, причиной стало нарушение зарегистрированного дизайна Land Rover Defender, права на который принадлежат Jaguar Land Rover (JLR).
+</p><p><a href="https://auto.onliner.by/2026/11/23/poxozh-na-defender">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>Лен, бархат и бронза. Дизайнер представила новую коллекцию в необычных интерьерах</title>
+      <link>https://people.onliner.by/go/1346929</link>
+      <guid isPermaLink="false">https://people.onliner.by/2026/11/23/len-barxat-i-bronza-dizajner-predstavila-novuyu-kollekciyu-v-neobychnyx-intererax</guid>
+      <pubDate>Mon, 23 Nov 2026 12:47:23 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://people.onliner.by/2026/11/23/len-barxat-i-bronza-dizajner-predstavila-novuyu-kollekciyu-v-neobychnyx-intererax"><img alt="" src="https://content.onliner.by/news/thumbnail/7edfd7431bf3b191747295a534e99418.jpg" /></a></p><p>Белорусский дизайнер презентовала коллекцию нарядов, напоминающую античные бронзовые статуи. При этом при создании использовался вовсе не металл, а белорусский лен разной плотности. Местом съемки капсульной коллекции был выбран дворец Булгаков в Жиличах.</p><p><a href="https://people.onliner.by/2026/11/23/len-barxat-i-bronza-dizajner-predstavila-novuyu-kollekciyu-v-neobychnyx-intererax">Читать далее…</a></p>]]></description>
+      <category>Люди</category>
+    </item>
+    <item>
+      <title>Microsoft выпустила новый системный поиск Windows 11. Как его включить?</title>
+      <link>https://4pda.to/2026/11/23/463605/microsoft_vypustila_novyj_sistemnyj_poisk_windows_11_kak_ego_vklyuchit/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463605/microsoft_vypustila_novyj_sistemnyj_poisk_windows_11_kak_ego_vklyuchit/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:40:00 +0000</pubDate>
+      <description><![CDATA[Microsoft начала распространять полностью переработанный поиск Windows 11. Интерфейс стал компактнее, а сам поиск теперь работает гораздо быстрее и получил функции ИИ-агента. Например, он может менять [...]]]></description>
+    </item>
+    <item>
+      <title>В Минске водитель Belgee не пропустил Ford и врезался в осветительную мачту (видео)</title>
+      <link>https://auto.onliner.by/go/1276113</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/ne-propustil-ford</guid>
+      <pubDate>Mon, 23 Nov 2026 12:35:02 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/ne-propustil-ford"><img alt="" src="https://content.onliner.by/news/thumbnail/0eaf73c1f3f866170a2a6544459e119a.jpg" /></a></p><p>В Минске 25-летняя девушка за рулем Belgee не предоставила преимущество автомобилю Ford, двигавшемуся по главной дороге, и столкнулась с ним. Все произошло сегодня днем на пересечении улиц Левкова и Аэродромной. </p><p><a href="https://auto.onliner.by/2026/11/23/ne-propustil-ford">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>В Беларусь стали возить в 3,5 раза больше пластика и в 2,5 раза больше безалкогольных напитков</title>
+      <link>https://auto.onliner.by/go/1276097</link>
+      <guid isPermaLink="false">https://auto.onliner.by/2026/11/23/statistika-gruzoperevozok</guid>
+      <pubDate>Mon, 23 Nov 2026 12:27:56 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://auto.onliner.by/2026/11/23/statistika-gruzoperevozok"><img alt="" src="https://content.onliner.by/news/thumbnail/dd83406a6d3c7a0f5ce2ae40ef81e266.jpg" /></a></p><p>За 10 месяцев 2026 года в Беларусь стали возить в 3,5 раза больше пластика и в 2,5 раза больше безалкогольных напитков. Об этом сообщает «Логистическая платформа ATI.SU». Вырос и импорт бытовой техники, утеплителя и бумаги. А вот поставки текстиля, автошин и металлопроката, наоборот, просели. Собрали главные цифры грузопотока.</p><p><a href="https://auto.onliner.by/2026/11/23/statistika-gruzoperevozok">Читать далее…</a></p>]]></description>
+      <category>Авто</category>
+    </item>
+    <item>
+      <title>12-летняя минчанка отдала мошенникам 9 тысяч рублей</title>
+      <link>https://money.onliner.by/go/356618</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/12-letnyaya-minchanka</guid>
+      <pubDate>Mon, 23 Nov 2026 12:26:58 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/12-letnyaya-minchanka"><img alt="" src="https://content.onliner.by/news/thumbnail/5e7d895eab41869b34cbda4d57fcded3.jpg" /></a></p><p>Пока бабушка с дедушкой были на даче, их 12-летняя внучка познакомилась с мальчиком в Telegram. Безобидная на первый взгляд переписка обернулась угрозами от лжесиловиков и потерей семейных сбережений. Так девочка передала незнакомке около 9 тысяч рублей.</p><p><a href="https://money.onliner.by/2026/11/23/12-letnyaya-minchanka">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Девушка вычислила измену по GTA 6</title>
+      <link>https://tech.onliner.by/go/802680</link>
+      <guid isPermaLink="false">https://tech.onliner.by/2026/11/23/gta-6-raskryla-izmenu-devushka-vychislila-nevernogo-bojfrenda-blagodarya-igre</guid>
+      <pubDate>Mon, 23 Nov 2026 12:03:10 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://tech.onliner.by/2026/11/23/gta-6-raskryla-izmenu-devushka-vychislila-nevernogo-bojfrenda-blagodarya-igre"><img alt="" src="https://content.onliner.by/news/thumbnail/963074f771c91c010bd2f98c512640d4.jpg" /></a></p><p><p>Парень получил неожиданный подарок — корзину, в которой находилась GTA 6 для PlayStation. Сначала он решил, что сюрприз устроила его девушка. Однако на открытке оказалось имя другой женщины. Как <a href="https://2.boredpanda.com/gta-6-gift-basket-exposes-cheater/" target="_blank">сообщает</a> ресурс Bored Panda, это сразу вызвало подозрения у его возлюбленной: она захотела выяснить, кто отправил такой дорогой подарок и почему сделал это тайно.</p><p><a href="https://tech.onliner.by/2026/11/23/gta-6-raskryla-izmenu-devushka-vychislila-nevernogo-bojfrenda-blagodarya-igre">Читать далее…</a></p>]]></description>
+      <category>Технологии</category>
+    </item>
+    <item>
+      <title>В России обсуждают ввод прокатных лицензий на видеоигры</title>
+      <link>https://4pda.to/2026/11/23/463601/v_rossii_obsuzhdayut_vvod_prokatnykh_litsenzij_na_videoigry/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463601/v_rossii_obsuzhdayut_vvod_prokatnykh_litsenzij_na_videoigry/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[С покупкой игр в Steam у россиян и так хватает хлопот. Теперь появилась ещё одна причина следить за новостями: некоторые будущие релизы могут вовсе не появиться в продаже для российских пользователей. [...]]]></description>
+    </item>
+    <item>
+      <title>Появился список из 29 моделей смартфонов Motorola, которые получат Android 17</title>
+      <link>https://4pda.to/2026/11/23/463603/poyavilsya_spisok_iz_29_modelej_smartfonov_motorola_kotorye_poluchat_android_17/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463603/poyavilsya_spisok_iz_29_modelej_smartfonov_motorola_kotorye_poluchat_android_17/</guid>
+      <pubDate>Mon, 23 Nov 2026 11:30:00 +0000</pubDate>
+      <description><![CDATA[Motorola наконец-то опубликовала перечень устройств, для которых готовит обновление до Android 17. В него вошли как актуальные флагманы и складные устройства, так и модели прошлых поколений, включая более [...]]]></description>
+    </item>
+    <item>
+      <title>Начальник цеха получил больше 14 тысяч евро взятками. Суд назначил ему 7 лет</title>
+      <link>https://money.onliner.by/go/356600</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/dva-rabotnika-predpriyatij-na-brestchine-poluchili-7-i-4-goda-kolonii-za-vzyatki</guid>
+      <pubDate>Mon, 23 Nov 2026 11:18:00 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/dva-rabotnika-predpriyatij-na-brestchine-poluchili-7-i-4-goda-kolonii-za-vzyatki"><img alt="" src="https://content.onliner.by/news/thumbnail/0459fa67acc2889e6d0b7ea4e1e789f0.jpg" /></a></p><p>Один помогал нужным компаниям получать заказы на насосное оборудование, другой обеспечивал поставки кормовых добавок от определенной фирмы. За это оба получали деньги. В итоге двое работников предприятий Брестской области оказались на скамье подсудимых. Как сообщили в областной прокуратуре, суд назначил им 7 и 4 года лишения свободы.</p><p><a href="https://money.onliner.by/2026/11/23/dva-rabotnika-predpriyatij-na-brestchine-poluchili-7-i-4-goda-kolonii-za-vzyatki">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Представлен Honor 700 с двумя экранами, телекамерой и АКБ на 9000 мАч</title>
+      <link>https://4pda.to/2026/11/23/463595/predstavlen_honor_700_s_dvumya_ekranami_telekameroj_i_akb_na_9000_mach/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463595/predstavlen_honor_700_s_dvumya_ekranami_telekameroj_i_akb_na_9000_mach/</guid>
+      <pubDate>Mon, 23 Nov 2026 11:06:50 +0000</pubDate>
+      <description><![CDATA[Honor&nbsp;представила 700-ю серию&nbsp;смартфонов, в которую вошли базовая модель, более доступная версия 700S и продвинутый&nbsp;700 Pro. Все три устройства во многом похожим и&nbsp;получили дополнительный [...]]]></description>
+    </item>
+    <item>
+      <title>Характеристики камерофона vivo S70 Pro слили в сеть до анонса</title>
+      <link>https://4pda.to/2026/11/23/463589/kharakteristiki_kamerofona_vivo_s70_pro_slili_v_set_do_anonsa/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463589/kharakteristiki_kamerofona_vivo_s70_pro_slili_v_set_do_anonsa/</guid>
+      <pubDate>Mon, 23 Nov 2026 10:50:00 +0000</pubDate>
+      <description><![CDATA[В сети появились инсайдерские подробности о готовящемся к выпуску смартфоне vivo
+S70 Pro. Согласно свежему «сливу», новинка будет оснащаться продвинутым набором камер с главным датчиком на
+200 Мп и возможностью [...]]]></description>
+    </item>
+    <item>
+      <title>В Беларуси назначили нового вице-премьера. Он будет отвечать за сельское хозяйство</title>
+      <link>https://money.onliner.by/go/356591</link>
+      <guid isPermaLink="false">https://money.onliner.by/2026/11/23/lomskij-novyj-vice-premer</guid>
+      <pubDate>Mon, 23 Nov 2026 10:48:16 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://money.onliner.by/2026/11/23/lomskij-novyj-vice-premer"><img alt="" src="https://content.onliner.by/news/thumbnail/70352414f72315c141c9ac698cb79d9a.jpg" /></a></p><p>Александр Ломский стал заместителем премьер-министра Беларуси. В правительстве он будет курировать агропромышленный комплекс. Такое кадровое решение <a href="https://president.gov.by/ru/events/rassmotrenie-kadrovyh-voprosov-1795428456" target="_blank">принял</a> Александр Лукашенко.
+</p><p><a href="https://money.onliner.by/2026/11/23/lomskij-novyj-vice-premer">Читать далее…</a></p>]]></description>
+      <category>Кошелек</category>
+    </item>
+    <item>
+      <title>Выставленный на продажу дом привлек внимание своей оригинальной расцветкой</title>
+      <link>https://realt.onliner.by/go/1144525</link>
+      <guid isPermaLink="false">https://realt.onliner.by/2026/11/23/vystavlennyj-na-prodazhu-2</guid>
+      <pubDate>Mon, 23 Nov 2026 10:45:06 +0000</pubDate>
+      <description><![CDATA[<p><a href="https://realt.onliner.by/2026/11/23/vystavlennyj-na-prodazhu-2"><img alt="" src="https://content.onliner.by/news/thumbnail/ce0659d1f9edd5526918a9d610edc17e.jpg" /></a></p><p>В американском городе Хадсон (штат Висконсин) продается очень оригинальный коттедж. Викторианский особняк, прозванный местными жителями «домом Барби», был выставлен на продажу за $1,1 млн и быстро привлек внимание благодаря своему ярко‑розовому оформлению, <a href="https://www.realtor.com/news/unique-homes/hudson-wisconsin-pink-barbie-victorian-under-contract/" target="_blank">пишет</a> Realtor.com.</p><p><a href="https://realt.onliner.by/2026/11/23/vystavlennyj-na-prodazhu-2">Читать далее…</a></p>]]></description>
+      <category>Недвижимость</category>
+    </item>
+    <item>
+      <title>Масштабный даунгрейд? Появилось сравнение графики GTA VI в трейлерах и на релизе [ВИДЕО]</title>
+      <link>https://4pda.to/2026/11/23/463599/masshtabnyj_daungrejd_poyavilos_sravnenie_grafiki_gta_vi_v_trejlerakh_i_na_relize_video/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463599/masshtabnyj_daungrejd_poyavilos_sravnenie_grafiki_gta_vi_v_trejlerakh_i_na_relize_video/</guid>
+      <pubDate>Mon, 23 Nov 2026 10:40:00 +0000</pubDate>
+      <description><![CDATA[После релиза GTA VI геймеры заговорили о даунгрейде графики — в первых показанных геймплейных кадрах игра якобы выглядела значительно красивее. Теперь можно наглядно посмотреть, как всё изменилось к релизу.
+[youtube=tgKPyzvhe3w:640:360:::0]
+Блогер [...]]]></description>
+    </item>
+    <item>
+      <title>Xiaomi выпустила электроодеяло с водяным обогревом и защитой от клещей</title>
+      <link>https://4pda.to/2026/11/23/463588/xiaomi_vypustila_elektroodeyalo_s_vodyanym_obogrevom_i_zaschitoj_ot_kleschej/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463588/xiaomi_vypustila_elektroodeyalo_s_vodyanym_obogrevom_i_zaschitoj_ot_kleschej/</guid>
+      <pubDate>Mon, 23 Nov 2026 10:30:00 +0000</pubDate>
+      <description><![CDATA[Xiaomi представила Mijia Smart Water Heating Blanket Pro — одеяло, которое позволяет двум людям выбирать разную температуру на одной кровати. Модель получила пару независимых зон водяного обогрева, функцию [...]]]></description>
+    </item>
+    <item>
+      <title>Ключевые характеристики iQOO 16R засветились в Geekbench</title>
+      <link>https://4pda.to/2026/11/23/463587/klyuchevye_kharakteristiki_iqoo_16r_zasvetilis_v_geekbench/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463587/klyuchevye_kharakteristiki_iqoo_16r_zasvetilis_v_geekbench/</guid>
+      <pubDate>Mon, 23 Nov 2026 10:00:00 +0000</pubDate>
+      <description><![CDATA[Ещё не анонсированный смартфон iQOO
+16R прошёл тестирование в бенчмарке, раскрыв часть своих характеристик.
+Устройство может стать преемником iQOO 15R и пополнить серию iQOO 16.
+Модель Vivo I2606 [...]]]></description>
+    </item>
+    <item>
+      <title>Хакер voices38 взломал Phantom Blade Zero — один из главных хитов года</title>
+      <link>https://4pda.to/2026/11/23/463597/khaker_voices38_vzlomal_phantom_blade_zero_odin_iz_glavnykh_khitov_goda/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463597/khaker_voices38_vzlomal_phantom_blade_zero_odin_iz_glavnykh_khitov_goda/</guid>
+      <pubDate>Mon, 23 Nov 2026 09:45:00 +0000</pubDate>
+      <description><![CDATA[Denuvo продолжает падать под натиском voices38 —&nbsp;хакер взломал ещё одну высокооценённую новинку этого года.
+[youtube=qgJBFa952mY:640:360:::0]
+Речь идёт о китайском экшене Phantom Blade Zero, который [...]]]></description>
+    </item>
+    <item>
+      <title>Миниатюрная E-Ink фоторамка Kodak SlideTag с функцией трекера оценена в $35</title>
+      <link>https://4pda.to/2026/11/23/463586/miniatyurnaya_e_ink_fotoramka_kodak_slidetag_s_funktsiej_trekera_otsenena_v_35/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463586/miniatyurnaya_e_ink_fotoramka_kodak_slidetag_s_funktsiej_trekera_otsenena_v_35/</guid>
+      <pubDate>Mon, 23 Nov 2026 09:30:00 +0000</pubDate>
+      <description><![CDATA[Бренд Reto выпустил оригинальный аксессуар под названием SlideTag.
+Это небольшой брелок с цветным экраном на электронных чернилах, который
+позволяет носить с собой любимые фотографии и одновременно использовать
+устройство [...]]]></description>
+    </item>
+    <item>
+      <title>Названы главные отличия нового MacBook Neo от оригинальной модели</title>
+      <link>https://4pda.to/2026/11/23/463585/nazvany_glavnye_otlichiya_novogo_macbook_neo_ot_originalnoj_modeli/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463585/nazvany_glavnye_otlichiya_novogo_macbook_neo_ot_originalnoj_modeli/</guid>
+      <pubDate>Mon, 23 Nov 2026 09:00:00 +0000</pubDate>
+      <description><![CDATA[Apple готовит обновление своего самого доступного ноутбука MacBook Neo — по данным Bloomberg, модель следующего поколение получит сразу два крупных улучшения. Издание также назвало предполагаемые сроки [...]]]></description>
+    </item>
+    <item>
+      <title>«Comic Con Игромир» раскрыл программу фестиваля с приглашёнными звёздами</title>
+      <link>https://4pda.to/2026/11/23/463575/comic_con_igromir_raskryl_programmu_festivalya_s_priglashyonnymi_zvyozdami/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463575/comic_con_igromir_raskryl_programmu_festivalya_s_priglashyonnymi_zvyozdami/</guid>
+      <pubDate>Mon, 23 Nov 2026 08:45:00 +0000</pubDate>
+      <description><![CDATA[Встретить Колосса из «Дэдпула», поговорить с чемпионами Dota 2 и первыми оценить игровые новинки — ради такого можно и отложить дела на выходные. Тем более что Comic Con Игромир в этом году станет на день [...]]]></description>
+    </item>
+    <item>
+      <title>Представлен Nubia Pad SE 10.1 — доступный планшет с поддержкой 4G</title>
+      <link>https://4pda.to/2026/11/23/463584/predstavlen_nubia_pad_se_10_1_dostupnyj_planshet_s_podderzhkoj_4g/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463584/predstavlen_nubia_pad_se_10_1_dostupnyj_planshet_s_podderzhkoj_4g/</guid>
+      <pubDate>Mon, 23 Nov 2026 08:30:00 +0000</pubDate>
+      <description><![CDATA[ZTE представила бюджетный планшет Nubia Pad SE
+10.1, ориентированный на решение повседневных задач, учёбу и просмотр видео. Устройство
+получило металлическую заднюю крышку, поддержку мобильных сетей и [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung Galaxy S27 Pro с новым Exynos рассекречен инсайдером и бенчмарком</title>
+      <link>https://4pda.to/2026/11/23/463583/samsung_galaxy_s27_pro_s_novym_exynos_rassekrechen_insajderom_i_benchmarkom/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463583/samsung_galaxy_s27_pro_s_novym_exynos_rassekrechen_insajderom_i_benchmarkom/</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+      <description><![CDATA[В сети появились новые подробности о готовящемся к релизу смартфоне Samsung Galaxy S27 Pro. Результаты тестирования будущей новинки обнаружили в Geekbench, а инсайдер поделился другими характеристиками [...]]]></description>
+    </item>
+    <item>
+      <title>Moore Threads намекнула на выпуск видеокарты с 64 ГБ VRAM</title>
+      <link>https://4pda.to/2026/11/23/463581/moore_threads_nameknula_na_vypusk_videokarty_s_64_gb_vram/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463581/moore_threads_nameknula_na_vypusk_videokarty_s_64_gb_vram/</guid>
+      <pubDate>Mon, 23 Nov 2026 07:30:00 +0000</pubDate>
+      <description><![CDATA[Флагманская GeForce RTX 5090 оснащена 32 ГБ видеопамяти, но китайская Moore Threads может превзойти этот показатель вдвое. Компания готовит к релизу видеокарту Lushan, которая может получить сразу 64 ГБ [...]]]></description>
+    </item>
+    <item>
+      <title>NVIDIA не смогла решить проблему с износом SSD из-за видеодрайвера</title>
+      <link>https://4pda.to/2026/11/23/463582/nvidia_ne_smogla_reshit_problemu_s_iznosom_ssd_iz_za_videodrajvera/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463582/nvidia_ne_smogla_reshit_problemu_s_iznosom_ssd_iz_za_videodrajvera/</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+      <description><![CDATA[В ответ на жалобы пользователей по поводу чрезмерной записи данных на SSD при работе видеокарты&nbsp;NVIDIA выпустила хотфикс GeForce GameReady 621.35. Но как оказалось, после его установки активность [...]]]></description>
+    </item>
+    <item>
+      <title>Для OLED-мониторов выпустили утилиту, которая делает текст чётче</title>
+      <link>https://4pda.to/2026/11/23/463578/dlya_oled_monitorov_vypustili_utilitu_kotoraya_delaet_tekst_chyotche/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463578/dlya_oled_monitorov_vypustili_utilitu_kotoraya_delaet_tekst_chyotche/</guid>
+      <pubDate>Mon, 23 Nov 2026 06:30:00 +0000</pubDate>
+      <description><![CDATA[Даже дорогие OLED-мониторы не всегда хорошо справляются с отображением мелкого текста: вокруг букв могут появляться цветные контуры. Новое бесплатное приложение OLEDTextFix помогает более заметно подавить [...]]]></description>
+    </item>
+    <item>
+      <title>Samsung разрабатывает свою альтернативу Dynamic Island для смартфонов</title>
+      <link>https://4pda.to/2026/11/23/463579/samsung_razrabatyvaet_svoyu_alternativu_dynamic_island_dlya_smartfonov/</link>
+      <guid isPermaLink="false">https://4pda.to/2026/11/23/463579/samsung_razrabatyvaet_svoyu_alternativu_dynamic_island_dlya_smartfonov/</guid>
+      <pubDate>Mon, 23 Nov 2026 06:00:00 +0000</pubDate>
+      <description><![CDATA[Samsung готовит крупное обновление интерактивной панели Now Bar, которая служит для отображения
+уведомлений о текущих действиях пользователя. В тестовой версии утилиты для серии
+Galaxy S27 журналисты обнаружили [...]]]></description>
     </item>
   </channel>
 </rss>
